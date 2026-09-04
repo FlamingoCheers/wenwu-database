@@ -1,0 +1,686 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>文物数据库 · 检索前端设计稿 v1</title>
+<style>
+  :root{
+    --paper:#F6F1E7; --paper-2:#EFE8DA; --card:#FCFAF5;
+    --ink:#221D15; --ink-2:#6F6557; --line:#DDD3C0;
+    --amber:#B0722A; --green:#4E7C6A; --red:#9C3D2E;
+    --serif:"Noto Serif SC","Source Han Serif SC","Songti SC",SimSun,Georgia,serif;
+    --sans:-apple-system,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+    --mono:Consolas,"Courier New",monospace;
+    --ease:cubic-bezier(.22,.61,.36,1);
+    --r:10px;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{background:var(--paper);color:var(--ink);font-family:var(--sans);
+    font-size:15px;line-height:1.65;
+    border-top:5px solid transparent;
+    border-image:radial-gradient(circle,var(--amber) 1.4px,transparent 1.7px) 5/0 0 0 0;
+  }
+  /* 联珠纹顶带（CSS 点阵实现） */
+  .pearl-band{height:6px;background-image:radial-gradient(circle,var(--amber) 1.5px,transparent 1.8px);
+    background-size:16px 6px;background-position:center;opacity:.85}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1160px;margin:0 auto;padding:0 32px}
+
+  /* ── 设计稿标注 ───────────────────────── */
+  .spec-label{display:flex;align-items:center;gap:14px;margin:64px 0 22px;
+    font-family:var(--mono);font-size:11px;letter-spacing:.22em;color:var(--amber)}
+  .spec-label::before,.spec-label::after{content:"";height:1px;background:var(--line);flex:0 0 40px}
+  .spec-label::after{flex:1}
+  .note{font-size:12.5px;color:var(--ink-2);margin:-10px 0 18px;max-width:640px}
+
+  /* ── 浏览器窗框 ───────────────────────── */
+  .browser{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;
+    box-shadow:0 24px 60px -30px rgba(34,29,21,.25)}
+  .chrome{display:flex;align-items:center;gap:14px;padding:11px 18px;background:var(--paper-2);
+    border-bottom:1px solid var(--line)}
+  .chrome .dots{display:flex;gap:6px}
+  .chrome .dots i{width:10px;height:10px;border-radius:50%;background:var(--line)}
+  .chrome .dots i:first-child{background:var(--red);opacity:.55}
+  .chrome .url{flex:1;text-align:center;font-family:var(--mono);font-size:11.5px;color:var(--ink-2);
+    background:var(--card);border:1px solid var(--line);border-radius:6px;padding:4px 12px;max-width:340px;margin:0 auto}
+
+  /* ── 站点 Header ─────────────────────── */
+  header{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:28px;
+    padding:16px 40px;background:rgba(252,250,245,.88);backdrop-filter:blur(8px);
+    border-bottom:1px solid var(--line)}
+  .logo{display:flex;align-items:center;gap:11px}
+  .logo svg{width:30px;height:30px;color:var(--amber)}
+  .logo b{font-family:var(--serif);font-size:17px;font-weight:600;letter-spacing:.12em}
+  .logo span{font-family:var(--mono);font-size:10px;color:var(--ink-2);letter-spacing:.08em;display:block;margin-top:1px}
+  nav{display:flex;gap:26px;margin-left:18px;font-size:13.5px;color:var(--ink-2)}
+  nav a{padding:4px 0;border-bottom:2px solid transparent;transition:.2s var(--ease)}
+  nav a.on,nav a:hover{color:var(--ink);border-bottom-color:var(--amber)}
+  .gh{margin-left:auto;font-family:var(--mono);font-size:12px;color:var(--ink-2);display:flex;align-items:center;gap:7px;
+    border:1px solid var(--line);border-radius:20px;padding:6px 14px;transition:.2s var(--ease)}
+  .gh:hover{color:var(--ink);border-color:var(--amber)}
+
+  /* ── Hero ────────────────────────────── */
+  .hero{position:relative;text-align:center;padding:84px 32px 56px;overflow:hidden}
+  .hero .ring{position:absolute;border-radius:50%;pointer-events:none}
+  .hero .r1{width:560px;height:560px;top:-210px;right:-140px;
+    border:5px dotted var(--ink);opacity:.07;animation:spin 160s linear infinite}
+  .hero .r2{width:340px;height:340px;bottom:-150px;left:-90px;
+    border:4px dotted var(--amber);opacity:.12;animation:spin 120s linear infinite reverse}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  .hero .flower{width:44px;height:44px;color:var(--amber);margin-bottom:22px;animation:rise .6s var(--ease) both}
+  .hero h1{font-family:var(--serif);font-size:44px;font-weight:600;letter-spacing:.14em;animation:rise .6s .08s var(--ease) both}
+  .hero h1 em{font-style:normal;color:var(--amber)}
+  .hero p{color:var(--ink-2);margin:14px 0 34px;font-size:15px;animation:rise .6s .16s var(--ease) both}
+  @keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+
+  /* 搜索框 */
+  .search{position:relative;max-width:640px;margin:0 auto;animation:rise .6s .24s var(--ease) both}
+  .search input{width:100%;padding:17px 56px 17px 24px;font-size:15.5px;font-family:var(--sans);
+    color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:999px;outline:none;
+    transition:border-color .25s var(--ease),box-shadow .25s var(--ease)}
+  .search input::placeholder{color:#A79B88}
+  .search input:focus{border-color:var(--amber);box-shadow:0 0 0 4px rgba(176,114,42,.10)}
+  .search .go{position:absolute;right:7px;top:7px;bottom:7px;width:44px;border:none;border-radius:999px;
+    background:var(--amber);color:#FCFAF5;font-size:16px;cursor:pointer;transition:.2s var(--ease)}
+  .search .go:hover{background:#96601F}
+  .quick{margin-top:18px;display:flex;gap:9px;justify-content:center;flex-wrap:wrap}
+  .chip{font-size:12.5px;color:var(--ink-2);border:1px solid var(--line);background:transparent;
+    border-radius:999px;padding:5px 15px;cursor:pointer;transition:.2s var(--ease);font-family:var(--sans)}
+  .chip:hover{color:var(--ink);border-color:var(--ink-2)}
+  .chip.on{color:var(--amber);border-color:var(--amber);background:rgba(176,114,42,.06)}
+  .stat{margin-top:26px;font-size:12.5px;color:var(--ink-2);letter-spacing:.05em;animation:rise .6s .32s var(--ease) both}
+  .stat b{font-family:var(--serif);color:var(--ink);font-size:15px}
+
+  /* ── 筛选行 ─────────────────────────── */
+  .filterbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;padding:20px 40px;
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:rgba(239,232,218,.4)}
+  .filterbar .lab{font-size:12px;color:var(--ink-2);letter-spacing:.1em;margin-right:2px}
+  .filterbar .cnt{margin-left:auto;font-family:var(--mono);font-size:12px;color:var(--ink-2)}
+
+  /* ── 结果网格 ───────────────────────── */
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:22px;padding:30px 40px 44px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;
+    cursor:pointer;transition:transform .25s var(--ease),box-shadow .25s var(--ease),border-color .25s var(--ease);
+    opacity:0;transform:translateY(14px)}
+  .card.in{opacity:1;transform:none;transition:opacity .5s var(--ease),transform .5s var(--ease),box-shadow .25s var(--ease),border-color .25s var(--ease)}
+  .card:hover{transform:translateY(-3px);box-shadow:0 18px 36px -18px rgba(34,29,21,.28);border-color:var(--amber)}
+  .card .ph{position:relative;aspect-ratio:4/5;overflow:hidden;background:var(--paper-2)}
+  .card .ph img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .45s var(--ease)}
+  .card:hover .ph img{transform:scale(1.035)}
+  .badge{position:absolute;top:10px;left:10px;font-family:var(--serif);font-size:12px;letter-spacing:.1em;
+    background:rgba(252,250,245,.92);color:var(--ink);padding:3px 10px;border-radius:999px;border:1px solid rgba(34,29,21,.08)}
+  .card .bd{padding:13px 15px 15px}
+  .card .bd h3{font-family:var(--serif);font-size:15.5px;font-weight:600;line-height:1.4;
+    display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+  .card .bd .mu{font-size:12px;color:var(--ink-2);margin-top:3px}
+  .card .bd .tg{display:flex;gap:6px;margin-top:9px;flex-wrap:wrap}
+  .card .bd .tg i{font-style:normal;font-size:11px;color:var(--green);border:1px solid rgba(78,124,106,.35);
+    border-radius:4px;padding:1px 7px}
+  .pager{display:flex;gap:7px;justify-content:center;padding:0 40px 46px}
+  .pager span{min-width:34px;height:34px;display:grid;place-items:center;font-family:var(--mono);font-size:12.5px;
+    border:1px solid var(--line);border-radius:8px;color:var(--ink-2);cursor:pointer;transition:.2s var(--ease)}
+  .pager span:hover{border-color:var(--amber);color:var(--amber)}
+  .pager .cur{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+
+  /* ── 详情视图 ───────────────────────── */
+  .detail{display:grid;grid-template-columns:400px 1fr;gap:0;background:var(--card);
+    border:1px solid var(--line);border-radius:14px;overflow:hidden;
+    box-shadow:0 24px 60px -30px rgba(34,29,21,.25)}
+  .detail .fig{position:relative;background:var(--paper-2);min-height:480px}
+  .detail .fig img{width:100%;height:100%;object-fit:cover;display:block}
+  .detail .fig .badge{top:14px;left:14px}
+  .detail .info{padding:38px 42px}
+  .detail h2{font-family:var(--serif);font-size:27px;font-weight:600;letter-spacing:.04em}
+  .detail .alias{color:var(--ink-2);font-size:13.5px;margin-top:5px}
+  .pearl-line{height:5px;margin:20px 0 22px;background-image:radial-gradient(circle,var(--amber) 1.4px,transparent 1.7px);
+    background-size:14px 5px;background-position:left center;opacity:.7}
+  .meta{display:grid;grid-template-columns:88px 1fr;row-gap:9px;font-size:13.5px}
+  .meta dt{color:var(--ink-2)}
+  .meta dd a{border-bottom:1px dashed var(--amber);color:var(--amber)}
+  .detail .desc{margin-top:20px;font-size:14px;color:#4A4237}
+  .detail .act{display:flex;gap:12px;margin-top:26px}
+  .btn{font-size:13px;border-radius:8px;padding:9px 20px;cursor:pointer;transition:.2s var(--ease);border:1px solid var(--ink)}
+  .btn.dark{background:var(--ink);color:var(--paper)}
+  .btn.dark:hover{background:#000}
+  .btn.ghost{background:transparent;color:var(--ink)}
+  .btn.ghost:hover{border-color:var(--amber);color:var(--amber)}
+  .detail .lic{margin-top:22px;font-family:var(--mono);font-size:11px;color:var(--ink-2)}
+
+  /* ── 设计系统 ───────────────────────── */
+  .sys{display:grid;gap:26px}
+  .sys h4{font-size:12px;font-family:var(--mono);letter-spacing:.2em;color:var(--ink-2);margin-bottom:12px}
+  .swatches{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px}
+  .sw{border:1px solid var(--line);border-radius:var(--r);overflow:hidden;background:var(--card)}
+  .sw .c{height:64px}
+  .sw .t{padding:10px 12px;font-size:12px;line-height:1.5}
+  .sw .t b{display:block;font-size:12.5px}
+  .sw .t code{font-family:var(--mono);color:var(--ink-2);font-size:11px}
+  .types{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  .type{border:1px solid var(--line);border-radius:var(--r);background:var(--card);padding:20px 22px}
+  .type .demo-serif{font-family:var(--serif);font-size:30px;letter-spacing:.1em}
+  .type .demo-sans{font-size:15px}
+  .type small{display:block;color:var(--ink-2);font-size:11.5px;margin-top:8px;font-family:var(--mono)}
+  .motifs{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  .motif{border:1px solid var(--line);border-radius:var(--r);background:var(--card);padding:24px;text-align:center}
+  .motif svg{width:64px;height:64px;color:var(--amber);margin-bottom:12px}
+  .motif .divider-svg{width:150px;height:20px;color:var(--amber)}
+  .motif b{font-family:var(--serif);font-size:14px;letter-spacing:.1em;display:block}
+  .motif small{color:var(--ink-2);font-size:11.5px;display:block;margin-top:5px;line-height:1.5}
+  .tokens{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+  .tok{border:1px solid var(--line);border-radius:var(--r);background:var(--card);padding:16px 20px;font-size:13px}
+  .tok code{font-family:var(--mono);color:var(--amber);font-size:12px}
+  .tok small{color:var(--ink-2);display:block;margin-top:3px;font-size:12px}
+
+  /* ── 页脚 / 杂项 ────────────────────── */
+  footer{margin-top:72px;background:var(--ink);color:#CFC6B6;padding:36px 40px;
+    display:flex;align-items:center;gap:18px;flex-wrap:wrap}
+  footer b{color:var(--paper);font-family:var(--serif);letter-spacing:.1em}
+  footer .cc{margin-left:auto;font-family:var(--mono);font-size:11px;opacity:.75}
+  .hidden{display:none!important}
+
+  @media (prefers-reduced-motion:reduce){
+    *,*::before,*::after{animation:none!important;transition:none!important}
+    .card{opacity:1;transform:none}
+  }
+  @media (max-width:860px){
+    .detail{grid-template-columns:1fr}
+    .types,.motifs,.tokens{grid-template-columns:1fr}
+    header{padding:14px 20px} nav{display:none}
+  }
+</style>
+</head>
+<body>
+<div class="pearl-band"></div>
+
+<!-- ═══ 设计稿标注 ① ═══ -->
+<div class="wrap">
+  <div class="spec-label" style="margin-top:48px">SPEC 01 · 检索首页（主视图 · 含交互演示）</div>
+  <p class="note">下方为可交互原型：搜索框、朝代/类别筛选均可真实过滤卡片；数据为库中 12 件真实文物（CC0 图源热链）。</p>
+
+  <div class="browser">
+    <div class="chrome"><div class="dots"><i></i><i></i><i></i></div><div class="url">wenwu-database.pages.dev</div></div>
+
+    <header>
+      <a class="logo" href="#">
+        <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <circle cx="24" cy="24" r="5" stroke-width="2.4"/>
+          <circle cx="24" cy="24" r="12.5" stroke-width="1.4" stroke-dasharray="0.1 5.4" stroke-linecap="round"/>
+          <g stroke-width="1.9">
+            <ellipse cx="24" cy="9.5" rx="4.6" ry="7"/><ellipse cx="24" cy="38.5" rx="4.6" ry="7"/>
+            <ellipse cx="9.5" cy="24" rx="7" ry="4.6"/><ellipse cx="38.5" cy="24" rx="7" ry="4.6"/>
+            <ellipse cx="13.6" cy="13.6" rx="4.4" ry="6.6" transform="rotate(-45 13.6 13.6)"/>
+            <ellipse cx="34.4" cy="34.4" rx="4.4" ry="6.6" transform="rotate(-45 34.4 34.4)"/>
+            <ellipse cx="34.4" cy="13.6" rx="4.4" ry="6.6" transform="rotate(45 34.4 13.6)"/>
+            <ellipse cx="13.6" cy="34.4" rx="4.4" ry="6.6" transform="rotate(45 13.6 34.4)"/>
+          </g>
+        </svg>
+        <span style="display:inline-block"><b>文物数据库</b><span>WENWU DATABASE</span></span>
+      </a>
+      <nav>
+        <a class="on" href="#">检索</a><a href="#">朝代</a><a href="#">类别</a><a href="#">关于</a>
+      </nav>
+      <a class="gh" href="#">★ GitHub</a>
+    </header>
+
+    <section class="hero">
+      <div class="ring r1"></div><div class="ring r2"></div>
+      <svg class="flower" viewBox="0 0 48 48" fill="none" stroke="currentColor" aria-hidden="true" style="margin:0 auto 22px;display:block">
+        <circle cx="24" cy="24" r="5" stroke-width="2.4"/>
+        <circle cx="24" cy="24" r="12.5" stroke-width="1.4" stroke-dasharray="0.1 5.4" stroke-linecap="round"/>
+        <g stroke-width="1.9">
+          <ellipse cx="24" cy="9.5" rx="4.6" ry="7"/><ellipse cx="24" cy="38.5" rx="4.6" ry="7"/>
+          <ellipse cx="9.5" cy="24" rx="7" ry="4.6"/><ellipse cx="38.5" cy="24" rx="7" ry="4.6"/>
+          <ellipse cx="13.6" cy="13.6" rx="4.4" ry="6.6" transform="rotate(-45 13.6 13.6)"/>
+          <ellipse cx="34.4" cy="34.4" rx="4.4" ry="6.6" transform="rotate(-45 34.4 34.4)"/>
+          <ellipse cx="34.4" cy="13.6" rx="4.4" ry="6.6" transform="rotate(45 34.4 13.6)"/>
+          <ellipse cx="13.6" cy="34.4" rx="4.4" ry="6.6" transform="rotate(45 13.6 34.4)"/>
+        </g>
+      </svg>
+      <h1>寻器<em>·</em>问道</h1>
+      <p>聚合全球博物馆公开数据的中国文物检索库 —— 每一件器物，都是一段可以触摸的历史。</p>
+      <div class="search">
+        <input id="q" type="search" placeholder="搜索文物名称、朝代、类别…  试试：唐 / 铜镜 / 瓷" autocomplete="off">
+        <button class="go" aria-label="搜索">⌕</button>
+      </div>
+      <div class="quick" id="dynChips"></div>
+      <div class="stat"><b id="totalN">—</b> 件文物 · <b>2</b> 家博物馆 · <b>5,239</b> 条记录 · 数据每周自动更新</div>
+    </section>
+
+    <div class="filterbar">
+      <span class="lab">类别</span>
+      <span id="catChips" style="display:contents"></span>
+      <span class="cnt" id="cnt">—</span>
+    </div>
+
+    <section class="grid" id="grid"></section>
+
+    <div class="pager"><span>‹</span><span class="cur">1</span><span>2</span><span>3</span><span>…</span><span>436</span><span>›</span></div>
+  </div>
+</div>
+
+<!-- ═══ 设计稿标注 ② ═══ -->
+<div class="wrap">
+  <div class="spec-label">SPEC 02 · 详情视图（点击卡片后的弹层）</div>
+  <p class="note">左图右档；出处以「朝代 · 年代」为轴心，保留馆藏编号与 CC0 授权信息，可直接作为文章引用来源。</p>
+
+  <div class="detail" id="detail">
+    <div class="fig"><span class="badge" id="dBadge"></span><img id="dImg" alt="" loading="lazy"></div>
+    <div class="info">
+      <h2 id="dName"></h2>
+      <div class="alias" id="dAlias"></div>
+      <div class="pearl-line"></div>
+      <dl class="meta">
+        <dt>朝代</dt><dd id="dDyn"></dd>
+        <dt>年代</dt><dd id="dYear"></dd>
+        <dt>类别</dt><dd id="dCat"></dd>
+        <dt>材质</dt><dd id="dMat"></dd>
+        <dt>尺寸</dt><dd id="dDim"></dd>
+        <dt>收藏</dt><dd id="dMu"></dd>
+        <dt>编号</dt><dd id="dInv"></dd>
+      </dl>
+      <p class="desc" id="dDesc"></p>
+      <div class="quick" id="dTags" style="justify-content:flex-start;margin-top:16px"></div>
+      <div class="act">
+        <button class="btn dark">查看来源页面 ↗</button>
+        <button class="btn ghost">加入选题清单</button>
+      </div>
+      <div class="lic" id="dLic"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ 设计稿标注 ③ ═══ -->
+<div class="wrap">
+  <div class="spec-label">SPEC 03 · 设计系统</div>
+  <p class="note">宣纸底 + 墨色 + 赭金主强调；唐代纹样只出现在「logo / 分隔线 / 背景水印」三处，克制不抢内容。</p>
+
+  <div class="sys">
+    <div>
+      <h4>COLOR · 色板</h4>
+      <div class="swatches">
+        <div class="sw"><div class="c" style="background:#F6F1E7"></div><div class="t"><b>宣纸</b><code>#F6F1E7 · 底色</code></div></div>
+        <div class="sw"><div class="c" style="background:#FCFAF5"></div><div class="t"><b>卡纸</b><code>#FCFAF5 · 卡片</code></div></div>
+        <div class="sw"><div class="c" style="background:#221D15"></div><div class="t"><b>墨</b><code>#221D15 · 正文</code></div></div>
+        <div class="sw"><div class="c" style="background:#B0722A"></div><div class="t"><b>赭金</b><code>#B0722A · 强调/CTA</code></div></div>
+        <div class="sw"><div class="c" style="background:#4E7C6A"></div><div class="t"><b>石绿</b><code>#4E7C6A · 标签/辅助</code></div></div>
+        <div class="sw"><div class="c" style="background:#9C3D2E"></div><div class="t"><b>绛</b><code>#9C3D2E · 点缀(极少)</code></div></div>
+      </div>
+    </div>
+
+    <div>
+      <h4>TYPE · 字体</h4>
+      <div class="types">
+        <div class="type"><div class="demo-serif">寻器问道 · 唐三彩</div><small>标题 / 文物名 — Noto Serif SC（正式版打包 woff2 子集，设计稿用系统宋体回退）</small></div>
+        <div class="type"><div class="demo-sans">聚合全球博物馆公开数据的中国文物检索库，支持朝代、类别与自由文本检索。</div><small>正文 / 界面 — 系统无衬线（PingFang / Microsoft YaHei）</small></div>
+      </div>
+    </div>
+
+    <div>
+      <h4>PATTERN · 唐代纹样（三式）</h4>
+      <div class="motifs">
+        <div class="motif">
+          <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" aria-hidden="true">
+            <circle cx="24" cy="24" r="5" stroke-width="2.4"/>
+            <circle cx="24" cy="24" r="12.5" stroke-width="1.4" stroke-dasharray="0.1 5.4" stroke-linecap="round"/>
+            <g stroke-width="1.9">
+              <ellipse cx="24" cy="9.5" rx="4.6" ry="7"/><ellipse cx="24" cy="38.5" rx="4.6" ry="7"/>
+              <ellipse cx="9.5" cy="24" rx="7" ry="4.6"/><ellipse cx="38.5" cy="24" rx="7" ry="4.6"/>
+              <ellipse cx="13.6" cy="13.6" rx="4.4" ry="6.6" transform="rotate(-45 13.6 13.6)"/>
+              <ellipse cx="34.4" cy="34.4" rx="4.4" ry="6.6" transform="rotate(-45 34.4 34.4)"/>
+              <ellipse cx="34.4" cy="13.6" rx="4.4" ry="6.6" transform="rotate(45 34.4 13.6)"/>
+              <ellipse cx="13.6" cy="34.4" rx="4.4" ry="6.6" transform="rotate(45 13.6 34.4)"/>
+            </g>
+          </svg>
+          <b>宝相花</b><small>品牌记号：logo、加载态、空状态插图，单色线描</small>
+        </div>
+        <div class="motif">
+          <div style="height:64px;display:grid;place-items:center">
+            <div style="width:150px;height:5px;background-image:radial-gradient(circle,var(--amber) 1.5px,transparent 1.8px);background-size:16px 5px;background-position:center"></div>
+          </div>
+          <b>联珠纹</b><small>分隔线 / 页面顶带：CSS 点阵实现，主色或墨色 10% 透明</small>
+        </div>
+        <div class="motif">
+          <div style="height:64px;display:grid;place-items:center">
+            <svg class="divider-svg" viewBox="0 0 150 20" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+              <path d="M4 10 C 22 10, 26 3, 36 3 C 45 3, 45 15, 36 15 C 29 15, 29 7, 36 7"/>
+              <circle cx="75" cy="10" r="2.6" fill="currentColor" stroke="none"/>
+              <path d="M146 10 C 128 10, 124 3, 114 3 C 105 3, 105 15, 114 15 C 121 15, 121 7, 114 7"/>
+              <path d="M52 10 L 66 10 M 84 10 L 98 10" stroke-dasharray="1.5 4.5" stroke-linecap="round"/>
+            </svg>
+          </div>
+          <b>卷草纹</b><small>区块标题下装饰线：双卷草对生 + 中间联珠点</small>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <h4>MOTION · 动效规范（克制）</h4>
+      <div class="tokens">
+        <div class="tok"><code>fast · 180–250ms</code><small>悬停反馈：卡片上浮 3px / 图放大 1.035 / 描边转赭金。只改变 transform 与阴影，不触发重排。</small></div>
+        <div class="tok"><code>enter · 400–500ms</code><small>入场：一次性上浮淡入（hero 依次错峰 80ms；卡片按序错峰 40ms），滚动进入视口触发，不循环。</small></div>
+        <div class="tok"><code>ease · cubic-bezier(.22,.61,.36,1)</code><small>全局缓动曲线；联珠环 120–160s 极慢自转，作为唯一常驻动效，幅度极低。</small></div>
+        <div class="tok"><code>prefers-reduced-motion</code><small>全量禁用动画，直接呈现终态 —— 无障碍硬性要求。</small></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <b>文物数据库</b><span>wenwu-database · 开源</span>
+  <span class="cc">DATA CC0 — The Metropolitan Museum of Art / The Cleveland Museum of Art · 设计稿 v1.0 · 2026-09-04</span>
+</footer>
+
+<script>
+const ITEMS = [
+ {
+  "id": "CLE-1915-311",
+  "name": "Head of Bodhisattva",
+  "alias": "",
+  "dyn": "唐",
+  "cat": "雕塑",
+  "mat": "dark gray limestone",
+  "dim": "Overall: 24.9 x 17.2 x 9 cm (9 13/16 x 6 3/4 x 3 9/16 in.)",
+  "year": "618–907 年",
+  "mu": "克利夫兰艺术博物馆",
+  "inv": "1915.311",
+  "desc": "Head of Bodhisattva, 618–907. China, from Lung-mên, Tang dynasty (618-907). Dark gray limestone; overall: 24.9 x 17.2 x 9 cm (9 13/16 x 6 3/4 x 3 9/16 in.). The Cleveland Museum of",
+  "img": "https://openaccess-cdn.clevelandart.org/1915.311/1915.311_web.jpg",
+  "imgBig": "https://openaccess-cdn.clevelandart.org/1915.311/1915.311_print.jpg",
+  "url": "https://clevelandart.org/art/1915.311",
+  "lic": "CC0 · 克利夫兰艺术博物馆",
+  "tags": [
+   "佛教",
+   "神话宗教",
+   "酒文化"
+  ],
+  "detail": true
+ },
+ {
+  "id": "CLE-1915-379",
+  "name": "Bowl:  Jun Ware",
+  "alias": "",
+  "dyn": "宋",
+  "cat": "瓷器",
+  "mat": "glazed stoneware",
+  "dim": "Diameter: 22.9 cm (9 in.); Overall: 10.1 cm (4 in.)",
+  "year": "1100–1299 年",
+  "mu": "克利夫兰艺术博物馆",
+  "inv": "1915.379",
+  "desc": "Bowl:  Jun Ware, 1100s-1200s. Northern China, Northern Song dynasty (960-1127) - Jin dynasty (1115-1234). Glazed stoneware; diameter: 22.9 cm (9 in.); overall: 10.1 cm (4 in.). The",
+  "img": "https://openaccess-cdn.clevelandart.org/1915.379/1915.379_web.jpg",
+  "imgBig": "https://openaccess-cdn.clevelandart.org/1915.379/1915.379_print.jpg",
+  "url": "https://clevelandart.org/art/1915.379",
+  "lic": "CC0 · 克利夫兰艺术博物馆",
+  "tags": [
+   "食器",
+   "酒文化",
+   "礼制"
+  ]
+ },
+ {
+  "id": "CLE-1915-110",
+  "name": "Children at Play",
+  "alias": "嬰戲圖",
+  "dyn": "明",
+  "cat": "书画",
+  "mat": "hanging scroll; ink and color on silk",
+  "dim": "Painting: 62.5 x 113.7 cm (24 5/8 x 44 3/4 in.); Overall with knobs: 214 x 137 cm (84 1/4 x 53 15/16 in.)",
+  "year": "1508–1508 年",
+  "mu": "克利夫兰艺术博物馆",
+  "inv": "1915.110",
+  "desc": "Sixteen children engage in scholarly, religious, and military activities, representing the popular “one hundred boys” theme expressing the wish for abundant, successful male offspr",
+  "img": "https://openaccess-cdn.clevelandart.org/1915.110/1915.110_web.jpg",
+  "imgBig": "https://openaccess-cdn.clevelandart.org/1915.110/1915.110_print.jpg",
+  "url": "https://clevelandart.org/art/1915.110",
+  "lic": "CC0 · 克利夫兰艺术博物馆",
+  "tags": [
+   "酒文化",
+   "礼制"
+  ]
+ },
+ {
+  "id": "CLE-1915-352",
+  "name": "Seated Buddha",
+  "alias": "",
+  "dyn": "清",
+  "cat": "玉器",
+  "mat": "jade",
+  "dim": "Overall: 31.6 x 27.4 cm (12 7/16 x 10 13/16 in.)",
+  "year": "1700–1899 年",
+  "mu": "克利夫兰艺术博物馆",
+  "inv": "1915.352",
+  "desc": "Seated Buddha, 1700s–1800s. China, Qing dynasty (1644-1911). Jade; overall: 31.6 x 27.4 cm (12 7/16 x 10 13/16 in.). The Cleveland Museum of Art, Gift of Ralph King, 1915.352",
+  "img": "https://openaccess-cdn.clevelandart.org/1915.352/1915.352_web.jpg",
+  "imgBig": "https://openaccess-cdn.clevelandart.org/1915.352/1915.352_print.jpg",
+  "url": "https://clevelandart.org/art/1915.352",
+  "lic": "CC0 · 克利夫兰艺术博物馆",
+  "tags": [
+   "佛教",
+   "神话宗教",
+   "酒文化"
+  ]
+ },
+ {
+  "id": "CLE-1915-232",
+  "name": "Sword",
+  "alias": "",
+  "dyn": "汉",
+  "cat": "青铜器",
+  "mat": "bronze",
+  "dim": "Overall: 7 cm (2 3/4 in.)",
+  "year": "-206–220 年",
+  "mu": "克利夫兰艺术博物馆",
+  "inv": "1915.232",
+  "desc": "Sword, 206 BCE–220 CE. China, Han dynasty (202 BCE–220 CE). Bronze; overall: 7 cm (2 3/4 in.). The Cleveland Museum of Art, Worcester R. Warner Collection, 1915.232",
+  "img": "https://openaccess-cdn.clevelandart.org/1915.232/1915.232_web.jpg",
+  "imgBig": "https://openaccess-cdn.clevelandart.org/1915.232/1915.232_print.jpg",
+  "url": "https://clevelandart.org/art/1915.232",
+  "lic": "CC0 · 克利夫兰艺术博物馆",
+  "tags": [
+   "战争",
+   "兵器",
+   "酒文化"
+  ]
+ },
+ {
+  "id": "CLE-1918-933",
+  "name": "Lotus Dish",
+  "alias": "",
+  "dyn": "元",
+  "cat": "漆器",
+  "mat": "Carved cinnabar-red lacquer on wood",
+  "dim": "Overall: 15.9 cm (6 1/4 in.)",
+  "year": "1271–1368 年",
+  "mu": "克利夫兰艺术博物馆",
+  "inv": "1918.933",
+  "desc": "Lotus Dish, 1271–1368. China, Yuan dynasty (1271-1368). Carved cinnabar-red lacquer on wood; overall: 15.9 cm (6 1/4 in.). The Cleveland Museum of Art, Gift of the John Huntington ",
+  "img": "https://openaccess-cdn.clevelandart.org/1918.933/1918.933_web.jpg",
+  "imgBig": "https://openaccess-cdn.clevelandart.org/1918.933/1918.933_print.jpg",
+  "url": "https://clevelandart.org/art/1918.933",
+  "lic": "CC0 · 克利夫兰艺术博物馆",
+  "tags": [
+   "食器",
+   "酒文化",
+   "礼制"
+  ]
+ },
+ {
+  "id": "CLE-1970-58",
+  "name": "Groom (Tomb Figure)",
+  "alias": "",
+  "dyn": "隋",
+  "cat": "陶器",
+  "mat": "buff earthenware with polychromy",
+  "dim": "Overall: 21 x 8.3 cm (8 1/4 x 3 1/4 in.)",
+  "year": "575–625 年",
+  "mu": "克利夫兰艺术博物馆",
+  "inv": "1970.58",
+  "desc": "Groom (Tomb Figure), late 500s–early 600s. China, Sui dynasty (581-618) - Tang dynasty (618-907). Buff earthenware with polychromy; overall: 21 x 8.3 cm (8 1/4 x 3 1/4 in.). The Cl",
+  "img": "https://openaccess-cdn.clevelandart.org/1970.58/1970.58_web.jpg",
+  "imgBig": "https://openaccess-cdn.clevelandart.org/1970.58/1970.58_print.jpg",
+  "url": "https://clevelandart.org/art/1970.58",
+  "lic": "CC0 · 克利夫兰艺术博物馆",
+  "tags": [
+   "丧葬",
+   "明器",
+   "酒文化"
+  ]
+ },
+ {
+  "id": "MET-38882",
+  "name": "Head of a Buddha",
+  "alias": "",
+  "dyn": "五代十国",
+  "cat": "杂器",
+  "mat": "Stone",
+  "dim": "H. 8 in. (20.3 cm); W. 6 in. (15.2 cm)",
+  "year": "950–999 年",
+  "mu": "大都会艺术博物馆",
+  "inv": "85.11.12",
+  "desc": "Head。Cambodia",
+  "img": "https://images.metmuseum.org/CRDImages/as/original/85_11_12.jpg",
+  "imgBig": "https://images.metmuseum.org/CRDImages/as/original/85_11_12.jpg",
+  "url": "https://www.metmuseum.org/art/collection/search/38882",
+  "lic": "CC0 · 大都会艺术博物馆",
+  "tags": [
+   "佛教",
+   "神话宗教"
+  ]
+ },
+ {
+  "id": "CLE-1915-627",
+  "name": "Perforated Disc (pi)",
+  "alias": "",
+  "dyn": "新石器时代",
+  "cat": "玉器",
+  "mat": "jade",
+  "dim": "Diameter: 23.5 cm (9 1/4 in.); Inner diameter: 7 cm (2 3/4 in.)",
+  "year": "-3000–-2000 年",
+  "mu": "克利夫兰艺术博物馆",
+  "inv": "1915.627",
+  "desc": "Perforated Disc (pi), 3000–2000 BCE. China, Neolithic period (3000s–2000s BCE). Jade; diameter: 23.5 cm (9 1/4 in.); inner diameter: 7 cm (2 3/4 in.). The Cleveland Museum of Art, ",
+  "img": "https://openaccess-cdn.clevelandart.org/1915.627/1915.627_web.jpg",
+  "imgBig": "https://openaccess-cdn.clevelandart.org/1915.627/1915.627_print.jpg",
+  "url": "https://clevelandart.org/art/1915.627",
+  "lic": "CC0 · 克利夫兰艺术博物馆",
+  "tags": [
+   "酒文化",
+   "礼制"
+  ]
+ },
+ {
+  "id": "CLE-1915-403",
+  "name": "Buckle",
+  "alias": "",
+  "dyn": "唐",
+  "cat": "金银器",
+  "mat": "silver",
+  "dim": "Overall: 5.8 cm (2 5/16 in.)",
+  "year": "618–907 年",
+  "mu": "克利夫兰艺术博物馆",
+  "inv": "1915.403",
+  "desc": "Buckle, 618–907. China, Tang dynasty (618–907). Silver; overall: 5.8 cm (2 5/16 in.). The Cleveland Museum of Art, General Income Fund, 1915.403",
+  "img": "https://openaccess-cdn.clevelandart.org/1915.403/1915.403_web.jpg",
+  "imgBig": "https://openaccess-cdn.clevelandart.org/1915.403/1915.403_print.jpg",
+  "url": "https://clevelandart.org/art/1915.403",
+  "lic": "CC0 · 克利夫兰艺术博物馆",
+  "tags": [
+   "酒文化",
+   "礼制",
+   "妆饰"
+  ]
+ },
+ {
+  "id": "CLE-1965-569",
+  "name": "Fragment",
+  "alias": "",
+  "dyn": "宋",
+  "cat": "织绣",
+  "mat": "silk gauze",
+  "dim": "Overall: 24.1 x 26.1 cm (9 1/2 x 10 1/4 in.)",
+  "year": "900–999 年",
+  "mu": "克利夫兰艺术博物馆",
+  "inv": "1965.569",
+  "desc": "Fragment, 900s. China, Song dynasty (960-1279). Silk gauze; overall: 24.1 x 26.1 cm (9 1/2 x 10 1/4 in.). The Cleveland Museum of Art, Gift of Mrs. A. Dean Perry, 1965.569",
+  "img": "https://openaccess-cdn.clevelandart.org/1965.569/1965.569_web.jpg",
+  "imgBig": "https://openaccess-cdn.clevelandart.org/1965.569/1965.569_print.jpg",
+  "url": "https://clevelandart.org/art/1965.569",
+  "lic": "CC0 · 克利夫兰艺术博物馆",
+  "tags": [
+   "酒文化",
+   "礼制",
+   "服饰"
+  ]
+ },
+ {
+  "id": "CLE-1932-125",
+  "name": "Blossoms",
+  "alias": "",
+  "dyn": "明",
+  "cat": "竹木牙角",
+  "mat": "color woodblock print",
+  "dim": "Overall: 28.3 x 30.8 cm (11 1/8 x 12 1/8 in.)",
+  "year": "1625–1625 年",
+  "mu": "克利夫兰艺术博物馆",
+  "inv": "1932.125",
+  "desc": "Blossoms, 1625. China, Ming dynasty (1368–1644). Color woodblock print; overall: 28.3 x 30.8 cm (11 1/8 x 12 1/8 in.). The Cleveland Museum of Art, Edward L. Whittemore Fund, 1932.",
+  "img": "https://openaccess-cdn.clevelandart.org/1932.125/1932.125_web.jpg",
+  "imgBig": "https://openaccess-cdn.clevelandart.org/1932.125/1932.125_print.jpg",
+  "url": "https://clevelandart.org/art/1932.125",
+  "lic": "CC0 · 克利夫兰艺术博物馆",
+  "tags": [
+   "酒文化",
+   "礼制"
+  ]
+ }
+];
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+/* 详情视图：取标记的展示件 */
+const det=ITEMS.find(x=>x.detail)||ITEMS[0];
+if(det){
+  $("#dBadge").textContent=det.dyn; $("#dImg").src=det.imgBig||det.img;
+  $("#dName").textContent=det.name; $("#dAlias").textContent=det.alias?("又名："+det.alias):"";
+  $("#dDyn").innerHTML='<a href="#">'+esc(det.dyn)+"</a>";
+  $("#dYear").textContent=det.year||"—"; $("#dCat").textContent=det.cat; $("#dMat").textContent=det.mat||"—";
+  $("#dDim").textContent=det.dim||"—"; $("#dMu").textContent=det.mu; $("#dInv").textContent=det.inv;
+  $("#dDesc").textContent=det.desc||""; $("#dLic").textContent=det.lic;
+  $("#dTags").innerHTML=(det.tags||[]).map(t=>'<span class="chip" style="cursor:default;color:var(--green);border-color:rgba(78,124,106,.35)">'+esc(t)+"</span>").join("");
+}
+
+/* 筛选 chips */
+const dyns=["全部",...new Set(ITEMS.map(x=>x.dyn).filter(d=>d&&d!=="不详"))].slice(0,9);
+let fDyn="全部",fCat="全部";
+$("#dynChips").innerHTML=dyns.map(d=>'<button class="chip'+(d==="全部"?" on":"")+'" data-dyn="'+esc(d)+'">'+esc(d)+"</button>").join("");
+const cats=["全部",...new Set(ITEMS.map(x=>x.cat).filter(Boolean))];
+$("#catChips").innerHTML=cats.slice(0,9).map(c=>'<button class="chip'+(c==="全部"?" on":"")+'" data-cat="'+esc(c)+'">'+esc(c)+"</button>").join("");
+document.body.addEventListener("click",e=>{
+  const b=e.target.closest(".chip");if(!b||!b.dataset.dyn&&!b.dataset.cat)return;
+  if(b.dataset.dyn){fDyn=b.dataset.dyn;[...document.querySelectorAll("[data-dyn]")].forEach(x=>x.classList.toggle("on",x.dataset.dyn===fDyn));}
+  if(b.dataset.cat){fCat=b.dataset.cat;[...document.querySelectorAll("[data-cat]")].forEach(x=>x.classList.toggle("on",x.dataset.cat===fCat));}
+  render();
+});
+
+/* 渲染 + 过滤（真实交互演示） */
+function render(){
+  const q=$("#q").value.trim().toLowerCase();
+  const list=ITEMS.filter(x=>
+    (fDyn==="全部"||x.dyn===fDyn)&&(fCat==="全部"||x.cat===fCat)&&
+    (!q||(x.name+" "+x.dyn+" "+x.cat+" "+(x.tags||[]).join(" ")).toLowerCase().includes(q)));
+  $("#cnt").textContent="共 "+list.length+" 件";
+  $("#grid").innerHTML=list.map((x,i)=>
+    '<article class="card" title="'+esc(x.name)+'">'+
+      '<div class="ph"><img loading="lazy" src="'+esc(x.img)+'" alt="'+esc(x.name)+'"><span class="badge">'+esc(x.dyn)+"</span></div>"+
+      '<div class="bd"><h3>'+esc(x.name)+'</h3><div class="mu">'+esc(x.mu)+" · "+esc(x.inv)+"</div>"+
+      '<div class="tg">'+(x.tags||[]).slice(0,3).map(t=>"<i>"+esc(t)+"</i>").join("")+"</div></div></article>").join("");
+  [...$("#grid").children].forEach((el,i)=>{el.style.transitionDelay=Math.min(i*40,360)+"ms";requestAnimationFrame(()=>requestAnimationFrame(()=>el.classList.add("in")))});
+  if(!list.length)$("#grid").innerHTML='<p style="grid-column:1/-1;text-align:center;color:var(--ink-2);padding:40px 0">未检索到相关文物（演示数据仅 12 件）</p>';
+}
+$("#q").addEventListener("input",render);
+$("#totalN").textContent="5,239";render();
+</script>
+</body>
+</html>
