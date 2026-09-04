@@ -1,0 +1,95 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/<owner>/wenwu-database/schemas/relic.schema.json",
+  "title": "Relic 文物记录",
+  "description": "文物数据库统一 Schema v1。一物一文件，存于 data/relics/{relic_id}.json",
+  "type": "object",
+  "required": ["relic_id", "name", "dynasty", "category", "collection", "source_url", "license", "fetched_at"],
+  "properties": {
+    "relic_id": {
+      "type": "string",
+      "pattern": "^[A-Z]{2,6}-[A-Za-z0-9_-]+$",
+      "description": "本库统一编号，格式 {来源馆代码}-{馆藏号}，如 MET-12345、NMC-xxx"
+    },
+    "name": { "type": "string", "minLength": 1, "description": "文物名称" },
+    "aliases": { "type": "array", "items": { "type": "string" }, "description": "别名/旧称" },
+    "dynasty": {
+      "type": "string",
+      "description": "朝代/年代，须能归一到 data/vocab/dynasties.json 的受控词；无法确定时写 '不详' 并将 dynasty_confidence 置 low"
+    },
+    "dynasty_confidence": {
+      "enum": ["high", "medium", "low"],
+      "default": "high",
+      "description": "朝代判定的置信度（OCR/API 原文模糊时降级）"
+    },
+    "year_range": {
+      "type": "array",
+      "items": { "type": "integer" },
+      "minItems": 2,
+      "maxItems": 2,
+      "description": "数值化年代区间 [起, 止]，公元前用负数；不详时为 [null, null]"
+    },
+    "category": {
+      "type": "string",
+      "enum": ["陶器", "瓷器", "玉器", "青铜器", "书画", "雕塑", "金银器", "漆器", "织绣", "竹木牙角", "玻璃器", "钱币", "甲骨", "碑帖拓本", "文房用具", "宗教造像", "建筑构件", "杂器"],
+      "description": "文物大类，受控词表见 data/vocab/categories.json"
+    },
+    "material": { "type": "string", "description": "材质（自由文本，如 青铜/白瓷/和田玉）" },
+    "dimensions": { "type": "string", "description": "尺寸描述（原文照录）" },
+    "excavated_from": { "type": "string", "description": "出土/来源地；传世品留空" },
+    "collection": {
+      "type": "object",
+      "required": ["museum", "region"],
+      "properties": {
+        "museum": { "type": "string", "description": "收藏机构全名，见 data/museums.json" },
+        "region": {
+          "type": "string",
+          "enum": ["中国大陆", "中国香港", "中国澳门", "中国台湾", "日本", "韩国", "东南亚", "中亚", "西亚", "欧洲", "北美洲", "其他"]
+        },
+        "inventory_no": { "type": "string", "description": "馆藏编号（原文）" }
+      }
+    },
+    "summary": { "type": "string", "maxLength": 300, "description": "基本信息简介，≤100字为宜" },
+    "history": { "type": "string", "description": "历史背景长文介绍（可后续由专家补充）" },
+    "interpretation": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "text": { "type": "string" },
+          "source": { "type": "string", "description": "解读出处（书目/论文），无则不写此条" }
+        },
+        "required": ["text"]
+      },
+      "description": "学术解读要点，须可溯源"
+    },
+    "images": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["url"],
+        "properties": {
+          "url": { "type": "string" },
+          "license": { "type": "string", "description": "图片授权，如 CC0 / ©馆藏(截图已获展示)" },
+          "credit": { "type": "string", "description": "来源标注文案，如 'The Metropolitan Museum of Art, CC0'" }
+        }
+      }
+    },
+    "source_url": { "type": "string", "format": "uri", "description": "数据出处页面/API 条目" },
+    "license": { "type": "string", "description": "数据记录级授权（图片授权在 images 内逐张标注）" },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "主题标签（受控词表 data/vocab/tags.json），选题Agent检索的关键"
+    },
+    "related": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "关联文物 relic_id 列表（组合叙事用）"
+    },
+    "raw_ref": { "type": "string", "description": "B类截图源数据在 raw/ 下的相对路径；A类留空" },
+    "needs_review": { "type": "boolean", "default": false, "description": "质检存疑标记（OCR 低置信/字段缺失）" },
+    "fetched_at": { "type": "string", "format": "date" },
+    "updated_at": { "type": "string", "format": "date" }
+  }
+}

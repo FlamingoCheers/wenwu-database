@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "updated": "2026-09-04",
+  "description": "文物大类受控词表 + 归一别名（小写匹配，供采集器映射）",
+  "categories": [
+    { "key": "陶器", "aliases": ["terracotta", "earthenware", "pottery", "陶", "彩陶", "灰陶", "釉陶", "陶俑"] },
+    { "key": "瓷器", "aliases": ["porcelain", "ceramic", "stoneware", "瓷", "青瓷", "白瓷", "青花", "珐琅彩", "粉彩"] },
+    { "key": "玉器", "aliases": ["jade", "玉", "硬玉", "软玉", "翡翠", "玉器玉雕"] },
+    { "key": "青铜器", "aliases": ["bronze", "青铜", "铜器", "鼎", "簋", "尊", "爵"] },
+    { "key": "书画", "aliases": ["painting", "calligraphy", "绘画", "书法", "扇面", "手卷", "立轴", "册页"] },
+    { "key": "雕塑", "aliases": ["sculpture", "石雕", "石刻", "造像碑", "俑"] },
+    { "key": "金银器", "aliases": ["gold", "silver", "金器", "银器", "鎏金"] },
+    { "key": "漆器", "aliases": ["lacquer", "漆", "剔红", "螺钿"] },
+    { "key": "织绣", "aliases": ["textile", "丝织品", "刺绣", "缂丝", "织物", "服装", "服饰"] },
+    { "key": "竹木牙角", "aliases": ["bamboo", "wood", "ivory", "竹雕", "木雕", "牙雕", "犀角", "葫芦器"] },
+    { "key": "玻璃器", "aliases": ["glass", "琉璃", "料器"] },
+    { "key": "钱币", "aliases": ["coin", "currency", "货币", "布币", "刀币", "铜钱", "银锭", "纸币"] },
+    { "key": "甲骨", "aliases": ["oracle bone", "甲骨文", "卜骨", "卜甲"] },
+    { "key": "碑帖拓本", "aliases": ["rubbing", "拓片", "碑刻", "墓志"] },
+    { "key": "文房用具", "aliases": ["笔墨纸砚", "砚", "笔洗", "镇纸", "印", "印章", "玺印"] },
+    { "key": "宗教造像", "aliases": ["buddhist", "佛像", "菩萨像", "道教造像", "金铜佛"] },
+    { "key": "建筑构件", "aliases": ["architectural", "瓦当", "砖", "鸱吻", "斗拱"] },
+    { "key": "杂器", "aliases": ["miscellaneous", "other", "其他", " miscellaneous"] }
+  ]
+}

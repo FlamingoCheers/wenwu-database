@@ -1,0 +1,99 @@
+{
+  "version": "1.0",
+  "updated": "2026-09-04",
+  "description": "博物馆名录与数据源配置。collector 字段对应 collectors/ 下的模块名。enabled=false 表示尚未接入。",
+  "museums": [
+    {
+      "id": "MET",
+      "name_cn": "大都会艺术博物馆",
+      "name_en": "The Metropolitan Museum of Art",
+      "region": "北美洲",
+      "source_type": "api",
+      "collector": "met_collector",
+      "license": "CC0 (Open Access)",
+      "enabled": true,
+      "notes": "亚洲艺术部 departmentIds=6 为主，可扩展其他部"
+    },
+    {
+      "id": "CLE",
+      "name_cn": "克利夫兰艺术博物馆",
+      "name_en": "The Cleveland Museum of Art",
+      "region": "北美洲",
+      "source_type": "api",
+      "collector": "cleveland_collector",
+      "license": "CC0 (Open Access)",
+      "enabled": false
+    },
+    {
+      "id": "NPM",
+      "name_cn": "台北故宫博物院",
+      "name_en": "National Palace Museum",
+      "region": "中国台湾",
+      "source_type": "api",
+      "collector": "npm_collector",
+      "license": "开放授权（Open Data 专区）",
+      "enabled": false
+    },
+    {
+      "id": "SMI",
+      "name_cn": "史密森尼学会",
+      "name_en": "Smithsonian Institution",
+      "region": "北美洲",
+      "source_type": "api",
+      "collector": "smithsonian_collector",
+      "license": "CC0 为主（逐条核对）",
+      "enabled": false
+    },
+    {
+      "id": "HAR",
+      "name_cn": "哈佛艺术博物馆",
+      "name_en": "Harvard Art Museums",
+      "region": "北美洲",
+      "source_type": "api",
+      "collector": "harvard_collector",
+      "license": "开放授权",
+      "enabled": false
+    },
+    {
+      "id": "BM",
+      "name_cn": "大英博物馆",
+      "name_en": "The British Museum",
+      "region": "欧洲",
+      "source_type": "api",
+      "collector": "bm_collector",
+      "license": "需逐条核对授权",
+      "enabled": false
+    },
+    {
+      "id": "NMC",
+      "name_cn": "中国国家博物馆",
+      "name_en": "National Museum of China",
+      "region": "中国大陆",
+      "source_type": "screenshot",
+      "collector": "nmc_collector",
+      "license": "截图采集，credit 标注馆藏",
+      "enabled": false,
+      "notes": "B类试点馆（已确认）：Playwright 实开网页 + 截图 + OCR，P1 后启动"
+    },
+    {
+      "id": "PM",
+      "name_cn": "故宫博物院",
+      "name_en": "The Palace Museum",
+      "region": "中国大陆",
+      "source_type": "screenshot",
+      "collector": "palace_collector",
+      "license": "截图采集，credit 标注馆藏",
+      "enabled": false
+    },
+    {
+      "id": "HKPM",
+      "name_cn": "香港故宫文化博物馆",
+      "name_en": "Hong Kong Palace Museum",
+      "region": "中国香港",
+      "source_type": "screenshot",
+      "collector": "hkpm_collector",
+      "license": "截图采集，credit 标注馆藏",
+      "enabled": false
+    }
+  ]
+}

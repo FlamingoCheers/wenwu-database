@@ -1,0 +1,35 @@
+# 原始采集数据（体积大、可重取，不入库）
+raw/
+output/*/work/
+*.tmp
+
+# RAG 知识库：原书文本与向量索引仅本地自用，绝不公开
+agents/knowledge/*
+!agents/knowledge/README.md
+
+# 构建产物（由 GitHub Actions 定期重建；本地开发时忽略）
+sqlite/relics.db
+search-index/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node / 前端
+node_modules/
+web/dist/
+web/.astro/
+
+# 环境与密钥
+.env
+.env.*
+*.key
+config/secrets*
+
+# 编辑器/系统
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

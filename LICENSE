@@ -1,0 +1,34 @@
+MIT License
+
+Copyright (c) 2026 wenwu-database contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+DATA LICENSE NOTICE（数据授权说明）
+
+本仓库中的代码以 MIT 授权。data/ 目录下的文物数据记录为对各博物馆公开数据
+的整理与聚合，每条记录的 images[].license 与 license 字段标注了其原始授权，
+使用数据时请遵循对应来源机构（博物馆）的使用条款，并保留来源标注（credit）。
+
+- A 类来源（API/Open Access）：遵循各馆 Open Access 条款（如大都会博物馆 CC0）
+- B 类来源（截图+OCR 采集）：版权归各馆藏机构所有，本库仅以"注明来源的引用"
+  方式收录检索信息；图片使用请遵循各馆规定
+- 知识库（agents/knowledge/）：书目原文与向量索引不入库、不分发
