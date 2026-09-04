@@ -11,7 +11,7 @@ permissions:
 jobs:
   collect-and-build:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 360   # 首次全量爬 Met 约 3.5h；之后每周增量只需几分钟
     steps:
       - uses: actions/checkout@v4
 
