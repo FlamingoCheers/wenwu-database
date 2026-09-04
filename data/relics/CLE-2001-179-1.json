@@ -1,0 +1,47 @@
+{
+ "relic_id": "CLE-2001-179-1",
+ "name": "Headdress Ornament",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1700,
+  1899
+ ],
+ "category": "金银器",
+ "material": "Copper-silver alloy, gilding, kingfisher feathers, glass beads",
+ "dimensions": "Overall: 22 x 28.5 cm (8 11/16 x 11 1/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2001.179.1"
+ },
+ "summary": "Hair ornaments depicting flowers, butterflies, or birds were worn by ladies of the Manchu elite class.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2001.179.1/2001.179.1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2001.179.1/2001.179.1_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2001.179.1",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

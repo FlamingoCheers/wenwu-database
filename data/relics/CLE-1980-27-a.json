@@ -1,0 +1,56 @@
+{
+ "relic_id": "CLE-1980-27-a",
+ "name": "Teapot with Landscape and Imperial Poem",
+ "aliases": [
+  "山水御製詩貼金宜興壺"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1762,
+  1795
+ ],
+ "category": "瓷器",
+ "material": "Stoneware, with gold pigment, Yixing ware",
+ "dimensions": "Diameter: 10.8 cm (4 1/4 in.); with spout: 15 cm (5 7/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1980.27.a"
+ },
+ "summary": "This teapot with a polished surface shows an imperial poem in gold on one side and a landscape on the other. The poem in archaic seal script was composed by the Qianlong emperor on his third southern inspection tour in 1762, when he traveled to southern China to solidify his rule. The base bears a s",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1980.27.a/1980.27.a_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1980.27.a/1980.27.a_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1980.27.a/1980.27.a_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1980.27.a",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水",
+  "茶文化",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

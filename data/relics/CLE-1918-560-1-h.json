@@ -1,0 +1,49 @@
+{
+ "relic_id": "CLE-1918-560-1-h",
+ "name": "Ceremonial Uniform: Front Metal Plate",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1644,
+  1911
+ ],
+ "category": "杂器",
+ "material": "metal (brass?); lined in blue silk",
+ "dimensions": "Overall: 14.6 x 14.6 x 2.9 cm (5 3/4 x 5 3/4 x 1 1/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1918.560.1.h"
+ },
+ "summary": "Ceremonial Uniform: Front Metal Plate, 1644–1911. China, Qing dynasty (1644-1911). Metal (brass?); lined in blue silk; overall: 14.6 x 14.6 x 2.9 cm (5 3/4 x 5 3/4 x 1 1/8 in.). The Cleveland Museum of Art, General Income Fund, 1918.560.1.h",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1918.560.1.h/1918.560.1.h_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1918.560.1.h/1918.560.1.h_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1918.560.1.h",
+ "license": "CC0",
+ "tags": [
+  "战争",
+  "兵器",
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

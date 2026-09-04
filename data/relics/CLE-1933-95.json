@@ -1,0 +1,56 @@
+{
+ "relic_id": "CLE-1933-95",
+ "name": "Silk Shawl",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "织绣",
+ "material": "embroidery, silk",
+ "dimensions": "Overall: 256.5 x 251.5 cm (101 x 99 in.); central area: 154.9 x 149.9 cm (61 x 59 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1933.95"
+ },
+ "summary": "Silk Shawl, 1800s. China. Embroidery, silk; overall: 256.5 x 251.5 cm (101 x 99 in.); central area: 154.9 x 149.9 cm (61 x 59 in.). The Cleveland Museum of Art, Gift of Phebe Blauvelt Chipman, 1933.95",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1933.95/1933.95_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1933.95/1933.95_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1933.95/1933.95_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1933.95/1933.95_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1933.95",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

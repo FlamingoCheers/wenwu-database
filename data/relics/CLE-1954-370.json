@@ -1,0 +1,60 @@
+{
+ "relic_id": "CLE-1954-370",
+ "name": "Jar (Hu)",
+ "aliases": [
+  "壺"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -100,
+  100
+ ],
+ "category": "瓷器",
+ "material": "glazed stoneware with incised and applied decoration",
+ "dimensions": "Diameter: 39.4 cm (15 1/2 in.); Overall: 45.7 cm (18 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1954.370"
+ },
+ "summary": "This superb Han dynasty jar has a robust shape imitating that of the bronze (hu) and is covered with a thin brownish-green glaze. The introduction of glazing—which provided an impervious coating to a clay body—marked a technological breakthrough in Chinese ceramic history. High-fired glazed pots wer",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1954.370/1954.370_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1954.370/1954.370_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1954.370/1954.370_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1954.370/1954.370_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1954.370",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

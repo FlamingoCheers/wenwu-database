@@ -1,0 +1,51 @@
+{
+ "relic_id": "CLE-1918-345",
+ "name": "Psaltery",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "竹木牙角",
+ "material": "wood",
+ "dimensions": "Overall: 59.8 x 15 cm (23 9/16 x 5 7/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1918.345"
+ },
+ "summary": "Psaltery, 1800s. China, Qing dynasty (1644-1911). Wood; overall: 59.8 x 15 cm (23 9/16 x 5 7/8 in.). The Cleveland Museum of Art, The Charles G. King Jr. collection; Gift of Ralph King in memory of Charles G. King Jr., 1918.345",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1918.345/1918.345_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1918.345/1918.345_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1918.345/1918.345_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1918.345",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

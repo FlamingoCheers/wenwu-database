@@ -1,0 +1,52 @@
+{
+ "relic_id": "CLE-1977-170",
+ "name": "Loom Piece",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1700,
+  1899
+ ],
+ "category": "织绣",
+ "material": "silk",
+ "dimensions": "Overall: 1550.2 x 78.2 cm (610 5/16 x 30 13/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1977.170"
+ },
+ "summary": "Loom Piece, 1700s-1800s. China, Qing dynasty (1644-1911). Silk; overall: 1550.2 x 78.2 cm (610 5/16 x 30 13/16 in.). The Cleveland Museum of Art, Gift of Ralph and Helen Cortell, 1977.170",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1977.170/1977.170_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1977.170/1977.170_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1977.170/1977.170_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1977.170",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

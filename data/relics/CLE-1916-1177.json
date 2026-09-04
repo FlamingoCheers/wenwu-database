@@ -1,0 +1,54 @@
+{
+ "relic_id": "CLE-1916-1177",
+ "name": "Snuff Bottle",
+ "aliases": [
+  "鼻煙壺"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1795,
+  1805
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Overall: 6.7 x 5 x 2.6 cm (2 5/8 x 1 15/16 x 1 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1916.1177"
+ },
+ "summary": "Snuff Bottle (鼻煙壺), c. 1800. China, Qing dynasty (1644-1911). Bronze; overall: 6.7 x 5 x 2.6 cm (2 5/8 x 1 15/16 x 1 in.). The Cleveland Museum of Art, Gift of Mrs. Henry A. Stephens, 1916.1177",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1177/1916.1177_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1177/1916.1177_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1177/1916.1177_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1916.1177",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "日常生活"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

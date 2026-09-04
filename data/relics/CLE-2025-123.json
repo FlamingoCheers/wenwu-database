@@ -1,0 +1,53 @@
+{
+ "relic_id": "CLE-2025-123",
+ "name": "Mustard Garden Print",
+ "aliases": [
+  "芥子園畫譜"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1700,
+  1750
+ ],
+ "category": "竹木牙角",
+ "material": "Polychrome woodblock print; ink and color on paper",
+ "dimensions": "25.6 x 32.2 cm (10 1/16 x 12 11/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2025.123"
+ },
+ "summary": "In the 1600s, printing flourished in such Jiangnan cities as Nanjing, Suzhou, Hangzhou, and Huizhou, evolving from privately enjoyed illustrated books printed in color to more commercialized single-sheet color prints that were hung on walls and became part of the rich urban visual culture.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2025.123/2025.123_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2025.123/2025.123_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2025.123/2025.123_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2025.123",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

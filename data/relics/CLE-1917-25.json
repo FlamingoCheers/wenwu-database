@@ -1,0 +1,59 @@
+{
+ "relic_id": "CLE-1917-25",
+ "name": "Landscape",
+ "aliases": [
+  "石雕山水人物山子"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1644,
+  1911
+ ],
+ "category": "杂器",
+ "material": "soapstone",
+ "dimensions": "Overall: 15.3 x 22.3 x 9.6 cm (6 x 8 3/4 x 3 3/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1917.25"
+ },
+ "summary": "A mountain scenery surrounded by water and fish is meticulously carved out of soapstone, with a pond, bridge, waterfall, and temple front in its center. The unidentified figure scene on the left includes an ox and a man wearing what appears to be a Korean hat. A Buddha figure hidden in the depth of ",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.25/1917.25_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.25/1917.25_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.25/1917.25_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.25/1917.25_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1917.25",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

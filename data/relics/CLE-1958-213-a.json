@@ -1,0 +1,49 @@
+{
+ "relic_id": "CLE-1958-213-a",
+ "name": "Tea Caddy",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1745,
+  1775
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Diameter: 4.7 cm (1 7/8 in.); Overall: 11.5 x 6.6 cm (4 1/2 x 2 5/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1958.213.a"
+ },
+ "summary": "Tea Caddy, c. 1750–1770. China, Chinese Export -- European Market, 18th century. Porcelain; diameter: 4.7 cm (1 7/8 in.); overall: 11.5 x 6.6 cm (4 1/2 x 2 5/8 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. Robert Hays Gries, 1958.213.a",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1958.213.a/1958.213.a_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1958.213.a/1958.213.a_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1958.213.a",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "茶文化",
+  "动物",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,51 @@
+{
+ "relic_id": "CLE-1915-629",
+ "name": "Cong",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1800,
+  -1300
+ ],
+ "category": "玉器",
+ "material": "jade",
+ "dimensions": "Overall: 9.2 cm (3 5/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1915.629"
+ },
+ "summary": "Cong, c. 1800–1400 BCE. China, Shang dynasty (c. 1600–c. 1046 BCE). Jade; overall: 9.2 cm (3 5/8 in.). The Cleveland Museum of Art, Gift of the John Huntington Art and Polytechnic Trust, 1915.629",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.629/1915.629_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.629/1915.629_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.629/1915.629_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1915.629",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

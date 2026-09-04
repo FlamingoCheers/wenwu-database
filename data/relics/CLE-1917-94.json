@@ -1,0 +1,59 @@
+{
+ "relic_id": "CLE-1917-94",
+ "name": "Landscape",
+ "aliases": [
+  "山水圖"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "书画",
+ "material": "handscroll; ink and slight color on silk",
+ "dimensions": "Overall: 32.4 x 282.1 cm (12 3/4 x 111 1/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1917.94"
+ },
+ "summary": "This handscroll by an unnamed painter rewards close looking. Among water-washed rocks, reeds are drawn so gracefully and true that they rustle across the silk surface of this painting. Beyond are empty spaces where sky and water meet without horizon. Then distant mountains rise, bristling with stunt",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1917.94",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

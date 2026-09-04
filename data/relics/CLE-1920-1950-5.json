@@ -1,0 +1,47 @@
+{
+ "relic_id": "CLE-1920-1950-5",
+ "name": "Fragment from Book of Textiles",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1700,
+  1799
+ ],
+ "category": "织绣",
+ "material": "Silk, diaper weave; satin ground",
+ "dimensions": "Overall: 19.1 x 13.8 cm (7 1/2 x 5 7/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1920.1950.5"
+ },
+ "summary": "Fragment from Book of Textiles, 1700s. China, Qing dynasty (1644-1911). Silk, diaper weave; satin ground; overall: 19.1 x 13.8 cm (7 1/2 x 5 7/16 in.). The Cleveland Museum of Art, General Income Fund, 1920.1950.5",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1920.1950.5/1920.1950.5_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1920.1950.5/1920.1950.5_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1920.1950.5",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

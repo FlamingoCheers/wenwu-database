@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-39323",
+ "name": "Reliquary",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  50,
+  299
+ ],
+ "category": "杂器",
+ "material": "Metal",
+ "dimensions": "H. (incl. cover) 1 3/4 in. (4.5 cm); Diam. 2 3/4  in. (7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1987.412.5a, b"
+ },
+ "summary": "Reliquary。Pakistan (ancient region of Gandhara)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1987_412_5ab.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39323",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/39323.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

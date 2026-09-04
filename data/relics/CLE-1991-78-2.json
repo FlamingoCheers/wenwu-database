@@ -1,0 +1,51 @@
+{
+ "relic_id": "CLE-1991-78-2",
+ "name": "Jade Plaque",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -475,
+  -221
+ ],
+ "category": "玉器",
+ "material": "nephrite",
+ "dimensions": "Overall: 20.8 x 8.7 cm (8 3/16 x 3 7/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1991.78.2"
+ },
+ "summary": "This beautiful pair of late Eastern Zhou openwork jade plaques illustrate a level of creativity and technical achievement that was unequaled before or since. Taking the shape of a pair of fantastic creatures, they are at once tigerlike, rhinolike, and dragonlike. Their strong silhouettes are marked ",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1991.78.2/1991.78.2_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1991.78.2/1991.78.2_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1991.78.2/1991.78.2_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1991.78.2",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

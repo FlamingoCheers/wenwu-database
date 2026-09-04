@@ -1,0 +1,59 @@
+{
+ "relic_id": "CLE-1933-220",
+ "name": "Cloudy Mountains",
+ "aliases": [
+  "雲山圖"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1130,
+  1130
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink and color on silk",
+ "dimensions": "Image: 43.7 x 192.6 cm (17 3/16 x 75 13/16 in.); Overall: 45.5 x 646.8 cm (17 15/16 x 254 5/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1933.220"
+ },
+ "summary": "Cloudy Mountains captures the view of a lush and misty riverscape, an impression of Mi Youren’s new environment, painted in a moment of peace. With the fall of the Northern Song dynasty in 1127 upon the Jurchen’s military invasion, Mi Youren fled south across the Yangzi River. In 1130, he had reache",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1933.220/1933.220_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1933.220/1933.220_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1933.220/1933.220_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1933.220/1933.220_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1933.220",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-2020-180",
+ "name": "Yellow-Glazed Bowl",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1505,
+  1521
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with monochrome yellow glaze",
+ "dimensions": "Overall: 8 x 18.9 cm (3 1/8 x 7 7/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2020.180"
+ },
+ "summary": "Monochrome yellow–glazed porcelain appears first during the Ming dynasty and is the combined result of technological advancement, the requirements of state rituals, and aspirations of taste. The base bears a mark of the Zhengde (正德) reign period, renowned for its high-quality imperial porcelain, and",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2020.180/2020.180_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2020.180/2020.180_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2020.180/2020.180_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2020.180/2020.180_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2020.180",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

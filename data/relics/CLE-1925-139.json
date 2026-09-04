@@ -1,0 +1,53 @@
+{
+ "relic_id": "CLE-1925-139",
+ "name": "Panel from Model Cooking Stove:  Raven Flanked by Snake-Entwined Tortoises",
+ "aliases": [
+  "陶炉上的  龜蛇烏鴉浮雕"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -100,
+  -1
+ ],
+ "category": "陶器",
+ "material": "earthenware with impressed relief decoration",
+ "dimensions": "Overall: 12.4 x 18.2 x 1.7 cm (4 7/8 x 7 3/16 x 11/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1925.139"
+ },
+ "summary": "Han dynasty tombs were often furnished with grave goods to provide the deceased with items for the afterlife. Four earthenware panels were made in molds and then joined together to make a miniature model of a stove, which was placed in a burial chamber. The four sides show the animals of the cardina",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1925.139/1925.139_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1925.139/1925.139_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1925.139",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器",
+  "酒文化",
+  "礼制",
+  "玺印封泥",
+  "文字书写",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

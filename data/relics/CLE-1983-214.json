@@ -1,0 +1,53 @@
+{
+ "relic_id": "CLE-1983-214",
+ "name": "Tripod Container with Dragon-Head Handle (Zhadou)",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  500,
+  600
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Overall: 22.8 cm (9 in.); Diameter of mouth with rim: 15.5 cm (6 1/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1983.214"
+ },
+ "summary": "This dragon, winged chimera (CMA 1980.184), and grotesque monster's face (CMA 1930.731) exhibit uninhibited imagination in the representation of fantastic animals--all are full of energy, vigor, and magical power. Whether as purely sculptural forms or decorative elements of utilitarian vessels, they",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1983.214/1983.214_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1983.214/1983.214_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1983.214/1983.214_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1983.214",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

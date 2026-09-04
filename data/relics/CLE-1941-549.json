@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-1941-549",
+ "name": "Axe",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1766,
+  -1045
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Overall: 23.8 cm (9 3/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1941.549"
+ },
+ "summary": "The head of an owl with large eyes and ears, sitting above the blade of a halberd-axe, may have deterred evil and harm from its carrier. Whether such an axe was used in ritual or warfare is not clear.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1941.549/1941.549_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1941.549/1941.549_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1941.549/1941.549_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1941.549/1941.549_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1941.549",
+ "license": "CC0",
+ "tags": [
+  "战争",
+  "兵器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,51 @@
+{
+ "relic_id": "CLE-1947-3",
+ "name": "Crossbow Support",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -300,
+  -200
+ ],
+ "category": "青铜器",
+ "material": "bronze inlaid with silver",
+ "dimensions": "Overall: 21.8 cm (8 9/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1947.3"
+ },
+ "summary": "Here, the rectangular socket of the bow support tapers elegantly to form the slender neck of an animal head. Silver inlay of wires and ribbons form an extraordinarily beautiful abstract design consisting of sweeping lines, coils, spirals, and serpentine interlaces.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1947.3/1947.3_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1947.3/1947.3_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1947.3/1947.3_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1947.3",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

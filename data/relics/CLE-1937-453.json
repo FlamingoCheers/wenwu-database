@@ -1,0 +1,56 @@
+{
+ "relic_id": "CLE-1937-453",
+ "name": "Fan",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1900,
+  1937
+ ],
+ "category": "竹木牙角",
+ "material": "ivory",
+ "dimensions": "Overall: 19 cm (7 1/2 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1937.453"
+ },
+ "summary": "Fan, 1900s. China, 20th century. Ivory; overall: 19 cm (7 1/2 in.). The Cleveland Museum of Art, Gift of Mrs. Martha H. Jennings, 1937.453",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1937.453/1937.453_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1937.453/1937.453_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1937.453/1937.453_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1937.453/1937.453_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1937.453",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

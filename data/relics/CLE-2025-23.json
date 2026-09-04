@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-2025-23",
+ "name": "Mother and Sons",
+ "aliases": [
+  "母子圖"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "竹木牙角",
+ "material": "Hanging scroll; multicolor woodblock print on paper",
+ "dimensions": "Print only: 98.4 x 56.2 cm (38 3/4 x 22 1/8 in.); Overall: 179 x 67.1 cm (70 1/2 x 26 7/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2025.23"
+ },
+ "summary": "Woodblock printing in color reached its height in China in the 1600s to 1700s. It was executed by means of sets of separate blocks, each carved to print a different color.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2025.23/2025.23_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2025.23/2025.23_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2025.23/2025.23_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2025.23/2025.23_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2025.23",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

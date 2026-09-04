@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-36087",
+ "name": "Fan with Flowers and Butterflies",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "竹木牙角",
+ "material": "Fan: painted paper pasted to plain-weave silk on bamboo frame; tassels: knotted silk",
+ "dimensions": "a: 18 1/2 x 12 1/4 in. (47 x 31.1 cm)\r\nb: 20 1/2 x 2 1/2 x 3/4 in. (52.1 x 6.4 x 1.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "62.97.23a, b"
+ },
+ "summary": "Fan。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP14324.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/36087",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/36087.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

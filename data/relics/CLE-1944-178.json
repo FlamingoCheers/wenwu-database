@@ -1,0 +1,59 @@
+{
+ "relic_id": "CLE-1944-178",
+ "name": "Cylindrical Brushholder",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1736,
+  1866
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Diameter: 9.3 cm (3 11/16 in.); Overall: 11.5 cm (4 1/2 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1944.178"
+ },
+ "summary": "The brush holder shows children celebrating seasonal festivals, pursuing games, and masquerading as adults with attributes that suggest their future careers in the military or civil service. Three boys play in the shadow of a garden rock with cricket cages; others parade a boy on a goat who wears th",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1944.178/1944.178_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1944.178/1944.178_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1944.178/1944.178_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1944.178/1944.178_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1944.178",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物",
+  "文房",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

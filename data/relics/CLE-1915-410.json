@@ -1,0 +1,60 @@
+{
+ "relic_id": "CLE-1915-410",
+ "name": "Sleeveless garment",
+ "aliases": [
+  "竹衣"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "织绣",
+ "material": "Bamboo beads strung together in diamond and hexagon patterns; edges in plain weave cotton",
+ "dimensions": "Overall: 56.5 x 56.5 cm (22 1/4 x 22 1/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1915.410"
+ },
+ "summary": "This loose-fitting bamboo vest is a summer undershirt, made of an estimated 3,490 fine bamboo tubes. The overall structure of the vest is held together with cotton thread. Such vests were worn under an outer garment to allow the air to circulate and protect the outer garment from soilage, especially",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.410/1915.410_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.410/1915.410_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.410/1915.410_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.410/1915.410_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1915.410",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

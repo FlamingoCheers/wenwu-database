@@ -1,0 +1,57 @@
+{
+ "relic_id": "CLE-2001-42",
+ "name": "Calligraphy in Running Style based on Wang Bo's Essay on Tengwang Pavilion",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1811,
+  1811
+ ],
+ "category": "书画",
+ "material": "handscroll, ink on paper",
+ "dimensions": "Image: 43.4 x 647.9 cm (17 1/16 x 255 1/16 in.); Overall: 44.4 x 863.6 cm (17 1/2 x 340 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2001.42"
+ },
+ "summary": "A member of the Donggo clan, Tiebao belonged to the Manchu Plain Yellow Banner army. As an official in the Qing court, he endured considerable vicissitude and his career was never smooth. Celebrated as a man of letters, he oversaw the publications of the Manchu military system as well as an antholog",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2001.42/2001.42_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2001.42/2001.42_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2001.42/2001.42_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2001.42/2001.42_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2001.42",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

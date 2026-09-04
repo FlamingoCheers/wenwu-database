@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-36130",
+ "name": "Landscapes of the Twelve Months",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1675,
+  1695
+ ],
+ "category": "书画",
+ "material": "Album of twelve painting leaves; ink on paper",
+ "dimensions": "11 7/8 x 24 3/4 in. (30.2 x 62.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1980.426.1a–l"
+ },
+ "summary": "Album。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP161078_crd.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/36130",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/36130.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,53 @@
+{
+ "relic_id": "CLE-1952-583",
+ "name": "Collared Disk (Huan)",
+ "aliases": [
+  "玉環"
+ ],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1610,
+  -1040
+ ],
+ "category": "玉器",
+ "material": "jade (nephrite)",
+ "dimensions": "Diameter: 11.4 cm (4 1/2 in.); Overall: 1.4 cm (9/16 in.); Inner diameter: 8.6 cm (3 3/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1952.583"
+ },
+ "summary": "Collared Disk (Huan) (玉環), c. 1600–1050 BCE. China, Shang dynasty (c. 1600–c. 1046 BCE). Jade (nephrite); diameter: 11.4 cm (4 1/2 in.); overall: 1.4 cm (9/16 in.); inner diameter: 8.6 cm (3 3/8 in.). The Cleveland Museum of Art, Anonymous Gift, 1952.583",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1952.583/1952.583_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1952.583/1952.583_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1952.583/1952.583_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1952.583",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

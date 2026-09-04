@@ -1,0 +1,57 @@
+{
+ "relic_id": "CLE-2003-353",
+ "name": "Calligraphy in Semi-Cursive Style (xing-caoshu)",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1655,
+  1709
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink on paper",
+ "dimensions": "Image: 28.6 x 64.1 cm (11 1/4 x 25 1/4 in.); Overall with knobs: 115.6 x 73.8 cm (45 1/2 x 29 1/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2003.353"
+ },
+ "summary": "This spontaneous, bold calligraphy style is characteristic of members of the Japanese Ōbaku school (Huangbo in Chinese) of Chan (Zen in Japanese) Buddhism, which was founded in Japan by Chinese monks in the 1600s. The monk Yueshan emigrated to Japan from the Chinese province of Fujian, taking a prie",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2003.353/2003.353_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2003.353/2003.353_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2003.353/2003.353_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2003.353/2003.353_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2003.353",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

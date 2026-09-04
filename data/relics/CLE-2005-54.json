@@ -1,0 +1,57 @@
+{
+ "relic_id": "CLE-2005-54",
+ "name": "Wine Vessel (Jia)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1260,
+  -1036
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Overall: 50.8 cm (20 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2005.54"
+ },
+ "summary": "This large wine vessel (or jia) is among those very rare, monumental pieces uncovered from Anyang, the last royal capital of the Shang dynasty (c.1700–c.1100 BCE). Probably very few monumental bronze vessels were ever made; each of them must have cost a fortune and was used to designate high-ranking",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2005.54/2005.54_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2005.54/2005.54_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2005.54/2005.54_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2005.54/2005.54_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2005.54",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

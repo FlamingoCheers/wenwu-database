@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-1917-7",
+ "name": "Dish: Ding ware",
+ "aliases": [],
+ "dynasty": "西晋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1199
+ ],
+ "category": "瓷器",
+ "material": "glazed grayish-white porcelain",
+ "dimensions": "Diameter: 30.2 cm (11 7/8 in.); Overall: 4.7 cm (1 7/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1917.7"
+ },
+ "summary": "Dish: Ding ware, 1100s. China, Hebei province, Jin dynasty (1115-1234). Glazed grayish-white porcelain; diameter: 30.2 cm (11 7/8 in.); overall: 4.7 cm (1 7/8 in.). The Cleveland Museum of Art, Gift of Ralph King, 1917.7",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.7/1917.7_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.7/1917.7_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.7/1917.7_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.7/1917.7_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1917.7",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

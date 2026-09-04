@@ -1,0 +1,57 @@
+{
+ "relic_id": "CLE-1965-473",
+ "name": "Guardian Lion",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  550,
+  650
+ ],
+ "category": "雕塑",
+ "material": "white marble",
+ "dimensions": "Overall: 78.8 cm (31 in.); Base: 49.6 x 41.8 cm (19 1/2 x 16 7/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1965.473"
+ },
+ "summary": "Lion sculptures like this example are often found at the entrance to Buddhist temples in China. It may seem as if they are there to protect the temple. Lions also have had strong associations with Buddhism since the religion’s origin; the dharma, or Buddhist doctrine, is said to be spread through hi",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1965.473/1965.473_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1965.473/1965.473_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1965.473/1965.473_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1965.473/1965.473_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1965.473",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

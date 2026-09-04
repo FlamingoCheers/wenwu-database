@@ -1,0 +1,46 @@
+{
+ "relic_id": "CLE-1932-132",
+ "name": "Untitled",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1625,
+  1625
+ ],
+ "category": "竹木牙角",
+ "material": "color woodblock print",
+ "dimensions": "Overall: 28.3 x 30.8 cm (11 1/8 x 12 1/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1932.132"
+ },
+ "summary": "Untitled, 1625. China, Ming dynasty (1368–1644). Color woodblock print; overall: 28.3 x 30.8 cm (11 1/8 x 12 1/8 in.). The Cleveland Museum of Art, Edward L. Whittemore Fund, 1932.132",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1932.132/1932.132_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1932.132/1932.132_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1932.132",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

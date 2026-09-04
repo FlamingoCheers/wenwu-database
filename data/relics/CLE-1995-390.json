@@ -1,0 +1,55 @@
+{
+ "relic_id": "CLE-1995-390",
+ "name": "Mirror with Dragon Design",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1700,
+  1911
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 9.9 cm (3 7/8 in.); Overall: 1.8 cm (11/16 in.); Rim: 1.1 cm (7/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1995.390"
+ },
+ "summary": "Mirror with Dragon Design, 1700–1911. China, Qing dynasty (1644-1911). Bronze; diameter: 9.9 cm (3 7/8 in.); overall: 1.8 cm (11/16 in.); rim: 1.1 cm (7/16 in.). The Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee, 1995.390",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.390/1995.390_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.390/1995.390_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.390/1995.390_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1995.390",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

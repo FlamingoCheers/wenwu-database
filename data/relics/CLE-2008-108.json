@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-2008-108",
+ "name": "Spring Rain Thatched Hut",
+ "aliases": [
+  "春雨草堂圖"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1650,
+  1650
+ ],
+ "category": "杂器",
+ "material": "handscroll, ink on paper",
+ "dimensions": "Image: 31 x 81.5 cm (12 3/16 x 32 1/16 in.); Overall: 34.2 x 1164 cm (13 7/16 x 458 1/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2008.108"
+ },
+ "summary": "With its striking simplicity, this painting captures the pure serenity of a private garden in the moist atmosphere of a spring morning on a small river. Painted in the style of Ni Zan, Wang Jianzhang dedicated this work to his patron-friend Gong Weiliu (1611-1680). Gong retired from government servi",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2008.108/2008.108_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2008.108/2008.108_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2008.108/2008.108_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2008.108/2008.108_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2008.108",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

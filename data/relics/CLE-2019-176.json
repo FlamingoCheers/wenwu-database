@@ -1,0 +1,61 @@
+{
+ "relic_id": "CLE-2019-176",
+ "name": "Dish with Landscape and Inscription",
+ "aliases": [
+  "青花山水詩文瓷盤"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1662,
+  1722
+ ],
+ "category": "瓷器",
+ "material": "porcelain, underglaze cobalt-blue decoration",
+ "dimensions": "Overall: 12.3 cm (4 13/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2019.176"
+ },
+ "summary": "The river scene, composed of two shores divided by waterafter the Yuan dynasty master Ni Zan is inscribed: What shall I present the gentleman with? A picture of the Xiang River. A tributary of the Yangzi in Hunan province, the Xiang River is associated with Chinese literature and history, such as th",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2019.176/2019.176_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2019.176/2019.176_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2019.176/2019.176_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2019.176/2019.176_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2019.176",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "山水",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

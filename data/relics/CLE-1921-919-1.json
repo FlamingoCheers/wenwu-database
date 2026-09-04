@@ -1,0 +1,46 @@
+{
+ "relic_id": "CLE-1921-919-1",
+ "name": "Sleeve Band",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "织绣",
+ "material": "Silk, satin weave, embroidery",
+ "dimensions": "Overall: 94.9 x 9.2 cm (37 3/8 x 3 5/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1921.919.1"
+ },
+ "summary": "Sleeve Band, 1800s. China, Qing dynasty (1644-1911). Silk, satin weave, embroidery; overall: 94.9 x 9.2 cm (37 3/8 x 3 5/8 in.). The Cleveland Museum of Art, Gift of Mrs. Charles William Wason, 1921.919.1",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1921.919.1/1921.919.1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1921.919.1/1921.919.1_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1921.919.1",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

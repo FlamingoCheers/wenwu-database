@@ -1,0 +1,55 @@
+{
+ "relic_id": "CLE-1995-387",
+ "name": "Mirror with Three Dragons",
+ "aliases": [],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 10.2 cm (4 in.); Overall: 1 cm (3/8 in.); Rim: 0.8 cm (5/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1995.387"
+ },
+ "summary": "Mirror with Three Dragons, early 1100s–early 1200s. China, Jin dynasty (1115-1234). Bronze; diameter: 10.2 cm (4 in.); overall: 1 cm (3/8 in.); rim: 0.8 cm (5/16 in.). The Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee, 1995.387",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.387/1995.387_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.387/1995.387_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.387/1995.387_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1995.387",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

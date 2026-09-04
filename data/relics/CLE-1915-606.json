@@ -1,0 +1,53 @@
+{
+ "relic_id": "CLE-1915-606",
+ "name": "Mirror",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  25,
+  220
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 13.1 cm (5 3/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1915.606"
+ },
+ "summary": "Two of the same animals of the Four Directions seen in the \"TLV\" mirror are cast in high relief and twisted in confrontation: the Dragon of the East with long snout, pointed horn, and scaly backbone meets the Tiger of the West with feline head and striped neck. An amphibious creature of unknown symb",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.606/1915.606_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.606/1915.606_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.606/1915.606_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1915.606",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

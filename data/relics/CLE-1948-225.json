@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-1948-225",
+ "name": "Jar",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": "glazed grayish-buff stoneware with incised decoration and underglaze slip application, Cizhou ware",
+ "dimensions": "Overall: 34.9 cm (13 3/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1948.225"
+ },
+ "summary": "Jar, 1271–1368. China, Yuan dynasty (1271-1368). Glazed grayish-buff stoneware with incised decoration and underglaze slip application, Cizhou ware; overall: 34.9 cm (13 3/4 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1948.225",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1948.225/1948.225_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1948.225/1948.225_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1948.225/1948.225_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1948.225/1948.225_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1948.225",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

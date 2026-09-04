@@ -1,0 +1,51 @@
+{
+ "relic_id": "CLE-1956-307",
+ "name": "Skirt",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "织绣",
+ "material": "embroidery, silk",
+ "dimensions": "Average: 95.9 x 133.3 cm (37 3/4 x 52 1/2 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1956.307"
+ },
+ "summary": "Skirt, 1800s. China, 19th century. Embroidery, silk; average: 95.9 x 133.3 cm (37 3/4 x 52 1/2 in.). The Cleveland Museum of Art, Gift of Emma G. Brassington, 1956.307",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1956.307/1956.307_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1956.307/1956.307_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1956.307/1956.307_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1956.307",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,51 @@
+{
+ "relic_id": "CLE-1918-221",
+ "name": "Velvet",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1600,
+  1699
+ ],
+ "category": "织绣",
+ "material": "velvet",
+ "dimensions": "Overall: 36.2 x 41.3 cm (14 1/4 x 16 1/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1918.221"
+ },
+ "summary": "Velvet, 1600s. China, 17th century. Velvet; overall: 36.2 x 41.3 cm (14 1/4 x 16 1/4 in.). The Cleveland Museum of Art, Dudley P. Allen Fund, 1918.221",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1918.221/1918.221_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1918.221/1918.221_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1918.221/1918.221_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1918.221",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

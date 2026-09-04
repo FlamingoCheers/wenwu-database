@@ -1,0 +1,60 @@
+{
+ "relic_id": "CLE-1983-213",
+ "name": "Mirror with Xiwangmu",
+ "aliases": [
+  "西王母鏡"
+ ],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "high",
+ "year_range": [
+  312,
+  405
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 18.5 cm (7 5/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1983.213"
+ },
+ "summary": "This mirror depicts Xiwangmu, Queen Mother of the West, and her husband, Dongwanggong, King Father of the East, surrounded by mythical figures and animals. One of the earliest and most powerful goddesses in the Daoist pantheon, Xiwangmu can be identified by her U-shaped crown. Legend says that the t",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1983.213/1983.213_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1983.213/1983.213_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1983.213/1983.213_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1983.213/1983.213_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1983.213",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

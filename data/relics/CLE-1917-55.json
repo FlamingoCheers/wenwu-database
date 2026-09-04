@@ -1,0 +1,57 @@
+{
+ "relic_id": "CLE-1917-55",
+ "name": "Mountain and Landscape",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "玉器",
+ "material": "carved stone",
+ "dimensions": "Overall: 11.5 x 26.1 cm (4 1/2 x 10 1/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1917.55"
+ },
+ "summary": "Mountain and Landscape, 1800s. China, Qing dynasty (1644-1911). Carved stone; overall: 11.5 x 26.1 cm (4 1/2 x 10 1/4 in.). The Cleveland Museum of Art, Worcester R. Warner Collection, 1917.55",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.55/1917.55_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.55/1917.55_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.55/1917.55_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.55/1917.55_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1917.55",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

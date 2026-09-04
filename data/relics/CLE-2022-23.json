@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-2022-23",
+ "name": "Taihu Garden Stone",
+ "aliases": [
+  "太湖石"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1,
+  -1
+ ],
+ "category": "杂器",
+ "material": "Limestone",
+ "dimensions": "160 x 65 x 50 cm (63 x 25 9/16 x 19 11/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2022.23"
+ },
+ "summary": "In China, rocks are considered elements of nature that possess spirit and life energy. With its upward winding masses, perforations, weathered surface, and multiple viewpoints, the stone exhibits sculptural qualities and embodies constant transformation through natural forces and human intervention.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2022.23/2022.23_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2022.23/2022.23_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2022.23/2022.23_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2022.23/2022.23_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2022.23",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

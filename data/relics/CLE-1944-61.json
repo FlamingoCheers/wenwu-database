@@ -1,0 +1,59 @@
+{
+ "relic_id": "CLE-1944-61",
+ "name": "Wine Vessel (Hu)",
+ "aliases": [
+  "壺"
+ ],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1000,
+  -900
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Overall: 46.1 cm (18 1/8 in.); without cover: 41.7 cm (16 7/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1944.61"
+ },
+ "summary": "This tall, slender bronze wine vessel, called a hu, has three bands of ornamentation: one above the foot, one around the neck, and one on the cover. Stylized birds or phoenixes are in the band around the neck, while the band on the cover and foot feature geometric dragons. The dragon and the phoenix",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1944.61/1944.61_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1944.61/1944.61_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1944.61/1944.61_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1944.61/1944.61_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1944.61",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

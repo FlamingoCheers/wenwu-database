@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-1915-311",
+ "name": "Head of Bodhisattva",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "雕塑",
+ "material": "dark gray limestone",
+ "dimensions": "Overall: 24.9 x 17.2 x 9 cm (9 13/16 x 6 3/4 x 3 9/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1915.311"
+ },
+ "summary": "Head of Bodhisattva, 618–907. China, from Lung-mên, Tang dynasty (618-907). Dark gray limestone; overall: 24.9 x 17.2 x 9 cm (9 13/16 x 6 3/4 x 3 9/16 in.). The Cleveland Museum of Art, Worcester R. Warner Collection, 1915.311",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.311/1915.311_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.311/1915.311_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.311/1915.311_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.311/1915.311_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1915.311",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

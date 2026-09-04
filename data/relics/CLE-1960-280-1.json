@@ -1,0 +1,56 @@
+{
+ "relic_id": "CLE-1960-280-1",
+ "name": "Fantastic Animal",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1700,
+  1899
+ ],
+ "category": "玉器",
+ "material": "jade",
+ "dimensions": "Overall: 12.2 cm (4 13/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1960.280.1"
+ },
+ "summary": "Fantastic Animal, 1700s–1800s. China, Qing dynasty (1644-1911). Jade; overall: 12.2 cm (4 13/16 in.). The Cleveland Museum of Art, Gift of Mrs. John Lyon Collyer in memory of her mother, Mrs. G. M. G. Forman, 1960.280.1",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1960.280.1/1960.280.1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1960.280.1/1960.280.1_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1960.280.1/1960.280.1_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1960.280.1/1960.280.1_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1960.280.1",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,57 @@
+{
+ "relic_id": "CLE-1919-34",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "辽",
+ "dynasty_confidence": "high",
+ "year_range": [
+  916,
+  1125
+ ],
+ "category": "瓷器",
+ "material": "burnished stoneware",
+ "dimensions": "Overall: 43.2 cm (17 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1919.34"
+ },
+ "summary": "Vase, 916–1125. Northeast China, Liao dynasty (916-1125). Burnished stoneware; overall: 43.2 cm (17 in.). The Cleveland Museum of Art, Charles W. Harkness Endowment Fund, 1919.34",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1919.34/1919.34_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1919.34/1919.34_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1919.34/1919.34_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1919.34/1919.34_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1919.34",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

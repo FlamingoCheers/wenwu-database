@@ -1,0 +1,57 @@
+{
+ "relic_id": "CLE-1982-138",
+ "name": "Ink Bamboo",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1200,
+  1279
+ ],
+ "category": "书画",
+ "material": "hanging scroll; ink on silk",
+ "dimensions": "Image: 91.2 x 39.8 cm (35 7/8 x 15 11/16 in.); Overall: 172.7 x 57.2 cm (68 x 22 1/2 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1982.138"
+ },
+ "summary": "This deceptively simple composition features two upright stalks of bamboo with leafy stems extended to fill the silk. The painter sensitively balanced ink tones and brushstrokes. The leaves that cross in front of other leaves are outlined in clear silk.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1982.138/1982.138_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1982.138/1982.138_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1982.138/1982.138_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1982.138/1982.138_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1982.138",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

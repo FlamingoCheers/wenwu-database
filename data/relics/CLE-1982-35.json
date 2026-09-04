@@ -1,0 +1,56 @@
+{
+ "relic_id": "CLE-1982-35",
+ "name": "Portrait of an Official",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1600,
+  1799
+ ],
+ "category": "书画",
+ "material": "hanging scroll; ink and color on silk",
+ "dimensions": "Painting only: 150.4 x 94.6 cm (59 3/16 x 37 1/4 in.); Including mounting: 233.7 x 123.5 cm (92 x 48 5/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1982.35"
+ },
+ "summary": "This official's portrait was done in the portrait painting style of the Ming dynasty.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1982.35/1982.35_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1982.35/1982.35_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1982.35/1982.35_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1982.35/1982.35_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1982.35",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

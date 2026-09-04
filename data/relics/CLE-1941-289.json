@@ -1,0 +1,57 @@
+{
+ "relic_id": "CLE-1941-289",
+ "name": "Flowering Lily",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1700,
+  1800
+ ],
+ "category": "竹木牙角",
+ "material": "color woodblock print",
+ "dimensions": "Overall: 30.1 x 26.2 cm (11 7/8 x 10 5/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1941.289"
+ },
+ "summary": "Flowering Lily, 18th Century. China, Qing dynasty (1644-1911). Color woodblock print; overall: 30.1 x 26.2 cm (11 7/8 x 10 5/16 in.). The Cleveland Museum of Art, Edward L. Whittemore Fund, 1941.289",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1941.289/1941.289_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1941.289/1941.289_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1941.289/1941.289_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1941.289/1941.289_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1941.289",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

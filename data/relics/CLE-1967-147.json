@@ -1,0 +1,52 @@
+{
+ "relic_id": "CLE-1967-147",
+ "name": "Camel",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  700,
+  799
+ ],
+ "category": "陶器",
+ "material": "glazed earthenware",
+ "dimensions": "Overall: 79.4 cm (31 1/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1967.147"
+ },
+ "summary": "Camel, 700s. China, Tang dynasty (618–907). Glazed earthenware; overall: 79.4 cm (31 1/4 in.). The Cleveland Museum of Art, John L. Severance Fund, 1967.147",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1967.147/1967.147_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1967.147/1967.147_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1967.147/1967.147_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1967.147",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

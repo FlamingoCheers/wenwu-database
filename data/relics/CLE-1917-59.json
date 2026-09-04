@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-1917-59",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "陶器",
+ "material": "earthenware",
+ "dimensions": "Diameter: 16.6 cm (6 9/16 in.); Overall: 7.4 cm (2 15/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1917.59"
+ },
+ "summary": "Bowl, 1271–1368. China, Yuan dynasty (1271-1368). Earthenware; diameter: 16.6 cm (6 9/16 in.); overall: 7.4 cm (2 15/16 in.). The Cleveland Museum of Art, Gift of Ralph King, 1917.59",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.59/1917.59_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.59/1917.59_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.59/1917.59_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.59/1917.59_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1917.59",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

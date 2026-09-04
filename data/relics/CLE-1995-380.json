@@ -1,0 +1,54 @@
+{
+ "relic_id": "CLE-1995-380",
+ "name": "Lobed Mirror with Shaluo Tree",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 14.7 cm (5 13/16 in.); Overall: 0.8 cm (5/16 in.); Rim: 0.4 cm (3/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1995.380"
+ },
+ "summary": "Lobed Mirror with Shaluo Tree, mid 10th Century - mid 12th Century. China, Northern Song dynasty (960-1127). Bronze; diameter: 14.7 cm (5 13/16 in.); overall: 0.8 cm (5/16 in.); rim: 0.4 cm (3/16 in.). The Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee, 199",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.380/1995.380_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.380/1995.380_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.380/1995.380_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1995.380",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

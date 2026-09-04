@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-39265",
+ "name": "Krishna",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1899
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 2 7/8 in. (7.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "19.135.26"
+ },
+ "summary": "Portable idol。India (South India)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/19_135_26.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39265",
+ "license": "CC0",
+ "tags": [
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39265.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

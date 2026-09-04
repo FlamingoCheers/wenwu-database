@@ -1,0 +1,59 @@
+{
+ "relic_id": "CLE-1956-704",
+ "name": "Tea Bowl",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": "purplish brown stoneware with iron slip glaze coating, Jian ware",
+ "dimensions": "Diameter: 12.4 cm (4 7/8 in.); Overall: 7 cm (2 3/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1956.704"
+ },
+ "summary": "Tea Bowl, 960–1279. China, Fujian province, Song dynasty (960–1279). Purplish brown stoneware with iron slip glaze coating, Jian ware; diameter: 12.4 cm (4 7/8 in.); overall: 7 cm (2 3/4 in.). The Cleveland Museum of Art, The Fanny Tewksbury King Collection, 1956.704",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1956.704/1956.704_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1956.704/1956.704_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1956.704/1956.704_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1956.704/1956.704_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1956.704",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "茶文化",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

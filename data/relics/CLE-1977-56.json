@@ -1,0 +1,59 @@
+{
+ "relic_id": "CLE-1977-56",
+ "name": "Fisherman's Joy",
+ "aliases": [
+  "漁樂圖"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1572,
+  1572
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink and light color on paper",
+ "dimensions": "Image: 31.4 x 355.2 cm (12 3/8 x 139 13/16 in.); Overall: 37 x 989.4 cm (14 9/16 x 389 1/2 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1977.56"
+ },
+ "summary": "This painting has a scene showing two small crafts, each manned by two fishermen, practicing a traditional fishing method. In one of them, a man uses a bamboo pole to direct the movements of a cormorant bird sent into the water. Cormorant fishing, witnessed in some areas of the lower Yangzi River, a",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1977.56/1977.56_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1977.56/1977.56_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1977.56/1977.56_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1977.56/1977.56_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1977.56",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

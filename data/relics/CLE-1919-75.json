@@ -1,0 +1,48 @@
+{
+ "relic_id": "CLE-1919-75",
+ "name": "Rubbing of a Stone from the Tang-Fang Collection",
+ "aliases": [
+  "東漢武梁祠畫像石拓片"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1900,
+  1916
+ ],
+ "category": "杂器",
+ "material": "Rubbing, ink on paper, horizontal scroll",
+ "dimensions": "Overall: 66.7 x 181.6 cm (26 1/4 x 71 1/2 in.); Rubbing only: 134 x 53.2 cm (52 3/4 x 20 15/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1919.75"
+ },
+ "summary": "This rubbing corresponds in composition with stone reliefs from the east wall in stone chamber 3 of the Wu Liang shrine. The upper register illustrates stories of virtuous women. Read from right to left, the last scene in the upper left corner shows a bed under a roof that is labeled “Virtuous Woman",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1919.75/1919.75_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1919.75/1919.75_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1919.75",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

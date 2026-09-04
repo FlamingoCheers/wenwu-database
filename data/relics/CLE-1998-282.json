@@ -1,0 +1,59 @@
+{
+ "relic_id": "CLE-1998-282",
+ "name": "Tea Cup",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1685,
+  1695
+ ],
+ "category": "瓷器",
+ "material": "porcelain with blue and white decoration",
+ "dimensions": "Diameter: 6.8 cm (2 11/16 in.); Overall: 4.1 cm (1 5/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1998.282"
+ },
+ "summary": "Tea Cup, c. 1690. China, Qing dynasty (1644-1911). Porcelain with blue and white decoration; diameter: 6.8 cm (2 11/16 in.); overall: 4.1 cm (1 5/8 in.). The Cleveland Museum of Art, Bequest of Gordon K. Mott, 1998.282",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1998.282/1998.282_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1998.282/1998.282_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1998.282/1998.282_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1998.282/1998.282_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1998.282",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "茶文化",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

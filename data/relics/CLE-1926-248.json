@@ -1,0 +1,53 @@
+{
+ "relic_id": "CLE-1926-248",
+ "name": "Mirror",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 21 cm (8 1/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1926.248"
+ },
+ "summary": "The predominant motifs on this mirror, the lion and the grapevine, were both foreign to China. The popularity of this mirror type, which lasted until the fall of the Tang dynasty, demonstrates the cosmopolitan tastes of wealthy Chinese during this extremely prosperous and artistically vigorous perio",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1926.248/1926.248_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1926.248/1926.248_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1926.248/1926.248_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1926.248",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

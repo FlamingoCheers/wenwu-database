@@ -1,0 +1,54 @@
+{
+ "relic_id": "CLE-1995-315",
+ "name": "Mirror with Paired Phoenixes",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  25,
+  316
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 9.8 cm (3 7/8 in.); Overall: 1 cm (3/8 in.); Rim: 0.4 cm (3/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1995.315"
+ },
+ "summary": "Mirror with Paired Phoenixes, 25–316 CE. China, Eastern Han dynasty (25–220 CE)–Western Jin dynasty (265–316). Bronze; diameter: 9.8 cm (3 7/8 in.); overall: 1 cm (3/8 in.); rim: 0.4 cm (3/16 in.). The Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee, 1995.31",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.315/1995.315_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.315/1995.315_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.315/1995.315_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1995.315",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制",
+  "祥瑞纹样"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

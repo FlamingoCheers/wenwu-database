@@ -1,0 +1,57 @@
+{
+ "relic_id": "CLE-1987-37",
+ "name": "Mountain Landscape in Moonlight",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1200,
+  1299
+ ],
+ "category": "书画",
+ "material": "hanging scroll; ink on silk",
+ "dimensions": "Image: 54.3 x 36 cm (21 3/8 x 14 3/16 in.); Overall: 139.6 x 41.4 cm (54 15/16 x 16 5/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1987.37"
+ },
+ "summary": "Painted in modulated monochrome ink washes with dark dots for foliate accents, the anonymous artist successfully suggests the dense atmosphere of a warm summer night. Under a full moon a scholar rides a mule, accompanied by a servant who carries his belongings. The poem inscribed by Chan (Zen) pries",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1987.37/1987.37_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1987.37/1987.37_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1987.37/1987.37_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1987.37/1987.37_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1987.37",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,50 @@
+{
+ "relic_id": "CLE-1995-291",
+ "name": "Mirror with Concentric Circles and Linked Arcs",
+ "aliases": [
+  "重圈連弧鏡"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -206,
+  8
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 11.9 cm (4 11/16 in.); Overall: 1.1 cm (7/16 in.); Rim: 0.8 cm (5/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1995.291"
+ },
+ "summary": "Mirror with Concentric Circles and Linked Arcs (重圈連弧鏡), late 300s BCE–50 CE. China, Western Han dynasty (206 BCE–8 CE). Bronze; diameter: 11.9 cm (4 11/16 in.); overall: 1.1 cm (7/16 in.); rim: 0.8 cm (5/16 in.). The Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in Honor of Sherman ",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.291/1995.291_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.291/1995.291_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1995.291",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

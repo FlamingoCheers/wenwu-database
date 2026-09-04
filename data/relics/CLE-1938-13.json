@@ -1,0 +1,57 @@
+{
+ "relic_id": "CLE-1938-13",
+ "name": "Wine Vessel (Fu Wu Zun)",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1010,
+  -890
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 23.1 cm (9 1/8 in.); Overall: 25.2 cm (9 15/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1938.13"
+ },
+ "summary": "Wine Vessel (Fu Wu Zun), c. 1000–900 BCE. China, Western Zhou dynasty (c. 1046–771 BCE). Bronze; diameter: 23.1 cm (9 1/8 in.); overall: 25.2 cm (9 15/16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1938.13",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1938.13/1938.13_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1938.13/1938.13_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1938.13/1938.13_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1938.13/1938.13_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1938.13",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

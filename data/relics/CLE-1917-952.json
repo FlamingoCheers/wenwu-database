@@ -1,0 +1,47 @@
+{
+ "relic_id": "CLE-1917-952",
+ "name": "Wall Hanging",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1780,
+  1810
+ ],
+ "category": "织绣",
+ "material": "Silk; satin weave ground with supplementary silk weft wool",
+ "dimensions": "Overall: 188 x 378.4 cm (74 x 149 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1917.952"
+ },
+ "summary": "Wall Hanging, late 1700s–early 1800s. China, Qing dynasty (1644-1911). Silk; satin weave ground with supplementary silk weft wool; overall: 188 x 378.4 cm (74 x 149 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. Ralph King, 1917.952",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.952/1917.952_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1917.952/1917.952_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1917.952",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

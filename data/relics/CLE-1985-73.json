@@ -1,0 +1,59 @@
+{
+ "relic_id": "CLE-1985-73",
+ "name": "Frieze Fragment with Chariot Procession",
+ "aliases": [
+  "車馬出行畫像石"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  100,
+  199
+ ],
+ "category": "雕塑",
+ "material": "stone carved in low relief with engraved detail",
+ "dimensions": "Overall: 48.3 x 166.4 x 13.3 cm (19 x 65 1/2 x 5 1/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.73"
+ },
+ "summary": "The frieze shows a procession of horse-drawn chariots passing through terrain animated with wild animals and a monkey climbing a tree. The border of swirling clouds above conveys associations with heaven or the remote land of immortals in the high mountains. Comparable in style with the stone relief",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1985.73/1985.73_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1985.73/1985.73_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1985.73/1985.73_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1985.73/1985.73_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1985.73",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "出行"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

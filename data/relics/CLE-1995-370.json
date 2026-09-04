@@ -1,0 +1,55 @@
+{
+ "relic_id": "CLE-1995-370",
+ "name": "Huzhou Mirror",
+ "aliases": [
+  "湖州素鏡"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1500,
+  1599
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 15.8 cm (6 1/4 in.); Overall: 1.1 cm (7/16 in.); Rim: 0.9 cm (3/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1995.370"
+ },
+ "summary": "Huzhou Mirror (湖州素鏡), 1500s. China, Huzhou, Ming dynasty (1368-1644). Bronze; diameter: 15.8 cm (6 1/4 in.); overall: 1.1 cm (7/16 in.); rim: 0.9 cm (3/8 in.). The Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee, 1995.370",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.370/1995.370_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.370/1995.370_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.370/1995.370_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1995.370",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

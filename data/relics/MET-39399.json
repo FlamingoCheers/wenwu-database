@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-39399",
+ "name": "Ritual Censer",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1400,
+  1599
+ ],
+ "category": "金银器",
+ "material": "Iron inlaid with gold",
+ "dimensions": "H. (incl. cover): 6 11/16 in. (17 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1987.416.2"
+ },
+ "summary": "Censer。Tibet",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP102619.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39399",
+ "license": "CC0",
+ "tags": [
+  "礼制",
+  "祭祀",
+  "香文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39399.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

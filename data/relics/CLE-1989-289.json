@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-1989-289",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1488,
+  1505
+ ],
+ "category": "瓷器",
+ "material": "porcelain with yellow glaze",
+ "dimensions": "Diameter: 18 cm (7 1/16 in.); Overall: 8.2 cm (3 1/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1989.289"
+ },
+ "summary": "Bowl, 1488–1505. China, Jiangxi province, Jingdezhen, Ming dynasty (1368–1644), Hongzhi mark and period (1488–1505). Porcelain with yellow glaze; diameter: 18 cm (7 1/16 in.); overall: 8.2 cm (3 1/4 in.). The Cleveland Museum of Art, Bequest of Mrs. Severance A. Millikin, 1989.289",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1989.289/1989.289_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1989.289/1989.289_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1989.289/1989.289_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1989.289/1989.289_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1989.289",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,53 @@
+{
+ "relic_id": "CLE-1915-673",
+ "name": "Zhang (Ceremonial Blade)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -2500,
+  -1500
+ ],
+ "category": "玉器",
+ "material": "nephrite",
+ "dimensions": "Overall: 7.9 x 0.5 cm (3 1/8 x 3/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1915.673"
+ },
+ "summary": "Zhang (Ceremonial Blade), c. 2500–1500 BCE. China, Neolithic period (3000s–2000s BCE) to Shang dynasty (c. 1766–1045 BCE). Nephrite; overall: 7.9 x 0.5 cm (3 1/8 x 3/16 in.). The Cleveland Museum of Art, Gift of the John Huntington Art and Polytechnic Trust, 1915.673",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.673/1915.673_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.673/1915.673_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.673/1915.673_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1915.673",
+ "license": "CC0",
+ "tags": [
+  "战争",
+  "兵器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

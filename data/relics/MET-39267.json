@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-39267",
+ "name": "Standing Maitreya",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1750
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 20 3/8 in. (51.8 cm); W. 7 3/4 (19.7 cm); D. 4 3/4 in. (12.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "12.37.165"
+ },
+ "summary": "Figure。Tibet",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/12_37_165_12309.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39267",
+ "license": "CC0",
+ "tags": [
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39267.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

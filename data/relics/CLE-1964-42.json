@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-1964-42",
+ "name": "Dragon",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": "glazed porcelain, qingbai (\"blue-white\") ware",
+ "dimensions": "Diameter: 5.2 cm (2 1/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1964.42"
+ },
+ "summary": "Dragon, 1127–1368. China, Southern Song Dynasty (1127-1279) - Yuan Dynasty (1271-1368). Glazed porcelain, qingbai (\"blue-white\") ware; diameter: 5.2 cm (2 1/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 1964.42",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1964.42/1964.42_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1964.42/1964.42_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1964.42/1964.42_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1964.42/1964.42_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1964.42",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

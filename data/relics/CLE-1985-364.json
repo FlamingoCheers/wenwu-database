@@ -1,0 +1,54 @@
+{
+ "relic_id": "CLE-1985-364",
+ "name": "Insects and Bamboo",
+ "aliases": [
+  "竹蟲圖"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1200,
+  1299
+ ],
+ "category": "书画",
+ "material": "Album leaf; ink and light color on silk",
+ "dimensions": "Image: 23.8 x 25.6 cm (9 3/8 x 10 1/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.364"
+ },
+ "summary": "This painting represents a microcosm (a world in small) of the Jiangnan ecosystem: while the bush cricket feeds on bamboo, the male widow-skimmer dragonfly is a predator of small insects like mosquitos. Mosquitoes, abundant in late summer and early autumn, suggest the fall season.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1985.364/1985.364_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1985.364/1985.364_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1985.364/1985.364_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1985.364",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

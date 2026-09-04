@@ -1,0 +1,53 @@
+{
+ "relic_id": "CLE-2023-162-2",
+ "name": "Right Scroll from Calligraphy Couplet",
+ "aliases": [
+  "對聯書法"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1911,
+  1929
+ ],
+ "category": "书画",
+ "material": "One of a pair of hanging scrolls; ink on paper",
+ "dimensions": "Overall: 128 x 30 cm (50 3/8 x 11 13/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2023.162.2"
+ },
+ "summary": "The prominent politician and modern reformer Liang Qichao writes here in an angular, firm, and little modulated regular script style, inspired by inscriptions incised on ancient stone steles. Those script styles were popular among reformers of the time, as they sought to revive the ancient culture a",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2023.162.2/2023.162.2_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2023.162.2/2023.162.2_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2023.162.2/2023.162.2_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2023.162.2",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

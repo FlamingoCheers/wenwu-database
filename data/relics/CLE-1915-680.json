@@ -1,0 +1,59 @@
+{
+ "relic_id": "CLE-1915-680",
+ "name": "Hunting on Horses",
+ "aliases": [
+  "騎馬狩獵"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1600,
+  1799
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink and color on silk",
+ "dimensions": "Painting: 276 x 147.5 cm (108 11/16 x 58 1/16 in.); Overall with knobs: 380 x 184 cm (149 5/8 x 72 7/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1915.680"
+ },
+ "summary": "This large-scale hanging scroll depicts a party hunting for waterfowl along a riverbank in the springtime. The leader is distinguished from the other five mounted hunters by his purple robe with golden dragon patterns and his white horse with a red tassel. He and his horse maintain still, dignified ",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.680/1915.680_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.680/1915.680_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.680/1915.680_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.680/1915.680_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1915.680",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

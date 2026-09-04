@@ -1,0 +1,59 @@
+{
+ "relic_id": "CLE-1915-105",
+ "name": "Landscape",
+ "aliases": [
+  "山水圖"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1632,
+  1717
+ ],
+ "category": "书画",
+ "material": "hanging scroll; color on silk",
+ "dimensions": "Overall: 200.9 x 99.2 cm (79 1/8 x 39 1/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1915.105"
+ },
+ "summary": "Landscape (山水圖), 1632–1717. Wang Hui (Chinese, 1632–1717). Hanging scroll; color on silk; overall: 200.9 x 99.2 cm (79 1/8 x 39 1/16 in.). The Cleveland Museum of Art, Gift of Charles L. Freer, 1915.105",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.105/1915.105_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.105/1915.105_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.105/1915.105_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.105/1915.105_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1915.105",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

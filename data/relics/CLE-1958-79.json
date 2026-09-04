@@ -1,0 +1,59 @@
+{
+ "relic_id": "CLE-1958-79",
+ "name": "Horse",
+ "aliases": [
+  "馬"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -202,
+  220
+ ],
+ "category": "雕塑",
+ "material": "gilt bronze",
+ "dimensions": "Overall: 7.8 cm (3 1/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1958.79"
+ },
+ "summary": "Horse (馬), 202 BCE–220 CE. China, Ordos Region, Han dynasty (202 BCE–220 CE). Gilt bronze; overall: 7.8 cm (3 1/16 in.). The Cleveland Museum of Art, Bequest of Leonard C. Hanna Jr., 1958.79",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1958.79/1958.79_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1958.79/1958.79_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1958.79/1958.79_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1958.79/1958.79_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1958.79",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,60 @@
+{
+ "relic_id": "CLE-2003-352",
+ "name": "Lineage Portrait of Buddhist Monks",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1600,
+  1699
+ ],
+ "category": "书画",
+ "material": "hanging scroll mounted on a panel (framed); ink, color, and gold on paper",
+ "dimensions": "Overall: 171.5 x 99.7 cm (67 1/2 x 39 1/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2003.352"
+ },
+ "summary": "This painting features 24 Buddhist priests, likely of several generations and members of the same temple or school. The priests are depicted with attention to individual features and appearances, dressed in their formal garments. They may represent monks of the Ōbaku school, a form of Chan (Japanese",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2003.352/2003.352_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2003.352/2003.352_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2003.352/2003.352_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2003.352/2003.352_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2003.352",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "酒文化",
+  "礼制",
+  "动物",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

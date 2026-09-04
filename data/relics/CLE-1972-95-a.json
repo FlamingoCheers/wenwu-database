@@ -1,0 +1,47 @@
+{
+ "relic_id": "CLE-1972-95-a",
+ "name": "Covered Box: Yue Ware",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  907,
+  960
+ ],
+ "category": "瓷器",
+ "material": "glazed stoneware with incised decoration",
+ "dimensions": "Diameter: 13 cm (5 1/8 in.); Overall: 4.5 cm (1 3/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1972.95.a"
+ },
+ "summary": "Covered Box: Yue Ware, 907–960. China, Shang-lin-hu kilns, Yu-yao District, Zhejiang province, Five dynasties (907-960). Glazed stoneware with incised decoration; diameter: 13 cm (5 1/8 in.); overall: 4.5 cm (1 3/4 in.). The Cleveland Museum of Art, Gift of Mary B. Lee, C. Bingham Blossom, Dudley S.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1972.95.a/1972.95.a_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1972.95.a/1972.95.a_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1972.95.a",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

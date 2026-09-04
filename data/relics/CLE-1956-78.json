@@ -1,0 +1,52 @@
+{
+ "relic_id": "CLE-1956-78",
+ "name": "Skirt",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1875,
+  1900
+ ],
+ "category": "织绣",
+ "material": "embroidered silk, wool",
+ "dimensions": "Overall: 96 x 78 cm (37 13/16 x 30 11/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1956.78"
+ },
+ "summary": "Skirt, c. 1875–1900. China, Late 19th century. Embroidered silk, wool; overall: 96 x 78 cm (37 13/16 x 30 11/16 in.). The Cleveland Museum of Art, The Harold T. Clark Educational Extension Fund, 1956.78",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1956.78/1956.78_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1956.78/1956.78_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1956.78/1956.78_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1956.78",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

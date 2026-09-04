@@ -1,0 +1,57 @@
+{
+ "relic_id": "CLE-1916-1398",
+ "name": "Cocoon Flask",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -206,
+  9
+ ],
+ "category": "陶器",
+ "material": "earthenware",
+ "dimensions": "Diameter of mouth: 9.3 cm (3 11/16 in.); Overall: 26.4 x 34.8 cm (10 3/8 x 13 11/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1916.1398"
+ },
+ "summary": "Cocoon Flask, 206 BCE–9 CE. China, Western Han dynasty (206 BCE–8 CE). Earthenware; diameter of mouth: 9.3 cm (3 11/16 in.); overall: 26.4 x 34.8 cm (10 3/8 x 13 11/16 in.). The Cleveland Museum of Art, Worcester R. Warner Collection, 1916.1398",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1398/1916.1398_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1398/1916.1398_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1398/1916.1398_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1398/1916.1398_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1916.1398",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

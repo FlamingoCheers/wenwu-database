@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-1975-10",
+ "name": "Chest for Storing Garments",
+ "aliases": [
+  "存放袈裟的箱子"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1400,
+  1499
+ ],
+ "category": "漆器",
+ "material": "lacquered wood with mother-of-pearl inlay",
+ "dimensions": "Overall: 43 x 56 x 54.7 cm (16 15/16 x 22 1/16 x 21 9/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1975.10"
+ },
+ "summary": "This precious lacquer box is decorated with bird and plant motifs and figures in mother-of-pearl inlay. The decoration depicts the leisurely pursuit of scholars in nature and a garden setting. Scholars play the board game weiqi, have philosophical conversations, pluck a qin (a zither-like instrument",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1975.10/1975.10_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1975.10/1975.10_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1975.10/1975.10_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1975.10/1975.10_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1975.10",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

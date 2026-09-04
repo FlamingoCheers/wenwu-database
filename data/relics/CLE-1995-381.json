@@ -1,0 +1,56 @@
+{
+ "relic_id": "CLE-1995-381",
+ "name": "Mirror Featuring Dading Coins",
+ "aliases": [
+  "大定通寶花紋鏡"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1178,
+  1234
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 11.9 cm (4 11/16 in.); Overall: 0.8 cm (5/16 in.); Rim: 0.4 cm (3/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1995.381"
+ },
+ "summary": "Mirror Featuring Dading Coins (大定通寶花紋鏡), c. 1178–1234. China, Jin dynasty (1115-1234). Bronze; diameter: 11.9 cm (4 11/16 in.); overall: 0.8 cm (5/16 in.); rim: 0.4 cm (3/16 in.). The Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee, 1995.381",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.381/1995.381_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.381/1995.381_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.381/1995.381_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1995.381",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "货币金融",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

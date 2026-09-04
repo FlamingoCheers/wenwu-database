@@ -1,0 +1,46 @@
+{
+ "relic_id": "CLE-1915-395",
+ "name": "String of Beads",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  200,
+  1915
+ ],
+ "category": "陶器",
+ "material": "crystal, stone, pottery and clay beads",
+ "dimensions": "",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1915.395"
+ },
+ "summary": "String of Beads, 200 CE or later. China, Han dynasty (202 BCE–220 CE) or later. Crystal, stone, pottery and clay beads. The Cleveland Museum of Art, Gift of A. W. Bahr, 1915.395",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.395/1915.395_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.395/1915.395_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1915.395",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

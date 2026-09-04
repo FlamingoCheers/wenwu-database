@@ -1,0 +1,60 @@
+{
+ "relic_id": "CLE-1995-281",
+ "name": "Mirror with Four T's",
+ "aliases": [
+  "四山鏡"
+ ],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -399,
+  -300
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 10.4 cm (4 1/8 in.); Rim: 0.5 cm (3/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1995.281"
+ },
+ "summary": "The symbolic significance of the ancient Chinese mirror lies in its circular form and reflective quality that make it resemble the sun and the moon. \"By the light of the sun, the world is made bright,\" so said a mirrorsmith. When the mirror was taken with its owner for use in the afterlife, it refle",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.281/1995.281_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.281/1995.281_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.281/1995.281_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.281/1995.281_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1995.281",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

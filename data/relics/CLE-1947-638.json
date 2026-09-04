@@ -1,0 +1,57 @@
+{
+ "relic_id": "CLE-1947-638",
+ "name": "Buckle",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1900,
+  1947
+ ],
+ "category": "玉器",
+ "material": "jade               ",
+ "dimensions": "Overall: 13.1 cm (5 3/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1947.638"
+ },
+ "summary": "Buckle, 1900s. China. Jade               ; overall: 13.1 cm (5 3/16 in.). The Cleveland Museum of Art, Bequest of Cornelia Blakemore Warner, 1947.638",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1947.638/1947.638_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1947.638/1947.638_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1947.638/1947.638_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1947.638/1947.638_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1947.638",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "妆饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

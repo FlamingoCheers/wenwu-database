@@ -1,0 +1,53 @@
+{
+ "relic_id": "CLE-1915-379",
+ "name": "Bowl:  Jun Ware",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1100,
+  1299
+ ],
+ "category": "瓷器",
+ "material": "glazed stoneware",
+ "dimensions": "Diameter: 22.9 cm (9 in.); Overall: 10.1 cm (4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1915.379"
+ },
+ "summary": "Bowl:  Jun Ware, 1100s-1200s. Northern China, Northern Song dynasty (960-1127) - Jin dynasty (1115-1234). Glazed stoneware; diameter: 22.9 cm (9 in.); overall: 10.1 cm (4 in.). The Cleveland Museum of Art, Gift of Ralph King, 1915.379",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.379/1915.379_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.379/1915.379_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.379/1915.379_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1915.379",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

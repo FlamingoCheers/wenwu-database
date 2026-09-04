@@ -1,0 +1,54 @@
+{
+ "relic_id": "CLE-1988-21",
+ "name": "Funerary Urn (Hunping)",
+ "aliases": [],
+ "dynasty": "西晋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  275,
+  300
+ ],
+ "category": "瓷器",
+ "material": "green-glazed stoneware with molded and sculpted decoration",
+ "dimensions": "Diameter: 28.8 cm (11 5/16 in.); Overall: 52.1 cm (20 1/2 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1988.21"
+ },
+ "summary": "Green-glazed stoneware developed greater variety in the south after the Han dynasty. Large funerary urns known as hunping, or \"the urn of the soul,\" are evidence for its prolific production. This type of urn features multistoried towers populated by human figures, animals, and birds. It was likely a",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1988.21/1988.21_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1988.21/1988.21_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1988.21/1988.21_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1988.21",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

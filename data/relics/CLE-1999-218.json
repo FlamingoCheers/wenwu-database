@@ -1,0 +1,55 @@
+{
+ "relic_id": "CLE-1999-218",
+ "name": "Miniature Mirror with Grape Decoration",
+ "aliases": [
+  "葡萄紋掌中鏡"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  600,
+  699
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 4.9 cm (1 15/16 in.); Overall: 0.7 cm (1/4 in.); Rim: 0.7 cm (1/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1999.218"
+ },
+ "summary": "Miniature Mirror with Grape Decoration (葡萄紋掌中鏡), 600s. China, Tang dynasty (618-907). Bronze; diameter: 4.9 cm (1 15/16 in.); overall: 0.7 cm (1/4 in.); rim: 0.7 cm (1/4 in.). The Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee, 1999.218",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1999.218/1999.218_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1999.218/1999.218_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1999.218/1999.218_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1999.218",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

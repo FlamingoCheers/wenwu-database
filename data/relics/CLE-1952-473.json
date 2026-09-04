@@ -1,0 +1,51 @@
+{
+ "relic_id": "CLE-1952-473",
+ "name": "Scabbard Chape (Bi)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -206,
+  220
+ ],
+ "category": "玉器",
+ "material": "jade ",
+ "dimensions": "Overall: 4.8 x 5.5 cm (1 7/8 x 2 3/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1952.473"
+ },
+ "summary": "Scabbard Chape (Bi), 206 BCE–220 CE. China, Han dynasty (202 BCE–220 CE). Jade ; overall: 4.8 x 5.5 cm (1 7/8 x 2 3/16 in.). The Cleveland Museum of Art, Anonymous Gift, 1952.473",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1952.473/1952.473_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1952.473/1952.473_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1952.473/1952.473_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1952.473",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

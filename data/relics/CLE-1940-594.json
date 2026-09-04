@@ -1,0 +1,51 @@
+{
+ "relic_id": "CLE-1940-594",
+ "name": "Shawl",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "织绣",
+ "material": "embroidery, silk",
+ "dimensions": "Overall: 597.8 x 113.4 cm (235 3/8 x 44 5/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1940.594"
+ },
+ "summary": "Shawl, 1800s. China, 19th century. Embroidery, silk; overall: 597.8 x 113.4 cm (235 3/8 x 44 5/8 in.). The Cleveland Museum of Art, Bequest of James Parmelee, 1940.594",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1940.594/1940.594_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1940.594/1940.594_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1940.594/1940.594_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1940.594",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

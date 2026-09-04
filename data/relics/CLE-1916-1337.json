@@ -1,0 +1,46 @@
+{
+ "relic_id": "CLE-1916-1337",
+ "name": "Tapestry",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1700,
+  1799
+ ],
+ "category": "织绣",
+ "material": "tapestry weave, silk and gold thread",
+ "dimensions": "Overall: 213.4 x 228.6 cm (84 x 90 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1916.1337"
+ },
+ "summary": "Tapestry, 1700s. China, Qing dynasty (1644-1911). Tapestry weave, silk and gold thread; overall: 213.4 x 228.6 cm (84 x 90 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. J. H. Wade, 1916.1337",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1337/1916.1337_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1337/1916.1337_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1916.1337",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,52 @@
+{
+ "relic_id": "CLE-1929-984",
+ "name": "Wine Vessel (Hu)",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -500,
+  -475
+ ],
+ "category": "青铜器",
+ "material": "bronze with gold inlay",
+ "dimensions": "Diameter: 24.1 cm (9 1/2 in.); Diameter of mouth: 10.1 cm (4 in.); Overall: 27.6 cm (10 7/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1929.984"
+ },
+ "summary": "By the time this wine vessel was cast, bronzes were increasingly losing their ritual significance and becoming symbols of prestige and conspicuous consumption. This globular jar (hu) reflects the splendor and luxury of the time. The jar is decorated with free-flowing scrollwork and interlaced zoomor",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1929.984/1929.984_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1929.984/1929.984_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1929.984/1929.984_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1929.984",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

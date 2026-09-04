@@ -1,0 +1,55 @@
+{
+ "relic_id": "CLE-1995-318",
+ "name": "Mirror with Quatrefoil, Concentric Circles, and Linked Arcs",
+ "aliases": [
+  "四葉重圈連弧紋鏡"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  25,
+  220
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 15 cm (5 7/8 in.); Overall: 1.2 cm (1/2 in.); Rim: 0.5 cm (3/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1995.318"
+ },
+ "summary": "Mirror with Quatrefoil, Concentric Circles, and Linked Arcs (四葉重圈連弧紋鏡), 25–220 CE. China, Eastern Han dynasty (25–220 CE). Bronze; diameter: 15 cm (5 7/8 in.); overall: 1.2 cm (1/2 in.); rim: 0.5 cm (3/16 in.). The Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in Honor of Sherman E.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.318/1995.318_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.318/1995.318_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.318/1995.318_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1995.318",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

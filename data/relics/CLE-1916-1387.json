@@ -1,0 +1,56 @@
+{
+ "relic_id": "CLE-1916-1387",
+ "name": "Velvet Strip",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1845,
+  1865
+ ],
+ "category": "织绣",
+ "material": "Velvet and gold thread; brocade",
+ "dimensions": "Overall: 178.1 x 54.6 cm (70 1/8 x 21 1/2 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1916.1387"
+ },
+ "summary": "Velvet Strip, mid-1800s. China, Qing dynasty (1644-1911). Velvet and gold thread; brocade; overall: 178.1 x 54.6 cm (70 1/8 x 21 1/2 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. J. H. Wade, 1916.1387",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1387/1916.1387_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1387/1916.1387_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1387/1916.1387_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1387/1916.1387_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1916.1387",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

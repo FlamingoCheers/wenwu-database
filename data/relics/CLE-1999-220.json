@@ -1,0 +1,60 @@
+{
+ "relic_id": "CLE-1999-220",
+ "name": "Double-tier Mirror",
+ "aliases": [
+  "透雕紋鏡"
+ ],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -399,
+  -300
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 7.6 cm (3 in.); Overall: 0.8 cm (5/16 in.); Rim: 0.5 cm (3/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1999.220"
+ },
+ "summary": "The craft of mirror making prospered remarkably during the Warring States period, as bronzes increasingly served as luxury items for individuals. A variety of ornamentations appear on the backs of mirrors, some of which bear resemblance to those found in contemporary jades, lacquer wares, and textil",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1999.220/1999.220_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1999.220/1999.220_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1999.220/1999.220_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1999.220/1999.220_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1999.220",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

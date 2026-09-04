@@ -1,0 +1,48 @@
+{
+ "relic_id": "CLE-1989-298",
+ "name": "Candlesticks",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1600,
+  1699
+ ],
+ "category": "瓷器",
+ "material": "glazed porcelain with metal rims",
+ "dimensions": "Overall: 32.4 cm (12 3/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1989.298"
+ },
+ "summary": "Candlesticks, 1600s. China, Ming dynasty (1368–1644). Glazed porcelain with metal rims; overall: 32.4 cm (12 3/4 in.). The Cleveland Museum of Art, Bequest of Mrs. Severance A. Millikin, 1989.298",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1989.298/1989.298_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1989.298/1989.298_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1989.298",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物",
+  "照明"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

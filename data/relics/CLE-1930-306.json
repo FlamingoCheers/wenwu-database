@@ -1,0 +1,52 @@
+{
+ "relic_id": "CLE-1930-306",
+ "name": "Fantastic Lion",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -206,
+  220
+ ],
+ "category": "雕塑",
+ "material": "bronze",
+ "dimensions": "Overall: 4.6 cm (1 13/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1930.306"
+ },
+ "summary": "Fantastic Lion, 206 BCE–220 CE. China, Han dynasty (202 BCE–220 CE). Bronze; overall: 4.6 cm (1 13/16 in.). The Cleveland Museum of Art, Dudley P. Allen Fund, 1930.306",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1930.306/1930.306_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1930.306/1930.306_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1930.306/1930.306_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1930.306",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

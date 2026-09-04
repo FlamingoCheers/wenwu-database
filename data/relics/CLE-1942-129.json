@@ -1,0 +1,59 @@
+{
+ "relic_id": "CLE-1942-129",
+ "name": "Tea Bowl: Jian ware",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": "stoneware",
+ "dimensions": "Diameter: 12.8 cm (5 1/16 in.); Overall: 7 cm (2 3/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1942.129"
+ },
+ "summary": "This tea bowl has rounded sides, a small foot, and a slight groove below the lip. The café au lait–colored glaze is burned thin at the rim. There are irregular blue-black \"hare's fur\" markings on the bottom of the bowl. The lip shows signs of much use.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1942.129/1942.129_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1942.129/1942.129_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1942.129/1942.129_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1942.129/1942.129_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1942.129",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "茶文化",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

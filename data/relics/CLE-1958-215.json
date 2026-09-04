@@ -1,0 +1,53 @@
+{
+ "relic_id": "CLE-1958-215",
+ "name": "Charger",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1715,
+  1725
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Diameter: 38.3 cm (15 1/16 in.); Overall: 5.5 cm (2 3/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1958.215"
+ },
+ "summary": "Charger, c. 1720. China, Chinese Export -- English Market, 18th century. Porcelain; diameter: 38.3 cm (15 1/16 in.); overall: 5.5 cm (2 3/16 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. Robert Hays Gries, 1958.215",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1958.215/1958.215_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1958.215/1958.215_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1958.215/1958.215_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1958.215",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,52 @@
+{
+ "relic_id": "CLE-1999-260-k",
+ "name": "Album of Calligraphy and Paintings",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1700,
+  1752
+ ],
+ "category": "书画",
+ "material": "album leaf; ink and color on paper",
+ "dimensions": "Overall: 18.5 x 27.5 cm (7 5/16 x 10 13/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1999.260.k"
+ },
+ "summary": "The artist Bian Shoumin is known for his depiction of wild geese, water, and reeds. The migrant birds in autumn and winter evoked, in the minds of the Chinese intelligentsia, a time of parting and sorrow.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1999.260.k/1999.260.k_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1999.260.k/1999.260.k_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1999.260.k/1999.260.k_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1999.260.k",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

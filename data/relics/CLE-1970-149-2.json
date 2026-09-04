@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-1970-149-2",
+ "name": "Seated Buddha",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1500,
+  1599
+ ],
+ "category": "雕塑",
+ "material": "gilt bronze",
+ "dimensions": "Overall: 9.9 cm (3 7/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1970.149.2"
+ },
+ "summary": "Seated Buddha, 1500s. China, Ming dynasty (1368–1644). Gilt bronze; overall: 9.9 cm (3 7/8 in.). The Cleveland Museum of Art, Gift of Mrs. John Lyon Collyer in memory of her mother, Mrs. G. M. G. Forman, 1970.149.2",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1970.149.2/1970.149.2_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1970.149.2/1970.149.2_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1970.149.2/1970.149.2_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1970.149.2/1970.149.2_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1970.149.2",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

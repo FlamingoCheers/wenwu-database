@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-2025-83",
+ "name": "Music in the Jade Palace",
+ "aliases": [
+  "瓊宮樂奏圖"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "竹木牙角",
+ "material": "Multicolor woodblock print on paper",
+ "dimensions": "Print only: 119 x 60.5 cm (46 7/8 x 23 13/16 in.); Overall: 119.5 x 65.6 cm (47 1/16 x 25 13/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2025.83"
+ },
+ "summary": "In the 1600s, printing flourished in such Jiangnan cities as Nanjing, Suzhou, Hangzhou, and Huizhou, evolving from privately enjoyed illustrated books printed in color to more commercialized single-sheet color prints that were hung on walls and became part of the rich urban visual culture.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2025.83/2025.83_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2025.83/2025.83_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2025.83/2025.83_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2025.83/2025.83_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2025.83",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

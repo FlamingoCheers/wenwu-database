@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-1942-212",
+ "name": "Ink Cake with Architectural Design",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "杂器",
+ "material": "molded ink",
+ "dimensions": "Overall: 2.4 x 13.4 cm (15/16 x 5 1/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1942.212"
+ },
+ "summary": "In China, access to political power was granted to those who passed the civil service examinations, a system that offered official service only at a high level of education. Chinese literati-officials, whose daily routine involved administrative work in an office, enjoyed precious objects on their w",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1942.212/1942.212_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1942.212/1942.212_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1942.212/1942.212_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1942.212/1942.212_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1942.212",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "文房",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

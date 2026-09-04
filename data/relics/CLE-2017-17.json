@@ -1,0 +1,53 @@
+{
+ "relic_id": "CLE-2017-17",
+ "name": "Ewer",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "瓷器",
+ "material": "Glazed stoneware, Huangdao ware",
+ "dimensions": "Overall: 27 x 20.3 cm (10 5/8 x 8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2017.17"
+ },
+ "summary": "The splashes of color on the dark glaze were achieved by sprinkling the wood ash on the black-brown glaze before firing. This local ware may be considered a predecessor of Jun ware, which was produced in the same region and was sometimes decorated by splashing.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2017.17/2017.17_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2017.17/2017.17_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2017.17/2017.17_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2017.17",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

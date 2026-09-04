@@ -1,0 +1,51 @@
+{
+ "relic_id": "CLE-1916-1189",
+ "name": "Cauldron on High Rounded Foot",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -200,
+  -100
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Overall: 19.8 cm (7 13/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1916.1189"
+ },
+ "summary": "Cauldron on High Rounded Foot, 200–1 BCE. China, Ordos Region, Han dynasty (202 BCE–220 CE). Bronze; overall: 19.8 cm (7 13/16 in.). The Cleveland Museum of Art, Worcester R. Warner Collection, 1916.1189",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1189/1916.1189_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1189/1916.1189_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1189/1916.1189_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1916.1189",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-2003-2",
+ "name": "Tripod (Ding)",
+ "aliases": [
+  "鼎"
+ ],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -2000,
+  -1000
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Overall: 57.4 cm (22 5/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2003.2"
+ },
+ "summary": "Large and majestic, this tripod gives the effect of overpowering force. Three animal masks (known as taotie) with coiled creatures are aligned in the decorative frieze. With the gaze of the staring eyes, the animal masks assert a religious presence and are meant to instill fear. Bold images of the r",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2003.2/2003.2_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2003.2/2003.2_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2003.2/2003.2_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2003.2/2003.2_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2003.2",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

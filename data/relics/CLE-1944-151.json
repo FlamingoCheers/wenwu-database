@@ -1,0 +1,59 @@
+{
+ "relic_id": "CLE-1944-151",
+ "name": "Bottle-Shaped Vase",
+ "aliases": [
+  "粉彩萬花錦紋瓶"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1796,
+  1820
+ ],
+ "category": "瓷器",
+ "material": "Porcelain, overglaze colors and gold",
+ "dimensions": "Overall: 30.8 cm (12 1/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1944.151"
+ },
+ "summary": "This vase is densely decorated with peonies, morning glories, lilies, and lotuses. Purple, yellow, and blue petals fill the surface, forming a continuous millefleur (thousand-flower) pattern. Each petal is delicately shaded to suggest volume and depth, creating a vivid yet orderly composition. The m",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1944.151/1944.151_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1944.151/1944.151_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1944.151/1944.151_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1944.151/1944.151_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1944.151",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

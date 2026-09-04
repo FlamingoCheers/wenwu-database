@@ -1,0 +1,48 @@
+{
+ "relic_id": "CLE-1942-1083-1",
+ "name": "Textile Ornament(?): Phoenix",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  700,
+  800
+ ],
+ "category": "金银器",
+ "material": "beaten gold with chased detail",
+ "dimensions": "Overall: 12 x 10.4 cm (4 3/4 x 4 1/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1942.1083.1"
+ },
+ "summary": "This phoenix bird made of thin gold foil has tiny holes all along its edges, suggesting that it was sewn onto a textile.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1942.1083.1/1942.1083.1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1942.1083.1/1942.1083.1_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1942.1083.1",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "祥瑞纹样",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

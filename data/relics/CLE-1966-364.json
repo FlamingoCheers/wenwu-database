@@ -1,0 +1,59 @@
+{
+ "relic_id": "CLE-1966-364",
+ "name": "Standing Guanyin",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  700,
+  800
+ ],
+ "category": "雕塑",
+ "material": "limestone",
+ "dimensions": "Overall: 170.8 cm (67 1/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1966.364"
+ },
+ "summary": "The statue is identified and dated by an inscription to 687. There is a marked restraint and stately elegance of the well-proportioned figure standing in a relaxed pose.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1966.364/1966.364_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1966.364/1966.364_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1966.364/1966.364_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1966.364/1966.364_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1966.364",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "酒文化",
+  "礼制",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

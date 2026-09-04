@@ -1,0 +1,56 @@
+{
+ "relic_id": "CLE-1925-133",
+ "name": "Head of a Patriarch",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1200,
+  1644
+ ],
+ "category": "雕塑",
+ "material": "wood covered with lacquer",
+ "dimensions": "Overall: 32 x 20 cm (12 5/8 x 7 7/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1925.133"
+ },
+ "summary": "Head of a Patriarch, 1368–1644 or earlier. China, Ming dynasty (1368-1644) or earlier. Wood covered with lacquer; overall: 32 x 20 cm (12 5/8 x 7 7/8 in.). The Cleveland Museum of Art, Dudley P. Allen Fund, 1925.133",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1925.133/1925.133_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1925.133/1925.133_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1925.133/1925.133_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1925.133/1925.133_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1925.133",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

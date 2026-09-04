@@ -1,0 +1,57 @@
+{
+ "relic_id": "CLE-1939-204",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Overall: 34.4 cm (13 9/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1939.204"
+ },
+ "summary": "Vase, 1736–95. China, Qing dynasty (1644–1911), Qianlong reign (1736–95). Porcelain; overall: 34.4 cm (13 9/16 in.). The Cleveland Museum of Art, Gift of Mrs. Howard M. Hanna, Mrs. Paul Moore, and Leonard C. Hanna Jr., in memory of Leonard C. Hanna, 1939.204",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1939.204/1939.204_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1939.204/1939.204_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1939.204/1939.204_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1939.204/1939.204_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1939.204",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

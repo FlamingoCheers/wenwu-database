@@ -1,0 +1,56 @@
+{
+ "relic_id": "CLE-1964-162",
+ "name": "Kneeling Woman",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -100,
+  100
+ ],
+ "category": "陶器",
+ "material": "painted earthenware",
+ "dimensions": "Overall: 33.7 x 25 cm (13 1/4 x 9 13/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1964.162"
+ },
+ "summary": "Kneeling Woman, 100 BCE–100 CE. China, Western Han dynasty (206 BCE–8 CE) to Eastern Han dynasty (25–220 CE). Painted earthenware; overall: 33.7 x 25 cm (13 1/4 x 9 13/16 in.). The Cleveland Museum of Art, Severance and Greta Millikin Collection, 1964.162",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1964.162/1964.162_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1964.162/1964.162_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1964.162/1964.162_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1964.162/1964.162_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1964.162",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

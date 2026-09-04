@@ -1,0 +1,56 @@
+{
+ "relic_id": "CLE-1952-505",
+ "name": "Champion Vase",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "玉器",
+ "material": "jade",
+ "dimensions": "Overall: 8.9 x 9.2 x 4.6 cm (3 1/2 x 3 5/8 x 1 13/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1952.505"
+ },
+ "summary": "Champion Vase, 960– 1279. China, Song dynasty (960-1279) - Ming dynasty (1368-1644). Jade; overall: 8.9 x 9.2 x 4.6 cm (3 1/2 x 3 5/8 x 1 13/16 in.). The Cleveland Museum of Art, Anonymous Gift, 1952.505",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1952.505/1952.505_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1952.505/1952.505_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1952.505/1952.505_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1952.505/1952.505_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1952.505",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

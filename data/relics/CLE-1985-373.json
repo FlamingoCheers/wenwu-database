@@ -1,0 +1,52 @@
+{
+ "relic_id": "CLE-1985-373",
+ "name": "Lion Devouring a Lamb",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  700,
+  725
+ ],
+ "category": "雕塑",
+ "material": "white marble",
+ "dimensions": "Overall: 14 x 7.6 cm (5 1/2 x 3 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.373"
+ },
+ "summary": "Lion Devouring a Lamb, early 700s. North China, Tang dynasty (618-907). White marble; overall: 14 x 7.6 cm (5 1/2 x 3 in.). The Cleveland Museum of Art, The Kelvin Smith Collection, given by Mrs. Kelvin Smith, 1985.373",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1985.373/1985.373_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1985.373/1985.373_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1985.373/1985.373_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1985.373",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

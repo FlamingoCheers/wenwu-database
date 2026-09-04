@@ -1,0 +1,55 @@
+{
+ "relic_id": "CLE-1995-395",
+ "name": "Mirror with Confucian Maxim",
+ "aliases": [
+  "為善最樂鏡"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1400,
+  1499
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 8.3 cm (3 1/4 in.); Overall: 0.6 cm (1/4 in.); Rim: 0.5 cm (3/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1995.395"
+ },
+ "summary": "Mirror with Confucian Maxim (為善最樂鏡), 1400s. China, Ming dynasty (1368–1644). Bronze; diameter: 8.3 cm (3 1/4 in.); overall: 0.6 cm (1/4 in.); rim: 0.5 cm (3/16 in.). The Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee, 1995.395",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.395/1995.395_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.395/1995.395_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.395/1995.395_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1995.395",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

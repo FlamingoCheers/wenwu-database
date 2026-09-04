@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-2019-167",
+ "name": "Road to Shu",
+ "aliases": [
+  "蜀栈行旅图"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1743,
+  1743
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink and color on silk",
+ "dimensions": "Painting only: 187 x 256.5 cm (73 5/8 x 101 in.); Overall with knobs: 270 x 284 cm (106 5/16 x 111 13/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2019.167"
+ },
+ "summary": "Few works by the Yuan workshops in Yangzhou present a continuous composition of such monumental scale as this hanging scroll. Road to Shu (in Sichuan province) depicts the trade of goods over long distances and through mountainous terrain. Busy travelers lead mules over footbridges, mountain paths w",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2019.167/2019.167_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2019.167/2019.167_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2019.167/2019.167_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2019.167/2019.167_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2019.167",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

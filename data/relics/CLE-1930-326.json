@@ -1,0 +1,53 @@
+{
+ "relic_id": "CLE-1930-326",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1522,
+  1566
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Diameter: 20.4 cm (8 1/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1930.326"
+ },
+ "summary": "Dish, 1522–66. China, Jiangxi Province, Jingdezhen kilns, Ming dynasty (1368–1644), Jiajing mark and reign (1522–66). Porcelain; diameter: 20.4 cm (8 1/16 in.). The Cleveland Museum of Art, Charles W. Harkness Endowment Fund, 1930.326",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1930.326/1930.326_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1930.326/1930.326_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1930.326/1930.326_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1930.326",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

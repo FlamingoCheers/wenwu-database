@@ -1,0 +1,59 @@
+{
+ "relic_id": "CLE-1915-97-2",
+ "name": "Landscape",
+ "aliases": [
+  "山水圖"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1892,
+  1892
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; color on paper",
+ "dimensions": "Overall: 149.8 x 40.7 cm (59 x 16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1915.97.2"
+ },
+ "summary": "This seasonal landscape is from a set of four hanging scrolls by Ren Yu. He was the youngest, most eccentric, and least prolific of the Four Rens, a family of prominent painters in Shanghai during the late Qing dynasty (1644–1911). Perhaps due to his opium habit and subsequent financial difficulties",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.97.2/1915.97.2_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.97.2/1915.97.2_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.97.2/1915.97.2_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.97.2/1915.97.2_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1915.97.2",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

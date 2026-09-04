@@ -1,0 +1,60 @@
+{
+ "relic_id": "CLE-1973-158",
+ "name": "The Immortal Li Tieguai",
+ "aliases": [
+  "李鐵拐"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1500,
+  1599
+ ],
+ "category": "雕塑",
+ "material": "bronze",
+ "dimensions": "Overall: 41.8 cm (16 7/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1973.158"
+ },
+ "summary": "This bronze statue of Li Tieguai shows him dressed as a beggar in a tattered robe, holding a crutch in his right and a ball of medicine in his left hand. Li Tieguai is the patron saint for physicians and legend says that he dispenses pills from the gourd for the sick. He wears a belt of leaves and a",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1973.158/1973.158_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1973.158/1973.158_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1973.158/1973.158_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1973.158/1973.158_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1973.158",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

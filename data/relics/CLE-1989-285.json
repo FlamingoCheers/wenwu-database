@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-1989-285",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1426,
+  1435
+ ],
+ "category": "瓷器",
+ "material": "porcelain with copper-red glaze",
+ "dimensions": "Diameter: 15 cm (5 7/8 in.); Overall: 3.9 cm (1 9/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1989.285"
+ },
+ "summary": "Dish, 1426–35. China, Jiangxi province, Jingdezhen, Ming dynasty (1368-1644), Xuande mark and period (1426-1435). Porcelain with copper-red glaze; diameter: 15 cm (5 7/8 in.); overall: 3.9 cm (1 9/16 in.). The Cleveland Museum of Art, Bequest of Mrs. Severance A. Millikin, 1989.285",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1989.285/1989.285_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1989.285/1989.285_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1989.285/1989.285_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1989.285/1989.285_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1989.285",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

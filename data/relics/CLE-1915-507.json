@@ -1,0 +1,47 @@
+{
+ "relic_id": "CLE-1915-507",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "玻璃器",
+ "material": "glass",
+ "dimensions": "Diameter: 30.6 cm (12 1/16 in.); Overall: 13.4 cm (5 1/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1915.507"
+ },
+ "summary": "Bowl, 960–1279. China, Song dynasty (960-1279). Glass; diameter: 30.6 cm (12 1/16 in.); overall: 13.4 cm (5 1/4 in.). The Cleveland Museum of Art, Director's Contingent Fund, 1915.507",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.507/1915.507_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.507/1915.507_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1915.507",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

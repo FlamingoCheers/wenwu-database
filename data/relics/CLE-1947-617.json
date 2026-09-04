@@ -1,0 +1,52 @@
+{
+ "relic_id": "CLE-1947-617",
+ "name": "Buckle",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1900,
+  1947
+ ],
+ "category": "玉器",
+ "material": "white jade",
+ "dimensions": "Overall: 5.8 x 10.8 cm (2 5/16 x 4 1/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1947.617"
+ },
+ "summary": "The jade buckle is perforated to represent two butterflies, scroll patterns, and coins.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1947.617/1947.617_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1947.617/1947.617_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1947.617/1947.617_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1947.617",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "妆饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

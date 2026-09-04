@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-1959-47",
+ "name": "Jar",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  800,
+  999
+ ],
+ "category": "瓷器",
+ "material": "Glazed pinkish-buff stoneware; Brown ware",
+ "dimensions": "Diameter: 25.9 cm (10 3/16 in.); Overall: 27.3 cm (10 3/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1959.47"
+ },
+ "summary": "Jar, 800s–900s. China, Northern, Tang dynasty (618-907) - Five dynasties (907-960). Glazed pinkish-buff stoneware; Brown ware; diameter: 25.9 cm (10 3/16 in.); overall: 27.3 cm (10 3/4 in.). The Cleveland Museum of Art, Cornelia Blakemore Warner Fund, 1959.47",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1959.47/1959.47_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1959.47/1959.47_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1959.47/1959.47_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1959.47/1959.47_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1959.47",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,48 @@
+{
+ "relic_id": "CLE-1915-701",
+ "name": "Mountain Terrace and Pavilion",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "书画",
+ "material": "Album leaf, ink on silk",
+ "dimensions": "Diameter: 24.6 cm (9 11/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1915.701"
+ },
+ "summary": "Mountain Terrace and Pavilion, 960–1279. China, Song dynasty (960-1279). Album leaf, ink on silk; diameter: 24.6 cm (9 11/16 in.). The Cleveland Museum of Art, Gift of the John Huntington Art and Polytechnic Trust, 1915.701",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.701/1915.701_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1915.701/1915.701_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1915.701",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

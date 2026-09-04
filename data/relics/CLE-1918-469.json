@@ -1,0 +1,52 @@
+{
+ "relic_id": "CLE-1918-469",
+ "name": "Saucer",
+ "aliases": [],
+ "dynasty": "西晋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1199
+ ],
+ "category": "瓷器",
+ "material": "glazed grayish-white porcelain, Ding ware",
+ "dimensions": "Diameter: 9.9 cm (3 7/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1918.469"
+ },
+ "summary": "Saucer, 1100s. China, Jin dynasty (1115-1234). Glazed grayish-white porcelain, Ding ware; diameter: 9.9 cm (3 7/8 in.). The Cleveland Museum of Art, John L. Severance Collection, 1918.469",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1918.469/1918.469_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1918.469/1918.469_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1918.469/1918.469_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1918.469",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

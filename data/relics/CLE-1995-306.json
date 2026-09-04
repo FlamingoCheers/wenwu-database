@@ -1,0 +1,50 @@
+{
+ "relic_id": "CLE-1995-306",
+ "name": "Mirror with Concentric Circles and Linked Arcs",
+ "aliases": [
+  "重圈連弧鏡"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -99,
+  -1
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 14.9 cm (5 7/8 in.); Overall: 1.1 cm (7/16 in.); Rim: 0.7 cm (1/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1995.306"
+ },
+ "summary": "Inscription: Refine the copper to be pure and bright. Make it into a mirror to receive rightful decor. May it extend your life and remove misfortunes! [You are] coeval with the heaven above.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.306/1995.306_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.306/1995.306_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1995.306",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

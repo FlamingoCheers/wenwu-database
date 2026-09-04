@@ -1,0 +1,56 @@
+{
+ "relic_id": "CLE-2004-65",
+ "name": "Four Poems: Calligraphy in Cursive Script (xingshu)",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1558,
+  1639
+ ],
+ "category": "书画",
+ "material": "handscroll; ink on gold speckled paper",
+ "dimensions": "Calligraphy section: 27 x 195 cm (10 5/8 x 76 3/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2004.65"
+ },
+ "summary": "Written in graceful calligraphy with well-composed characters, the artist communicates his thoughts and state of mind in four poems. Characters written in dark, thick strokes convey rhythm, and indicate the moment after the writer had paused to recharge his brush with ink. Chen Jiru was a native of ",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2004.65/2004.65_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2004.65/2004.65_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2004.65/2004.65_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2004.65/2004.65_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2004.65",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

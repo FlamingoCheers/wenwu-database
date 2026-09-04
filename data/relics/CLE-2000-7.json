@@ -1,0 +1,57 @@
+{
+ "relic_id": "CLE-2000-7",
+ "name": "Flowering Plants",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1862,
+  1862
+ ],
+ "category": "书画",
+ "material": "hanging scroll; ink and color on paper",
+ "dimensions": "Overall: 127 x 36.8 cm (50 x 14 1/2 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2000.7"
+ },
+ "summary": "Flowering Plants, 1862. Wu Rangzhi (Chinese, 1799–1870). Hanging scroll; ink and color on paper; overall: 127 x 36.8 cm (50 x 14 1/2 in.). The Cleveland Museum of Art, Bequest from the Estate of Elizabeth Treuhaft, 2000.7",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2000.7/2000.7_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2000.7/2000.7_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2000.7/2000.7_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2000.7/2000.7_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2000.7",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

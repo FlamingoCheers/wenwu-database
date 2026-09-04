@@ -1,0 +1,57 @@
+{
+ "relic_id": "CLE-2007-276",
+ "name": "Bird-shaped Urn",
+ "aliases": [],
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -2650,
+  -2350
+ ],
+ "category": "陶器",
+ "material": "earthenware with slip-painted decoration",
+ "dimensions": "Overall: 26.7 x 31.1 x 27.9 cm (10 1/2 x 12 1/4 x 11 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2007.276"
+ },
+ "summary": "An imaginative shape and abstract curvilinear patterns lend delightful charm to this functional jar. Its fine-grained body has a light reddish color due to the iron content in the clay, achieved by ensuring abundant air in the kiln during the firing. The surfaces were burnished before applying the p",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2007.276/2007.276_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2007.276/2007.276_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2007.276/2007.276_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2007.276/2007.276_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2007.276",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

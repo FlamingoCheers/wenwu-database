@@ -1,0 +1,52 @@
+{
+ "relic_id": "CLE-1960-42",
+ "name": "Wine vessel (Jue)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1210,
+  -1190
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Overall: 22.7 x 17.2 cm (8 15/16 x 6 3/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1960.42"
+ },
+ "summary": "Wine and food played a major role in ritual offerings to the ancestral spirits and the Supreme Ancestor (Shangdi) performed by the Shang rulers in the state cult of ancestor worship. A variety of wine vessels—each type given a specific name—was cast to bear witness to the power and artistic vitality",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1960.42/1960.42_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1960.42/1960.42_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1960.42/1960.42_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1960.42",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

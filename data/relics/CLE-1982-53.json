@@ -1,0 +1,46 @@
+{
+ "relic_id": "CLE-1982-53",
+ "name": "Willow and Magpie",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1225,
+  1275
+ ],
+ "category": "书画",
+ "material": "hanging scroll; ink on paper",
+ "dimensions": "Image: 60.4 x 30.9 cm (23 3/4 x 12 3/16 in.); Overall: 137.2 x 48.3 cm (54 x 19 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1982.53"
+ },
+ "summary": "The Willow and Magpie is the product of a mindset that combines knowledgeable observation of birds in general and magpies in particular with an image-making process using a sophisticated ink technique to suggest the nature of the bird, the general characteristics of willow, and the visual effect of ",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1982.53/1982.53_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1982.53/1982.53_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1982.53",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

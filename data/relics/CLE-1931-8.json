@@ -1,0 +1,53 @@
+{
+ "relic_id": "CLE-1931-8",
+ "name": "Mirror in a Lacquer Case",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1800,
+  1825
+ ],
+ "category": "漆器",
+ "material": "lacquered paper; glass mirror",
+ "dimensions": "Overall: 3.2 x 31.8 x 32.4 cm (1 1/4 x 12 1/2 x 12 3/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1931.8"
+ },
+ "summary": "Mirror in a Lacquer Case, c. 1800–1825. China, Qing dynasty (1644-1911). Lacquered paper; glass mirror; overall: 3.2 x 31.8 x 32.4 cm (1 1/4 x 12 1/2 x 12 3/4 in.). The Cleveland Museum of Art, Gift of Mrs. Malcolm L. McBride, 1931.8",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1931.8/1931.8_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1931.8/1931.8_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1931.8/1931.8_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1931.8",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

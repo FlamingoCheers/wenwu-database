@@ -1,0 +1,59 @@
+{
+ "relic_id": "CLE-1975-62",
+ "name": "Hu (Jar)",
+ "aliases": [
+  "壺"
+ ],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -481,
+  -221
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Overall: 25.5 cm (10 1/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1975.62"
+ },
+ "summary": "The hunting scenes in flat, low relief on this vessel are among the earliest pictorial scenes in Chinese art, dating from the beginning of the Late Zhou period (481–221 BC).There are six horizontal bands of low relief designs across the body of the vessel. Each is composed of repeating motifs. The s",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1975.62/1975.62_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1975.62/1975.62_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1975.62/1975.62_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1975.62/1975.62_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1975.62",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

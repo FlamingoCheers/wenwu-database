@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-1918-382",
+ "name": "Moon Lute (Yueqin)",
+ "aliases": [
+  "月琴"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "竹木牙角",
+ "material": "Rosewood, wutong (paulownia) wood, and gut",
+ "dimensions": "58.4 x 35.6 cm (23 x 14 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1918.382"
+ },
+ "summary": "Its resemblance to the full moon (yue 月) gives the yueqin its name. Found in popular ensembles, the Beijing and folk (jingxi) operas and used to accompany song, the yueqin has only recently been embraced by the modern Chinese orchestra. The player presses the strings between the frets making chord p",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1918.382/1918.382_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1918.382/1918.382_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1918.382/1918.382_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1918.382/1918.382_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1918.382",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,47 @@
+{
+ "relic_id": "CLE-1954-70-tt",
+ "name": "Fragment",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  700,
+  799
+ ],
+ "category": "织绣",
+ "material": "tabby ground and twill pattern",
+ "dimensions": "Overall: 10.8 x 16.1 cm (4 1/4 x 6 5/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1954.70.tt"
+ },
+ "summary": "Fragment, 700s. China, 8th century. Tabby ground and twill pattern; overall: 10.8 x 16.1 cm (4 1/4 x 6 5/16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1954.70.tt",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1954.70.tt/1954.70.tt_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1954.70.tt/1954.70.tt_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1954.70.tt",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

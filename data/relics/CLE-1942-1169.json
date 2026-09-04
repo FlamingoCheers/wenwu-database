@@ -1,0 +1,56 @@
+{
+ "relic_id": "CLE-1942-1169",
+ "name": "Shaft Mounting",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -481,
+  -221
+ ],
+ "category": "青铜器",
+ "material": "bronze inlaid with gold and silver",
+ "dimensions": "Overall: 7.5 cm (2 15/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1942.1169"
+ },
+ "summary": "Shaft Mounting, 500–300 BCE. China, Eastern Zhou dynasty (770–256 BCE), Warring States period (475–221 BCE). Bronze inlaid with gold and silver; overall: 7.5 cm (2 15/16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1942.1169",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1942.1169/1942.1169_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1942.1169/1942.1169_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1942.1169/1942.1169_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1942.1169/1942.1169_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1942.1169",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

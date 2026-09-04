@@ -1,0 +1,60 @@
+{
+ "relic_id": "CLE-1995-331",
+ "name": "Mirror with Deities and Kings",
+ "aliases": [
+  "畫像鏡"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  100,
+  199
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 19.5 cm (7 11/16 in.); Overall: 1.9 cm (3/4 in.); Rim: 1 cm (3/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1995.331"
+ },
+ "summary": "Decorated with historic figures from the former states of Wu and Yue, this mirror illustrates the rivalry between the states of Wu (around the Lake Tai basin) and Yue (around Hangzhou Bay) that eventually resulted in the defeat of Wu in 473 BCE. Its downfall became a story retold during the Han dyna",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.331/1995.331_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.331/1995.331_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.331/1995.331_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.331/1995.331_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1995.331",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

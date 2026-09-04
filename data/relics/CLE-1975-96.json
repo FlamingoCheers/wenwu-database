@@ -1,0 +1,52 @@
+{
+ "relic_id": "CLE-1975-96",
+ "name": "Food Steamer (Xian)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1010,
+  -990
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Overall: 39.4 x 26.7 x 24.8 cm (15 1/2 x 10 1/2 x 9 3/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1975.96"
+ },
+ "summary": "Food Steamer (Xian), c. 1000 BCE. China, Shang dynasty (c. 1600–c. 1046 BCE), Anyang phase (c. 1250–1046 BCE) to Western Zhou dynasty (c. 1046–771 BCE). Bronze; overall: 39.4 x 26.7 x 24.8 cm (15 1/2 x 10 1/2 x 9 3/4 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1975.96",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1975.96/1975.96_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1975.96/1975.96_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1975.96/1975.96_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1975.96",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "茶文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

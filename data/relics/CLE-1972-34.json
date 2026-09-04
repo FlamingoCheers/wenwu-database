@@ -1,0 +1,54 @@
+{
+ "relic_id": "CLE-1972-34",
+ "name": "Mirror with 'Shan' (Mountain) Pattern",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -299,
+  -221
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 18 cm (7 1/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1972.34"
+ },
+ "summary": "Chinese mirror-casting achieved new elegance and precision with the technical development of stamped clay molds over which molten bronze was poured. A small rectangular unit of design was repeatedly stamped to create this background of curls and granulation, which resembles feather-covered textiles ",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1972.34/1972.34_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1972.34/1972.34_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1972.34/1972.34_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1972.34",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

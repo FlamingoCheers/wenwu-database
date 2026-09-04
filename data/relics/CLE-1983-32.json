@@ -1,0 +1,52 @@
+{
+ "relic_id": "CLE-1983-32",
+ "name": "Semi-formal Court Robe (Jifu)",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1775,
+  1799
+ ],
+ "category": "织绣",
+ "material": "Silk: satin weave; silk and metal thread: embroidery",
+ "dimensions": "width across shoulders: 226.1 cm (89 in.); length back of neck to hem: 154.9 cm (61 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1983.32"
+ },
+ "summary": "The lavishly embroidered motifs of dragons, clouds, waves, and rocks on this robe form a diagram that symbolizes the universe: the lower horizontal band of waves at the hem represents the oceans that surround the earth, while the prism-shaped rocks emerging from the waves at the sides, front, and ba",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1983.32/1983.32_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1983.32/1983.32_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1983.32/1983.32_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1983.32",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

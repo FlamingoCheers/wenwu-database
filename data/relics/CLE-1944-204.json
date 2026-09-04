@@ -1,0 +1,57 @@
+{
+ "relic_id": "CLE-1944-204",
+ "name": "Bottle-shaped Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "瓷器",
+ "material": "porcelain with green glaze",
+ "dimensions": "Overall: 30.2 cm (11 7/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1944.204"
+ },
+ "summary": "Bottle-shaped Vase, 1736–95. China, Qing dynasty (1644–1911), Qianlong reign (1736–95). Porcelain with green glaze; overall: 30.2 cm (11 7/8 in.). The Cleveland Museum of Art, Elisabeth Severance Prentiss Collection, 1944.204",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1944.204/1944.204_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1944.204/1944.204_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1944.204/1944.204_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1944.204/1944.204_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1944.204",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

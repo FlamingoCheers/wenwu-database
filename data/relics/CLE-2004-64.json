@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-2004-64",
+ "name": "Jar with Spiral Designs",
+ "aliases": [],
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -3300,
+  -2650
+ ],
+ "category": "陶器",
+ "material": "earthenware with slip-painted decoration",
+ "dimensions": "Diameter: 39.1 cm (15 3/8 in.); Overall: 45.2 cm (17 13/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2004.64"
+ },
+ "summary": "This jar is a spectacular example of painted pottery from the Majiayao culture, one of the regional cultures of prehistoric China. Its geometric patterns are probably abstract symbols transformed from a bird image, which may suggest a clan totem or nature spirits. Archaeological work confirms the co",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2004.64/2004.64_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2004.64/2004.64_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2004.64/2004.64_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2004.64/2004.64_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2004.64",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

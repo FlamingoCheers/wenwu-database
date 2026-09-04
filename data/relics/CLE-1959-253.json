@@ -1,0 +1,56 @@
+{
+ "relic_id": "CLE-1959-253",
+ "name": "Ganesha",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "雕塑",
+ "material": "gilt bronze",
+ "dimensions": "Overall: 9.7 x 7.6 x 6.4 cm (3 13/16 x 3 x 2 1/2 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1959.253"
+ },
+ "summary": "Ganesha, 618–907. China, Tang dynasty (618-907). Gilt bronze; overall: 9.7 x 7.6 x 6.4 cm (3 13/16 x 3 x 2 1/2 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. Leroy B. Davenport, 1959.253",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1959.253/1959.253_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1959.253/1959.253_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1959.253/1959.253_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1959.253/1959.253_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1959.253",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

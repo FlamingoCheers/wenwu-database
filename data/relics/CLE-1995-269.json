@@ -1,0 +1,53 @@
+{
+ "relic_id": "CLE-1995-269",
+ "name": "Mirror with Serpentine Interlaces",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -475,
+  -221
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 18.2 cm (7 3/16 in.); Overall: 1 cm (3/8 in.); Rim: 0.8 cm (5/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1995.269"
+ },
+ "summary": "Mirror with Serpentine Interlaces, early 400s–late 200s BCE. China, Eastern Zhou dynasty (770–256 BCE), Warring States period (475–221 BCE). Bronze; diameter: 18.2 cm (7 3/16 in.); overall: 1 cm (3/8 in.); rim: 0.8 cm (5/16 in.). The Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in ",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.269/1995.269_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.269/1995.269_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.269/1995.269_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1995.269",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

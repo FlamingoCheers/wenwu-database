@@ -1,0 +1,53 @@
+{
+ "relic_id": "CLE-1970-48",
+ "name": "Charger",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1745,
+  1755
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Diameter: 36.3 cm (14 5/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1970.48"
+ },
+ "summary": "This plate demonstrates the commercial exchange of products—in this case prints and porcelain—between Europe and Asia in the 1700s. Here, a Chinese porcelain factory adapted a French print to decorate a dish for the European market. It depicts a fable by Jean de La Fontaine in which a barrel-maker’s",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1970.48/1970.48_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1970.48/1970.48_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1970.48/1970.48_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1970.48",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

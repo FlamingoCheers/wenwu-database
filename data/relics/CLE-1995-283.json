@@ -1,0 +1,50 @@
+{
+ "relic_id": "CLE-1995-283",
+ "name": "TLV Mirror with Serpentine Interlaces",
+ "aliases": [
+  "蟠螭紋博局式鏡"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -125,
+  -1
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 14 cm (5 1/2 in.); Overall: 1 cm (3/8 in.); Rim: 0.5 cm (3/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1995.283"
+ },
+ "summary": "Inscription: In great joy and fortune, May you obtain your heart's desire. Through thousands of autumns and myriad years, May you live a lasting life.",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.283/1995.283_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.283/1995.283_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1995.283",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

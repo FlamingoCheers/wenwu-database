@@ -1,0 +1,56 @@
+{
+ "relic_id": "CLE-1916-1352",
+ "name": "Skirt",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1875,
+  1899
+ ],
+ "category": "织绣",
+ "material": "Silk and gold thread: embroidery",
+ "dimensions": "Overall: 101 x 129.6 cm (39 3/4 x 51 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1916.1352"
+ },
+ "summary": "Skirt, late 1800s. China, Qing dynasty (1644-1911). Silk and gold thread: embroidery; overall: 101 x 129.6 cm (39 3/4 x 51 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. J. H. Wade, 1916.1352",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1352/1916.1352_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1352/1916.1352_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1352/1916.1352_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1916.1352/1916.1352_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1916.1352",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

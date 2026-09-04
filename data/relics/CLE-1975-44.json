@@ -1,0 +1,53 @@
+{
+ "relic_id": "CLE-1975-44",
+ "name": "Woven Loom Piece",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1825
+ ],
+ "category": "织绣",
+ "material": "lampas, silk and gold thread",
+ "dimensions": "Overall: 260 x 76.2 cm (102 3/8 x 30 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1975.44"
+ },
+ "summary": "Woven Loom Piece, 1800–1825. China, Suzhou. Lampas, silk and gold thread; overall: 260 x 76.2 cm (102 3/8 x 30 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. C. L. Burton in memory of Helen B. Burton, 1975.44",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1975.44/1975.44_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1975.44/1975.44_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1975.44/1975.44_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1975.44",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "服饰",
+  "照明"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

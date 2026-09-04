@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-1948-210",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "瓷器",
+ "material": "stoneware, Cizhou ware",
+ "dimensions": "Diameter: 28 cm (11 in.); Overall: 15.8 cm (6 1/4 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1948.210"
+ },
+ "summary": "Bowl, 1368–1644. China, Ming dynasty (1368–1644). Stoneware, Cizhou ware; diameter: 28 cm (11 in.); overall: 15.8 cm (6 1/4 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1948.210",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1948.210/1948.210_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1948.210/1948.210_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1948.210/1948.210_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1948.210/1948.210_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1948.210",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

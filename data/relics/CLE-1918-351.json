@@ -1,0 +1,53 @@
+{
+ "relic_id": "CLE-1918-351",
+ "name": "Erxian (Two-Stringed Chinese Fiddle)",
+ "aliases": [
+  "二弦"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "竹木牙角",
+ "material": "wood",
+ "dimensions": "Diameter: 5.8 cm (2 5/16 in.); Overall: 43.2 cm (17 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1918.351"
+ },
+ "summary": "Erxian (Two-Stringed Chinese Fiddle) (二弦), 1800s. China, Qing dynasty (1644-1911). Wood; diameter: 5.8 cm (2 5/16 in.); overall: 43.2 cm (17 in.). The Cleveland Museum of Art, The Charles G. King Jr. collection; Gift of Ralph King in memory of Charles G. King Jr., 1918.351",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1918.351/1918.351_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1918.351/1918.351_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1918.351/1918.351_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1918.351",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

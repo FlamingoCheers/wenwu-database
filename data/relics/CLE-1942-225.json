@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-1942-225",
+ "name": "Ink Cake",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1800,
+  1900
+ ],
+ "category": "杂器",
+ "material": "ink cake",
+ "dimensions": "Overall: 3.8 cm (1 1/2 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1942.225"
+ },
+ "summary": "Ink Cake, 19th Century. China, Qing dynasty (1644-1911). Ink cake; overall: 3.8 cm (1 1/2 in.). The Cleveland Museum of Art, Gift of Henry W. Kent, 1942.225",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1942.225/1942.225_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1942.225/1942.225_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1942.225/1942.225_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1942.225/1942.225_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1942.225",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "文房",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

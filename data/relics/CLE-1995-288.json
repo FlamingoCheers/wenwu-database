@@ -1,0 +1,60 @@
+{
+ "relic_id": "CLE-1995-288",
+ "name": "Mirror with Clouds and Nebulae",
+ "aliases": [
+  "星雲鏡"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -200,
+  -100
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Diameter: 10 cm (3 15/16 in.); Overall: 1.2 cm (1/2 in.); Rim: 0.4 cm (3/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1995.288"
+ },
+ "summary": "Mirror with Clouds and Nebulae (星雲鏡), 200–100 BCE. China, Western Han dynasty (206 BCE–8 CE). Bronze; diameter: 10 cm (3 15/16 in.); overall: 1.2 cm (1/2 in.); rim: 0.4 cm (3/16 in.). The Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee, 1995.288",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.288/1995.288_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.288/1995.288_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.288/1995.288_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1995.288/1995.288_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1995.288",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

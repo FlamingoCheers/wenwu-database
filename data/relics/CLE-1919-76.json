@@ -1,0 +1,48 @@
+{
+ "relic_id": "CLE-1919-76",
+ "name": "Rubbing of a Stone from the Tang-Fang Collection",
+ "aliases": [
+  "仿東漢武梁祠畫像石拓片"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1900,
+  1916
+ ],
+ "category": "杂器",
+ "material": "Rubbing, ink on paper",
+ "dimensions": "Overall: 78.7 x 174 cm (31 x 68 1/2 in.); Rubbing only: 64.1 x 123.2 cm (25 1/4 x 48 1/2 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1919.76"
+ },
+ "summary": "Figures, birds, and a chariot depicted in three registers correspond to a stone relief from the east wall of the front stone chamber in the Wu Liang shrine: the top register shows a procession with a horse carriage; the second has scenes of filial piety; the third presents a banquet scene. However, ",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1919.76/1919.76_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1919.76/1919.76_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1919.76",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

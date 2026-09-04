@@ -1,0 +1,51 @@
+{
+ "relic_id": "CLE-1975-63",
+ "name": "Sarcophagus Panel",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  700,
+  725
+ ],
+ "category": "雕塑",
+ "material": "limestone",
+ "dimensions": "Overall: 119 x 69 x 10 cm (46 7/8 x 27 3/16 x 3 15/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1975.63"
+ },
+ "summary": "This slab originally formed the \"window\" panel of a coffin encasement constructed to resemble a one-story house. The dwarfs bowing respectfully under the vertical lattice window, as well as the court lady and archer engraved on the reverse, reflect the style of contemporary figure painting. Complete",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1975.63/1975.63_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1975.63/1975.63_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1975.63/1975.63_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1975.63",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

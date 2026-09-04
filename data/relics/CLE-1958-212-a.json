@@ -1,0 +1,49 @@
+{
+ "relic_id": "CLE-1958-212-a",
+ "name": "Teapot",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1770,
+  1805
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Overall: 12.7 x 13.7 cm (5 x 5 3/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1958.212.a"
+ },
+ "summary": "Teapot, c. 1775–1800. China, Chinese Export -- English or American Markets, 18th century. Porcelain; overall: 12.7 x 13.7 cm (5 x 5 3/8 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. Robert Hays Gries, 1958.212.a",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1958.212.a/1958.212.a_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1958.212.a/1958.212.a_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1958.212.a",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "茶文化",
+  "动物",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

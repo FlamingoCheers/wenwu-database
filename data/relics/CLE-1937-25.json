@@ -1,0 +1,53 @@
+{
+ "relic_id": "CLE-1937-25",
+ "name": "Ge (Dagger-Axe)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1600,
+  -1050
+ ],
+ "category": "青铜器",
+ "material": "bronze, inlaid with turquoise",
+ "dimensions": "Overall: 40.3 cm (15 7/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1937.25"
+ },
+ "summary": "Ge (Dagger-Axe), c. 1600–1050 BCE. China, Shang dynasty (c. 1600–c. 1046 BCE). Bronze, inlaid with turquoise; overall: 40.3 cm (15 7/8 in.). The Cleveland Museum of Art, Edward L. Whittemore Fund, 1937.25",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1937.25/1937.25_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1937.25/1937.25_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1937.25/1937.25_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1937.25",
+ "license": "CC0",
+ "tags": [
+  "战争",
+  "兵器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

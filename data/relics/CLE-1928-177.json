@@ -1,0 +1,57 @@
+{
+ "relic_id": "CLE-1928-177",
+ "name": "Wine Jug",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  900,
+  999
+ ],
+ "category": "瓷器",
+ "material": "glazed gray stoneware, Yue ware",
+ "dimensions": "Diameter: 12.7 cm (5 in.); Overall: 21.6 cm (8 1/2 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1928.177"
+ },
+ "summary": "Wine Jug, 900s. China, Zhejiang province, Shang-lin-hu type, Five dynasties (907–960) to Song dynasty (960–1279). Glazed gray stoneware, Yue ware; diameter: 12.7 cm (5 in.); overall: 21.6 cm (8 1/2 in.). The Cleveland Museum of Art, Gift of John L. Severance, 1928.177",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1928.177/1928.177_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1928.177/1928.177_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1928.177/1928.177_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1928.177/1928.177_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1928.177",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_2000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

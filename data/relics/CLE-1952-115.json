@@ -1,0 +1,52 @@
+{
+ "relic_id": "CLE-1952-115",
+ "name": "Belt Buckle with Animals",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -202,
+  9
+ ],
+ "category": "青铜器",
+ "material": "gilt bronze",
+ "dimensions": "Overall: 6.1 x 11.8 cm (2 3/8 x 4 5/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1952.115"
+ },
+ "summary": "Belt Buckle with Animals, 202 BCE–9 CE. China, Ordos region, Western Han dynasty (206 BCE–8 CE). Gilt bronze; overall: 6.1 x 11.8 cm (2 3/8 x 4 5/8 in.). The Cleveland Museum of Art, John L. Severance Fund, 1952.115",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1952.115/1952.115_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1952.115/1952.115_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1952.115/1952.115_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1952.115",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "妆饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

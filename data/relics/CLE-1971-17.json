@@ -1,0 +1,58 @@
+{
+ "relic_id": "CLE-1971-17",
+ "name": "Portrait of An Qi",
+ "aliases": [
+  "麓村高逸圖"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1715,
+  1715
+ ],
+ "category": "书画",
+ "material": "hanging scroll; ink and color on paper",
+ "dimensions": "Image: 122 x 53.6 cm (48 1/16 x 21 1/8 in.); Overall: 259.7 x 80.1 cm (102 1/4 x 31 9/16 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1971.17"
+ },
+ "summary": "An Qi, the subject of the portrait, was a second-generation salt merchant from Korea. He used part of his wealth to collect art. At the time this painting was commissioned, An was less than 40 years old. He is represented as a Daoist recluse in nature, informally dressed with attributes such as book",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1971.17/1971.17_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1971.17/1971.17_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1971.17/1971.17_alt0_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/1971.17/1971.17_alt1_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/1971.17",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_0.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,49 @@
+{
+ "relic_id": "CLE-2025-82",
+ "name": "Westlake Panorama",
+ "aliases": [
+  "西湖全景"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1733,
+  1766
+ ],
+ "category": "竹木牙角",
+ "material": "woodblock print, ink on paper; printed with three wood blocks in shades of black on four sheets",
+ "dimensions": "Image: 34.6 x 55.4 cm (13 5/8 x 21 13/16 in.); Paper: 38 x 59.3 cm (14 15/16 x 23 3/8 in.)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "克利夫兰艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2025.82"
+ },
+ "summary": "Revived by the southern imperial inspection tours, West Lake imagery became a popular subject during the early Qing dynasty. This panorama is composed of four prints, showing the Ten Scenes of the West Lake in Hangzhou along with other sights. The vanishing point perspective and the hatching lines t",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2025.82/2025.82_web.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  },
+  {
+   "url": "https://openaccess-cdn.clevelandart.org/2025.82/2025.82_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://clevelandart.org/art/2025.82",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/cle/page_1000.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}
