@@ -10,6 +10,7 @@ agents/knowledge/*
 # 构建产物（由 GitHub Actions 定期重建；本地开发时忽略）
 sqlite/relics.db
 search-index/
+web/data/
 
 # Python
 __pycache__/

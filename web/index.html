@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>文物数据库 · 寻器问道 — 全球博物馆中国文物检索</title>
+<meta name="description" content="聚合全球博物馆公开数据（CC0 优先）的中国文物检索库：朝代、类别、关键词检索，支持文物详情与引用来源。数据每周自动更新。">
+<meta property="og:title" content="文物数据库 · 寻器问道">
+<meta property="og:description" content="全球博物馆中国文物公开数据聚合检索 — 每一件器物，都是一段可以触摸的历史。">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48' fill='none' stroke='%23B0722A'%3E%3Ccircle cx='24' cy='24' r='5' stroke-width='2.4'/%3E%3Ccircle cx='24' cy='24' r='12.5' stroke-width='1.4' stroke-dasharray='0.1 5.4' stroke-linecap='round'/%3E%3Cg stroke-width='1.9'%3E%3Cellipse cx='24' cy='9.5' rx='4.6' ry='7'/%3E%3Cellipse cx='24' cy='38.5' rx='4.6' ry='7'/%3E%3Cellipse cx='9.5' cy='24' rx='7' ry='4.6'/%3E%3Cellipse cx='38.5' cy='24' rx='7' ry='4.6'/%3E%3C/g%3E%3C/svg%3E">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="pearl-band"></div>
+
+<header>
+  <a class="logo" href="./" aria-label="文物数据库 首页">
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+      <circle cx="24" cy="24" r="5" stroke-width="2.4"/>
+      <circle cx="24" cy="24" r="12.5" stroke-width="1.4" stroke-dasharray="0.1 5.4" stroke-linecap="round"/>
+      <g stroke-width="1.9">
+        <ellipse cx="24" cy="9.5" rx="4.6" ry="7"/><ellipse cx="24" cy="38.5" rx="4.6" ry="7"/>
+        <ellipse cx="9.5" cy="24" rx="7" ry="4.6"/><ellipse cx="38.5" cy="24" rx="7" ry="4.6"/>
+        <ellipse cx="13.6" cy="13.6" rx="4.4" ry="6.6" transform="rotate(-45 13.6 13.6)"/>
+        <ellipse cx="34.4" cy="34.4" rx="4.4" ry="6.6" transform="rotate(-45 34.4 34.4)"/>
+        <ellipse cx="34.4" cy="13.6" rx="4.4" ry="6.6" transform="rotate(45 34.4 13.6)"/>
+        <ellipse cx="13.6" cy="34.4" rx="4.4" ry="6.6" transform="rotate(45 13.6 34.4)"/>
+      </g>
+    </svg>
+    <span><b>文物数据库</b><small>WENWU DATABASE</small></span>
+  </a>
+  <nav>
+    <a href="#listTop">检索</a>
+    <a href="https://github.com/FlamingoCheers/wenwu-database#readme" target="_blank" rel="noopener">关于</a>
+  </nav>
+  <a class="gh" href="https://github.com/FlamingoCheers/wenwu-database" target="_blank" rel="noopener">★ GitHub</a>
+</header>
+
+<section class="hero">
+  <div class="ring r1"></div><div class="ring r2"></div>
+  <svg class="flower" viewBox="0 0 48 48" fill="none" stroke="currentColor" aria-hidden="true">
+    <circle cx="24" cy="24" r="5" stroke-width="2.4"/>
+    <circle cx="24" cy="24" r="12.5" stroke-width="1.4" stroke-dasharray="0.1 5.4" stroke-linecap="round"/>
+    <g stroke-width="1.9">
+      <ellipse cx="24" cy="9.5" rx="4.6" ry="7"/><ellipse cx="24" cy="38.5" rx="4.6" ry="7"/>
+      <ellipse cx="9.5" cy="24" rx="7" ry="4.6"/><ellipse cx="38.5" cy="24" rx="7" ry="4.6"/>
+      <ellipse cx="13.6" cy="13.6" rx="4.4" ry="6.6" transform="rotate(-45 13.6 13.6)"/>
+      <ellipse cx="34.4" cy="34.4" rx="4.4" ry="6.6" transform="rotate(-45 34.4 34.4)"/>
+      <ellipse cx="34.4" cy="13.6" rx="4.4" ry="6.6" transform="rotate(45 34.4 13.6)"/>
+      <ellipse cx="13.6" cy="34.4" rx="4.4" ry="6.6" transform="rotate(45 13.6 34.4)"/>
+    </g>
+  </svg>
+  <h1>寻器<em>·</em>问道</h1>
+  <p class="sub">聚合全球博物馆公开数据的中国文物检索库 —— 每一件器物，都是一段可以触摸的历史。</p>
+  <div class="search">
+    <input id="q" type="search" placeholder="搜索文物名称、朝代、类别、馆藏…  试试：唐 / 铜镜 / 瓷" autocomplete="off" aria-label="搜索文物">
+    <button class="go" aria-label="搜索">⌕</button>
+  </div>
+  <div class="quick" id="dynChips"></div>
+  <div class="stat">
+    <b id="totalN">…</b> 件文物 · <b id="muN">…</b> 家博物馆 · 数据更新于 <span id="genDate">…</span> · 每周自动更新
+  </div>
+</section>
+
+<main class="wrap" id="listTop" style="max-width:1160px">
+  <div class="filterbar" style="border-radius:12px">
+    <span class="lab">类别</span>
+    <div class="chips" id="catChips"></div>
+    <div class="right">
+      <select id="sort" aria-label="排序">
+        <option value="default">默认排序</option>
+        <option value="year_asc">年代 早 → 晚</option>
+        <option value="year_desc">年代 晚 → 早</option>
+      </select>
+      <span class="cnt" id="cnt">…</span>
+    </div>
+  </div>
+
+  <noscript><p style="text-align:center;padding:40px;color:#6F6557">检索功能需要启用 JavaScript。</p></noscript>
+  <section class="grid" id="grid" aria-live="polite">
+    <div class="status"><p>正在加载索引…</p></div>
+  </section>
+  <div class="pager" id="pager"></div>
+</main>
+
+<div class="overlay" id="detail" role="dialog" aria-modal="true" aria-label="文物详情">
+  <div class="modal">
+    <div class="fig" id="mFig"></div>
+    <div class="info">
+      <h2 id="mName"></h2>
+      <div class="alias" id="mAlias"></div>
+      <div class="pearl-line"></div>
+      <dl class="meta">
+        <dt>朝代</dt><dd id="mDyn"></dd>
+        <dt>年代</dt><dd id="mYear"></dd>
+        <dt>类别</dt><dd id="mCat"></dd>
+        <dt>材质</dt><dd id="mMat"></dd>
+        <dt>尺寸</dt><dd id="mDim"></dd>
+        <dt>收藏</dt><dd id="mMu"></dd>
+        <dt>编号</dt><dd id="mInv"></dd>
+      </dl>
+      <p class="desc" id="mDesc"></p>
+      <div class="tg" id="mTags"></div>
+      <div class="act">
+        <button class="btn dark" id="mSrc">查看来源页面 ↗</button>
+        <button class="btn ghost" id="mCopy">复制引用</button>
+      </div>
+      <div class="lic" id="mLic"></div>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast" role="status"></div>
+
+<footer>
+  <div class="fin">
+    <span><b>文物数据库</b> · wenwu-database</span>
+    <span class="cc">
+      DATA CC0 — The Metropolitan Museum of Art / The Cleveland Museum of Art<br>
+      <a href="https://github.com/FlamingoCheers/wenwu-database" target="_blank" rel="noopener">GitHub 开源仓库</a> · 每周六自动更新
+    </span>
+  </div>
+  <p>本站为开源非商业项目，仅聚合各博物馆公开授权（CC0）的开放数据并标注来源；文物影像版权归原作者所有，使用请遵循各馆开放数据政策。</p>
+</footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>
