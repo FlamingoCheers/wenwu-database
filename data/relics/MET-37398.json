@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-37398",
+ "name": "Bottle",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1367,
+  1399
+ ],
+ "category": "陶器",
+ "material": "Terracotta with inlaid designs",
+ "dimensions": "H. 7 3/8 in. (18.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1991.423.1"
+ },
+ "summary": "Bottle。Thailand",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1991_423_1.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37398",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/37398.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

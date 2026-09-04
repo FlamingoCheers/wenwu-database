@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-37532",
+ "name": "Kubera",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1200,
+  1299
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 3 1/2 in. (8.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1987.142.349"
+ },
+ "summary": "Figure。Tibet",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1987_142_349_243831.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37532",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/37532.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

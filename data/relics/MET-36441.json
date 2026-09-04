@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-36441",
+ "name": "Ritual Axe",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -2400,
+  -1900
+ ],
+ "category": "玉器",
+ "material": "Jade (nephrite)",
+ "dimensions": "L. 6 1/8 in. (15.6 cm); W. 3 7/8 in. (9.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1991.250"
+ },
+ "summary": "Ritual Axe。China。Neolithic, late Dawenkou–early Longshan culture (2400–1900 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1991_250.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/36441",
+ "license": "CC0",
+ "tags": [
+  "战争",
+  "兵器",
+  "礼制",
+  "祭祀"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/36441.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-37509",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1300,
+  1570
+ ],
+ "category": "陶器",
+ "material": "Earthenware with cream white glaze and iron-brown underglaze decoration",
+ "dimensions": "Diam. 11 1/2 in. (29.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1989.238.51"
+ },
+ "summary": "Dish。Thailand (Si Satchanalai)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP342276.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37509",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/37509.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

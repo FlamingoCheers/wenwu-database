@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-37456",
+ "name": "Bottle with Bulbous Neck",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1250,
+  1450
+ ],
+ "category": "陶器",
+ "material": "Terracotta",
+ "dimensions": "H. 6 5/8 in. (16.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1986.505.2"
+ },
+ "summary": "Bottle。Thailand",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1986_505_2_243161.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37456",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/37456.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

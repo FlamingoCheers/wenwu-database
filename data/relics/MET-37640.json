@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-37640",
+ "name": "Yakshi",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  200,
+  299
+ ],
+ "category": "杂器",
+ "material": "Brown sandstone",
+ "dimensions": "H. 7 3/4 in. (19.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "33.50.1"
+ },
+ "summary": "Statuette。India",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/33_50_1.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37640",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/37640.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

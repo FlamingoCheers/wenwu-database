@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-37661",
+ "name": "Architectural Tile with Apsara",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1300,
+  1499
+ ],
+ "category": "瓷器",
+ "material": "Glazed ceramic with traces of gilt",
+ "dimensions": "H. 9 1/4 in. (23.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1979.503"
+ },
+ "summary": "Architectural tile。Thailand (SukhoThailand)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1979_503_225331.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37661",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/37661.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

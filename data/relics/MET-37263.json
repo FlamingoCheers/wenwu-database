@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-37263",
+ "name": "The Chinese sennin Ch'en Nan (Japanese \"Chinnan\")",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1712,
+  1732
+ ],
+ "category": "竹木牙角",
+ "material": "Woodblock print; ink and color on paper (Urushi-e)",
+ "dimensions": "Overall: 11 3/4 x 6in. (29.8 x 15.2cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "JP819"
+ },
+ "summary": "Print。Japan。Edo period (1615–1868)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP130233.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37263",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/37263.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

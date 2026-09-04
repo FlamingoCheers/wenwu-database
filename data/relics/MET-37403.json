@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-37403",
+ "name": "Paint Roller",
+ "aliases": [],
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -4000,
+  -2500
+ ],
+ "category": "陶器",
+ "material": "Earthenware",
+ "dimensions": "L. 1 1/2 in. (3.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1973.334.4"
+ },
+ "summary": "Paint roller。Thailand",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1973_334_4.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37403",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/37403.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

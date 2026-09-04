@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-36161",
+ "name": "Peony",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1862,
+  1862
+ ],
+ "category": "金银器",
+ "material": "Folding fan mounted as an album leaf; ink and color on gold-flecked paper",
+ "dimensions": "7 x 20 3/4 in. (17.8 x 52.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1986.267.27"
+ },
+ "summary": "Folding fan mounted as an album leaf。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP161401.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/36161",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/36161.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

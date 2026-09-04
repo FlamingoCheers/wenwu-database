@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-37651",
+ "name": "Vessel with Bulbous Body",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -1000,
+  -300
+ ],
+ "category": "陶器",
+ "material": "Earthenware with buff slip and incised red oxide decoration",
+ "dimensions": "H. 7 in. (17.8 cm); Diam. 10 1/2 in. (26.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1996.265.3"
+ },
+ "summary": "Vessel。Thailand。late Neolithic period",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1996_265_3_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37651",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/37651.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

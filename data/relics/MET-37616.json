@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-37616",
+ "name": "Shard with Figural and Animal Decoration",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  250,
+  550
+ ],
+ "category": "陶器",
+ "material": "Painted terracotta",
+ "dimensions": "L. 1 1/2 in. (3.8 cm); H. 1 7/8 in. (4.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1992.314.1"
+ },
+ "summary": "Shard。Pakistan",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-1992_314_1-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37616",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/37616.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-37378",
+ "name": "Bandō Mitsugorō II as the Farmer Asakusa no Jirōsaku",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1794,
+  1795
+ ],
+ "category": "竹木牙角",
+ "material": "Woodblock print; ink and color on paper",
+ "dimensions": "Image: 12 3/4 × 5 15/16 in. (32.4 × 15.1 cm)\r\nMat: 22 3/4 × 15 1/2 in. (57.8 × 39.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "JP3124"
+ },
+ "summary": "Print。Japan。Edo period (1615–1868)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP130204.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37378",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/37378.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

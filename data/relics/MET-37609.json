@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-37609",
+ "name": "Krishna on Garuda",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  850,
+  899
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 15 7/16 in. (39.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1992.135"
+ },
+ "summary": "Figure。Indonesia (Java)。Central Javanese period",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT251.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37609",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/37609.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-37546",
+ "name": "Kendi",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1400,
+  1699
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with cobalt underglaze",
+ "dimensions": "H. 2 1/2 in. (6.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1991.456.2"
+ },
+ "summary": "Kendi。Vietnam",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1991_456_2_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37546",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/37546.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-37617",
+ "name": "Pedestalled Vessel",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -310,
+  310
+ ],
+ "category": "陶器",
+ "material": "Earthenware with buff slip and red oxide decoration",
+ "dimensions": "H. 9 7/16 in. (24 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1993.81.1"
+ },
+ "summary": "Vessel。Thailand (Ban Chiang)。Late period",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1993_81_1.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37617",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/37617.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

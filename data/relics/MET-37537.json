@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-37537",
+ "name": "Jar",
+ "aliases": [],
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -3500,
+  -3500
+ ],
+ "category": "陶器",
+ "material": "Pottery with painted decoration",
+ "dimensions": "H. 4 3/4 in. (12.1 cm); Diam. (at lip) 4 1/8 in. (10.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1973.334.2"
+ },
+ "summary": "Jar。Thailand",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1973_334_2.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37537",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/37537.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

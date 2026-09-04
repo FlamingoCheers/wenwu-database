@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-37660",
+ "name": "Head of a Giant",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1200,
+  1399
+ ],
+ "category": "瓷器",
+ "material": "Ceramic",
+ "dimensions": "H. 9 1/2 in. (24.1 cm); W. 8 1/4 in. (21.0 cm); D. 6 in. (15.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.80.1"
+ },
+ "summary": "Head。Thailand",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/30_80_1_78708.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37660",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/37660.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

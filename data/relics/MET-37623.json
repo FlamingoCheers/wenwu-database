@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-37623",
+ "name": "Pair of Manuscript Covers",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1000,
+  1199
+ ],
+ "category": "竹木牙角",
+ "material": "Wood with repoussé gilt copper and color",
+ "dimensions": "a: 2 7/16 x 16 3/16 in. (6.2 x 41.1 cm)\r\nb: 2 7/16 x 16 9/16 in. (6.2 x 42.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1994.78.1a, b"
+ },
+ "summary": "Manuscript covers。Nepal (Kathmandu Valley)。Thakuri period",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1994_78_1ab.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37623",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/37623.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

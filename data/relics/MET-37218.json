@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-37218",
+ "name": "Shimada",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1830,
+  1850
+ ],
+ "category": "竹木牙角",
+ "material": "Woodblock print; ink and color on paper",
+ "dimensions": "Overall: 8 3/4 x 13 3/4in. (22.2 x 34.9cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "JP774"
+ },
+ "summary": "Print。Japan。Edo period (1615–1868)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP122904.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37218",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/37218.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

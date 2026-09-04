@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-37652",
+ "name": "Footed Vessel",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -2500,
+  -1000
+ ],
+ "category": "陶器",
+ "material": "Earthenware with incised decoration",
+ "dimensions": "H. 7 3/4 in. (19.7 cm); W. 6 1/4 in. (15.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1996.265.4"
+ },
+ "summary": "Vessel。Thailand。late Neolithic period",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1996_265_4_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37652",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/37652.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

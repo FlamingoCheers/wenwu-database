@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-37499",
+ "name": "Vessel in the form of an Elephant with Rider",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1300,
+  1570
+ ],
+ "category": "陶器",
+ "material": "Earthenware with underglaze iron-brown decoration (Sawankhalok ware)",
+ "dimensions": "H. 5 1/4 in. (13.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1989.238.41"
+ },
+ "summary": "Vessel。Thailand",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1989_238_41_O.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37499",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/37499.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}
