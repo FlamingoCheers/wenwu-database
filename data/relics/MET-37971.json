@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-37971",
+ "name": "Lineage Portrait of an Abbot",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1340,
+  1360
+ ],
+ "category": "杂器",
+ "material": "Distemper on cloth",
+ "dimensions": "Overall: 30 3/8 x 23 1/2 in. (77.2 x 59.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1991.304"
+ },
+ "summary": "Painting。Central Tibet",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT6724.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37971",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/37971.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

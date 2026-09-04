@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-39736",
+ "name": "Panel with Phoenixes and Flowers",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1300,
+  1368
+ ],
+ "category": "杂器",
+ "material": "Silk and metal thread embroidery on complex gauze silk",
+ "dimensions": "Overall: 56 3/8 x 53 in. (143.2 x 134.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1988.82"
+ },
+ "summary": "Panel。China。Yuan dynasty (1271–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT1851.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39736",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39736.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

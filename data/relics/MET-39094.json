@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-39094",
+ "name": "Standing Bodhisattva, probably Avalokiteshvara",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  650,
+  850
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 4 9/16 in. (11.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1987.258.3"
+ },
+ "summary": "Figurine。Probably Plai Bat II Temple, Lahan Sai District, Buriram Province, Thailand",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1987_258_3_F.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39094",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "日常生活"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39094.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-38870",
+ "name": "Fragment of a Relief",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1400,
+  1699
+ ],
+ "category": "杂器",
+ "material": "Clay",
+ "dimensions": "2 1/2 x 2 in. (6.3 x 5.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.32.76"
+ },
+ "summary": "Relief fragment。Tibet",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-30_32_76_std-002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/38870",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/38870.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

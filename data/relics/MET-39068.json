@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-39068",
+ "name": "Standing Woman",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1100,
+  1399
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 3 11/16 in. (9.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1987.142.231"
+ },
+ "summary": "Figure。Indonesia (Java)。late Eastern Javanese period",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1987_142_231.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39068",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/39068.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

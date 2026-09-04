@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-36032",
+ "name": "Immortals and Sages",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "杂器",
+ "material": "Handscroll; ink on silk",
+ "dimensions": "13 3/8 × 85 in. (34 × 215.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "18.124.2"
+ },
+ "summary": "Handscroll。China。Ming dynasty (1368–1644) (?)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP166564_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/36032",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/36032.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

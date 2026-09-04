@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-39107",
+ "name": "Seated Buddha",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1200,
+  1249
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 16 1/8 in. (40.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1980.526.1a, b"
+ },
+ "summary": "Shrine。Thailand",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1980_526_1_224099.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39107",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39107.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

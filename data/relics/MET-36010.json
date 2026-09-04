@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-36010",
+ "name": "Journey of the Tianwang (Devaradja)",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1500,
+  1699
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink and color on silk",
+ "dimensions": "Image: 47 3/4 × 20 3/4 in. (121.3 × 52.7 cm)\r\nOverall with mounting: 9 ft. 5 1/2 in. × 28 1/8 in. (288.3 × 71.4 cm)\r\nOverall with knobs: 9 ft. 5 1/2 in. × 32 1/2 in. (288.3 × 82.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "13.200"
+ },
+ "summary": "Hanging scroll。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/13_200.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/36010",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/36010.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

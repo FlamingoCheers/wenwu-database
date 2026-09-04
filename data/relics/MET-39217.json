@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-39217",
+ "name": "Seated Buddha",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  600,
+  799
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 3 1/4 in. (8.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1987.142.342"
+ },
+ "summary": "Figurine。Pakistan",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1987_142_342.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39217",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "日常生活"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39217.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

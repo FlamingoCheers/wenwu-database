@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-36005",
+ "name": "Mountain Market, Clearing Mist",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1200,
+  1230
+ ],
+ "category": "杂器",
+ "material": "Album leaf; ink on silk",
+ "dimensions": "9 3/4 x 8 3/8 in. (24.8 x 21.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "13.100.102"
+ },
+ "summary": "Album leaf。China。Southern Song dynasty (1127–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP154073.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/36005",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/36005.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

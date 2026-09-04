@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-39165",
+ "name": "Standing Buddha with Radiate Combined Halo",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  571,
+  600
+ ],
+ "category": "杂器",
+ "material": "Brass",
+ "dimensions": "H. 13 1/4 in. (33.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1981.188a, b"
+ },
+ "summary": "Figure。Pakistan (ancient region of Gandhara)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT5225.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39165",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "妆饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39165.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

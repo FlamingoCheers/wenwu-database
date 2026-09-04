@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-39223",
+ "name": "Standing Vishnu",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  971,
+  1099
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 19 3/8 in. (49.2 cm); W.. 8 1/4 in. (21 cm); D. 4 7/8 in. (12.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1987.218.18"
+ },
+ "summary": "Figure。India (Kerala)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1987_218_18_F.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39223",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/39223.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

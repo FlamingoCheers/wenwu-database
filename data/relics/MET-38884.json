@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-38884",
+ "name": "Hand of a Buddha",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1550,
+  1699
+ ],
+ "category": "漆器",
+ "material": "Wood with gilt and lacquer",
+ "dimensions": "H. 9 3/4 in. (24.76 cm); W. 2 3/4 in. (6.99 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "85.11.14"
+ },
+ "summary": "Hand。Cambodia",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/85_11_14.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/38884",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/38884.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-38757",
+ "name": "Ear Plug",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  400,
+  599
+ ],
+ "category": "杂器",
+ "material": "Black soapstone",
+ "dimensions": "H. 1 1/4 in. (3.18 cm); Diam.  2  in. (5.08 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "33.50.21"
+ },
+ "summary": "Ear Plug。India",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/33_50_21.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/38757",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/38757.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

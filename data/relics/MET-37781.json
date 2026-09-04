@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-37781",
+ "name": "Padlock and Key",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1850
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "Padlock: H. 1 in. (2.5 cm); W. 1 3/4 in. (4.4 cm); D. 5 in. (12.7 cm)\r\nL. with key extended: 4 in. (10.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "10.100.174a, b"
+ },
+ "summary": "Padlock and key。India",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/10_100_174ab.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37781",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/37781.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-37801",
+ "name": "Mahasiddha Jnanatapa",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1340,
+  1360
+ ],
+ "category": "杂器",
+ "material": "Distemper on cloth",
+ "dimensions": "Image: H. 27 in. (68.6 cm); W. 21 1/2 in. (54.6 cm)\r\nFramed: H. 48 in. (121.9 cm); W. 33 in. (83.8 cm); D. 2 3/8 in. (6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1987.144"
+ },
+ "summary": "Painting。Eastern Tibet, Kham, Riwoche monastery",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-15583-020.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37801",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/37801.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

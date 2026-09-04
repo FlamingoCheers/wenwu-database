@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-37813",
+ "name": "Amitayus, the Buddha of Eternal Life",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1000,
+  1133
+ ],
+ "category": "杂器",
+ "material": "Distemper on cloth",
+ "dimensions": "Overall: H. 54 1/2 in. (138.4 cm); W. 41 3/4 in. (106.1 cm)\r\nFramed: H. 76 1/2 (194.3 cm); W. 51 3/8 in. (130.5 cm); D. 2 in. (5.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1989.284"
+ },
+ "summary": "Thangka。Tibet",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/23ar4_61B.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37813",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/37813.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

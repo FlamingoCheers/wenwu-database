@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-38737",
+ "name": "Soldier",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -200,
+  -1
+ ],
+ "category": "陶器",
+ "material": "Terracotta",
+ "dimensions": "H. 2 3/4 in. (7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "28.159.14"
+ },
+ "summary": "Statuette。India。Shunga period",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/28_159_14.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/38737",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/38737.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

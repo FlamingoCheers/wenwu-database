@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-36064",
+ "name": "Winter Landscape",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1200,
+  1279
+ ],
+ "category": "杂器",
+ "material": "Fan mounted as an album leaf; ink and color on silk",
+ "dimensions": "Image: 9 1/2 × 9 3/4 in. (24.1 × 24.8 cm)\r\nMat: 17 15/16 in. × 18 in. (45.6 × 45.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "47.18.136"
+ },
+ "summary": "Fan mounted as an album leaf。China。Song dynasty (960–1279",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/47_18_136_O2_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/36064",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/36064.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

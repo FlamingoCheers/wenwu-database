@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-39111",
+ "name": "Seated Ganesha",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1350,
+  1550
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 12 3/8 in. (31.4 cm); W. 7 1/4 in. (18.4 cm); D. 5 in. (12.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1983.512"
+ },
+ "summary": "Figure。Thailand。Sukhothai or Lan Na style",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT5243.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39111",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/39111.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

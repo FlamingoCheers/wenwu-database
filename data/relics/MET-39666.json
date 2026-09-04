@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-39666",
+ "name": "Jar with dragon",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1400,
+  1433
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted with cobalt blue under transparent glaze (Jingdezhen ware)",
+ "dimensions": "H. 19 in. (48.3 cm); Diam. 19 in. (48.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "37.191.1"
+ },
+ "summary": "Jar。China。Ming dynasty (1368–1644), Xuande mark and period (1426–35)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-32251-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39666",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "祥瑞纹样"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39666.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

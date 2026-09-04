@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-39766",
+ "name": "Farewell Poem",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1498,
+  1498
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink on paper",
+ "dimensions": "Image: 81 1/2 x 25 in. (207 x 63.5 cm)\r\nOverall: 130 x 34 1/2 in. (330.2 x 87.6 cm)\r\nOverall with rollers: 130 x 36 1/2 in. (330.2 x 92.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1997.438.2"
+ },
+ "summary": "Hanging scroll。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-35726-002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39766",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/39766.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

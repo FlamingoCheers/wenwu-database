@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-38918",
+ "name": "Seated Buddha (Study Collection)",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1900,
+  1999
+ ],
+ "category": "杂器",
+ "material": "Stone",
+ "dimensions": "H. 12 1/2 in. (31.8 cm); W. 8 1/2 in. (21.6 cm); D. 3 3/8 in. (8.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1991.381.9"
+ },
+ "summary": "Figure。Pakistan (ancient region of Gandhara)。Modern",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-37745-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/38918",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/38918.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

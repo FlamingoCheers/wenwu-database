@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-38825",
+ "name": "Sacrificial Container",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1600,
+  1899
+ ],
+ "category": "金银器",
+ "material": "Gilt silver, sapphires, rubies, beryl, quartz, lapis lazuli, coral, shell, and turquoise",
+ "dimensions": "13 1/2 x 6 1/8 in. (34.3 x 15.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "15.95.162"
+ },
+ "summary": "Sacrifical object。Tibet",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/15_95_162_F.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/38825",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/38825.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

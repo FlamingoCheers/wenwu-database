@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-38924",
+ "name": "Goddess with Weapons in Her Hair",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -199,
+  -100
+ ],
+ "category": "杂器",
+ "material": "Copper alloy",
+ "dimensions": "H. 2 13/16 in. (7.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1987.142.289"
+ },
+ "summary": "Figure。North India (possibly Kausambi, Uttar Pradesh)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP252968.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/38924",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/38924.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

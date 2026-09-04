@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-37980",
+ "name": "The Goddess Mahasitavati, Folio from a Buddhist Manuscript",
+ "aliases": [],
+ "dynasty": "西夏",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1050,
+  1250
+ ],
+ "category": "杂器",
+ "material": "Opaque watercolor on palm leaf",
+ "dimensions": "2 1/16 x 10 3/4 in. (5.3 x 27.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1987.246"
+ },
+ "summary": "Folio。Nepal。Karnata-Malla period",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP156413.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37980",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/37980.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

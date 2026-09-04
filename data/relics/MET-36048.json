@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-36048",
+ "name": "Spring Festival on the River",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1799
+ ],
+ "category": "杂器",
+ "material": "Handscroll; ink and color on silk",
+ "dimensions": "11 3/4 in. x 33 ft. (29.8 x 1004.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "47.18.1"
+ },
+ "summary": "Handscroll。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP120039_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/36048",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/36048.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

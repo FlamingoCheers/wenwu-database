@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-38877",
+ "name": "Seated Buddha",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "竹木牙角",
+ "material": "Wood and gilt",
+ "dimensions": "H. 3 1/2 in. (8.9 cm); W. 2 1/2 in. (6.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "85.11.5"
+ },
+ "summary": "Statuette。Cambodia",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/85_11_5.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/38877",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/38877.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

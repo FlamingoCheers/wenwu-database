@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-36072",
+ "name": "Dream Landscape",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1600,
+  1750
+ ],
+ "category": "杂器",
+ "material": "Handscroll; ink and color on silk",
+ "dimensions": "9 1/8 x 69 3/4 in. (23.2 x 177.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "55.212"
+ },
+ "summary": "Handscroll。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP204840_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/36072",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/36072.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-36008",
+ "name": "Guanyin and the sixteen luohans",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1500,
+  1644
+ ],
+ "category": "金银器",
+ "material": "Round fan mounted as an album leaf; ink, color, and gold on silk",
+ "dimensions": "Sheet: H. 12 in. (30.5 cm); W. 12 1/4 in. (31.1 cm); Diam. 8 3/8 in. (21.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "13.100.123"
+ },
+ "summary": "Fan mounted as an album leaf。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP153527.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/36008",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/36008.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

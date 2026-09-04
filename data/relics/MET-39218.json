@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-39218",
+ "name": "Seated Agastya",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  700,
+  899
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 11 5/16 in. (28.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1987.142.59"
+ },
+ "summary": "Figure。Indonesia (Sumatra)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1987_142_59_F.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39218",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/39218.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

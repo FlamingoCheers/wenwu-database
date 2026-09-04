@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-37821",
+ "name": "Thangka with Buddha",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "杂器",
+ "material": "Distemper on cloth",
+ "dimensions": "Image: 32 × 20 3/4 in. (81.3 × 52.7 cm)\r\nOverall with mounting: 43 1/2 × 32 3/8 in. (110.5 × 82.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1971.26.2"
+ },
+ "summary": "Thangka。Tibet",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1971_26_2_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/37821",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/37821.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

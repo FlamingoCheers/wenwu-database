@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-38001",
+ "name": "Page from a Dispersed Rasikapriya (Lover's Breviary)",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1640,
+  1660
+ ],
+ "category": "杂器",
+ "material": "Ink and opaque watercolor on paper",
+ "dimensions": "5 3/4 x 8 7/16 in. (14.6 x 21.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1977.440.6"
+ },
+ "summary": "Folio。India",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP152327.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/38001",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/38001.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

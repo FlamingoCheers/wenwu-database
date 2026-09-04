@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-39199",
+ "name": "Buddha Preaching",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  700,
+  833
+ ],
+ "category": "金银器",
+ "material": "Silver alloy",
+ "dimensions": "H. 15 1/2 in. (39.4 cm); W. 4 1/2 in. (11.4 cm); D. 3 3/4 in. (9.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1993.387.6"
+ },
+ "summary": "Figure。Central or northeastern Thailand。Mon-Dvaravati period",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LK.1993.387.6_DP309913r2_25H.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39199",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39199.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

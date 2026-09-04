@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-39159",
+ "name": "Striding Garuda (The Royal Solar Bird)",
+ "aliases": [],
+ "dynasty": "五代十国",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  951,
+  975
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 5 1/4 in. (13.3 cm); W. 3 1/2 in. (8.9 cm); D. 5 in. (12.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1987.218.21"
+ },
+ "summary": "Figure。Thailand。Angkor period",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1987_218_21_244993.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39159",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39159.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-39762",
+ "name": "Bell (niuzhong)",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -499,
+  -400
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H: 11 3/4 in. (29.8 cm); W: 7 in. (17.8 cm); D: 4 1/2 in. (11.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1997.442.8"
+ },
+ "summary": "Bell。China。Eastern Zhou dynasty (770–256 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP155248.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39762",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/39762.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-04",
+ "updated_at": "2026-09-04"
+}
