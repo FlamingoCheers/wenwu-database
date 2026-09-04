@@ -8,6 +8,7 @@
 
 - 数据：**5,239 件**（Met 2,435 + 克利夫兰 2,804），质检合格率 100%，CC0 图源热链已验证
 - 仓库：github.com/FlamingoCheers/wenwu-database（公开），Actions 每周六 05:00（北京）自动增量更新，超时 360min
+- 前端：**https://flamingocheers.github.io/wenwu-database/** （Pages 已上线，数据推送自动重新部署）
 - 已知尾巴：609 件朝代待复核、414 组同名疑重待审、主题标签未打满
 
 ---
@@ -17,9 +18,9 @@
 | # | 任务 | 产出 | 验收标准 | 状态 |
 |---|------|------|----------|------|
 | 1.1 | 设计稿确认 | `web/design/mockup.html`（可交互，含真实数据） | 用户确认视觉方向与纹样/动效尺度 | 🔄 |
-| 1.2 | Web 索引构建器 | `pipeline/build_web_index.py` → `search-index/index.json.gz` | 全量 5,239 条；字段裁剪（含别名/拼音检索字段）；gz 后 < 500 KB | ⬜ |
-| 1.3 | 静态站实现 | `web/index.html` + css + js（按设计稿 1:1） | 客户端搜索/朝代轴/类别筛选/详情弹层/分页；全量真实数据 | ⬜ |
-| 1.4 | GitHub Pages 部署 | Actions 自动部署 | 公网可访问；构建即部署（数据更新联动） | ⬜ |
+| 1.2 | Web 索引构建器 | `pipeline/build_web_index.py` → `web/data/index.json.gz` | 全量 5,239 条；gz 456 KB（< 500 KB 达标）；明文兜底 | ✅ |
+| 1.3 | 静态站实现 | `web/index.html` + css + js（按设计稿实现） | 客户端搜索/朝代/类别筛选/详情弹层/分页/复制引用/#r= 分享链接 | ✅ |
+| 1.4 | GitHub Pages 部署 | `.github/workflows/deploy-pages.yml` | 公网可访问；数据推送自动重新部署（含首次竞态重跑） | ✅ |
 | 1.5 | 移动端 + SEO | 响应式 + meta/OG 标签 + sitemap | 375px 宽度可用；Lighthouse 移动端 ≥ 90 | ⬜ |
 
 **技术决定**：纯静态（无后端），图片直接热链各馆 CDN（已验证可直连），索引随 Actions 数据更新自动重建。
