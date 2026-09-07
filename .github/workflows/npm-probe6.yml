@@ -1,0 +1,41 @@
+# NPM probe6: real queries on digitalarchive.npm.gov.tw/opendata/Pub/Search
+name: npm-probe6
+on:
+  workflow_dispatch:
+
+jobs:
+  probe6:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Real searches
+        run: |
+          mkdir -p npm_probe6
+          post() { # body-file label
+            curl -s -m 90 -A "Mozilla/5.0" -H "Content-Type: application/json" \
+              -H "Referer: https://digitalarchive.npm.gov.tw/opendata" \
+              -H "X-Requested-With: XMLHttpRequest" \
+              --data-binary @"$1" -o "npm_probe6/$2.html" \
+              -w "$2: HTTP %{http_code} %{size_download}B\n" \
+              -X POST "https://digitalarchive.npm.gov.tw/opendata/Pub/Search"
+          }
+          # q1: 明代 全部类型
+          echo '{"RegisterType":null,"IndexYear":null,"WestBeginYear":1368,"WestEndYear":1644,"YearDisplay":"1368~1644~明","SearchContent":null,"RegisterTypeEng":null,"PageInfo":{"PageIndex":1,"PageSize":15,"PageCount":7245}}' > b1.json
+          post b1.json q1_ming_all
+          # q2: 明代 玉器
+          echo '{"RegisterType":"玉器","IndexYear":null,"WestBeginYear":1368,"WestEndYear":1644,"YearDisplay":"1368~1644~明","SearchContent":null,"RegisterTypeEng":null,"PageInfo":{"PageIndex":1,"PageSize":15,"PageCount":7245}}' > b2.json
+          post b2.json q2_ming_jade
+          # q3: 同 q1 但 PageIndex=2 (翻页验证)
+          echo '{"RegisterType":null,"IndexYear":null,"WestBeginYear":1368,"WestEndYear":1644,"YearDisplay":"1368~1644~明","SearchContent":null,"RegisterTypeEng":null,"PageInfo":{"PageIndex":2,"PageSize":15,"PageCount":7245}}' > b3.json
+          post b3.json q3_ming_p2
+          # 差异检查
+          for f in q1_ming_all q2_ming_jade q3_ming_p2; do
+            echo "== $f =="
+            grep -oE 'href="[^"]*(Detail|detail)[^"]*"' "npm_probe6/$f.html" | head -5 || echo "(no detail links)"
+            grep -c 'loading' "npm_probe6/$f.html" || true
+          done
+      - name: Upload probe6
+        uses: actions/upload-artifact@v4
+        with:
+          name: npm-probe6
+          path: npm_probe6/
