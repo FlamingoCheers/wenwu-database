@@ -1,0 +1,57 @@
+# 台北故宫 Open Data 探测第二阶段
+# 已知: POST https://theme.npm.edu.tw/opendata/Pub/Search 可 AJAX 检索
+#       {"RegisterType":null,"IndexYear":null,"WestBeginYear":0,"WestEndYear":0,
+#        "YearDisplay":null,"SearchContent":null,"RegisterTypeEng":null,
+#        "PageInfo":{"PageIndex":1,"PageSize":15,"PageCount":7245}}
+# 目标: 摸清返回结构(条目链接/字段/授权栏位), 为正式采集器做准备
+name: npm-probe2
+on:
+  workflow_dispatch:
+
+jobs:
+  probe2:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: POST search page 1
+        run: |
+          mkdir -p npm_probe2
+          body='{"RegisterType":null,"IndexYear":null,"WestBeginYear":0,"WestEndYear":0,"YearDisplay":null,"SearchContent":null,"RegisterTypeEng":null,"PageInfo":{"PageIndex":1,"PageSize":15,"PageCount":7245}}'
+          code=$(curl -sL -m 90 -A "Mozilla/5.0" -H "Content-Type: application/json" \
+            -X POST -d "$body" -o npm_probe2/search_p1.html -w "%{http_code}" \
+            "https://theme.npm.edu.tw/opendata/Pub/Search")
+          echo "search HTTP $code, $(wc -c < npm_probe2/search_p1.html) bytes"
+          # 放大页面试试上限
+          body100='{"RegisterType":null,"IndexYear":null,"WestBeginYear":0,"WestEndYear":0,"YearDisplay":null,"SearchContent":null,"RegisterTypeEng":null,"PageInfo":{"PageIndex":1,"PageSize":100,"PageCount":7245}}'
+          code100=$(curl -sL -m 90 -A "Mozilla/5.0" -H "Content-Type: application/json" \
+            -X POST -d "$body100" -o npm_probe2/search_p1_100.html -w "%{http_code}" \
+            "https://theme.npm.edu.tw/opendata/Pub/Search")
+          echo "search100 HTTP $code100, $(wc -c < npm_probe2/search_p1_100.html) bytes"
+      - name: Extract entry links
+        run: |
+          echo "---- hrefs in page1 ----"
+          grep -hoE 'href="[^"]+"' npm_probe2/search_p1.html | sort -u | head -40 || true
+          echo "---- item-ish links ----"
+          grep -hoiE '(href|src)="[^"]*(Item|Doc|Detail|Data)[^"]*"' npm_probe2/search_p1.html | sort -u | head -30 || true
+          head -c 600 npm_probe2/search_p1.html
+      - name: Probe one detail page
+        run: |
+          # 从 page1 提取第一个详情链接并 GET
+          link=$(grep -hoE 'href="[^"]+"' npm_probe2/search_p1.html \
+            | grep -iE '(Item|Doc|Detail)' | head -1 | sed 's/href="//; s/"$//')
+          echo "detail link: $link"
+          if [ -n "$link" ]; then
+            case "$link" in
+              http*) url="$link" ;;
+              /*) url="https://theme.npm.edu.tw$link" ;;
+              *) url="https://theme.npm.edu.tw/opendata/$link" ;;
+            esac
+            code=$(curl -sL -m 90 -A "Mozilla/5.0" -o npm_probe2/detail.html -w "%{http_code}" "$url")
+            echo "detail HTTP $code, $(wc -c < npm_probe2/detail.html) bytes"
+            grep -hoE '(藏品號|文物統一編號|品名|質地|功能|時代|朝代|授權|開放)[^<]{0,60}' npm_probe2/detail.html | head -20 || true
+          fi
+      - name: Upload probe2 results
+        uses: actions/upload-artifact@v4
+        with:
+          name: npm-probe2
+          path: npm_probe2/
