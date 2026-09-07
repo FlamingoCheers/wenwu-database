@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23325",
+ "name": "白瓷盤",
+ "aliases": [
+  "White porcelain dish"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.0公分 口徑22.5公分 底徑7.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002653N000000000"
+ },
+ "summary": "盤，敞口，鑲銅釦，淺弧壁，平底，圈足。全器施白釉，內壁模印轉枝花卉紋飾，盤面印一盤龍，外壁光素。足底緣有刮釉痕。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=390134&randomCode=60415760833",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=390135&randomCode=72560690726",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23325?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23325.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

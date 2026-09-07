@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-15422",
+ "name": "賜魯安道端硯",
+ "aliases": [
+  "Duan inkstone with cloud and dragon patterns granted to Lu Andao"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長20.0公分 高4.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000540N000000000"
+ },
+ "summary": "端石，色淡紫。硯作長方抄手式，周身滿飾龍紋及波濤紋，硯面作不規則形，上端下漥處為墨池。硯背刻一碑形，飾以雲紋，中間楷書：「紹興十九年十月臣安道伏蒙。皇帝寵賜端硯一隻。獲&#134084;太賜誠所謂千載一時之遇矣。傳諸子孫彰示寵賜之重。垂耀無窮榮于兹時。臣安道稽首謹題」，下接「安道」二字印。右側楷書：「舊坑紫端刻龍九。製古樸撫不留手。出沒洪波無或有。墨華入骨深而黝。寵賜安道識世守。今其子孫仍守否。」款題「乾隆御題」，下接鈐印「太璞」。硯首處刻題篆書四字「御賜之寶」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176425&randomCode=22412808061",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176426&randomCode=86300134168",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/15422?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_15422.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

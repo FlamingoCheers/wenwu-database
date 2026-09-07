@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-30100",
+ "name": "定窯 白瓷劃花蓮花紋碗",
+ "aliases": [
+  "White bowl with incised lotus pattern, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.9公分 口徑20.0公分 底徑3.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷000038N000000000"
+ },
+ "summary": "侈圓口，周壁上豐下削，小圓底，矮圈足。器內淺劃蓮花一枝。釉色勻潤，面有黑色星點。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1074353&randomCode=380632037",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1074354&randomCode=612516320",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/30100?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_30100.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

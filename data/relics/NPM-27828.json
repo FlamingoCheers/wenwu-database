@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27828",
+ "name": "定窯 白瓷劃花水波紋碗",
+ "aliases": [
+  "Bowl with incised waves decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.7公分 口徑13.7公分 底徑2.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014245N000000000"
+ },
+ "summary": "碗，侈口，弧壁，平底，矮圈足，口沿鑲金屬釦。全器施白釉，外壁樸素無紋，內壁劃花瓣紋為飾。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=472357&randomCode=41501512781",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=472358&randomCode=26666404049",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27828?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27828.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

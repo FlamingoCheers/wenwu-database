@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1821",
+ "name": "玉筆山",
+ "aliases": [
+  "Jade brush rest in the shape of a mountain range"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長16.7公分 高4.4公分 厚1.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉002909N000000000"
+ },
+ "summary": "以灰、黑、青三色相間的玉料琢成，作山巒起伏狀。山的脈理，刻如繪畫中批麻皴的線條。略有傷及璺。筆格、又名筆山，因其造形以山巒起伏為最多見，峰間低谷，可以支筆。而山勢崢嶸奇特者，置諸案頭可供臥遊，則與賞玩研山的趣味一致。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=139914&randomCode=15648895214",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=139915&randomCode=938985889",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1821?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1821.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

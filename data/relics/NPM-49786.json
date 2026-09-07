@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-49786",
+ "name": "玉劍格",
+ "aliases": [
+  "Jade sword guard"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長8.4公分 寬6.35公分 厚0.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001682N000000000"
+ },
+ "summary": "玉質，泛淡黃色。片狀，橢圓形，中央有一長方形孔。正面沿邊陰線刻弦紋一周。與一件玉璜同儲於木盒中。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=162416&randomCode=94114964736",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=162417&randomCode=56856021161",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/49786?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_49786.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23708",
+ "name": "白瓷碗",
+ "aliases": [
+  "Bowl with white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.2公分 口徑21.5公分 底徑7.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002228N000000000"
+ },
+ "summary": "敞口大碗，深弧壁下斂，圈足。口緣銅釦，器內外壁施透明釉，見白胎色，只在圈足積釉處泛青。內外壁均光素無紋，但外壁隱約可見輪製痕。底足內滿釉無款識。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395002&randomCode=56925127616",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395003&randomCode=837309670",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23708?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23708.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

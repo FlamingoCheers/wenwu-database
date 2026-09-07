@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27694",
+ "name": "定窯 白瓷印花蓮花鴛鴦紋盤",
+ "aliases": [
+  "Dish with impressed lotus and mandarin ducks decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.8公分 口徑29公分 底徑13公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷012487N000000000"
+ },
+ "summary": "大盤，侈口，淺壁，平底，矮圈足，口沿鑲銅釦。全器施白釉，釉色泛黃。盤內口沿下印回紋二道。內壁印蓮花水草紋，間飾鴛鴦三對。底心印牡丹花，邊印回紋一週。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470196&randomCode=60785000009",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470197&randomCode=41824510089",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27694?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27694.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

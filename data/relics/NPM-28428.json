@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-28428",
+ "name": "定窯 白瓷劃花蓮花紋葵花式碗",
+ "aliases": [
+  "Hibiscus-shaped bowl with incised lotus decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.8公分 口徑21公分 底徑6.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷013298N000000000"
+ },
+ "summary": "六瓣葵花口碗，侈口，深弧壁，矮圈足。薄胎骨，白釉勻潤微黃，口鑲銅釦。器內外各劃轉枝牡丹花四朵，內底心劃蟠龍一條，間飾雲紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=599880&randomCode=1459818145",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=599881&randomCode=1527602291",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/28428?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_28428.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

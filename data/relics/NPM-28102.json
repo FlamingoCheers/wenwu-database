@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-28102",
+ "name": "定窯 白瓷劃花蓮花紋洗",
+ "aliases": [
+  "Washer with incised lotus decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高12.5公分 口徑26.4公分 底徑14.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷008642N000000000"
+ },
+ "summary": "洗，圓口微侈，深壁，上壁較直，平底，矮圈足。整器施牙白色釉，口沿一圈鑲銅釦。內外壁均劃轉枝蓮花，內底心劃水波紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=557774&randomCode=20481921799",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=557775&randomCode=1784388896",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/28102?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_28102.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

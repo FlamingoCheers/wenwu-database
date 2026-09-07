@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2037",
+ "name": "錯金銀犧尊",
+ "aliases": [
+  "Animal-shaped zun vessel with gold and silver inlay"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "長31.3公分 高26.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000730N000000000"
+ },
+ "summary": "製作精良，表面呈褐色，局部施加綠色假鏽。口部並未留出流口。犧尊的臉部、頸部、身體及尾巴均以金銀鑲錯出花紋。背上開孔，蓋鈕為鳥首形。這類犧尊的造型來自於戰國銅器，清宮收藏有不少犧尊，但從圖像與所見實物看來，多半是晚期仿古的作品。這類犧尊的斷年並不容易，在 Chinese and Japanese Bronzes 一書中曾對這類錯金銀犧尊的芯土進行熱釋光定年，得出的結論是元代。對應到元代墓葬所出土的犧尊，推測犧尊不但是當時儒官辯論的焦點之一，各地也鑄造了一些這類禮器。至晚明清初，犧尊成為工匠靈感的來源，玉器、琺瑯均有仿製。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2767&randomCode=1503001739",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2768&randomCode=1985685518",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2037?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2037.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

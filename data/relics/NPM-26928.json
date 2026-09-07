@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26928",
+ "name": "定窯 白瓷劃花蟠螭紋葵式碗",
+ "aliases": [
+  "Hibiscus-shaped bowl with incised coiled chi-dragon decoration in white glaze, Ding glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.4公分 口徑21.0公分 底徑6.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷002515N000000000"
+ },
+ "summary": "六瓣葵花口碗，侈口，淺壁，小底，矮圈足，口緣鑲銅釦。全器施米白色釉，外底足內亦施釉。碗外壁共壓劃六道凹痕，內壁光素無紋，內底心劃一螭龍紋，外圍祥雲。口沿鑲銅釦為定窯重要特色之一，除了可遮掩覆燒時產生的芒口外，亦結合了當時人們對於金銀器飾的喜愛。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428890&randomCode=96029447557",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428891&randomCode=1454457917",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26928?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26928.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

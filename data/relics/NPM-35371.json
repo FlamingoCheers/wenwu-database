@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-35371",
+ "name": "白瓷拱花花卉紋碗",
+ "aliases": [
+  "Bowl with raised floral design in white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4公分 口徑16公分 底徑5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷005075N000000000"
+ },
+ "summary": "碗，侈口，淺弧腹壁，圓底，矮圈足，帶銅釦。器內壁口沿下印回紋一道，週內壁有凸稜紋區分六格，每格分印梅花、菊花等四季花卉，內底心印牡丹花，器外壁樸素無紋。本器薄胎骨，施罩青白釉，釉色微帶淺青，器表釉面可見若干縮釉小點痕跡。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391934&randomCode=55171397572",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391935&randomCode=55394800597",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/35371?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_35371.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

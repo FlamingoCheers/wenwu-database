@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-24767",
+ "name": "象尊",
+ "aliases": [
+  "Zun (wine vessel) in the form of an elephant"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "長 39公分 寬13.0公分 高20.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000369N000000000"
+ },
+ "summary": "立姿，長鼻向上高舉，以陰刻表現眼眉及象牙，身上有淺浮雕鞍帶等裝飾；背部有一圓形開口，口緣粗糙。耳似缺斷。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365174&randomCode=780245980",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365175&randomCode=592974226",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24767?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24767.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

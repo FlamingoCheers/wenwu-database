@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-28143",
+ "name": "哥窯 青瓷碟",
+ "aliases": [
+  "Dish in celadon glaze, Ge ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.9公分 口徑15公分 底徑5.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017148N000000000"
+ },
+ "summary": "碟，侈口、淺壁、平底、矮圈足，口緣鑲銅釦。胎骨較厚，通體施青釉，釉色黯而多灰，表面滿佈細密紋片。足緣無釉處，加塗深色護胎汁。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=559411&randomCode=25013814191",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=559412&randomCode=2139390310",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/28143?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_28143.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43396",
+ "name": "青白瓷弦紋三足爐",
+ "aliases": [
+  "Tripod incense burner with linear pattern in bluish-white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5、口徑5.7、底徑5.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000352N000000000"
+ },
+ "summary": "圓筒形爐，仿自青銅樽造型。直口、深直壁、平底，附三短足。胎骨勻厚，全器施青白釉，紋飾下凹積釉處泛青，故有「影青」之稱；表面可見若干縮釉小點，足底露胎。器外壁飾凸弦紋五道。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395529&randomCode=69627415687",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395530&randomCode=152377277",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43396?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43396.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

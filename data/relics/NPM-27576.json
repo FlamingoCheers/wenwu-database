@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27576",
+ "name": "定窯 白瓷劃花蓮花紋碟",
+ "aliases": [
+  "Dish with incised lotus decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.2公分 口徑12.6公分 底徑9.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷016768N000000000"
+ },
+ "summary": "碟。侈口，淺壁，平底無足。全器滿施牙白釉，胎骨較厚，白釉多黃。口沿加鑲銅邊。器底心劃蓮花一枝。週壁樸素無紋飾。器底貼有黃籤「重四十二&amp;#21495;」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469540&randomCode=40847104176",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469541&randomCode=50895304370",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27576?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27576.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

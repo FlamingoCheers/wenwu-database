@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26407",
+ "name": "哥窯 青瓷葵口盤",
+ "aliases": [
+  "Dish with hibiscus-shaped rim in celadon glaze, Ge ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.0公分 口徑17.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017430N000000000"
+ },
+ "summary": "此盤作六瓣葵花形，口緣外敞，腰平折為底，帶圈足，外底挖鏇內凹。全器滿釉，唯外底有六個支釘痕，足緣另塗有褐色汁。釉色灰白，但局部偏黃，口緣色近灰紫，表面有黃、黑二色開片，細密交錯 。又，盤內、外壁面上有縮釉的現象。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=404956&randomCode=94462181094",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=404957&randomCode=2075067574",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26407?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26407.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

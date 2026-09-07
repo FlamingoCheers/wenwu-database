@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-22817",
+ "name": "三希堂法帖（十七）　冊　宋張即之致殿元學士尺牘",
+ "aliases": [
+  "Modelbooks of the Three Rarities Hall, (Seventeenth)： Letter to the Principal Graduate"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "书画",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈帖000094N000000024\n more\n \n 贈帖000094N000000025\n 贈帖000094N000000026"
+ },
+ "summary": null,
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=457060&randomCode=31143315582",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=457061&randomCode=85825573000",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/22817?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_22817.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

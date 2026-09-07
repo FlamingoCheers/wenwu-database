@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-53532",
+ "name": "玉猴",
+ "aliases": [
+  "Jade monkey"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長2.8公分 寬2.3公分 高5.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈玉000230N000000000"
+ },
+ "summary": "黃玉，有深赭璺及白斑。猴採坐姿，雙腳彎曲並攏，一手托腮，一手置於膝上。托腮的手與猴身之間，有一小孔洞。全器以陰刻線雕出猴子的眼眶，背上以短斜線描寫毛髮。附木座。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=111239&randomCode=42287267619",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=111240&randomCode=67067313409",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/53532?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_53532.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

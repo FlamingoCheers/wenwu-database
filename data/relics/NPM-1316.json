@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-1316",
+ "name": "鈞窯 月白紫斑雙耳罐",
+ "aliases": [
+  "Double-handled jar with moon-white glaze and purple splashed"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高11.7公分 口徑10.7公分 足徑6.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017218N000000000"
+ },
+ "summary": "斂圓口，短頸，碩腹，尖底，矮圈足。頸兩側貼飾雙環耳，胎骨稍厚；通體罩施月白色釉，釉層不勻，顏色泛灰釉面紫紅斑快速揮灑而過，釉彩不勻，圈足及底部皆露土褐色胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2663776&randomCode=1409674624",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2663779&randomCode=1982803119",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1316?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1316.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

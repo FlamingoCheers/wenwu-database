@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26898",
+ "name": "定窯 白瓷印花花卉紋碗",
+ "aliases": [
+  "Bowl with impressed floral decoration in white glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  12
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.5公分 口徑18.4公分 底徑5.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷002484N000000000"
+ },
+ "summary": "六瓣葵花口，帶銅釦，深壁，圓底矮圈足，器內壁滿印纏枝牡丹花紋，器外腹處淺劃有三道旋紋，全器施牙白色釉，釉色泛黃。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=429036&randomCode=80900826929",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=429037&randomCode=480577551",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26898?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26898.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-36238",
+ "name": "定窯 劃花小杯",
+ "aliases": [
+  "Small cup with incised design, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1001,
+  1300
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.2公分 口徑12.5公分 底徑5.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷016043N000000000"
+ },
+ "summary": "小杯，直口、圓唇、深壁，近底處斜收，平底。外壁由下腹向上淺劃六瓣線。內底寬平，劃刻葵花狀圓瓣相疊的花紋，線條圓暢。全器滿釉，釉澤光潤，口緣鑲銅稜釦。壁畫中常見盞臺上放置直口小盞，但傳世品中卻罕見此類杯盞。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=621258&randomCode=758805068",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=621259&randomCode=1177961105",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/36238?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_36238.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

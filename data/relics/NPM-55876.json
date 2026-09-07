@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-55876",
+ "name": "玉鵝",
+ "aliases": [
+  "Jade goose"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長3.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉004534N000000000"
+ },
+ "summary": "玉質，雕為一鵝，鵝曲頸回首、口啣枝梗，並利用玉色黃褐處琢為鵝所臥之荷葉，是為巧妙利用玉色的製作。本器與其他三件玉器故玉4532、故玉4533、故玉4535，同儲於一委角方形木盒中。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=331894&randomCode=52722605151",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=331895&randomCode=82250701058",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/55876?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_55876.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

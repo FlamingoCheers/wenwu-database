@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-33",
+ "name": "汝窯 青瓷洗 「奉華」銘",
+ "aliases": [
+  "Washer with celadon glaze and fenghua mark, Ru ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.3公分 口徑12.7公分 底徑10.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷018048N000000000"
+ },
+ "summary": "圓口，口沿嵌一圈銅釦，弧形淺壁、平底無足。滿釉支燒，通體施青釉，釉色粉青，局部現出粉色光澤。底面排佈三個細小的支釘，中心刻「奉華」兩字銘。與之相似的器形，亦見於河南省寶豐縣清涼寺窯址。 透過《活計檔》記事，可以追溯出這件作品在清宮流傳的經過。首先，雍正七年（1729）清宮出現一箱內裝二十九件汝窯的箱匣，從登錄而出的品名，可對比出「奉華字圓筆洗一件」，應指此件展品。乾隆六年（1741），這箱汝窯在皇帝喻旨下獲配象牙標籤，取名為「品重青瑤」。乾隆十六年（1751）因內匣遭受蟲蛀，再度引起關注，重新更換包裝。 其次，藉由御製詩也得知乾隆四十三年（1778）他曾經針對這件作品創作「題汝窯奉華盤」，詩中",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391951&randomCode=66561248503",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391952&randomCode=1122628120",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/33?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_33.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

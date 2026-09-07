@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-57588",
+ "name": "玉象",
+ "aliases": [
+  "Jade elephant"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "高2.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉006516N000000000"
+ },
+ "summary": "玉質，底部呈黑色，餘地染褐沁與各色雜斑，有綹。全器雕琢成一隻大象，雙眼以率性的刀法畫出細長雙眼，葉形雙耳下垂並貼緊兩頰。大象鼻子朝右捲起，身軀修長且背部平滑，四足肥短，尾巴捲起。此象形貌雖然不真實，但工匠巧妙地將深色部份安排在象身下半部，再加上抽象的彫刻線條，使此器顯得頗有趣味。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=338837&randomCode=36794619695",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=338838&randomCode=61418928359",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/57588?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_57588.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

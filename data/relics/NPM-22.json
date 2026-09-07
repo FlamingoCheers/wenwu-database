@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-22",
+ "name": "官窯 青瓷葵花式洗",
+ "aliases": [
+  "Hibiscus-shaped basin with light bluish-green glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高9.3公分 口徑16.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014018N000000000"
+ },
+ "summary": "六瓣葵花形套盒，子母口，頂面凹陷，深壁無足，內裡中空。墊燒，內外施青釉，呈色粉青。釉質濃厚，稜邊釉薄處微現粉色邊。釉面局部有開片，底緣可見多層施釉痕，著地邊塗赭汁，口邊舊磕傷處露出黑灰色胎。透過大英博物館收藏的〈古玩圖〉卷，可一窺該類作品傳世收藏於清宮的情景。 考古出土例證中，河南省寶豐縣清涼寺窯址出土有方形、圓形和葵花形者，浙江省杭州市老虎洞窯址則為圓形式樣。由於祖型可溯及至漆器產品，加上越窯也燒製，故可視為是五代以來流行的器式之一。若再考慮韓國高麗仁宗王陵(1146) 的出土例，可類推此一器形亦傳播至境外，成為高麗青瓷襲仿的器形之一。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391440&randomCode=48707988754",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391441&randomCode=1557864841",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/22?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_22.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

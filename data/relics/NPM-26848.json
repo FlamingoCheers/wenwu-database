@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26848",
+ "name": "定窯 白瓷劃花牡丹蟠螭紋盤",
+ "aliases": [
+  "Dish with incised decoration of peony and coiled chi-dragon in white glaze, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  12
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.6公分 口徑24.1公分 底徑7.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷010302N000000000"
+ },
+ "summary": "敞口圓弧壁中大盤，圈足，內底寬平凹下，口緣釦有銅稜。釉色勻潔，劃花為飾，內外壁各劃盛開之轉枝牡丹花四朵，枝葉相纏；裡心劃一蟠螭，作回首降行狀。外壁淺壓六道垂直瓣線，口部原似為六花口，但銅稜不明顯。全器內外裝飾周全，帶黃簽墨書：「頭等無款二件」，為清宮的評價。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=410601&randomCode=49834869114",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=410602&randomCode=20510348401",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26848?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26848.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

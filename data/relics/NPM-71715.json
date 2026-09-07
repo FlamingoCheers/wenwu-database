@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-71715",
+ "name": "春水玉飾",
+ "aliases": [
+  "Jade ornament with \"Spring waters\" motif"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長7.4公分 寬5.0公分 厚1.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉004344N000000000"
+ },
+ "summary": "本器為橢圓形玉飾，玉質，玉質溫潤，器表局部黃斑。正面鏤雕「春水」主題之海東青鶻攫天鵝。海東青鶻身形大小如鵲，從上空以其爪擒抓自蓮塘水草間驚起之天鵝頭頂，天鵝表情生動，兩禽周圍密飾雲氣紋。從上述「春水」題材，與使用玉皮巧雕的特徵來看，屬金至元作品。本器存放在院藏「紫檀雕蟠龍方盒百什件」（故雜877）中。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=281434&randomCode=40632075333",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=281435&randomCode=30221953026",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/71715?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_71715.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

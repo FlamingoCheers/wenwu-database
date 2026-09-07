@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-6640",
+ "name": "鎏金夔紋豆",
+ "aliases": [
+  "Amalgam-gilt Dou food container with coiling kui dragons pattern"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高7.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅001610N000000000"
+ },
+ "summary": "豆，蓋腹合呈圓球體，蓋附抓手，子母口，圈足，器兩側有成組環耳。全器鎏金，蓋腹均飾夔紋，並以雷紋為地，足飾幾何紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=6829&randomCode=85060213592",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=6830&randomCode=65153100946",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/6640?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_6640.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

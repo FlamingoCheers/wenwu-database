@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23712",
+ "name": "吉州窯 白瓷蓮塘游魚紋盤",
+ "aliases": [
+  "Dish with fish in lotus pond decoration in white glaze, Jizhou ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.5公分 口徑18.2公分 底徑6.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002232N000000000"
+ },
+ "summary": "敞口盤，口緣鑲銅釦，弧壁下斂，圈足。器內外施透明釉，器胎透出白中泛黃的色調，圈足內滿釉無款識。外壁光素無紋，內壁則以釉下印花技法作出繁密的紋樣，盤心印花水紋地雙魚並游，魚頭前方並有含苞蓮二朵，其一魚嘴尖而略上翹，似為鱖魚。內周壁等距飾禽鳥展翅，頭有冠羽如鳳鳥，但尾羽略短，周壁隙地則填飾盛開的蓮花與花葉紋，使得鳳鳥如張翅穿舞於花間。盤心與周壁裝飾雖異，但飛禽在上、游魚於下，又藉由含苞蓮的連接，似乎可與蓮塘水禽構圖意念相接。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=168886&randomCode=38393078592",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=168887&randomCode=40635539975",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23712?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23712.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

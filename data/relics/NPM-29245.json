@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-29245",
+ "name": "定窯 白瓷印花蓮荷雙魚紋碗",
+ "aliases": [
+  "Bowl with impressed decoration of lotus and fish in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.6公分 口徑18.4公分 底徑6.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷013029N000000000"
+ },
+ "summary": "中型碗，侈口、弧形深壁、圈足，口鑲銅棱釦。器內以印花為飾，口沿下印回紋一道，周壁印蓮荷花葉與水生植物，紋飾繁細密佈，幾無隙地。底心印水波游魚兩尾，鱗片可數。此種繁花密佈，各個花葉、魚水細節模印精緻者，經常能見於南宋遺址。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=623079&randomCode=642946983",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=623080&randomCode=1110176959",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/29245?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_29245.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

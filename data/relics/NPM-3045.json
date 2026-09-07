@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3045",
+ "name": "澄泥虎符硯",
+ "aliases": [
+  "Refined clay inkstone imitating a tiger-shaped two-part voucher"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長15.5公分 寬7.8-8.4公分 高2.2公分 通蓋高4.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文001649N000000000"
+ },
+ "summary": "澄泥硯，作如伏虎式，身上淺刻細卷雲紋，色仿古銅，作褐、線斑，猶殘鎏金痕。自中央橫剖為二，使成石函。受墨處色青紫，硯堂寬平，墨池於上端，琢如太極圖。沿邊周棱上刻乾隆四十二年(1777)篆書銘：「 貌其金，質其土。象虎符，詰戎旅。彰斯文，濟彼武。草露布，是資汝。乾隆丁酉春御題。」印：「乾隆」。棱上有三個針狀小榫突出(僅存其一)，與蓋緣之三小孔相承，使上下合縫。蓋裏微內凹，有陽文鎏金篆字：「翕此虎符式，鳳咮失景采。」兩側硯蓋與身合縫處亦有篆體陽文：「以昭信兵」、「國以永寧」。此硯收入《西清硯譜》卷三。按，戰國及漢代常以銅虎符發兵，分符為二，一留京師，一留郡國或領軍者，國家當用兵時，遣使者合符始能發兵",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1308658&randomCode=2041175501",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1308659&randomCode=1083375819",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3045?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3045.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

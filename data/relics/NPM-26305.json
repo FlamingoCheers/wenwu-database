@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26305",
+ "name": "仿官釉弦紋壺",
+ "aliases": [
+  "Vase with linear pattern in glaze imitating Guan ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高30~30.5公分 口徑9.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014109N000000000"
+ },
+ "summary": "此瓶盤口，長頸，扁圓腹，帶圈足。長頸歪斜，有三道凸稜，扁腹亦如是。全器裹釉，施釉至足際，僅足緣露胎。釉色灰青，唯口緣、凸稜因釉薄而近灰白，表面有黑色開片，細密交織。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403763&randomCode=89953138204",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403764&randomCode=25406035721",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26305?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26305.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24151",
+ "name": "青白瓷雲紋梅瓶",
+ "aliases": [
+  "Meiping vase with cloud pattern in bluish-white glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高36.2公分 口徑5.1公分 底徑16.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購瓷000124N000000000"
+ },
+ "summary": "梅瓶，小口，短頸，豐肩，肩以下漸收歛。青白瓷的釉色介於青白二色之間，紋飾積釉處色如淺湖水，因而有「影青」之稱。全器外壁刻劃緊密雲紋，間有大朵花紋，線條優美流暢。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173384&randomCode=45060954887",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173385&randomCode=49476211379",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24151?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24151.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

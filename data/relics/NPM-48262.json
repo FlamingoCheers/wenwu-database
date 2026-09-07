@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-48262",
+ "name": "獸紋玉劍璏",
+ "aliases": [
+  "Jade scabbard slide with animal pattern"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長8.5公分 寬3.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉000071N000000000"
+ },
+ "summary": "玉質，全器平扁，面浮雕二獸。劍璏是嵌飾於劍鞘上的飾物，具有固定革帶的功能。本器為仿漢作品。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=128747&randomCode=18001173231",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=128748&randomCode=45956464398",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/48262?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_48262.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

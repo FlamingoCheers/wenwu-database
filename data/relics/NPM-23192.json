@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23192",
+ "name": "霍州窯 白瓷盤",
+ "aliases": [
+  "White dish, Huozhou ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.5公分 口徑18.0公分 底徑5.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002614N000000000"
+ },
+ "summary": "侈口瓷碟，口緣銅釦，斜壁下斂，折腰急收，圈足。器罩透明釉，外壁染色嚴重，有深淺不一的黃褐色斑，內底心刻有難以辨認的紋飾。足露胎一圈。特別的是，器圈足雖見露胎，但底內有數處如支釘痕的痕跡，可見其採用疊燒技法製作。由其釉色與器形看來，可能是元代霍州窯的作品，而口緣的銅釦，則是模仿定窯器的製作。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=385332&randomCode=22846065002",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=385333&randomCode=525190080",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23192?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23192.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

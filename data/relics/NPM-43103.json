@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43103",
+ "name": "青花菊花紋雙耳六方罐",
+ "aliases": [
+  "Hexagonal jar with handles and chrysanthemum decoration in underglaze blue"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.4、口徑3.5、底徑5.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000042N000000000"
+ },
+ "summary": "雙耳六方小罐，敞口，短頸豐肩，雙繫耳，碩腹，腹下微斂，平底。腹部以六道凸稜紋分為六瓣，相隔一瓣繪製一青花折枝菊花。底露胎無釉。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395919&randomCode=34885311917",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395920&randomCode=72668729535",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43103?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43103.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

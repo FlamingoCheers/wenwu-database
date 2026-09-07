@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-48901",
+ "name": "觿形玉筒",
+ "aliases": [
+  "Jade Xi-shaped holder"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "高9.32公分 口徑2.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉000717N000000000"
+ },
+ "summary": "白玉。器似觿，中空為筒形。器身飾雲紋，近口處有一浮雕鳥首異獸，長尾穿入雲端。黃籤「春字一千八百七十五號」、秀字「七三八百號」(蘇州碼)。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=145035&randomCode=32922125650",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=145036&randomCode=39762438141",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/48901?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_48901.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

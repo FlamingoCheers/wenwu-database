@@ -1,0 +1,40 @@
+{
+ "relic_id": "NPM-77112",
+ "name": "南宋至元 吉州窯 玳瑁紋茶盞",
+ "aliases": [
+  "Tea bowl in black glaze, China"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "南普贈000008N000000000"
+ },
+ "summary": "敞口，小底，斜壁，矮圈足。薄釉，外壁施釉不及底，圈足露胎，呈色灰黃。通體黑釉上施黃色彩斑，呈現黃黑交錯的不規則紋樣，形似玳瑁而得名，惟玳瑁紋飾與傳世品稍異。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1077349&randomCode=926534728",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/77112?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_77112.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-33037",
+ "name": "龍泉窯 青瓷撇口盞",
+ "aliases": [
+  "Flared cup in green glaze, Longquan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.9公分 口徑14.1公分 底徑3.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷009837N000000000"
+ },
+ "summary": "斗笠式茶盞，寬侈口、小圈足、器壁自口至足成斜線，尖底，內心圓凹下。胎體薄，釉汁濃潤明淨，外壁有積釉與垂流痕跡。足壁薄，足端無釉，色灰黃，釉邊不甚平整。外底心作尖臍突出。口沿則嵌有金屬釦稜。此種斗笠式碗盞，於北方定窯系列瓷器甚為盛行；南宋亦甚普遍，如福州許峻墓（1272）中的貼金銀盞即呈此相近造型。至於遂寧窖藏、新安沈船（約1323）中，亦有幾乎相似的龍泉茶盞，亦呈外壁積釉，內底心圓凹下的現象。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=340050&randomCode=80385011467",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=340051&randomCode=93763035565",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/33037?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_33037.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

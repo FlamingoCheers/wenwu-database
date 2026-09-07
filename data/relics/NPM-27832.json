@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27832",
+ "name": "定窯 白瓷劃花螭紋盤",
+ "aliases": [
+  "Dish with incised chi-dragon decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高公2.7分 口徑25.1公分 底徑17.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014249N000000000"
+ },
+ "summary": "盤，侈口出唇，淺壁，平底，平底，矮圈足，口沿鑲金屬釦。厚胎白釉，釉色泛黃。器內劃花為飾，器內壁口唇上劃回紋一道，底心劃花果紋一週，中心畫雲龍紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=472487&randomCode=57489103190",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=472488&randomCode=60235215747",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27832?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27832.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

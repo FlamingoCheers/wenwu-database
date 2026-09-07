@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-49557",
+ "name": "玉象",
+ "aliases": [
+  "Jade elephant"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  14
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長5.4公分 通高3.05公分 厚1.85公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001440N000000000"
+ },
+ "summary": "原為厚片形籽料，隨形琢作立體的大象，作正由坐臥起身的姿態。玉質瑩白溫潤，僅象背有短裂痕，淺褐色沁，兩側耳朵上微有傷缺。大象的鼻端捲起處、尾端及四足，構成穩固的支撐點。雕紋極簡，除基本的肢體造形外，僅用陰線刻出眼睛、嘴旁皺紋及四條象腿後側的成排斜線。浙江省蒼南縣橋墩水庫南宋黃石墓出土一件玉印，印紐也雕成一隻由坐臥正要站起的大象。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=187415&randomCode=41055247988",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=187416&randomCode=348638782",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/49557?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_49557.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19485",
+ "name": "白瓷劃花蓮瓣紋碗",
+ "aliases": [
+  "owl with incised lotus petals decoration in white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1644
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高13.5公分 口徑27.5公分 底徑7.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷001415N000000000"
+ },
+ "summary": "大碗直口，深壁，矮圈足。全器施白釉，以覆燒方式製作，口緣露胎，胎質緻密色黃，外壁飾以貼花雙層蓮瓣紋，瓣尖浮塑出器表，碗心飾貼花蓮花紋，舊稱廣窯作品。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=316417&randomCode=41132329703",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=316418&randomCode=46867489045",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19485?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19485.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

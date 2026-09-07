@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3066",
+ "name": "紫端涵星硯",
+ "aliases": [
+  "Purple Tuan stone inkstone with celestial motif"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長16.3公分 寬9.4公分 高5.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文001539N000000000"
+ },
+ "summary": "端石，此硯石色紫中泛紅，器作長方抄手式，下端無堵，受墨處微窪下成墨池，墨池上正方，有一石柱，猶如懸掛一星辰，硯面上方墨鏽斑駁頗厚，然有天然古秀雅致之感，覆手部份亦有駁落痕跡，二跗高3.8公分，硯背中央銅清高宗御題銘乙首，楷書：「石割雲硯之成也，池涵星硯之形也，雲淨星硯，以彰文明也，用之絲綸，慎乎拱北之情也。」款題：「乾隆戊戌御銘」(四十三年，1778)，鈐印二：「會心不遠」、「德充符」，按此硯銘著錄於《清高宗御製詩文全集一》，《御製文二集》，卷四十，頁五。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=178294&randomCode=90188536823",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=178295&randomCode=2000192495",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3066?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3066.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

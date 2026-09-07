@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43404",
+ "name": "青白瓷印花碗",
+ "aliases": [
+  "Bowl with impressed decoration in bluish-white glaze"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.9、口徑12.4、足徑4.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000361N000000000"
+ },
+ "summary": "折腰碗，敞口、斜直壁、近底處內折、平底、矮圈足。全器施青白釉，表面可見若干縮釉小點，口沿及器內壁有燒造時積釉流淌的痕跡，足緣及足內外底露胎。器內底印有折枝菊花，內外腹壁均飾淺劃弦紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394957&randomCode=32078407762",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394958&randomCode=1181590628",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43404?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43404.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24701",
+ "name": "日本 鎌倉時代 銅鎏金 天王立像",
+ "aliases": [
+  "Standing guardian, Japan, Kamakura period (1185-1336)"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1185,
+  1336
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通高10.4公分 像高11.8公分 全重384.9公克(含木座)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000304N000000000"
+ },
+ "summary": "造像者透過天王豎眉睜眼的憤怒形象，彎身扭腰、握拳作勢下揮的左手，以及手臂、腹部、背部線條分明的肌肉，來表現天王威猛剛強的形象，傳達護衛佛法與眾生的力量。腰下的軟裙，彷彿因身驅的動勢而緊貼於大腿正面，而揚起飄動的裙尾，正呼應身體扭轉蓄力的動勢。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365002&randomCode=1206492950",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365003&randomCode=248693268",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24701?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24701.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

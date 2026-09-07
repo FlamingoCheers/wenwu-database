@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19902",
+ "name": "定窯 白瓷劃花螭龍蓮荷紋盤",
+ "aliases": [
+  "White dish with incised chi dragon and lotus design"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.1公分 口徑21.0公分 足徑6.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷004022N000000000"
+ },
+ "summary": "寬侈口，作六瓣花口式。淺壁，平底，小圈足。全器胎薄滿釉，色牙白。以劃花為飾，內壁口緣飾一圈回紋，周飾蓮荷紋，底飾螭龍紋。覆燒法成器，口沿無釉，鑲銅釦稜。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318807&randomCode=23930228118",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318808&randomCode=47299717960",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19902?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19902.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

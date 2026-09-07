@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26402",
+ "name": "龍泉窯 青瓷弦紋貫耳壺",
+ "aliases": [
+  "Hu jar with tubular handles and linear pattern in celadon glaze, Longquan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高36.7公分 口徑長12.0公分 寬10.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014094N000000000"
+ },
+ "summary": "形仿青銅壺，斂口捲唇，長頸，頸兩側各飾一貫耳，腹部豐碩，底接高圈足。頸腹間飾弦紋五道，貫耳兩道，足壁兩道。胎骨厚重，上施青瓷釉，釉色淺淡，足緣無釉，露胎處加塗赭色護胎汁。 底面鐫刻乾隆皇帝〈詠官窯雙耳瓶〉：「秘色陶脩內，沈沈火氣冥。脛無何以走，耳有不闗聽。禪客安心定，仙人徹骨青。提攜踏花陌，逐步擷芳馨」御製詩。詩末署「乾隆甲午仲春御題」紀年銘（乾隆三十九年，1774），並落「會心不遠」和「德充符」兩枚鈐印。臺北與北京故宮亦各典藏有器形與之相似，但底部無刻詩者。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=404102&randomCode=88160473809",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=404103&randomCode=88374380119",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26402?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26402.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

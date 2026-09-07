@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-11",
+ "name": "八卦鏡",
+ "aliases": [
+  "Mirror with eight triagrams decor"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "徑22.5公分 厚0.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000286N000000000"
+ },
+ "summary": "鏡身作圓形，鏡背正中有一龜形鈕，八角形鈕座外依次環以八卦紋，十二生肖動物紋及銘文帶，其間以弦紋分隔，鏡邊寬而平。銘文共二十字，作反時針排列：「水銀是陰精，百鍊得此鏡，八卦氣象備，衛神永長命。」",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=911&randomCode=1697062656",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=912&randomCode=1090634865",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/11?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_11.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

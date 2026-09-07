@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24146",
+ "name": "西村窯 青瓷黑花盤",
+ "aliases": [
+  "Dish with black floral decoration in celadon glaze, Xicun ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "口徑20.8公分 高6.3公分 足徑7.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000324N000000000"
+ },
+ "summary": "盤，圓形，口沿有折邊，外壁弧度不甚平順，腹內側有一道細凹槽，圈足。胎土略粗。全器施以青釉，碗心筆繪黑花，率性寫意。產自廣東西村窯，西村窯是宋代以來沿海燒造外銷瓷的瓷窯之一。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173344&randomCode=41177596163",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173345&randomCode=84738312445",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24146?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24146.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

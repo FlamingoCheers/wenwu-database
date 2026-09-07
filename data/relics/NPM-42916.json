@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-42916",
+ "name": "磁州窯 黑釉罐",
+ "aliases": [
+  "Jar in black glaze, Cizhou ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高10、口徑8、足徑6.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購瓷000026N000000000"
+ },
+ "summary": "短直口罐，豐肩、圓腹、矮圈足。器內壁施透明釉；外壁施黑釉，釉薄處泛褐色；足緣露灰白胎。器內壁留有轆轤痕；器外壁以十五道直稜泥線為飾，三稜一組、共五組。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=398630&randomCode=46414885470",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=398631&randomCode=1309899874",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/42916?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_42916.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

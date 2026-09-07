@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-6553",
+ "name": "嵌金銀雲紋壺",
+ "aliases": [
+  "Hu jar with cloud pattern and gold and silver inlay"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  17
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高45.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000051N000000000"
+ },
+ "summary": "本器紋飾以簡化的獸帶紋為主，填以回紋地。由上至下，第一道為三角紋，第二、三道為獸帶紋。三角紋及獸帶紋以紅銅片鑲嵌。口沿及圈足上也有銀絲嵌的心形紋、螺形紋及三角紋。兩側有鋪首銜環為飾。本件器物是乾隆三十四年(1769)頒賜國子監的「周笵十器」之一，名之為「周雷紋壺」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=186&randomCode=848030126",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=187&randomCode=1798738875",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/6553?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_6553.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

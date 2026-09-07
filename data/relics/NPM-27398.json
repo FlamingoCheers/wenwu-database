@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27398",
+ "name": "定窯 白瓷印花牡丹蓮花紋盤",
+ "aliases": [
+  "Dish with impressed peony and lotus decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.4公分 口徑30.4公分 底徑13.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014449N000000000"
+ },
+ "summary": "侈口大盤，淺弧壁，平底，矮圈足。胎厚釉薄，釉色牙白偏灰，口鑲銅釦。口沿內印弦紋二道，內壁印轉枝牡丹花，盤內底印回紋一週，中心印牡丹花；外壁無紋飾。圈足露胎，胎質堅細。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=466655&randomCode=93313470747",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=466656&randomCode=35988955917",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27398?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27398.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

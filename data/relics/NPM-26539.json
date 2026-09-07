@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26539",
+ "name": "定窯 劃花雙螭碟",
+ "aliases": [
+  "Small dish with incised chih-dragon design, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1101,
+  1300
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.1公分 口徑13.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷015052N000000000"
+ },
+ "summary": "敞口碟、弧形淺壁、近底處斜修收底，底寬平淺挖為臥足。全器滿釉，僅口沿鑲銅釦。器裡劃花為飾；口下帶狀卷草紋，盤面作雙螭，左右顛倒對舞，刀筆簡潔傳神。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=406935&randomCode=35809243718",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=406936&randomCode=621506071",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26539?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26539.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

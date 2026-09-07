@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43399",
+ "name": "青花花卉紋雙耳罐",
+ "aliases": [
+  "Jar with handles and floral decoration in underglaze blue"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.2、口徑3.1、底徑3.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000355N000000000"
+ },
+ "summary": "雙耳小罐，撇口出唇、短頸、斜肩、碩腹、餅形足，頸肩之間附二相對圓管形小耳。白地青花，釉彩暈散、濃淡不一，近外底處施釉不完全，同足部露胎。器外壁繪二折枝花卉橫繞腹部一週。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394007&randomCode=39749766468",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394008&randomCode=1127988348",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43399?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43399.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

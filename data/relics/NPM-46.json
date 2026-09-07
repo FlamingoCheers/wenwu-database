@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-46",
+ "name": "定窯 白瓷劃花鋪首龍耳方壺",
+ "aliases": [
+  "Square hu jar with incised decoration, animal mask and dragon-shaped handles, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高38.6公分 口徑長8.4公分 寬4.4公分 足徑12.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017774N000000000"
+ },
+ "summary": "取樣於銅方壺的造形，長方口型，圈足圓形，平底矮圈足。頸部兩側為模印的龍形半環耳，肩部正背面各有一鋪首銜環的印花貼飾。器壁滿佈劃花裝飾：口緣回紋一周；頸部一獸面開光、幾何紋一周，腹部為數莖並蒂荷花與荷葉，腹下部近足處為雙層蓮瓣紋。器施牙白釉，色澤瑩潤，足緣無釉。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=559533&randomCode=26353861963",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=559534&randomCode=703472083",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/46?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_46.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23716",
+ "name": "吉州窯 白瓷花草紋碗",
+ "aliases": [
+  "White bowl with plant and flower pattern, Jizhou ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.7公分 口徑16.0公分 底徑4.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002236N000000000"
+ },
+ "summary": "敞口，口緣鑲銅釦，深壁下斂，壁略外弧，圈足。器內外施透明釉，器胎透出白中泛黃的色調，釉表見有細碎開片。外壁光素無紋，內壁則釉下印花草花紋樣，有三處小點露胎，似為細支釘痕。足內滿釉無款識。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395076&randomCode=47308789023",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395077&randomCode=1584665981",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23716?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23716.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

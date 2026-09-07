@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-47251",
+ "name": "定窯 白瓷劃花水塘雙鳧紋碗",
+ "aliases": [
+  "White bowl with incised waterfowl and pond pattern"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.6公分 口徑23.0公分 底徑7.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003782N000000000"
+ },
+ "summary": "侈口，弧形深壁，平底矮圈足。足圈滿釉，口沿至外壁有一道寬約一公分露胎，口加銅邊。器內斜刀刻劃雙鳧、蓮花、水草及水波紋，刀法流暢，一氣呵成，紋飾生動，牙白色釉。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321082&randomCode=21591885881",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321083&randomCode=64602956803",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47251?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47251.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

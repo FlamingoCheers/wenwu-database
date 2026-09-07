@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-1309",
+ "name": "鈞窯 天青釉水盂",
+ "aliases": [
+  "Water container with bluish-green glaze"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高9.8公分 口徑7.1公分 足徑5.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷012539N000000000"
+ },
+ "summary": "斂圓口、深弧壁，矮圈足。全器罩施天青色釉，釉表開灰色細紋片，外壁並有天藍流釉痕，口沿殘缺一段，加嵌銅釦。施釉不到底，圈足外壁、底緣、內周壁皆露土色胎，外底局部沾釉，中心微凸。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1232872&randomCode=1251105479",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1232873&randomCode=1281368029",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1309?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1309.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

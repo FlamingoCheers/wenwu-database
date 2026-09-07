@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-78",
+ "name": "定窯 白瓷印花奔鹿盤",
+ "aliases": [
+  "Dish impressed with deer decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.1公分 口徑19.0公分 足徑12.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002583N000000000"
+ },
+ "summary": "盤，敞口、淺壁、臥足、平底。外壁近底處有一圈鏇修痕。器裡印花為飾，器壁飾回紋，轉枝蓮荷花葉紋各一周，花葉連續圖案間有凸點為地紋填白；底部以回紋周繞，中為奔鹿圖案，卷草枝蔓鋪陳其間。全器施牙白釉，僅口緣無釉，鑲銅棱釦，係覆燒成器。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393453&randomCode=44227595908",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393454&randomCode=40914761754",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/78?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_78.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

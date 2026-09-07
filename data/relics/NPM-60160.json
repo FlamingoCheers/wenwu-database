@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-60160",
+ "name": "玉劍鐔",
+ "aliases": [
+  "Jade sword guard"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "全長38.5公分 玉劍鐔長5.9公分 寬2.4公分 厚1.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉009119N000000000"
+ },
+ "summary": "仿古玉劍鐔中央穿繫線繩，上下各飾一盤長結，下方垂飾兩組流蘇。劍鐔是嵌入於劍柄與劍身間的界隔。本件之玉劍鐔色深褐，中間側視呈菱形，雙面均雕飾獸面紋，中央之穿原為納劍柄用，本件玉劍鐔佩飾之穿孔現為穿繫之用。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=415669&randomCode=36411910428",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=415670&randomCode=73738658056",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/60160?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_60160.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

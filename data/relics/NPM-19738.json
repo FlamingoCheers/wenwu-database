@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19738",
+ "name": "白瓷番蓮紋瓶",
+ "aliases": [
+  "Vase with Indian lotus scrolls in white glaze"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高37.5公分 口徑10.2公分 底徑13公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002625N000000000"
+ },
+ "summary": "口微撇，嵌銅扣，長頸，斜肩，圓碩腹，矮圈足，頸兩側貼飾鋪首銜環。全器施白色化妝土，上透明釉，裝飾劃花紋樣，頸部為蕉葉紋，肩部為回紋及卷渦紋，腹部為轉枝番蓮紋，腹部下緣為蓮瓣紋。圈足底緣呈褐色，底部可見施塗化妝土痕跡，透明釉表開有冰裂紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318527&randomCode=52755607428",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318528&randomCode=82590149617",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19738?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19738.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

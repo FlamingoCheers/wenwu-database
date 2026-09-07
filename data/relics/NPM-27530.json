@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27530",
+ "name": "青瓷花式洗",
+ "aliases": [
+  "Flower-shaped washer in celadon glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.8公分 口徑16.5公分 底徑13.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷005178N000000000"
+ },
+ "summary": "八瓣牡丹花形，侈口窄邊，淺週壁，內底微凸，淺圈足。施罩青色釉，釉色內深外淺，口沿邊稜因釉層較薄，釉色受胎骨影響呈褐色邊。器內外釉層可見滿含汽泡及縮釉棕眼痕，略有開片紋。圈足缺損露胎處露出紅褐色胎骨，圈足週塗有赭色厚汁。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=468782&randomCode=25248809099",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=468783&randomCode=30203896110",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27530?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27530.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

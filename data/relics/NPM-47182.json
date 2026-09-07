@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-47182",
+ "name": "汀渚鷺鷥紋玉頂",
+ "aliases": [
+  "Jade finial with egret and shoal decoration"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "徑11.5公分 玉頂高4.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014088N000000001"
+ },
+ "summary": "木蓋玉頂。玉頂色青白略泛黃，以多層次透雕手法製作出荷塘鷺鷥的紋樣，最上方以荷葉荷花為主，鷺鷥棲息葉下，荷葉與荷梗交織出複雜的空間，顯見其設計上的用心，但最底下幾道弧形葉片，似乎透露了一絲形式化的感覺，可能是明代追仿較早玉頂母題的製作。本器目前為院藏〈仿官雙耳乳丁三足爐〉（故瓷014088）之玉頂。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=404083&randomCode=76697517882",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=404084&randomCode=737364156",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47182?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47182.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

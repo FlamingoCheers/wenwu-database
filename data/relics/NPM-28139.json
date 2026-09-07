@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-28139",
+ "name": "哥窯 青瓷牡丹花式洗",
+ "aliases": [
+  "Peony-shaped washer in celadon glaze, Ge ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.4公分 口徑11.5*11.2公分 底徑8.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017144N000000000"
+ },
+ "summary": "洗，十瓣牡丹花形，侈口、淺壁、外底略微內凹、無足。胎骨較厚，通體施青釉，色淺，釉質濃而勻潤，口沿釉薄處現灰色邊，表面開黃褐色及黑色細密紋片。外底留有六枚支釘痕，露灰黑色胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=559487&randomCode=51993560273",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=559488&randomCode=1725594501",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/28139?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_28139.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

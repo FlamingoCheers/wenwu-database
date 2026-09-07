@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-49840",
+ "name": "螭虎啣芝紋玉瓶",
+ "aliases": [
+  "Jade vase decorated with \"Chi-tiger holding lingzhi fungus\" motif"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1279,
+  1435
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬9.6公分 通高27.5公分 厚6.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001734N000000000"
+ },
+ "summary": "玉質。瓶，長方形口，瓶身略直，高足，鏤雕龍形耳。口沿下陰刻「萬」字及「卍」和「卐」兩種符號；頸部正反面皆有縱向棱脊，棱脊上刻回紋，其餘部份刻鳥紋；腹部高浮雕螭口銜靈芝紋，螭背向觀者，邊緣以幾何紋裝飾，下邊浮雕壽山福海，腹側陰刻螭、壽山、靈芝等紋。此器頗高大，雕工較粗放，紋飾風格呈現元至明前期華北風格。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=187509&randomCode=36638209116",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=187510&randomCode=78173448695",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/49840?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_49840.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

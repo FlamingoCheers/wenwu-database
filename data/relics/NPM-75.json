@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-75",
+ "name": "定窯 白瓷劃花竹石花卉紋蓮式盤",
+ "aliases": [
+  "Lotus-rimmed dish with incised bamboo"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.5公分 口徑23.1公分 底徑16.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003785N000000000"
+ },
+ "summary": "敞口盤，平折唇沿，作十瓣蓮花式口緣，瓣緣深陷；淺壁，足淺挖，平底。唇沿略起棱而無釉，係覆燒成；順著器緣鑲有銅棱釦。盤底滿劃湖石、修竹，以及牽牛、茶花、芍藥等花卉，豐富繁雜。側壁劃蓮荷花葉，唇沿針劃卷葉牡丹、石榴等圖案。釉色牙白，口部露胎處見胎色白。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321095&randomCode=65444679985",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321096&randomCode=71277868527",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/75?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_75.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

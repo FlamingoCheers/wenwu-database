@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-57610",
+ "name": "玉蚌人物擺件",
+ "aliases": [
+  "Jade ornament of clam deity"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "高3.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉006538N000000000"
+ },
+ "summary": "玉質，部分沁褐，雕一女童，背後有一蚌殼，為民俗表演中之蚌殼精。人物潔白，線條圓潤，沁褐處巧雕成蚌殼，自然呈現質感的不同。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=338239&randomCode=65664706062",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=338240&randomCode=50496417727",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/57610?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_57610.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

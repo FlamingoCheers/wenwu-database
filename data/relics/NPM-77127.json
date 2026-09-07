@@ -1,0 +1,40 @@
+{
+ "relic_id": "NPM-77127",
+ "name": "南宋 黑釉茶盞",
+ "aliases": [
+  "Tea bowl in black glaze, China, Southern Song dynasty(1127-1279)"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "南贈瓷000002N000000000"
+ },
+ "summary": "敞口，斜腹，小底，矮圈足，圈足露胎呈灰褐色。器內外全施黑釉，釉色烏黑晶亮，外壁施釉不及底，釉上薄下厚，近底部處有淌釉痕。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=933170&randomCode=1468639783",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/77127?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_77127.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26075",
+ "name": "龍泉窯 青瓷蓮瓣紋碗",
+ "aliases": [
+  "Bowl with lotus-petal decoration in celadon glaze, Longquan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高10.8公分 口徑22.2公分 足徑6.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017826N000000000"
+ },
+ "summary": "侈口大碗，深壁，尖底，矮圈足。體輕薄，外壁飾仰蓮瓣紋，蓮瓣細長相接，各瓣皆中稜高起；從外壁鏇文猶存的情形推測，製作時或應有外模協助成形。外底平，足壁薄，足端無釉，色灰黃，足沿猶存沾砂痕。全器色粉青釉澤滋潤，口沿及蓮瓣中稜的釉面多因使用而磨蝕。此類蓮瓣碗為龍泉窯最常見的器形之一，廣見於海內外各地。如南宋史繩祖墓（1274）、潘氏墓（1275）所見，而後者尺寸與此件相當。本院此類大小碗亦多。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=340418&randomCode=31502991835",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=340419&randomCode=56106609543",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26075?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26075.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

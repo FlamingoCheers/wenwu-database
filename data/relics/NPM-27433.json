@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27433",
+ "name": "定窯 白瓷劃花雲龍紋洗",
+ "aliases": [
+  "White washer with incised design of cloud and dragon, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.1公分 口徑14.0公分 底徑12.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014485N000000000"
+ },
+ "summary": "洗，圓口微侈，深壁，平底無足。口沿內外各劃回紋一道，內底心劃蟠龍一條，間飾雲紋，內底邊緣劃回紋一週。全器施白釉，釉色泛黃。採覆燒法，口緣露胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=463319&randomCode=12858931514",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=463320&randomCode=30026041177",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27433?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27433.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2741",
+ "name": "玉鳳柄洗",
+ "aliases": [
+  "Jade brush washer with a phoenix-shaped handle"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長16.7公分 寬11.8公分 高5.1公分 口徑11.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉003620N000000000"
+ },
+ "summary": "玉色青中泛黃且帶灰，有淡褐色斑，並非一般討喜之質感。器口圓整，一側以一隻口啣器壁、爪攀器緣、雙翅開展環抱器身的鳳鳥為鋬把，平底。鳳鳥鉤啄弧度流暢、細長鳳眼有神、羽毛的表現方式豐富，絨羽、體羽、翼羽、尾羽，形態各有不同，而尾羽一直延續至底心。舒卷有致的雲氣自雙翼下開展，環繞器壁。全器飾雙鉤工字不斷錦紋地。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=136997&randomCode=57595265180",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=136998&randomCode=46083982742",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2741?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2741.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

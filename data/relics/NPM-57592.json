@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-57592",
+ "name": "玉貓",
+ "aliases": [
+  "Jade cat"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬4.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉006520N000000000"
+ },
+ "summary": "玉質，微泛黃，密佈褐斑並帶褐石皮。全器琢成一隻貓的形狀，貓朝右側呈蹲踞姿勢，周身線條模糊而不甚明顯。此貓頭部比例稍大，造型圓潤討喜，首部依稀可見雙眼、鼻部與微隆之雙耳。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=338657&randomCode=31211524462",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=338658&randomCode=33786371198",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/57592?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_57592.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

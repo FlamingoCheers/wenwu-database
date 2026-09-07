@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-6841",
+ "name": "獸面紋觚",
+ "aliases": [
+  "Gu wine vessel with animal-mask pattern"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  17
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高34.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000150N000000000"
+ },
+ "summary": "觚口極度外張，直筒腹，圈足起臺。頸部飾蕉葉紋，內填解體獸面紋，下頸處則有一小周渦紋與四瓣花紋相間紋飾帶。腹部、圈足飾解體獸面紋。下頸處、腹部、圈足皆有四條扉稜。此器仿自商晚期觚的造型，但渦紋、四瓣花紋、地紋的雲雷紋等細節多有訛舛。器表紅、綠作鏽，局部紋飾覆蓋瘤狀物彷彿堆疊的鏽層，以上特徵均為晚期仿古器常見的作舊方式。本件器物是乾隆三十四年(1769)頒賜國子監的「周笵十器」之一，名之為「周雷紋觚」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=504&randomCode=1181590628",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=505&randomCode=1145799737",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/6841?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_6841.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

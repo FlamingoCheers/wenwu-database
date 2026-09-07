@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26682",
+ "name": "龍泉窯 青瓷印花花卉紋盤",
+ "aliases": [
+  "Dish with impressed floral decoration in celadon glaze, Longchan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.2公分 口徑27.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷011382N000000000"
+ },
+ "summary": "敞口碗，口卷邊，淺壁弧形，短圈足。通體施&amp;#33905;青色釉。盤心印花花卉一枝。胎骨厚重，裹足滿釉，器底部有環形無釉墊燒區。附黃籤：「三等無&amp;#27445;冬青釉盤二件」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=408424&randomCode=37915886698",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=408425&randomCode=63373892472",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26682?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26682.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

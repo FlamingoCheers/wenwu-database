@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-45424",
+ "name": "骨雕花鳥紋管",
+ "aliases": [
+  "Bone tube with flower-and-bird decoration"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "雕塑",
+ "material": null,
+ "dimensions": "長12.6公分 最大徑1.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈雕000196N000000000"
+ },
+ "summary": "取一段骨材，兩端各穿兩孔，以供穿綴；較大徑一端的兩孔遺留銅綠。器表細線陰刻兩列朵花紋，並間飾一列展翅仰飛之鳥紋；一列方格內有十字交叉之紋飾；較大徑一端近緣處刻飾兩道三角內有多道細陰線之紋飾，另一段近緣處刻飾交叉弧紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350029&randomCode=30905857777",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350030&randomCode=68872755033",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/45424?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_45424.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

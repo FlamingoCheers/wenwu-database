@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27195",
+ "name": "鈞窯 月白釉出戟尊",
+ "aliases": [
+  "Zun vessel with vertical flanges in light celadon glaze, Jun ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高29.8公分 口徑23公分 底徑18公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷016985N000000000"
+ },
+ "summary": "器形仿古銅器尊，侈口出唇，長頸，腹扁圓，短脛，矮圈足。器外頸、腹、足徑飾有突出方稜三層，每層四道，故稱為出戟尊。器頸上胎骨較薄，往腹下漸為厚重。施罩月白色釉，釉色微灰，釉質乳濁濃潤，器足脛下緣略有流釉堆積，口緣及方稜釉層較薄處，釉色微見灰黃褐色。器表有蚯蚓走泥紋，遍體縮釉棕眼密集，足底內邊未上釉，似塗有一層深褐色護胎汁。足內裡未上釉處刻有「四」字。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=433977&randomCode=84919441261",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=433978&randomCode=85407380342",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27195?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27195.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

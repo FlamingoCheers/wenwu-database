@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26310",
+ "name": "仿官釉貫耳瓶",
+ "aliases": [
+  "Vase with tubular handles in glaze imitating Guan ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高23公分 口徑8.9*6.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014114N000000000"
+ },
+ "summary": "此壺呈橢圓體，直口捲唇，自口下外斜而接圓腹，壺身輪廓呈圓順弧線，管狀附耳接於肩部，圈足頗高且外撇，足部左右各有一方孔。壺身兩側有「工」字形凸稜連通貫耳，前、後面正中各有三道上下相續的「工」字形凸稜。全器裹以灰青釉，施釉至足際，足緣施以褐色汁水。釉層乳濁不透，足、腹有開片稀疏分佈，口緣、附耳和凸稜則因釉薄而映現褐黑胎色。此壺造型取樣銅器，或作為南宋宮廷的祭器。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403317&randomCode=32423277033",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403318&randomCode=1195772494",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26310?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26310.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

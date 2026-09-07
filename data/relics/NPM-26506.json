@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26506",
+ "name": "哥窯 青瓷葵口碗",
+ "aliases": [
+  "Bowl with hibiscus-shaped rim in celadon glaze, Ge ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.3公分 口徑19.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷015013N000000000"
+ },
+ "summary": "六瓣葵花式口碗，廣口、深腹、小圈足，底心作一圈圓形凹槽。釉色青黃帶灰，釉質呈失透乳濁狀，釉內含有氣泡。釉面滿佈開片，紋片由深黑色與黃褐色的大小開片組成，是所謂「金絲鐵線」。口沿釉薄呈黑褐色，外緣面略顯垂流，外底心有露胎，足沿無釉呈深褐胎色，此為宋代哥釉「紫口鐵足」的特徵。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=406651&randomCode=68909052945",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=406652&randomCode=32381344959",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26506?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26506.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

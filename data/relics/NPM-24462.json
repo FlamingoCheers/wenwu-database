@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24462",
+ "name": "柬埔寨 12-13世紀 青銅鎏金 男神立像，或為濕婆神",
+ "aliases": [
+  "Standing male deity, possibly Shiva, Cambodia, ca. 12th-13th century"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "像寬9.4公分 厚6.5公分 高26.6公分 座長14.4公分 寬11.9公分 高8.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000070N000000000"
+ },
+ "summary": "青銅鎏金男神像立於一方形小臺座上(其下之大臺座不確定是否為原件所有)，膝蓋微曲，左手叉腰，動作自然中帶有威嚴。此像的一個重要特徵是右手握一直立三叉戟，三叉戟末端置於小臺座上，而濕婆神(Shiva，印度教三大主神之一，象徵可以使天地萬物發生演變的永恆力量)的重要法器之一便是三叉戟(trishula)，故推測男神可能為濕婆神。此像年代約十二至十三世紀，此時期柬埔寨屬吉蔑文化統治，宗教信仰與造像藝術風格融合印度教與密教風格，但造像之面相與體態已脫離印度原型，轉化為東南亞人種特色，此像即為一例；此外濕婆神雖在印度造像中多為四臂而罕見二臂雕像，在吉蔑造像藝術中則是二臂與四臂像兼有。此神像頭頂高髻，戴一圈",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=142600&randomCode=38903123826",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=142601&randomCode=1160149716",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24462?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24462.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

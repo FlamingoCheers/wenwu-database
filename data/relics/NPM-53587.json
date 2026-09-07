@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-53587",
+ "name": "玉璧",
+ "aliases": [
+  "Jade bi disc"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長12.9公分 寬12.4公分 厚0.2公分 孔徑7.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈玉000422N000000000"
+ },
+ "summary": "玉質，帶片狀白斑，局部有淺赭沁色。全器為圓璧形，器壁上陰刻簡化獸面紋，以卷雲紋表示獸身。器形與紋飾仿戰國風格。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=123458&randomCode=43488631491",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=123459&randomCode=30515260091",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/53587?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_53587.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

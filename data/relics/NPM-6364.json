@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-6364",
+ "name": "夔紋甗",
+ "aliases": [
+  "Yan steamer set with kui dragon pattern"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "全高30.1 腹深20.2 口18.2 耳柱高5.2 最寬19.2 厚度0.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅001908N000000000"
+ },
+ "summary": "甗，鬲甑合鑄，甑部圓口微侈、立耳、圓腹，鬲部長頸、聯襠、三柱足，兩耳斷。甑頸飾夔紋、雲雷紋為地，鬲腹飾獸面紋。甑內口沿有銘二行六字。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=8187&randomCode=1668804877",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=8188&randomCode=1744624803",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/6364?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_6364.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

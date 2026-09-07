@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-61042",
+ "name": "蠔山瓷碗",
+ "aliases": [
+  "Porcelain bowl set in a oyster shell"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "碗徑15.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷018151N000000000"
+ },
+ "summary": "由生蠔殼與一侈口平底碗組成，碗全器施青釉，內壁有流釉痕跡，嵌於蠔殼口上，利用蠔殼的不規則邊緣固定；附有三足木座一只，以樹根雕琢而成，保留原有外形，僅於足部有明顯定形修飾的痕跡。蠔殼可以側邊方向置於木座上。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=331639&randomCode=79110098246",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=331640&randomCode=994318874",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/61042?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_61042.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

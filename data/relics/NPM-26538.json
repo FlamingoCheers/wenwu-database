@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26538",
+ "name": "定窯 白瓷碟",
+ "aliases": [
+  "Dish in white glaze, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1001,
+  1300
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.5公分 口徑12.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷015051N000000000"
+ },
+ "summary": "碟，敞口、淺壁，腹下近底處斜削一周，平底。全器光素無紋，釉色牙白，口鑲銅稜釦。是定窯常見的器形，有20cm左右的盤，及15cm以下的碟，平底、臥足，兼有之。考古遺址所見，素色無紋盤碗的數量最多。本器呈現牙白潤澤的釉光，以覆燒成器。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=407333&randomCode=42505195971",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=407334&randomCode=50587122885",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26538?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26538.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

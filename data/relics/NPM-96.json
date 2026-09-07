@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-96",
+ "name": "端石七星硯",
+ "aliases": [
+  "Inkstone with motif of seven stars"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1155,
+  1235
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長23公分 寬12.7公分 高5.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中文000033N000000000"
+ },
+ "summary": "紫端石，太史式硯，池呈一字，墨堂尾端無欄；兩側壁高。硯背呈抄手樣斜下，斜面上方有七個眼柱高下錯落，下方線刻一戴笠長髯捻鬚老者半身像，其間陰刻楷書清高宗御製詩文及二個篆印。硯首，左右壁各刻銘勒印，扥名為姜夔，祝允明，文徵明所作。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=184198&randomCode=84195034752",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=184199&randomCode=1522242063",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/96?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_96.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

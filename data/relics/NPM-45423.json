@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-45423",
+ "name": "骨雕鸞鳳綬帶板",
+ "aliases": [
+  "Bone plaque with phoenix-and-cordon decoration"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1368
+ ],
+ "category": "雕塑",
+ "material": null,
+ "dimensions": "長15.3公分 寬6.2公分 厚1.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈雕000195N000000000"
+ },
+ "summary": "長方形，四隅與中央凹入，每一邊亦內弧，兩面周邊皆起寬棱，一面中央浮雕壽石，左右各浮雕一鸞或一鳳翔於牡丹花叢中；另一面在中央分界成左右各一方形，各雕一綬帶鳥翔於牡丹花叢中，鸞鳳與綬帶鳥皆首尾相錯地面像器中央。此器兩面皆浮雕紋飾，原可能是他器之嵌件。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=349787&randomCode=46506788147",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=349788&randomCode=33099496971",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/45423?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_45423.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3062",
+ "name": "端溪天然子石硯",
+ "aliases": [
+  "Inkstone made from naturally-shaped Duan stone"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長11.0公分 寬9.5公分 高3.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000555N000000000"
+ },
+ "summary": "此硯就原硯石材，加修飾而成硯，是以全器除受墨處，以人工予以磨平外，其他連硯背，皆依原天然石子，不加磨治而成，自然古璞，四周皴皺滿佈，硯面首正有一水蛀，因以為墨池，誠天然混成之器也。硯色紫中泛紅，硯背鐫清高宗硯銘乙首：「水坑石子不需磨，以霤蛀處遂為墨池，閱幾滄桑，穆穆怡怡，天與之然，何慮何思，予獨恧夫，吮毫搆韻未能若斯」。款題：「乾隆戊戌仲夏御銘」，鈐印二：「比德」、「朗潤」，按「乾隆戊戌」，為清乾隆四十三年，西元1778年，此硯銘并收入《清高宗御製詩文全集》一，《御製文》二集，卷四十，頁十二。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173133&randomCode=83344420555",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173134&randomCode=862211992",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3062?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3062.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

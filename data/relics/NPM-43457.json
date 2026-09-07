@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43457",
+ "name": "青白瓷龍紋碟",
+ "aliases": [
+  "Saucer with dragon decoration in bluish-white glaze"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.2公分 口徑17.8公分 足徑5.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000425N000000000"
+ },
+ "summary": "敞口碟，口緣有邊棱，淺弧壁，平底，圈足。內底心模印雲龍紋，內壁亦有印花花紋，全器施白釉，呈淡青色，足端寬而露胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393910&randomCode=73716713106",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393911&randomCode=1324249853",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43457?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43457.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

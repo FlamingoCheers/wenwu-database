@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19964",
+ "name": "定窯 白瓷劃花三螭紋碗",
+ "aliases": [
+  "Bowl with incised chi-dragon pattern in white glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.0公分 口徑17.5公分 底徑5.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003804N000000000"
+ },
+ "summary": "敞口，弧壁下斂，圈足。全器施白釉，釉色略黃，圈足滿釉，口沿無釉鑲銅釦棱。外壁光素無紋，內壁劃花雙螭龍翔於雲間，內底亦印花一螭為飾。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321165&randomCode=44419647355",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321166&randomCode=75754181919",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19964?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19964.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

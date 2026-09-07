@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26065",
+ "name": "官窯 青瓷膽瓶",
+ "aliases": [
+  "Gall-bladder-shaped Vase in Celadon Glaze, Guan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高13.6公分 口徑2.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017702N000000000"
+ },
+ "summary": "圓口窄邊，細長頸，梨形腹，平底，矮圈足。胎骨稍薄，墊燒，施青釉。釉質清亮有光澤，釉面有金黃色紋片。足端無釉，局部露出深灰色胎。整件作品直頸梨形腹的造型特徵，和任氏墓出土的青瓷瓶具有若干的相似度，但圈足稍高，修飾不平整的作法又近似南宋官窯器，故將之訂年為南宋至元。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=64466&randomCode=23564967766",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=64467&randomCode=491298007",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26065?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26065.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

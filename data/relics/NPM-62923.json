@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-62923",
+ "name": "水晶兔",
+ "aliases": [
+  "Crystal rabbit"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1234
+ ],
+ "category": "杂器",
+ "material": null,
+ "dimensions": "長4.0公分 高2.5公分 厚2.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故雜000942N000000000"
+ },
+ "summary": "無色透明的水晶，雕琢一隻匍匐的小兔，比例上兔子的頭與耳朵相當碩大。雕工較簡，無甚多細部琢磨。由背部至腹部有直穿，應是用以穿繫繩組，供佩戴把玩。唐宋時期已多寫實的兔形玉石立雕，但以俄羅斯海濱沙伊金古城出土的金代水晶小兔與院藏這件最為神似。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397745&randomCode=45444994571",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397746&randomCode=1661271765",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/62923?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_62923.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

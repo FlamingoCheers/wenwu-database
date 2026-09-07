@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-50575",
+ "name": "玉盤",
+ "aliases": [
+  "Jade saucer"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "高2.4公分 口徑長17.6公分 寬12.6公分 足徑長13.1公分 寬8.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉002440N000000000"
+ },
+ "summary": "玉質，色青帶灰，間有赭斑。全器作長方形，平沿、淺壁、圈足。底心突起一圓盤，邊緣琢圓珠一圈，內凹用以承杯，平沿飾回紋。外底心琢「乾隆御用」隸款。與故玉2441玉杯為一組。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=163721&randomCode=69544937185",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=163722&randomCode=1383044248",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/50575?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_50575.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

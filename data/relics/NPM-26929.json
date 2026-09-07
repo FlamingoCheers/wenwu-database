@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26929",
+ "name": "定窯 白瓷劃花蓮花龍紋盤",
+ "aliases": [
+  "Dish with incised lotus and dragon decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.7公分 口徑21.4公分 底徑6.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷002516N000000000"
+ },
+ "summary": "敞口，淺壁，平底，矮圈足，口緣鑲銅釦。全器施米白色釉，外底足內亦施釉。碗心劃飾一條盤繞的龍，周圍裝飾多朵祥雲。碗內壁劃飾三朵蓮花，花形簡潔高雅，襯飾的葉紋捲曲柔軟。碗外壁可看到轆轤鏇削所產生的痕跡。口沿鑲銅釦為定窯重要特色之一，除了可遮掩覆燒時產生的芒口外，亦結合了當時人們對於金銀器飾的喜愛。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428896&randomCode=47938018837",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428897&randomCode=1729055911",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26929?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26929.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26090",
+ "name": "官窯 青瓷葵口盤",
+ "aliases": [
+  "Dish with hibiscus-shaped rim in celadon glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.8公分 口徑18.7公分 足徑5.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017719N000000000"
+ },
+ "summary": "六瓣葵口折腰盤，淺壁，淺圈足，盤心微凹，圈足低矮，採墊燒法燒製，內外施青釉，釉質濃潤，呈色粉青。口下可見雙層施釉痕，口沿釉薄處現出灰棕色邊。內外釉面有棕色開片，局部可見冰裂紋。外壁順應葵口出現六道淺槽，圈足修飾平整，局部顯露出深灰色胎。 花口折腰盤是北宋後期出現的器形之一，就目前考古所見，河南省寶豐縣清涼寺、張公巷，浙江省杭州市老虎洞和郊壇下等幾個密切相關的窯址均見有類似標本的出土，從這些標本可以對比出五代、北宋之際以五花口較為流行，宋代以後六花口成為常見的器式。南北兩地瓷窯相繼燒製相同的器形；反映出共通的時代風格。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401271&randomCode=22085312734",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401272&randomCode=671478828",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26090?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26090.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

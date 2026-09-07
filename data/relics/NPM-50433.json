@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-50433",
+ "name": "松蔭圖玉雕",
+ "aliases": [
+  "Jade carving of figures shaded by pine tree"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬8.6公分 高21.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉002301N000000000"
+ },
+ "summary": "不規則長橢形的青灰色大玉籽料，局部帶淺褐色沁斑。隨形鏤雕山石間老松一株，祥雲瑞氣繚繞其間，仙鶴飛於上，靈龜行於下，戴帽執杖的老者與女童垂目靜立，花鹿則隨行在旁。雕工較為樸實渾厚，山石、老松等鏤空的內壁拋光較差。老者的衣著神情頗相似於江西上饒南宋趙仲湮墓出土玉帶板上浮雕的人物，女童姿態、衣著相似於北京元大都遺址出土的仕女帶飾。全器下端為一長寬各約3.8公分的未拋光的平面，上面鑽有兩個深孔，說明這件山子可用金屬鉚釘固定於他物上端。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=136765&randomCode=27962041898",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=136766&randomCode=42423360319",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/50433?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_50433.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

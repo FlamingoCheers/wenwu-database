@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-57079",
+ "name": "玉帶鈎",
+ "aliases": [
+  "Jade belt hook"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長8.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉005938N000000000"
+ },
+ "summary": "《長物志》〈鈎〉條以早期金銅帶鈎，認為「齋中多設，以備懸壁挂畵及拂塵、羽扇等用最雅，自寸以至盈尺皆可用。」此處選展玉帶鈎形制相仿，以為參考。(引自「小時代的日常 - 一個十七世紀的生活提案」展覽說明)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1087383&randomCode=1124526938",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1087384&randomCode=1292088485",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/57079?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_57079.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-49876",
+ "name": "玉盒",
+ "aliases": [
+  "Jade box"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "厚2.2公分 直徑4.64公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001770N000000000"
+ },
+ "summary": "玉質。表面褐黑色，圓盒，有四足。蓋面中心淺浮雕菊花紋，周圍飾雲紋，盒壁琢三角形之雲紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=162450&randomCode=30332931094",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=162451&randomCode=91897588756",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/49876?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_49876.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

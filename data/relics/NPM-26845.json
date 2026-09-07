@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26845",
+ "name": "景德鎮窯 青白瓷印花雙鳳紋碗",
+ "aliases": [
+  "Bowl with impressed paired phoenixes decoration in bluish-white glaze, Jingdezhen ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.0公分 口徑20.7公分 底徑7.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷010299N000000000"
+ },
+ "summary": "深壁大碗，弧形壁近半球形，口緣微撇，圈足，足滿釉，口飾銅稜釦。碗內口沿下印回紋一道，週壁飾雙鳳對飛，周繞以菊花、蓮花、月季等四季花卉；鳳鳥具冠飾，頸披長羽，展翅顧盼。印模深刻，紋理清晰。碗心平凹下，飾牡丹一枝。全器輕而薄，釉色淺青，積釉作湖水碧，釉光澄澈；對光而視，花紋完全反透到背面。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=410595&randomCode=37048896911",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=410596&randomCode=147017049",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26845?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26845.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

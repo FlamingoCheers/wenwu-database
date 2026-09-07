@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24150",
+ "name": "耀州窯 青瓷劃花菊花紋盤",
+ "aliases": [
+  "Dish with incised chrysanthemum decoration in green glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.5公分 口徑21.2公分 足徑6.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷004097N000000000"
+ },
+ "summary": "侈口斂腹，淺弧壁，有圈足。器壁有凹痕一圈，壁上光素無紋。器內有劃花葉紋，是典型耀州窯的裝飾技法，釉積處顏色偏綠，使花紋凹處產生陰影效果而突出紋飾。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173472&randomCode=70466460837",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173473&randomCode=87910223594",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24150?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24150.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

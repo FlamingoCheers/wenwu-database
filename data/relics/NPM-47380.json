@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-47380",
+ "name": "禪地玉冊玉匱嵌片",
+ "aliases": [
+  "Plaque composing a jade case"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "玉器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈玉000004N000000009"
+ },
+ "summary": "梯形白玉嵌片，與附件6、7、8、10為一組，嵌於盛裝玉冊的匱上。\n琢如意卷雲紋兩朵，雲頭刻飾似花蕾的紋樣，身軀呈卷枝狀，為五代至宋常見的裝飾紋樣。\n玉片四角及底中央有穿孔，應為施釘嵌於玉匱上而作。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=418690&randomCode=27043213093",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=418691&randomCode=17867440251",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47380?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47380.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

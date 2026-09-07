@@ -1,0 +1,40 @@
+{
+ "relic_id": "NPM-110",
+ "name": "三彩獅形枕",
+ "aliases": [
+  "Lion-shaped pillow with san-ts’ai colors"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "全高10.2公分 寬28.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購瓷000114N000000000"
+ },
+ "summary": "三彩蹲獅，背上駝著荷葉式弧形枕面。獅子雙足並置於頷下，凝目齜牙，有一躍而起之勢；腰部留有燒造時的氣孔。黃胎褐黃釉，枕面則在白陶衣上刻劃牡丹紋樣，澆淋黃、綠、白釉，劃痕澆色皆灑脫。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2662304&randomCode=1352335298",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/110?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_110.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

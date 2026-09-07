@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-50629",
+ "name": "玉碟",
+ "aliases": [
+  "Jade dish"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "高3.0公分 口徑9.8公分 底徑2.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉002499N000000000"
+ },
+ "summary": "玉質，雜黃斑，器璧有璺。侈口小碟，淺壁、圈足。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=151637&randomCode=70340964008",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=151638&randomCode=34975744645",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/50629?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_50629.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

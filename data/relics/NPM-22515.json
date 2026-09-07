@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-22515",
+ "name": "清三希堂法帖（十二）　冊　宋蘇軾書次韻王晉卿送梅花一首",
+ "aliases": [
+  "Modelbook Calligraphy in the Three Rarities Hall (Sanxitang), Twelve： Farewell to Plum Blossom Poem Using Wang Jingqing's [Wang Shen's] Rhyme"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "书画",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈帖000089N000000012\n more\n \n 贈帖000089N000000013\n 贈帖000089N000000014"
+ },
+ "summary": null,
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=456846&randomCode=66654961708",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=456847&randomCode=78115388703",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/22515?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_22515.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

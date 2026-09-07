@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-58698",
+ "name": "玉鳧佩",
+ "aliases": [
+  "Jade pei pendant in the shape of a waterfowl"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "全長11.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉007653N000000000"
+ },
+ "summary": "色青白，帶赭色玉皮，有璺。雕一野鳧立於荷葉上，作回首狀，陰線細刻五官、羽翼、荷葉脈等部位，並巧留玉皮為荷葉色，造型生趣可愛。野鳧頸處有一穿，繫繩及絲穗以作佩飾。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=610790&randomCode=1563225069",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=610791&randomCode=1372323792",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/58698?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_58698.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

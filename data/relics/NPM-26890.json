@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26890",
+ "name": "定窯 白瓷劃花牡丹紋盤",
+ "aliases": [
+  "Dish with incised peony decoration in white glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  12
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.8公分 口徑24.4公分 底徑15.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷002476N000000000"
+ },
+ "summary": "侈口平折出唇，口緣露胎一周凸棱無釉，淺壁平底，臥足。折沿上勾劃卷雲紋一周，盤內壁滿劃纏枝牡丹花二朵。厚胎薄釉，釉面色白微黃。定窯窯址位在河北省曲陽縣澗磁村、燕山村一帶，窯場廣佈，是宋金時期北方最著名的白瓷窯場，宋人《袖中錦》一書將定瓷與端硯、浙漆、內酒等並列，評為「天下第一，他處效之終不及」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428831&randomCode=71848992403",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428832&randomCode=2128669854",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26890?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26890.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-47210",
+ "name": "汀渚鷺鷥紋玉頂",
+ "aliases": [
+  "Jade finial with egret and shoal decoration"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "木蓋 直徑12.0公分 高6.5公分 底座 直徑17.0公分 高4.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷008431N000000001"
+ },
+ "summary": "此器為牙白劃花夔紋象耳爐（故瓷8431）之木質圓蓋，表面有凸起波浪狀紋，頂端鑲有玉質立鈕，可與蓋身分離。玉鈕質地瑩白溫潤，整體造型仍為柱狀，但內部鏤雕有荷花和禽鳥的立體紋樣。荷花的枝幹相互交纏，荷葉則俯仰開合，枝葉之間雕有禽鳥，雕工細膩繁複。又，蓋底內部陰刻一「丙」字。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=411252&randomCode=62579697607",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=411253&randomCode=1511521607",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47210?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47210.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

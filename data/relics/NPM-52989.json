@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-52989",
+ "name": "螭虎啣芝紋玉頂",
+ "aliases": [
+  "Jade finial with \"chi tiger holding lingzhi\" motif"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬4.0公分 高3.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中玉000241N000000001"
+ },
+ "summary": "附件 木蓋玉頂，白玉有燻烤痕。以多層次鏤雕螭攀爬於靈芝之間。木蓋以鏤空技法飾流雲紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=125643&randomCode=89999968234",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=125644&randomCode=71673910944",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/52989?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_52989.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

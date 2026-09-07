@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1999",
+ "name": "鑲嵌獸紋壺",
+ "aliases": [
+  "Hu vessel inlaid with animal pattern"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1644
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通寬28.2公分 高41.0公分 腹深36.4公分 口徑12.8公分 底徑16.0公分 厚0.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅001990N000000000"
+ },
+ "summary": "本件著錄於《西清續鑑》，作「周夔鹿壺」。胎體厚重、鑄造十分精良的圓壺。上腹裝飾著獸紋與鹿紋組成的裝飾帶；下腹則為雙獸紋帶，雙獸之間為冏紋；獸紋帶以下為獸紋組成的垂葉紋。紋飾部分以金銀鑲嵌，線條部份則以假鏽之類的紅色物質填嵌。紋飾的表現與掌握均極佳，技術亦十分精湛，為晚期仿古器物中的超水準之作。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=8516&randomCode=1087368781",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=8517&randomCode=1958324360",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1999?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1999.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

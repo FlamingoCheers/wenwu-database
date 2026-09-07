@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-57168",
+ "name": "玉子母鹿",
+ "aliases": [
+  "Jade mother-and-child deers"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長4.5公分 寬3.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉006029N000000000"
+ },
+ "summary": "青玉，有赭斑。全器琢子母雙鹿，呈伏臥狀。母鹿銜芝，一前足伏於子鹿背上。子鹿含情脈脈回望母鹿。底有通心穿。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1158531&randomCode=1331340786",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1158532&randomCode=1181590628",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/57168?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_57168.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

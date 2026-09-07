@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-48267",
+ "name": "玉劍璏",
+ "aliases": [
+  "Jade scabbard slide"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長5.7公分 寬2.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉000076N000000000"
+ },
+ "summary": "玉質，方形，面向兩側突出飾弦紋。璏是嵌飾於劍鞘中部，用以穿劍帶之鈕，本器為仿漢作品，應已無原始功能。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=148316&randomCode=52973826400",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=148317&randomCode=66819906708",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/48267?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_48267.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

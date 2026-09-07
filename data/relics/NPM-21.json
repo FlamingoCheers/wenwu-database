@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-21",
+ "name": "青瓷葵花式碗",
+ "aliases": [
+  "Hibiscus-shaped bowl with celadon glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.9公分 口徑12.1公分 足徑3.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷018034N000000000"
+ },
+ "summary": "六瓣花口造形，侈口，弧形深壁，圜底，矮圈足。內底心微凸，外底積釉。採墊燒法燒製，內外施青釉，青釉濃潤，呈色粉青，胎質較薄，口下有多層施釉痕，內外周壁開金黃色及透明兩種紋片，足端露出黑灰胎色。故瓷018034與故瓷018035同為乾隆皇帝多寶格中的收藏，透過帶「大清乾隆年製」款青瓷碗的傳世，而可從相似的器形中，追溯出乾隆官窯仿燒多寶格中瓷器的經過。相較之下，仿品在胎釉及圈足細節上均與原作大不相同。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=641208&randomCode=159468210",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=641213&randomCode=378901332",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/21?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_21.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

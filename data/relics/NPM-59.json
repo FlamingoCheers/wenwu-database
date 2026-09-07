@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-59",
+ "name": "定窯 白瓷劃花蓮紋梅瓶",
+ "aliases": [
+  "Meiping vase with incised lotus decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  12
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高35.4公分 口徑4.7公分 底徑9.3公分 足徑9.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷013471N000000000"
+ },
+ "summary": "梅瓶，小口圓唇，短頸，聳圓肩，腹修長，上豐下斂，近底處略微張，底內挖為圈足。器身以劃花為飾。上部蓮瓣短而橢圓並排；下部蓮瓣細長，以雙線重覆勾形；中腹前後各以一折枝蓮花為主紋，兩側勾勒簡單的荷葉。通體施牙白釉，有淚痕流敞，足緣無釉。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391945&randomCode=33236372019",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391946&randomCode=371810399",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/59?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_59.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

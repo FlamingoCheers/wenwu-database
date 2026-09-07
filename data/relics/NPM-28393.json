@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-28393",
+ "name": "青瓷膽瓶",
+ "aliases": [
+  "Porcelain gall-bladder-shaped vase in celadon glaze"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高14.9公分 口徑2公分 底徑5.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷008288N000000000"
+ },
+ "summary": "斂圓口，長頸，腹部上斂下豐，矮圈足。月白釉純潔欠潤，口呈灰色邊。紋片色淺稀疏，底部略有棕眼。圈足底塗黑色汁。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=597343&randomCode=118485204",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=597344&randomCode=1902145799",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/28393?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_28393.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

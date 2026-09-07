@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23128",
+ "name": "白瓷雙魚水波紋暗花洗",
+ "aliases": [
+  "Brush washer with impressed decorations of paired fish and waves in white glaze"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.8公分 口徑27.5公分 底徑15.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷000338N000000000"
+ },
+ "summary": "敞口大洗，弧形深壁，平底，凹下寬平具邊棱，圈足，口外壁凸唇沿。全器施牙白色釉，釉色瑩潤。口緣無釉，鑲銅棱釦，足端亦無釉露胎，色灰。內底飾劃花雙魚，線條輕淺。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=383089&randomCode=20152775619",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=383090&randomCode=36466780295",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23128?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23128.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

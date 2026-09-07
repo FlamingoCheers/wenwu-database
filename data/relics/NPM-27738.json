@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27738",
+ "name": "官窯 青瓷花式洗",
+ "aliases": [
+  "Flower-shaped washer with celadon glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.4公分 口徑12.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷008673N000000000"
+ },
+ "summary": "八瓣葵花形，侈口，淺壁，底略凹，無足。通體滿施青瓷釉，釉色灰青，底周有六枚圓點狀支痕，釉表開細密紋片，口沿、底緣釉薄處現出灰色邊。底面鐫刻乾隆皇帝〈詠官窯碟子〉：「掙釘猶是宋窯遺，冰裂紋存泑水滋。一例鳳凰山下土，不經陶鍊孰珍之」御製詩。詩末署「乾隆乙未春御題」紀年銘（乾隆四十年，1775），並落「太璞」一枚鈐印。近年來，由於浙江杭州老虎洞窯址的發掘中，發現模印有八思巴文以及帶「至正」紀年銘的支燒具，故讓發掘者不僅將該一地層視為是元代層，同時也將與之共伴出土瓷器的產燒時間定為元代。在此之下，傳世與該一地層所出相似的作品，遂有產燒於元代之說，此器形即是其中一例。然而，若考慮到此類製品，其實也存在部",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401369&randomCode=28375058349",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401370&randomCode=72754554173",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27738?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27738.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

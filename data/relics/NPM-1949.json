@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1949",
+ "name": "大師望簋",
+ "aliases": [
+  "Gui food container of Grand Preceptor Wang"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  17
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "長35.0公分 寬21.1公分 高23.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000151N000000000"
+ },
+ "summary": "全器作圓角長方形，帶蓋，蓋頂有四個獸形鈕，圈足。蓋頂面紋飾為斜角對稱的兩獸，器身飾竊曲紋及瓦紋，器外底作網格紋。全器形制近於兩周之際流行的「盨」。蓋與內底均有銘文「大師小子師望作䵼彝」，明顯仿自《宣和博古圖》的「周太師望簋」。本器是乾隆三十四年(1769)頒賜國子監的「周笵十器」之一，名之為「周盟簋」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=508&randomCode=2096508486",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=509&randomCode=2134030082",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1949?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1949.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

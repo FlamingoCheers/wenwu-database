@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23193",
+ "name": "彭窯 葫蘆瓶",
+ "aliases": [
+  "Gourd-shaped vase, Peng ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高24.2公分 口徑2.2公分 底徑6.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002615N000000000"
+ },
+ "summary": "葫蘆形瓷瓶，直口，圈足。整器罩透明釉，色調偏黃。外壁於釉下刻花為飾，口緣下方處回紋、渦卷狀葉紋各一圈，上下兩個向外碩出的器體，則各飾以俯視大朵盛開的花卉，外壁近足處飾渦卷狀葉紋一圈。圈足露胎一圈，足內滿釉無紋飾。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=385917&randomCode=45245449163",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=385918&randomCode=510840101",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23193?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23193.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-28127",
+ "name": "哥窯 青瓷葵瓣口盤",
+ "aliases": [
+  "Dish with lobed rim in green glaze, Ge ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.5公分 口徑19.4公分 底徑7.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017131N000000000"
+ },
+ "summary": "盤，六瓣葵花形口，深壁，壁底內折，平底，矮圈足。胎厚釉濃，青色勻潤。全器紋片繁密，黑黃色相間。足底塗有赭色薄汁。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=559369&randomCode=46391571318",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=559370&randomCode=949706345",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/28127?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_28127.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

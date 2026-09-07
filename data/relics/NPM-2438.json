@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2438",
+ "name": "哥窯系 青瓷水盛",
+ "aliases": [
+  "Ko ware type porcelain water pot"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  17
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.8公分 口徑5.2公分 腹徑7.7公分 足徑3.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷018031N000000000"
+ },
+ "summary": "水盂，腹寬而矮，頸微折，敞口、圈足。足圈墊燒，胎面呈紫黑色。通器飾灰青釉，釉中合黑點及黑色細密開片與淺色冰紋，釉面油亮。水盂內殘墨痕。帶白玉勺，勺柄琢繩紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1188325&randomCode=1855802565",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1188326&randomCode=1666631993",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2438?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2438.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

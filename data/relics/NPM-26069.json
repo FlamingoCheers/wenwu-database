@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26069",
+ "name": "官窯 青瓷弓耳扁壺",
+ "aliases": [
+  "Flask with bow-shaped handles in celadon glaze, Guan ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高11.6公分 口徑2.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017706N000000000"
+ },
+ "summary": "扁壺，圓口，短頸，扁形圓腹，橢圓形圈足，兩側有弓形耳連接頸腹。全器施青釉，呈灰青色，釉面有開片紋，圈足底緣塗黑褐色護胎汁。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400224&randomCode=26450593464",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400225&randomCode=691020922",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26069?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26069.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-45420",
+ "name": "骨雕填彩飾件",
+ "aliases": [
+  "Bone ornament with decoration in fill-in paint"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "雕塑",
+ "material": null,
+ "dimensions": "長9.8公分 寬3.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈雕000192N000000000"
+ },
+ "summary": "長條形，中段粗寬，面稍突弧，兩端皆有孔，僅一為圓形孔，餘皆為長方孔。突弧面陰刻線紋、點紋、心形紋、8字紋等等。深刻紋飾皆填彩，大多為紅彩，偶見綠彩，兩件的一端皆略殘缺。從器背痕跡可知此二件原為他器之嵌件，紋飾刻工深峻，且非漢以前紋樣，目前尚缺乏相關資料可資比對，或為宋以後之文物。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=349784&randomCode=31225502050",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=349785&randomCode=48334396507",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/45420?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_45420.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

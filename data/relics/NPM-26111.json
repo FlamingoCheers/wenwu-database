@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26111",
+ "name": "吉州窯 白瓷雲龍紋天球瓶",
+ "aliases": [
+  "Celestial globe vase with dragon and cloud decoration in white glaze, Jizhou ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高34.8公分 口徑7.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017773N000000000"
+ },
+ "summary": "圓口，直頸，圓鼓腹，矮圈足，口緣鑲銅扣。天球瓶因形似天上的星球故名。器外壁劃有紋飾，頸部劃有十字雲紋，器腹飾雲朵與一騰雲飛奔之龍，龍身畫滿鱗甲，雙目圓睜，四肢伸展，好似穿越雲層闊步奔行，姿態生動，雄武矯健。全器通施牙白色釉，釉色瑩潔，圈足無施釉，色灰中帶黃。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401383&randomCode=89122930384",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401384&randomCode=1074554181",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26111?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26111.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

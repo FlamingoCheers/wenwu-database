@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-3426",
+ "name": "嵌金銀竊曲紋觥",
+ "aliases": [
+  "Gong wine vessel with qiequ curled dragon pattern in gold and silver inlay"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高29.5公分 腹深15.0公分 口徑長24.5公分 寬12.3公分 底徑長19.5公分 寬12.7公分 耳柱高14.2公分 足高6.3公分 腹圍62.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅000464N000000000"
+ },
+ "summary": "全器分蓋、器兩部分，蓋前端為一獸首，後端有尾，尾部為雙耳上揚的獸面，附圓形殘片。器前有流，後有獸首耳附珥，鼓腹、圈足，蓋、器均有棱脊。全器嵌金銀，蓋飾夔紋，器飾竊曲紋，均以雷紋為地。外底有幾何紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=31269&randomCode=33298650954",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=31270&randomCode=78409063953",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3426?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3426.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

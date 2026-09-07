@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2355",
+ "name": "洮河石蘭亭硯",
+ "aliases": [
+  "Taohe inkstone with \"Orchid Pavillion\" design"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長23.2公分 寬17.8公分 高3.2-3.4公分；盒長25.6公分 寬19.8公分 高6.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文001540N000000000"
+ },
+ "summary": "洮河石，色綠，具淡黃細斑點。硯式橢圓，似將原有高而直的周壁的下方切去磨平，使略成平底周棱狀。硯面淺刻蘭亭圖。上方刻亭園景，亭內文士對坐，童子旁侍；亭臨曲水，有二鵝戲水中；曲水深凹，可為墨池，池上跨橋二︰水曲轉如月眉狀，繞圍出對岸平整的硯堂來。左下方石上刻「蘭亭佳景」四隸字。硯側周刻行草書詩句，署名為王羲之、王凝之等九名昔日參與蘭亭修褉的東晉王氏家族。硯背深浮雕柳塘景緻，六鵝或休憩或嬉游。周棱刻乾隆五十三年(1788)楷銘︰「洮石雖然遜舊端，質佳亦得伴文翰。坐來賢主對嘉客，疑是羲之與謝安。訝撫畫圖原述晉，可知亭子得稱蘭。題斯景不一而足，摹帖永和每慚難。乾隆戊申御題。」印︰「會心不遠」。傳世洮河硯",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1300721&randomCode=1791479829",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1300176&randomCode=323568347",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2355?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2355.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

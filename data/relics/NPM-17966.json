@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-17966",
+ "name": "玉年年有餘佩",
+ "aliases": [
+  "Jade paired fish symbolizing years of plenty"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬5.5公分 高3.7公分 厚2.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉004061N000000000"
+ },
+ "summary": "玉質，有赭斑。整器雕為大魚與小魚腹背相連。其中大魚口啣枝葉，似正扭身向前游去，而口中所啣枝葉亦隨水流飄動。小魚則安附於大魚背上。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334035&randomCode=27678346776",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334036&randomCode=90386850943",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/17966?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_17966.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

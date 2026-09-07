@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1267",
+ "name": "鈞窯 青瓷圓盤",
+ "aliases": [
+  "Dish in green glaze, Jun ware"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.3公分 口徑19.4公分 足徑12.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷000044N000000000"
+ },
+ "summary": "侈口，折沿，周壁極淺，平底，淺圈足。通體罩施粉青色釉，釉色泛白，釉質勻細，口部沿邊皆成米黃色，盤底足圈塗有一層赭色薄汁，外底並有圓點狀支燒痕五枚。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1733814&randomCode=1268916868",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1733815&randomCode=730273223",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1267?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1267.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

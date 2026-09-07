@@ -1,0 +1,37 @@
+{
+ "relic_id": "NPM-77084",
+ "name": "黑漆小碟",
+ "aliases": [
+  "Lacquer dish"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "漆器",
+ "material": null,
+ "dimensions": "口徑12.4公分 器內底徑8.2公分 足徑6.0公分 高2.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "南購漆000019N000000000"
+ },
+ "summary": "胎體輕薄，圈足，折沿盤，造型簡練，素漆，盤沿鑲金屬框，重髹透明漆或褐漆，圈足內紅漆書「西河年記」篆字印記。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1851190&randomCode=125576137",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/77084?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_77084.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

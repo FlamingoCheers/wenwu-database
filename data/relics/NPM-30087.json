@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-30087",
+ "name": "青白瓷印花博古花卉紋碗",
+ "aliases": [
+  "Bowl with impressed antique and flower pattern in bluish-white glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.5公分 口徑20.5公分 底徑7.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷000024N000000000"
+ },
+ "summary": "六瓣花口碗，深壁弧形下收，矮圈足。器裡以印花為飾，口下一道窄回紋帶飾，器壁豎線劃分六格，各印插花圖樣，花器有環耳方口瓶三、雙耳鬲一、環耳鼎二，分置蓮荷、芙蓉、牡丹、菊等四季花卉；底心圓形平凹，印一環耳簋，亦滿插花卉。可見宋代以古銅插花的風氣。全器釉色青白透光，積釉作湖水碧，為景德鎮系作品。口作銅釦。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=621217&randomCode=1700524066",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=621218&randomCode=1334970309",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/30087?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_30087.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27833",
+ "name": "定窯 白瓷印花鳳凰紋盤",
+ "aliases": [
+  "Dish with impressed phoenix decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.8公分 口徑22.9公分 底16.2徑公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014250N000000000"
+ },
+ "summary": "盤，侈口出唇，淺壁，平底，矮圈足，口沿鑲金屬釦。厚胎白釉，釉色泛黃。器內印花為飾，壁印花草紋一週，底印卷渦紋邊花形開光，開光內印鳳凰，間飾花草紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=472373&randomCode=36644571502",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=472374&randomCode=75656758241",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27833?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27833.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

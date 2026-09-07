@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-30165",
+ "name": "白瓷印花獅戲圖蔗段式洗",
+ "aliases": [
+  "Washer with linear pattern and decoration of playing lion in white glaze"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.3公分 口徑21.1公分 底徑10.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷010536N000000000"
+ },
+ "summary": "侈口深壁洗，斜壁微弧，平底腹下以陰弦紋一道斜收折為底部，具圈足，足端平磨無釉，口鑲銅釦稜；外壁飾凸弦紋一道，作蔗段式。器裡以印花為飾，口沿下印弦紋二道，並印轉枝海石榴紋飾。底面寬平，印雄獅戲球紋。獅紋佔器面大半，具濃厚的綣髮與揚起的綣尾，並作巨目、濃眉、回首咧嘴銜長綬帶，帶端繫繡球。本器與故瓷12282大致相似，然釉汁濃厚，紋飾難辨。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=623055&randomCode=963888211",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=623056&randomCode=1561494364",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/30165?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_30165.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

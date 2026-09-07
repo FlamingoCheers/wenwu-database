@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-28218",
+ "name": "湘湖窯 白瓷印花牡丹葵瓣口碗",
+ "aliases": [
+  "Bowl with hibiscus-shaped rim and impressed peony decoration in white glaze, Xianghu ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.3公分 口徑24.3公分 底徑7.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷010918N000000000"
+ },
+ "summary": "碗，六瓣葵花口，深弧壁，圓底，矮圈足。胎骨薄，釉色月白，口沿加鑲銅邊。器內滿印轉枝牡丹花，外壁樸素無紋飾。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=594120&randomCode=96453417940",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=594121&randomCode=54556372495",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/28218?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_28218.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

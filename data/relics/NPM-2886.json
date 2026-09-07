@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2886",
+ "name": "景德鎮窯 青白瓷弦紋三足爐",
+ "aliases": [
+  "Tripod incense burner with linear pattern in bluish white glaze, Jingdezhen ware"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.4公分 口徑12.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷015047N000000000"
+ },
+ "summary": "器呈短筒狀，直壁近底處微內收。平底，底中央微穿窪陷。有三短足，足的式樣為短小尖細的獸足。外壁飾弦紋三層，中層三道，上下各兩道。骨稍薄，釉色淺青微灰，釉勻潤，器底中央及口沿均露胎，器心有一圈墊燒痕。胎質細膩而有細小的黑點。胎色淡灰。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=406859&randomCode=62780197425",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=406860&randomCode=822959691",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2886?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2886.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

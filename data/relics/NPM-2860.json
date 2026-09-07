@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2860",
+ "name": "龍泉窯 青瓷鬲式爐",
+ "aliases": [
+  "Li-type burner, Longquan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高9.9公分 口徑13.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷016608N000000000"
+ },
+ "summary": "鬲式爐為龍泉窯最常見的香爐形式，類此的造型數量甚多。平折口沿、短直頸、三乳狀足外撇，肩部飾有一道凸弦紋，腹部與三足外側有稜線突起。稜線處釉薄而色淡白，有「出筋」之稱。胎色灰白，足端無釉微呈朱紅。香爐亦宋、元時期常見到的器類，亦官方祭器中最常提及的陶瓷項目。此種造型，與南宋吳奧墓（1268）出土物相近，唯體型稍大，腹較鼓出；四川遂寧窖藏、韓國新安沈船皆有類似器。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=339638&randomCode=33227749378",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=339639&randomCode=59647564374",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2860?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2860.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

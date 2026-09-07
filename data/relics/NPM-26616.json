@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26616",
+ "name": "景德鎮窯 白瓷印花石榴梅月圖碗",
+ "aliases": [
+  "Bowl with impressed decoration of pomegranate, plum blossom and the moon in white glaze, Jindezhen ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.7公分 口徑16.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷012266N000000000"
+ },
+ "summary": "圓形侈口，淺弧壁，平底，矮圈足。器外壁光素無紋，內壁口沿下飾以回紋一周，上下加飾弦紋各一道，器內以印花為飾，內壁滿布纏枝石榴花果附葉紋，底面為月下臨水梅花景；口下為雷紋一道。全器胎骨薄，內外壁釉色白中泛青，口沿無施釉呈芒口，推測原本可能鑲鈐銅釦。圈足有傷璺，釉表多處縮釉及雜點。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=407410&randomCode=17612743948",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=407411&randomCode=43458609846",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26616?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26616.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

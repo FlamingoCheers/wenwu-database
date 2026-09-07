@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26352",
+ "name": "官窯 青瓷弦紋貫耳壺",
+ "aliases": [
+  "Vase with tubular lug handles in celadon glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高26.6公分 口徑長11.0公分 寬9.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014022N000000000"
+ },
+ "summary": "侈口，高頸，垂肩，長圓腹，高圈足外撇。頸肩飾弦紋，上下共三道，頸兩側各貼飾一管形耳，足壁兩側各開一長方形孔，使之與貫耳串聯成穿帶提攜的功能。採墊燒法燒製，足端以外通體施青釉，釉層勻整，呈粉青色，釉面開片清晰，局部出現冰裂紋。口、足邊緣有南宋官窯多層施釉的特徵，足端露出深灰色胎。底面鐫刻乾隆皇帝〈詠官窯貫耳瓶〉御製詩，內容為：「泑氣猶滋火氣磨，兩傍貫耳足穿過。繫繩恰稱奴僮負，擷蘤偏供詩客哦。李氏奚囊堪伯仲，陸家越器未差訛。如非守口擬致問，把玩曾經閱幾多」。詩末署「乾隆癸巳季春御題」（乾隆三十八年，1773）紀年款識，並鈐「乾」、「隆」兩印。透過詩文得知乾隆皇帝上手把玩，目驗貫耳對應足壁穿孔的設計",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=385049&randomCode=86380435829",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=385050&randomCode=65223067478",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26352?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26352.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-7152",
+ "name": "八卦鏡",
+ "aliases": [
+  "Bronze mirror decorated with the Eight Trigrams"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑22.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000343N000000000"
+ },
+ "summary": "圓鏡，半球鈕、八卦形鈕座。鏡背飾八卦紋與動物形紋，最外圈有銘文二十字。「水銀是陰精，百鍊以為鏡，八卦氣象備，衛神永長命。」鏡緣另有刻銘，銘文不清。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1142&randomCode=353999010",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1143&randomCode=1895054866",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/7152?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_7152.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

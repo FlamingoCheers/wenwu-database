@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-33026",
+ "name": "定窯 白瓷劃花牡丹紋碟",
+ "aliases": [
+  "Dish with incised peony decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.6公分 口徑13.5公分 底徑10.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷009826N000000000"
+ },
+ "summary": "侈口，淺壁，平底，淺臥足。內底心劃牡丹花一株，通體施牙白色釉，局部泛黃。口沿加鈐銅釦。外底鐫刻〈詠定窯盤子〉：「傳是定州造，定州今實無。彭陶寧可比，蘇詠信非誣。穆若精神足，郁然花葉扶。和闐玉易琢，獲此綦難乎」御製詩。詩末署「乾隆癸巳孟春御題」（乾隆三十八年，1773），並落「會心不遠」、「德充符」兩枚鈐印。「德充符」印之「德充符」一詞出自《莊子》，原文為：「德充於內，應物於外，外內玄合信若符命，而遺其形骸也」。也就是充實內在的道德，並且將之表現於外，則裏外一致能相互驗證。這或是乾隆皇帝寓修德於藝術鑑賞中的特殊想法。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428948&randomCode=88587046685",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428949&randomCode=985329123",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/33026?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_33026.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

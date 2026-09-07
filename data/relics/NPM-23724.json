@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23724",
+ "name": "臨川窯 白瓷獸紋盤口瓶",
+ "aliases": [
+  "Vase with dish-shaped mouth and animal decoration in white glaze, Linchuan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高12.0公分 口徑3.0公分 底徑3.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002244N000000000"
+ },
+ "summary": "盤口，直頸，直筒狀腹，平底內挖成圈足。外壁施透明釉，器表呈現白中泛黃的色調。腹外壁釉下印花林中異獸為飾，異獸蹲踞，回首望向天邊浮雲。足緣露胎一圈，足內滿釉無款識。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394969&randomCode=21891443257",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394970&randomCode=862211992",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23724?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23724.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

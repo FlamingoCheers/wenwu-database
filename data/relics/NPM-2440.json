@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2440",
+ "name": "定窯系 白瓷繩紋水盛",
+ "aliases": [
+  "Water pot with rope decoration in white glaze, Ding ware type"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "口徑3.6公分 腹徑5.1公分 足徑3.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷018213N000000000"
+ },
+ "summary": "小水盂，敞口、短頸、斜肩、直腹、圈足。腹壁上下各一周繩紋，另四道直繩紋連貫其間。全器滿罩牙白釉，與定窯釉色接近。底緣露白胎。水盂內附一白玉勺，直長柄，旋紋與水盂之繩紋相近，柄端屈作如意首狀，可舀水入硯。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=159789&randomCode=50614950921",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1088789&randomCode=318208119",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2440?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2440.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

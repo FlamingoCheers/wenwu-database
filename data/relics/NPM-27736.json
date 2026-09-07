@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27736",
+ "name": "官窯 青瓷盤",
+ "aliases": [
+  "Dish with celadon glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.7公分 口徑15.8公分 足徑11.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷008671N000000000"
+ },
+ "summary": "圓侈口，口沿加鑲銅邊。淺壁，平底，淺圈足。胎體較薄，採支、墊並用方式裝燒，內外施青釉，釉色偏灰，釉面滿佈棕色紋片，底面沿邊排佈七枚支釘，足端與支痕均顯露出灰黑色器胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401549&randomCode=52093442000",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401550&randomCode=1634638738",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27736?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27736.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

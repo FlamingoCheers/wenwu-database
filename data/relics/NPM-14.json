@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-14",
+ "name": "奇門方鏡",
+ "aliases": [
+  "Square mirror with Taoist fortune-telling symbols"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "長14.2公分 寬14.0公分 厚0.3公分 徑16.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000285N000000000"
+ },
+ "summary": "鏡作方形圓轉角，鏡鈕已殘，八角形鈕座，座外有同心圓兩圈，由鈕座向外射出之八道直線將兩圓等分為八格，內圈分別有「吉」、「凶」、及、「天官」、 「天陰」、「天富」、「天盜」、「門天」、「天賊」、「天財」、「天陽」等 字，外圈則羅列著一個月中的每一日，四角飾以雲頭紋，最外環以鎮鍊紋，素窄鏡邊略高於內區，由鏡背上的文字及內圓外方的紋飾看來，應是模仿占星卜算的式盤來的。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1303369&randomCode=805148302",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1303370&randomCode=1224304339",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/14?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_14.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

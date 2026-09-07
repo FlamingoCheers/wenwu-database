@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3061",
+ "name": "端石海天硯",
+ "aliases": [
+  "Duan inkstone with imagery of heavenly seas"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長32.8公分 寬23.0公分 高6.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000463N000000000"
+ },
+ "summary": "端石，形近橢圓形，石色紫中泛紅，石理細潤，硯面雕仙山樓閣，四周為海浪所圍，波浪中矗立三峰，中峰刻「天台」二字，左峰刻「朱明曜真」，右峰鐫「醴泉華池」等字樣，皆楷書，閣樓楣鐫「蓬萊道山」四字。閣樓正門深挖成長方形墨池，其下即硯堂，硯堂寬平正直，在右下方有一石眼，硯首邊緣左右各有一石眼，色碧黃，其間滿佈小孔，象徵天上羅列星斗、日、月。周壁亦波濤中有各種海獸奔騰其間。硯背深窪的三‧四公分，滿刻海浪紋，並以七珍雜寶，環繞四周，其中金珠工中，恰有一石眼，中央浮雕一龜負碑，碑首刻「東坡硯銘」，四字隸書，左右各鐫龍紋，碑文刻古篆文，硯銘：「與墨為入，玉靈之食，與水為水，陰鑑之液，懿矣茲石，君子之側，匯以玩物",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176318&randomCode=81138700654",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176319&randomCode=54807380635",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3061?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3061.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

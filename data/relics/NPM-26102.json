@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26102",
+ "name": "官窯 青瓷葵花式洗",
+ "aliases": [
+  "Hibiscus-shaped brush washer with celadon glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.1公分 口徑13.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017911N000000000"
+ },
+ "summary": "八瓣花口盤，器身與口一體隨瓣形起伏。深壁下斂，圈足。全器內外滿施青釉，色呈粉青，細碎的開片掩映於凝潤如玉的粉青色釉中。足緣釉薄深褐色，足內滿釉，並有支釘痕七個，圓形分布。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401171&randomCode=93589747885",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401172&randomCode=79674631193",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26102?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26102.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

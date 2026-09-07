@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-34162",
+ "name": "青瓷橢圓硯",
+ "aliases": [
+  "Oval inkstone with celadon glaze"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1279,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "長13.7公分 寬10.4公分 高5.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017414N000000000"
+ },
+ "summary": "此器上下出折沿，中腰較細，底有四矮足。胎骨厚重，上施米黃色釉，釉色局部泛青。釉表開細紋片，邊緣釉薄處，現出褐色邊。從器表周緣的磨痕看來，此器器表原有施釉，後被磨除改製成硯面。經過使用後，沾染有墨汁。底刻乾隆皇帝〈題均窯硯〉：「趙宋均窯製硯臺，面平去釉有池隈。老坑佳品應難得，別裁澄泥用作陪」御製詩。詩末無紀年銘，僅署「乾隆御題」，並落「比德」一枚鈐印。乾隆皇帝鑑賞之際，不知是出於提示，還是像當代學者一樣，因上手觀覽後才有所發現。他在「面平去釉有池隈」之下，特別加注「瓷釉不生墨，去釉則與澄泥無異，可磨墨矣」。由此可見，目前看似硯臺的瓷硯，其實是從器座改製而成。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470906&randomCode=96335202145",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470907&randomCode=42280801562",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/34162?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_34162.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43345",
+ "name": "德化窯 白瓷毬紋盒",
+ "aliases": [
+  "Box with ball pattern in white glaze, Dehua ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.4公分 口徑5.3公分 底徑4.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000291N000000000"
+ },
+ "summary": "小圓盒，蓋面微隆起，子母口相扣；餅狀淺足，中央微凹入。底部及口緣無釉，胎色白，略鬆軟粉質感。全器以印花毬紋錦為飾，裝飾齊整，器身淺，器壁僅飾半個毬紋，亦即對葉狀花紋。全器表面薄釉，器呈淺米色，有細密開片。本件器皿胎釉屬於德化窯系統，或為安溪的產品；在東南亞遺址出現的數量頗多；印花紋飾常作幾何式錦紋，毬紋、龜錦紋、雲紋、卷草紋等，均小巧可觀。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395935&randomCode=45276823293",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395936&randomCode=1402754455",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43345?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43345.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

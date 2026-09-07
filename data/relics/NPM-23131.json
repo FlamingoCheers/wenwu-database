@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23131",
+ "name": "白瓷橄欖瓶",
+ "aliases": [
+  "White olive-shaped vase"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高24.9公分 口徑4.6公分 底徑5.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷000341N000000000"
+ },
+ "summary": "橄欖瓶，侈口、長頸、斜肩、碩腹下斂、圈足微外撇。胎骨較薄，全器施白釉，表面可見細碎開片，足底露白胎。器外口沿繞回紋一周，頸飾蕉葉紋，肩劃回紋及卷渦紋，腹部滿飾蓮荷花葉，近底處繞蓮瓣紋一周，足外亦飾回紋。近底處有舊傷修補痕跡。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393629&randomCode=96075018588",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393630&randomCode=600065159",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23131?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23131.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

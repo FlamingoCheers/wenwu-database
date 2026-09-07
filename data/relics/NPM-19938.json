@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19938",
+ "name": "彭窯 白瓷印花龍紋雙耳扁壺",
+ "aliases": [
+  "White flask with paired handles and impressed decoration of dragons"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高33.7公分 口徑4.3公分 底徑9.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003948N000000000"
+ },
+ "summary": "圓口直頸，口緣鑲銅釦，斜肩，扁圓腹，腹壁微外鼓，卷草耳，平底內凹為足。全器白釉，其色白中透黃，器壁印花飛龍翔舞於雲間海上。足露胎，足內白釉。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321187&randomCode=22000186929",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321188&randomCode=74807751157",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19938?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19938.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

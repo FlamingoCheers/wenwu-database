@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26537",
+ "name": "定窯 印花雙雁銜花折沿盤",
+ "aliases": [
+  "Plate with impressed design of geese and flowers, Ding ware"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高1.9公分 口徑14.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷015050N000000000"
+ },
+ "summary": "折沿盤，侈口淺壁，臥足，足沿成細稜線。器裡印花為飾，內壁以線狀勾勒纏轉的卷雲紋，盤面作雙雁展翅同向並飛，口銜長枝菊花，朵雲紋填隙，佈局豐富，模印清晰。口沿加鈐銅稜釦。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=407328&randomCode=22745732416",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=407329&randomCode=2060885708",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26537?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26537.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

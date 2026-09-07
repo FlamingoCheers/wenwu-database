@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3050",
+ "name": "澄泥傚建安瓦鍾硯",
+ "aliases": [
+  "Refined clay inkstone in tile shape from the Jianan reign of Han dynasty"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長16.0公分 寬8.8-10.7公分 高3.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000996N000000000"
+ },
+ "summary": "硯仿古銅器鍾形，硯色紫中泛黑、硯面受墨處，為鐘體平整處，其上方為墨池，墨池作長方形，墨池有二弦紋，弦紋之間，浮雕旋渦紋八，隙地以波浪紋為飾，硯額為鐘紐，其上浮雕臥蠶紋三，中央有凹孔，硯下方亦以二弦紋相框，中央浮雕三朵團花，隙地以蒲蓆紋為飾，覆手穹起，中央凸雕「建安」楷書二字，其上鐫清高宗御製詩乙首，楷書：「泥也而金若鑄成，宋齊鏄莫傳名，摛文設擬洪鍾響，欲問伊誰為發鯨」、款題：「乾隆御題」，有鈐印一：曰「比德」",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176900&randomCode=74049236378",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176901&randomCode=1738045662",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3050?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3050.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

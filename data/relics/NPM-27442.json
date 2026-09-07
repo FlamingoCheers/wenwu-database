@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27442",
+ "name": "定窯 劃花蓮塘雙鳧盤",
+ "aliases": [
+  "Plate with incised waterfowl and lotus pond design, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.6公分 口徑21.7公分 底徑6.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014497N000000000"
+ },
+ "summary": "侈口、淺壁、平底，矮圈足。盤內劃蓮塘雙鳧，口內緣淺劃弦紋一道。全器施白釉，流釉處釉色較黃，外底有部分露胎，口緣加鈐銅釦。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=463344&randomCode=21552517426",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=463345&randomCode=36129713841",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27442?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27442.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

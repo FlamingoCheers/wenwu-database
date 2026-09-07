@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27566",
+ "name": "定窯 白瓷劃花菊花紋橄欖瓶",
+ "aliases": [
+  "Olive-shaped vase with incised chrysanthemum decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高26.6公分 口徑4.8公分 底徑7.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017044N000000000"
+ },
+ "summary": "瓶，斂口，長頸，器身腹部似橄欖形，矮圈足。器頸上劃方形回紋一道，器肩劃方格四瓣花紋及捲形回紋各一道。腹部劃刻纏枝菊花紋，外壁近底足處劃捲雲紋一道。施罩白釉，胎薄釉潤，器表釉面有細碎開片紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469604&randomCode=76799421948",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469605&randomCode=1527602291",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27566?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27566.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-51486",
+ "name": "玉筆架",
+ "aliases": [
+  "Jade brush stand"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長6.2公分 寬1.8公分 高3.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉003427N000000000"
+ },
+ "summary": "玉質，局部有灰斑，玉質有綹。器呈山形，造形為連綿的三座山峰。附木座，底陰刻填金楷書一「乙」字。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=139980&randomCode=43902530342",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=139981&randomCode=74333844146",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/51486?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_51486.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

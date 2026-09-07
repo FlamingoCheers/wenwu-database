@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23120",
+ "name": "定窯 白瓷印花四季花卉紋碗",
+ "aliases": [
+  "Bowl with impressed decoration of four-seasons flowers in white glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.1公分 口徑21.2公分 底徑7.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷005536N000000000"
+ },
+ "summary": "敞口大碗，弧形深壁，平底矮圈足。全器胎薄，施牙白色釉，釉色瑩潤。口緣無釉，鑲銅棱釦；足圈滿釉。外壁光素，器裡以印花為飾，近口緣處有一圈回紋；器壁作芙蓉、梅、菊等四季花卉折枝花叢，底心細棱為邊框，印飾蓮花。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=384025&randomCode=37950343823",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=384026&randomCode=51734616781",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23120?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23120.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

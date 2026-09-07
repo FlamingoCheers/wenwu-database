@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-52312",
+ "name": "玉菩薩像",
+ "aliases": [
+  "Jade statue of Bodhisattva"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1435
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "高5.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購玉000397N000000000"
+ },
+ "summary": "玉質，雕一菩薩坐像。背面嵌金質花托，金工甚佳，以連珠紋勾勒花托輪廓，並延伸至坐像前方，形成金質寶相花。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=109975&randomCode=57524143644",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=109976&randomCode=65832319035",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/52312?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_52312.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

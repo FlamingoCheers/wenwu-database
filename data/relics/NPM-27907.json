@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27907",
+ "name": "龍泉窯 粉青圓盤",
+ "aliases": [
+  "Porcelain round dish in light bluish-green glaze, Longquan ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.2公分 口徑16.5公分 底徑10.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷007755N000000000"
+ },
+ "summary": "盤。斂圓口，帶銅釦，弧形周壁，平底矮圈足。胎骨較薄，全器施粉青色釉，釉色泛白，器外壁一部份稍深，器壁內釉色青色勻潤。器足底塗淺赭色薄汁。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=476301&randomCode=38410558246",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=476302&randomCode=1907506027",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27907?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27907.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

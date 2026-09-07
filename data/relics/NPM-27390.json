@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27390",
+ "name": "仿哥窯花式杯",
+ "aliases": [
+  "Floral-shaped cup in glaze imitating Ge ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.2公分 口徑8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷010339N000000000"
+ },
+ "summary": "杯，五瓣茶花形，侈口，深斜壁，凸底無足。胎骨厚重，通體罩施牙白色釉，整器開片清晰呈淺褐與深褐色，口緣塗有灰色汁。底週有支釘痕四枚，露黑色胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=463235&randomCode=88690914389",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=463236&randomCode=74155663026",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27390?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27390.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

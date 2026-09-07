@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24765",
+ "name": "大晟—姑洗中聲鐘",
+ "aliases": [
+  "Bell with inscriptions of Ta-sheng and Ku-hsi Chung-sheng"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "寬21.2公分 厚15.6公分 高28.5公分 重7028公克",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000367N000000000"
+ },
+ "summary": "橢圓體，平口，鈕作雙龍曲體相對，頭部連成橫梁，雙龍中間有矩形鈕。每面飾十八枚螺形枚，篆、隧飾蟠虺紋，鉦有篆體銘文，一面為樂名「大晟」，一面為律名「姑洗中聲」。大晟樂為宋徽宗於崇寧四年(西元1105年)改制禮樂制度時，所制定的樂律，並仿造之前出土的春秋「宋公戌編鐘」，鑄了一組編鐘。共二十八件，「姑洗中聲」為其中之一，屬「中聲之律十二」之一律。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365163&randomCode=751714135",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365164&randomCode=564442381",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24765?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24765.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

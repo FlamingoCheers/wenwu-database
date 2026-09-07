@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-49083",
+ "name": "玉鸚鵡鎮紙",
+ "aliases": [
+  "Jade parrot"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1234
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長8.33公分 寬3.8公分 高3.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉000907N000000000"
+ },
+ "summary": "白玉，局部帶淺褐色皮子。全器保留河中玉籽的大致外形，也保留淺褐色玉皮子，巧於設計為一隻低頭啄食桃子的鸚鵡。十二、三世紀時，北方金朝玉雕漸多以花鳥動物為主題，崇尚寫實，立雕、厚片浮雕都有。如北京市豐臺區王佐金烏古倫墓出土的白玉鸚鵡銜花佩，北京市房山區長泃峪金代墓出土的孔雀形玉釵，都是很好的例證。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=187296&randomCode=31307338112",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=187297&randomCode=74167745959",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/49083?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_49083.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

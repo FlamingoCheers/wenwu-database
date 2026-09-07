@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26",
+ "name": "定窯 白瓷劃花蓮紋葵花式盤",
+ "aliases": [
+  "Hibiscus-rimmed dish with incised lotus design in white glaze, Ting ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.5公分 口徑20.3公分 底徑6.0公分 足徑5.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014504N000000000"
+ },
+ "summary": "六瓣花口盤，撇口、折腰、小矮足。器裡折腰痕明顯，底寬平微凹下。通裡劃花為飾，斜出折枝帶葉荷花，三朵盛開的花朵搖曳，滿佔盤面。全器滿釉，僅口邊窄沿鑲銅釦。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393305&randomCode=15744333536",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393306&randomCode=938985889",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

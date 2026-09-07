@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23719",
+ "name": "臨川窯 白瓷印花雲龍紋瓶",
+ "aliases": [
+  "Vase with impressed dragon and cloud decoration in white glaze, Linchuan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高25.8公分 口徑6.7公分 底徑7.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002239N000000000"
+ },
+ "summary": "侈口，直頸，豐肩，碩腹，脛部直下，足外撇。器施透明釉，透出潔白的胎色，外壁印花雲龍紋為飾，龍皆作正面，張嘴咧齒，四肢外伸，趾爪張揚，樣態威猛有力，龍與龍間並有火珠間隔，但火珠和龍之間並無相應的互動。足內除了中心圓形區域施釉外，餘皆露胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394067&randomCode=47768885461",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394068&randomCode=25798736",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23719?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23719.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

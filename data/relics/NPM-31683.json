@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-31683",
+ "name": "定窯 劃花海石榴笠式碗",
+ "aliases": [
+  "Conical bowl with incised pomegranate design, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1001,
+  1200
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.1公分 口徑21.9公分 底徑4.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014427N000000000"
+ },
+ "summary": "斗笠式碗，廣侈口、斜壁內收、小圈足。色澤瑩潤，器內外均以劃花為飾，裝飾華麗；刻劃工法多以直刀線刻輔以篦劃紋，偶出斜劃者均僅略示窄切面。外壁繞壁刻劃二組長莖蓮荷紋，花葉相連，鋪滿空間。內壁為纏枝海石榴圖案，碩大的四朵主花，重葩疊萼，花心作石榴狀；而圖案式的長葉纏枝繞卷。裡心為一小朵牡丹。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=623084&randomCode=1099456503",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=623085&randomCode=1317158920",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/31683?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_31683.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-28389",
+ "name": "汝窯 青瓷碟",
+ "aliases": [
+  "Dish with celadon glaze, Ru ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.2公分 口徑13.1公分 足徑8.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷008284N000000000"
+ },
+ "summary": "侈圓口，淺壁，平底，圈足微外捲。胎體薄而滿施天青色釉，釉薄處隱現淺粉色光澤。內周壁積釉處，有冰裂紋。底周留有三枚支燒痕，從支痕中可見土色胎。面刻乾隆皇帝〈詠官窯盤子〉：「祗以光芒嫌定州，官窯秘器作珍留。獨緣世遠稱稀見，髺墾仍多入市求」御製詩。詩末署「乾隆丙午清和月御題」紀年銘（乾隆五十一年，1786），並落「比德」、「朗潤」兩枚鈐印。因《禮記》中有：「君子比德於玉焉」。而《周書》中，亦曾以「光彩朗潤」形容石質自然散發出來的光澤。乾隆皇帝頌揚玉器，常以「玉德恒溫潤」（〈周玉赤刀〉），以及「比德皆君子」（〈詠檀玉蓮朵如意〉）等，陳述美玉象徵君子之德。故此處歌詠陶瓷所加鈐之「比德」和「朗潤」兩枚鈐印",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=445509&randomCode=34369636367",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=445510&randomCode=56012321847",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/28389?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_28389.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

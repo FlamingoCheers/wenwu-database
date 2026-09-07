@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-52759",
+ "name": "鶴鹿玉頂",
+ "aliases": [
+  "Jade finial with crane and deer design"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "玉頂高3.0公分 蓋長8.0公分 蓋寬5.5公分 蓋高5.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中玉000019N000000001"
+ },
+ "summary": "清 青玉三足鼎爐(中玉000019)鏤空木蓋上之元代玉頂。 灰⽩⽟⾊，有赭斑，一面鏤雕鶴、龜、靈芝，另一面為雙鹿及松樹。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=126841&randomCode=68514049107",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=126842&randomCode=34144454549",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/52759?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_52759.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

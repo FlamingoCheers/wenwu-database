@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-50924",
+ "name": "玉蒲紋璧",
+ "aliases": [
+  "Jade bi disc with rush-mat pattern"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "厚0.35公分 徑8.0公分 孔徑2.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉002820N000000000"
+ },
+ "summary": "原應為青黃玉質，但器表經受沁、盤摩及染色，呈現深淺不一的褐色，邊緣局部黑色。兩面均雕琢乳丁紋，但其中一面紋飾已磨損。乾隆皇帝為之賦詩「粟粒平擎若自然，葆光韞采謝雕鐫，楚州底論第三寶，喜在嘉生兆有年。乾隆御題。」詩加刻於玉璧周緣。清宮中配製紫檀木座，中央為泥金乾掛，並將同一首詩刻字泥金於木座背面。經核查，該詩收錄於《清高宗御製詩文全集》〈御製詩〉三集，卷43頁5。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=169601&randomCode=51319355312",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=169602&randomCode=44373568987",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/50924?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_50924.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

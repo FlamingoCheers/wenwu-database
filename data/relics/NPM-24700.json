@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24700",
+ "name": "日本 鎌倉時代 銅鎏金 天王立像",
+ "aliases": [
+  "Standing guardian, Japan, Kamakura period (1185-1336)"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1185,
+  1336
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通高14.0公分(含木座) 像高12.3公分 全重392.2公克(含木座)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000303N000000000"
+ },
+ "summary": "銅鎏金天王立像。由於天王在佛教中，往往有著護持正法、保護眾生的責任，所以在造像或繪畫上，常以武裝或威猛的形象，來表達天王抵禦侵擾的能力與神力，這一尊天王立像的製作，便同時採取了這兩種方式。此外，胸前的護甲，便連結了武者的裝扮；豎眉憤怒的容貌，手部與腰腹各處糾結精實的肌肉，以及曲臂上揚、彷彿隨時可以揮擊的左手，都表達這是一尊具有力量威勢的造型。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=326078&randomCode=2051895957",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=326079&randomCode=742724384",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24700?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24700.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19854",
+ "name": "官窯 青瓷圓洗",
+ "aliases": [
+  "Brush washer with green glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.5公分 口徑14.1公分 底徑9.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷004739N000000000"
+ },
+ "summary": "侈口，淺弧壁，平底，圈足。全器光素無紋，施罩青釉，釉色清而泛綠，厚潤帶玻璃光澤，並見細碎透明開片，口緣處因釉層較薄而呈現褐色。圈足滿釉，內有六支釘痕。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=319069&randomCode=52664125975",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=319070&randomCode=56875000281",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19854?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19854.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

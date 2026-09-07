@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2014",
+ "name": "玉高足杯",
+ "aliases": [
+  "Jade stem cup"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "高12.6公分 口徑4.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉006295N000000000"
+ },
+ "summary": "玉質，台足，器壁略薄，杯內淘空整齊，作工細緻。環器花紋共分四層，花紋縝密而結構格式化，陰線刻。全器褐紅、白斑成區塊交雜。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=987215&randomCode=345009259",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=987216&randomCode=1181590628",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2014?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2014.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-24453",
+ "name": "印度東北地區 12世紀 青銅 佛立像",
+ "aliases": [
+  "Standing Buddha, Northeast India, 12th century"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "總高21.3公分 像高14.4公分 背光寬9.4公分 高16.5公分 台座長7.7公分 寬6.0公分 高4.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000061N000000000"
+ },
+ "summary": "佛頭戴寶冠，戴耳飾，頸繫瓔珞，身穿貼身長袍，右手上舉施無畏印，左手作與願印，立於檯座上，後有背光。以簡單的線條刻畫五官，露出淺淺的微笑。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=112884&randomCode=56884932832",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=112885&randomCode=1812920741",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24453?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24453.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

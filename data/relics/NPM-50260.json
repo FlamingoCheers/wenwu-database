@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-50260",
+ "name": "玉魚",
+ "aliases": [
+  "Jade fish"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長5.5公分 通高3.0公分 厚1.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉002112N000000000"
+ },
+ "summary": "玉質，有深赭斑。魚形佩，上下有通心穿，背鰭、尾鰭有輕微損傷，附木座，合儲於圓盒內，並與另兩件璧、環合置於湖綠織花匣內。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=155608&randomCode=26204706113",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=155609&randomCode=98943110",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/50260?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_50260.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

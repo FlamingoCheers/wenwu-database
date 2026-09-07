@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27630",
+ "name": "定窯 白瓷劃花雙魚紋笠式碗",
+ "aliases": [
+  "Conical bowl with incised paired fish decoration in white glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.7公分 口徑17.8公分 底徑4.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷003025N000000000"
+ },
+ "summary": "笠式碗，廣口、小圈足、斜壁外敞；滿釉，僅口緣鑲銅稜釦。器裡盤心平凹下。器裡劃花為飾，以流暢的刀筆迅快劃刻數枝長莖蘆草，篦劃的水波紋不規則的盪漾曲動，雙小魚相隨浮游其間，頗生動。全器構圖與刻劃手法與雙鳧紋相似，院藏類似作品數件，有貼以黃簽「三等無款定窯銅鑲口暗花鐃碗一件」者（故瓷6161）。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469887&randomCode=24032781851",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469888&randomCode=569802609",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27630?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27630.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

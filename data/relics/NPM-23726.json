@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23726",
+ "name": "臨川窯 白瓷靈芝紋紙槌瓶",
+ "aliases": [
+  "Mallet-shaped vase with lingzhi fungus decoration in white glaze, Linchuan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高12.3公分 口徑4.5公分 底徑8.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002246N000000000"
+ },
+ "summary": "直口，口緣鑲銅釦，銅釦氧化呈綠色，直長頸，直筒狀腹，整器外形如紙槌瓶。外壁以印花芝草為主要裝飾紋樣，芝草枝梗彎曲表現動勢，在旁出的長形葉片襯托下，靈芝如雲朵般的樣貌，有如盛開的花朵。在頸部裝飾者，有如卷枝花葉的配置，裝飾於腹外壁者，則滿布畫面，既富裝飾性，又生意盎然。足緣露胎一圈，足內滿釉無款識。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394091&randomCode=44120800391",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394092&randomCode=555452630",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23726?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23726.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

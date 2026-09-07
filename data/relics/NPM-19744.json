@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19744",
+ "name": "白釉瓶",
+ "aliases": [
+  "White vase"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高20.1公分 口徑6.5公分 底徑5.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002631N000000000"
+ },
+ "summary": "撇口，長頸，圓肩，斂腹，矮圈足。全器施塗白色化妝土，裝飾貼花技法圖紋，肩部飾一圈蓮瓣紋，腹部下端飾一圈葉紋。圈足底緣及器底露胎，呈淺褐色，有雜點。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318553&randomCode=87150428279",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318554&randomCode=79821534789",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19744?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19744.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

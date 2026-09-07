@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27262",
+ "name": "定窯 白瓷劃花盤龍紋洗",
+ "aliases": [
+  "Washer with incised coiled dragon decoration in white glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.4公分 口徑14.0公分 底徑11.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷009307N000000000"
+ },
+ "summary": "圓口，深壁，平底，無足。全器施牙白色釉，內底周緣積釉處，釉色泛黃。口沿無釉，外底心鏡面無釉露白胎。內外周壁上緣與底面周緣各印回紋一周，底心飾一蟠龍。傳世帶木座(故瓷009307N000000001)，底刻「宋定窯蟠龍洗」、「乙」字，和「古稀天子御玩」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=445518&randomCode=60001774070",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=445519&randomCode=29722527873",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27262?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27262.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

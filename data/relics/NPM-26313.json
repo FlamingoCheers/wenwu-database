@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26313",
+ "name": "龍泉窯 青瓷弦紋貫耳壺",
+ "aliases": [
+  "Jar with tubular handles and linear pattern in celadon glaze, Longquan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高28.9公分 口徑10.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014119N000000000"
+ },
+ "summary": "貫耳壺，造型取上古銅壺之意。敞口微撇，長頸、廣腹、圈足。頸部中下段各束以兩道細凸弦紋，並於兩側各立半圓柱的貫耳，耳上下各皆起圓稜。腹部圓鼓而重心在中下段，且多見鏇坯痕跡。有傷裂痕。圈足高，足端無釉，底釉不勻。此類仿銅造型的器皿，在宋代多與祭祀用器相關。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=340219&randomCode=71835088925",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=340220&randomCode=52202773136",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26313?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26313.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

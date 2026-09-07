@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-55730",
+ "name": "玉羊",
+ "aliases": [
+  "Jade goat"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長1.6公分 寬0.9公分 高1.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉004388N000000000"
+ },
+ "summary": "青白色與灰黑色伴生的玉籽料，白玉的局部夾雜褐黑斑。琢作一小巧的、蹲伏著的山羊。姿態與南京建中村南宋初年出土的瑪瑙小羊頗為神似。建中村小羊的表面較為樸實無紋，應屬南宋初年的風格，到了南宋中晚期開始，雕琢人類與動物講求表現肌肉的起伏與質感。這件玉羊應是南宋晚期或稍晚的作品。全器無穿，只能用作擺件。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397666&randomCode=91577754344",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397667&randomCode=1895054866",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/55730?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_55730.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

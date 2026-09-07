@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27421",
+ "name": "定窯 白瓷劃花蓮花紋折腰盤",
+ "aliases": [
+  "Angled-waist plate with incised lotus decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.2公分 口徑20.9公分 底徑6.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014473N000000000"
+ },
+ "summary": "盤，侈口，淺斜壁，折腰，平底，矮圈足。胎骨較厚，全器施牙白色釉，口鑲銅釦。器內劃轉枝蓮花，口沿內劃淺線一週；外壁樸素無紋。圈足露胎，帶大小鐵質斑點。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=463295&randomCode=37843944565",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=463296&randomCode=16687146193",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27421?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27421.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

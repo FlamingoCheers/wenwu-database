@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-13940",
+ "name": "宋米芾寶章待訪錄　冊",
+ "aliases": [
+  "Record of Visiting the Baozhang Collection"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "书画",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故書000607N000000000\n more\n \n 故書000607N000000001\n 故書000607N000000002\n 故書000607N000000003\n 故書000607N000000004\n 故書000607N000000005\n 故書000607N000000006\n 故書000607N000000007\n 故書000607N000000008\n 故書000607N000000009\n 故書000607N000000010\n 故書000607N000000011\n 故書000607N000000012\n 故書000607N000000013\n 故書000607N000000014\n 故書000607N000000B01\n 故書000607N000000B02\n 故書000607N000000B03"
+ },
+ "summary": null,
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=525904&randomCode=73029350871",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=525905&randomCode=65052391119",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/13940?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_13940.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

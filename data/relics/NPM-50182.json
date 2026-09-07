@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-50182",
+ "name": "玉劍璏",
+ "aliases": [
+  "Jade scabbard slide"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長6公分 寬2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉002017N000000000"
+ },
+ "summary": "青玉，夾有黑赭二色斑。全器呈長方板形，面兩端無凸出部份，下端有一方形穿帶孔。面上有弦紋三道。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=129554&randomCode=57385532122",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=129555&randomCode=86323836",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/50182?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_50182.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

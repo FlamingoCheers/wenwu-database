@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3064",
+ "name": "端石重卦硯",
+ "aliases": [
+  "Duan inkstone with divination motif"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長22.0公分 寬14.0公分 高7.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文001545N000000000"
+ },
+ "summary": "端石，硯作長方抄手式，下端無堵，傳為宋端溪梅花坑石，石質純正，石色紫而淡，通體青花，間有翠點，硯面平整，硯首墨池，窄長頗典雅，硯背有長短不一石柱，各有石眼，共六十四柱，恰合八卦重列之數，因名之四重卦硯，硯首壁面銅清高宗御題詩乙首，楷書：「奇偶八含八復重，卦成六十四為宗，由來天地自然數，豈有義文刱作蹤，刻柱令人明著眼，不言惟硯密藏胸，玩辭則置斯觀象，用者宜誰宜邵雍。」款題：「乾隆戊戌夏日御題」，鈐印二：「比德」、「朗潤」，按此詩收入《清高宗御製詩文全集》八，《御製詩》四集，卷五十八，頁四。按「戊戌」為清乾隆四十三年，西元1778年。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=178959&randomCode=2117949398",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=178960&randomCode=111394271",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3064?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3064.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

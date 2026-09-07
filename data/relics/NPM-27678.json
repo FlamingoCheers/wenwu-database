@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27678",
+ "name": "定窯 白瓷劃花蓮荷紋花式洗",
+ "aliases": [
+  "Floral-shaped washer with incised lotus decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高9.2公分 口徑23.3公分 底徑13.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷012471N000000000"
+ },
+ "summary": "八瓣花式洗，敞口，壁直略下收，近底處斜削收為矮圈足。器壁與口同作八瓣花形，壁面內外均隨瓣曲起伏。內底部刻劃折枝蓮荷紋，一張大荷葉與一朵荷花組成，運刀熟練。釉色明潤，底滿釉，故瓷12471 口緣鑲銅釦，故瓷14512 則口部留窄邊無釉，瓣曲低處仍殘釉痕。類似作品也見於金代石宗璧墓（1177 年）。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470332&randomCode=74900780306",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470333&randomCode=98943110",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27678?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27678.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-47252",
+ "name": "官窯 青瓷菱花式洗",
+ "aliases": [
+  "Flower-shaped brush washer with light bluish-green glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.3公分 口徑18.2公分 足徑11.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷013964N000000000"
+ },
+ "summary": "八瓣菱花形，侈口，淺壁，平底，淺圈足。週壁胎較薄；底稍厚。滿釉支燒，通體施青釉，釉色粉青，口足及邊稜釉薄處，微現粉色光澤。釉面滿佈棕色開片，局部出現冰裂紋。底面沿邊排佈七枚支釘，足端磨痕處露出淺灰色胎。 整件作品反映出明人曹昭《格古要論》（1459）中對於修內司官窯「色青帶粉紅，濃淡不一，有蟹爪紋，紫口鐵足，色好者與汝窯相類」的鑑賞觀。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391436&randomCode=59178029028",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391437&randomCode=1194041789",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47252?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47252.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

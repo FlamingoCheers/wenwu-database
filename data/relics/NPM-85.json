@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-85",
+ "name": "玉龍紋盤",
+ "aliases": [
+  "Jade plate with dragon pattern"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "玉器",
+ "material": null,
+ "dimensions": "高2.2公分 口徑26.2公分 底徑22.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉002251N000000000"
+ },
+ "summary": "玉質，器緣有褐黃斑塊。圓盤正面飾行龍紋，尖吻，長角，角根處琢一排圓珠，豐鬣，細頸，身軀似飄帶般彎曲翻轉，平面起伏有致，全身滿覆細鱗，鱗上並陰刻細線紋，四肢肌理飽滿，足有三趾，趾甲尖鉤如鐮刀般鋒銳。間隙填以鏤空卷草紋錦地，層次略低於龍紋。背面的紋飾一如正面，除了龍的鬚鬣較粗、鱗片上無細紋外，其他細節均無簡省。就紋樣而言，如此雄強矯健的龍紋，與〈北宋真宗禪地玉冊〉所附玉匱上之嵌片的龍紋相比，兩者近似，而風格更像遼代陳國公主墓出土的一件金花銀奩上者，只是此玉盤龍紋的細，與本院藏宋代花間行龍紋的緙絲作品差可比擬，故推斷此盤應屬11世紀上半，遼或北宋的作品。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=406099&randomCode=34772343854",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=406100&randomCode=1857533270",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/85?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_85.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

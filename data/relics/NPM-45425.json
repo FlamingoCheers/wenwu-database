@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-45425",
+ "name": "骨雕龍紋管",
+ "aliases": [
+  "Bone tube with dragon decoration"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "雕塑",
+ "material": null,
+ "dimensions": "長10.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈雕000197N000000000"
+ },
+ "summary": "全器截取一段獸骨磨製而成，器表陰刻填黑彩龍紋，龍首刻於較小徑之一端，龍身蟠繞器身，兩端陰刻填黑彩連弧紋，並各對鑿一小孔，以供穿繫。依器身陰刻紋飾技法言，此器或為元明時物。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350254&randomCode=79281458634",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350255&randomCode=79418731152",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/45425?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_45425.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

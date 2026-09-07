@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-17969",
+ "name": "玉獸面紋璧",
+ "aliases": [
+  "Jade bi disc with animal-mask pattern"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬4.8公分 徑4.7公分 孔徑1.2公分 厚0.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉004065N000000000"
+ },
+ "summary": "玉質，微有赭斑，整器如「四圭有氐」之式，亦即玉璧疊覆於四圭上，四圭尖首露出玉壁四郊之形。玉壁面刻圖案化獸面紋、如意雲紋，四出之圭首則刻為螭首之貌。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334051&randomCode=88399012917",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334052&randomCode=69988010964",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/17969?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_17969.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

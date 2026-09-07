@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-55852",
+ "name": "玉人",
+ "aliases": [
+  "Jade figure"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長4.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉004510N000000000"
+ },
+ "summary": "玉質，夾雜紅、黃色雜斑。琢成一直立之童子，身軀微向左側傾斜。雙腳一前一後交叉，右腳踮起。雙手持一蓮葉，蓮葉繞過左肩，棲於童子頭部後方。童子持蓮，取其「多子多孫」之吉祥意涵。本件與故玉4509、4511、故畫3816同置於故雜1031盒內。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=331843&randomCode=94219549363",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=331844&randomCode=35683595610",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/55852?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_55852.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

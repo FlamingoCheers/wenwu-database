@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-49859",
+ "name": "玉斧",
+ "aliases": [
+  "Jade fu axe"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長7.1公分 寬4.2公分 厚0.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001754N000000000"
+ },
+ "summary": "玉質，器表有赭斑。斧上鏤琢一動物紋。正中央有穿一孔。與玉瑗、玉佩一併置於仿冊頁盒中，盒外刻款填金隸書：「石渠寶笈」。盒內並有書冊題籤：「宋版錦繡萬花谷下函」。仿經卷盒和其他仿冊頁盒等大小收納盒共八組，共同置於一題有「歷代珍藏」之大木匣中。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=139764&randomCode=88417280838",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=139765&randomCode=38732360793",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/49859?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_49859.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

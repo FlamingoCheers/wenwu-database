@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-42116",
+ "name": "霍州窯 白瓷印花花卉紋碗",
+ "aliases": [
+  "Bowl with impressed floral decoration in white glaze, Huozhou ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.5公分 口徑20.0公分 底徑6.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷008975N000000000"
+ },
+ "summary": "敞口大碗，廣口小足，色瑩白而薄脆，底有凸臍。足端無釉而口鑲銅稜釦。器裡印花，以細陽線豎分器壁為六格，每格內裝飾一組折枝花，花卉也均以陽線勾勒輪廓，極纖細。在其一格花紋邊角有陽文「郭」字。圍著裡心，有細支釘痕五枚。本院所存兩件相似模製的碗，均具同一款字，疑為窯場主人姓氏。在牛津Ashmolean博物館收藏一陽文裝飾的白瓷，繫有銘文「郭七」、「請記」，疑亦霍州窯商號。霍州窯在元代似十分興盛，北京城內、內蒙遺址，均見霍窯遺物。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=621241&randomCode=189898873",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=621242&randomCode=1595386437",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/42116?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_42116.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

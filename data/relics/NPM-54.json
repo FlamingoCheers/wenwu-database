@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-54",
+ "name": "黑釉鷓鴣斑碗",
+ "aliases": [
+  "Black-glazed bowl with painted \"partridge's speckling\" splashes"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.8公分 口徑20.3公分 底徑4.7公分 足徑4.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷016992N000000000"
+ },
+ "summary": "大撇口淺碗、斜壁、小圈足，全器壁薄而輕，足壁銳直微外斜，底挖不足肩。釉色黑亮烏金僅施及壁足交接處；圈足無釉處露白胎，胎骨堅薄，胎外似曾施褐色汁；足裡略施釉不勻。器內滿佈自裡心放射向外的醬柿色點，係以另種含鐵顏料點繪成，筆觸鮮明。外壁黑中帶黃褐色暈斑，偶出一二鐵繪線。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=317695&randomCode=62592500960",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=317696&randomCode=983598418",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/54?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_54.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

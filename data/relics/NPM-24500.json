@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-24500",
+ "name": "佛趺坐像",
+ "aliases": [
+  "Seated Buddha"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "全器含木座通高16.8公分 不含木座高16.6公分 長9.1公分 寬7.7公分 重962.8公克 尊像高8.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000106N000000000"
+ },
+ "summary": "此像屬於印度—爪哇(Indo-Javanese)風格造像，造像年代約為十二世紀。佛像結跏趺坐於仰覆蓮臺上，蓮臺下又有須彌座，佛肩臂圓渾，身後有背光；右袒式僧袍貼身而左手衣袖寬大，右手施無畏印，左手作定印。西元八至十二世紀末，印尼爪哇一帶受斯那王朝(Sana Dynasty)統治，文化深受東印度波羅(Pāla Dynasty)傳統影響，史稱東印度波羅—斯那王朝，美術帶有波羅與笈多美術風格，在造像藝術風格上深受同時期印度造像風格影響，但仍融入當地色彩，例如此像背光四周活潑舞動如小蛇的火舌，即是此時期爪哇造像的常見特色。薄衣貼體、優雅細緻的佛像則具有波羅王朝風格受笈多造像美術影響的風格。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=112996&randomCode=87332781226",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=112997&randomCode=346739964",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24500?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24500.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

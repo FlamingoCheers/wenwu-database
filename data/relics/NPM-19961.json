@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19961",
+ "name": "定窯 白瓷劃花折沿盞臺",
+ "aliases": [
+  "White saucer with incised pattern"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高1.8公分 口徑19.0公分 底徑13.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003801N000000000"
+ },
+ "summary": "敞口，折沿，淺壁，平底。內底心外凸，中心處又作圓形內凹，內凹處光素無紋，周圍滿飾印花卷枝荷蓮花葉，器外壁則光素無紋。全器施白釉，釉色白中略黃，圈足滿釉，口沿無釉鑲銅釦棱。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321154&randomCode=22424506558",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321155&randomCode=51108107467",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19961?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19961.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27286",
+ "name": "白瓷印花團壽字\u0003碗",
+ "aliases": [
+  "Bowl with impressed \"longevity\" medallion decoration in white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8公分 口徑19.1公分 底徑5.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷003991N000000000"
+ },
+ "summary": "廣口小足碗，碗身斜侈，足圈窄而淺。全器滿釉，釉色牙白，僅口緣無釉，鑲銅釦。碗內釉面經磨損。器裡印花為飾，釉下碗心模印團壽字，內周壁印卷草紋樣。印模造器有利於產品的量產，北宋中期後至金元時期，南北各地窯場皆盛行印花瓷器。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=439442&randomCode=31627980106",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=439443&randomCode=32910681521",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27286?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27286.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

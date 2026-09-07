@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24693",
+ "name": "日本 鎌倉時代 13世紀 銅鎏金 阿彌陀佛坐像",
+ "aliases": [
+  "Seated Amitabha, Japan, Kamakura period (1185-1336), 13th century"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1185,
+  1336
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "像長15.3公分 寬9.4公分 高20.3公分 重1244.2公克",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000296N000000000"
+ },
+ "summary": "本尊阿彌陀佛像頭髻帶有漩渦紋，置禪定印，袈裟於胸前柔軟的垂下呈U字形，線形順暢圓潤，面容和藹慈祥，頸部短闊，雙腳盤膝，整體呈現穩重的高三角形狀，彷彿悠遊於禪思冥想的自在世界中。日本古時的金銅佛的制作，通常用蠟形製造法，因此在佛像的背面，會留有空心的洞，可見蜜蠟的痕跡，也可以看見塑形以及笄的設置。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=326050&randomCode=1864624203",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=326051&randomCode=906824521",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24693?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24693.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

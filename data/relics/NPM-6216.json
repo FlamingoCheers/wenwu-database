@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-6216",
+ "name": "嵌孔雀石鎏金鳥尊",
+ "aliases": [
+  "Amalgam-gilt Zun wine vessel in the shape of a bird with malachite inlay"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高15.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅001119N000000000"
+ },
+ "summary": "全器鎏金以鳳鳥為造型，雞形而長尾，昂首直立，尾長著地。背上方有一圓蓋，另站立小鳥。鳳鳥尖喙無冠，頸飾垂鱗紋，腹部羽翅飾幾何紋，尾飾垂鱗紋。足、蓋上小鳥鎏金明顯。鳥頸下端另貼一個獸面紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=4551&randomCode=1159260937",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=4552&randomCode=1031664845",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/6216?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_6216.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3069",
+ "name": "端石洛書硯",
+ "aliases": [
+  "Duan inkstone with mystical tortoise carrying books"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長16.1公分 寬9.0公分 高5.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000457N000000000"
+ },
+ "summary": "端石，硯作長方形，硯面微凹下，緩緩斜下至墨池，墨池中浮雕洛水靈龜負書，龜首右顧，作騰波蹴浪之勢，腹下有波浪相襯，硯面周邊刻黻紋，硯背覆手窪入約一公分，中央陰文「瑞發文明」，四字篆文。硯首壁刻清高宗御製銘乙首，楷書：「下巖石壁，誰割紫雲，墨池黝漬，龍香氤氳，刻作洛負，圖書之祖，傅說有云，事不師古，君子之道，闇然日章，出諸久弆，刮垢磨光，著書習字，均非我事，慎茲絲綸，愓乾永志」，款題：「乾隆戊戌御銘」，鈐印二：「古香」、「太璞」。此硯銘亦著錄於《清高宗御製詩文全集》一，《御製文》二集，卷四十，頁十一，乾隆戊戌年收入，「戊戌」為乾隆四十三年，西元1778年。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=175911&randomCode=27715808711",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=175912&randomCode=1791479829",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3069?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3069.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

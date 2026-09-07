@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27722",
+ "name": "定窯 劃花蓮花紋葵瓣口碗",
+ "aliases": [
+  "Bowl with hibiscus-shaped rim and incised lotus decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.7公分 口徑23公分 底徑7.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷004247N000000000"
+ },
+ "summary": "敞口帶銅扣，口作六瓣花式，弧形壁，矮圈足。胎骨輕薄，口緣無釉。器外壁光素，略勒六道短凹痕，使有花稜之意。器內壁滿畫轉枝蓮花紋，紋線細密清晰。器底露胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470478&randomCode=55203450055",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470479&randomCode=79752365869",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27722?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27722.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

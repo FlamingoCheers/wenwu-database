@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26078",
+ "name": "哥窯青瓷葵口盤",
+ "aliases": [
+  "Dish with hibiscus-shaped rim in celadon glaze, Ge ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高13.0公分 口徑17.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017831N000000000"
+ },
+ "summary": "六瓣葵花口，斜壁稍深，至足際向內橫折成折腰盤式，平底，矮圈足。胎體厚重，施青瓷釉，釉色灰青，釉表開深色細紋片。口沿釉薄處，現出一圈灰褐色邊，施釉至足際，足緣無釉，露胎處加塗赭色護胎汁。盤式與明南京汪興祖墓(1371)出土物近似。 底面鐫刻乾隆皇帝〈詠哥窯盤子〉：「色暗紋彰質未輕，哥窯因此得稱名。雅如法護僧彌矣，生一居然畏後生」御製詩。詩末署「乾隆乙未春御題」紀年銘（乾隆四十年，1775），並落「朗潤」一枚鈐印。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400816&randomCode=75375659357",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400817&randomCode=77814688193",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26078?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26078.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

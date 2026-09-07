@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-53127",
+ "name": "玉圓形水盛",
+ "aliases": [
+  "Jade round water holder"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "高3.6公分 腹徑4.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中玉000373N000000000"
+ },
+ "summary": "玉質，青色，有褐紅色斑。圓形似缽，縮口，歛腹。口沿下三分之一處琢一道弦紋。附玉杓。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=172783&randomCode=59446671588",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=172784&randomCode=46423184714",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/53127?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_53127.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-15424",
+ "name": "澄泥鳳鏡硯",
+ "aliases": [
+  "Refined clay inkstone in the shape of a mirror decorated with a phoenix"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "高2.5公分 徑15.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000545N000000000"
+ },
+ "summary": "澄泥硯，色紫，泛赭斑，硯面有使用後殘留痕跡。硯作圓形，硯面上端雕一鳳，鳳尾長而環繞硯緣，下漥以為墨池。硯背凹下，刻八字篆款。硯壁刻詩文：「唐時佳話。宋時製鏡。古依然見巳宜。合贈舍人賈至矣。鳳毛池上用為儀。」款題「乾隆丙午仲夏御題」（五十一年，1785），下接兩鈐印「古稀天子」、「猶日孜孜」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176464&randomCode=55454236008",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176465&randomCode=22994970526",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/15424?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_15424.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

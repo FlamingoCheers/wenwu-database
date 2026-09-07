@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2862",
+ "name": "龍泉窯 青瓷鬲式爐",
+ "aliases": [
+  "Li-shaped incense burner in green glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高10.5公分 口徑14.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷005174N000000000"
+ },
+ "summary": "仿銅器鬲形。口有折邊，短頸碩腹，三乳足。腹飾三稜下通至足，邊稜多顯白色，足底露灰胎，其四週呈橘紅色。器內壁與三足相應處有三圓渦。青釉釉色極勻潤。肩部有凸稜一圈有玉頂木蓋，蓋內刻有一「丙」字，字內填金。玉頂為白玉鏤空成鴛鴦啣荷花的紋樣。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=557737&randomCode=46405815185",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=557738&randomCode=735633451",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2862?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2862.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

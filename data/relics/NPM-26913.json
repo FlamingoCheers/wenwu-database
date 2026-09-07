@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26913",
+ "name": "景德鎮窯系 白瓷印花魚藻紋洗",
+ "aliases": [
+  "Brush washer with impressed fish and aquatic plants decoration in white glaze"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.1公分 口徑12.2公分 底徑9.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷002499N000000000"
+ },
+ "summary": "圓侈口淺壁，帶銅釦，平底中心略凸。器內壁印劃分六格，每格印飾花卉紋一種。器內底心印遊魚兩尾，綴以水藻植物，外壁樸素無紋飾。胎骨稍厚，釉色灰白微青，釉面見有黃色斑點漬痕，為江西湘湖窯的特色。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428864&randomCode=48133818513",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428865&randomCode=35936695308",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26913?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26913.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

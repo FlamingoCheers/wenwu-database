@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-4",
+ "name": "政和鼎",
+ "aliases": [
+  "Ding cauldron with inscription of Zhenghe period"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通高23.0公分 口徑長19.3 寬19.1公分 腹徑10.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000437N000000000"
+ },
+ "summary": "此鼎為宋徽宗政和六年(1116)所鑄，立耳，圓腹，三柱足，腹身以稜脊作間隔，飾三組獸面紋。全器仿造商末周初之銅鼎樣式，如本院所藏〈商代晚期串父癸鼎〉（中銅449）即與此器形制及紋飾十分相近。器內底鑄有銘文三十三字：「唯政龢六年，十又一月甲午，帝命作鉶鼎，易(賜)領樞密院事貫，以祀其先，子孫其永保之。」",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=68062&randomCode=51131035964",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=68063&randomCode=1754126346",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/4?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_4.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

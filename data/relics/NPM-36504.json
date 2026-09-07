@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-36504",
+ "name": "定窯 白瓷花口碗",
+ "aliases": [
+  "Bowl with floral-shaped rim in white glaze, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.4公分 口徑22.2公分 底徑6.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷011859N000000000"
+ },
+ "summary": "花口碗，敞口，壁深斜微弧，近口緣處微外撇。矮圈足。圓口，僅於口部淺刻出六瓣曲花形；器壁內外作相應的外凹內凸的淺勒痕略示花形，瓣稜淺而入手婉約。全器光素，足滿釉，口鑲銅釦稜。外壁二道細弦紋，此種細紋常見於定窯碗壁，為匠藝習慣的工法。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=623478&randomCode=1812920741",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=623479&randomCode=1880704887",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/36504?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_36504.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

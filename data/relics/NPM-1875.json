@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1875",
+ "name": "玉人",
+ "aliases": [
+  "Jade figure"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長2.1公分 寬1.1公分 高6.5公分；木座長3.3公分 寬2.2公分 高1.0公分 連座高7.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉005609N000000000"
+ },
+ "summary": "玉人，有赭色綹與沁斑。玉人頂上梳髻，縮頸，著長袍，拱手作揖貌。面部淺刻五官，神情泰然；衣紋僅在拱手處以淺短線條雕刻，增加衣袍的量感。身形線條圓滑。帶木座。原存在院藏〈紫檀木鑲竹絲轉盤格子〉（故雜1284）中。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=996973&randomCode=1850442337",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=996974&randomCode=610785615",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1875?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1875.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

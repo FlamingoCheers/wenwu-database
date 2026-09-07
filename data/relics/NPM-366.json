@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-366",
+ "name": "玉鳳柄杯",
+ "aliases": [
+  "Cup with phoenix-shaped handle"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬13.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉003942N000000000"
+ },
+ "summary": "杯身及圈足呈橢圓形。杯柄為一鳳，其喙與爪緊扣杯緣，長鬣翻飛，線條流暢具有律動感，頸部呈圓弧彎曲，開展的雙翅裹抱杯身的兩側，如卷雲似的尾羽蜿蜒於器外壁。本器的附件紫檀木座，為清代宮廷所配，座底有一陰刻楷體填金的「乙」字。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=164435&randomCode=46691225454",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=164436&randomCode=84836085253",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/366?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_366.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

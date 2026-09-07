@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-5215",
+ "name": "「辛伏龍記」八思巴文銅印",
+ "aliases": [
+  "Bronze seal with inscription \"Xin fulong ji\" in Mongolian Phags-pa script"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高2.07公分 印面長2.09公分 寬2.09公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅001822N000000000"
+ },
+ "summary": "橛鈕，呈薄板狀並有一小圓孔，印背平板右上角有一小圓點，應具指示印文上、下方向的作用。印邊靠下端面刻有記號，或是加強上述功能。印面長方形，鑿刻陽文四字，係以八思巴字篆體譯寫漢語譯音，順序由左上、左下、右上、右下通讀，可譯為「辛伏龍記」，應歸入私人姓名印。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=38325&randomCode=1841452586",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=38326&randomCode=1235024795",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5215?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5215.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

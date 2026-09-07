@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27422",
+ "name": "定窯 白瓷印花蓮塘水鳥紋盤",
+ "aliases": [
+  "Dish with impressed lotus pond and waterfowl decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "底徑5.9公分 高4.7公分 口徑19.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014474N000000000"
+ },
+ "summary": "盤侈口，淺弧壁、平底，矮圈足。薄胎骨，白釉偏灰，口沿鑲銅釦。內壁印蓮花水草，間飾鷺鷥四隻與鵝二對，器內底弦紋一週，中心印游魚兩尾，器內隙地飾波濤紋；外壁無紋。圈足露細白胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=463125&randomCode=42394395185",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=463126&randomCode=35437776292",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27422?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27422.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

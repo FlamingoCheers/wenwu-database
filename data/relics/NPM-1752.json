@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1752",
+ "name": "漢梵兩體準提咒鏡",
+ "aliases": [
+  "Bronze mirror with Chinese and Sanskrit inscriptions"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "邊厚0.3公分 徑9.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000292N000000000"
+ },
+ "summary": "圓鏡素窄邊無鈕，鏡中置一委方框，內區中心鑄一小篆「佛」字，方框內緣鑄漢文楷體、外鑄梵文，均飾準提咒各一圈。準提亦作準胝為「清淨」之義，意思是「心性潔淨」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1303373&randomCode=498388940",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1303374&randomCode=917544977",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1752?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1752.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

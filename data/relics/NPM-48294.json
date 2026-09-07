@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-48294",
+ "name": "玉童子",
+ "aliases": [
+  "Jade child"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "通長4.16公分 通高2.65公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉000105N000000000"
+ },
+ "summary": "玉質，色乳白，周身佈滿淺棕色細絲紋，紋路單調不自然，應為人工作色。全器雕一小童，右手肘靠小墊作側躺狀，童光頭大耳，眉目清楚，身著簡單民間傳統服飾，神情自在舒適。上下有對穿大孔以佩帶。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=187011&randomCode=19341828021",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=187012&randomCode=72858148222",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/48294?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_48294.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

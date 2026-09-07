@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-89",
+ "name": "玉犬",
+ "aliases": [
+  "Jade dog"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長5.72公分 寬1.5公分 高2.56公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉000723N000000000"
+ },
+ "summary": "青玉，質地光潔潤澤，惜有一細璺。前肢交疊，背脊拱起，骨節、肌理清晰可見，充份表現獵犬精瘦結實的體態，後肢長於前肢且略略抬起，給人一種蓄勢待發的力度感。眼睛作圓形淺窪狀，和巴林右旗白音漢窖藏出的遼代玉獸一樣，是較為特殊的處理方式。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=187868&randomCode=90128894923",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=187869&randomCode=1502531856",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/89?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_89.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

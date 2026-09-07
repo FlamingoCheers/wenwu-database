@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27013",
+ "name": "官窯 青瓷花式洗",
+ "aliases": [
+  "Flower-shaped washer with celadon glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.3公分 口徑11.6公分 底徑8.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017457N000000000"
+ },
+ "summary": "花口洗，模製成形，周壁分十瓣。平底無足，底面微凹。全器採滿釉支燒法燒製，通體施青釉。釉色月白泛灰藍，口下有拭釉痕跡，口沿釉薄處出現褐色邊。釉面滿佈棕色紋片，底面排佈六枚支燒點，支痕中露出深灰色器胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=431414&randomCode=47500896163",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=431415&randomCode=15828996339",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27013?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27013.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

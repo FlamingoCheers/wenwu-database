@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26101",
+ "name": "官窯 青瓷圓洗(「正庵」銘)",
+ "aliases": [
+  "Zhengan washer with celadon glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.0公分 口徑15.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017910N000000000"
+ },
+ "summary": "平底圓洗形制，周壁筆直，器壁的厚度自底部至口緣，逐漸順修至極薄，或因口沿過於薄細，傳世至今微見傷缺。全器以滿釉支燒法燒造，底部九枚支燒痕，支點排列成內外兩週，內圈四枚、外圍五枚，支痕已被磨平，呈現出顆粒般的圓點，顯露出深褐色的胎土。底心後刻「正庵」兩字，刻痕不深，僅及於釉層，並加填朱紅色料。全器滿施青釉，器內的釉色與質感完好近似北宋汝窯，器外口沿的流釉以及內底與壁相接處所呈現出來的凹槽，又近似南宋官窯。由此看來，此件青瓷圓洗或亦可視之為介於北宋汝窯和南宋官窯之間的作品。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403586&randomCode=33774082531",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403587&randomCode=53800682679",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26101?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26101.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

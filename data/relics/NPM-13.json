@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-13",
+ "name": "雙龍古鼎形鏡",
+ "aliases": [
+  "Bronze mirror in the form of an ancient cauldron with paired dragons"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "長15.9公分 厚0.7公分 徑16.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000320N000000000"
+ },
+ "summary": "雙耳雙足鼎形鏡，鏡背中央有細窄的雙鈕，原為固定支架所用。鼎形頸部飾浮雕卷草紋。腹部為高浮雕雙龍拱珠紋樣，一如宋代常見的雙龍紋，龍口做一開一闔。雙龍下方為海水紋。鏡緣高起，呈三角斜緣狀。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1044&randomCode=762434591",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1045&randomCode=1181590628",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/13?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_13.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

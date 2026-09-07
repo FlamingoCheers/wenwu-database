@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-82",
+ "name": "定窯 白瓷印花四季花卉碗",
+ "aliases": [
+  "Bowl impressed with flowers of the four seasons in white glaze, Ding ware"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.1公分 口徑21.6公分 底徑7.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014638N000000000"
+ },
+ "summary": "敞口、弧形深壁碗、圈足。全器施牙白釉，僅口緣無釉鑲銅稜釦，外壁釉汁流淌。器裡印花為飾：口以下卷草紋為邊飾，細陽線將內壁分六等分，分別飾蓮、牡丹、月季、山茶等折枝四季花卉；底心則印一叢菊花。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=406338&randomCode=63813440925",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=406339&randomCode=901464293",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/82?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_82.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

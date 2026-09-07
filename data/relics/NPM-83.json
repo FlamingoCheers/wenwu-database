@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-83",
+ "name": "玉荷葉杯",
+ "aliases": [
+  "Jade cup in the shape of a lotus leaf"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長15.2公分 寬6.0公分 通高9.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001859N000000000"
+ },
+ "summary": "玉質，通體褐黃，部份還顯現灰白斑。雕如枯槁而包闔起的荷葉，呈上寬下斂的三角形，葉緣彎曲起皺。外壁以雙陰線刻劃出葉脈。葉梗從底部中心開始彎繞，後順勢上揚至杯側。本器的附件紫檀木座，以多層次鏤雕作一把蓮狀。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=405032&randomCode=85918630270",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=405033&randomCode=67434836753",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/83?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_83.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

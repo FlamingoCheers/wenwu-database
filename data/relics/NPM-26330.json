@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26330",
+ "name": "官窯 青瓷葵口洗 (「古」字銘)",
+ "aliases": [
+  "Washer with hibiscus-shaped rim in celadon glaze (\"gu\" inscription)"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.4公分 口徑12.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷013967N000000000"
+ },
+ "summary": "花口洗，口沿分六瓣，弧形斜壁，淺挖臥足。採支、墊結合方式裝燒，內外施青釉，呈灰青色。口下有拭釉痕跡，口沿釉薄處，現出淺棕色邊。裡外釉表有灰棕色紋片，底緣無釉露胎塗赭色汁，底面沿邊排佈六枚支釘，支痕中露出深灰色器胎。外底中心後刻一篆體「古」字銘，外繞乾隆皇帝〈詠官窯葵花小盂〉御製詩，內容為：「宣和陶器用功巧，脩內督之奄豎倫。設曰葵花喻忠赤，師誠輩豈果其人」。詩末署「乾隆丙申御題」（乾隆四十一年，1776）紀年款識，及鈐刻而出的「古香」印。 由於「古」字銘同時也出現在本院另一件元青瓷盤（故瓷17455）底部，因此據以研判或為乾隆之前的藏家印記。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401570&randomCode=86138658732",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401571&randomCode=86927449649",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26330?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26330.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

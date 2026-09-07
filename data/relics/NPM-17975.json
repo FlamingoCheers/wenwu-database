@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-17975",
+ "name": "玉花",
+ "aliases": [
+  "Jade flower"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長5.4公分 寬3.2公分 厚2.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉004072N000000000"
+ },
+ "summary": "玉質，間雜赭斑，雕二花並立相連，但花含苞未放，花底延伸出二葉，器底部鑽一個圓孔，這個圓孔直接穿透整件器物，一般簡稱這種通透全器的鑽孔施作為「通心穿」，這種通心穿的作用，也許是可讓絲繩一類的物品穿過，使本器可以佩帶，或是綁緊固定在其他器物之上。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334076&randomCode=53511293608",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334077&randomCode=73499371520",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/17975?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_17975.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

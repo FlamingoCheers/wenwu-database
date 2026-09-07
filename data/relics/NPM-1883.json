@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1883",
+ "name": "玉童子",
+ "aliases": [
+  "Jade children"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長3.4公分 寬1.7公分 高2.5公分；木座長4.0公分 寬2.2公分 高0.7公分 連座高2.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉005617N000000000"
+ },
+ "summary": "玉質，雕一對童子，皆光頭，頂上梳桃形髮式。童子盤坐，相互拉住對方手臂，擺頭各朝向左右方向。衣紋線條簡單，附木座。貯在院藏〈紫檀木鑲竹絲轉盤格子〉（故雜1284）格層裡。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=994508&randomCode=575162837",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=994509&randomCode=271864885",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1883?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1883.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

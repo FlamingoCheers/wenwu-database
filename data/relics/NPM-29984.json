@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-29984",
+ "name": "景德鎮窯 笠式碗",
+ "aliases": [
+  "Conical bowl, Jindezhen ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1001,
+  1300
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.2公分 口徑14.6公分 底徑2.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷016717N000000000"
+ },
+ "summary": "斗笠式碗盞，壁深斜，廣口、圈足矮小、滿釉，口緣鑲銅稜釦，器輕而薄，素無紋飾。釉色泛青，瑩澤光潤，積釉處作湖水碧。此種盈握斗笠碗，為宋人茶盞。李廌（1059-1109）詩有「也容雙井白過瓷」句，自註：「江南雙井，用鄱陽白薄盞點鮮為上。」則北宋中期人用景德鎮青白瓷飲茶，知其器薄，且視之為白瓷。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=621379&randomCode=1081645114",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=621380&randomCode=1301078236",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/29984?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_29984.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

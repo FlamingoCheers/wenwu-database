@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-49388",
+ "name": "螭虎啣芝紋玉盒",
+ "aliases": [
+  "Jade box decorated with chi-tiger holding lingzhi fungus"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "高2.95公分 徑5.27公分 底徑5.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001241N000000000"
+ },
+ "summary": "青玉，蓋面有大片黃赭斑。全器為圓柱形，平頂蓋、直壁、平底微凹入。蓋頂雕有蟠龍紋，蓋緣作陰線回紋一周。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=155498&randomCode=53477417084",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=155499&randomCode=35072748814",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/49388?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_49388.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

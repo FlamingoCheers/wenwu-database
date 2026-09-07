@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26326",
+ "name": "鈞窯 紫紅釉碗",
+ "aliases": [
+  "Bowl in purple red glaze, Jun ware"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.4公分 口徑19.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷013961N000000000"
+ },
+ "summary": "此碗敞口，口緣微外撇，圓腹，圈足。通體施罩濃釉，釉面勻亮，但有開片和棕眼，足部則露出土黃色胎土。整體釉色呈葡萄紫，有色階的深淺變化，唯口沿一圈為黑褐的釉色，外壁則有一黑斑。 鈞窯位在河南禹縣，始燒於北宋， 但至金代續有燒造。宋代單色釉系統中，有從藍到綠的深淺變化，或釉表瑩澤程度的差異，但鈞窯以氧化銅為著色劑，在還原氣氛中燒出不同於過去的銅紅釉色 ，為中國瓷器的發展帶來新的里程碑。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403902&randomCode=96978700925",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403903&randomCode=70795134193",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26326?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26326.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

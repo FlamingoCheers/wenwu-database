@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27597",
+ "name": "青瓷葵花式洗",
+ "aliases": [
+  "Porcelain hibiscus-rimmed brush washer in celadon glaze"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.2公分 口徑12公分 底徑9.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷008712N000000000"
+ },
+ "summary": "全器八瓣葵花式洗，侈口窄邊，深壁，平底無足。口沿露褐色胎，有黃褐色斑點。外壁青釉色勻潤，稜角含紅。壁內釉色偏灰。器底周有釘痕六枚，露灰色胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469492&randomCode=76428175121",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469493&randomCode=1732685434",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27597?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27597.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

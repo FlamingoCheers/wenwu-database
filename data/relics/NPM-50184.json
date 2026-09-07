@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-50184",
+ "name": "玉劍璏",
+ "aliases": [
+  "Jade scabbard slide"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長4.4公分 寬2.1公分 通高1.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉002019N000000000"
+ },
+ "summary": "青白泛黃色玉，帶淺褐斑。玉璏原為戰國至漢代劍鞘上的嵌飾，因有長槽可將腰帶穿繫過去，固可將劍鞘固定在腰帶上。此件玉璏呈長方形，正面略作弧形，琢弦紋兩道。下端有一扁方形穿帶孔。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=129564&randomCode=89956936380",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=129565&randomCode=73792793799",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/50184?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_50184.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

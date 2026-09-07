@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-57410",
+ "name": "玉童子一對（玉山子乾隆後製）",
+ "aliases": [
+  "Jade paired children (modified with a miniature mountain in Qing dynasty"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬8.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉006302N000000000"
+ },
+ "summary": "玉質，色青白，雕松石山林景色，嵌色赭童子二人，遊樂其間。背琢乾隆戊戍（1778）夏月御題〈漢玉娃娃歌〉楷書款，收入《御製詩四集》，卷51，頁6-7。底刻「兩漢閱千年以上，雙娃依舊戲嬰模，萬民赤子置諸掌，在彼寧云在此乎。乾隆壬寅（1782）仲春再題。」楷書款。山石兩側皆有刻印，一側為「八徵耄念」白文方印及「乾」圓印、「隆」方印。另側為「古稀天子」白文長方印。附木座。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=991207&randomCode=232612584",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=991208&randomCode=1759486574",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/57410?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_57410.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-51400",
+ "name": "玉水盛",
+ "aliases": [
+  "Jade water holder"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "高3.55公分 口徑6.85公分 底徑5.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉003332N000000000"
+ },
+ "summary": "玉質，深赭色，有黑斑。方形器，中間雕空，作盛水之用，底有淺方形圈足。全器光素無紋。附木座及珊瑚杓。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=168402&randomCode=76868392380",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=168403&randomCode=30538283113",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/51400?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_51400.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

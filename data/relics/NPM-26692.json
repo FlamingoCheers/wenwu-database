@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26692",
+ "name": "鈞窯 葡萄紫釉碟",
+ "aliases": [
+  "Dish with grape-purple glaze, Jun ware"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.5公分 口徑13.8公分 足徑7.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷011392N000000000"
+ },
+ "summary": "敞口瓷碟，口略撇，淺弧壁，平底，圈足。器內外施鈞釉，器內釉色天藍，外壁釉變葡萄紫色。口現深褐邊，外壁足牆外釉呈流淌狀，底足露胎，塗赭色汁。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=408433&randomCode=19295260186",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=408434&randomCode=1186950856",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26692?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26692.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

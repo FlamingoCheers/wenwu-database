@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-14926",
+ "name": "紫端鳧硯",
+ "aliases": [
+  "Inkstone with mallard design"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長14.8公分 寬8.8公分 高約2.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中文000026N000000000"
+ },
+ "summary": "不規則橢圓形端石硯，色黑泛紫，有些許剝損或蝕傷。橢圓較寬端為首，高浮雕簡化鳥首一，長喙曲頸，其下為硯池，兩端作對稱羽翼式邊。背琢「生民什裏詠其形，琢研摛辭字亦馨，鵒眼巧成作鳧眼，不傷雅特用心靈。乾隆乙巳御題。」(1785)並鈐「比德」「朗潤」二印。有嵌玉黑漆硯盒。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=184372&randomCode=24818250731",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=184373&randomCode=1895054866",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/14926?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_14926.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

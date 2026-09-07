@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2437",
+ "name": "鈞窯 天青釉水盂",
+ "aliases": [
+  "Water pot in sky blue glaze, Jun ware"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "口徑6.0公分 高9.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷018358N000000000"
+ },
+ "summary": "水盂、斂口、廣腹、圈足，足無釉露胎，胎色棕黃。器內外施天青釉，釉面有細小網狀開片及魚子眼，口緣薄釉色淺黃。原曾用為文房之水盛或筆洗，器內猶殘墨漬。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=339292&randomCode=19722940982",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=339293&randomCode=204080739",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2437?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2437.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

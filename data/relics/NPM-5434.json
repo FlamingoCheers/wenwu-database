@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-5434",
+ "name": "歌薰葵花鏡",
+ "aliases": [
+  "Lobed Bronze Mirror with a Person Playing Music and a Prancing Phoenix"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑16.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅002006N000000000"
+ },
+ "summary": "八瓣葵花形鏡，龜形鈕。鈕下方為一方池，池中蓮葉托住口吐仙氣的龜鈕。千年龜遊於蓮葉上，有慶壽之意。池畔右側為鼓琴文士及童子，左側為聞樂展翅起舞的鳳凰。鏡鈕上方有點景之太湖石及瑞花，與蓮池一同表現庭園造景。鏡緣素窄高起。 帶有此類紋飾的銅鏡流行於唐代中晚期，部分帶有銘文，其中又以「真子飛霜」最為常見，北京故宮博物院所藏一例有方框「侯瑾之」銘文三字。學界對「真子飛霜」有許多解釋，或認為是伯牙彈琴，或認為真子是楊貴妃。本鏡紋飾內容雖與「真子飛霜」鏡相同，但從人物及蓮池的刻畫細節，及銅鏡色澤、鏡緣型態等觀察，均具宋代銅鏡特徵，應為北宋工匠延續唐鏡題材及鏡式所製。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=39345&randomCode=2034084568",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=39346&randomCode=305756958",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5434?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5434.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

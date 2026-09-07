@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23125",
+ "name": "白瓷劃花蓮瓣紋碗",
+ "aliases": [
+  "Bowl with incised lotus pattern in white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  17
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高12.5公分 口徑25.3公分 底徑11.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷000335N000000000"
+ },
+ "summary": "敞口大碗、弧形深壁、平底，圈足，腹與足接處胎傷裂開。全器施白釉，呈米白色，釉面佈滿細密開片紋。口緣及足沿無釉，皆鑲銅棱釦。以劃花為飾，外壁飾上下雙層蓮瓣紋，碗內有一折枝萱草花，枝葉由內壁延伸至內底，花朵位於內底，花葉線條簡單。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=383076&randomCode=39067203329",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=383077&randomCode=87061709804",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23125?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23125.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

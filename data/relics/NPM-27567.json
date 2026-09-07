@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27567",
+ "name": "白瓷印花靈芝紋扁壺",
+ "aliases": [
+  "Flask with impressed lingzhi fungus decoration in white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高25公分 口徑3.3公分 底徑9.5*6.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017045N000000000"
+ },
+ "summary": "扁壺，斂圓口，短頸，器腹部扁碩，橢圓形圈足。器外壁腹部兩面各印纏枝靈芝紋，間飾有蝙蝠，邊印回紋一週。胎骨較薄，牙白釉色瑩潤，器表釉面多細小開片紋，足底一週未上釉露胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469610&randomCode=29049444690",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469611&randomCode=4357824",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27567?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27567.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

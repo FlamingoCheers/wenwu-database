@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-20055",
+ "name": "彭窯 白瓷戟耳瓶",
+ "aliases": [
+  "White vase with halberd handles, Peng ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高15.6公分 口徑4.7公分 底徑4.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003242N000000000"
+ },
+ "summary": "侈口長直頸，雙戟耳，碩腹圈足。口緣鑲銅釦一圈，頸部刻蕉葉紋，頸腹交接處凸棱飾回紋一周，腹外壁淺刻盛開的花卉。足底露胎，圈足內白釉無款。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=320976&randomCode=81057146736",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=320977&randomCode=88139775127",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/20055?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_20055.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

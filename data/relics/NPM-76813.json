@@ -1,0 +1,37 @@
+{
+ "relic_id": "NPM-76813",
+ "name": "越南 13-14世紀 黑釉三繫罐",
+ "aliases": [
+  "Black and White Glazed Jar with Three Strap Handle, Vietnamese"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高18.5",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "南購瓷000067N000000000"
+ },
+ "summary": "此梅瓶狀罐器除器內及底部外全器施付黑釉，肩部帶有三繫。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=900551&randomCode=20438508",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/76813?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_76813.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

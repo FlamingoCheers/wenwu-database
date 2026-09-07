@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-56952",
+ "name": "玉獸墜飾",
+ "aliases": [
+  "Jade pendant in the shape of beast"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長3.4公分 寬1.3公分 高1.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉005808N000000000"
+ },
+ "summary": "青玉雕刻而成，玉質潤澤，帶赭色絲紋。全器作一獸坐臥在地，形似犀牛，小捲耳，怒目圓睜，咧嘴露齒，四足帶蹄，短尾，額部及鼻上各有一短角，並以陰線刻出皮膚褶皺排列。頸後到腹底有一小孔貫穿器身。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397963&randomCode=55977410251",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397964&randomCode=332558098",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/56952?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_56952.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

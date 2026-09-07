@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-25",
+ "name": "定窯 白瓷劃花蓮塘雙鳧笠式碗",
+ "aliases": [
+  "Conical bowl with incised waterfowls in lotus pond decoration, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  12
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.0公分 口徑19.8公分 底徑4.2公分 足徑4.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014648N000000000"
+ },
+ "summary": "斗笠式碗，廣口小足，碗身斜侈；足圈窄而淺，口鑲銅稜釦，內壁以劃花為飾淺劃一對水禽伴游於水塘的景致。水鳧圖雖然以惠崇小景著稱，但傳世託名惠崇的作品，卻多為學者視為南宋所作；均以疏淡的池塘與水禽，構成迷離清雅的小景。本器意境相彷佛。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=588376&randomCode=63506761385",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=588377&randomCode=38249897",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/25?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_25.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

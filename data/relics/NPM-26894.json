@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26894",
+ "name": "定窯 白瓷劃花團螭蓮花紋碗",
+ "aliases": [
+  "Bowl with incised chi-dragon and lotus decoration in white glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  12
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.7公分 口徑23.8公分 底徑7.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷002480N000000000"
+ },
+ "summary": "六瓣葵花口，帶銅釦，侈口深壁，圓底矮圈足，外底足內有原胎裂痕跡。器內、外壁勒劃分六道凹痕，內、外壁各刻劃轉枝牡丹花紋四朵，內底心劃蟠龍紋一條，間飾雲紋，紋線刻畫清晰，可見工巧之一般，薄胎骨，釉色勻潤。定窯窯址位在河北省曲陽縣澗磁村、燕山村一帶，窯場廣佈，是宋金時期北方最盛的白瓷窯場。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428837&randomCode=62064945911",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428838&randomCode=1122628120",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26894?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26894.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

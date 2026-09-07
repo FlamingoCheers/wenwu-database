@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2751",
+ "name": "青瓷八方杯",
+ "aliases": [
+  "Octagonal cup in celadon glaze"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.2公分 寬8.5公分 足寬3.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷018039N000000000"
+ },
+ "summary": "八方杯，口、壁、足皆作八邊形，邊線平直；撇口，斜壁，腰下折收，圈足。外壁釉厚如凝脂，釉向下垂流；裡釉薄透胎骨。外壁色呈木光黯斂，裡則瑩亮。足緣無釉，呈黑紫色，足裡壁則向內斜挖過肩。其口緣向上微外撇、腰下折收的輪廓弧度，與本器相似，唯體積較大。多邊形的造形，在元代經常出現，直稜的輪廓線與宋代的花式邊緣的圓柔輪廓相異，似為不同時代對器物成型的不同美感。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1170827&randomCode=469857095",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1170828&randomCode=1754126346",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2751?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2751.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

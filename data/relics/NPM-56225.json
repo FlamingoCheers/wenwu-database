@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-56225",
+ "name": "玉虎紋飾件",
+ "aliases": [
+  "Jade ornament carved with tiger pattern"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長4.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉004947N000000000"
+ },
+ "summary": "方框形飾件。白玉沁褐，一長邊外側沁褐處保留部分玉皮，中央淺浮雕一坐虎，上下飾有葉紋，虎眼為菱形，以陰刻線條表現其肢體及斑紋線條。紋飾外型皆有簡化，然內部線條表現精細。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397704&randomCode=26134534927",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397705&randomCode=1552504613",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/56225?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_56225.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

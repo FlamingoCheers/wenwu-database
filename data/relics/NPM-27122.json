@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27122",
+ "name": "定窯 印花牡丹雉雞圖盤",
+ "aliases": [
+  "Dish with impressed design of pheasants and peonies, Ding ware"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.8公分 口徑22.5公分 底徑16.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014645N000000000"
+ },
+ "summary": "折沿淺盤，盤徑寬，敞口平底，淺挖足。器滿釉僅口緣銅稜釦。器裡印花，盤面作庭園景色，一雉雞站在湖石上回望，長尾翼橫斜過盤面；左方另一雉雞盤旋飛下，從下方仰望相迎；坡石野卉外，整個盤面隙地布滿盛開的牡丹枝葉，蝴蝶飛舞。器壁滿佈轉枝荷花葉。全器雕模者兼顧寫生情景與圖案佈局的趣味。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=433757&randomCode=29393470741",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=433758&randomCode=357460420",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27122?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27122.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

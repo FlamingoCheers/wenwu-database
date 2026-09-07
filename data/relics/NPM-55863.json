@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-55863",
+ "name": "玉觹形佩",
+ "aliases": [
+  "Jade xi-shaped pei pendant"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長8.0公分 寬1.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉004521N000000000"
+ },
+ "summary": "玉質，整器作細長角形，較粗一端雕異獸趴伏回首，其下有一圈陰刻線條，分組做斜直交角。除此之外，其他部分則滿雕扭絲紋。其異獸腳下有穿，應是穿繫之用。此器連同故玉4520、故玉4522-4527其他七塊玉同儲於一盒。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334355&randomCode=21470389474",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334356&randomCode=50321237696",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/55863?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_55863.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

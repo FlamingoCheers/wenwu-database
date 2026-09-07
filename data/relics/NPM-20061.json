@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-20061",
+ "name": "白瓷八卦紋三足爐",
+ "aliases": [
+  "White tripod incense burner with the Eight Trigrams"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高9.5公分 口徑12.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003248N000000000"
+ },
+ "summary": "圓口，深直壁略外弧，三足。全器施白釉，白中泛黃。器壁有等距貼飾三鋪首啣環，獸首間則分飾「乾」、「艮」、「兌」三卦，足底露胎。附木蓋，靈芝形鈕，蓋內楷刻填金「丙」字。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321022&randomCode=91544968934",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321023&randomCode=41269969223",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/20061?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_20061.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

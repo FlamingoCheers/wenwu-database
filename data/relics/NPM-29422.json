@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-29422",
+ "name": "定窯 白瓷印花菊紋笠式碗",
+ "aliases": [
+  "Conical bowl with impressed chrysanthemum decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.6公分 口徑15.6公分 底徑3.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷010131N000000000"
+ },
+ "summary": "斗笠式碗，廣口、小底、斜直壁、矮圈足。口緣鑲金稜釦。內壁印花為飾，以三組纏枝菊紋滿佈壁面，回紋邊繞，底心葵花一朵。此種花瓣密佈於外圈的三角花形紋飾，有稱為菊紋者，在定窯中數量甚多，如南宋張重四（宣義）墓（1254年）出土笠式碗，或如大定二十四年（1184年）款印模、泰和三年（1203年）印模等的圖樣。而本件金釦難得，益形襯映瓷質素潔明晰。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=623040&randomCode=814138053",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=623041&randomCode=1111907664",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/29422?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_29422.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

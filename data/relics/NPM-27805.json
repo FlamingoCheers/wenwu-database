@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27805",
+ "name": "定窯 白瓷劃花蓮瓣紋水盛",
+ "aliases": [
+  "Water Holder with Incised Lotus Design in White Glaze, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.3公分 口徑5.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014222N000000000"
+ },
+ "summary": "水盛，圓口，短頸，垂腹，平底。通體施白釉，器身貼飾三層蓮瓣紋，底貼飾蓮蓬花瓣紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=317679&randomCode=41295411271",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=317680&randomCode=1695163838",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27805?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27805.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

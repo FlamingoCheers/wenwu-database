@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19937",
+ "name": "彭窯 白瓷嬰兒枕",
+ "aliases": [
+  "White pillow in the shape of a recumbent child"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "長37.0公分 高24.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003947N000000000"
+ },
+ "summary": "全器作嬰兒趴伏於地之形，雙手交疊，頭部向右撇，背部雕覆荷葉，手腕及足上均雕飾環。全器罩施白釉，白中略泛黃色。雙膝、雙肘著地處有支墊露胎遺痕。此器附棉墊木座。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321179&randomCode=16620335126",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321180&randomCode=70810686876",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19937?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19937.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

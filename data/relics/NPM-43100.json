@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43100",
+ "name": "龍泉窯 青瓷蓋罐",
+ "aliases": [
+  "Lidded jar in celadon glaze, Longquan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "通高6.8、口徑5.4、足徑5.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000039N000000000"
+ },
+ "summary": "小蓋罐，穹頂蓋，圓口，短頸，豐肩腹下斂，平底，矮圈足。全器施青綠釉，釉色深濃，蓋底、口沿及足底露胎，施褐色護胎汁。肩部一道弦紋凸起。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395505&randomCode=78093618777",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395506&randomCode=221892128",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43100?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43100.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

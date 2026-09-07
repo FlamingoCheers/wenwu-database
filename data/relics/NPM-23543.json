@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23543",
+ "name": "龍泉窯 青瓷蓮瓣紋碗",
+ "aliases": [
+  "Bowl with lotus-petal pattern in green glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.6公分 口徑17.5公分 底徑4.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷005051N000000000"
+ },
+ "summary": "碗，敞口，深弧壁，形如漏斗，圈足。全器施青釉，釉汁晶瑩，呈淺黃綠色，外壁畫蓮瓣紋為飾，內壁光素。口沿鑲銅扣，圈足底緣露胎，塗赭色護胎汁。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=18121&randomCode=1959209489",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=18122&randomCode=1909236732",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23543?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23543.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

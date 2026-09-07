@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2861",
+ "name": "龍泉窯 青瓷鬲式爐",
+ "aliases": [
+  "Li-shaped incense burner in green glaze, Longquan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高16.5公分 口徑21.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷013979N000000000"
+ },
+ "summary": "仿銅器鬲形，侈口折邊，短頸碩腹，三乳足，腹飾三稜下通至足，腹外壁於乳足內側各有一小孔。釉色青綠，外壁無紋片。邊樓多顯白色，足底露淺灰色胎，足四周微帶淺褐色。肩部有凸稜一圈。器內壁光潤完整，末挖洞。器心窪。與故瓷5168的宋龍泉窯翠青鬲式爐相似而尺寸大得多。腹部圓碩，而釉色也比較深。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=406577&randomCode=75255003152",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=406578&randomCode=739262974",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2861?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2861.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

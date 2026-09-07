@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24698",
+ "name": "日本 鎌倉時代 銅鎏金 地藏菩薩坐像",
+ "aliases": [
+  "Seated Jizo Bodhisattva, Japan, Kamakura period (1185-1336)"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1185,
+  1336
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "像高10.6公分 全重282.6公克",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000301N000000000"
+ },
+ "summary": "尊像臉部五官集中，頭部無髮，著僧衣，作地藏菩薩造型，雙手合掌於胸前，雙腿盤坐。僧衣從雙肩垂下，雕刻簡樸。日本地藏王菩薩信仰源起於奈良朝，於平安時期隨密教傳播而於武將間流行，尤以北條足利時代為盛。據經典記載地藏菩薩因發願渡地獄眾生，亦被稱為「地獄教主」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=364994&randomCode=1752227528",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=364995&randomCode=1782658191",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24698?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24698.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

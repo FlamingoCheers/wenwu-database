@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24149",
+ "name": "龍泉窯 青瓷雙魚紋洗",
+ "aliases": [
+  "Washer with paired fish decoration in celadon glaze, Longquan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.7公分 口徑21.0公分 足徑11.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014118N000000000"
+ },
+ "summary": "淺腹折沿小洗，略寬矮，圈足，外壁凸雕蓮瓣紋，瓣紋寬而中稜突起。平折沿上於燒造前已在兩對邊各鑽有二個圓穿孔。器裡亦貼飾模印浮拱的雙魚紋，魚形瘦長。全器釉色粉青濃潤。曹昭《格古要論》（1387）記龍泉窯：「有一等盆，底雙魚，盆口有銅掇環，體厚者不甚佳。」本器口沿四穿孔，便為裝上銅環把而設。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173737&randomCode=71797528424",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173738&randomCode=1534693224",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24149?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24149.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

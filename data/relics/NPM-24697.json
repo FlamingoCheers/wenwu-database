@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24697",
+ "name": "日本 鎌倉時代 銅鎏金 地藏菩薩立像",
+ "aliases": [
+  "Standing Jizo Bodhisattva, Japan, Kamakura period (1185-1336)"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1185,
+  1336
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通高29.7公分(含木座) 像高21.0公分 背光寬11.6公分 高27.6公分 全重1425公克(含木座)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000300N000000000"
+ },
+ "summary": "尊像的臉部豐腴，頭部無髮，著僧衣，右手持六輪錫杖，左手平舉，执寶珠，為地藏菩薩的造型。足踏本雕蓮座，背面飾雕花草鏤空背光。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=326074&randomCode=592974226",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=326075&randomCode=1431286300",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24697?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24697.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-46159",
+ "name": "鴛鴦荷葉紋玉頂",
+ "aliases": [
+  "Jade finial with \"Mandarin duck and lotus leaf\" motif"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "徑11.2公分 高2.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故琺000988N000000001"
+ },
+ "summary": "青白色玉，全器琢成一鳥禽形狀，鳥禽安坐於隆起荷葉上，口啣荷葉柄。荷花與葉捲曲翻轉，纏繞於鳥之周身。全器多處帶鏤空穿孔。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=340824&randomCode=57648126543",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=340825&randomCode=62404651939",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/46159?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_46159.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

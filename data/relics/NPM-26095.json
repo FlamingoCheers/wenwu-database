@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26095",
+ "name": "青瓷瓶",
+ "aliases": [
+  "Porcelain vase in celadon glaze"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高15.8公分 寬7.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017903N000000000"
+ },
+ "summary": "斂口捲邊，長頸，腹部上斂下豐，平底，矮圈足。腹部押出四凹稜，形成四個扁平面。胎體稍薄，上施青瓷釉，釉色月白，釉表開細密紋片。口沿釉薄，現出灰色邊，施釉至足際，露胎處加塗赭色護胎汁。底面鐫刻乾隆皇帝〈詠官窯瓶〉：「當年邵局號為官，輕用民間禁有干。今作市鄽私貨物，慨然鑒古發清歎」御製詩。詩末署「乾隆壬寅春御題」紀年銘（乾隆四十七年，1782），並落「太璞」一枚鈐印。對照郎世寧、金廷標所畫〈乾隆古裝像軸〉，亦能從此瓶入畫的經過，再次感受到此瓶深得皇帝珍視之一般。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393527&randomCode=60850535071",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393528&randomCode=63090220968",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26095?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26095.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

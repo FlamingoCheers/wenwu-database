@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26915",
+ "name": "定窯 白瓷劃花雙鳧紋碗",
+ "aliases": [
+  "Bowl with incised decoration of paired waterfowls in white glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.9公分 口徑18.0公分 底徑3.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷002501N000000000"
+ },
+ "summary": "圓侈口，周壁上豐下削，帶銅釦，圓底，矮圈足。器內壁劃雙鳧水草紋，牙白釉色帶灰黃。定窯窯址位在河北省曲陽縣澗磁村、燕山村一帶，窯場廣佈，是金元時期北方最著名的白瓷窯場。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428872&randomCode=62299559732",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428873&randomCode=626866299",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26915?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26915.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

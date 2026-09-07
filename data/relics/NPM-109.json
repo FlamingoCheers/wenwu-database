@@ -1,0 +1,40 @@
+{
+ "relic_id": "NPM-109",
+ "name": "龍泉窯 青瓷多管瓶",
+ "aliases": [
+  "Covered jar with tubular protrusions. Longquan ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "全高21.4公分 口徑6.5公分 足徑9.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購瓷000052N000000000"
+ },
+ "summary": "多管壺，斂口，短頸，塔式器身，自肩向下作四階狀，每階刻劃斜刀紋；肩部豎起六個管，管口略削如花。斂腹，腹部淺劃四重蓮瓣紋，瓣內篦紋淺劃；圈足，足緣及裡無釉，露灰黃胎色。器蓋略呈塔式，四瓣花邊緣翹起，蓋鈕頂心作四瓣花式，花蕾含苞而花扥平展。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2662128&randomCode=1967310227",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/109?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_109.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

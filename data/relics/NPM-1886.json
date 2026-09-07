@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1886",
+ "name": "玉鵝",
+ "aliases": [
+  "Jade goose"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長4.2公分 寬2.0公分 高3.3公分；木座長5.1公分 寬3.0公分 高0.9公分 連座高3.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉005607N000000000"
+ },
+ "summary": "玉鵝，回首貌。玉質泛黃，有綹與局部褐斑。以簡略線條雕琢身軀，在羽尾則加上短陰刻線條。木座雕荷葉形，葉上有蓮蓬與荷花。貯在院藏〈紫檀木鑲竹絲轉盤格子〉（故雜1284）格層裡。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=996961&randomCode=974608667",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=996962&randomCode=1634638738",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1886?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1886.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

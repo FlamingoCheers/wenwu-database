@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1751",
+ "name": "「台吉之印」八思巴文銅印",
+ "aliases": [
+  "Bronze seal with inscription \"Taiji zhi yin\" in Mongolian Phags-pa script"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高2.32公分 印面長3.19公分 寬2.89公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅001816N000000000"
+ },
+ "summary": "板狀橛鈕有孔可穿系，印背平板右上角鏨刻漢字「上」，作為區別印文方向之用。印面有寬細雙重邊欄鑿刻陽文四字，印文是以八思巴字對譯蒙古語。左邊兩個音節可譯寫為「台吉」，這個語詞是源于漢語「太子」的蒙古語，此處指出生於蒙古皇室的男子，即蒙古貴族；右邊兩個音節詞意可譯作「記號」，蒙古語的「記號」語詞源于突厥語，其意義相當於漢語唐宋以來官私印章常用的「記」字，在此處指「印」。因而此印可通譯為「台吉之印」，據蒙古語學者照那斯圖認為，這是迄今所見唯一的蒙古貴族之印。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=370959&randomCode=16173540517",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=370960&randomCode=2028724340",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1751?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1751.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

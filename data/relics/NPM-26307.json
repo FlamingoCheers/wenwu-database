@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26307",
+ "name": "官窯 青瓷印花龍紋洗",
+ "aliases": [
+  "Washer with impressed dragon decoration in celadon glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.7公分 口徑18.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014111N000000000"
+ },
+ "summary": "圓口，深壁微外鼓，平底無足。全器滿施青釉，釉色偏綠，釉表滿佈開片，局部有冰裂紋。因採用墊燒法燒製，底面有一圈無釉的「蛇目」痕。口沿有磨釉痕跡，傳世帶木座，底刻「宋汝窯蟠螭洗」、「甲」字，和「古稀天子御玩」。以今日的陶瓷史視野來看，這件作品無疑是南宋官窯，但乾隆皇帝將南宋官窯看成是汝窯，說明他有時候也官、汝不分。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=340214&randomCode=70705959044",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=340215&randomCode=1099456503",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26307?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26307.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

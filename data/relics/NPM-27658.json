@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27658",
+ "name": "定窯 白瓷劃花回紋碗托",
+ "aliases": [
+  "Tea bowl stand with incised meander decoration in white glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  12
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.6公分 口徑10.3公分 底徑9.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷003054N000000000"
+ },
+ "summary": "以敞口高圈足托盤與斂口碗形托圈接合成，中空無底。托盤與托圈之口沿均以回紋為飾。盤緣與足緣均嵌銅稜釦。使用時托子上可放置茶碗，避免傾跌。此種高托圈的茶碗托，在唐末便已流行，宋、金皆仍是飲茶時的用器，傳世宋畫如〈文會圖〉與墓葬壁畫如宣化遼墓皆可見此類器皿的盛行。碗托以漆製為多，而定窯此類托子作品數量亦夥。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469720&randomCode=14907160828",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469721&randomCode=1122628120",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27658?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27658.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

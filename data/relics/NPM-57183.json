@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-57183",
+ "name": "玉魚形佩",
+ "aliases": [
+  "Jade fish-shaped pendant"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長5.3公分 厚0.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉006045N000000000"
+ },
+ "summary": "白玉質中有灰色綹，一側有黃褐色斑。全器作寫實魚形，背鰭高聳，有兩對腹鰭與臀鰭，一側腹鰭與臀鰭往前，另一側往後，可豎立。背鰭中央一穿，乃對鑽而成，有錯置台痕，可懸佩。玉魚的雙目微圓凹，魚鱗乃用整齊斜線交錯陰琢成菱格紋，魚首與身軀以一凹弧線間隔，三凹弧線間隔魚身與尾鰭。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1159693&randomCode=996049579",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1159694&randomCode=1053113269",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/57183?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_57183.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

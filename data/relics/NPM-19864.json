@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19864",
+ "name": "哥窯 青瓷碗",
+ "aliases": [
+  "Bowl with green glaze"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高10.2公分 口徑11.0公分 底徑4.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷004752N000000000"
+ },
+ "summary": "圓口略侈，深壁漸收，圈足，口緣鑲整齊的銅釦棱。全器施哥釉，滿布明顯的黑色、黃色冰裂紋，即俗稱的「金絲鐵線」。圈足露胎一圈塗褐色汁，足內亦施哥釉。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=319125&randomCode=78236404850",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=319126&randomCode=29293589946",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19864?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19864.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

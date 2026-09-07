@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26106",
+ "name": "白瓷印花仙鶴紋碗",
+ "aliases": [
+  "White cup with impressed decoration of cranes"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1644
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.0公分 口徑10.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017726N000000000"
+ },
+ "summary": "圓口微撇，深弧壁下斂，平底，圈足。器內外施透明釉，色呈米黃，外壁光素無紋，內壁以印花技法飾紋樣。內底心有六瓣朵花，內周壁飾瑞鶴飛舞於祥雲之中。器壁甚薄，映光可見，與一般定窯不類。其口沿露胎，圈足滿釉。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401134&randomCode=85299758738",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401135&randomCode=95474891631",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26106?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26106.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

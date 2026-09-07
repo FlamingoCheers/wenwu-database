@@ -1,0 +1,40 @@
+{
+ "relic_id": "NPM-77111",
+ "name": "南宋 遇林亭窯 黑釉茶盞",
+ "aliases": [
+  "Tea bowl in black glaze, China, Southern Song dynasty(1127-1279)"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "南普贈000007N000000000"
+ },
+ "summary": "敞口，口沿微歛，小底，斜腹深壁，圈足內凹，胎厚。通體施薄黑釉，外壁施釉不及底，圈足露胎呈黑褐色。內壁以金彩描繪直線及四海棠型開光內寫「壽比南山」四字，金彩光澤鮮豔。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1077341&randomCode=2116218693",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/77111?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_77111.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

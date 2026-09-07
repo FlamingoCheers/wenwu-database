@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19901",
+ "name": "定窯 白瓷劃花蓮荷紋洗",
+ "aliases": [
+  "White washer with incised lotus decoration"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高1.8公分 口徑11.0公分 底徑8.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷004021N000000000"
+ },
+ "summary": "侈口，淺壁，平底。全器滿釉，色牙白。以劃花為飾，內底淺劃蓮荷一支。採覆燒法燒製，於口沿無釉處鑲銅釦稜。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318803&randomCode=69911374923",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318804&randomCode=90073618669",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19901?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19901.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

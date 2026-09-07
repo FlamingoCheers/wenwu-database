@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24147",
+ "name": "官窯 青瓷海棠式盆",
+ "aliases": [
+  "Basin with foliated rim in celadon glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "長15.2公分 寬12.0公分 高8.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷006073N000000000"
+ },
+ "summary": "四瓣海棠形花盆，模製成形，侈口，窄折邊，深壁。內底殘留模具壓印痕及六枚支釘，底接四個雲頭形足。內外施青釉，燒後呈色月白帶灰偏米黃，內口緣及外壁滿布灰色開片，局部間雜少許淺色紋片，足端無釉塗赭汁。造型和江西省樟樹市劉公廟南宋開禧元年（1205）墓出土品相似，而透露出此一器形至少可以上溯至十三世紀初。北京故宮博物院也收藏有相似的作品，另外，此件展品的釉色和雲頭形足及足端塗赭汁的特徵，均近似於大英博物館和上海博物館收藏的米色釉盆托。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173519&randomCode=75972002489",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173520&randomCode=68495175971",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24147?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24147.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-55832",
+ "name": "玉荷塘雙鵝佩",
+ "aliases": [
+  "Jade pei pendant in the shape of paired geese in a lotus pond"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長6.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉004490N000000000"
+ },
+ "summary": "玉質，微泛黃。全器雕琢成兩隻併排之鵝，體型一大一小，鵝身底下之座為蓮葉。雙鵝口內皆啣有盛放之蓮花，鵝身雕飾線條簡潔之羽毛紋路。本件與故玉4487-故玉4489、故玉4491同置於故漆408盒內。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=331807&randomCode=20609647725",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=331808&randomCode=39765636726",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/55832?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_55832.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

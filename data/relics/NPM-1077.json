@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1077",
+ "name": "定窯 白瓷劃花蓮紋茶盞",
+ "aliases": [
+  "Tea bowl with incised lotus decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.6公分 口徑13.4公分 足徑3.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷012470N000000000"
+ },
+ "summary": "敞口，器壁斜高，底足淺而小。全器除口沿一圈無釉，餘均施透明釉，口沿鑲銅扣。碗內壁刻劃蓮花紋飾，碗內心一周微凹。胎骨勻輕，質細潔白，內外釉面有開片紋。此類大口小足、碗壁斜直形者，倒置形似斗笠，通稱「斗笠碗」，點茶時易乾不留渣，因此頗盛行於宋代。宋代又稱此類型碗為「嬖」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=124585&randomCode=1648820604",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2663825&randomCode=1948717135",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1077?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1077.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

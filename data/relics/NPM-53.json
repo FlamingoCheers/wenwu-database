@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-53",
+ "name": "建窯 黑釉兔毫盞",
+ "aliases": [
+  "Bowl with \"hare' s fur\" striations on a black ground, Jian ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.5公分 口徑11.5公分 足徑4.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷008624N000000000"
+ },
+ "summary": "弇口碗，口沿外緣向內束收，深腹、小圈足。釉施不及底，旦露深褐色粗厚的器胎。足外壁無釉，足內則淺凹，並深刻一「律」字楷書。釉色鳥黑濃稠且流動性大，外壁垂淌至近足處，內底積厚釉，口緣則薄釉而形成特徵的「褐口邊」。碗身裡外均有結晶析出的青黃色細密線條，隨釉流動，深茂相雜，宛如秋兔的毫毛，故宋人稱之為「兔毫盞」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391427&randomCode=32803595590",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391428&randomCode=480577551",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/53?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_53.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

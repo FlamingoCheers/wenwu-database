@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-49361",
+ "name": "玉童子",
+ "aliases": [
+  "Jade child"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬3.45公分 高6.72公分 厚1.95公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001213N000000000"
+ },
+ "summary": "白玉，通體有赭斑。全器玉料略呈扁橢圓形，雕作一童子，左手持植物枝葉，枝葉作鏤雕，與衣帶一同繞過肩膀，右手插腰，雙腳交叉而立。附木座。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=155418&randomCode=96272101602",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=155419&randomCode=41675152501",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/49361?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_49361.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

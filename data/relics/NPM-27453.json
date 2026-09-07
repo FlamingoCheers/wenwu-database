@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27453",
+ "name": "定窯 印花螭文洗",
+ "aliases": [
+  "Dish with impressed chih-dragon design, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.6公分 口徑17.5公分 底徑11.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014511N000000000"
+ },
+ "summary": "洗，圓口略侈，深弧壁，底寬平，矮圈足。全器模製印花，口沿內側印回紋一週，內壁有轉枝花果紋，內底心外緣印回紋一圈，內有蟠龍二條，隙地填飾雲紋。厚胎，全器施薄釉，釉色偏灰白。口鈐銅釦。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=466523&randomCode=86164351454",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=466524&randomCode=91114911622",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27453?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27453.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

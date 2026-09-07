@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-1338",
+ "name": "宋林逋手札二帖　冊",
+ "aliases": [
+  "Two Letters"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "书画",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故書000146N000000000\n more\n \n 故書000146N000000A01\n 故書000146N000000A02\n 故書000146N000000A03\n 故書000146N000000A04\n 故書000146N000000B01\n 故書000146N000000B02\n 故書000146N000000B03\n 故書000146N000000B04\n 故書000146N000000B05\n 故書000146N000000B06\n 故書000146N000000B07\n 故書000146N000000B08\n 故書000146N000000B09\n 故書000146N000000B10\n 故書000146N000000B11\n 故書000146N000000B12"
+ },
+ "summary": null,
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=520943&randomCode=85263032571",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=520944&randomCode=48121761955",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1338?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1338.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

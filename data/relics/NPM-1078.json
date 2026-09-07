@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1078",
+ "name": "定窯 白瓷劃花蓮荷紋碗托",
+ "aliases": [
+  "Saucer with incised lotus decoration, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  12
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.8公分 口徑11.5公分 足徑4.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014488N000000000"
+ },
+ "summary": "典型宋代茶托形制「形如碗而帶托盤，下有足。」碗的部分為茶托的托圈，用以承盞，中空無底，口微斂，直壁，底略斂；托盤平出，口微上卷，圈足略高外撇。托圈口、盤口、及底足一圈無釉，盤口、底足鑲銅扣，圈口則澀胎未加圈扣。圈口、盤口沿內外刻畫卷草紋各一周，托圈外壁、及盤內壁則刻劃轉枝蓮荷紋。釉色牙白，盤外壁淌釉數道，略帶黃色。南宋末周密《齊東野語》書內曾提及宋人舉茶是茶盞與茶托一起，足見茶托為茶盞的半固定附屬器，遼宋壁畫或茶畫，畫中茶器圖上的茶盞與茶托，都是形影不離，成組、成套出現的。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=631715&randomCode=22169213",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=631716&randomCode=1902145799",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1078?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1078.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

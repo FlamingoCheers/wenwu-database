@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24227",
+ "name": "玉馬",
+ "aliases": [
+  "Jade horse"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "高2.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001177N000000000"
+ },
+ "summary": "玉質，色白潤微有淺黃色斑。全件立雕為一馬，作跪伏狀，仰首張嘴，鬃毛與尾細長。附木座。本件收入乾隆時期製作多寶格「集瓊藻」中，據集瓊藻小冊所載原有二層七十三件，共儲於嵌飾獸骨螺甸的木箱中。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=303960&randomCode=30120896589",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=303961&randomCode=282585341",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24227?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24227.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

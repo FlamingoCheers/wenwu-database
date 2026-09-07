@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-45261",
+ "name": "角雕人首紋錐",
+ "aliases": [
+  "Horn awl with human head decoration"
+ ],
+ "dynasty": "西夏",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1032,
+  1227
+ ],
+ "category": "雕塑",
+ "material": null,
+ "dimensions": "長11.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈雕000035N000000000"
+ },
+ "summary": "此件取獸角製成，尖端朝下，正面上端浮雕出一人面，以圈點紋為眼紋(陰刻單圈為眼形，中央深鑽一圓心為眼瞳)，眼下方中央並陰刻一短橫線與一長橫線為鼻與口。人面下方陰刻一道為頸部，器之中段部位繞器陰刻三道橫線以間隔出身軀，身軀部位依上下左右中各陰刻一圈點紋(單圈中鑽一圓心)。同樣的圈點紋亦飾於器側三道橫線之上方與下方，以及器背三道橫線下方。器之上端人面兩側於同一部位各穿一圓孔，可繫掛。這件磋角人首紋錐與西夏開國皇帝李元昊的行宮遺址中發掘一件人頭形鹿角質製成的解錐相似，但後者更形儉樸。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350329&randomCode=64073764340",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350330&randomCode=81441311404",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/45261?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_45261.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

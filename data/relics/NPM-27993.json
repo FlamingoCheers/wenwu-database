@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27993",
+ "name": "官窯 青瓷弦紋貫耳壺",
+ "aliases": [
+  "Vase with tubular handles and linear pattern in green glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高24.7公分 口徑13.6公分 底徑12.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷005884N000000000"
+ },
+ "summary": "壺，圓口微撇，短頸，兩貫耳，碩腹，平底，矮圈足。頸飾凸弦紋二道。胎骨厚重，全器施青釉，釉色濃潤。釉面滿佈淺褐色紋片，略有砂眼。圈足端露胎，塗赭色汁。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=476614&randomCode=92635032254",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=476615&randomCode=1338431719",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27993?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27993.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

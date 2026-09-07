@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-26104",
+ "name": "定窯型白瓷印花博古荷花碗",
+ "aliases": [
+  "Bluish-white glazed bowl, with impressd arrange flowers scene, Jindezhen type ware"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.0公分 口徑20.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017724N000000000"
+ },
+ "summary": "敞口深碗，口緣鑲銅釦，弧形壁，圈足。器內外壁滿施透明釉，器色潔白。外壁光素，內壁以印花技法製作紋飾。內壁近口緣處回紋一圈。回紋與內底心間的內壁，分割為六等大的區塊，區塊內各飾以瓶花紋樣。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=402962&randomCode=59697214043",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=402963&randomCode=23312208661",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26104?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26104.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

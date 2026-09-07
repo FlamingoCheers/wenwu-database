@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-49935",
+ "name": "玉人",
+ "aliases": [
+  "Jade figure"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬2.7公分 通高7.7公分 厚1.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001826N000000000"
+ },
+ "summary": "玉質，色灰白一側有赭色烤皮。器作一立雕童子，光頭留桃形髮式，雙手捧荷花與荷葉高舉過左肩，眉目及衣飾線條清楚。上下有通心穿可供組佩。本件現與另四件玉器同收一於日本蒔繪長方菊花漆匣。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=166633&randomCode=32565395250",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=166634&randomCode=86249549083",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/49935?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_49935.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

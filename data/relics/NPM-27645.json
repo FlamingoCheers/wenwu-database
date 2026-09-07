@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27645",
+ "name": "定窯 白瓷印花花果紋分格盤",
+ "aliases": [
+  "Bowl with lobed sides and impressed decoration of flowers and fruit in white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.6公分 口徑10.5公分 底徑6.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷003041N000000000"
+ },
+ "summary": "六瓣花口盤，弧形壁，口緣微外撇，矮圈足，口沿芒口露胎。盤內以印花為飾，口沿下回紋一道，其下週壁豎分六格，格線與花口瓣曲相呼應；格內分印葡萄、石榴、蓮荷、桃實、瓜瓞等花果。底心印柿子一枝。花果佈局聚簇，空間留白多，線條工謹纖秀，與一般定窯寬長線條刻劃的習尚有別。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469950&randomCode=26528551410",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469951&randomCode=116754499",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27645?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27645.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

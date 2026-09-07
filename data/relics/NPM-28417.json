@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-28417",
+ "name": "吉州窯 白瓷劃花纏枝番蓮紋瓶",
+ "aliases": [
+  "Vase with incised Indian lotus scrolls decoration in white glaze, Jizhou ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高26.1公分 口徑4.2公分 底徑10公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷011868N000000000"
+ },
+ "summary": "斂圓口，短頸，闊肩，長腹至底部內斂，矮圈足。胎質較薄，通體牙白色釉，面佈細碎紋片，器腹部淺劃纏枝番蓮花。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=597859&randomCode=1053113269",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=597860&randomCode=1878974182",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/28417?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_28417.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

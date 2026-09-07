@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19953",
+ "name": "定窯 白瓷印花荷葉紋碗",
+ "aliases": [
+  "White washer with impressed lotus leaves pattern"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.5公分 口徑20.2公分 底徑6.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003793N000000000"
+ },
+ "summary": "敞口，作六瓣花式，弧壁下斂，圈足。整器施白釉，釉色泛黃，圈足滿釉，口緣無釉，鑲銅釦棱。器外壁弦紋一道，並自瓣口委角處輕畫直線一道與弦紋相交。內壁自瓣口委角處各向盤心劃直線一道，將內壁分為六部分，內底則印花蓮葉為飾。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321126&randomCode=40708694666",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321127&randomCode=88604888060",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19953?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19953.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

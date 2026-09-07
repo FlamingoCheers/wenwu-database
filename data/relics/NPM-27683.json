@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27683",
+ "name": "湘湖窯 青白瓷印花博古花卉紋碗",
+ "aliases": [
+  "Bowl with impressed antiques and flower decoration in bluish-white glaze, Xianghu ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.3公分 口徑20.5公分 底徑6.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷012476N000000000"
+ },
+ "summary": "碗，侈口，深壁上豐下斂，平底，矮圈足，口沿露白胎。全器施白釉，釉色泛青器。器內壁劃分六格，各印博古瓶花一種。底心印一博古瓶花。外壁樸素無紋飾。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470346&randomCode=83912033931",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470347&randomCode=60378125552",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27683?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27683.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

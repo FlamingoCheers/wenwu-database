@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3040",
+ "name": "澄泥石渠硯",
+ "aliases": [
+  "Refined clay inkstone with grooves decoration"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長15.9公分 寬10.5公分 高4.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000459N000000000"
+ },
+ "summary": "硯作長方形，澄泥製、色赭紅至紫色，質細而體輕，頗潤澤，硯面四周深窪，成石渠為墨池，受墨處色呈棕紅、周邊滿佈墨鏽頗厚，硯面渠周緣、淺凹雕雲紋一道，硯壁左右兩側，各有螭紋一雙，兩兩相對，硯下端壁側，深雕螭虎各一，四足以象首為飾，硯背斜窪，作二層，中央刻清高宗御題詩乙首：「石渠本效漢名為，滴露研末此合宜，不必劉揚徵往事，可知庾許有新詞，劃金早是泯陳逐，刻獸亦非出近時，曾傍宣和工字畫，如何獨昧作君師」，楷書，款題：「乾隆御題」，鈐印二：「古香」、「太璞」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=175929&randomCode=37212179314",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=175930&randomCode=1295718008",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3040?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3040.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

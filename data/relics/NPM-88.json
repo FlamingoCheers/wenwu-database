@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-88",
+ "name": "玉鹿",
+ "aliases": [
+  "Jade deer"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1234
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長4.75公分 寬1.5公分 高2.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉000724N000000000"
+ },
+ "summary": "白玉質，琢一跪坐的雄鹿，歧成三叉的鹿角向後方延伸。腹部有兩個向上的小孔，穿至身體的中段後匯成一大孔貫通到背脊。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=187872&randomCode=15793411517",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=187873&randomCode=90535442049",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/88?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_88.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

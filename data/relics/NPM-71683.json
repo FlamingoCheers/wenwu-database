@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-71683",
+ "name": "玉圓盒",
+ "aliases": [
+  "Jade round box"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "高2.9公分 徑3.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉005773N000000000"
+ },
+ "summary": "玉質，器蓋帶大塊黑斑，器身有絲狀褐色玉璺。小圓盒，有蓋，直壁，近底部內收，無圈足。全器光素無紋，突顯了玉料原有的色澤與紋路，打磨不甚細膩，顯露出厚實古樸的味道，為明代玉器的特徵之一。尺寸小巧，現儲於多寶格中。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=319258&randomCode=69193833151",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=319259&randomCode=457405934",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/71683?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_71683.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

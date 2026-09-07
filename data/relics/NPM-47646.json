@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-47646",
+ "name": "玉鏤空龍紋帶版",
+ "aliases": [
+  "Jade plaque with openwork dragon design"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長6.7公分 寬5.9公分 厚0.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故雜007161N000000002"
+ },
+ "summary": "白玉矩形帶版，紋飾具上下二層，上層正中鏤雕龍紋，龍身陰刻鱗片及細部紋飾，矩形之四角各雕有磬、鳥紋及蓮花，隙地及下層均鏤雕卷雲紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=518171&randomCode=85057359451",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=518172&randomCode=1836092358",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47646?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47646.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

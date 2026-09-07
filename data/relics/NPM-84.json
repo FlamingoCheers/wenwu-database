@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-84",
+ "name": "玉鴨",
+ "aliases": [
+  "Jade duck"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長8.5公分 寬2.8公分 通高4.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉003698N000000000"
+ },
+ "summary": "這隻翹尾豐臀的可愛小鴨，正歪著腦袋觀察著周遭。以局部帶褐色的黃玉雕琢而成，仔細檢視，確知牠的頭部與鴨蹼上，既有原來的褐色，又再加以人工染色。琢碾的手法極為簡單，但因為掌握了鴨子翹尾豐臀的體態特徵，以致作品既可愛又生動活潑，令人享受到大自然輕鬆閒適的趣味。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=405046&randomCode=75231164698",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=405047&randomCode=78973938565",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/84?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_84.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

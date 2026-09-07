@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3070",
+ "name": "端石鵝硯",
+ "aliases": [
+  "Duan stone inkstone shaped like a goose"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長21.2公分 寬11.8公分 高3.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000553N000000000"
+ },
+ "summary": "端石，雕為鵝形，係就硯材而作，硯色紫，間有白斑紋，全硯作鵝形回首狀，鵝背即為硯堂，左右翼環抱硯邊窪入處為墨池，鵝首回眸至硯面，并于頸部琢一孔，使能相通，并有一石眼恰好作為鵝眼，全器滿刻羽翎紋，硯背中心雕鵝雙掌，似恰在划掌於水波中，背面中鐫清高宗御題詩乙首，楷書：「老坑子石誰磨礱，不辨製自南北宋，或是右軍撫玩罷，化作鶃鶃傲池鳳，其溫如玉疑舜環，其潤如露餘堯甕，近雖外景寫黃庭，慮硯嗤哉屏弗用。」款題，「乾隆御題」，鈐印二：「乾」、「隆」連珠印。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173114&randomCode=90849190779",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173115&randomCode=97044292",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3070?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3070.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,48 @@
+{
+ "relic_id": "NPM-26122",
+ "name": "湘湖窯 荷葉洗",
+ "aliases": [
+  "Washer in the shape of a lotus leaf with celadon glaze, Xianghu ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  18
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "最長9.0x9.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017798N000000000"
+ },
+ "summary": "全器仿荷葉形，胎質極薄。中央凹下，四周似呈荷葉自然捲曲狀，約有六瓣，器內面淺劃葉脈隱於釉下，器底面葉脈隆起，尤其明顯，有如自然之荷葉背面。全器光素無紋，內外通施釉，釉色淺粉青，濃淡分明，呈色光潤，葉面凹陷處釉色較深呈水藍，有如荷葉上積水，生動自然。釉面密佈米色細紋，並多細小黑點。器底有支釘痕跡，微小如針孔。全器造型精緻寫實，栩栩如生。本件帶一木座，有倫敦展標籤，顯示本件曾於西元1935至1936年間由故宮出借至英國倫敦參加「倫敦中國藝術國際展覽會」(The International Exhibition of Chinese Art, London, 1935-6)。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401622&randomCode=94204889195",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401623&randomCode=1857533270",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26122?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26122.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

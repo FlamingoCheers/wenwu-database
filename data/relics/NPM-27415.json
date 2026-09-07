@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27415",
+ "name": "定窯 白瓷印花孔雀牡丹紋盤",
+ "aliases": [
+  "Dish with impressed peacock and peony decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.7公分 口徑28.9公分 底徑13公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014466N000000000"
+ },
+ "summary": "侈口大盤，淺弧壁，平底，矮圈足。胎厚釉薄，釉色牙白偏灰，口沿鑲銅釦。口沿內印弦紋二道，週壁印轉枝牡丹花，盤心印回紋一週，中心印牡丹花；外壁樸素無紋。圈足露胎平整，堅緻細膩。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=466493&randomCode=30418294708",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=466494&randomCode=26857538897",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27415?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27415.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

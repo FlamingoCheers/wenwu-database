@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-7175",
+ "name": "六鶴祥雲鏡",
+ "aliases": [
+  "Bronze mirror with six cranes and auspicious clouds"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑19.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000369N000000000"
+ },
+ "summary": "圓形鏡，鏡緣寬素。鏡背浮雕紋飾為六隻鶴鳥穿梭於湖石、芭蕉及翠竹之間。構圖緊緻，恬靜又富有野趣。位於中心的鏡鈕，似刻意做成殘缺狀，恰為湖石孔洞，極具巧思。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1244&randomCode=1798738875",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1245&randomCode=2075067574",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/7175?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_7175.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

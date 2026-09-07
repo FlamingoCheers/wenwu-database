@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-49861",
+ "name": "玉系璧",
+ "aliases": [
+  "Jade bi disc"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長8.0公分 通寬6.1公分 通高2.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001756N000000000"
+ },
+ "summary": "玉質。一面雕琢乳丁紋，一面連於鏤雕三螭之上，三螭大於望徑。與玉瑗、玉佩璜一併置於仿冊頁盒中，盒外刻款填金隸書：「石渠寶笈」。盒內並有書冊題籤：「宋版錦繡萬花谷下函」。仿經卷盒和其他仿冊頁盒等大小收納盒共八組，共同置於一題有「歷代珍藏」之大木匣中。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=139777&randomCode=83590586589",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=139778&randomCode=34287759299",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/49861?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_49861.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

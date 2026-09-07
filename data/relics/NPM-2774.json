@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2774",
+ "name": "德化窯 白釉軍持",
+ "aliases": [
+  "Kendi with white glaze, Dehua ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高11.4公分 口徑7.7公分 足徑6.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購瓷000007N000000000"
+ },
+ "summary": "喇叭形撇口、長頸、扁圓腹、餅形足。上下折腹相接處以弦紋為飾、腹一側斜出管狀細長流；腹上下各模印一周細陽紋卷草紋為飾；下腹與足相接處則模印變形蓮瓣一周。器施白釉，積釉處略現青調；外壁施釉不到底，胎白如粉，質鬆而輕。具福建德化窯產品的特徵。同形紋的器皿在德化窯及東南亞經常出現。軍持為梵語kundika的音譯，為佛教徒或回教徒所用的淨水瓶。南宋晚期至元代器形以敞口、長頸、扁腹、細長管狀流最為常見，福建德化窯、泉州磁灶窯的產量最大。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=406826&randomCode=39931000365",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=406827&randomCode=38642090804",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2774?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2774.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

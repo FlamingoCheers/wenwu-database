@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-20",
+ "name": "官窯 青瓷長方盆",
+ "aliases": [
+  "Rectangular planter in green glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高12.5公分 口徑長28.2公分 寬20.6公分 底徑長24.9公分 寬19.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014024N000000000"
+ },
+ "summary": "長方折沿盆，四面長方板接成，上略敞、下略斂。口部折沿平伸，底部亦平伸出板沿；四足，足側各有如意首狀欄板接於底面，使全器宛如一建築物之須彌座。足底無釉，器底另有八個支釘痕。全器胎骨堅厚，釉層亦多以上釉，濃厚處釉垂欲滴；邊稜薄處映現紫黑胎色，折沿下則縮釉露黑褐色胎骨。釉色粉青，鱔血狀長開片外，還有密佈的冰裂狀開片。因北京出土的花盆有「劉家造花檻」自名款，又能據以說明這件作品作為花器使用。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=407908&randomCode=41235220394",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=407909&randomCode=1484720467",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/20?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_20.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

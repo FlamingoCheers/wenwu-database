@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1243",
+ "name": "鈞窯 月白鼓釘洗",
+ "aliases": [
+  "Drum-shaped washer with moon-white glaze"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高11.4公分 口徑25.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017472N000000000"
+ },
+ "summary": "斂圓口，淺腹、腹形如鼓，平底，三足作雲頭形。口沿、腹壁各飾弦紋一道，鼓腹按飾鼓釘紋兩周；上緣二十三枚，下緣十九枚。胎骨厚重，通體罩施月白色濃釉，釉質乳濁，口下、足際皆有垂釉痕。施釉至底足，外底塗褐色護胎釉，周邊有支燒痕二十九枚，支點大、排列緊密。足內壁刻數目字「一」，底面清宮刻「養心殿長春書屋用」的款記。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=462890&randomCode=12728188662",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=462891&randomCode=758805068",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1243?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1243.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

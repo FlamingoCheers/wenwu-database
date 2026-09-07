@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2026",
+ "name": "錯金銀帶輪羊尊",
+ "aliases": [
+  "Wheeled-goat zun vessel with gold and silver inlay"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  17
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "長48.0公分 高37.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000560N000000000"
+ },
+ "summary": "本件著錄於《寧壽鑑古》卷五頁二十九，作「漢犧尊二」。原藏於熱河行宮。此器的造型十分特殊，作雙角羊形，下方加鑄四輪台座。表面以細緻的錯銀為飾，局部錯金，並分佈著綠色、赭紅色的假鏽。從錯銀脫落處看來，銀質部分很淺。本件器物的動物造型與紋飾可能來自商代銅器，但下方附加的四輪則為晚期的想像與創造。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2019&randomCode=1028843546",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2020&randomCode=1275985691",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2026?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2026.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

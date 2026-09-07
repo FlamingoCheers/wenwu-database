@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26900",
+ "name": "定窯 白瓷劃花牡丹紋葵口碗",
+ "aliases": [
+  "Bowl with hibiscus-shaped rim and incised peony decoration in white glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  12
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.8公分 口徑21.5公分 底徑5.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷002486N000000000"
+ },
+ "summary": "六瓣葵花口，侈口深壁，帶銅釦，圓底矮圈足。器內劃牡丹花一枝，外壁豎劃陰線，施罩牙白色釉，器身略帶「淚痕」的積釉現象。定窯窯址位在河北省曲陽縣澗磁村、燕山村一帶，窯場廣佈，是宋金時期北方最著名盛燒的白瓷窯場。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=429194&randomCode=30520435335",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=429195&randomCode=1012130263",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26900?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26900.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

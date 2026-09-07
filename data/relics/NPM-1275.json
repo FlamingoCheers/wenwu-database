@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1275",
+ "name": "鈞窯 天藍釉三足爐",
+ "aliases": [
+  "Tripod incense burner with azure glaze, Jun ware"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1115,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.6公分 口徑9.1公分 腹圍32.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷008544N000000000"
+ },
+ "summary": "斂圓口，口沿一道窄邊，短頸，腹部扁圓，三短足。通體罩施天藍色釉，釉層豐厚，釉色藍中帶綠，口沿一道褐黃邊，局部有褐色斑點，施釉至足際，三足釉汁積垂成厚釉。內底與三足底無釉，露出褐土色胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=468802&randomCode=63145554229",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=468803&randomCode=9718052",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1275?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1275.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

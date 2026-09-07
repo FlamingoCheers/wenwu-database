@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24445",
+ "name": "青銅佛趺坐像",
+ "aliases": [
+  "Bronze seated Buddha"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  15
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "長9.5公分 寬5.6公分 高20.6公分 像高15.1公分；背光寬14.5公分 高19.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000056N000000000"
+ },
+ "summary": "巴基斯坦地區作品，背光疑非原件所有。一佛於獅子座上結跏趺坐，座下尚有一蓮臺。佛右手施與願印，左手握衣角，身著通肩式僧衣。獅子座側，二供養人屈膝而脆，雙手合什，以示禮敬。佛像的背光由一邊飾火焰紋的大形圓光和二菩薩像組成，二菩薩腰擺臂移，作三折扭姿，頭頂各有一化佛，圓光頂部尚有頂繫飄帶的舍利塔。與贈銅000050相較，此像之寫實性減弱，作者以規律化的弧線表示領口衣褶，手肘處的衣紋雖起伏有致，重韻律性的變化，但和肘部關節的動作毫無關係，胸部平坦，贈銅000050中所見胸肌的圓鼓和彈性，在此已無迹可尋。這些都足以說明，斯瓦特造像的發展已由寫實逐漸邁向形式化。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=142574&randomCode=36664256370",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=142575&randomCode=1661271765",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24445?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24445.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

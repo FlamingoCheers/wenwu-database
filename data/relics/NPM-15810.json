@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-15810",
+ "name": "龍紋墨",
+ "aliases": [
+  "Inkstick with dragon decoration"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文001013N000000000"
+ },
+ "summary": "長條形墨，或為牛舌形但略厚，破損嚴重難以辨認。惟可辨識龍身一段與五爪龍足一，與凸雕「監製」二字。已無油紙包裹，外覆附件綠色錦袱、錦匣中，匣題「宋墨一錠。乙」。有黃籤「入古上等宋墨一錠」「五百十一號」。錦匣黃籤「乾清宮」「吉十五」「九號」「吉字」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=327829&randomCode=82299766220",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=327830&randomCode=42013904198",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/15810?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_15810.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

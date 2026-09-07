@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-61067",
+ "name": "汝窯 青瓷盤",
+ "aliases": [
+  "Plate in celadon glaze, Ru ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.2-3.7公分 口徑14.9公分 足徑10.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷018182N000000000"
+ },
+ "summary": "盤，敞口，弧形圓壁自底足順著口沿向外斜直而上，平形底，圈足微外撇，形成具有金銀器風格的 「捲足」。全器罩施汝釉，隱含淡碧與淺粉二色，釉面滿佈開片紋，口沿釉薄處呈現淡粉紅色。底部有縮釉，並留存五枚支燒痕；底心刻篆書 「甲」字。縮釉、題刻、支燒痕處露出淡黃色胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391457&randomCode=46863705948",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391458&randomCode=147017049",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/61067?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_61067.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

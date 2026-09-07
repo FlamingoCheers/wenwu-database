@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26091",
+ "name": "官窯 青瓷葵口碟",
+ "aliases": [
+  "Dish with hibiscus-shaped rim in celadon glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.2公分 口徑14.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017720N000000000"
+ },
+ "summary": "六瓣葵花形，侈口，淺壁，近足際向內轉折成折腰盤式。平底，矮圈足。通體施青瓷釉，釉色灰青，略帶米黃色調，釉表開深色細紋片。口沿釉薄處，現出灰色邊；內裡隱見一些冰裂開片。施釉至足際，足緣無釉，露出燒後胎色。底面鐫刻乾隆皇帝〈詠官窯碟子〉：「鐵足冰紋火氣蠲，口分六出體規圓。較於缾斝猶多見，華者脆知樸者堅」御製詩。詩末署「乾隆丙申夏御題」紀年銘（乾隆四十一年，1776），並落「古香」和「太璞」兩枚鈐印。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401277&randomCode=26685862940",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401278&randomCode=91311534489",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26091?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26091.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

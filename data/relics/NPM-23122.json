@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23122",
+ "name": "定窯 白瓷劃花蓮紋盤",
+ "aliases": [
+  "Dish with incised lotus pattern in white glaze"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  960,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.0公分 口徑9.2公分 底徑6.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷005538N000000000"
+ },
+ "summary": "敞口淺盤，圓弧形壁，平底矮圈足。全器施牙白色釉，口緣無釉，鑲銅邊。器內通壁與底劃花飾一屈繞之折枝蓮花。圈足似經刮削露胎，且殘醬褐色遺痕。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=382385&randomCode=71045858470",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=382386&randomCode=1479360239",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23122?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23122.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

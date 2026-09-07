@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3104",
+ "name": "烏玉硯",
+ "aliases": [
+  "Black jade inkstone"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長23.3公分 寬8.0公分 高2.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文001596N000000000"
+ },
+ "summary": "硯作古琴式，上窄下寬，硯面微凹處為硯堂及墨池，墨池半月形，硯首上端刻成琴之焦尾，下鐫清高宗御題詩乙首，楷書：「不冰雖足用嚴寒，受墨終須遜舊端，應寄香山白少傅，陸機文讀試燒看。」款題「乾隆御題」，鈐印二：「比德」、「朗潤」。硯背雕成若古琴形制上有圓形鳳足及鳳沼，中為龍池，下為軫他，而於龍池上端刻：「太古」二字，左右各刻「烏玉」「墨硯」，皆篆書。此硯石質烏黑光亮，中有淡黃斑紋或線紋，經測其硬度，為摩氏硬度七度，其比重為2.6，應是屬於角閃石之類礦石，此硯清高宗御題詩亦著錄於《清高宗御製詩文全集八》，《御製詩四集》，卷六十四，頁廿一，收錄時間為乾隆四十四年，西元1779年。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176029&randomCode=12650817565",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176030&randomCode=657128849",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3104?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3104.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

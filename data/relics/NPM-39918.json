@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-39918",
+ "name": "哥窯 灰青釉圓碟",
+ "aliases": [
+  "Dish in greyish-green glaze, Ge ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.9公分 口徑12.7公分 底徑8.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷003269N000000000"
+ },
+ "summary": "碟，侈口，周弧形壁，平底，矮圈足。胎骨較厚，施青瓷釉，釉色灰青，器表釉面帶有深色細紋開片，內壁紋片較疏，外壁細密，口沿釉薄處，現出一圈灰色邊。器外底有六枚墊燒支釘痕跡，塗有赭黑色護胎汁。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=445751&randomCode=44372280469",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=445752&randomCode=810508530",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/39918?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_39918.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

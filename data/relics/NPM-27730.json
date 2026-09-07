@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27730",
+ "name": "哥窯 青瓷葵口碟",
+ "aliases": [
+  "Dish with hibiscus-shaped rim in celadon glaze, Ge ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.5公分 口徑15.3公分 底徑5.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷008665N000000000"
+ },
+ "summary": "六瓣葵花口，淺弧形壁，矮圈足，挖足過肩。全器施青瓷釉，釉表開深色紋片，施釉至足邊。底緣無釉，加塗深褐色護胎汁。底面刻一「己」字銘。相對於乾隆皇帝將出現在清宮舊藏瓷器底部之「甲、乙、丙」字，看成是等第的標記。此件作品之「己」字，似乎又透露出另一種可能性。總之，前人典藏標記的存在，明顯地反映出十八世紀清宮所藏文物，確有一部份經由市場流通管道而進入清宮。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401719&randomCode=33523774709",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401720&randomCode=37626875731",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27730?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27730.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

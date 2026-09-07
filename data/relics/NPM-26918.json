@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26918",
+ "name": "白瓷梅花式碗",
+ "aliases": [
+  "Plum-blossom shaped bowl with white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.0公分 口徑15.5公分 底徑4.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷002505N000000000"
+ },
+ "summary": "五瓣花口碗，斂口，深壁下斂，小底，矮圈足。外璧押劃出五道凹痕，口緣鑲銅釦。全器施米白色釉，外底足內及圈足底緣亦施釉。釉面遍佈細碎褐色開片，並帶有多處縮釉痕。因為此碗圈足並未露胎，因此可推測是採用覆燒技法，口緣也可見芒口痕跡。覆燒技法於北宋末年定窯普遍使用，一改過去只能用匣缽仰燒或支釘疊燒等技法，使瓷器燒造時可以節省不少空間，也可防止器物變形。口沿鑲銅釦亦受定窯影響，除了可遮掩覆燒時產生的芒口外，亦結合了當時人們對於金銀器飾的喜愛。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=429077&randomCode=78988955225",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=429078&randomCode=1704153589",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26918?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26918.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

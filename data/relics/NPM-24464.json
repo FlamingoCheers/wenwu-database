@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24464",
+ "name": "柬埔寨 12-13世紀 青銅鎏金 男神立像，日天或濕婆神",
+ "aliases": [
+  "Standing male deity, possibly Surya or Shiva, Cambodia, ca. 12th-13th century"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通高41.1公分 像高30.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000072N000000000"
+ },
+ "summary": "青銅鎏金男神像挺立於一方形小臺座上，其下有一大臺座狀似須彌座(不確定是否為原件所有)，鎏金斑駁，年代約十二至十三世紀。此神像髮式結成筒狀高髻，一圈圓冠環繞頭部，身佩瓔珞諸釧，裸上身，腰繫有魚尾式垂帛的山樸圍裙(sampot)，皆是柬埔寨君王樣式，裙裳衣紋作垂直平行直線，造型刻板，胸肌厚實，腿部肌肉結構處理手法簡略，是此時期柬埔寨地區造像特色。柬埔寨在此時期屬吉蔑文化，宗教信仰與造像藝術風格融合佛教與印度教風格，並與帝王崇拜概念相結合，故神像常作君王的穿戴形式。男神像雙手各持一物伸於前方，持物均為蓮花花苞，是日天(Surya，印度教中的太陽神)的常見持物造型；然而，此像額上有第三隻眼，也是濕婆神",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=142611&randomCode=74655822662",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=142612&randomCode=50904121005",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24464?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24464.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

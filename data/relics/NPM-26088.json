@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26088",
+ "name": "官窯 青瓷圓洗",
+ "aliases": [
+  "Washer with celadon glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.5公分 口徑27.5公分 足徑15.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017717N000000000"
+ },
+ "summary": "圓侈口，弧形淺壁，平底，淺圈足。週壁胎較薄，底稍厚。採支、墊結合裝燒法燒製，內外施青釉，呈色粉青微泛灰，外底部偏灰綠，釉面帶灰色大紋片，局部可見透明冰裂紋。外底面存留五個鮮見的小圓點支釘（如故瓷014116），圈足修飾勻整，足端舊磕傷處露出深灰色胎。器形和河南省寶豐縣清涼寺窯址出土的平底盤近似，小圓點支釘則見於日人米內山庸夫在傳稱郊壇下窯址採集到的瓷片。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401259&randomCode=50621683685",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401260&randomCode=514469624",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26088?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26088.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

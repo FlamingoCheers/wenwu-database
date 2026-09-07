@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-12",
+ "name": "燕山五桂紋鏡",
+ "aliases": [
+  "Mirror with scene of children at play (from the story Yen-shan wu-kuei)"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "長19.0公分 厚邊0.7公分 徑 21.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000273N000000000"
+ },
+ "summary": "鏡身作圓形，下方有一長柄，是宋代新興的形式，鏡背浮雕七個人物，表現竇燕山夫婦及其五子嬉玩的情景，寬鏡邊略高，長柄上飾蓮花及蓮葉。竇燕山名禹鈞，後周魚陽人，五子於五代至北宋初年相繼登科，銅鏡上常以寓意吉祥之圖文為裝飾，即含有「燕山五桂(通「貴」)、「五子登科」、「五子高陞」等吉兆。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1303760&randomCode=1857533270",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1303761&randomCode=899733588",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/12?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_12.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

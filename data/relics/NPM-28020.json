@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-28020",
+ "name": "白瓷劃花菊花紋折沿碗",
+ "aliases": [
+  "Angled-rim bowl with incised chrysanthemum decoration in white glaze"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.6公分 口徑22.6公分 底徑10.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷013845N000000000"
+ },
+ "summary": "碗，撇口出唇，深壁，平底，矮圈足。胎骨稍厚，整器施瑩潤白釉，釉面滿佈冷紋，口沿與足底均露白胎。口唇上劃花卉一周，碗內心劃菊花一枝，內外壁樸素無紋飾。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=548133&randomCode=91665120497",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=548134&randomCode=1766577507",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/28020?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_28020.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

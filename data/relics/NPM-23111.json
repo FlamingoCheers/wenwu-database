@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23111",
+ "name": "定窯 白瓷印花螭龍石榴紋盤",
+ "aliases": [
+  "Dish with impressed chi-dragon and pomegranate decoration in white glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.0公分 口徑9.2公分 底徑6.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷005526N000000000"
+ },
+ "summary": "臥足淺盤。敞口，淺壁，底寬平，外底微微內凹，僅留淺邊棱，使底邊成圈足。內底印花螭龍紋，身軀作S形，四肢四張狀，足掌蜷曲無趾，身有點瓣紋；螭紋襯卷枝石榴花葉紋，紋飾清晰；內壁近口沿處為一圈回紋，下有一圈卷草紋。全器滿釉，色牙白，僅口沿無釉，鑲銅釦棱。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=382364&randomCode=46065912149",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=382365&randomCode=628597004",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23111?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23111.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

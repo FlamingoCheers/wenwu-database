@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3044",
+ "name": "澄泥虎符硯",
+ "aliases": [
+  "Refined clay inkstone imitating lion-shaped identification device"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長14.45公分 最寬8.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文001656N000000000"
+ },
+ "summary": "澄泥製，硯作伏虎形，仿古銅器，色棕褐，器與蓋相合成虎符形，蓋面浮雕卷雲紋，硯堂為橢園形寬平，墨池琢呈太極圖，硯背為虎腹，周緣四足平舖，中刻篆書，「虎符」，二字，蓋內鎮清高宗御題硯銘乙首，楷書：「式為兵符形似虎，意寓炳文濟其武，坡云磨甕可供書，溪必陶泓稡爾許。」款題：「乾隆御題」，鈐印二：「會心不遠」、「德充符」，按此硯銘著錄於《清高宗御製詩文全集》八，《御製詩》四集，卷五十一，頁十五，時在乾隆四十三年，西元1778年所題。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=337292&randomCode=95414992864",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=337293&randomCode=1500801151",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3044?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3044.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

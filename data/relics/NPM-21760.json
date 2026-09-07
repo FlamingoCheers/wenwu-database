@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-21760",
+ "name": "龍泉窯 青瓷雙魚蓮瓣紋洗",
+ "aliases": [
+  "Washer with paired fish and lotus-petal decoration in green glaze, Longquan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.8公分 口徑13.5公分 底徑6.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003316N000000000"
+ },
+ "summary": "侈口、折邊，弧形壁，圈足。通體施粉青色釉，釉面光潤晶瑩。洗內底部堆塑雙魚，雙魚頭尾相對，眼、鰭以及魚身鱗片刻畫細緻。外壁有蓮瓣形凸起。足緣露胎，胎土呈暗棕色。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=168893&randomCode=80741713033",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=168894&randomCode=1019221196",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/21760?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_21760.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

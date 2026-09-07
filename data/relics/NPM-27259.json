@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27259",
+ "name": "定窯 白瓷劃花蓮花紋碟",
+ "aliases": [
+  "Dish with incised lotus decoration in white glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.1公分 口徑13.5公分 底徑9.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷009304N000000000"
+ },
+ "summary": "圓口，淺壁，平底，無足。全器施牙白色釉，釉色泛黃。因底面施釉，而口嵌銅釦，故知此器採覆燒法燒製而成。內底面劃一折枝蓮花，線條婉轉流暢。傳世帶木座(故瓷009304N000000001)，底刻「宋定窯蓮花碟」、「乙」字，和「古稀天子御玩」。因木座刻出與《珍陶萃美》圖冊(今日標為《陶瓷譜冊》)所見相同品名，足見《珍陶萃美》圖冊所畫正是這件作品。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403668&randomCode=82068764315",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403669&randomCode=295036502",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27259?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27259.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

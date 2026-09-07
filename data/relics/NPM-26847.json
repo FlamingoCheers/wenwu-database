@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26847",
+ "name": "定窯 劃花蓮花紋碗",
+ "aliases": [
+  "Bowl with incised lotus decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.3公分 口徑22公分 底徑6.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷010301N000000000"
+ },
+ "summary": "此碗敞口，作六瓣花式，沿邊微外展，弧形壁面，小圈足，口緣鑲有一圈銅釦。全器施以白釉，表面有釉流痕跡，色近米黃。內底壓印一道圓圈紋，隔出碗心和周壁之間的區域，但以劃花手法勾勒出來的花紋突破了二區的界線，只見一枝蓮自周壁捲曲延伸至碗心，周壁則有捲草環繞。這些圖樣被以輕柔婉轉的刀刻線條加以勾勒，在碗的內壁造成一種流暢優美的韻律感。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=411056&randomCode=72786938015",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=411057&randomCode=35518521263",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26847?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26847.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

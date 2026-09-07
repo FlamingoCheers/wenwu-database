@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27116",
+ "name": "定窯 印花蓮塘浴鵝紋碗",
+ "aliases": [
+  "Bowl with impressed geese and lotus pond design, Ding ware"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.1公分 口徑19.5公分 底徑6.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014639N000000000"
+ },
+ "summary": "中大型敞口碗，弧形深壁，圈足。滿釉，僅五花口鑲銅釦。器裡印花，器壁以回紋為邊，飾三組雙鵝戲於荷塘中，姿態各異，互為繾綣呼應狀，細密的水波紋輕淺的填滿隙地。碗心為一組荷花葉與蓮蓬。此種鵝鴨戲水的印花題材，在定窯瓷器中頗為常見。傳世刻有「劉家模子」的印模，即以相似構圖的水禽為主題。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=404820&randomCode=93637372714",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=404821&randomCode=835578965",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27116?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27116.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

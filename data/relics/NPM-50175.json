@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-50175",
+ "name": "玉劍璏",
+ "aliases": [
+  "Jade Scabbard Slide"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長11.3公分 寬2.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉002010N000000000"
+ },
+ "summary": "白玉，局部有黃赭斑。全器呈長方板形，板面平，其兩端向內卷，下端有一方形穿帶孔。器面為仿漢劍璏的獸面紋樣。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=129536&randomCode=36176284306",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=129537&randomCode=502018463",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/50175?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_50175.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

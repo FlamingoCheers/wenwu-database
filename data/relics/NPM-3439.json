@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-3439",
+ "name": "十二環瓶",
+ "aliases": [
+  "Vase with twelve ring handles"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "寬20公分 高42.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅002223N000000000"
+ },
+ "summary": "圓瓶，附蓋、侈口、折肩、回首獸形耳、鼓腹下縮、圈足，蓋為六瓣花形，肩有獸面銜環，共十二個，一耳殘脫，口沿一側至腹傷殘。蓋飾圓渦紋，頸飾　　紋，腹飾　　紋、蕉葉紋，內填獸面紋，足飾　　紋。（無法辨識）",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=40318&randomCode=70145111266",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=40319&randomCode=41226935148",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3439?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3439.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

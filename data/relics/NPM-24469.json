@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24469",
+ "name": "青銅鎏金菩薩立像",
+ "aliases": [
+  "Gilt bronze standing Bodhisattva"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通高20.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000077N000000000"
+ },
+ "summary": "此像立於一方形小臺座上，為柬埔寨地區作品，年代約十二至十三世紀，柬埔寨在此時期屬吉蔑文化，佛教造像之面相與體態亦脫離印度原型，轉化為柬埔寨人種特色，成為「柬埔寨版」佛像的獨特魅力，此像即為一例。此像左手持蓮苞，右手似持念珠，皆是菩薩常見持物。菩薩臉部輪廓線條方硬，髮式結成筒狀高髻，一圈圓冠環繞頭部，上身全坦，佩項鍊諸釧，腰部縛帶尾端呈魚尾狀，下身著裙裳，此種穿戴打扮為柬埔寨君王樣式；衣紋作垂直平行直線，造型十分刻板，胸肌厚實，腿部肌肉粗壯而結構處理手法簡略，皆是此時期柬埔寨地區作品之特色。此時期柬埔寨宗教信仰並與帝王崇拜概念相結合，故神像常作君王的穿戴形式。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=139007&randomCode=77256639216",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=139008&randomCode=1800469580",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24469?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24469.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

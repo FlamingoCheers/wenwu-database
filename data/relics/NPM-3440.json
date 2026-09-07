@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-3440",
+ "name": "獸面紋瓶",
+ "aliases": [
+  "Bronze vase with animal mask pattern"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高29.1公分 腹深24.7公分 口徑長10.4公分 寬9.2公分 底徑長12.6公分 寬10.7公分 腹圍48.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅000022N000000000"
+ },
+ "summary": "圓瓶，侈口，直頸，環耳，鼓腹，圈足。頸飾獸面紋，以雷紋為地，耳飾綯紋，足飾波浪紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=29032&randomCode=51315699382",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=29033&randomCode=25910818037",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3440?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3440.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

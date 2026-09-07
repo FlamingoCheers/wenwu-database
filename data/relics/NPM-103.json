@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-103",
+ "name": "褐漆葵花式盤",
+ "aliases": [
+  "Brown lacquered hibiscus-shaped dish"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1368
+ ],
+ "category": "漆器",
+ "material": null,
+ "dimensions": "高2.7公分 口徑15.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈漆000006N000000000"
+ },
+ "summary": "盤，木胎，七瓣葵花式口，矮圈足，通身髹醬褐色漆，口緣包鑲一圈細窄銅邊，圈足內中央朱漆繪一橢圓印，印文漫渙不識。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=289582&randomCode=28359932781",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=289583&randomCode=35971518457",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/103?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_103.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26332",
+ "name": "官窯 青瓷葵口洗",
+ "aliases": [
+  "Washer with hibiscus-shaped rim in celadon glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.1公分 口徑12.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷013969N000000000"
+ },
+ "summary": "花口洗，口沿分六瓣，弧形斜淺壁，底部淺挖臥足，採墊燒法燒製，內外施青釉，呈色灰青。口下有流釉痕跡，口沿釉薄處，現出灰棕色邊，釉面有灰棕色紋片，足邊露出深色胎。底面鐫刻乾隆皇帝〈詠官窯葵花小盂〉御製詩，內容為：「宣和陶器用功巧，脩內督之奄豎倫。設曰葵花喻忠赤，師誠輩豈果其人」。詩末署「乾隆丙申夏御題」（乾隆四十一年，1776）紀年款識，並鈐「比德」一印。詩文透露出乾隆皇帝將這件作品看成是北宋修内司監造生產的官窯瓷器，而六花口的造型特徵，讓他產生葵花向陽生長的聯想。進而將之看成具有忠誠的隱喻，展現出帝王鑑賞古物，為避免招致玩物喪志之譏，於是將之提升至闡述為政之道的層面。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401376&randomCode=15823069285",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401377&randomCode=80394291766",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26332?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26332.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

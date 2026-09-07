@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-49247",
+ "name": "玉童子",
+ "aliases": [
+  "Jade child"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬4.0公分 高5.9公分 厚1.55公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001090N000000000"
+ },
+ "summary": "原為青白玉，器表有一層不自然的褐色沁斑、多處已剝落。是否是在最初雕琢成形後即加以染色？還是流傳至明晚期才加以染色，有待日後的分析研究。全器琢為一單足站立的小男童。剃髮，僅留頭頂一束「髻」。垂眉、大眼、咧口。著直領對襟背心及菱形格紋長褲。手握似為大束荷葉枝梗。有上下通心穿，可穿繫繩結，便於佩掛把玩。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=163158&randomCode=28460759209",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=163159&randomCode=92556599575",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/49247?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_49247.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

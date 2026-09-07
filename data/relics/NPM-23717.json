@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23717",
+ "name": "榆次窯 青瓷花卉紋碗",
+ "aliases": [
+  "Bowl with floral decoration in celadon glaze, Yuci ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.4公分 口徑21.2公分 底徑5.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002237N000000000"
+ },
+ "summary": "口略斂，深斜壁下收，小圈足，外壁施青釉，釉色透而泛灰，釉層多見小氣泡，外壁除弦紋一周外，餘皆光素無紋。內壁刻劃花為飾，最外一圈長形葉瓣，除此之外飾花葉，花葉枝梗彎曲，隙地水波紋的動感，斜刀刻劃的胎體在施釉後，所造成的積釉處厚薄不一的美感，交織成多樣的審美意趣。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=168889&randomCode=19973767890",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=168890&randomCode=2046535729",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23717?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23717.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

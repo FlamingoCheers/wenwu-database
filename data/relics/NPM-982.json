@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-982",
+ "name": "宋四家真蹟　冊　宋黃庭堅致景道十七使君尺牘並和王仲至少監詠姚花詩四首",
+ "aliases": [
+  "Authentic Works by the Four Song Masters: Letter to the Ambassador Jingdao and Four Odes to Plum Blossoms Echoing the Vice Director Wang Zhongzhi"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "书画",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故書000236N000000004\n more\n \n 故書000236N000000005\n 故書000236N000000006\n 故書000236N000000007\n 故書000236N000000008\n 故書000236N000000009"
+ },
+ "summary": null,
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=522403&randomCode=213070490",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=522404&randomCode=175548894",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/982?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_982.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

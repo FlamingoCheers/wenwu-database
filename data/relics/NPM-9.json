@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-9",
+ "name": "異獸硯滴",
+ "aliases": [
+  "Water dropper in the shape of an auspicious animal"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1368
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "長17.9公分 寬8.8公分 高7.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅002187N000000000"
+ },
+ "summary": "文房用具中的硯滴，是將水滴入硯台的一種工具，《長物志》認為古銅或玉做的辟邪、蟾蜍等動物為最適合。此異獸硯滴，蹲坐的異獸有獨角、偶蹄，背上有注水處，口部則有出水孔。將之置於桌案，其姿態雍容不迫，彷彿看著寫字作畫的文人，是極俱動態且精好的文房用具。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=151322&randomCode=34025581561",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=151323&randomCode=1074554181",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/9?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_9.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

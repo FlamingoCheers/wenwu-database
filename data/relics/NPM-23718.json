@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23718",
+ "name": "臨川窯 白瓷花觚",
+ "aliases": [
+  "Gu vase in white glaze, Linchuan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高24.0公分 口徑15.2公分 底徑8.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002238N000000000"
+ },
+ "summary": "觚式瓶，大撇口、小鼓腹、長脛外撇，脛部下方有破損。全器光素無紋，內外施透明釉，釉表有斜向的開片紋，並透出潔白的胎色。底外除著地處露胎一圈外皆滿釉，但未見款識。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394156&randomCode=69655904347",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394157&randomCode=683929989",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23718?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23718.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23542",
+ "name": "官窯 青瓷圓洗",
+ "aliases": [
+  "Round washer with celadon glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.1公分 口徑15.3公分 底徑11.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷005050N000000000"
+ },
+ "summary": "圓侈口，斜直深壁，平底無足。周壁胎較薄，底稍厚。外底微凹，內底略凸。滿釉支燒，通體施青釉，釉色粉青，口沿釉薄處現出灰邊，釉面開棕色大紋片。外底排佈五枚圓點狀支燒痕，支痕中露出深灰色的胎體。浙江省杭州市老虎洞窯址和南宋太廟區域出土有類似的標本。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=392189&randomCode=12662913541",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=392190&randomCode=767794819",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23542?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23542.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

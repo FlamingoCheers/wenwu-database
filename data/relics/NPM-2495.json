@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2495",
+ "name": "建陽窯 烏金釉碗",
+ "aliases": [
+  "Tea bowl in black glaze, Jianyang ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.8公分 口徑14.3公分 足徑3.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷016990N000000000"
+ },
+ "summary": "茶碗，侈口，深斜壁，圈足矮小。胎骨較薄，黑釉瑩潤如鏡，略有縮釉小點，樸素無紋飾。底足均露灰胎，塗有醬色薄汁。口沿加鑲銅釦。此類大口小足、碗壁斜直形者，倒置形似斗笠，通稱「斗笠碗」，點茶時易乾不留渣，因此頗盛行於宋代。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=433991&randomCode=55916057088",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=433992&randomCode=186269350",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2495?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2495.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

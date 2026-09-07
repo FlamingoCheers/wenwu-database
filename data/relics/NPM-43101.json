@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43101",
+ "name": "青花花卉紋螭耳方罐",
+ "aliases": [
+  "Square jar with chi-dragon-shaped handles and floral decoration in underglaze blue"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高 6.8、口 2x2、底 6.5x6.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000040N000000000"
+ },
+ "summary": "小方罐，方體，斜肩，小口的小罐子。斜肩上貼飾兩繫耳，作壁虎狀的小螭形。足底處露胎。器身以青花繪折枝花卉，青花色澤深濃，下比快速活潑，有逸筆草草的趣味。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=398592&randomCode=76874606509",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=398593&randomCode=154107982",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43101?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43101.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27648",
+ "name": "定窯 白瓷印花雲龍紋洗",
+ "aliases": [
+  "Brush washer with impressed dragon and cloud decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.7公分 口徑12.5公分 底徑9.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷003044N000000000"
+ },
+ "summary": "洗，侈圓口，淺周壁，平底無足，帶銅釦。器內口沿下印回紋一道及弦紋二道，周內壁印勾連雲紋，內底心印一尾蟠龍紋，龍紋周圍隙地滿飾雲紋。胎骨較厚，施罩白釉，釉色牙黃，器表釉面有若干縮釉棕眼痕跡。定窯主要窯址位在河北省曲陽縣澗磁村、燕山村一帶，窯場廣佈，是宋元時期北方最著名盛燒的白瓷窯場。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469961&randomCode=17792896040",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469962&randomCode=1564955774",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27648?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27648.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

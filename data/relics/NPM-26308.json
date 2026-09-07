@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26308",
+ "name": "官窯 青瓷劃花蟠螭紋盤",
+ "aliases": [
+  "Dish with incised coiling chi-dragon decoration in celadon glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.2公分 口徑12.8公分 足徑5.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014112N000000000"
+ },
+ "summary": "圓口，口沿鑲銅邊，周壁極淺，矮圈足。盤面淺劃蟠螭紋。墊燒，內外施青釉，顏色灰青。釉面有棕色及透明紋片。圈足修飾端整，足壁可見多層施釉的特徵，足端無釉，局部顯露出灰黑色胎。一般所見南宋官窯器，多數素面無紋，即使是老虎洞和郊壇下兩個窯址也鮮見帶紋樣的標本，相形之下，更顯得這件傳世器稀珍若晨星。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393669&randomCode=50442411582",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393670&randomCode=321837642",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26308?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26308.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

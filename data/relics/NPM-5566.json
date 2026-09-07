@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-5566",
+ "name": "鳳紋簋",
+ "aliases": [
+  "Gui food container with phoenix pattern"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  17
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高12.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000861N000000000"
+ },
+ "summary": "圓簋，侈口、雙耳、圓腹、圈足，耳作獸首形附珥。頸飾夔紋，中央為小獸首，腹飾鳥紋，足飾夔紋，均以雷紋為地。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=3369&randomCode=1545413680",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=3370&randomCode=587613998",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5566?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5566.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

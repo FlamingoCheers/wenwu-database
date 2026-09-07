@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26100",
+ "name": "官窯 青瓷蔗段式洗",
+ "aliases": [
+  "Sugarcane-shaped washer with celadon glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.8公分 口徑18.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017909N000000000"
+ },
+ "summary": "此洗作三十四段花口，外壁隨口形分成三十四段垂直的曲面，口緣亦作加飾弦紋二道。胎厚釉濃，青色瑩潤，凹痕積釉，釉色較深。器內紋片稀疏，外較細密。底周有支釘痕十二枚，露灰黑色胎。斂圓口，深壁，平底無足。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=341709&randomCode=61568472417",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=341710&randomCode=70646971171",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26100?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26100.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

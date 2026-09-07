@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-6701",
+ "name": "召仲簠",
+ "aliases": [
+  "Fu rectangular grain vessel of Shao Zhong"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  17
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高23.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000120N000000000"
+ },
+ "summary": "本器蓋器造型基本相同，長方形，腹斜收，圈足每邊有缺，兩側置獸耳一對，蓋沿與器合口處，每邊正中央有一牛首，可以固定器蓋不致滑落。全器裝飾吐舌蟠虺紋。器蓋對銘，銘文作：「唯六月初丁亥，冶仲考父自作壺，用祀用饗多福祿，用旂眉壽萬年無疆，子子孫永寶是尚。 」器銘泐蝕且輭弱無力，內容摹自宋代《宣和博古圖》的「周仲丁壺」。本件器物是乾隆三十四年(1769)頒賜國子監的「周笵十器」之一，名之為「周召仲簠」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=414&randomCode=46261480079",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=415&randomCode=27529441",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/6701?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_6701.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

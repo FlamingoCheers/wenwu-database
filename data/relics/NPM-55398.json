@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-55398",
+ "name": "龍形玉佩",
+ "aliases": [
+  "Jade dragon pendant"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "連座高7.5公分 玉高6.7公分 最長8.6公分 寬2.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉003358N000000000"
+ },
+ "summary": "白玉，玉質溫潤。圓雕龍首，外型逼真，紋飾線條細膩；棒狀身軀為之字形，表面陰線刻菱格紋以表現龍鱗。附長方形波濤紋木座一只。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397936&randomCode=79225940626",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397937&randomCode=1081645114",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/55398?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_55398.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,37 @@
+{
+ "relic_id": "NPM-76810",
+ "name": "越南 11-12世紀 白瓷刻花蓮紋盤",
+ "aliases": [
+  "Brown Dish with Lotus-Petal Band, Vietnamese"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "徑9.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "南購瓷000064N000000000"
+ },
+ "summary": "此器為一淺盤，圍繞盤口邊緣飾丸狀裝飾，盤心有刻花紋器表，外圍飾滿高浮雕蓮瓣紋，可能做佛教儀式道具。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=900531&randomCode=1700524066",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/76810?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_76810.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

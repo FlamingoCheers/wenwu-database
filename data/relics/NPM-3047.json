@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3047",
+ "name": "澄泥蟠螭硯",
+ "aliases": [
+  "Refined clay inkstone with coiling chi-dragon pattern"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長17.1公分 寬10.6公分 高2.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000547N000000000"
+ },
+ "summary": "硯作長方形，澄泥製，其色黃而淡，質輕，極為細緻，《西清硯譜》云為：「澄泥中最上品者」。墨池中浮雕一伏臥螭紋，然已有漫漶不清之感，硯面受墨處深窪，硯背上深下淺，此硯正背兩面，應均可受墨，通體滿佈墨鏽，應是宋代之物無疑，硯壁周側環刻清高宗御題銘乙首，此銘亦收入《清高宗御製詩文全集》一，《御製文》二集，卷四十，頁五－六。銘曰：「囊汾水之土乎，規南皮之瓦手，是何質堅而色古乎，扣之鏗然如戛金石，其徐韻悠揚又如琴瑟之搏拊乎，蟠以文螭，有若蛟龍之興雲雨乎，硯乎、硯乎，供奉懋勤，渙汗其大，號渙玉居，庶幾无咎乎。」款題「乾隆戊戌御銘」，鈐印一：「幾暇臨池」，按「戊戌」為「乾隆四十三年」，西元1778年。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173055&randomCode=72079436539",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173056&randomCode=814138053",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3047?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3047.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-58",
+ "name": "定窯 單把杯",
+ "aliases": [
+  "Single handled cup"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.2公分 口徑16.9公分 底徑10.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷016628N000000000"
+ },
+ "summary": "敞口碗形、淺壁、平底、口邊淺稜微凸起，稜下一側平伸出四瓣如意式?沿，約佔五分之一器周，下接窄扁泥條半環狀耳；?沿表面押印卷草紋，紋理清晰。碗身陶輪成形，外壁留有鏇痕；?與耳係外接於碗身，有修刀押泥的接痕。釉色牙白，有流釉淚痕。這種過去稱為「洗」的器形，實為北宋、南宋與金朝皆盛行的官方酒器造形。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=621184&randomCode=928265433",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=621185&randomCode=452045706",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/58?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_58.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

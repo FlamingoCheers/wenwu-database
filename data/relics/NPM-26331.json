@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26331",
+ "name": "湘湖窯 青白瓷刻花龍紋洗",
+ "aliases": [
+  "Washer with carved dragon decoration in bluish-white glaze, Xianghu ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.1公分 口徑12.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷013968N000000000"
+ },
+ "summary": "此洗直口，深腹，器外壁有兩道凸出的稜線，平底圈足。此器釉色白中微青， 釉光澄澈，積釉成湖水藍， 足緣露胎，口沿則鑲有銅扣。內壁近口緣處有回紋一周，並以兩道弦紋區隔之，底心刻有一條蜷曲的龍，背景以雲紋相襯。青白瓷盛產於江西景德鎮的湖田窯、湘湖窯，因透明釉中所含鐵份在還原焰下成青藍色調，有些釉色呈均勻的淺青色，有些則是在積釉處始見青色，故又稱為「影青」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403770&randomCode=89012244467",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403771&randomCode=22907703326",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26331?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26331.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27263",
+ "name": "定窯 白瓷印花鴛鴦紋盤",
+ "aliases": [
+  "Plate with impressed mandarin ducks decoration in white glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高1.5公分 口徑14.4公分 底徑19.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷009308N000000000"
+ },
+ "summary": "圓口，窄折沿，淺壁，平底，底面內陷。全器施牙白色釉，釉色偏黃。因口嵌銅釦，且底面施釉，故知使用覆燒法燒製。內壁模印勾連雲紋，底印蓮花水草，中飾鴛鴦一對。傳世帶木座(故瓷009308N000000001)，底刻「宋定窯雙鴛碟」、「乙」字和「古稀天子御玩」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=404908&randomCode=55258494960",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=404909&randomCode=464496867",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27263?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27263.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

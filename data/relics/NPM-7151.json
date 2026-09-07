@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-7151",
+ "name": "十二生肖八卦鏡",
+ "aliases": [
+  "Bronze mirror with animals of the Chinese zodiac and the eight trigrams"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑22.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000342N000000000"
+ },
+ "summary": "圓形鏡，龜形鈕，八角形鈕座。以鏡鈕為中心，依次環以八卦紋、十二生肖紋及銘文。銘文一周二十字：「水銀呈陰精，百鍊得為鏡。八卦氣象備，衛神永呆（保）命。」 宋元時期墓葬多見以鏡鎮邪。（宋）周密《癸辛雜識》即謂：「世大斂後，用鏡懸棺，蓋以照尸取光明破黑暗之義」。河北宣化遼墓更有將鏡子懸於墓頂，搭配星象圖以象徵天象。與此相似的八卦鏡流行於宋元時期，除出土於宋代窖藏，更見於元代墓葬。一面與本鏡類似的銅鏡即懸於甘肅漳縣一座元代墓葬的墓頂。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1138&randomCode=605425387",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1139&randomCode=1443737461",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/7151?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_7151.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

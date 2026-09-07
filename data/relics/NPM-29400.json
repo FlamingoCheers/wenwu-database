@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-29400",
+ "name": "定窯 白瓷印花雲鳳紋笠式碗",
+ "aliases": [
+  "Conical bowl with impressed decoration of cloud and phoenix in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.6公分 口徑19.7公分 底徑3.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷010756N000000000"
+ },
+ "summary": "斗笠式碗，寬圓口、小圈足，器壁深斜；足滿釉，口鑲銅稜釦。器裡印花為飾，口沿下回紋一道。周壁印雙飛鳳，鳳首若鴛鴦，而長尾若雲帶拖連尾翼，身姿華麗，與《營造法式》「真人」騎跨拖著雲尾的鳳鳥形樣相似；隙地填飾雲紋。底心印朵花。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=623069&randomCode=1607837598",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=623070&randomCode=1955579966",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/29400?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_29400.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

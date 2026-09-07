@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-62120",
+ "name": "錢引庫檢察印",
+ "aliases": [
+  "Seal of the qianyin repository inspector (qianyinku jiancha yin)"
+ ],
+ "dynasty": "西夏",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1032,
+  1227
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高5.7公分 長4.5公分 寬4.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅000443N000000000"
+ },
+ "summary": "方形，板狀，橛鈕，印面作陽文，篆體六字：「錢引庫檢察印」。配有素淨的木方盒，盒內另裝盛呈文一紙，考訂該印源流。此印得自烏魯木齊屯田墾地出土，收於《西清續鑑‧甲編》附錄，圖說內容較呈文精簡。據考，《宋史‧食貨志》載北宋崇寧以前使用「錢引」紙幣，對照〈職官志〉說明交引庫負責給印出納，以及左藏庫設有「提轄檢察官」，可知此印是用於錢鈔發行的認證。然而，宋代疆域未及烏魯木齊，與歷代官印相比，形制粗率，遂認為此印乃西夏學習宋制之遺存。 現就此印用朱文、印鈕無穿孔的形式，與西夏官印使用白文，且保留古印鈕穿孔的特色不同。宋制銅印在烏魯木齊出土，或有其他傳世緣由，現已不得而知。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=333852&randomCode=29607650455",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=333853&randomCode=13815012809",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/62120?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_62120.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

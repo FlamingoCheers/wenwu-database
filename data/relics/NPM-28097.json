@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-28097",
+ "name": "定窯 白瓷弦紋三足爐",
+ "aliases": [
+  "Tripod incense burner with linear decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高9.8公分 口徑18.7公分 底徑17.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷008637N000000000"
+ },
+ "summary": "三足爐，直圓口，深直壁，平底，三短足。胎骨厚重，白釉微黃，面多磨擦痕跡。外壁飾弦紋六道，方稜凸起。口沿及足底均露灰白色胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=557750&randomCode=36534991317",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=557751&randomCode=223790946",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/28097?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_28097.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

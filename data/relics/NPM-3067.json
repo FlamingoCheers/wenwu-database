@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3067",
+ "name": "蕉葉白文瀾硯",
+ "aliases": [
+  "Plantain-white inkstone with wave design"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長23.1公分 寬14.1公分 高6.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文001613N000000000"
+ },
+ "summary": "端石，硯作長方抄手式，覆手從上斜下，下端無堵，兩跗高約四公分，石色紫紅中泛白，石質極細潤，硯面乎寬，墨池深窪，硯面周緣淺雕波浪紋一環，刀法頗圓潤活潑，然部份已漫漶不清，硯首壁鐫清高宗御題銘乙首，楷書：「硯者研理存焉，質蕉白號文瀾，波不因風，石也為紈，雖觀水之有術，要溯流而窮源，願含英咀華者，毋徒侈為風雲月露之篇。」款題：「乾隆戊戌夏御銘」，鈐印二：「幾暇怡情」、「得佳趣」，按此硯銘亦著錄於《清高宗御製詩文全集》一，《御製文》二集，卷三十九，頁十三。「戊戌」為清乾隆四十三年，西元1778年。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=177619&randomCode=88460953041",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=177620&randomCode=1720234273",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3067?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3067.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

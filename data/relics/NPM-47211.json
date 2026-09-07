@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-47211",
+ "name": "汀渚鷺鷥紋玉頂",
+ "aliases": [
+  "Jade finial with egret and shoal decoration"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "杂器",
+ "material": null,
+ "dimensions": "底徑4.76x3.93公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷009940N000000001"
+ },
+ "summary": "木蓋玉頂。玉頂為白玉質，玉色泛黃，外型略如三角椎狀體，玉匠就形做多層次鏤空雕刻，刻作主題為荷塘鷺鷥。鷺鷥位於最外層，花莖荷葉翻轉交疊出的複雜空間，與佇立回首的鷺鷥相襯相映，讓人一眼即可望見鷺鷥明確的身影。而頂端大朵盛開的花卉，要比其他物象大，相對之下也大得不成比例，則為取景於自然的製作，添加了裝飾性，也預設了觀賞者多角度的觀賞眼光。本器目前為院藏〈明 無款 孔雀綠釉弦紋三足爐〉（故瓷9940）之木蓋玉頂。類似之玉頂，有光素、有鏤紋者，後者清宮收藏甚夥，多嵌於爐器蓋面。至於原是飾於冠帽或是爐蓋上，目前尚無定論。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=666095&randomCode=1545413680",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=666096&randomCode=587613998",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47211?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47211.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

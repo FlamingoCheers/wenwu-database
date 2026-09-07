@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1869",
+ "name": "玉雞",
+ "aliases": [
+  "Jade chicken"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長4.7公分 寬2.1公分 高3.1公分；木座長4.3公分 寬2.7公分 高0.9公分 連座高3.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉005619N000000000"
+ },
+ "summary": "玉質帶綹，雕作一低首蹲坐玉雞，雞首與尾的局部烤皮褐斑。頭部羽毛以長線條刻之，表現自然垂掛於脖子上貌，翅膀和尾部則使用長短疏密、或斜向、或弧型的線條刻畫，製造羽毛的厚度與豐富感。附四足木座。貯在院藏〈紫檀木鑲竹絲轉盤格子〉（故雜1284）。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=996986&randomCode=1648820604",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=996987&randomCode=1784388896",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1869?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1869.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-6",
+ "name": "夷則鎛鐘",
+ "aliases": [
+  "Chime bell with inscription \"Yi Ze\""
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通高28.2公分 舞脩16.5公分 舞廣13.3公分 鼓間14.9公分 銑間18.4公分 甬高6.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000742N000000000"
+ },
+ "summary": "此鐘為平口式，鐘鈕為相向的雙龍造形，器身以交錯的立體蟠虺紋裝飾。鉦間鑄有銘文，一面書十二律中的「夷則」。經過現代測音，為升G調。另一面銘文為「大和」，原應為「大晟」，可能是靖康三年(1127)金人掠奪宋朝宮中樂器，將「大晟」刮去，改為「大和」。器鈕上有後配之鎏金鈎配飾。鎏金鈎飾蝙蝠祥雲紋，中間配有元末明初乳丁璧螭虎玉珮，中間玉璧兩側為啣桃及啣芝螭虎。相近之玉珮飾出土於雲南昆明荷葉山。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2825&randomCode=1789944513",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2826&randomCode=1875981801",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/6?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_6.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

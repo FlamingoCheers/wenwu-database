@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-20245",
+ "name": "官窯 青瓷貫耳壺",
+ "aliases": [
+  "Vessel with tubular lug handles with green glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高21.8公分 口徑8.1公分 底徑9.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003336N000000000"
+ },
+ "summary": "仿商代青銅器形，微斂口，短頸，雙貫耳，碩腹，圈足。頸部及腹部共飾三道凹弦紋，兩面中央及兩側有模版對合痕跡。全器施青釉，釉面佈滿褐色開片紋。足底緣露胎，塗赭色護胎汁。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321851&randomCode=69539456207",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321852&randomCode=56004176341",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/20245?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_20245.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

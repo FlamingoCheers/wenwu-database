@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27264",
+ "name": "定窯 白瓷葵花式洗",
+ "aliases": [
+  "Hibiscus-shaped washer in white glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.5公分 口徑14.5公分 底徑11.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷009309N000000000"
+ },
+ "summary": "六瓣葵花形，侈口，淺弧形壁，平底無足。全器施牙白色釉，釉色較白。素面無文，內周壁因葵花形器身而凸起六道稜線。口嵌銅釦，平底施釉，故知使用覆燒法燒製。傳世帶木座(故瓷009309N000000001)，底刻「宋定窯葵花洗」、「甲」字和「古稀天子御玩」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=433275&randomCode=26147030906",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=433276&randomCode=66548208520",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27264?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27264.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26846",
+ "name": "定窯 白瓷劃花雙螭紋笠式碗",
+ "aliases": [
+  "Conical bowl with incised paired chi-dragons decoration in white glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.6公分 口徑20.1公分 底徑3.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷010300N000000000"
+ },
+ "summary": "斗笠式碗，廣口、斜壁、小圈足，滿釉僅口緣鑲銅釦稜。器裡劃花為飾，以回紋為邊飾，滿壁雙螭首尾相銜的紋飾：螭首面向碗心，具雙鬚、彎耳、單角，柔軟蜿蜒的長軀，分岔花尾，四足蜷握無爪。中央圓底平凹，劃一朵不規則三瓣花紋。匠者以單線、複線並用，流暢生動。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=411050&randomCode=75344535026",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=411051&randomCode=83739884331",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26846?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26846.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

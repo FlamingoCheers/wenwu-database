@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19745",
+ "name": "白瓷蓮紋膽瓶",
+ "aliases": [
+  "White gallbladder-shaped vase with lotus decoration"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高26.5公分 口徑5.0公分 底徑7.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002632N000000000"
+ },
+ "summary": "口微撇，鑲銅扣，長頸，溜肩，斂腹，矮圈足略外撇。全器敷白色化妝土，飾劃花紋樣，頸部飾雲雷紋，腹部飾卷雲紋錦地轉枝蓮花紋，近圈足處飾卷渦紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318557&randomCode=39171276026",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318558&randomCode=61251588594",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19745?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19745.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

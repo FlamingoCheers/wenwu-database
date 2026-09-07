@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3048",
+ "name": "澄泥璧水硯",
+ "aliases": [
+  "Refined clay inkstone with bi-shaped disc design"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長8.6公分 寬8.6公分 高1.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文001628N000000000"
+ },
+ "summary": "硯作圓形，澄泥製，受墨處窪下，具圓如璧，硯面周環凹下如渠，而為墨池，硯堂微窪，色赭黃，全器樸素無紋，覆手平整，中鐫清高宗御題銘一首：「圍不逾尺，文房小品，陶自趙宋，經幾百稔，壁池鐵銹，醉乎墨瀋，繭版蠅頭，宜臨玉枕」，款題：「乾隆戊戌仲夏御銘」。鈐印二：「會心不遠」、「德充符」，「乾隆戊戌」為清乾隆四十三年，西元1778年。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=185679&randomCode=86832126997",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=185680&randomCode=484207074",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3048?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3048.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

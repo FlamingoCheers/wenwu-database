@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-1769",
+ "name": "龍泉窯 青瓷折沿洗",
+ "aliases": [
+  "Angled-rim brush washer with green glaze, Longquan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.7公分 口徑16.8公分 底徑9.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷013900N000000000"
+ },
+ "summary": "折沿洗，寬口沿平折，器壁深而直，下腹斜折為底，圈足。釉色粉青，均勻潤澤。明淨無瑕，僅足端無釉，胎色灰。此種形式的折沿洗並不多見，簡練大方而充分呈現釉色美感。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=340181&randomCode=91480687558",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=340182&randomCode=935356366",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1769?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1769.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

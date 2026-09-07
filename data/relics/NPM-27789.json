@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27789",
+ "name": "定窯 白瓷劃花魚紋碗",
+ "aliases": [
+  "Bowl with incised fish decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高公14.4分 口徑29公分 底徑15.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014203N000000000"
+ },
+ "summary": "大碗，圓口，深弧壁，平底，圈足，口緣鑲金屬釦。全器施以白釉。器外壁下削一道弦紋，弦紋下劃三道蓮瓣紋。碗內修整光滑，劃有游魚一尾飾水藻紋樣。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=472434&randomCode=24761171818",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=472435&randomCode=64035481779",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27789?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27789.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

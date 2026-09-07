@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3065",
+ "name": "紫端太平有象硯",
+ "aliases": [
+  "Duan inkstone with \"Elephant of Peace\" motif"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長20.1公分 寬11.4公分 高2.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000554N000000000"
+ },
+ "summary": "硯作長方形，端石，硯色紫泛紅，有青綠斑紋，堅緻細潤，《硯譜》云為宋老坑端石，受墨處刻為瓶形，瓶口至肩刻為墨池，墨池上方正中，有一石眼，猶如一涵星，硯背及四側，皆有剝蝕硯象及沙眼痕跡，硯背上方刻泰卦爻象，其下刻象形，硯上方側面鐫清高宗御題詩二首，皆楷書：「爾時邪說倡豐亨，有象因之頌太平，可惜端溪一片石，並無其實袛孤石。」另一首，「翠為雲氣紫為霞，溫潤而貞製不華，略幸蔡京識文義，較明漆器卦無差。」款署：「乾隆御題」，鈐印二：「古香」、「太璞」。此二詩收入《清高宗御製詩文全集》八，《御製詩》四集，卷五十五，頁十六－十七，為清乾隆四十三年（戊戌），西元1778年作品。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173122&randomCode=40136179064",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173123&randomCode=91768802836",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3065?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3065.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

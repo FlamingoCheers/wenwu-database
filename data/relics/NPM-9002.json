@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-9002",
+ "name": "淳熙元寶",
+ "aliases": [
+  "Coin with inscription \"Chunxi yuanbao\""
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "钱币",
+ "material": null,
+ "dimensions": "待測量",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈錢001179N000000000"
+ },
+ "summary": "方孔圓錢。「淳熙元寶」為世界最早的記年錢，自淳熙七年（1180）開始背面添加紀年，較歐洲記年錢早三百餘年。有篆、楷兩種字體，又有銅、鐵兩種材質。此枚銅錢正面有楷書「淳熙元寶」四字，背面方孔上下有「十三」二字，代表鑄於淳熙十三年。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=105745&randomCode=29144788999",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=105746&randomCode=59035761715",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/9002?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_9002.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

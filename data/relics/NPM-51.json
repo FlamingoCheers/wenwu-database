@@ -1,0 +1,40 @@
+{
+ "relic_id": "NPM-51",
+ "name": "青白瓷印花花卉紋洗",
+ "aliases": [
+  "Washer with impressed floral design in bluish-white glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "全高3.1公分 口徑14.3公分 底徑11.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014505N000000000"
+ },
+ "summary": "敞口，斜直淺壁小洗，平底。全器滿釉，僅口緣露胎。器裡印花，底部一折枝牡丹，周壁八瓣花式框格，內分印牡丹、菊花等四季花卉各二枝，外壁樸素無紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2669681&randomCode=1147646175",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/51?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_51.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

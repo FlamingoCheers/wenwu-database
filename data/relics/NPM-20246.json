@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-20246",
+ "name": "龍泉窯 青瓷鳳耳紙槌瓶",
+ "aliases": [
+  "Mallet-shaped vases with handles in celadon glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高25.0公分 口徑9.2公分 底徑8.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003338N000000000"
+ },
+ "summary": "盤口，折沿，直長頸，兩側胎飾，雙反身鳳形半環耳，折肩，筒形長腹，底淺挖為圈足。全器施青釉，呈豆青色，釉面均勻。足底緣露胎，塗赭色護胎汁。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321859&randomCode=16644300208",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321860&randomCode=70574660909",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/20246?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_20246.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

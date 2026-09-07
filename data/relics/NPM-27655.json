@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27655",
+ "name": "白瓷劃花花卉雙魚紋碗",
+ "aliases": [
+  "Bowl with incised flower and paired fish decoration in white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.4公分 口徑17.5公分 底徑4.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷003051N000000000"
+ },
+ "summary": "碗，敞口，深斜壁，平底，矮圈足。全器施白釉，器壁滿布開片紋。器內壁劃花為飾，口沿兩道弦紋，壁淺劃纏枝花卉，底心兩道弦紋內劃雙魚紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469810&randomCode=64464737912",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469811&randomCode=1864624203",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27655?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27655.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

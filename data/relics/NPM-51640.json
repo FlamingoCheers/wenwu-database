@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-51640",
+ "name": "玉插屏",
+ "aliases": [
+  "Jade table screen"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長7.1公分 寬5.0公分 厚0.7公分；木座長9.7 公分 寬4.7公分 高8.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉003613N000000000"
+ },
+ "summary": "玉質。器作長方形，正面為雙層鏤雕之龍紋與花葉，龍前足抓著花莖，身軀穿梭於花叢中。背面有四象鼻穿。附卷草雕花木架。原為腰帶上的裝飾玉板，清代改作為書齋中擺設之用的插屏。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=136983&randomCode=66184761072",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=136984&randomCode=53815649238",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/51640?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_51640.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

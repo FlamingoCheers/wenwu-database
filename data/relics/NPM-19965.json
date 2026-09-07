@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19965",
+ "name": "定窯 白瓷劃花螭龍紋碟",
+ "aliases": [
+  "White dish with incised chi dragon design"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.0公分 口徑16.8公分 底徑5.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003805N000000000"
+ },
+ "summary": "廣口微撇、淺腹、圈足。全器施牙白色透明釉，僅口緣無釉鑲銅棱釦，釦邊微露白胎。器外壁滿雕三層重疊仰蓮瓣紋，蓮瓣中央垂直凸起，富立體感。器內底心飾螭紋。圈足滿釉。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321170&randomCode=69757424974",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321171&randomCode=49705098664",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19965?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19965.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

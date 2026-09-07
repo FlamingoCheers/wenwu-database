@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26902",
+ "name": "景德鎮窯系 青白瓷印花博古花卉紋碗",
+ "aliases": [
+  "Bowl with impressed antique and flower decoration in bluish-white glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.3公分 口徑21.3公分 底徑6.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷002488N000000000"
+ },
+ "summary": "侈口深壁，口沿一圈露胎帶銅釦，碗身上豐下收，圓底矮圈足。碗內壁劃分六格，各印瓶花或盆花一種，器外壁樸素無紋略帶使用痕。薄胎骨施青白釉，外壁略見有輪製時留下的刷絲痕。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=429041&randomCode=58426703738",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=429042&randomCode=411062700",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26902?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26902.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

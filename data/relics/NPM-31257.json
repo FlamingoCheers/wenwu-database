@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-31257",
+ "name": "白瓷菊花紋瓶",
+ "aliases": [
+  "Vase with chrysanthemum decoration in white glaze"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高16.2公分 口徑4.0公分 底徑5.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷013903N000000000"
+ },
+ "summary": "細長頸瓶，削肩，圓球型腹下斂，高足外撇，肩上剔刻三層菊瓣紋。胎質堅硬，施灰白釉至足際，足底露胎，口沿鑲金屬釦一圈。明萬曆三十四年（1606）變型主義畫家丁雲鵬（1547-1628）〈畫佛像〉（故畫02296），觀畫中佛弟子供養爐、瓶、盒，其中「瓶」的型制與本展品類似，瓶中插蓪草花葉一枝。又院藏傳元人張中畫〈太平春色〉軸（故畫02039），畫中白釉花瓶也類似本展件。膽瓶中插有各色牡丹，以呈吉祥富貴之意，惟花姿稍嫌刻板，應為明末或清初的作品。間接說明本展件的時代或相去不遠。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470899&randomCode=69470997253",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470900&randomCode=56031715420",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/31257?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_31257.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

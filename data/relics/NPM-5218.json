@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-5218",
+ "name": "「益壽」鏡",
+ "aliases": [
+  "“Yishou” mirror"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑16.0公分 邊厚0.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅000496N000000000"
+ },
+ "summary": "八瓣葵花式鏡，半球形，圓鈕座，鈕上繫繩。內區為連弧紋帶，外區為兩短斜線帶夾以銘文帶，鏡緣飾流雲紋。這一方銅鏡在乾隆朝被清高宗納入「寧壽續鑑」的收藏中。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=370841&randomCode=64274398297",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=370842&randomCode=21737993344",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5218?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5218.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

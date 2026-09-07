@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43348",
+ "name": "青花花卉紋罐",
+ "aliases": [
+  "Jar with floral decoration in underglaze blue"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.4、口徑4.5、底徑4.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000294N000000000"
+ },
+ "summary": "小罐，斂口短頸，豐肩碩腹，腹下斂，足微外撇，平底。白地青花，釉壁滿布開片，青花色澤濃黑。頸下繪一道弦紋，接飾折枝花卉一週，腹繪弦紋兩道，下飾螺旋紋一週。底部露胎無釉。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395517&randomCode=29318269207",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395518&randomCode=732003928",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43348?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43348.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

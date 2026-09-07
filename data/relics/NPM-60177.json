@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-60177",
+ "name": "玉劍鐔",
+ "aliases": [
+  "Jade sword guard"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長5.7公分 寬2.1公分 厚1.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉009136N000000000"
+ },
+ "summary": "本件玉件色澤灰白帶褐斑，器形似等腰三角板，由於上下端有通心穿，應為穿繫用途，推測本件為「劍鐔」形佩件。本件正背兩面均刻有雷紋。本件目前貫串黃縧，與故玉9135、故玉9137組成一組佩飾，整件佩飾以三件玉飾為主，並間隔飾以珍珠和米珠。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=415728&randomCode=76252179517",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=415729&randomCode=24451626644",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/60177?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_60177.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

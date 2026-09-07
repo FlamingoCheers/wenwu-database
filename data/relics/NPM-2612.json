@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2612",
+ "name": "青銅鎏金大日如來坐像",
+ "aliases": [
+  "Gilt bronze Mahavairocana Buddha"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高25.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購銅000128N000000000"
+ },
+ "summary": "鍍金褪，無台座，背面無頭光、身光插榫。兩手置胸前，右手握住左手食指，作智拳印，代表佛具有一切智慧，是大日如來特有的手印。臉圓扁，鼻寬，髮似帽形戴在頭上，肩微下垂，著通肩式袈裟，手肘處衣褶在光影下如毛筆線條，下筆輕再重按，袖口由兩線表示，兩足邊的衣裙，集中數線，線條流暢，以平面繪畫概念表現雕塑的立體感，表現宋代造像的特質。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1303939&randomCode=412793405",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1303940&randomCode=589344703",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2612?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2612.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

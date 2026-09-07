@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43402",
+ "name": "青花八稜雙耳罐",
+ "aliases": [
+  "Jar with eight ridges and handles in underglaze blue"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.2公分 口徑2.6公分 底徑3.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000358N000000000"
+ },
+ "summary": "八稜雙耳小罐，歛口、短頸、斜肩、碩腹、平底，器自頸下作八稜八瓣形，頸肩之間附二相對圓管形小耳。白地青花，表面可見若干縮釉小點，底部露胎。器外壁每間隔一瓣繪有折枝花卉，紋飾兩兩相對。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394013&randomCode=86606281322",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394014&randomCode=84593131",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43402?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43402.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

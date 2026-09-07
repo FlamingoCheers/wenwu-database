@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3051",
+ "name": "澄泥龍珠硯",
+ "aliases": [
+  "Refined clay inkstone with dragon playing with pearl"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1279,
+  1368
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長15.4公分 寬9.6公分 高2.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000546N000000000"
+ },
+ "summary": "硯體琢成幡龍形，澄泥製，色黃泛紫色，硯面受墨處作正圓形，有如蟠龍抱珠之勢，墨池正處在龍口，有呼風吐雨之狀，硯背右側刻御題銘一首：「墨華吐沛時雨」，鈐印：「乾」、「隆」連珠印，硯背作為龍腹，亦刻銘一首，計十六字，唯內缺一字，「乾魁至文，陰陽既分，爰此龍□、曰美斯聞。」款署：「魯宣」二字，皆篆書，鈐印一：「仲圭」。按「仲圭」，係元吳鎮字，善書畫，此硯蓋其所寶者。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173047&randomCode=27857318849",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173048&randomCode=514469624",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3051?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3051.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

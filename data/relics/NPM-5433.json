@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-5433",
+ "name": "群仙高會鏡",
+ "aliases": [
+  "Mirror decorated with deities at an outdoor banquet"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑18.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅002005N000000000"
+ },
+ "summary": "圓形鏡，半球鈕。鏡緣寬素。鏡背浮雕紋飾為一幅仙人宴享圖。上方為仙山樓閣及雲朵，右方有一仙人乘鳳降臨。仙人或立或坐，齊聚柳畔宴飲嬉遊。 仙人服飾帶有晚唐五代風情，鏡體及紋飾布局則具有金代特徵，為金代山水人物故事鏡中的佳構。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=39341&randomCode=514469624",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=39342&randomCode=933625661",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5433?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5433.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

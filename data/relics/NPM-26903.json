@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26903",
+ "name": "定窯 白瓷劃花雙鳧紋折腰盤",
+ "aliases": [
+  "Angled-waist plate with incised decoration of paired waterfowls in white glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.4公分 口徑25.5公分 底徑8.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷002489N000000000"
+ },
+ "summary": "侈口淺壁，帶銅釦，器腹向下收折至圈足，平底矮圈足。內壁淺畫雙鳧伴游於蓮塘紋飾，簡約線條勾勒水禽與水草蘆葉，增添悠閒逍遙的趣味，器內有數道裂璺及細小開片紋，釉色勻潤。定窯窯址位在河北省曲陽縣澗磁村、燕山村一帶，窯場廣佈，是宋金時期北方最著名的白瓷窯場。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=429047&randomCode=65803607160",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=429048&randomCode=25798736",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26903?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26903.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

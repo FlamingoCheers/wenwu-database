@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26530",
+ "name": "定窯 旋紋笠式盞",
+ "aliases": [
+  "Conical bowl with spiral design, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1001,
+  1300
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.8公分 口徑12.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷015042N000000000"
+ },
+ "summary": "斗笠式小盞，侈口小足，壁深斜，小圓底，矮圈足，內底圓形深陷，劃有米字樣交叉線，自碗心向口沿劃出 S 狀花瓣線，線紋緊密如菊瓣，雙刀刻劃若瓣瓣具陰影厚度，有如一握花盞的脈絡。圈足滿釉，足周部分沾沙，口沿一周無釉，芒口澀胎，胎色白。此類小盞數量頗多。唐代金銀器研究者或認為此種旋繞樣紋飾受外來文化影響，由宋代定窯看來，已是經常運用且延續長久的文樣；遼劉 墓（1099）已有之，直到南宋黃渙墓（1226）仍能見及。在同時期耀州窯紋飾中，有的旋紋加上歧出短線有如荷葉，且中央以龜為飾。則定瓷旋紋或亦此意，碗心所作交叉線條或有龜紋之意。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=407320&randomCode=45494126858",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=407321&randomCode=36519192",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26530?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26530.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2485",
+ "name": "錯銀鳳紋壺",
+ "aliases": [
+  "Hu jar with phoenix pattern in silver inlay"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1644
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高14.3公分 口徑5.9公分 腹徑10.7公分 足徑6.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅002580N000000000"
+ },
+ "summary": "漢銅壺式，侈口、圓腹、圈足，肩飾雙鋪首。帶蓋，飾三環，可倒扣為盤。通器外壁均錯嵌銀絲並填綠，以仿戰國及漢代之鑲嵌器。除頸部雷紋外，腹部垂葉框飾內及肩、足、蓋心與蓋壁，均作各式幾何夔鳳紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=987205&randomCode=1729055911",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=987206&randomCode=1122628120",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2485?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2485.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27110",
+ "name": "霍州窯型 碗",
+ "aliases": [
+  "Bowl, Huozhou type ware"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.0公分 口徑20.5公分 底徑6.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014631N000000000"
+ },
+ "summary": "中型大碗，敞口略斂、深壁、圈足，足端無釉，遺有五個約略可見的墊燒痕跡。器裡六道細陽線豎分器壁為六等分；碗心平凹，周圍有五個針尖狀細支燒痕。全器胎薄略顯脆，口鑲銅稜釦，釉色素白滋潤，屬霍州窯類型之精品；《格古要論》謂：「土脈細白者與定相似。」「賣骨董者稱為新定器。」應即指此類。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=433727&randomCode=22117645023",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=433728&randomCode=32889669",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27110?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27110.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

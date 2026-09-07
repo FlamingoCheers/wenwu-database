@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-48907",
+ "name": "玉鵝",
+ "aliases": [
+  "Jade goose"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長3.6公分 寬1.4公分 高2.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉000725N000000000"
+ },
+ "summary": "扁而厚實的梯形青白色籽料，多處帶有淺褐色玉皮。玉工遷就著籽料的形狀，雕琢成一隻回首的小鵝，有趣的是兩面均以寬陰線刻繪上下兩個羽翼，或是表示這隻小鵝正在努力學撲水？鵝頸與鳥翼間的小孔可穿繫繩結，便於佩掛把玩。雖然宋、遼、金都有以鵝、雁為主題的玉雕小佩，但這件在翅膀的前方刻繪斜格紋，肥厚的鵝臀上也雕斜陰線，較接近江西波陽南宋墓出土石珠串飾中的玉石鳥。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=145057&randomCode=23845052370",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=145058&randomCode=22570873767",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/48907?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_48907.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

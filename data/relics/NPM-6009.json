@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-6009",
+ "name": "獸面貫耳壺",
+ "aliases": [
+  "Bronze hu vessel with tubular handles and animal-mask decoration"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高38.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅001496N000000000"
+ },
+ "summary": "貫耳壺，短頸，鼓腹，圈足，頸、腹、足有棱脊。頸飾雲雷紋、下飾獸形紋與雲雷紋間隔之紋飾帶，腹飾獸面紋、雲雷紋為地，足飾雲雷紋，二貫耳亦飾雲雷紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=6306&randomCode=1632676780",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=6307&randomCode=1134287612",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/6009?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_6009.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

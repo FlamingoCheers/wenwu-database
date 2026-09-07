@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-57347",
+ "name": "玉子母鹿",
+ "aliases": [
+  "Jade doe and fawn"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬4.0公分 高5.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉006225N000000000"
+ },
+ "summary": "本器是以帶有褐色玉皮的玉籽料雕刻而成，一對子母鹿立於蓮花上，母鹿口銜凌霄花，小鹿將前肢搭在母鹿身上，甚為依賴。附一木座，隨器底雕成一朵扁長形蓮花，面部內凹以嵌入玉飾。在印度佛教傳說中，有鹿母為國王生養了五百個從蓮花裡化生的男童，個個都是俊美的大力士。隨著佛教東傳，中土出現大量以蓮花、子母鹿或童子為主題的玉器，具有祈求「連（蓮）生貴子」的祝福之意。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397975&randomCode=53584788656",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397976&randomCode=630327709",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/57347?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_57347.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

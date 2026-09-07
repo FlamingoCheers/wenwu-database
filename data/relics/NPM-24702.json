@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24702",
+ "name": "日本 鎌倉時代 銅鎏金 毗沙門天王像",
+ "aliases": [
+  "Vaisravana Lokapala, Japan, Kamakura period (1185-1336)"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1185,
+  1336
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通高15.0公分(含座) 像高12.7公分 像重417.0公克",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000305N000000000"
+ },
+ "summary": "毗沙門天王為四大天王之一的「多聞天」。其形象或持戟、或持傘，本尊造像則手托寶塔，是受到托塔天王形象影響下的造型。其微怒而緊繃的表情，曲臂緊握的右手，皆可見強調威猛與武者形象的天王造像傳統。然而，立像胸至腰間如護甲的橢圓區塊，形如衣服垂折的弧線，讓這一近似護甲的區塊，充滿了布料般的柔軟感。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365007&randomCode=1550773908",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365008&randomCode=1969929945",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24702?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24702.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

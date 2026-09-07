@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27565",
+ "name": "定窯 白瓷劃花牡丹紋洗",
+ "aliases": [
+  "Washer with incised peony decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.5公分 口徑17.5公分 底徑14.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017043N000000000"
+ },
+ "summary": "洗，圓口微侈，帶銅釦，淺週壁，平底，矮圈足。內底心劃刻牡丹花紋，器外腹壁、近底足處飾弦紋二道。胎骨堅薄，白釉瑩潤，器表釉面有稀疏開片紋，及多處縮釉小眼。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469457&randomCode=22474697870",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469458&randomCode=1392033999",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27565?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27565.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

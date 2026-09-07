@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-1300",
+ "name": "鈞窯 天青紫斑碗",
+ "aliases": [
+  "Bowl with greenish- blue glaze and reddish-purple splashes"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高9.2公分 口徑21.7公分 足徑7.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017220N000000000"
+ },
+ "summary": "斂圓口，深弧壁，尖底並有矮圈足，足壁微外敞。通體罩施天藍色釉，釉色泛灰，口沿一道米黃邊，碗內天藍釉面上浮現一塊紫紅色的斑紋。釉面乾燥粗澀，釉表部分氣泡破裂，形成土色小點。施釉至碗壁下緣，整隻圈足無釉，露灰白色胎。外底有修坯形留下的漩渦痕。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=473932&randomCode=81729340595",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=473933&randomCode=621506071",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1300?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1300.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

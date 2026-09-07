@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-11090",
+ "name": "治平元寶",
+ "aliases": [
+  "Coin with inscription \"Zhiping yuanbao\""
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "钱币",
+ "material": null,
+ "dimensions": "待測量",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購錢001752N000000000"
+ },
+ "summary": "方孔圓錢，「治平元寶」有楷、篆兩種字體，又有銅、鐵兩種材質。此枚為銅錢，正面有楷書「治平元寶」四字，背面無文。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=116224&randomCode=79290596901",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=116225&randomCode=61480357015",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/11090?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_11090.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

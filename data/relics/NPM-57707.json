@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-57707",
+ "name": "玉螭紋帶扣",
+ "aliases": [
+  "Jade belt-buckle with chi-tiger decoration"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長6.9公分 寬5.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉006635N000000000"
+ },
+ "summary": "玉質，邊緣染褐沁，帶綹。全器琢成帶扣，由兩環形玉片組成，上方各有一片近似三角形的突出物，中間也各帶一圓穿孔。一玉表面浮雕蜷曲盤繞於璧面的螭，另一面玉表面陰刻幾何紋。兩玉片由活動式扣環連結在一起。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=338962&randomCode=12759454195",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=338963&randomCode=71374647223",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/57707?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_57707.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

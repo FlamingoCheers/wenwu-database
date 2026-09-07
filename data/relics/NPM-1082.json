@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-1082",
+ "name": "龍泉窯 青瓷盞",
+ "aliases": [
+  "Bowl with celadon glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.2公分 口徑13.2公分 足徑2.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷005166N000000000"
+ },
+ "summary": "敞口，器壁斜高，圈足淺而小，底心微凸起。全器除底足外，均施青釉，器面滿佈淺褐色及白色開片紋。口沿釉薄處顯灰白胎色，外口沿及器心積釉較厚，呈湖綠色。胎骨堅薄，足底塗褐色護胎汁，未及處露灰白胎。碗形造型為典型宋代點茶茶盞，此類茶盞的口徑與足徑比例相差甚大，故而重心不甚平穩，因此必須配置茶托，此或為宋人茶盞多置於托上的主因之一。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391423&randomCode=96852436859",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391424&randomCode=1952118556",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1082?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1082.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-20053",
+ "name": "白瓷螭紋長頸瓶",
+ "aliases": [
+  "White long-necked vase with chi dragon design"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高30.0公分 口徑9.0公分 底徑11.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003240N000000000"
+ },
+ "summary": "侈口外撇，長直頸，碩腹，圈足。口緣銅釦，頸繞飾螭紋一圈。全器罩施白釉，白釉泛黃，並帶細碎開片，足內褐色胎外露，底無款識。舊稱「彭窯」，托名於元代名匠彭君寶。但無可比對的實物。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=320966&randomCode=28871360209",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=320967&randomCode=53882427625",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/20053?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_20053.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2761",
+ "name": "定窯系 白瓷印花花卉紋盤",
+ "aliases": [
+  "Plate with impressed floral decoration in white glaze, Ding ware type"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.3公分 口徑30.0公分 底徑12.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷010298N000000000"
+ },
+ "summary": "廣口大盤，弧形壁、矮圈足；足緣釉略擦去，而口緣無釉，有原鑲金屬釦痕跡。器裡印花為飾：口下以二道弦紋為邊，器內壁為繁密的纏枝牡丹紋；器內底為纏枝並蒂蓮荷葉紋；壁與底間隔以回紋一圈。印紋繁密，細觀之，輪廓勾勒均極工緻；然，器外壁流釉，並有故高溫焦糊現象、泥渣沾黏或蕩釉不全等，顯見陶工製作粗率不經心。韓國新安沉船中有兩件類似的盤子，均大盤、覆燒、印滿花卉或孔雀紋，釉色牙白，有淚痕及刷絲紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=410780&randomCode=22634949107",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=410781&randomCode=1878974182",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2761?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2761.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

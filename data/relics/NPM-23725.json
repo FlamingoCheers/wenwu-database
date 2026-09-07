@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23725",
+ "name": "臨川窯 白瓷弦紋香爐",
+ "aliases": [
+  "Incense burner with linear pattern in white glaze, Linchuan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.3公分 口徑10.0公分 底徑9.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002245N000000000"
+ },
+ "summary": "深壁直筒型爐，三如意足。器內外施透明釉，呈現出白中泛黃的色調。外壁光素無紋，僅於壁面上中下各凸起三道並列緊靠的弦紋，將外壁分割為上下兩個裝飾部位。底中央有圓形無釉露胎區，無款識。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395081&randomCode=57331954679",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395082&randomCode=428874089",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23725?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23725.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

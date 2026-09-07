@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-49355",
+ "name": "獅戲球墜",
+ "aliases": [
+  "Jade pendant carved in the shape of a lion playing ball"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長6.38公分 寬4.0公分 厚2.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001207N000000000"
+ },
+ "summary": "青玉，有赭斑。全器為扁橢圓形，雕為獅子形，作側面蹲坐姿。以陰線淺雕出獅子輪廓，後足踏蓮花、前足抱繡球、口啣花莖。玉料頂至底有一通心穿。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=155413&randomCode=73127116978",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=155414&randomCode=31548820316",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/49355?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_49355.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-28135",
+ "name": "哥窯青瓷葵口碟",
+ "aliases": [
+  "Dish with hibiscus-shaped rim in celadon glaze, Ge ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.0公分 口徑15.5公分 底徑6.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017140N000000000"
+ },
+ "summary": "六瓣葵花口，淺壁，至足際向內橫折成折腰盤式，平底，矮圈足。胎體稍薄，上施青瓷釉，釉色灰青，略帶米黃色調，釉表開深色細紋片。口沿嵌銅釦，施釉至足際，足緣無釉，露胎處加塗赭色護胎汁。底面鐫刻乾隆皇帝詠〈哥窯盤子〉：「處州精製擅章生，盤子曾供泛索盛。新法不看百圾破，哪知得号有難兄」御製詩。詩末署「乾隆丙申春御題」紀年銘（乾隆四十一年，1776），並落「朗潤」一枚鈐印。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=426644&randomCode=40585894543",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=426645&randomCode=95452866774",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/28135?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_28135.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

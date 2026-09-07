@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26054",
+ "name": "官窯 青瓷方爐",
+ "aliases": [
+  "Rectangular incense burner with celadon glaze, Guan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高10.5公分 口徑15.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017781N000000000"
+ },
+ "summary": "四方形爐，斜直深壁，上豐下斂，平底，外底凸出一周窄邊，四角接四個外展的雲頭形足。胎體較厚，採支、墊結合裝燒法燒製。內外施青釉，燒後呈灰綠色，局部泛黃。口下周緣微現粉色，釉面有淺灰及透明兩種紋片。器內底心有四枚支釘，週壁上緣每面各有一枚。足底無釉，塗深赭色汁，局部露出灰黑色胎。底面鐫刻乾隆皇帝〈詠官窯方爐〉御製詩，內容為：「陶器如立身，圓易方難為。張禹圓融流，朱雲方正持。以此品其第，高下原堪知。磁罏實官窯，成於脩內司。爾時蔡與王，較張禹猶差。論器寓論世，用人可弗思。圓缾已屢見，方者惟見斯。久置檀架間，未詠誠孤其。炷檀煙直上，氣求念在茲」。詩末署「乾隆乙巳新正御題」（乾隆五十年：1785）紀年款識",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400231&randomCode=79300121472",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400232&randomCode=90261903097",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26054?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26054.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

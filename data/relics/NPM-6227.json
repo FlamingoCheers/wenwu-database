@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-6227",
+ "name": "天雞尊",
+ "aliases": [
+  "Zun vessel in the shape of a \"Heavenly fowl\""
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高9.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000154N000000000"
+ },
+ "summary": "全器以鳳鳥為造型，雞形而長尾，昂首直立，尾長著地，雙足挺立，背馱一個觚式瓶。瓶口飾雷紋、三角紋、獸面紋。鳳鳥有冠，羽翅飾幾何紋，長尾飾雷紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=518&randomCode=1124737065",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=519&randomCode=1927899395",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/6227?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_6227.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

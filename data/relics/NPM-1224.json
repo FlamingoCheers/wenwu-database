@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1224",
+ "name": "鈞窯 丁香紫釉渣斗式花盆",
+ "aliases": [
+  "Zhadou-shaped planter in lilac purple glaze, Jun ware"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高19.5公分 口徑21.3公分 足徑12.1公分 腹圍67.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷008676N000000000"
+ },
+ "summary": "造型仿古銅器，作渣斗型。侈口外敞，長頸，扁圓腹，底挖五孔，矮圈足。通體罩施丁香紫釉，胎厚釉濃，釉面瑩澈光亮，釉色濃淡深淺，變化有序。施釉至足際，口沿呈褐色邊，足邊修釉精整，底、足緣加塗醬色護胎汁，底後刻數目字「五」，刻線細而淺；釉面並有清宮所刻「養心殿東暖閣樓下用」的款記。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470764&randomCode=44057951343",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470765&randomCode=935356366",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1224?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1224.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

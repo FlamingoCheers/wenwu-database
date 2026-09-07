@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-47145",
+ "name": "蓮塘鴛鴦玉頂",
+ "aliases": [
+  "Jade finial with mandarin ducks in lotus pond"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬6.0公分 連座高6.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003328N000000001"
+ },
+ "summary": "白玉沁褐，琢鴛鴦憩於開展的荷葉之上。鴛鴦頭頂長翎，翅羽開展，口銜蓮荷，周身亦圍以蓮荷。元代服飾即已盛行以荷葉鴛鴦為紋樣。明的服飾制度中，命婦冠服亦以鴛鴦為飾。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=370729&randomCode=52824355427",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=370730&randomCode=42915113036",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47145?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47145.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26052",
+ "name": "白瓷柳斗杯",
+ "aliases": [
+  "Cup with wicker design in white glaze"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  16
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.5公分 口徑7.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017879N000000000"
+ },
+ "summary": "柳斗杯，仿柳條編成的小杯，直口、小圓肩，腹下收，平底，器裡三小支釘痕，口緣以金鑲嵌稜釦。表面施釉光潤泛青；而胎薄略鬆脆，多開片。以兩側腹中央為中心向外以同心方式組成上下豎編的柳條紋，每枝柳條均細劃枝芽切除的癤痕。此種仿柳條編的造形，在唐代浙江淳安窖藏金銀器中便已經出現，五代、兩宋的陶瓷作品亦均甚流行，耀州窯有豎編的柳條紋；洛陽安樂鄉北宋窖藏白瓷折肩罐亦豎編柳條；湖田窯、贛州窯均以橫編的柳紋杯著稱。乾隆二十六年十一月廿三日太后壽慶禮物列有「定窯柳斗」，或即此物。此器雖非如清宮所以為的定窯器，但或也非推遲至清代的作品。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400135&randomCode=73989173270",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400136&randomCode=994318874",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26052?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26052.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

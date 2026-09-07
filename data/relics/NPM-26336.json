@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26336",
+ "name": "景德鎮窯 白瓷印花花卉紋碗",
+ "aliases": [
+  "Bowl with impressed floral decoration in white glaze, Jingdezhen ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.8公分 口徑25.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷013973N000000000"
+ },
+ "summary": "此碗敞口，口緣微外撇，弧形深壁，圈足。全器連足皆滿釉，唯口沿無釉，故鑲以銅稜釦。整體釉色潔白，但足壁內外邊緣的積釉處，以及自足部往腹身細如毛羽的流釉痕跡，皆偏青色。碗內底心有一道圓形壓痕，此痕內部似有印花，但紋樣不明，周壁也有模印而成的纏枝花卉。唐至五代白瓷主要產地在華北，然而自宋代開始，地處江南的景德鎮窯也開始燒造釉色白中透青的瓷器，此碗即是這類產品之一。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403777&randomCode=39808558959",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403778&randomCode=75149922731",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26336?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26336.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

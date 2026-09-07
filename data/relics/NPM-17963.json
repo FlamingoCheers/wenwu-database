@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-17963",
+ "name": "玉魚形佩",
+ "aliases": [
+  "Jade pei pendant in the shape of fish"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長5.1公分 寬2.0公分 厚1.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉004058N000000000"
+ },
+ "summary": "玉質，夾雜傷綹及寬條狀褐斑。雕作魚形，相當寫實。厚唇鼓鰓，鰭尾生動，頗具動感。背腹間有一長方形穿。自宋代以降，以魚為造形的玉佩非常流行，形式非常多樣。杭州北大橋南宋墓出土有直穿的陶魚，四川廣漢和興鄉聯合村南宋窖藏出土玉魚，都是這類體短、肚大、唇厚的「翹嘴鱖魚」式玉佩，元代時更為流行。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334025&randomCode=47093764004",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334026&randomCode=29661277850",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/17963?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_17963.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

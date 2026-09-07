@@ -1,0 +1,43 @@
+{
+ "relic_id": "NPM-27118",
+ "name": "定窯 劃花蓮花葵瓣口碗",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.9公分 口徑21.1公分 底徑6.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014641N000000000"
+ },
+ "summary": "六瓣葵花形，侈口，深壁上豐下削，圓底，矮圈足。口沿鑲銅釦。全器滿施牙白色釉，釉色泛黃。器外壁淺押六道相等距離的短直線紋，並可見到釉汁流淌造成的「淚痕」。器內壁等分成六格，周壁光素，底心劃飾蓮花圖案。而因為此碗圈足並未露胎，同時口沿也可見芒口痕跡，故可推測燒造時應採用覆燒技法。覆燒技法於北宋末年定窯普遍使用，一改過去只能用匣缽仰燒或支釘疊燒等技法，使瓷器燒造時可以節省不少空間，也可防止器物變形。口沿鑲銅釦亦為定窯重要特色之一，除了可遮掩覆燒時產生的芒口外，亦結合了當時人們對於金銀器飾的喜愛。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=433739&randomCode=84627532506",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=433740&randomCode=16727988889",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27118?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27118.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

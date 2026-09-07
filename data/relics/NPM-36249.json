@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-36249",
+ "name": "景德鎮窯系 樽式爐",
+ "aliases": [
+  "Incense burner, Jindezhen type ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1101,
+  1300
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.0公分 口徑13.0公分 底徑11.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷016057N000000000"
+ },
+ "summary": "筒形樽式爐，具三蹄足。直壁，近底處微內收；外壁飾凸弦紋九道，均勻分佈口部至底部的空間。底部斜削一周，呈現銜接三蹄足間的平素底面。全器內外施釉，釉色勻潤、流釉泛青，口沿無釉露胎，內底有環形無釉的墊燒痕。對照故瓷8636、9578、10343，與定窯樽式爐相近，唯弦紋佈局相異。南宋王趯墓（1170）出土定窯樽式爐，杭州官窯也製作樽式爐，說明南宋社會對此種造形的需求。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=621355&randomCode=2128669854",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=621356&randomCode=2026993635",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/36249?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_36249.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

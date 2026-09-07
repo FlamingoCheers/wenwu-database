@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1992",
+ "name": "錯金銀蟠龍盉",
+ "aliases": [
+  "He vessel inlaid with curled dragon decoration"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  17
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高27.7公分 口徑14.5公分 腹寬21.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅001106N000000000"
+ },
+ "summary": "原藏於奉天行宮。本件器物製作相當精細，器表裝飾著淺浮雕的錯金銀夔紋；器蓋為蟠龍之形，身上以金銀鑲嵌出雲雷紋飾。仔細觀察錯銀部分，凹槽很淺，可能是以銀泥塗敷於器表，局部已經脫落。此器仿自西周的盉，然而在古代中國，錯金銀的技法一直到東周才普遍使用。本件器表裝飾的錯金銀是晚明對商周銅器的新解釋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=4495&randomCode=2081346033",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=4496&randomCode=1228493337",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1992?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1992.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

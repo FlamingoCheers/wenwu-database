@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-47064",
+ "name": "日本 鎌倉時代 十三~十六世紀 銅鎏金天王像",
+ "aliases": [
+  "Gilt bronze Heavenly King, Japan, Kamakura period, 13th ~16th century"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  16
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高5.4公分 寬2.6公分 厚1.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000434N000000000"
+ },
+ "summary": "天王挺胸突腹，右手插腰，左手上舉，手腕以下已殘，看不出持物，然姿態威武，站在兩個橫躺的惡鬼上，其下有長方形削角基座，從姿勢上推測，有可能是持長矛的毗沙門天王。天王頭戴冠，臉形方，橫眉豎眼，頸粗而領巾高，甲冑細部描寫簡化，腹前一鬼臉，腰線裙褶整齊，腹甲層層疊疊，富於重量感，身體的結構連接流暢，雖然尺寸非常小，肌肉的描寫硬，五官、手及雙足的線條交待模糊，威武中並有一份動感與活力。(陳慧霞)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=342243&randomCode=80791587268",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=342244&randomCode=71463330298",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47064?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47064.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

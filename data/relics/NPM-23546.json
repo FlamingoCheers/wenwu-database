@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23546",
+ "name": "龍泉窯 青瓷蒜頭瓶",
+ "aliases": [
+  "Vase with garlic-shaped head in green glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高28.8公分 口徑3.3公分 底徑9.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷005055N000000000"
+ },
+ "summary": "蒜頭瓶，小圓口，口下與頸端間一段器壁膨大，頸細長，斜肩，扁圓腹，圈足。全器施青釉，呈冬青色，色澤溫潤，略有淺色不明之開片紋。圈足底緣露胎，塗褐色護胎汁。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=392333&randomCode=58150780829",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=392334&randomCode=1695163838",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23546?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23546.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

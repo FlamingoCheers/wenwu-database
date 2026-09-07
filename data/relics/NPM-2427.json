@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2427",
+ "name": "官窯 青瓷筆捵",
+ "aliases": [
+  "Brush dish with celadon glaze, Guan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高1.2公分 長12.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017792N000000000"
+ },
+ "summary": "長橢形淺盤，不甚規整，似以泥板略拗其邊即成形。器滿釉，僅底部七個小支釘痕，露黑胎。釉色不均，由灰青、青黃、至月白色，並有粉青色條狀流釉痕；器緣釉薄泛黑。器表有冰裂紋、開片及?眼。器底刻乾隆五十八年(1793)楷銘：『橢片出越窯。較唐宋應久。非盤亦非碟。盛水不盈口。是誠無用器。何以寶同玖。徒因閱歲深。滄桑互珍守。髻墾七釘存。唐宋或弗取。乾限癸丑仲春御題。」印︰『比德』、『朗潤』。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=317733&randomCode=28457567813",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=317734&randomCode=708832311",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2427?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2427.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

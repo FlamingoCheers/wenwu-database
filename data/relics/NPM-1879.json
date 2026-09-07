@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1879",
+ "name": "玉鴛鴦",
+ "aliases": [
+  "Jade mandarin duck"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長3.6公分 寬2.0公分 高2.5公分；木座長3.2公分 寬2.6公分 高0.5公分 連座高2.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉005613N000000000"
+ },
+ "summary": "玉色微帶黃，雕作鴛鴦造型，以陰刻線加強描繪羽翅。一側有局部赭色。木座雕成荷葉形。貯在院藏〈紫檀木鑲竹絲轉盤格子〉（故雜1284）格層裡。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=994490&randomCode=708832311",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=994491&randomCode=113124976",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1879?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1879.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-61102",
+ "name": "汝窯 青瓷碟「丙蔡」銘",
+ "aliases": [
+  "Dish with celadon glaze and bingcai mark, Ru ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高1.5公分 深1.2公分 口徑10.9公分 底徑8.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷018224N000000000"
+ },
+ "summary": "圓口，淺壁，平底無足。胎質較薄，滿釉支燒，通體施青釉，釉色粉青微泛綠。底面三枚支燒點沿邊排佈，正背兩面滿佈開片，中心後刻「蔡」、「丙」兩字。與之相似的器形，亦見於河南省寶豐縣清涼寺窯址出土的標本。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391957&randomCode=67121220442",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391958&randomCode=546630992",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/61102?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_61102.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

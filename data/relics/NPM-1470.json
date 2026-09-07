@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1470",
+ "name": "定窯 白瓷劃花牡丹紋碟",
+ "aliases": [
+  "Dish with incised peony decoration in white glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.3公分 口徑13.6公分 底徑9.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷003028N000000000"
+ },
+ "summary": "侈口，淺壁，平底，淺圈足。內底心劃牡丹花一株，通體施牙白色釉，局部泛黃。口沿加鈐銅釦。外底鐫刻〈詠定窯盤子〉詩：「傳是定州造，定州今實無。彭陶寧可比，蘇詠信非誣。穆若精神足，郁然花葉扶。和闐玉易琢，獲此却難乎」。詩末署「乾隆癸巳孟春御題」（乾隆三十八年，1773），並落「會心不遠」、「德充符」兩枚鈐印。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=461544&randomCode=89038813643",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=461545&randomCode=2080427802",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1470?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1470.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

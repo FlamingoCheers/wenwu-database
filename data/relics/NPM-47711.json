@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-47711",
+ "name": "銅祭器",
+ "aliases": [
+  "Ritual bronze vessel with inscription from the Yongze academy"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1365
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高13.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000100N000000000"
+ },
+ "summary": "全器呈無耳鼓腹圈足簋，圈足光素無紋，後人於鏽上陰刻細線一道權充弦紋，器底外鑿刻銘文三行十三字，字作「泳澤書院銅祭器至正廿六年造」。\n 泳澤書院乃方國珍任江浙行省參知政事時，因朱熹弭節于此，故于金罍山之東立祠祀之，几席籩豆罍爵之設，亦既完且美矣。堂宇修建始于至正二十五年(1365)春，落成于冬十一月。\n 器身紋飾風格與出土於洛陽東郊洛河北邙山坡，元代賽因赤答忽墓(至正二十五年，1365)中的黑陶仿古禮器上模印裝飾風格相近。本器銘文屬於印章戳記式，鑿刻於器外底部，這種形式亦見於北京元代居住遺址出土的黑陶獸面紋貫耳瓶，其圈足內模印篆書「潞州會山散人」六字款。\n 器之撇口與腹部以束頸為界，乃後焊成形，",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=330&randomCode=45659528094",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=331&randomCode=1156520193",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47711?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47711.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

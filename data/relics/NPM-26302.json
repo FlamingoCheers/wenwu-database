@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26302",
+ "name": "青瓷雙耳方瓶",
+ "aliases": [
+  "Square vase with handles in celadon glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高26.2公分 口徑4.6*4.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014106N000000000"
+ },
+ "summary": "此瓶口作正方體，長頸中縮兩端外敞，左、右各附一獸耳，下接鼓腹，頸、腹之間有兩道凸稜，往下接足，足部外撇。全器裹釉，僅足緣一圈塗褐色液，然多處剝釉露出灰胎。釉色粉青，但在口緣、凸稜、器身四角折線則因釉薄而偏灰白。釉層表面光亮，並有褐色開片稀疏分佈。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403496&randomCode=93031316130",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403497&randomCode=60681583544",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26302?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26302.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

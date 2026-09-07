@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-47084",
+ "name": "玉魚",
+ "aliases": [
+  "Jade fish"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長5.1公分 寬4.3公分 厚1.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉003278N000000000"
+ },
+ "summary": "玉質，邊緣有大片褐斑，琢一優游水藻間的鱖魚。魚身豐腴，腹部尤其飽滿，然因尾部上揚，線條又極為自然流暢，賦予了強烈的躍動感。陪襯的水藻採多層次鏤空技法，更增作品生動活絡的趣味。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=404048&randomCode=60215414236",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=404049&randomCode=2135760787",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47084?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47084.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

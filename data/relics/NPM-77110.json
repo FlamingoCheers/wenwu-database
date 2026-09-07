@@ -1,0 +1,40 @@
+{
+ "relic_id": "NPM-77110",
+ "name": "南宋 茶洋窯 醬釉茶盞",
+ "aliases": [
+  "Tea bowl in brown , Sourthern dynasty (1127-1279)"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.0 口徑11.5 足徑3.8 cm",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "南普贈000006N000000000"
+ },
+ "summary": "歛口，小底，圓淺弧壁，矮圈足，平底。薄釉，施一層鐵釉後施醬釉，外壁施釉不及底，底部及圈足露灰黃胎色。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1077334&randomCode=36519192",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/77110?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_77110.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

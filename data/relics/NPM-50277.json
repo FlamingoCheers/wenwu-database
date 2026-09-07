@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-50277",
+ "name": "玉牧羝器架",
+ "aliases": [
+  "Jade stand in the shape of a ram with rider"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長16.3公分 高11.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉002135N000000000"
+ },
+ "summary": "玉質，器身有璺，附木座。琢一臥羊，背上坐一牧人。人與羊首間為一槽，當為器架。羊腹有銘：「北海牧羝返。他山攻玉任。爾時寫壯貌。此日識忠心。朔漠景如故。冰霜分豈侵。還應笑范蠡。可不慙良金。乾隆丁亥(三十二年，1767)仲春月御題。」下接「比德」、「朗潤」二印。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=156896&randomCode=73808501817",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=156897&randomCode=39305732183",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/50277?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_50277.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

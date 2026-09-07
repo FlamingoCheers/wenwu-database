@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23730",
+ "name": "霍州窯 白瓷印花旋紋花卉缽",
+ "aliases": [
+  "Bowl with impressed spiral and floral pattern in white glaze, Huozhou ware"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.0公分 口徑11.5公分 底徑3.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002250N000000000"
+ },
+ "summary": "半球形碗，自口至底，弧形圓順；底部無明顯足痕，僅一小環狀面無釉。從挖削痕觀察，或許原有小足，或高圈足，口緣鑲細窄的銅稜釦。器裡花紋細緻：器內做葵花瓣形旋紋分格線，每瓣格內飾一種四季花卉。印花製成，而圖案輪廓線紋僅如細陽線浮起，紋線疏朗。內底心有支燒點五。全器釉色瑩白光潤。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394165&randomCode=34486419760",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394166&randomCode=1623918282",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23730?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23730.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-79",
+ "name": "定窯 白瓷印花獅戲圖盤",
+ "aliases": [
+  "Dish with impressed decoration of playing lion in white glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.8公分 口徑17.5公分 足徑10.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷004746N000000000"
+ },
+ "summary": "敞口淺盤，圈足。滿釉，釉色牙白，僅口緣無釉，鑲嵌銅棱釦。外壁光素，器裡印花：周壁為回紋及雲螭紋；內底以回紋周繞，中為奔跑的獅子與帛帶繡球，圖案結構精美，唯模較輕淺。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=319098&randomCode=19973211616",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=319099&randomCode=502018463",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/79?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_79.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-48908",
+ "name": "玉兔",
+ "aliases": [
+  "Jade rabbit"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長3.83公分 寬1.3公分 高2.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉000726N000000000"
+ },
+ "summary": "玉質瑩白溫潤，琢作一隻蹲伏著，卻長耳貼垂、仰首望天的小兔子。鼻吻飽滿圓潤，僅於頸下刻繪些許短陰線以示兔毛。背至腹有方孔供穿繫絲穗結繩佩帶。南宋初年建中墓（12世紀中葉）中即有這類仰首的玉兔，元代延佑七年（公元1320年）錢裕墓出土的鹿形玉佩，不但姿態相似，背腹間也有繫絲穗的直孔。清宮收藏的白玉立雕動物上，有時會留有像這件玉兔頭頂上的紅色圓點，極不易清除，是否是皇帝硃批公文時，順便把玩消遣時所留，則不易考證。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=145060&randomCode=71020446248",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=145061&randomCode=29519512431",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/48908?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_48908.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

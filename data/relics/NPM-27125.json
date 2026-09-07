@@ -1,0 +1,43 @@
+{
+ "relic_id": "NPM-27125",
+ "name": "土定印花壽字碗",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.7公分 口徑18.5公分 底徑5.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014649N000000000"
+ },
+ "summary": "侈口，深直壁，圓底，矮圈足。口沿鑲銅釦。胎骨稍厚，全器滿施牙白色釉，釉表佈滿細密開片，釉質濃厚勻潤。外壁光素無紋，內周壁等分成十六格，每隔內印飾捲葉紋，底心印飾團壽字。圈足底緣無釉露胎。口沿鑲銅釦為定窯重要特色之一，除了可遮掩覆燒時產生的芒口外，亦結合了當時人們對於金銀器飾的喜愛。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=434371&randomCode=87955430589",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=434372&randomCode=29160474968",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27125?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27125.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

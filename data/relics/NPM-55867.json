@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-55867",
+ "name": "玉鏤雕螭紋嵌飾",
+ "aliases": [
+  "Jade ornament with chi-dragon pattern in openworks"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "徑4.8公分 厚0.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉004525N000000000"
+ },
+ "summary": "玉質，略帶灰斑，近圓形，整器以透雕技法雕作，雕二螭迴身，兩螭頭部皆位於中央部位。此器以兩螭為主要紋飾，雖其身驅曲迴之態相近，但其以兩螭尾部、四肢及雲氣的交錯來創造出透雕的空間，切配合陰線與玉面的雕作，呈現出較佳的立體感，正是其設計巧思處。為此器連同故玉4520-4524、故玉4526-4527其他七塊玉同儲於一盒。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334367&randomCode=86762636571",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334368&randomCode=22519581762",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/55867?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_55867.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

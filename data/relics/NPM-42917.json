@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-42917",
+ "name": "青白瓷印花執壺",
+ "aliases": [
+  "Ewer with impressed decoration in bluish-white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "通高20.2、口徑3.2、底徑6.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購瓷000027N000000000"
+ },
+ "summary": "單把壺，子母口、短直頸、圓肩、腹上豐下歛、平底內凹成足，肩一側出曲流，頸肩相接處附二繫耳，一彎把附於頸及肩處，帶環形鈕平頂罩式蓋。器外壁施青白釉，紋飾下凹積釉處泛青，故有「影青」之稱，近底處及足露胎。器外壁自頸部以下印滿古錢紋錦地，唯腹部中央及近底處各留白一道；彎把外側見直線紋，整體形似彩帶。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=399068&randomCode=75201385061",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=399069&randomCode=316477414",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/42917?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_42917.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

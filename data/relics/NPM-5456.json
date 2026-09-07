@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-5456",
+ "name": "「瑞氣清芬」鐘形鏡",
+ "aliases": [
+  "“Ruiqi qingfen” bell-shaped mirror"
+ ],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通高15.0公分 最寬10.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅000045N000000000"
+ },
+ "summary": "鐘形鏡，頂端有一方形鈕。鏡背銘文2行8字：「瑞氣浮空」、「清芬□室」。 鐘形鏡為宋代新出現的型制，江蘇武進村前南宋墓曾採集一面，是南宋時期流行的鏡式。浙江上虞出土一面鐘形帶銘鏡，有「李道人造」款。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=29141&randomCode=1868253726",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=29142&randomCode=1516881835",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5456?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5456.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

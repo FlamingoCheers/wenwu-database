@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3087",
+ "name": "方井硯",
+ "aliases": [
+  "Inkstone inscribed \"Fangjing\""
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長27.0公分 寬17.4公分 高3.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文001568N000000000"
+ },
+ "summary": "端石，硯作長方抄手式，下端無堵，兩跗較矮，色紫而淡，硯面平直，浮雕四直線而成井字形，硯堂微窪下，墨池約佔硯面三分之一，墨池間刻大小臥牛各一，大者在中央，小者在右側，兩相遙視，神態宛然，硯首上方側壁鐫：「宋硯」隸書二字，硯壁右側刻：「方井」二字隸書，硯背鐫清高宗御題硯銘乙首，行書：「冽寒泉、潤嘉穎，立體於靜，福曰斯永，養而不窮者，井也。」款題：「乾隆御識」，鈐印一「乾」、「隆」連珠印。此硯銘亦著錄《清高宗御製詩文全集一》，《御製文初集》，卷二十七，頁六－七。按此硯係乾隆十四年(1749)冬，乾隆帝於內府，襲古硯擇材良所製古十硯中第九方，所以在硯匣內標識「壬」楷書似有別於他硯者。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173180&randomCode=50408635668",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173181&randomCode=1117267892",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3087?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3087.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

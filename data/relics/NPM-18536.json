@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-18536",
+ "name": "定窯 白瓷魚藻紋碗",
+ "aliases": [
+  "White bowl with fish and aquatic plants, Ding ware"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1115,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高10.4公分 口徑23.5公分 底徑11.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷001326N000000000"
+ },
+ "summary": "敞口，深壁，短圈足。全器施牙白釉，碗心刻劃波濤魚紋，壁口沿下飾弦紋一道。全器施釉，僅口緣一圈露胎，呈褐色。胎體勻薄，器壁見拉坯遺痕，並有多處消釉痕，積釉處成牙黃色。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=289671&randomCode=75240871235",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=289672&randomCode=87913593804",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/18536?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_18536.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

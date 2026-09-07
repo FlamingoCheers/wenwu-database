@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-36232",
+ "name": "定窯 六瓣花式碗",
+ "aliases": [
+  "Foliate rimmed bowl with six lobed sides, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1001,
+  1300
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6公分 口徑20.3公分 底徑6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷016037N000000000"
+ },
+ "summary": "六花式大碗，侈口、斜壁下收，圈足。足圈滿釉磨蝕，口鑲銅稜釦。口緣作六曲花式，器裡底部小圓面平凹下；由口至足並依花口隨形弧曲，外壁瓣曲凹入、內壁成凸稜，全形宛如一朵花，而胎薄均勻。此種瓣曲明顯的器皿，應與金銀器的風尚相關，如南宋張同之夫婦墓（1199）、邵武窖藏的的金銀花式盤盂；而十一、十二世紀墓葬如遼陳國公主（1018）、平原公主（1051）、金石宗璧墓（1177）均發現此種深瓣曲的造形。本器係覆燒成。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=621252&randomCode=1065564430",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=621253&randomCode=1076284886",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/36232?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_36232.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

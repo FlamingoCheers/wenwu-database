@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3039",
+ "name": "澄泥蟠夔石渠硯",
+ "aliases": [
+  "Refined clay inkstone in shih-ch'u pattern with coiled k'uei dragons"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長18.1公分 寬15.2公分 高4.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中文000031N000000000"
+ },
+ "summary": "硯作長方形、近方形，有四足，澄泥製，其色近翡色、極為細膩潤澤，硯面周環，琢以深渠，以為墨池，硯堂四周圍以弦紋一周，受墨處微窪，硯面周邊淺刻蟠夔紋一周，硯壁四周亦淺雕夔龍紋一周，隙地以流雲紋為飾，四足以獸面紋為飾，硯背作覆斗形，共分三層，漸次而下，中央浮雕圖案化子母夔龍紋，上鐫清高宗御題詩乙首：「呂叟應曾燬製來，夔為蟠以玉為胎，石渠天祿人爭羨，誰果不孤視草台」。楷書，款題：「乾隆已亥御題」，鈐印二：「古香」、\n「太樸」，按「乙亥」為清高宗乾隆四十四年，西元1779年，此御題詩亦收入《清高宗御製詩文全集》八，《御製詩》四集，卷六十四，頁十一。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=184407&randomCode=61196603699",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=184408&randomCode=67567427507",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3039?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3039.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

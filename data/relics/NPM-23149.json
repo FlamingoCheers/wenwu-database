@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23149",
+ "name": "龍泉窯 青瓷三足爐",
+ "aliases": [
+  "Tripod incense burner with celadon glaze, Longquan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高14.2公分 口徑16.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003190N000000000"
+ },
+ "summary": "唇形口沿，斜頸下敞，兩側各帶環形耳，豐肩，斂圓腹，腹底中央微穹起，並帶一圓孔。帶三足。全器內外罩施青釉，僅三足底與腹底周圈未帶釉，器內底有三個疊燒痕。釉色濃厚，器表勻亮，器身下半段佈滿較多褐色開片。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=382444&randomCode=97429427326",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=382445&randomCode=26616169565",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23149?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23149.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-28152",
+ "name": "官窯 青瓷葵口碟",
+ "aliases": [
+  "Dish with hibiscus-shaped rim in celadon glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.3公分 口徑15.0公分 底徑5.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017157N000000000"
+ },
+ "summary": "六瓣葵花形，斂口，淺壁，平底，矮圈足。通體施青瓷釉，釉色灰青，釉表開深色細紋片。口沿釉薄，現出灰色邊；施釉至足際，足緣無釉，露出燒後胎色。雖然此一盤式近似於明朝汪興祖墓（1371）的出土物，但考慮到葵口器形，自宋朝以來即流行一時，常見於金銀、陶瓷與漆器之列，再加上老虎洞窯的編年報告尚未正式出版，無法取得進一步可資比對資料；故將之訂年為南宋至元朝。底面鐫刻乾隆皇帝〈詠官窯碟子〉：「掙釘猶是宋窯遺，冰裂紋存泑水滋。一例鳳凰山下土，不經陶鍊孰珍之」御製詩。詩末署「乾隆乙未春御題」紀年銘（乾隆四十年，1775），並落「太璞」一枚鈐印。乾隆皇帝鑑賞之際，為加強說明他對陶瓷燒造背景的瞭解，故於「一例鳳凰山",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403008&randomCode=89134588694",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403009&randomCode=28911355528",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/28152?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_28152.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

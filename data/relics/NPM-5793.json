@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-5793",
+ "name": "竊曲紋簋",
+ "aliases": [
+  "Gui food container with qiequ curled dragon pattern"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高21.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅001695N000000000"
+ },
+ "summary": "附蓋簋，帶環形捉手，子母口，雙耳，圓腹，圈足。耳做獸首形，下有附珥，圈足下有三小獸面足。蓋與器身近口沿處，各有一圈有目竊曲紋，其他為瓦紋。圈足飾垂鱗紋。器內有銘文。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=69064&randomCode=2091148258",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=69065&randomCode=362820648",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5793?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5793.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

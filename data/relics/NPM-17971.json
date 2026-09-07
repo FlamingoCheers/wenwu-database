@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-17971",
+ "name": "玉劍珌",
+ "aliases": [
+  "Jade scabbard chape"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長4.2公分 寬3.0公分 厚0.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉004067N000000000"
+ },
+ "summary": "玉劍飾，摻雜大片赭斑，呈現白色的部分較少。器呈梯形，原為安裝於劍鞘底端的飾品，一般稱為劍珌。梯形面上作減地雲紋。上底面有一圓形凹痕，下底面陰刻雲紋為飾。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334059&randomCode=40439072755",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334060&randomCode=85097709566",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/17971?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_17971.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

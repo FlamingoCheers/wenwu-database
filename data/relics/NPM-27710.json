@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27710",
+ "name": "定窯 白瓷印花壽字\u0003碗",
+ "aliases": [
+  "Bowl with impressed \"shou (longevity)\" character decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.8公分 口徑19公分 底徑5.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷004233N000000000"
+ },
+ "summary": "碗。侈口深壁，圓底，矮圈足，帶銅釦。器壁內口沿下印回紋二道。週壁劃分十六格，每格印花卉圖案一枝。器底心印一圓壽字。器外壁光素無紋。薄胎骨，釉色白偏黃。釉面滿佈冷紋，器內並有縮釉裂縫。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470466&randomCode=52556083790",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470467&randomCode=65204233663",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27710?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27710.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

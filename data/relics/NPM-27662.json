@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27662",
+ "name": "定窯 白瓷印花蓮荷雙鳳紋盤",
+ "aliases": [
+  "Dish with impressed decoration of lotus and paired phoenixes in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.8公分 口徑18.2公分 底徑5.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷003058N000000000"
+ },
+ "summary": "侈口淺壁盤，圈足淺細滿釉，口鑲銅稜釦，外口緣仍露出寬芒口澀胎。器裡印花為飾，印痕較深而清晰：口下回紋一周，器壁作雙飛鳳與牡丹、葵花，碗心寬圓，印折枝蓮荷一組；鳳紋頸部豐羽四散。全器紋飾與（故瓷016715、010299）青白瓷紋樣相近，鳳紋特徵的樣式也相近，對兩窯發展史的關聯亦值得注意。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470149&randomCode=62531909400",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470150&randomCode=1889694638",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27662?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27662.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

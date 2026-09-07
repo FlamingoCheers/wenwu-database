@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2454",
+ "name": "玉貓",
+ "aliases": [
+  "Jade cat"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "玉貓長6.2公分 寬4.3公分 高3.8公分；木座長6.7公分 寬4.8公分 高1.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉003425N000000000"
+ },
+ "summary": "墨玉，局部灰青滿布黑絲。雕貓踡坐凝視狀，四足並排，神情寧靜溫和。刻線簡潔，琢磨溫潤。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=130007&randomCode=25142343033",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=130008&randomCode=58113515231",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2454?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2454.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24145",
+ "name": "磁州窯 白地花鳥紋枕",
+ "aliases": [
+  "Pillow with flower and bird decoration painted in black, Cizhou ware"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1115,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高9.7公分 長26.1公分 寬16.5公分；底長24.0公分 寬14.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000430N000000000"
+ },
+ "summary": "瓷枕，八邊形，枕面中央微凹。全器施白釉，有黃斑點，底邊露胎。枕面及四邊筆繪花鳥，與陶泥形成黑白對比，從此器可以看見繪畫藝術在瓷器裝飾上的運用。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173371&randomCode=70168987025",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173372&randomCode=75987108374",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24145?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24145.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

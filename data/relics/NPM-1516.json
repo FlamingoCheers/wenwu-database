@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1516",
+ "name": "「張騫乘槎」銀槎",
+ "aliases": [
+  "Silver raft of “Zhang Qian riding a raft”"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "杂器",
+ "material": null,
+ "dimensions": "長23.6公分 寬11.3公分 高14.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中雜000100N000000000"
+ },
+ "summary": "此件銀槎是以漢代張騫（?- 西元前114）乘槎尋訪河源，至天河遇見牛郎、織女，並帶回支機石的故事為主題。器作天然中空枯蝕樹幹為槎（即木筏）， 主人翁張騫坐於槎內。整體造型簡約內斂，線條流暢洗練，人物情態生動。又據器底「碧山子」及「至正乙酉年造」(1345)篆銘可知，此器或為元代嘉興地區著名的銀工「朱碧山」所作。多見於明末著錄，如明王世貞（1526-1590）《觚不觚錄》記載朱氏以冶銀出名，其作品與當時不同工種的名匠皆「比常價再倍」。足見市場上對名家作品之追求。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=341817&randomCode=69830254057",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=341818&randomCode=1474000011",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1516?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1516.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

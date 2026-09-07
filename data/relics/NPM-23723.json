@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23723",
+ "name": "臨川窯 白瓷壽字爐",
+ "aliases": [
+  "Incense burner with \"shou (longevity)\" character decoration in white glaze, Linchuan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高9.4公分 口徑11.0公分 底徑10.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002243N000000000"
+ },
+ "summary": "深壁直筒型爐，三如意足。器內外施透明釉，呈現出潔白的胎色。外壁上中下各凸起三道並列緊靠的弦紋，遂將外壁分割為上下兩個裝飾部位，並以釉下劃花技法製作紋樣。外壁上半部以圓開光內置「壽」字為飾，開光外隙地飾回紋；外壁下半部飾雙層如意雲頭。底中央有圓形無釉露胎區，無款識。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394084&randomCode=73256370697",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394085&randomCode=1932408349",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23723?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23723.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

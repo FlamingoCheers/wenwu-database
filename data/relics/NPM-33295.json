@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-33295",
+ "name": "定窯 白瓷劃花魚紋碗",
+ "aliases": [
+  "Bowl with incised fish decoration in white glaze"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高9.3公分 口徑24.3公分 底徑8.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷004713N000000000"
+ },
+ "summary": "敞口深腹大碗，圈足滿釉，僅口緣鑲銅稜釦。器內外壁光素，僅口緣鑲嵌窄稜釦。內底中央劃花雙魚游於水波中。此種印、劃簡筆紋飾，如成組水波魚紋、蓮荷紋、小獸者，數量甚夥。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=623413&randomCode=1595386437",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=623414&randomCode=1600746665",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/33295?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_33295.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

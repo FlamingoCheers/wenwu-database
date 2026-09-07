@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27535",
+ "name": "龍泉窯 青瓷蓮瓣紋盤",
+ "aliases": [
+  "Dish with lotus-petal decoration in celadon glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.9公分 口徑16.5公分 底徑5.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷005184N000000000"
+ },
+ "summary": "盤，侈圓口，周壁較淺，外底微凹，矮圈足。胎質堅緻，施罩粉青色釉，釉色純潔瑩潤。器外壁飾蓮花紋十八瓣，器內樸素無紋。足底緣一週未上釉處塗淡赭色薄汁。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=468787&randomCode=43851639773",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=468788&randomCode=674940238",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27535?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27535.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

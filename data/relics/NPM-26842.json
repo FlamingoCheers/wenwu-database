@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26842",
+ "name": "定窯 白瓷劃花萱草紋洗",
+ "aliases": [
+  "Washer with incised daylily decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高9.6公分 口徑22.5公分 底徑11.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷010295N000000000"
+ },
+ "summary": "廣口深盆，腹下修削收為細稜狀大圈足，底平。口帶銅釦，而釦下似原有缺釉傷。器裡劃一莖長枝萱花，繞壁生姿，而一枝歧出伸展於器底面。花葉簡潔而勾劃嫻熟寫意。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=410774&randomCode=88854773257",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=410775&randomCode=196989806",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26842?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26842.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

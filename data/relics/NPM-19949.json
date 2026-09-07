@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19949",
+ "name": "定窯 白瓷劃花龍紋大盤",
+ "aliases": [
+  "White large dish with incised dragon pattern"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.2公分 口徑30.0公分 底徑12.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003788N000000000"
+ },
+ "summary": "敞口，弧壁下斂，圈足。口緣露胎，可見本器以覆燒技法製作。整器施白釉，釉色呈牙白，器外壁可見多道弦紋，器內壁則以劃花技法刻畫一蟠龍，以為本器之主要紋飾。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321106&randomCode=48101216932",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321107&randomCode=66470128617",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19949?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19949.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-42",
+ "name": "耀州窯 青瓷劃花牡丹紋碗",
+ "aliases": [
+  "Bowl with incised peony decoration in yellowish-green glaze, Yaozhou ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.5公分 口徑20.8公分 足徑5.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷000027N000000000"
+ },
+ "summary": "侈口矮圈足碗，壁深斜，足底挖削淺，而器內底心成尖圓形。器外壁口下一道弦紋，器內劃一折枝大朵獨科牡丹花為裝飾主紋。全器施橄欖色調的青釉，斜刀處積釉色深。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1226180&randomCode=1889694638",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1226181&randomCode=1566854592",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/42?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_42.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-36260",
+ "name": "霍州窯 印花螭紋折腰盤",
+ "aliases": [
+  "Plate with impressed chih-dragon design, Huozhou ware"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.2公分 口徑20.1公分 底徑5.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷016072N000000000"
+ },
+ "summary": "折腰碗，撇口、折腰、小圈足，足端無釉，口鑲銅稜釦，胎白、薄脆。器裡留有五個細小支釘痕並有印花細陽線勾勒團繞的線狀蟠螭紋。螭紋似欲襲仿定窯，不過圖案設計搭配甚薄弱。霍州窯位於山西霍州，色白而器薄。折腰盤具細線印花，為典型霍窯風格。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=621278&randomCode=601795864",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=621279&randomCode=719552767",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/36260?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_36260.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

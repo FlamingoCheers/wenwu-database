@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27834",
+ "name": "定窯 白瓷印花花卉紋盤",
+ "aliases": [
+  "Dish with impressed floral decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.1公分 口徑26.6公分 底徑10公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014251N000000000"
+ },
+ "summary": "盤，廣口大盤，弧形壁、矮圈足，足緣釉略擦去，口緣鑲金屬釦。器裡印花為飾，印紋繁密，輪廓勾勒工緻。口下以二道弦紋為邊，器內壁為繁密的纏枝牡丹紋，底纏枝蓮紋，壁與底間隔以絃紋三道。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=472492&randomCode=95785768908",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=472493&randomCode=88439603267",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27834?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27834.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

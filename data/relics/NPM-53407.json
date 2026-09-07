@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-53407",
+ "name": "雲紋玉飾",
+ "aliases": [
+  "Jade ornament with cloud pattern"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長8.0公分 寬1.2公分 高0.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中玉000639N000000000"
+ },
+ "summary": "玉質，白色夾雜赭斑。長方形片狀，兩端磨圓而有穿孔。背面平而光素，正面微鼓，淺浮雕三組雲紋。功能不詳，應為作嵌飾用。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=172919&randomCode=69209487418",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=172920&randomCode=49723931102",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/53407?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_53407.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

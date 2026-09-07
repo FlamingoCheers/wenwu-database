@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26094",
+ "name": "官窯青瓷紙槌瓶",
+ "aliases": [
+  "Mallet-shaped vase in celadon glaze, Guan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "寬6.6公分 高12.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017902N000000000"
+ },
+ "summary": "盤口，細長頸，斜肩轉折向下接碩腹。因尺寸較小，整體造型像是一只縮小版的紙槌瓶式。通體施青瓷釉，釉色粉青，口沿釉薄，現出灰色邊。頸腹開淺色大紋片。施釉至足際，足緣無釉，露出燒後胎色。底面鐫刻乾隆皇帝詠〈官窯小瓶〉：「宋時秘色四稱名，不及柴窯一片瑛。下視永宣茲又貴，由來品第鮮常衡」御製詩。詩末署「乾隆甲辰夏御題」紀年銘（乾隆四十九年，1784），並落「古香」一枚鈐印。傳世隨附有木座，面刻與器底相同的御製詩及紀年銘，惟落「太璞」一枚鈐印。乾隆皇帝鑑賞古陶瓷，最喜宋朝宮廷用瓷，故於「宋時秘色四稱名」之下，加注有「謂汝官哥定」，說明這四個窯口，正是他所認同的宋朝名窯。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393565&randomCode=77053452402",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393566&randomCode=59819447406",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26094?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26094.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

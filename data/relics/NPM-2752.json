@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-2752",
+ "name": "龍泉窯 青瓷梅花式盞",
+ "aliases": [
+  "Plum-blossom-shaped cup with celadon glaze, Longquan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.1公分 口徑9.2公分 足徑3.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017413N000000000"
+ },
+ "summary": "五瓣花口盞，口沿嵌銅釦。弧形深壁，胎質堅薄，內周壁依隨五花口突起五道稜脊，與之對應的外周壁則出現凹陷的淺溝。內底心貼飾梅花一朵，矮圈足。採墊燒法燒製，內外施青釉，呈色青翠，釉面開棕色紋片，足端無釉露出灰白胎。對照江蘇省南京張同之墓、福建省邵武南宋窖藏的出土品，以及日本東京國立博物館、英國大英博物館收藏的金銀器，可以追溯出臨仿的原型。根據《故宮物品點查報告》所載，這件作品原來收藏於乾清宮西暖閣，傳世隨附錦袱，透露出一段珍藏傳世的經過。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=876553&randomCode=803417597",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=876554&randomCode=1636369443",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2752?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2752.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

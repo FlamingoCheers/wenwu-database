@@ -1,0 +1,37 @@
+{
+ "relic_id": "NPM-113",
+ "name": "油滴黑釉玉壺春瓶",
+ "aliases": [
+  "Pot with black glaze and oil spots"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "全高30.1公分 口徑8.0公分 足徑8.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購瓷000158N000000000"
+ },
+ "summary": "俗稱為「玉壺春」的小口瓶，撇口、細頸、梨式腹，足形外撇，胎色灰黃，外壁施黑釉，只及於腹下而不到底，釉下塗有褐色薄汁。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2663146&randomCode=1538105083",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/113?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_113.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

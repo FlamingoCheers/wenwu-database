@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-1943",
+ "name": "銅方爐",
+ "aliases": [
+  "Bronze rectangular incense burner"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "長14.2公分 寬11公分 高7.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅000437N000000000"
+ },
+ "summary": "全器飾以回紋，線條勻細，蓋面作卍、卐字形鏤空，銅色蠟茶，器底有篆款：「紹興二年（1132）大寧廠臣蘇漢臣監督姜氏鑄至德壇用」，（明）高濂《遵生八牋》曾提到，當時人喜愛元代杭城姜娘子新鑄的銅器，其特點在於「其撥蠟亦精，其煉銅亦淨，細巧錦地，花紋亦可入目，因其製務法古」，清初王士禎（1634-1711）《居易錄》也曾在孔尚任（1648-1718）的收藏中見過和本展品相同的方爐，因此此類香爐應在十七世紀的江南流傳。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=333840&randomCode=42269369610",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=333841&randomCode=18957546565",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1943?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1943.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

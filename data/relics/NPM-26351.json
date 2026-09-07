@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-26351",
+ "name": "龍泉窯 青瓷盤口弦紋長頸瓶",
+ "aliases": [
+  "Flat rimmed vase with linear decoration in celadon glaze, Longquan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高32.6公分 口徑12.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014020N000000000"
+ },
+ "summary": "盤口長頸瓶，口部寬敞如盤，邊緣立稜淺而方直。長頸上略窄而下寬；斜肩、扁圓腹、寬圈足。器壁以凸弦紋為飾，頸部弦紋二疏二密，肩部四道等距密接。餘無裝飾。釉色粉青凝厚，足圈平直無釉，灰胎多呈朱褐色。此種瓶式流傳甚廣，見於四川窖藏、新安沈船；也東傳日本多件。從室町時代花道書籍插圖看來，此器有花器的功能，而凸弦紋的裝飾也是同時期金銀器的風尚。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=360773&randomCode=84751306984",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=360774&randomCode=59235648067",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26351?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26351.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

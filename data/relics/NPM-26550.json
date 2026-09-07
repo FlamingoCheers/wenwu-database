@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26550",
+ "name": "官窯 青瓷葵口盤",
+ "aliases": [
+  "Dish with hibiscus-shaped rim in celadon glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.2公分 口徑21.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷008823N000000000"
+ },
+ "summary": "六瓣葵花形，侈口嵌銅釦，斜壁稍深，至足際向內橫折成折腰盤式，盤心微凹，矮圈足。胎體稍厚，上施青瓷釉，釉色粉青，釉表開深色大紋片。施釉至足際，足緣無釉，露出燒後胎色。 底面鐫刻乾隆皇帝〈詠官窯葵花盤〉：「脩內陶秘器，官窯異外間。難分建隆代，總出鳳凰山。葵式全非赭，冰紋半染殷。傾陽如取譬，切已獨思艱」御製詩。詩末署「乾隆丁酉新春御題」紀年銘（乾隆四十二年，1777），並落「古香」和「太璞」兩枚鈐印。 雖然張公巷窯址所出造型與之相似的素燒坯，被定年為北宋末至元代初年，但是策展之際考慮到這件作品的釉色、開片和圈足特徵皆近似於南宋官窯，故將其產燒時間定於南宋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=384252&randomCode=17750408395",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=384253&randomCode=90851034775",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26550?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26550.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

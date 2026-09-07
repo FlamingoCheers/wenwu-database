@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23115",
+ "name": "定窯 白瓷印花菊花紋碗",
+ "aliases": [
+  "Bowl with impressed chrysanthemum decoration in white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.1公分 口徑21.2公分 底徑7.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷005530N000000000"
+ },
+ "summary": "斗笠式碗，寬敞口，深斜壁下斂，小圈足，口緣鑲有銅釦稜。全器滿釉，色呈牙白。內壁印花為飾，底心飾一朵寶相菊花，碗內壁滿飾印花菊花花葉紋三組，近口沿處飾一圈回紋，外壁光素無紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=382380&randomCode=26124187915",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=382381&randomCode=978238190",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23115?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23115.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

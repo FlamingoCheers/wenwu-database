@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-20069",
+ "name": "白瓷琮式瓶",
+ "aliases": [
+  "White vase in the shape of an ancient Cong vessel"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高27.6公分 口徑5.7公分 底徑5.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003256N000000000"
+ },
+ "summary": "侈口有唇，束頸，頸下器形作長方，方足。全器施白釉，釉質凝潤，有細碎開片。器外壁四面各貼飾八卦紋一組。足露胎，足內白釉。舊稱「彭窯」，托名於元代名匠彭君寶。但無可比對的實物。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321057&randomCode=31889144676",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321058&randomCode=19633595512",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/20069?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_20069.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

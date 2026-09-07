@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-86",
+ "name": "玉童墜飾",
+ "aliases": [
+  "Jade pendant in the shape of a child"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬3.7公分 高5.5公分 厚1.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉006005N000000000"
+ },
+ "summary": "玉質，器表密佈赭色沁斑，立雕一雙手握舉綬帶的童子。童子雙足交叉，右臂垂 彎於胸前，右手往左上方伸展，左臂順勢上舉，雙手握拳，肩披綬帶，繞於身驅左右 兩側，帶尾往上飄，其右方綬帶略傷殘。左手拳起，手心鑿一穿，右手亦握拳，並鑿 一穿直通至雙足之間。淺雕八字形雙眉、雙眼、鼻、唇，頭頂正中淺浮雕出一綹頭髮，陰刻髮絲；身著菱格紋寬大長褲，雙腕戴釧，足穿小鞋。全器正面平緩，背與臀隆起，似取一三角柱狀玉子隨形雕琢而成。童子右手心至雙足之間鑿一通心穿，說明此器應做墜或珮。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1157271&randomCode=650037916",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1157272&randomCode=25798736",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/86?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_86.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

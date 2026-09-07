@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-55402",
+ "name": "松下弈棋圖玉插件",
+ "aliases": [
+  "Jade ornament with \"Go-game under Pinetrees\" motif"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長9.4公分 寬7.5公分；木座長11.1公分 寬3.7公分 高7.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉003572N000000000"
+ },
+ "summary": "玉插件。以多層次鏤空、浮雕出一對男女於松樹下對弈的情境，前景為人物、棋盤及松樹，女子後方尚有一位隨侍的侍女，松樹根部生有靈芝，人物上方飄有雲朵；背景部分鏤空，用以表現樹林或山石的景象。附木座一只。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=415646&randomCode=89974322590",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=415647&randomCode=853390354",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/55402?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_55402.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

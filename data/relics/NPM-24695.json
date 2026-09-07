@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24695",
+ "name": "日本 鎌倉時代 銅鎏金 十一面觀音菩薩立像",
+ "aliases": [
+  "Standing eleven-headed Kannon, Japan, Kamakura period (1185-1336)"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1185,
+  1336
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通高26.6公分(含木座) 像高21.8公分 全重602.74公克",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000298N000000000"
+ },
+ "summary": "日本金銅觀音立像，兩雙手分作合掌及法說印，寶冠台土有十一張佛面，正中者突出於頂，彷彿肉髻。頂上十尊佛面以剛硬的橫線刻出，環繞於頭頂，雙目平視，五官線條清晰，臉型福圓，袈裟自雙肩垂下，袒右胸，於腰際自然垂下，連結成一三角形於膝蓋間，無配戴裝飾，直立於劃有蓮瓣紋的小蓮座，依體態而言，帶有日本金銅佛特有的渾圓及孩童般頭大身小的比例。而大約在中國唐朝武則天時期，十一面觀音的造像大量流行。密教系統的菩薩像以觀音最早，而變化觀音中又以十一面觀音的經典及造像最早出現。「十一面」這個來源，依據梵文本，普門品章名的意思是臉朝向各方面，普聽眾生疾苦，觀音面朝十方法界眾生，加上原有的臉，便成為十一面。然另有學者認為",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=326062&randomCode=248693268",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=326063&randomCode=667849305",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24695?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24695.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

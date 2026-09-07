@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-91",
+ "name": "澄泥蕉葉硯",
+ "aliases": [
+  "Inkstone with plantain leaf design"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長22.7公分 高2.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000995N000000000"
+ },
+ "summary": "硯作蕉葉形，硯面周緣依葉形，局部微向內捲曲，並陰刻葉脈紋理；硯背周緣作三葉重疊形，滿刻葉脈紋理。硯面受墨處遺留墨痕，周緣陰刻葉脈紋理間陰刻楷書清高宗御製詩、陰刻楷書款及陰刻篆文印。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1300146&randomCode=1020951901",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1300147&randomCode=123845432",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/91?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_91.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

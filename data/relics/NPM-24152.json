@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24152",
+ "name": "青白瓷植物紋印花盒（一對）",
+ "aliases": [
+  "Pair of boxes with impressed botanical decoration in bluish-white glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "一件口徑6.5公分 另一件口徑6.0公分 高4.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000388N000000000"
+ },
+ "summary": "一對青白瓷盒。青白瓷的釉色青中有白、白中顯青。兩只圓盒，一只壁作菊瓣形，蓋面印花水草紋；另一只壁作直棱紋，蓋面印花牡丹花紋。宋代瓷盒的產量大，作坊亦趨向專業化，盒蓋的紋飾設計就有一百種以上。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173360&randomCode=71266803442",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173361&randomCode=73429091402",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24152?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24152.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

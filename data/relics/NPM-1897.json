@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-1897",
+ "name": "鳧首盤",
+ "aliases": [
+  "Pan plate decorated with a goose head"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "寬15.3公分 高4.7公分 口徑8.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅002097N000000000"
+ },
+ "summary": "此器為「吉笵流輝」銅器匣所儲銅器中的一件。圓形淺盤，器身一側作鳧首形，另一側作尾形流。盤下接圈足。鳧首飾點紋，圈足飾折枝紋，圈足外底有小圓珠紋一圈。附木座，上有「漢鳧首鐎斗」及「乾隆御鑑 甲」款。圖冊作「漢鳧首鐎斗」，文中根據許慎的說法，認為是作為溫器使用。然而此器為圈足形制，不適合用於加熱，且流嘴高於器壁，亦不利於傾注液體。整體而言，此器的鳧首造型與東周晉系青銅器風格相近，而圈足紋飾與宋金時期的銀器花卉紋相似，全器可能為宋以後屑湊改製而成。清宮舊藏，原儲於紫禁城永壽宮。錄於《西清續鑑‧甲編》卷16頁29。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=369761&randomCode=90422224024",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=369762&randomCode=1766577507",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1897?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1897.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

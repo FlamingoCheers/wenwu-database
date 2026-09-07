@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24153",
+ "name": "景德鎮窯 白瓷匜式洗",
+ "aliases": [
+  "Yi-shaped washer in white glazeYi-shaped washer in white glaze, Jindezhen ware"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "寬18.5公分 高5.6公分 口徑15.7公分 足徑9.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷012297N000000000"
+ },
+ "summary": "匜式洗，敞口，淺腹，長方流，流下方有一圓繫，淺圈足。內外壁均施白釉，圈足露胎，胎色褐黃。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173676&randomCode=78324913936",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173677&randomCode=45955491054",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24153?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24153.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

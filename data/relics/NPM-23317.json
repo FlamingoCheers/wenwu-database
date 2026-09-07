@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23317",
+ "name": "臨川窯 白瓷刻花龍紋筆筒",
+ "aliases": [
+  "White brush holder with carved dragon design, Linchuan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002645N000000000"
+ },
+ "summary": "筆筒，直口，直腹，凹足。全器施白釉，呈米黃色，近底外壁施紅褐釉。外壁以刻花為飾，筒身中央盤繞一行龍，隙地飾朵雲紋、靈芝及竹枝，造型活潑，外形線條深刻。底足緣露胎，呈淺褐色。口緣有木扣，今脫落。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395180&randomCode=57835613033",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395181&randomCode=37838552976",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23317?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23317.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

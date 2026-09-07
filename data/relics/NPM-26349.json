@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26349",
+ "name": "白瓷壽字紋尊",
+ "aliases": [
+  "Zun vessel with \"shou (longevity)\" character in white glaze"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高15.1公分 口徑5.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014045N000000000"
+ },
+ "summary": "瓶形，有盤口、瘦頸、溜肩、長圓腹，平底內凹，為寬緣淺圈足。全器釉色白中顯黃，釉層出現玻璃質開片，而足端露出米色胎土。器身上、下各有一道模印花紋帶，上部為下垂的變形蓮瓣，中框以「壽」字，蓮瓣框的上端各有鼓起的乳釘紋，形成一圈頸飾。下部近底一周則為蕉葉上仰。此器為仿定窯的低溫白瓷，舊名山西平定窯。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403818&randomCode=57176459754",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403819&randomCode=28950815461",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26349?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26349.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-14928",
+ "name": "澄泥鳧硯",
+ "aliases": [
+  "Refined clay inkstone with carved waterfowl"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長9.8公分 寬6.5公分 高1.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中文000029N000000000"
+ },
+ "summary": "長方形澄泥硯，面背橙紅身作亮黑色。周起邊框，硯堂平而略凹，有使用痕跡，向首端下斜為硯池，漸斜處作圓弧形，面光素無紋。硯背淺刻一禽鳥，首據一角，有簡單眼喙頸翎，兩長邊各有一道翅羽裝飾，喙下方鄰頸部有一葫蘆形凹槽，本面當亦可作硯板式硯用。側邊淺琢篆款「元祐五年八月製」(1090)。有鑲螭獸小玉璧木製硯盒。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=184390&randomCode=52444840583",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=184391&randomCode=992420056",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/14928?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_14928.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

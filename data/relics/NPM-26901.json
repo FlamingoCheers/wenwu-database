@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26901",
+ "name": "景德鎮窯系 青白瓷碗",
+ "aliases": [
+  "Bowl in bluish-white glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.5公分 口徑21.2公分 底徑6.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷002487N000000000"
+ },
+ "summary": "侈口，口沿加鑲銅釦，深壁上豐下斂，圓底矮圈足。薄胎施罩青白色釉，釉色汎青，內外壁光素無紋，器身外壁微見輪製時留下的「刷絲」遺痕和釉汁流淌的「淚痕」，圈足有微傷缺。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=429198&randomCode=22437044116",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=429199&randomCode=1381313543",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26901?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26901.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

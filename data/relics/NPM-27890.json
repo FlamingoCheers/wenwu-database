@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27890",
+ "name": "白瓷印花鳳紋雙耳扁壺",
+ "aliases": [
+  "Flask with handles and impressed phoenix decoration in white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高14.5公分 口徑2公分 底徑4.4*3.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017224N000000000"
+ },
+ "summary": "壺，斂圓口，長頸，豐肩，腹部扁圓，凹底，橢圓圈足，頸腹間飾兩弓形耳。器施牙白釉，足底露胎。頸上印回紋一道，腹部兩面各印望日鳳鳥一隻，隙地滿飾雲紋，腹部紋飾外印回紋一週。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=473745&randomCode=79331273827",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=473746&randomCode=348638782",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27890?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27890.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

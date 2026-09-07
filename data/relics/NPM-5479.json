@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-5479",
+ "name": "柳毅傳書故事鏡",
+ "aliases": [
+  "Mirror inscribed with a decoration of the tale of Liu Yi"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑18.2公分 邊厚0.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅000068N000000000"
+ },
+ "summary": "圓形鏡，半球鈕。鏡背鏡緣寬素，內有一道細弦紋。浮雕紋飾為一男子坐於岸邊樹下，下方有一持物童子，仙女及其侍者乘浪而來。一般認為此類主題紋飾來自唐代傳奇《柳毅傳》，描述龍女向柳毅訴苦受虐的場景。這一主題於金代銅鏡上頗為流行，曾出土於黑龍江。 與本鏡相同的一面鏡子錄於《西清續鑑．甲編》，但未見於本院所藏〈西清續鑑〉鏡匣銅鏡中，或許在編收〈寧壽續鑑〉鏡匣銅鏡時，將之改列其中。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=29262&randomCode=894373360",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=29263&randomCode=1313529397",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5479?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5479.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

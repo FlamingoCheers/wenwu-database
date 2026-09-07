@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3068",
+ "name": "端石九子硯",
+ "aliases": [
+  "Tuan stone inkstone decorated with nine pillars"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長22.5公分 寬13.3公分 高7.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中文000015N000000000"
+ },
+ "summary": "端石，長方抄手式，硯背斜下，下端無堵，石色紫中泛紅，硯堂微窪平整，墨池斑駁處處，墨池深約一‧五公分，硯背有高低石柱九，參差其間，《西清硯譜》云為鴝鵒眼。硯背下方浮雕一葫蘆印：「子京」，二字篆書，硯壁右側鐫清高宗御題銘乙首，隸書：「端溪之淵腴剖紫兮，鵒眼斯活暈秋水兮，如承如重森九子兮，溯原聚奎文明啟兮。」，款題：「乾隆御題」，鈐印二：曰「比德」「朗潤」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=184305&randomCode=73877859381",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=184306&randomCode=1388404476",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3068?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3068.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

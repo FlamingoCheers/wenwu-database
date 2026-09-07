@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-6522",
+ "name": "蟠虺紋方瓿",
+ "aliases": [
+  "Square pou wine vessel with interlaced hui-snake pattern"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  17
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高35.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000525N000000000"
+ },
+ "summary": "方瓿，梯形蓋、盤口、短頸、斜肩、鼓腹、階狀圈足，蓋上有四小獸首立雕，器肩上有四小獸首。蓋與腹飾幾何紋，以蟠虺紋為地。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1880&randomCode=36668333807",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1881&randomCode=47169061301",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/6522?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_6522.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

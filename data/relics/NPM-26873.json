@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26873",
+ "name": "甜白半脫胎九龍盤",
+ "aliases": [
+  "Dish with nine dragons decoration in sweet-white glaze"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高9.7公分 口徑21.7公分 底徑13公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷010328N000000000"
+ },
+ "summary": "此洗敞口，垂直深壁，圈足，口緣鑲有銅釦，圈足有舊傷。全器施以白釉，外壁留有釉流痕跡，色近米黃。碗外壁下腹壓印一圈蓮瓣紋，內壁則有轆轤拉坏留下的輪製痕跡，碗心則壓印著頭尾相向的雙魚紋。不論白釉、口鑲銅釦，或在碗心飾以雙魚紋的特色，皆為北宋定窯瓷器常見的手法，由此來看，此洗應為吉州窯仿定風格下之產物。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=410793&randomCode=91709130622",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=410794&randomCode=93333505074",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26873?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26873.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

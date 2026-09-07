@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-55517",
+ "name": "玉鷹首蟠螭帶鉤",
+ "aliases": [
+  "Jade belt hook decorated with eagle's head and chi-tiger"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長6.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉004127N000000000"
+ },
+ "summary": "玉質，局部帶褐色玉皮。雕作一件小型的帶鉤。鉤首立雕成一隻鷹頭，圓眼、尖喙，鷹鳥的頭頂還有單角與雙耳。鉤身作琵琶形，浮雕一隻披髮、圓耳的蟠螭。這種披髮蟠螭流行於南宋至元代初年，如：海寧智標塔塔基所出土，俗稱「方璧」的玉飾，上海西林塔出土雙螭紋璧上，都雕琢這樣的披髮蟠螭。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=130118&randomCode=56697645464",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=130119&randomCode=2101868714",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/55517?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_55517.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

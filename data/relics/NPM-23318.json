@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23318",
+ "name": "臨川窯 白瓷劃花獸首紋橄欖瓶",
+ "aliases": [
+  "White olive-shaped vase with incised decoration of animal masks, Linchuan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高10.1公分 口徑2.7公分 底徑3.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002646N000000000"
+ },
+ "summary": "瓶，撇口，平沿，束頸，溜肩，圓鼓腹，凹足。全器施白釉，以劃花為飾，腹部有獸首紋，頸部飾如意雲紋、回紋，肩部有回紋組成的三角葉形紋，脛部下緣飾點紋及回紋。足底緣露胎，呈褐色粗胎，底部施白釉。因器形形似中瓷2644，故從口沿嵌銅釦而知此件器皿原形或同中瓷2644，或因傳世口部磨損，以致加嵌銅釦，如同現今狀況。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=390040&randomCode=88363367252",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=390041&randomCode=51123983891",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23318?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23318.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

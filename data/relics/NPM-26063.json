@@ -1,0 +1,48 @@
+{
+ "relic_id": "NPM-26063",
+ "name": "汝窯 青瓷水仙盆",
+ "aliases": [
+  "Narcissus basin with celadon glaze, Ru ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1126
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.1公分 口縱15.8公分 口橫23.1公分 底縱13.0公分 底橫19.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017699N000000000"
+ },
+ "summary": "橢圓形盆，侈口、深壁，平底凸出窄邊稜，四雲頭形足；周壁胎薄，底足略厚。通體滿佈天青釉，極勻潤，釉面滿佈開紋片。裹足支燒，與一般水仙盆不同的是，底部存留五枚支燒痕，而非六枚，略見米黃胎色。曾是「中國藝術國際展覽會」。The International Exhibition of Chinese Art)的展品之一，於1935年在英國倫敦皇家藝術學院展出。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400207&randomCode=47087714328",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400208&randomCode=1127988348",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26063?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26063.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

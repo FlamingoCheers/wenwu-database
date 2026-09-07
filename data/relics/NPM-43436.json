@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43436",
+ "name": "青瓷水盛",
+ "aliases": [
+  "Water holder in celadon glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.4、口徑5.9、足徑6.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000403N000000000"
+ },
+ "summary": "水盛，歛圓口、窄唇、垂腹、矮圈足外撇。全器施青釉，釉色帶灰，表面滿佈淺色開片，多處可見縮釉小點，足緣露胎；外底心留有一處墊燒痕。附一深棕色圓木座，束腰，座側分作五面，紋飾均為鏤空方形勾連紋及捲雲紋；下接五足，足形似圓勾向內斂，足末端突出上捲。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401058&randomCode=57856660877",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401059&randomCode=220161423",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43436?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43436.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

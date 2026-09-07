@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1272",
+ "name": "鈞窯 天青碗",
+ "aliases": [
+  "Bowl with olive-green glaze"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.9公分 口徑13.1公分 足徑4.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷016044N000000000"
+ },
+ "summary": "斂圓口，深弧壁，平底並有矮圈足。施釉為天青色釉，釉色則呈青綠色。釉質較不透明，口沿則有一道米黃色邊。圈足壁留下一道修釉邊，足外壁、底緣與內壁無釉處，皆露赭土色胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1280825&randomCode=425244566",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1280826&randomCode=509109396",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1272?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1272.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-55823",
+ "name": "玉執芝童子",
+ "aliases": [
+  "Jade child holding a lingzhi fungus"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長4.9公分 寬3.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉004481N000000000"
+ },
+ "summary": "微透明白玉，夾雜少許褐黃色斑。玉琢成一人物形狀，呈斜躺姿勢，笑容可掬。人物頭頂紮一髻，手持一株靈芝與數顆壽桃，取其「長壽」意涵。有黃籤「六百六十八號」，「儲字十號」，本件置於故雜1026盒內。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334310&randomCode=55521171062",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334311&randomCode=1404485160",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/55823?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_55823.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

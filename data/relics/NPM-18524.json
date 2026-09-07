@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-18524",
+ "name": "青瓷弦紋竹節瓶",
+ "aliases": [
+  "Bamboo-style vase with horizontal rings in green glaze"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1644
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高25.3 公分 口徑7.0公分 底徑9.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷000688N000000000"
+ },
+ "summary": "盤口，長直頸，碩腹，圈足。頸上凸起弦文四道。器腹中段凸起弦紋兩道。全器施青釉，釉質腴潤，釉面滿佈赭色開片紋。圈足露胎塗褐色汁。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=287945&randomCode=32587565972",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=287946&randomCode=81521055143",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/18524?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_18524.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

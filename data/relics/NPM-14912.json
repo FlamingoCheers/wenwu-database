@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-14912",
+ "name": "二十八星宿硯",
+ "aliases": [
+  "Inkstone featuring the twenty-eight constellations"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長24.0公分 寬14.7公分 高7.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中文000008N000000000"
+ },
+ "summary": "石質，色深灰，長方形抄手式硯。硯四周起邊框，上飾多尾龍紋，硯面略凹，斜下至墨池。硯背利用天然石眼，雕作長短不一細長石柱，參差其間形成二十八星宿狀，中有圓形天水雙龍印、八疊篆文「內府圖書之印」，另有剔地陽雕雙連章「吳」「興」。硯首側壁有乾隆詩文與印，貯於刻有相同御製詩紫檀木硯盒。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=183548&randomCode=20137229368",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=183549&randomCode=23255799634",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/14912?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_14912.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

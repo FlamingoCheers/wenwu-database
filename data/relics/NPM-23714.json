@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23714",
+ "name": "吉州窯 白瓷劃花龍紋碟",
+ "aliases": [
+  "Dish with incised dragon decoration in white glaze, Jizhou ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.7公分 口徑16.0公分 底徑10.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002234N000000000"
+ },
+ "summary": "侈口，口緣鑲銅釦，深壁下斂，平底。整器施透明釉，器表有細密的開片，並呈現白中泛黃的色調。外壁光素無紋，內底心釉下劃花龍紋為飾。底外滿釉無款，見有明顯的旋削痕。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394062&randomCode=63331150763",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394063&randomCode=639317460",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23714?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23714.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

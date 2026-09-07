@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1234",
+ "name": "鈞窯 月白葵花式花盆",
+ "aliases": [
+  "Hibiscus-shaped planter with moon-white glazes"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1115,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高20.6公分 口徑28.2公分 足徑14.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷016536N000000000"
+ },
+ "summary": "花盆作六瓣葵花形，侈口出沿，沿邊凸起一道細稜。深腹、上豐下斂，器壁依隨葵花式而作鼓起、凹進的變化。平底挖五孔，矮圈足，足圈呼應折沿，亦作葵花形。通體罩施月白色釉，胎厚釉濃，釉質乳濁，釉表氣泡稯眼明顯。釉面偶見蚯蚓走泥紋，並有米白色的流釉痕。口沿稜邊與器內周壁的稜線，皆呈褐色。施釉至足際，足邊修釉整齊，底緣平整，外底塗醬色護胎釉，並刻數目字「一」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1189653&randomCode=708832311",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1189654&randomCode=580523065",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1234?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1234.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

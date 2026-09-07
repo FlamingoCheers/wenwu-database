@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27568",
+ "name": "白瓷劃花菊花紋葫蘆瓶",
+ "aliases": [
+  "Gourd-shaped vase with incised chrysanthemum decoration in white glaze"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高32.6公分 口徑3.4公分 底徑11公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017046N000000000"
+ },
+ "summary": "瓶，仿葫蘆器形，小圓口，平底，矮圈足。器外壁滿劃纏枝菊花紋，器頸部、腰部與近底邊處劃有回紋及雲紋數道，區別葫蘆器身上的菊花紋。器胎骨較厚，白釉瑩潤。釉表有若干斑點，及細碎開片紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469462&randomCode=56437770197",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469463&randomCode=54330581",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27568?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27568.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

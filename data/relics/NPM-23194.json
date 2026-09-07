@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23194",
+ "name": "臨川窯 白瓷雙耳扁壺",
+ "aliases": [
+  "White flask with paired handles, Linchuan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高18.2公分 口徑1.6公分 底徑5.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002616N000000000"
+ },
+ "summary": "小圓口，頸如碩腹下斂、近足外撇的瓶式，扁圓腹，兩側如意耳連接頸肩，長橢圓形圈足。外壁光素無紋，並滿施透明釉，白中泛黃的色調下，見有細開片。足露胎一圈，足內滿釉無款識。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=385931&randomCode=84779304595",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=385932&randomCode=769525524",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23194?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23194.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-6728",
+ "name": "圓渦夔紋奩",
+ "aliases": [
+  "Lian vanity case with whorl and kui dragon pattern"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高22.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000852N000000000"
+ },
+ "summary": "奩，圓筒形器身，深直壁，平底，三獸足，帶一花形鈕平頂蓋，口沿下有兩環形耳，連接帶鏈提梁，提梁兩端為張口龍首，啣住連接提梁的環。器外壁上中下各有一凸棱，器壁上下各飾一道紋飾，中央為圓形渦紋，兩側為獸形紋，以方型雲雷紋襯底。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=376359&randomCode=24869984151",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=376360&randomCode=60467226749",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/6728?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_6728.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

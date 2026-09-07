@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43375",
+ "name": "青瓷劃花盤",
+ "aliases": [
+  "Dish wih incised decoration in celadon glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "口徑23.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000322N000000000"
+ },
+ "summary": "盤，侈口、折沿、淺弧壁、矮圈足，器身歪斜。全器施青釉，色帶灰黃，表面滿佈細密開片，器外底及圈足露胎。器內壁飾折枝花卉，底見一凹圈；外壁留有轆轤痕，近底處繞弦紋數道。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401743&randomCode=25553718615",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401744&randomCode=216531900",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43375?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43375.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

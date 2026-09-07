@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-47716",
+ "name": "伊斯蘭銅回文缽",
+ "aliases": [
+  "Islamic inlaid bronze bowl with Arabic inscription"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  14
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高7.3公分 口徑15.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅001901N000000000"
+ },
+ "summary": "圓口微斂，凸肩斜腹，向下急收為小平底。器表斑剝模糊，口緣部分隱約似有回教式的文字，但已難以辨識。器腹作長條瓜稜狀，稜稜相接如花瓣，每六稜間刻飾以連續之四瓣花及卷枝忍冬紋，內底心刻由四組忍冬紋構成的團花。器形和花紋與13世紀呼羅山銅器相似，伊斯蘭稱此器形為tas，指握在手中的碗。類似之器形及紋飾在今日的伊朗、伊拉克、科威特及敘利亞等地區都，屢有發現，其年代經考定約在西元12至14世紀之間，當時那片廣大的地區也正是在元代的四代汗國之一的伊兒汗國境內。成吉思汗的西征，帶動了歐亞間的貿易及文化交流，中東地區的回教文物陸續東傳，為時代留下見證。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=8159&randomCode=22322908785",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=8160&randomCode=1552504613",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47716?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47716.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1310",
+ "name": "鈞窯 天青釉紫斑盂",
+ "aliases": [
+  "Bowl with sky blue glaze and purple splashes, Jun ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高16.4公分 口徑16.9公分 足徑8.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷009469N000000000"
+ },
+ "summary": "斂圓口，深弧形壁，尖底並有矮圈足。釉色裏外不一致，內壁釉色為天藍色，底部中心處無釉，留有一塊三杈形的支痕。外壁釉色為天藍色但釉層中泛出猶如彩霞的紫色斑紋，口沿一道赭紅邊。圈足底緣修飾不完整，足底、圈足外壁及內周壁無釉處，皆露赭土色胎，外底心微凸，施天藍色釉彩。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=559461&randomCode=30844875774",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=559462&randomCode=57791991",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1310?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1310.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

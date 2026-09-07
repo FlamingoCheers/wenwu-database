@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43062",
+ "name": "青瓷刻花蓋罐",
+ "aliases": [
+  "Lidded jar with carved decoration in celadon glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "全高13.5、器高11.8、口徑5.0、足徑6.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購瓷000188N000000000"
+ },
+ "summary": "蓋罐，歛圓口、短頸、折肩、深腹呈圓筒狀、矮圈足，帶花果莖枝形鈕平頂蓋。全器施青釉，釉薄處隱隱可見胎色，足內外底及圈足露胎。器外壁之肩、腹等處分別滿飾長形蓮瓣，瓣稜高起，瓣與瓣之間隙地亦刻出單稜蓮瓣；蓋頂紋飾猶如花萼或果蒂，與鈕形搭配。刻工樸拙、線條剛勁。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400646&randomCode=44578333313",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400647&randomCode=2123309626",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43062?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43062.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

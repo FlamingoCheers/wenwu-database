@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19962",
+ "name": "定窯 白瓷花口碟",
+ "aliases": [
+  "White dish with foliate rim"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高1.8公分 口徑12.5公分 底徑7.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003802N000000000"
+ },
+ "summary": "敞口外撇，作六瓣花式，深壁下斂，平底無足。全器施白釉，釉色潔白，圈足滿釉，口沿無釉鑲銅釦棱。器外壁自瓣口委角處輕畫一道直線，內壁凹棱明顯，除此之外，全器光素無紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321158&randomCode=21632186873",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321159&randomCode=59651019031",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19962?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19962.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

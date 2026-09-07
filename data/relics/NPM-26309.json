@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26309",
+ "name": "青瓷蓮房頭瓶",
+ "aliases": [
+  "Vase with lotus root-shaped head in celadon glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高23.1公分 足徑6.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014113N000000000"
+ },
+ "summary": "長頸瓶。口部膨大，做蓮蓬造形，頂部有五孔，直頸，溜肩，圓腹，圈足外撇。全器施青釉，呈粉青色，釉面滿佈淺色開片紋 ，瓶頂邊緣釉薄，略露粉紅色；口部、器身與外底有縮釉痕。足底塗有護胎汁，圈足有缺損，可見灰色胎體。附木座一只。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=339610&randomCode=74375115455",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=339611&randomCode=45539653553",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26309?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26309.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

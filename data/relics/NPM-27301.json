@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27301",
+ "name": "定窯 白瓷印花纏枝菊花紋碗",
+ "aliases": [
+  "Bowl with impressed chrysanthemum decoration in white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.6公分 口徑17.0公分 底徑3.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷004006N000000000"
+ },
+ "summary": "斗笠式碗，寬敞口、小圈足，側壁斜直，器壁薄，全器滿釉，僅口緣一周無釉；釉色牙白，外壁流釉明顯；胎質白細，為河北地區定窯系列的產品。器裡印花，作三組連枝菊花紋，菊花以小花半簇成作上尖下寬的三角花形，卷葉纏繞；底心印小朵多層瓣的寶相花卉。類似的菊花紋在南宋各遺址經常出現，例如江西吉水張重四墓（1237年或1254年）所出，造型、紋飾均極接近；同墓共出者有另件定窯白瓷一、建窯兔毫盞一；吉州窯三彩枕等，足見定窯瓷器的獲取似不比其他南宋產物困難。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=404885&randomCode=67548864031",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=404886&randomCode=990689351",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27301?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27301.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

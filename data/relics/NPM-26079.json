@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26079",
+ "name": "哥窯青瓷葵口盤",
+ "aliases": [
+  "Dish with hibiscus-shaped rim in celadon glaze, Ge ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.5公分 口徑18.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017832N000000000"
+ },
+ "summary": "六瓣葵花形，斂口，淺壁，平底，矮圈足。通體施青瓷釉，釉色灰青，略帶米黃，釉表開深色細紋片。口沿有輕微拭釉痕，釉薄處現出灰色邊；施釉至足際，足緣無釉，露胎處加塗褐色護胎汁。底面鐫刻乾隆皇帝〈詠哥窯盤〉：「花分六出尺徑圍，古色穆然火色微。雖是難為兄所造，即今匹比亦應稀」御製詩。詩末署「乾隆乙未暮春」紀年銘（乾隆四十年：1774），並落「古香」一枚鈐印。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401090&randomCode=52733090949",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401091&randomCode=58566739318",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26079?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26079.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

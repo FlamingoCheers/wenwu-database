@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-5804",
+ "name": "夔紋方簋",
+ "aliases": [
+  "Gui food container with square base and Kui dragon pattern"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通寬15.0公分 高10.2公分 口徑9.1公分 底徑7.7公分 腹深6.3公分 厚0.515公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅001818N000000000"
+ },
+ "summary": "方簋，盤口，雙耳，方腹，圈足，耳做獸首形，下有附珥，圈足外有外凸的圈足座。口沿下與圈足，各飾一道夔龍紋，腹部無紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=69129&randomCode=2016273179",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=69130&randomCode=1664901288",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5804?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5804.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

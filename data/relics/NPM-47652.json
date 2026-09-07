@@ -1,0 +1,43 @@
+{
+ "relic_id": "NPM-47652",
+ "name": "官窯臂格(附件)",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷018043N000000001"
+ },
+ "summary": "木製臂擱架，長方形，正面兩側有長形凹槽，放置故瓷18043臂擱時可供固定，方圈足。正面中央陰刻填金隸體「乾隆御玩」四字，下有陰刻填紅篆體陰文「卍有同春」、陽文「乾隆宸翰」；背面陰刻填金隸體御製詩：「物有其奇必有偶，乾坤示象義經紐。宋瓷臂擱天府久。茲獲其雙不脛走。瓦形長短同薄厚，鐵足淡青出藍受。後先合德相為友，官窯脩內陶成後。瘦金筆法擱臂肘，義之懸腕或弗取。此理倩誰為判剖，文良雅玩堪享帚。那數琅玕瓊瑤玖。卵幕杯祗盛醴酒，小哉浮梁昊十九。」乾隆丁酉新春月上澣御題（乾隆四十二年：1777）紀年銘。下有陰刻填紅篆體陰文圓印「乾」、方印「隆」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=430987&randomCode=41510769466",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=430988&randomCode=85713553769",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47652?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47652.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

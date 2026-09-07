@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2773",
+ "name": "安溪窯 青白瓷印花卷草紋盒",
+ "aliases": [
+  "Box with impressed leaf scrolls decoration in bluish-white glaze, Anxi ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.8公分 口徑10.0公分 底徑7.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000364N000000000"
+ },
+ "summary": "蒸餅式圓盒，子母口相合，餅形足底部向內斜凹入。盒蓋面及盒壁皆印花陽文卷草為飾，卷草鬚捲迎讓纏繞成幾何式圖案。胎白而鬆，透明釉汁成白瓷效果，積釉處微青；器裡僅施半釉，口緣及底均無釉。福建盛產青白瓷及近似白瓷的器皿以外銷，如閩南的安溪、德化，因產瓷土而窯業興盛，所造紋飾工謹，且均有專製盒子的工作坊；瓷盒有大小多種形式，紋飾多為陽文卷枝紋。這種在器面上以曲繞的線條組成卷草紋或如意雲頭紋，是宋、元的金銀器、漆器、瓷器上都很常見的裝飾習慣。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=398617&randomCode=68722510285",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=398618&randomCode=60257403786",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2773?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2773.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

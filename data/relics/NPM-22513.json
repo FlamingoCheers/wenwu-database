@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-22513",
+ "name": "清三希堂法帖（十二）　冊　宋蘇軾書春帖子詞",
+ "aliases": [
+  "Modelbook Calligraphy in the Three Rarities Hall (Sanxitang), Twelve： Set of Poems Celebrating Spring (chun tie zi ci)"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "书画",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈帖000089N000000001\n more\n \n 贈帖000089N000000002\n 贈帖000089N000000003\n 贈帖000089N000000004\n 贈帖000089N000000005\n 贈帖000089N000000006\n 贈帖000089N000000007\n 贈帖000089N000000008\n 贈帖000089N000000009\n 贈帖000089N000000010"
+ },
+ "summary": null,
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=456835&randomCode=70344319284",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=456836&randomCode=18703468218",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/22513?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_22513.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

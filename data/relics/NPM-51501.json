@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-51501",
+ "name": "玉龍鳳紋瓶",
+ "aliases": [
+  "Jade vase with dragon and phoenix decoration"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "高11.8公分 口徑長4.7公分 寬3.8公分 底徑長5.2公分 寬3.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉003442N000000000"
+ },
+ "summary": "玉質，玉質有綹及赭璺。器形為壺式扁瓶，寬頸、垂腹、有圈足。口沿一周回紋，頸飾夔龍紋，腹部開光內陰刻一團龍紋。另一面為鳳紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=136915&randomCode=85929311600",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=136916&randomCode=24990426645",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/51501?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_51501.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26316",
+ "name": "龍泉窯 青瓷長頸瓶",
+ "aliases": [
+  "Long-necked vase with celadon glaze, Longquan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高26.1公分 口徑6.2公分 足徑10.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014123N000000000"
+ },
+ "summary": "圓口窄唇邊，長頸，扁圓腹，矮圈足。胎骨較厚，全器採墊燒法燒製，內外施青釉，呈色翠青，釉質勻整透明。圈足欠圓整，著地處露出灰白色胎，足端可見鐵紅色邊。此一器形普遍流行於宋元之際，材質有銅、銀器和瓷器之別。日本常盤山文庫收藏一件器形相仿，但釉色米黃的作品，由於該件瓷瓶的器表局部也出現青翠的釉色，加上大英博物館收藏一件同形青瓷瓶，浙江省龍泉窯博物館收藏的同形瓶釉呈米色，故有米色釉的產生，乃因窯燒時火候溫度出現改變，導致青瓷釉色轉呈米黃色的說法。 此外，與此件瓷瓶相似的作例，也見於四川省金魚村遂寧窖藏（1236）、韓國新安海底沈船（1323）。和老虎洞窯址的出土品之列；對照四川省彭州窖藏和浙江省蘭溪市",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=340235&randomCode=46571404739",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=340236&randomCode=14066292671",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26316?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26316.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

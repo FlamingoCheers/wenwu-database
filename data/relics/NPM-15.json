@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-15",
+ "name": "「朝城官」鏡",
+ "aliases": [
+  "Mirror with \"Zhao cheng guan\" mark"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "邊厚0.2公分 徑11.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000276N000000000"
+ },
+ "summary": "鏡身作八圓瓣形，鏡背正中有一橋形小鈕，以雙弧線及小圓點相間排列而成的鈕座外，滿飾淺浮雕的纏枝花卉，其外環飾一圈連珠紋及小花瓣，寬平的鏡邊上陰刻著「朝城官押」，鈕旁的花葉中則鑄有一個陽文的「韓」字。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1303763&randomCode=9718052",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1303764&randomCode=1969929945",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/15?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_15.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

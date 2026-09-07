@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23321",
+ "name": "官窯 青瓷缽式碗",
+ "aliases": [
+  "Bowl with celadon glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高9.8公分 口徑12.6公分 底徑8.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002649N000000000"
+ },
+ "summary": "斂口，弧形深腹，矮圈足。胎骨厚重，內外施青釉，釉色灰白，內外滿佈灰色紋片，口沿、足端塗黑棕色護胎汁，內底面有六枚支釘，支痕中露出深灰色胎。類似這件作品的器形普遍出現於宋元時期南北窯場，特別是對照四川省彭州窖藏出土的金銀器，而可感受到流通於不同窯口間，共同追仿金銀器的風潮。大英博物館藏《古玩圖》卷則提示了配蓋器類傳世的經過。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=390127&randomCode=73374255723",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=390128&randomCode=29185374972",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23321?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23321.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

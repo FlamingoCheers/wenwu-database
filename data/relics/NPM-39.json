@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-39",
+ "name": "官窯 青瓷葵口碗",
+ "aliases": [
+  "Hibiscus-rimmed bowl with bluish-green glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.8公分 口徑23.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷008821N000000000"
+ },
+ "summary": "花口分六瓣，侈口，弧形深壁，器外微現六道淺槽，內底心微凹陷，圜底，淺圈足。墊燒，內外施青釉，釉層濃潤，顏色粉青，口下有多層施釉痕，釉表帶少許棕色大紋片。圈足施釉不勻整，著地處露出深灰色胎。器形類似大英博物館收藏的「亞歷山大碗」。另有一件與此器型尺寸、大小相同的六瓣花口碗，藏於國立東京博物館，為橫河民輔所贈送的，尺寸稍大，鑲有銅口，釉較厚，整器有大小開片，碗壁下半釉厚處有冰裂紋。此造型的碗在杭州烏龜山及萬松嶺窯址都有發現。瓷器花口的器物，如瓶、盤、碗之造形，衍自金銀器，唐朝時已相當流行，宋朝時承繼之，但碗盤花口之花瓣數比唐朝有增多的傾向。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=557779&randomCode=27296947610",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=557780&randomCode=992420056",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/39?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_39.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-55243",
+ "name": "海棠式玉環",
+ "aliases": [
+  "Jade begonia-shaped ring"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長9.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001525N000000000"
+ },
+ "summary": "南宋墓葬中，常見用美玉或水晶製作一種別具特色的環狀器，無論它的外輪廓是橢圓形或秋海棠花形，中央一律鏤空為頗寬大的秋海棠花形的大孔。雖然古文獻中「海棠」是多類觀花植物的俗稱，但在描述文物時所用「海棠式」一詞，主要指對稱的二大、二小的四瓣花形，也就是「四季海棠（秋海棠）」的花冠形狀。雖然有些考古報告（如江蘇武進南宋墓等）稱這類海棠式環為「鎮紙」，但若要用來書寫時壓住紙張，應像本書收錄的史繩祖墓出土的玉兔那般，底平、穩重好拿。但這類環狀器都只有一圈不算厚的邊框，中央大孔固定做成四瓣花形，應有特定功能。是否用作帶扣？尚待更多的考古資料與研究。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397660&randomCode=46714176009",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397661&randomCode=15078280",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/55243?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_55243.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

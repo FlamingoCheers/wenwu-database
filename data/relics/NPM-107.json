@@ -1,0 +1,40 @@
+{
+ "relic_id": "NPM-107",
+ "name": "耀州窯 青瓷女童",
+ "aliases": [
+  "Figurine of a young girl in yellowish-green glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "全高9.1公分 寬5.4×3.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購瓷000056N000000000"
+ },
+ "summary": "人物雕塑，頭與身體係分別模製接合成，作兀坐狀。女童兩手於膝前持物，頭上三髻，後髮分為兩羊角髻垂於左右兩側，深著寬衣，繫腰帶、盤腿坐，表情淺淡靜穆。滿施釉色青綠，釉厚凝，釉內滿佈氣泡，表面霧狀光斂；平底、灰胎、有一出氣小孔。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2662229&randomCode=1173215706",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/107?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_107.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

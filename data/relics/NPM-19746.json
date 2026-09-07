@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19746",
+ "name": "白瓷葫蘆瓶",
+ "aliases": [
+  "Gourd-shaped vase in white glaze"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高27.6公分 口徑2.6公分 底徑9.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002633N000000000"
+ },
+ "summary": "葫蘆型，直口，長頸，斜肩，束腰，圓腹，矮圈足。全器施白釉，裝飾劃花紋樣，頸部為卷渦紋，腹部為轉枝花卉紋，腰部為回紋，釉面有開片紋。圈足底緣露胎，呈淺褐色，底可見施加化妝土的痕跡。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318560&randomCode=76074276626",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318561&randomCode=27739546452",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19746?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19746.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

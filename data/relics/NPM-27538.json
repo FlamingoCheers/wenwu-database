@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27538",
+ "name": "白瓷劃花蓮瓣紋盤",
+ "aliases": [
+  "Dish with incised lotus petals decoration in white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高9.1公分 口徑33.3公分 底徑13.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷005187N000000000"
+ },
+ "summary": "侈口，淺弧形壁，平底，矮圈足，帶銅釦。器內週壁劃蓮花水草，內底劃水波紋，器外壁劃蓮瓣紋。施罩米黃色釉，厚胎薄釉，米黃釉色欠勻，器內外壁滿佈細碎開片紋。足底緣一週未上釉塗深赭色汁。外底心墨書寫有「六六八 20」，為「清室善後委員會」千字文點檢原始編號「麗六六八之二十」之意。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=468792&randomCode=82837063108",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=468793&randomCode=81830886591",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27538?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27538.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

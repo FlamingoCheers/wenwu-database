@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-45426",
+ "name": "牙柄形器",
+ "aliases": [
+  "Tusk handle"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "雕塑",
+ "material": null,
+ "dimensions": "長10.1公分 徑1.7-2.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈雕000198N000000000"
+ },
+ "summary": "長管形中有一孔貫穿，乃兩面對穿而成，較細的一端孔呈圓形，另一端呈三角形。呈圓形者之內壁仍遺留當時鏇孔時之寬弦紋；呈三角形者可看出當時鑽孔時先從三角點鑽入，再修磨出孔壁。近較細的一端兩側各穿一孔，可供固定中孔內物質，外壁中段有四道寬凹痕，其近較細之ㄧ端陰刻六道細弦紋為飾，另一端飾五道較寬弦紋。此器之中孔可供插入一物，再藉壁面之兩個成直線的小孔固定之。手握之，外壁中段之凹痕可供執握，可能為器柄類物。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350033&randomCode=28149384704",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350034&randomCode=24167988659",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/45426?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_45426.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

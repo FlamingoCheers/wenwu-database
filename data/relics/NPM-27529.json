@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-27529",
+ "name": "汝窯 青瓷碟",
+ "aliases": [
+  "Dish in celedon glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.2公分 深2.2公分 口徑13.7公分 足徑9.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷005177N000000000"
+ },
+ "summary": "此件作品口嵌一銅釦，釉表開細密紋片，器底留存三枚支燒痕，圈足具金銀器捲足的特徵。相似的標本和整器，亦見於河南省寶豐縣清涼寺汝窯窯址的考古發掘，及世界各公私立博物館的收藏中。從中顯示北宋汝窯的產製，在形制上似乎存在某種規格化的取向。特別是對照2000年的考古發掘報告，發現傳世的器物幾乎都能從中找到足以相對應的標本，進一步暗示官方瓷器的生產，背後可能存在的管理制度。同時，韓國高麗青瓷的作品組群中，亦存在與此件作品相仿的器形，從而得知十二世紀韓國高麗與中國北宋窯業的交流。尤其是兩個窯口在器形、釉色和燒造方式的相似，以及彼此存在互為影響的關係上，展現出東亞窯業的發展存在區域之間彼此互動的情景。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=466787&randomCode=16956368246",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=466788&randomCode=1138708804",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27529?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27529.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

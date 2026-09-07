@@ -1,0 +1,48 @@
+{
+ "relic_id": "NPM-26138",
+ "name": "臨川窯 白瓷劃花牡丹紋瓶",
+ "aliases": [
+  "White vase with incised decoration of peony, Linchuan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高12.5公分 口徑3.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017869N000000000"
+ },
+ "summary": "瓶，撇口、收頸，斜肩、腹寬廣而略下垂；圈足。器內壁光素無紋，外壁劃有紋飾，口下有一圈似火焰花紋，下接頸部之桃形鉤連紋，兩者中間以一道凸弦紋為界；肩部光素無紋。腹部飾有牡丹花紋數枝並有枝葉，每朵花以軟枝蔓生迴轉枝葉相連。圈足飾有凸弦紋一道。全器內外均施白釉，釉色潔白；足端與足內牆無釉，呈黃褐色。 圈足內施白釉，有淺褐色冰裂狀細開片。器外底有倫敦展標籤編號「225」，顯示本件曾於西元1935至1936年間由故宮出借至英國倫敦參加「倫敦中國藝術國際展覽會」(The International Exhibition of Chinese Art, London, 1935-6)。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401796&randomCode=69295643727",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401797&randomCode=1600746665",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26138?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26138.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

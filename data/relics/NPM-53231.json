@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-53231",
+ "name": "玉雕雲龍渣斗（附銅膽）",
+ "aliases": [
+  "Jade spittoon with carved cloud and dragon design (incl. metal inner liner)"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "通高9.3公分 口徑10.2公分 腹徑14.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中玉000470N000000000"
+ },
+ "summary": "玉色青綠，有大片赭斑。敞口圓腹瓶，似圈足而平底。腹以陰線飾兩雲龍，器口飾有一圏回紋，器內有一銀質內膽，銅膽頂端飾有鏤空鳳鳥紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=125794&randomCode=82224041036",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=125795&randomCode=54007407946",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/53231?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_53231.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

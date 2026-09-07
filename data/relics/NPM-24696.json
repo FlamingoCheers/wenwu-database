@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24696",
+ "name": "日本 鎌倉時代 銅鎏金 觀音菩薩立像",
+ "aliases": [
+  "Standing Kannon, Japan, Kamakura period (1185-1336)"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1185,
+  1336
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "像高24.2公分 像重431.4公克",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000299N000000000"
+ },
+ "summary": "菩薩，雙腿微彎曲，身軀渾圓，側視略呈S型，髮髻呈山形高聳，蓮瓣紋寶冠，正中及其上方各有一小孔，原飾物已失。雙耳長垂幾及肩，下裳層次頗多。衣襬呈波浪狀，雕刻深淺不一，呈現細緻的立體感。雙手手心向上平舉於腹部前方，右手掌有一穿孔，原應有持物。自頭部至足心中空，右足稍前，一足微曲而站立。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=364989&randomCode=129205660",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=364990&randomCode=1318889625",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24696?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24696.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

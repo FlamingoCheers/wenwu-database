@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26914",
+ "name": "定窯 白瓷印花吳牛喘月圖碟",
+ "aliases": [
+  "Dish with impressed decoration of a water buffalo gazing at the moon in white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.4公分 口徑13.6公分 底徑9.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷002500N000000000"
+ },
+ "summary": "侈口淺壁，帶銅釦，平底臥足。器內近口沿處周印回紋一道，內壁周印卷雲紋一道，內底心印吳牛喘月圖紋，「吳牛喘月」典故原指江淮一帶的水牛怕熱，看見月亮以為是太陽，便喘息不停，後比喻見到曾受其害的類似事物而過分害怕驚懼；或不明實際狀況，單憑表面做出錯誤判斷；或形容天氣酷熱。本器牙白釉色略帶微黃。定窯位在河北省曲陽縣澗磁村、燕山村一帶，窯場廣佈，是宋金時期北方最盛的白瓷窯場。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428868&randomCode=22088576014",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428869&randomCode=671478828",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26914?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26914.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24470",
+ "name": "柬埔寨 12-13世紀 青銅鎏金 菩薩立像",
+ "aliases": [
+  "Standing bodhisattva, Cambodia, ca. 12th-13th century"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通高26.9公分 像高22.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000078N000000000"
+ },
+ "summary": "青銅菩薩像立於一青銅方形座，約十二至十三世紀，此時期柬埔寨之佛教造像藝術風格受吉蔑文化之影響，佛教信仰帶有印度教與密教風格，例如觀音菩薩眾多的變化形像之一的四臂觀音形象，即受到印度教神祇多臂及持物等圖像特徵。此菩薩髮住坐佛，三眼四臂，手中分持念珠、蓮花花苞、經卷和水瓶。上身全裸，頭戴一圈圓冠，身佩項鍊釧環，下身穿著短裙，腰部縛帶尾端呈雙魚尾狀，是柬埔寨君王樣式，這是由於吉蔑文化將天王（Devarāja）信仰引入，與當地流行的佛教和印度教思想結合，而天王信仰認為帝王是神佛轉世，神權與王權實為一體，故佛教造像穿戴的形式和君王一致。衣褶以垂直平行直線刻劃，形式刻板，腿部肌肉結構處理手法簡略，是此時期",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=127743&randomCode=27039618342",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=127744&randomCode=111394271",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24470?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24470.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

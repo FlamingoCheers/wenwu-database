@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26549",
+ "name": "官窯 青瓷葵口碗",
+ "aliases": [
+  "Dish with hibiscus-shaped rim in celadon glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.5公分 口徑23.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷008822N000000000"
+ },
+ "summary": "花口分六瓣，侈口，弧形深壁，器外微現六道淺溝，內底心凹陷一圓形淺槽，圜底，淺圈足。墊燒，內外施青釉，釉層濃潤，顏色粉青，口下局部刮釉，露出多層施釉特徵，釉表帶少許棕色大紋片，圈足施釉不勻整，局部顯露出深灰色的胎體。器形類似大英博物館收藏的「亞歷山大碗」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=385044&randomCode=78745759671",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=385045&randomCode=1689803610",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26549?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26549.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

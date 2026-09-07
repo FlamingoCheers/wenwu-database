@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-39920",
+ "name": "哥窯青瓷葵口碟",
+ "aliases": [
+  "Dish with hibiscus-shaped rim in celadon glaze"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.2公分 口徑15.9公分 底徑5.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷003271N000000000"
+ },
+ "summary": "六瓣葵花形，斂口，淺壁，平底，矮圈足。通體施青瓷釉，釉色灰青，略帶米黃，釉表滿佈深色細紋片。口沿釉薄，現出灰色邊；施釉至足際，足緣無釉，露出燒後胎色。底面鐫刻乾隆皇帝〈題哥窯盤子二首〉：「宣成近代製猶精，遙以宋窯薌二生。笑把葵花百圾者，恰如烈士善循名」御製詩。詩末署「乾隆庚戌夏御題」紀年銘（乾隆五十五年，1790），並落「太璞」一枚鈐印。乾隆皇帝除將「葵口」比喻成「忠誠」，鑑賞這件哥窯盤時，在「笑把葵花百圾者，恰如烈士善循名」兩句下，加注有「哥窯有裂紋」，以此解釋他以為開片是哥窯瓷器的特徵，並將之看成是象徵「烈士」的標記。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428442&randomCode=36221920776",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428443&randomCode=30495534926",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/39920?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_39920.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

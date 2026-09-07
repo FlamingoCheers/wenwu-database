@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26686",
+ "name": "定窯 白瓷劃花斗笠碗",
+ "aliases": [
+  "Conical bowl with incised decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.5公分 口徑12.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷011386N000000000"
+ },
+ "summary": "敞口斗笠形碗，口緣露胎一圈，深斜壁略外弧，圈足。器之內外均施白釉，積釉處色略黃，圈足裹足滿釉。器外壁光素無紋，但胎體黏有小泥塊，器內壁以以圓底碗心為中心，輻射出柔曲的s形劃花雙陰線。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=408099&randomCode=86584681330",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=408100&randomCode=76316473117",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26686?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26686.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-60958",
+ "name": "青瓷花插",
+ "aliases": [
+  "Flower holder with celadon glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高17.3公分 口徑9.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷018036N000000000"
+ },
+ "summary": "圓筒形，口微內斂，器身微外鼓，腹部以下漸收，器表飾弦紋三道，平底，淺圈足。墊燒，內外施濃釉，呈粉青色，口沿釉薄現出灰色邊，底部有積釉痕。器表開棕色大紋片，間雜細小縮釉點。足端與外底塗黑褐色薄汁，周緣局部沾釉。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=893469&randomCode=1281368029",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=893470&randomCode=411062700",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/60958?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_60958.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

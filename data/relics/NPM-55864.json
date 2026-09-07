@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-55864",
+ "name": "玉胡人",
+ "aliases": [
+  "Jade foreigner"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長5.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉004522N000000000"
+ },
+ "summary": "玉質，但有小部分呈淺綠色。整器雕一人像，其髮鬚皆卷，上身坦露而僅著披風，側首上昂，扭腰抬腳，右手抓披風一角，左手抬至頭側，整體正是表現一位手足舞蹈的人像。此器連同故玉4520-4521、故玉4523-4527其他七塊玉同儲於一盒。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334358&randomCode=56585295515",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334359&randomCode=78617766284",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/55864?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_55864.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

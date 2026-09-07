@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3089",
+ "name": "黝玉硯",
+ "aliases": [
+  "Inkstone inscribed with \"You yu\""
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長19.0公分 寬11.2公分 高6.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000997N000000000"
+ },
+ "summary": "端石，硯作長方抄手式，兩附高約4.3公分，下端無堵，石色青紫，受墨處微凹，墨池呈一字形，硯首壁側鐫篆書：「宋研」二字，右側刻隸書：「黝玉」二字，左側鐫清高宗御題銘乙首，楷書：「體具剛柔，用合動靜，日萬幾欽，屢省福天下兮，綿世永。」款題：「乾隆己巳御識」，鈐印一：「乾」、「隆」篆書，圓方連珠印，此硯銘亦著錄於《清高宗御製詩文全集一》，《御製文初集》，卷二十七，頁六－七。按此硯係在乾隆十四年(1749)冬，清高宗於內府選得古硯材乙批製為古十硯，此硯即為其中第五方，并在硯匣標識「戊」字揩書，以有別於他硯。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176910&randomCode=51117767639",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176911&randomCode=49027223854",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3089?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3089.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

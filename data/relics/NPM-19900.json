@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19900",
+ "name": "定窯 白瓷印花螭龍盤",
+ "aliases": [
+  "White dish with impressed Chi-dragon decoration"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.7公分 口徑13.5公分 底徑9.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷004020N000000000"
+ },
+ "summary": "侈口，淺壁，平底，圈足寬矮。全器滿釉，色牙白，器裡以印花為飾，口沿回紋，周壁卷草紋，內底為螭龍紋繞以卷草海石榴紋。採覆燒法燒製，於口沿無釉處鑲銅釦稜。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318799&randomCode=24831921658",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318800&randomCode=20466105464",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19900?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19900.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

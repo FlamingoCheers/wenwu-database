@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-14916",
+ "name": "端石抄手硯",
+ "aliases": [
+  "Duan inkstone in \"Chaoshou\" shape"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長16.1公分 寬9.2公分 高4.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中文000034N000000000"
+ },
+ "summary": "長方形紫石硯，色紫黑，身微有小碰傷。硯作抄手式，除尾端外三邊起寬棱，硯堂寬闊略凹，中有使用痕，向首斜下為硯池，全器光素無紋飾。硯背琢延祐年趙子昂詩文及印，硯首側壁有乾隆辛丑年(1781)御題詩並印。趙子昂為元時入仕之遺宋王孫，乾隆御製詩隱有暗諷之意。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=184205&randomCode=64281011097",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=184206&randomCode=65089485107",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/14916?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_14916.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

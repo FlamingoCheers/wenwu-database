@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27906",
+ "name": "青瓷紙槌瓶",
+ "aliases": [
+  "Mallet-shaped vase in celadon glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高16.9公分 口徑4.9公分 底徑8.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷007754N000000000"
+ },
+ "summary": "形制如造紙打漿時所用槌具，故名紙槌瓶。斂口捲邊，長頸碩腹，平底短圈足。胎質較薄，全器施青釉，釉色瑩潤樸雅，釉面滿佈細碎透明及淺色開片紋。器口沿為白色邊。足底露胎，塗有赭色薄汁。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=476296&randomCode=20114291386",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=476297&randomCode=41360718611",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27906?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27906.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

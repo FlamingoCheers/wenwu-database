@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1244",
+ "name": "鈞窯 天藍葡萄紫鼓釘洗",
+ "aliases": [
+  "Drum-shaped washer with azure and grape-purple glaze"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1115,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.5公分 口徑22.2公分 底徑16.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017482N000000000"
+ },
+ "summary": "斂圓口，淺腹、腹形如鼓，平底，三雲頭形足。口沿、腹壁各飾弦紋一道，鼓腹按飾鼓釘紋兩周；上緣二十一枚，下緣十八枚。胎骨厚重，通體罩施濃釉，釉彩裏外不一致。器內天藍，器外一變為葡萄紫色，邊稜皆作褐色邊，內外釉面皆有蚯蚓走泥紋。施釉至足底，釉質濃稠，鼓腹外壁的弦紋幾乎為流釉所覆罩。外底塗褐色護胎釉，周緣並有支燒痕十六枚，底印數目字「二」，足底露灰土色胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=462909&randomCode=91151552727",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=462910&randomCode=16808985",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1244?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1244.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

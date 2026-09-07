@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-5211",
+ "name": "「勘合印記」",
+ "aliases": [
+  "Bronze seal with inscription \"Kanhe yinji\" in Mongolian Phags-pa script"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "長2.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅001818N000000000"
+ },
+ "summary": "銅質，板狀橛鈕有孔可穿系，印背平板左上角鑿刻漢字「上」作為識別印文方向之用。印面正方形鑄陽文四字，排印方法兼採八思巴字與漢字作斜對角穿插，其順序為：右上以八思巴字篆體對譯漢字「勘」，右下為漢字九疊篆「合」字，左上作漢字九疊篆「印」，左下是八思巴字篆體對譯漢字「記」，四字連讀成「勘合印記」。這種以漢字九疊篆與八思巴字篆體混用的形式，審視現今存世的印可梳理出有一共通現象，即是混用的漢字九疊篆可與八思巴字篆體取得相當協調的排印空間，如果從排印的章法藝術作考量，或許這正是這類印章產生的原因。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=38301&randomCode=1153058783",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=38302&randomCode=1572214820",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5211?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5211.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

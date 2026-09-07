@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-51044",
+ "name": "桃式水盛",
+ "aliases": [
+  "Jade water holder in the shape of a peach"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長11.4公分 寬6.9公分 通高5.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉002939N000000000"
+ },
+ "summary": "玉質，靠器柄一端多條裂璺，已沁為褐色。器身似被剖切的大半個桃子，還帶有枝梗與桃葉，延伸於器底。南宋晚期無錫地方望族錢裕，卒於元代延佑七年（1320年）。墓中出土一件桃式玉洗，一般視作南宋晚期至元初玉器的代表。院藏多件桃式或花式玉洗，以這件最為渾樸自然，相似於錢裕墓出土者。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=149641&randomCode=61114632232",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=149642&randomCode=21190175714",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/51044?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_51044.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

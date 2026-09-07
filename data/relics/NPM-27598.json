@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27598",
+ "name": "官窯 青瓷菊花式盤",
+ "aliases": [
+  "Chrysanthemum-shaped dish with celadon glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.8公分 口徑16.7公分 足徑11.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷008713N000000000"
+ },
+ "summary": "模製成形，圓口，口沿鑲鍍金銅邊，淺壁，矮圈足。外壁模飾菊瓣三十五稜，滿釉支燒，通體滿施粉青色釉，釉質清亮濃稠。釉表滿佈棕色紋片，局部可見冰裂紋。底周排佈七枚支釘，支痕中露出深灰色器胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=385038&randomCode=37861208162",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=385039&randomCode=75821312025",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27598?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27598.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

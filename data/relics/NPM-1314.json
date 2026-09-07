@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-1314",
+ "name": "鈞窯 天藍圓碟",
+ "aliases": [
+  "Dish with azure glaze"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.6公分 口徑17.3公分 足徑5.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017219N000000000"
+ },
+ "summary": "斂圓口，淺弧壁，平底，矮圈足。通體罩施天藍色釉，釉層不勻，釉色偏灰。口沿一道淺米黃邊，施釉不到底，足壁、底緣與內周壁無釉處，皆露灰白色胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=473926&randomCode=74108899391",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=473927&randomCode=626866299",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1314?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1314.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

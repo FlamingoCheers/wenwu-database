@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-31252",
+ "name": "青瓷葵口碗",
+ "aliases": [
+  "Bowl with hibiscus-shaped rim in green glaze"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  15
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.9公分 口徑12.0公分 底徑3.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷013897N000000000"
+ },
+ "summary": "六瓣葵花口，弧形深壁，平底，矮圈足。全器施青釉，施釉至足際，足緣無釉，露胎處加塗深褐色護胎汁。釉表開深色紋片，口嵌銅釦，銅釦於乾隆五十五年（1790）乾隆皇帝組合文物之際已存在。傳世隨附有木座，底刻「乙」字銘。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=431446&randomCode=85865554647",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=431447&randomCode=44857782144",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/31252?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_31252.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

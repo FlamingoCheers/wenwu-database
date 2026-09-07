@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3041",
+ "name": "澄泥硯",
+ "aliases": [
+  "Refined clay inkstone"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1119,
+  1125
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長26.2公分 寬18.9公分 高2.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000467N000000000"
+ },
+ "summary": "硯作長方形，硯面寬平，受墨處成瓶形，以弦紋相圍而成，并以瓶口作墨池，瓶肩兩側淺浮雕螭紋，以示瓶耳，惜右肩螭紋已傷缺，硯色呈紫紅，硯面有硃砂斑紋，似使用後殘留痕跡，硯背覆手雕成圭形，中鐫篆書「宣和」二字，上方鐫清高宗御製詩乙首，行書：「澄泥貢硯識宣和、小篆分明泐末磨，撫不留手質古王，晊教心澹色春波，出陶底異銅台瓦，受墨偏宜棐几娥，溫室餘閒常命什，郲幾惟覺慚賡歌」，款題：「乾隆御題」，鈐印一「乾隆御賞」，左右方各有清高宗廷臣蔣溥、汪由敦、梁詩正、劉統勳等題詩，皆楷書。《硯譜》云：「是硯陶煉精良，堅潤如石，閱代既久，墨光可鑑，篆刻亦極古秀，洵推陶友工乘。」",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176351&randomCode=35427412544",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176352&randomCode=36016312327",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3041?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3041.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

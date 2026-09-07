@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19743",
+ "name": "龍泉窯 梅瓶",
+ "aliases": [
+  "Meiping vase, Longquan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002630N000000000"
+ },
+ "summary": "梅瓶，微撇口，圓唇棱，短頸，圓肩，長腹，腹修長而下漸斂，底部內凹為淺圈足。帶覆斗式蓋，蓋壁斜，至下緣侈出，蓮苞頂。全器施青釉，呈豆青色，瓶口沿因流釉而色淺。蓋底內側及圈足底無釉，胎體呈褐色，器底施青釉。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318549&randomCode=45597590065",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318550&randomCode=51913825215",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19743?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19743.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27646",
+ "name": "定窯 白瓷劃花蓮花紋葵式盤",
+ "aliases": [
+  "Hibiscus-shaped dish with incised lotus decoration in white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.4公分 口徑21.1公分 底徑6.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷003042N000000000"
+ },
+ "summary": "盤，六瓣葵花口，侈口弧壁，平底，矮圈足。器內外壁勒印區分六格，樸素無紋飾，器內底勒印一圈，圈內劃刻蓮花紋。施罩白釉，釉色牙白微微帶黃，口沿一周露胎未上釉，器表釉面有縮釉棕眼痕，器外壁亦可見有積釉流淌的「淚痕」。定窯主要窯址位在河北省曲陽縣澗磁村、燕山村一帶，窯場廣佈，是宋元時期北方最著名盛燒的白瓷窯場。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469955&randomCode=66942474317",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469956&randomCode=328928575",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27646?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27646.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

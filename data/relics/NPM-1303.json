@@ -1,0 +1,37 @@
+{
+ "relic_id": "NPM-1303",
+ "name": "鈞窯 天藍釉碗",
+ "aliases": [
+  "Bowl with azure glaze, Jun ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.5公分 口徑18.7公分 足徑5.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷009477N000000000"
+ },
+ "summary": "斂圓口，深弧壁，外底心凸起一小泥點，矮圈足，足壁微向外敞。施釉為天藍色釉，釉色則藍中帶紫，口沿則有一道褐色邊，釉表開灰色細紋片。釉汁垂流，形成一道不規則的積釉痕，整隻圈足無釉，露深褐色胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=53364&randomCode=651768621",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1303?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1303.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

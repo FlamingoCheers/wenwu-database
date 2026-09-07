@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-29110",
+ "name": "定窯 劃花雙鳳盤",
+ "aliases": [
+  "Dish with incised phoenix design"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1001,
+  1100
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高1.6公分 口徑17.6公分 底徑12.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷016630N000000000"
+ },
+ "summary": "折沿盤，弧形淺腹，臥足、平底。平折沿上快刀勾劃卷草紋，鑲銅稜釦。盤面刻劃雙鳥上下對飛，尾羽拖曳旋繞，恰銜為以鳥首為中心環飛團轉的圖像。雙鳥近似練鵲類長尾禽，線條全以直向運刀刻成，並無劃花風格成熟期之斜刀、回刀、篦紋等刀法變化。與太宗李后墓（1000）的鳳紋碟刀法與迴旋之勢相似；惟後者刻痕更如針尖細銳輕淺。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=628224&randomCode=1058473497",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=628225&randomCode=1144069032",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/29110?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_29110.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24465",
+ "name": "柬埔寨 12-13世紀 青銅鎏金 般若佛母立像",
+ "aliases": [
+  "Standing Prajnaparamita, Cambodia, ca. 12th-13th century"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通寬9.3公分 厚5.3公分 高20.8公分 像高19.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000073N000000000"
+ },
+ "summary": "青銅鎏金立像附方形小臺座，柬埔寨一帶作品，鎏金已斑駁，年代約十二至十三世紀。般若佛母是以「般若波羅密心經」擬像化而成，是智慧的象徵。此像頭頂高髻，神情若沉思貌，裸上身，佩有耳璫、諸釧，下身穿沙龍裙，左手持蓮苞，右手持物似經卷，是般若佛母的重要象徵持物。此像上身軀幹細瘦，雙乳不豐，而同時期柬埔寨許多女神造像有此特徵，並作類似打扮，一些學者認為其中許多面容體態相似的造像是以十二世紀後葉至十三世紀的Jayarajadevi王后為藍本，這位王后是虔誠的佛教徒。柬埔寨在此時期屬吉蔑文化，宗教信仰與造像藝術風格融合佛教與印度教風格，並與帝王崇拜概念相結合，故神像常作君王的穿戴形式。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=142618&randomCode=64702999989",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=142619&randomCode=1238654318",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24465?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24465.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

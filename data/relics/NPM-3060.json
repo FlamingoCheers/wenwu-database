@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3060",
+ "name": "井田硯",
+ "aliases": [
+  "Inkstone featuring well and field"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長18.9公分 寬12.1公分 高2.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000474N000000000"
+ },
+ "summary": "端石，硯呈長方形，石色紫中泛紅，受墨處寬平微凹，硯堂平斜至硯首而成墨池，硯面連墨池四角，有縱橫淺浮雕線成井字，墨池中央浮雕一臥牛，作回首狀，硯右側壁刻篆書：「天籟閣秘玩」五字，左側壁刻宋吳儆硯銘：「謂石爾銘不石爾，耕牛兮努力我田是服，益恭」。硯背凹入鐫清高宗御題銘乙首，隸書：「硯學井田，牛臥曰邊，豈有心手，復古抑喘月乎，略閒竹洲曽用天籟藏焉：玩題識之宛在，悟由今視昔而憬然，吾獨惜夫耕硯田者，缺二鬴以守殘編。」款題：「乾隆御銘」，鈐印二：「幾暇怡情」、「得佳趣」，按此御銘亦著錄《清高宗御製詩文全集》一，《御製文》二集，卷三十九，頁八，然其題名為「宋井田硯銘」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176382&randomCode=66326703377",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176383&randomCode=1752227528",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3060?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3060.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

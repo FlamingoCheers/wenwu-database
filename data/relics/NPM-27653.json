@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27653",
+ "name": "白瓷劃花龍鳳紋盤",
+ "aliases": [
+  "Dish with incised dragon and phoenix decoration in white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.2公分 口徑26.5公分 底徑20.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷003049N000000000"
+ },
+ "summary": "盤，侈口，淺周壁，折腹內收，平底矮圈足。內底心隱隱劃刻龍鳳紋，須近觀方可辨識，器外壁近口沿及腹足處劃有二道回紋，回紋中間隔有二道弦紋。全器施罩白釉，釉質勻淨，足底緣露胎未上釉。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469983&randomCode=74772840092",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=469984&randomCode=1789749124",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27653?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27653.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

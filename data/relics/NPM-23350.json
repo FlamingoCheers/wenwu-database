@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23350",
+ "name": "官窯 青瓷缽式碗",
+ "aliases": [
+  "Bowl with green glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高19.8公分 口徑14.2公分 足徑10.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷004758N000000000"
+ },
+ "summary": "斂口，弧形深腹，矮圈足。胎骨厚重，內外施青釉，釉色灰青泛黃。釉面滿佈棕色紋片，口沿、足端露胎處塗棕色護胎汁。內底面有五枚支釘，提示器內裝燒小件器物的可能性。支痕露出深灰色胎，外底沾黏窯渣。從出土類例得知此類直腹碗，或加配有器蓋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=407431&randomCode=37430192104",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=407432&randomCode=54319615180",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23350?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23350.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

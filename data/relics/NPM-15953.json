@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-15953",
+ "name": "虹文薈古「宗家重貴」玉印",
+ "aliases": [
+  "Jade seal with inscription \"Zongjia zhonggui\" from \"Hongwen huigu\" collection"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長1.7公分 寬1.8公分 高2.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉008805N000000000"
+ },
+ "summary": "玉章，印面正方，色綠有赭斑。印面陰刻篆文：「宗家重貴」，印文疑後加。印鈕則雕飾一站立昂首辟邪，獸首有赭斑。乾隆皇帝嘗收聚八十方古印，命之為「虹文薈古」，並同儲於一盒四屜，此印即為其中一方。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1859727&randomCode=2076966392",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1859728&randomCode=1006770035",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/15953?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_15953.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

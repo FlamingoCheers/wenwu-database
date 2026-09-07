@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19892",
+ "name": "定窯 白瓷劃花蓮荷紋碗",
+ "aliases": [
+  "White bowl with incised lotus design"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高9.0公分 口徑25.0公分 底徑15.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷004010N000000000"
+ },
+ "summary": "八瓣花式口，深壁有棱紋呈八瓣花形，底寬平，矮圈足。全器滿釉，此種花式深腹狀的碗，常是酒具中溫酒之用，通常有注壺放置其中，同組共陳。內壁及內底劃花蓮花紋。口沿無釉，鑲銅釦稜。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318766&randomCode=63905819405",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318767&randomCode=44372947557",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19892?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19892.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

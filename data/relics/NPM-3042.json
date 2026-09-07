@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3042",
+ "name": "寫經澄泥抄手硯",
+ "aliases": [
+  "Refined clay “Chaoshou” inkstone used by Zhang Zhi"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長12.6公分 寬7.9-9.0公分 高2.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文001542N000000000"
+ },
+ "summary": "硯作梯形，兩側壁斜出，下端無堵，硯背斜下，屬風字硯式。風字硯以形如「風」字為名，北宋盛行，有瘦腰寬裙裾的誇張形式者；南宋則保守，此件當屬典型式樣。硯為澄泥製，色淡而黃，質輕細潤，硯堂寬，向前斜下至前端為墨池。硯壁右側鐫隸書「南軒老人寫經硯」，硯背鐫清乾隆四十三年（1778）御詩乙首。按張拭，南宋初年名臣張浚子，以蔭入官仕，終右文殿修撰，提舉武夷山沖知觀，學者稱為南軒先生，此硯乃先生著述時所用。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=178942&randomCode=79836720958",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=178943&randomCode=282585341",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3042?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3042.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

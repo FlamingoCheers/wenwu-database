@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-18",
+ "name": "官窯 青瓷尊",
+ "aliases": [
+  "Zun vassel with light bluish-green glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高25.9公分 口徑16.5公分 足徑13.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014021N000000000"
+ },
+ "summary": "喇叭口、扁圓腹、高足脛外撇至足緣，圈足；其頸、腹及脛係分別製作後接合成，頸與脛部各飾一道弦紋；器外壁貼付四條直行的泥線，自口、經腹、至足，分三段凸起器面，有如出戟銅尊的稜脊。全器施粉青釉，釉層厚而勻，光澤瑩潤，有不規則的大開片，器裡腹部與脛部的釉薄不勻且色灰黯。足緣無釉，呈暗褐色，其傷破處見深黑胎色。全器造形典雅，泥線因罩厚釉而線條柔和，出脊稜緣處則映黑胎色。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=408946&randomCode=40151138834",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=408947&randomCode=67279452375",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/18?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_18.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

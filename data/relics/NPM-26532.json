@@ -1,0 +1,43 @@
+{
+ "relic_id": "NPM-26532",
+ "name": "廣窯 月白匜式洗",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.9公分 口徑13.7公分 最長16.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷015044N000000000"
+ },
+ "summary": "微侈口短折沿，淺壁圓腹，平底淺圈足，短型寬流。全器施以透明釉，色呈月白，?有淺淺淡黃，有開片裂紋羅佈，靜謐雅觀。匜為盥洗用具，從古時便有制作，以唐代越窯、宋代鈞窯、尤以元代龍泉窯和景德鎮為多。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=406658&randomCode=65025800406",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=406659&randomCode=94855788181",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26532?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26532.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

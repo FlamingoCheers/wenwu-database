@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-15426",
+ "name": "端石抄手硯",
+ "aliases": [
+  "Duan \"Chaoshou\" inkstone"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長19.0公分 寬11.4公分 高6.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000462N000000000"
+ },
+ "summary": "端石，硯作長方抄手式，硯面平寬，周圍有回紋一圈為飾，墨池深凹，並帶石眼。覆手從上斜下，上有長短不一之細長石柱，另覆手面上刻有乾隆題詩：「趙宋玉堂是也非，呵之墨銹潤霏微，二十八宿循環閱，佐我批硃敕萬幾。」其下端則無堵。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176308&randomCode=41245153238",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176309&randomCode=74470212955",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/15426?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_15426.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

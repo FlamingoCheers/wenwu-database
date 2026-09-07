@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-47050",
+ "name": "柬埔寨 巴揚 十二~十三世紀風格 銅鎏金肩輿配件",
+ "aliases": [
+  "Gilt bronze Finial, Cambodia, 12th~ 13th century style"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高24公分 最寬 8.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000420N000000000"
+ },
+ "summary": "肩輿配件，龍王與金翅鳥合體、極具裝飾性的想像生物。上部有二或四個左右翼張、較小的龍蓋拱衛中央的龍王。龍王或為人形，或為怒目凸眼、長尖喙之金翅鳥。其下表現有環節之蛇腹及鱗甲，背後多有中脊。此類肩輿佩件流行於十二世紀下半葉到十三世紀初之柬埔寨。（贈銅000418－贈銅000421）",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=347536&randomCode=52551724157",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=347537&randomCode=32585757432",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47050?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47050.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

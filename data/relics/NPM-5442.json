@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-5442",
+ "name": "「安明」雙劍紋盾形鏡",
+ "aliases": [
+  "“Anming” shield-shaped mirror decorated with paired swords"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "寬11.0公分 高16.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅002013N000000000"
+ },
+ "summary": "盾形鏡為宋代新興鏡式。鏡背上方有粗厚的橋形鈕。鈕繫大圓環。鏡背紋飾以道教圖案為主。中間為三足鼎形爐噴出火焰寶珠，兩側為如意形劍首寶劍，劍身飾雲紋。兩側各有篆書銘文4字，為「安明貴寶」「弗劍而鏡」。 晚唐以來，鏡與劍便是道教「道」的象徵。兩者材質相似，均被認為是稟受天地陰陽之精，具有靈性及神威，因而有劍鏡合一的思想。帶有寶劍及道教圖案的銅鏡，應是作為法器使用。 因宋代僅南宋高宗紹興32年（1162）至孝宗乾道2年（1166）不避諱宋太祖祖父之名諱「敬」，故此鏡應鑄於這段期間。相同的鏡子曾出土於江西南昌市。中國國家博物館所藏寶劍丹爐紋鐘形鏡鑄有「李道人造」款。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=39376&randomCode=1591756914",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=39377&randomCode=2010912951",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5442?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5442.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-6747",
+ "name": "八卦紋香薰",
+ "aliases": [
+  "Incense burner with Eight Trigrams pattern"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高17.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅001564N000000000"
+ },
+ "summary": "爐，分蓋、承盤、座三部分。蓋以鏤空八卦為氣孔，附三耳，中央有一立鳥。承盤，子母口，平底，飾以蓮瓣紋。座飾蓮瓣紋，鏤空如意雲紋，下有三足。內底有銘三字。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=151234&randomCode=95268902048",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=151235&randomCode=32754828288",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/6747?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_6747.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

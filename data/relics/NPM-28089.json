@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-28089",
+ "name": "龍泉窯 青瓷盞",
+ "aliases": [
+  "Bowl with celadon glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.3公分 口徑16.3公分 底徑3.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷005167N000000000"
+ },
+ "summary": "斗笠式小盞，廣口小足，斜直壁，造型簡練。器裡深壁斜入至裡心有圓尖突起。小圈足，平底，足緣平切，露灰白胎，邊緣成朱色燒造痕。全器釉色粉青，釉流動積垂處色澤凝碧，為龍泉釉中最明瑩清麗的一類。此式盞樣與吉州窯葉文碗相近，應亦供茶碗之用。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=406572&randomCode=53112907621",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=406573&randomCode=2112589170",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/28089?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_28089.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

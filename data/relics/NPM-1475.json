@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1475",
+ "name": "官窯 青瓷三足爐",
+ "aliases": [
+  "Tripod incense burner in celadon glaze, Guan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.0公分 口徑23.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017712N000000000"
+ },
+ "summary": "短筒型香爐，斂圓口，深直壁微外鼓，平底，下接三個蹄形短足，外底中央凹陷形成一圓形淺槽。全器採支、墊併用裝燒，內外施青釉，燒後呈色米黃泛灰，釉面出現深淺兩種灰色紋片。足端無釉塗醬汁，局部顯露出灰色胎。內底週邊粘附三個渣餅，外底圓槽周緣有六枚支釘。內底沾黏渣餅的現象，亦見於元青瓷海棠式盆（故瓷017188）。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393463&randomCode=13265499734",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393464&randomCode=64615848133",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1475?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1475.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

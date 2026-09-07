@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-50554",
+ "name": "玉鉤環",
+ "aliases": [
+  "Jade belt buckle"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長11.6公分 寬4.6公分 高1.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉002418N000000000"
+ },
+ "summary": "玉質，帶濃淡不一的赭斑。鉤、環器面各琢鏤空的口啣花葉螭龍；背面各有突起圓鈕，上琢雕盛開牡丹，平坦面上則淺浮雕牡丹枝葉，形成花朵浮出的巧雕。此器正反面皆滿琢紋飾，形制紋飾極盡巧思。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=129783&randomCode=90746160176",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=129784&randomCode=14707402799",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/50554?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_50554.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

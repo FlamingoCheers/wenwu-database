@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27684",
+ "name": "定窯 白瓷劃花芍藥紋笠式碗",
+ "aliases": [
+  "Conical bowl with incised peony decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  11,
+  12
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.7公分 口徑21.0公分 底徑4.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷012477N000000000"
+ },
+ "summary": "斗笠式碗，斜出器壁，廣口小圈足，裹足滿釉，口鑲銅釦棱。內壁劃花，以圖案式卷葉纏捲四朵豐碩的花朵，中心花瓣層疊而上，邊緣瓣瓣相接圍成略近三角形的花形或扁橢圓形，推測為宋人所謂寶相花、太平花之屬；就花形處理看，二者圖案式花卉或有不同屬名；其纏枝於花卉處作一莖雙轉花的佈局，則與（故瓷003035）之雙花圖像相似。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470534&randomCode=71064181972",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470535&randomCode=1627379692",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27684?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27684.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

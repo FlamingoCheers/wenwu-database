@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-52702",
+ "name": "玉龍紋飾",
+ "aliases": [
+  "Jade ornament with dragon pattern"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬8.0公分 厚2.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購玉000813N000000000"
+ },
+ "summary": "玉質，因受沁再經盤磨而呈現淺黃褐色斑。琢作一八瓣花式帶飾，橫向與縱向各有可供穿繫絲帶的窄槽。正面雕一張牙舞爪的盤龍。雖非精工之作，但充分表現元代較粗放的玉雕風格。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=112114&randomCode=22638772414",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=112115&randomCode=46301009811",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/52702?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_52702.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-7",
+ "name": "蕤賓鎛鐘",
+ "aliases": [
+  "Bell with Jui-pin inscription"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高27.4公分 口徑長16.7公分 寬13.8公分 足徑18.3公分 底徑14.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000854N000000000"
+ },
+ "summary": "此鐘為平口式，鐘鈕為相向的雙龍造形，舞部、篆部、鼓部以蟠虺紋裝飾。敲擊鐘口的任何一點，所測之音皆為升F調。鈕部銘文「大晟」已不見。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=3337&randomCode=2064298809",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=3338&randomCode=1509567901",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/7?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_7.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

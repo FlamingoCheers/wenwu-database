@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26060",
+ "name": "鈞窯 玫瑰紫釉花盆",
+ "aliases": [
+  "Planter with rose-purple glaze, Jun ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高22.0公分 口徑29.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017852N000000000"
+ },
+ "summary": "花盆，撇口，深壁，平底，挖有五孔，圈足微外撇。胎厚釉濃，莊重典雅。外罩葡萄紫乳光釉，器內釉色天青明亮。口沿內外藍、紫交匯，口沿呈褐色，器裏釉面有蚯蚓走泥紋，線條細短。施釉至底足，外底塗褐色護胎釉，底印數目字「二」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400708&randomCode=95058458452",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400709&randomCode=111394271",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26060?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26060.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

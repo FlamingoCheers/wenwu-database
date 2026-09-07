@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-3375",
+ "name": "嵌金銀犧尊",
+ "aliases": [
+  "Zun wine vessel in the shape of animal with gold and silver inlay"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "長32.4公分 寬12.6公分 高27.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅001834N000000000"
+ },
+ "summary": "全器以動物為造型，雙耳高挺，昂首直立，四足著地，尾下垂，背部有蓋。器表以金銀鑲嵌，獸首局部飾幾何紋，頸飾項圈，腹、尾飾幾何紋，蓋飾鳥紋。獸首有墨書二行「秀字一百九十四號」「和字二十六號」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=38390&randomCode=18074796788",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=38391&randomCode=99237129685",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3375?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3375.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

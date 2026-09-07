@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-5",
+ "name": "紹興豆",
+ "aliases": [
+  "Dou vessel with inscriptions of Shaoxing period"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通高7.0公分 深3.7公分 口徑14.5公分 底徑14.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000101N000000000"
+ },
+ "summary": "直壁斂口盆式，淺腹。器腹以橫弦紋為上下界，鑄成淺浮雕幾何式的迴轉圖案，形成類似西周晚期重環紋的裝飾，並間以突出的圓形乳丁紋。與法國賽努奇亞洲博物館藏帶有豆柄之〈北宋政和豆〉相對照，此器原應有豆柄，現已佚失。口沿外壁鑄有銘文一圈二十八字：「唯紹興丙寅三月乙丑，帝命作豆，賜師臣檜家廟，以薦菹醢，唯予永世用享。」此器曾經劉體智收藏。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=335&randomCode=36107732532",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=336&randomCode=1864624203",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

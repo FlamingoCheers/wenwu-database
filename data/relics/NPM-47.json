@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-47",
+ "name": "定窯 白瓷瓜稜罐",
+ "aliases": [
+  "Melon-shaped jar in white glaze, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "全高18.7公分 口徑4.6公分 底徑11.2公分 足徑11.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷016767N000000000"
+ },
+ "summary": "小口罐，出唇，唇緣細稜凸起；短頸、肩寬、腹渾圓，肩部弦紋下凹刻十瓣瓜稜；平底，凹削入為圈足，足底及器底皆無釉，胎色白而細膩。底心墨書「巳」字。器施牙白釉色，外壁略有兩三個褐色雜點，近底處有缺釉的持拿痕跡。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=317836&randomCode=75279161465",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=317837&randomCode=1584665981",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

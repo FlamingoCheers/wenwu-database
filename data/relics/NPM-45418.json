@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-45418",
+ "name": "羚羊角茶則",
+ "aliases": [
+  "Horn tea scoop"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "雕塑",
+ "material": null,
+ "dimensions": "長15.9公分 寬3.2公分 厚0.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈雕000190N000000000"
+ },
+ "summary": "取一段羚羊角，磋磨細薄，一端成筒狀，並雕出一半環鈕；此外全器三分之二削除，端緣並磨出弧形。宋人嗜碾茶如浮綠螘，此器用以挑茶末入盞；以羚羊角琢磨而成，而且薄如蟬翼，實屬少見之精品。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=349553&randomCode=58570537974",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=349554&randomCode=66901297691",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/45418?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_45418.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

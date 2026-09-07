@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-5597",
+ "name": "獸面紋簋",
+ "aliases": [
+  "Gui food container with animal mask pattern"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通寬9.2公分 高6.3公分 口徑7.1公分 底徑4.4公分 腹深2.8公分 厚0.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅001809N000000000"
+ },
+ "summary": "附蓋圓簋，雙耳，圓腹，圈足，蓋鈕作梯形，蓋、腹有棱脊，耳作獸形回首附珥。蓋飾夔紋，腹飾獸面紋，均以雷紋為地，足飾幾何紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=7765&randomCode=979968895",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=7766&randomCode=22169213",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5597?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5597.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

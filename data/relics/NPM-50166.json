@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-50166",
+ "name": "玉蒲紋璧",
+ "aliases": [
+  "Jade bi disc with rush-mat pattern"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "徑17.2公分 孔徑6.5公分 厚0.45公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001997N000000000"
+ },
+ "summary": "玉質，分布大片深淺交雜的褐色斑。可能用史前至歷史時代早期玉璧改雕。孔緣與璧緣均留出一圈窄緣。二窄緣間的器表以三組方向不同的平行線交叉構成格子般的蒲紋。格線排列雖密，雕刻卻常歪曲不直，以致格子大小不甚規整。此器遠看會誤以為是漢代玉璧，細觀之才知因工拙而缺乏漢璧的精神氣勢。目前出土的南宋玉璧尺寸多偏小，只有浙江衢州龍游石佛公社胡大昌墓出土素璧，以及杭州法雲弄出土螭紋璧的尺寸與這件相似。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=127482&randomCode=77457255399",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=127483&randomCode=78273492724",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/50166?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_50166.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

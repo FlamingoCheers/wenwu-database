@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-19893",
+ "name": "定窯 白瓷印花雙魚蓮荷紋盤",
+ "aliases": [
+  "White dish with impressed decoration of fish and lotus"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.5公分 口徑29.5公分 底徑12.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷004011N000000000"
+ },
+ "summary": "侈口，淺壁，圓底，矮圈足，胎骨細薄。器裡印花裝飾，內壁飾蓮荷紋，花葉繁密；內底有雙魚紋。全器滿釉，呈色牙白，採覆燒法燒製，於口沿無釉處鑲銅釦稜。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318771&randomCode=76069053210",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=318772&randomCode=51696348922",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/19893?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_19893.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

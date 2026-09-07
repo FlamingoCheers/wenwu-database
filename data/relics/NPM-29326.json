@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-29326",
+ "name": "龍泉窯 青瓷弦紋三足爐",
+ "aliases": [
+  "Incense burner with linear pattern in green glaze, Longquan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.8公分 口徑12.8公分 底徑6.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷010725N000000000"
+ },
+ "summary": "小樽式爐，口緣具圓唇稜，直壁作竹節狀，以凸弦紋四道等距環體為飾。三小方足，足面印一如意雲紋，足端滿釉。器底突出餅狀足，無釉，色褐。器裡有不規則多邊區塊無釉，色深褐。全器釉汁薄而流動，口部多道大開片。此種全以弦紋為裝飾的樽式爐，在定窯型器皿中有之，也見於新安沈船中的銀器、遂寧窖藏中的銅器，在明代宣德時期景德鎮也有此類爐式。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=341434&randomCode=74055436938",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=341435&randomCode=28379988575",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/29326?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_29326.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

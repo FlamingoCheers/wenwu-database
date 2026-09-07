@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-5553",
+ "name": "嵌金銀夔紋扁足方鼎",
+ "aliases": [
+  "Square flat-footed Ding cauldron with kui dragon pattern and inlaid with gold and silver"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高19.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000842N000000000"
+ },
+ "summary": "方鼎，折沿、立耳、弧形壁、扁足，腹有棱脊。腹飾夔紋、蕉葉紋，足飾夔紋，主體紋飾錯金銀。器內有銘。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=3281&randomCode=1680981972",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=3282&randomCode=2100138009",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5553?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5553.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

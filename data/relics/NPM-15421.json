@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-15421",
+ "name": "端石荷葉硯",
+ "aliases": [
+  "Naturally shaped Duan inkstone"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長26.0公分 寬25.0公分 高約5.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000539N000000000"
+ },
+ "summary": "端石。此硯厚實，自然石形，磨治後的平面與樸拙的原石相間營造出特殊肌理，頗富巧思。硯背有六款，硯面有「大觀」等二款。硯側有乾隆題款「……不雕不琢存其天，如破荷葉枯卷，然變荷之脆為石堅……」，為乾隆由此硯聯想到荷葉的感發之文。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176417&randomCode=76092490665",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=176418&randomCode=83536935176",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/15421?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_15421.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

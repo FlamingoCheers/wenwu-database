@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-49939",
+ "name": "玉螭紋劍璏",
+ "aliases": [
+  "Jade scabbard slide decorated with chi-dragon pattern"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長7.1公分 寬1.9公分 通高1.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001830N000000000"
+ },
+ "summary": "玉質，器表有一層黃褐色，可能為玉子在水中形成的皮子，也可能曾再加烤染。器作長方片形，二端向後捲收，器背有方扁形孔。器面淺浮雕螭紋，螭圓眼大耳長髮，尾有二股。璏為劍飾之一種，鑲嵌在劍身，背帶穿過器背的繫帶孔便可以佩掛於身。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=129396&randomCode=87360554826",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=129397&randomCode=45785078250",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/49939?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_49939.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

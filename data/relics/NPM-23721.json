@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23721",
+ "name": "臨川窯 白瓷雲龍紋蒜頭瓶",
+ "aliases": [
+  "Vase with garlic-shaped head and dragon and cloud decoration in white glaze, Linchuan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高17.8公分 口徑2.2公分 底徑7.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002241N000000000"
+ },
+ "summary": "蒜頭口，直頸，碩腹，圈足。外壁施透明釉，透出潔白的胎色，並以印花為裝飾技法。口部如意雲頭一圈，頸部飾如意雲頭與變形蕉葉。頸腹交界處由兩道凸起的弦紋圍出裝飾帶，飾帶內作回紋地團花紋。腹外壁裝飾較密，作一龍穿舞於芝草雲氣間，圖樣外廓皆呈略外弧，故圖樣雖緊密，但卻不繁雜拘迫。足緣露胎一圈，足內滿釉無款識。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394029&randomCode=47284778753",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394030&randomCode=1522242063",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23721?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23721.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

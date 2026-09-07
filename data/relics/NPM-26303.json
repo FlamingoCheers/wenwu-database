@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-26303",
+ "name": "龍泉窯 青瓷琮式瓶",
+ "aliases": [
+  "Cong-shaped vase in celadon glaze, Longquan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高19.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014107N000000000"
+ },
+ "summary": "琮式瓶為南宋始有的瓷器造型，器形仿新石器時代良渚文化的玉琮，方形長柱式而有底，上下短頸與矮圈足則作圓形，四角的騌靻紋簡化為長短稜線紋。此類琮式瓶在南宋常見，以杭州老虎洞者內為圓柱、外接四角的方式最素樸，屬初創期的造型。龍泉窯者則為模製成型，胎體相對較薄，數量亦多；在四川遂寧窖藏中還有銅質、木質的琮式瓶，推測或也用於祭典中。明代則用此類器為花瓶，名為「蓍草瓶」，大者用於廳堂，小者於書齋為一枝瓶。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=340191&randomCode=55887483124",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=340192&randomCode=98128133793",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26303?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26303.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

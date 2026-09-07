@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-1294",
+ "name": "鈞窯 天藍碗",
+ "aliases": [
+  "Bowl with sky blue glaze, Jun ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高10.7公分 口徑21.7公分 足徑6.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017480N000000000"
+ },
+ "summary": "斂圓口，深弧壁，圜底，矮圈足，足壁微外撇。通體罩施天藍色釉，釉質勻潤清澈，釉層由上往下垂流，口沿釉薄呈現一道米黃邊。施釉至足際，圈足外壁局部沾釉，胎面堅致光亮，足底緣不平整，圈足無釉處，露出土色胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=463042&randomCode=63053924672",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=463043&randomCode=1604208075",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1294?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1294.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2879",
+ "name": "定窯 白瓷弦紋樽帶蓋",
+ "aliases": [
+  "Zun vessel with linear pattern in white glaze, Ding ware"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.5公分 口徑12.0公分 底徑11.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷010343N000000000"
+ },
+ "summary": "樽形器，直口，寬筒形器身，平底，三蹄足，外壁上中下段分飾凸弦紋二道、三道、一道 ( 或二道 )，內外施釉，口緣與足底無釉。\n此種樽形器，漢代作為酒器，飲宴中以杓舀酒分飲，唐、宋時期亦有用為酒器者，但也同時可能用為香爐或花器。相似形式者在南北宋時期均常見，包括汝窯、官窯亦有之，大小不一，院藏定窯器尚有比例較寬矮或瘦高者；弦紋分佈以二 / 三/ 一為多，亦有二 / 三 / 二或三 / 一 / 一者。南宋長沙王趯墓（1170）出有同形式定窯樽，高僅 6.8cm，本院藏品多配有玉頂木蓋，故瓷 8626 之木蓋鈐刻明晚期收藏家項元汴字號印章。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=463260&randomCode=71812667129",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=463261&randomCode=623236776",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2879?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2879.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

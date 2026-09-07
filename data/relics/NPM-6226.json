@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-6226",
+ "name": "嵌金銀鳥尊",
+ "aliases": [
+  "Zun wine vessel in the shape of a bird with gold and silver inlay"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高22.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅001149N000000000"
+ },
+ "summary": "全器嵌金銀以鳳鳥為造型，雞形而長尾，昂首直立，尾長著地，雙足挺立，背馱一個獸耳觚式瓶。瓶頸飾三角紋，腹飾獸面紋。鳳鳥有冠，頸、羽翅飾垂鱗紋，長尾飾雷紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=4689&randomCode=2001172907",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=4690&randomCode=1386478269",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/6226?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_6226.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

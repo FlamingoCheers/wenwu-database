@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23545",
+ "name": "龍泉窯 青瓷弦紋瓶",
+ "aliases": [
+  "Vase with linear pattern in green glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高26.3公分 口徑11.7公分 底徑7.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷005054N000000000"
+ },
+ "summary": "鳳尾瓶，喇叭口，頸闊而長，中段內斂，豐肩，腹上豐下斂，長脛，凹足。全器施青釉，釉汁薄，釉色淺綠溫潤。腹部劃花折枝牡丹，上下各有兩道弦紋為界，頸部滿飾弦紋，脛部飾花瓣紋。足底緣及內壁露胎，塗褐色護胎汁，可見厚重胎骨。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=392232&randomCode=73533338461",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=392233&randomCode=1600746665",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23545?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23545.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

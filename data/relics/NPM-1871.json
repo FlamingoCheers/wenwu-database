@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1871",
+ "name": "玉鹿",
+ "aliases": [
+  "Jade deer"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長4.3公分 寬1.4公分 高2.8公分；木座長5.2公分 寬2.4公分 高0.7公分 連座高3.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉005621N000000000"
+ },
+ "summary": "玉雕回首跪臥鹿形，玉質有綹。頭部、身形體態略施琢痕，以表現角、眼與肌肉。附深棕色木座，木座帶直邊，邊緣雕滿相交重疊的細長葉形紋飾，玉鹿放置其上似跪臥在草葉堆上。貯在院藏〈紫檀木鑲竹絲轉盤格子〉（故雜1284）裡。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=998172&randomCode=57791991",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=998173&randomCode=448416183",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1871?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1871.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

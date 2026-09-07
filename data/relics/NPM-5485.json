@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-5485",
+ "name": "劍龍葵花鏡",
+ "aliases": [
+  "Lobed mirror with sword-and-dragon pattern"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑13.2公分 邊厚0.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅000074N000000000"
+ },
+ "summary": "八瓣葵花形鏡，鏡面以假鏽做成中間開光的花朵形狀。鏡背中央為龜形鈕，花形鈕座。右方有一道士，做施法狀，四周環繞火焰紋。左方為一神龍，尾部捲著寶劍。紋飾生動表現道士施法馭龍的樣態。相似的例子曾出土於浙江、湖南等地。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=29293&randomCode=161367028",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=29294&randomCode=1702422884",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5485?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5485.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

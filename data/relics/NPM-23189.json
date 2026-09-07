@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23189",
+ "name": "臨川窯 白瓷劃花花卉紋爐",
+ "aliases": [
+  "White censer with incised flower design, Linchuan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.7公分 口徑10.8公分 底徑9.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002611N000000000"
+ },
+ "summary": "瓷爐，侈口，束頸，碩腹，圈足外撇。外壁施乳白釉，並於釉下刻劃花。腹外壁近頸處凸棱一圈，凸棱上方先以深刻的陰線作波狀紋，在波狀紋分割出的空間中，再用較輕的陰線刻出兩個渦卷，來表現卷草紋。外壁則飾卷枝花葉，花大朵盛開，卷葉舒展佈滿隙地。底外滿釉，後刻「希范堂」三楷字。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=385326&randomCode=87207963313",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=385327&randomCode=2018003884",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23189?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23189.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

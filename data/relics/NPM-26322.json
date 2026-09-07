@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26322",
+ "name": "定窯 白瓷梅花式碗",
+ "aliases": [
+  "Plum-blossom-shaped bowl in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.2公分 口徑18公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷013956N000000000"
+ },
+ "summary": "此為五瓣花式碗，俯看有如梅花，直口深壁腹下漸縮，器壁花棱深勒，有圈足。全器內外上滿牙白色釉，足緣露出黃褐色胎土，表面光素無紋，但有不少因縮釉而產生的黑、褐小點。此種白中帶黃的釉色正是「白定」的特徵，推測是因北宋定窯改以石炭為燃料，使焰短而還原不足所致。另外，這類花式深腹缽狀的碗，在宋代常作溫酒之用，經常與曲流注壺相伴使用。值得注意的是，器底貼著書有「養心殿」的舊標籤，透露著此器流傳和收藏的脈絡。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403886&randomCode=79024086990",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403887&randomCode=36868305357",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26322?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26322.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

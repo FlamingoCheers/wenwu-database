@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-51560",
+ "name": "玉帶鉤",
+ "aliases": [
+  "Jade belt hook"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長20.5公分 寬4.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉003528N000000000"
+ },
+ "summary": "碧玉，玉色深綠，夾有白斑及黑灰斑紋。一端作立雕龍首形，鉤面上有鏤雕小螭。帶鉤背後半環並帶活環 。背面並陰刻有：「乾隆年製」篆書四字款。附木座、錦袱，收納於裱錦木匣內。紫檀木座，全器雕作帶枝幹的靈芝，兩端較大有許多小靈芝，中間部份作枝幹交叉盤繞狀。有破損。錦袱，作橄欖綠色地白色提花，提花圖案作連續的平展五瓣花。裱錦木匣，作褐色幾何圖案錦地，及六瓣雲頭紋與卍字。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=159602&randomCode=97865558343",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=159603&randomCode=1315260102",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/51560?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_51560.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "NPM-77109",
+ "name": "南宋 建窯 醬釉兔毫紋茶碗",
+ "aliases": [
+  "Tea bowl in brown with hare's-fur striations Jian ware, Sourthern dynasty (1127-1279)"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.5 口徑12.1 足徑3.3",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "南普贈000005N000000000"
+ },
+ "summary": "束口，深腹，小底，矮圈足，圈足經磨露出黑色胎地。器內外全施醬黑釉，外壁施釉不及底，釉上薄下厚，口緣呈「褐口邊」，醬釉間黑色兔毫斑紋但不明顯，作品整體沉穩厚重。據研究指出，此類兔毫紋茶盞即是宋代文人所謂的「兔毫盞」，盛行於北宋中期至晚期，是點茶及鬥茶風氣下的產物。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1077326&randomCode=312847891",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/77109?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_77109.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

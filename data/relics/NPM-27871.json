@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27871",
+ "name": "定窯 白瓷印花分格竹石棲鶴紋碗",
+ "aliases": [
+  "Bowl with lobed sides and impressed decoration of bamboo"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高7.6公分 口徑19.6公分 底徑5.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷006237N000000000"
+ },
+ "summary": "六瓣葵口碗，深壁，平底，矮圈足，口沿鑲金屬釦。全器施白釉，釉色泛黃。器外壁樸素無紋，內壁口沿下印回紋一道。內壁以凸稜劃分六格，各印竹石圖，間隔分飾三鶴。底心印游魚兩尾。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=473570&randomCode=35154262563",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=473571&randomCode=35781759191",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27871?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27871.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

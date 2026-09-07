@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-47715",
+ "name": "銅玉壺春瓶",
+ "aliases": [
+  "Bronze Yuhuchun vase"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高33.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅001619N000000000"
+ },
+ "summary": "此種口部微敞，束頸，鼓腹，腹部重心下垂的瓶形稱作玉壺春。通體素面，然而表面銹層極厚，剝蝕嚴重。從底部的鑄造痕跡可知；本件器物是先鑄就器身，再將圓形銅片焊接於圈足作為器底。\n 玉壺春瓶是一種酒瓶，可能出自《全唐詩》「玉壺買春」之典故。玉壺春瓶的樣式常見於瓷器，也見於錫、銅、銀等金屬器。瓷玉壺春瓶創燒於北宋，為宋元相當盛行的瓷瓶樣式，從南方的景德鎮、龍泉窯到北方的磁州窯都有燒製。中國以外，在韓國新安海底發現的元代沈船中的外銷瓷器中也有玉壺春瓶；另外，在高麗的青瓷、銅器也見此造型。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=6875&randomCode=1491836549",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=6876&randomCode=1971684709",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47715?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47715.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

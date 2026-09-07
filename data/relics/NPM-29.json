@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-29",
+ "name": "耀州窯 青瓷印花菊花紋碗",
+ "aliases": [
+  "Bowl with impressed chrysanthemum decoration in yellowish-green glaze, Yaozhou ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.2公分 口徑18.4公分 足徑4.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷008262N000000000"
+ },
+ "summary": "廣口斜弧深壁碗，矮圈足、通體施青釉，釉色黃綠，施釉不及底，圈足露胎。青釉之下碗心模印團菊花紋一朵，內周壁則印纏枝菊花。碗外壁劃刻菊瓣紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=557744&randomCode=95785869626",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=557745&randomCode=16808985",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/29?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_29.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

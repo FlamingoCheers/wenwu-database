@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-57394",
+ "name": "秋山玉飾",
+ "aliases": [
+  "Jade ornament with \"Autumn mountains\" motif"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長3.4公分 寬3.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉006273N000000000"
+ },
+ "summary": "玉質潤澤，帶淺褐色玉皮。全器約作圓餅形，以「秋山」為題，見一花鹿立於林間，回首觀望。花鹿及柞樹鏤雕出外形，鹿身之斑紋及樹木葉脈僅以陰線刻出；玉料淺褐色部份化為樹葉，頗具巧思。附一方形木座，呈黑褐色，鏤雕四朵交疊凌霄花。「秋山」玉飾所表現的場景是中國北方契丹、女真等少數民族秋獮情景，其紋飾以山林群鹿為主。母題與「春水」玉飾相對。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397735&randomCode=37873499152",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397736&randomCode=1277906619",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/57394?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_57394.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

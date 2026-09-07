@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-5213",
+ "name": "八思巴文鐵印",
+ "aliases": [
+  "Iron seal with Mongolian Phags-pa script"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高2.71公分 印面長2.29公分 寬2.29公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅001820N000000000"
+ },
+ "summary": "塗金鐵印，瓦鈕雕花鏤空，印體前端嵌一小紅珠，應是標示印文的上下關係；印面白文四字，雙白邊，印文上端陰刻三小點，與印珠同邊亦同意，字待考。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=38311&randomCode=2080427802",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=38312&randomCode=352100192",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5213?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5213.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

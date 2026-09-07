@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1931",
+ "name": "錯金銀獸面紋罍",
+ "aliases": [
+  "Lei vessel inlaid with animal-mask decoration"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1644
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高36.5公分 口徑16.3公分 足徑16.5公分 腹寬33.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅001634N000000000"
+ },
+ "summary": "仿商晚期銅罍的造型，胎體厚重，鑄造十分精美。器底為分鑄，再與器壁接合，從底之內外均可見接痕。蓋、肩、腹部均裝飾獸面紋，花紋佈局規整而美觀。表面錯金銀，局部施加綠色假鏽，以模仿古銅的色澤。從銀質的脫落處觀察，似是以銀泥塗抹在略為凹陷的紋飾部位。尊、觶、罍這些上古銅器在明代成為齋堂書室的花器，且宜於春冬二季。而此類體積龐大的古銅罍，最宜置於廳堂之上。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=6941&randomCode=1521602928",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=6942&randomCode=1239378962",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1931?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1931.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

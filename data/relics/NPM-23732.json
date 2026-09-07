@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23732",
+ "name": "白瓷團花紋水盛",
+ "aliases": [
+  "Water holder decorated with floral medallions in white glaze"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.3公分 口徑2.8公分 底徑6.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002252N000000000"
+ },
+ "summary": "斂圓口，深弧壁外侈，猶如倒扣之鉢形，外底內凹。器施透明釉，色泛黃。外壁以印花技法製作紋樣，以等距大朵盛開的團花為最顯眼的紋飾，隙地飾卷枝與卷葉。外底有明顯可見的支釘痕。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395028&randomCode=32875660443",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395029&randomCode=1468639783",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23732?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23732.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

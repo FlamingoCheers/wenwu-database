@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-94",
+ "name": "澄泥括囊硯",
+ "aliases": [
+  "Refined clay inkstone with tied pouch design"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長16.5公分 寬9.8-11.4公分 全高2.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中文000037N000000000"
+ },
+ "summary": "略呈梯形，上窄下寬，全器黑中泛澄泥的棕黃色，墨堂墨鏽甚深。硯面呈括囊形，較窄端囊口呈五瓣花狀如意雲首形，是為墨池；頸部束一窄橫樑，下鑿有一孔，以連通墨堂與墨池；囊身寬圓，墨堂凹弧，周緣斜下。硯背窄端兩隅各有一L形足，較寬的一端兩隅則為方形足，四邊緣斜弧。囊口墨池兩側陰刻楷書年號款。硯背陰刻雙行篆書銘。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428825&randomCode=28198374140",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=428826&randomCode=1914596960",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/94?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_94.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24280",
+ "name": "水晶嬰",
+ "aliases": [
+  "Crystal infant"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1400
+ ],
+ "category": "杂器",
+ "material": null,
+ "dimensions": "長4.7公分 寬2.5公分 高1.4公分；木座長4.9公分 寬2.9公分 高1.1公分；帶木座高2.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故雜000540N000000000"
+ },
+ "summary": "水晶質，整器雕作一嬰仰躺之形。嬰兒雙手在胸，兩足交曲，嘴平而眼略下垂，有愁苦之狀，不過，這或許是臉部雕作較粗略所致。附雕鏤花葉紋木座。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=170267&randomCode=72279789190",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=170268&randomCode=118485204",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24280?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24280.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

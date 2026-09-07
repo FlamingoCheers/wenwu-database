@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-49853",
+ "name": "玉帶鉤",
+ "aliases": [
+  "Jade belt hook"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長6.2公分 寬1.2公分 高1.8 公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001747N000000000"
+ },
+ "summary": "玉質，有赭斑。鉤首作獸首形，帶鉤面上飾有高浮雕之鳥紋。與蜂形玉墜一併置於仿冊頁盒中，盒外刻款填金隸書：「文衡山篆書」。仿經卷盒和其他仿冊頁盒等大小收納盒共八組，共同置於一題有「歷代珍藏」之大木匣中。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=139734&randomCode=58796467719",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=139735&randomCode=22440572976",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/49853?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_49853.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

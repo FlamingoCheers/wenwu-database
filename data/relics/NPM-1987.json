@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1987",
+ "name": "錯金銀提梁盉",
+ "aliases": [
+  "Gold and silver-inlaid he spouted ewer with loop handle"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  17
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高49.5 口徑24.5 公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000724N000000000"
+ },
+ "summary": "隆蓋，圓口，直頸，腹一側帶流，扁圓腹外鼓，平底下接三足。蓋鈕為雙手交握的坐姿猴形，提梁作獸形，梁的兩端分別為獸首和後肢，梁身以鏤空的蟠虺紋盤繞而成。曲頸流為鳥首形，雙翼伸展至腹壁，器足作立猴負鳥形獸。腹壁以兩圈寬帶紋為界，填滿細密帶凸點的類蟠虺紋。 此器基本形制仿自戰國銅盉，鑄造精良，原型或來自於《西清古鑑》卷三十一頁五十九〈周螭梁盉〉。然而，此器量體巨大，全器局部紋飾使用錯金銀，以勾勒獸鱗和三角紋、雲紋等，表現顏色對比和層次，造型繁複華麗，雖迥異於東周銅盉，卻充滿想像。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2728&randomCode=1122628120",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2729&randomCode=1893156048",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1987?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1987.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

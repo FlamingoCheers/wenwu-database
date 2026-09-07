@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23710",
+ "name": "吉州窯 白瓷蓮瓣紋碗",
+ "aliases": [
+  "Bowl with lotus petal decoration in white glaze, Jizhou ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.3公分 口徑32.5公分 底徑12.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002230N000000000"
+ },
+ "summary": "碗敞口，口緣鑲銅釦，深弧壁下斂，圈足。全器內外施罩透明釉，釉表見有細碎開片，全器呈黃色。外壁雕刻長形凸脊蓮瓣為飾，器內壁則釉下印花飾卷草花一株，其伸展彎折、表現出弧形優美曲線的長葉，以及盛開的花朵，正與外壁固定且規律的尖葉形蓮瓣形成對比。足緣露胎一圈塗褐色汁，足內滿釉，見有旋削痕，無款識。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395070&randomCode=58415468640",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395071&randomCode=22169213",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23710?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23710.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

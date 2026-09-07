@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-13941",
+ "name": "明董良史墨蹟　冊",
+ "aliases": [
+  "Calligraphy"
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "书画",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故書000608N000000000\n more\n \n 故書000608N000000001\n 故書000608N000000002\n 故書000608N000000003\n 故書000608N000000004\n 故書000608N000000005\n 故書000608N000000006\n 故書000608N000000007\n 故書000608N000000008\n 故書000608N000000009\n 故書000608N000000010\n 故書000608N000000011\n 故書000608N000000012\n 故書000608N000000013\n 故書000608N000000014\n 故書000608N000000015\n 故書000608N000000016"
+ },
+ "summary": null,
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=525922&randomCode=49182845598",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=525923&randomCode=81411882085",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/13941?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_13941.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

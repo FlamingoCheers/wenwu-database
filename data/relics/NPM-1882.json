@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1882",
+ "name": "玉鹿啣靈芝",
+ "aliases": [
+  "Jade deer holding lingzhi fungus"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長3.5公分 寬1.6公分 高2.5公分；木座長4.2公分 寬2.0公分 高0.5公分 連座高2.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉005616N000000000"
+ },
+ "summary": "玉質。琢一鹿回首，口銜靈芝，靈芝局部作染赭色。四足微彎。附木座，木座帶直邊，邊緣雕滿相交重疊的細長竹葉形紋飾。貯在院藏〈紫檀木鑲竹絲轉盤格子〉（故雜1284）裡。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=994502&randomCode=1420565844",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=994503&randomCode=435965022",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1882?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1882.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

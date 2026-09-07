@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-5813",
+ "name": "嵌金夔紋簋",
+ "aliases": [
+  "Gui food container with kui dragons pattern and inlaid with gold"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高16.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000412N000000000"
+ },
+ "summary": "圓簋，盤口、雙耳、圓腹、圈足，耳做獸首形，下有附珥，圈足外有外凸的圈足座。口沿飾回首夔龍，器腹飾橫條紋，圈足飾六個小獸首。獸形耳與紋飾帶局部錯金銀。器內有銘文。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=67997&randomCode=175548894",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=67998&randomCode=594704931",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5813?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5813.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

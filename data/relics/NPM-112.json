@@ -1,0 +1,37 @@
+{
+ "relic_id": "NPM-112",
+ "name": "黃釉葫蘆式執壺",
+ "aliases": [
+  "Yellow-glazed pitcher in the shape of a gourd"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "全高14公分 口徑3.3公分 底徑5.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購瓷000072N000000000"
+ },
+ "summary": "壺作細腰葫蘆形，小口、短曲流，流壁削為七個稜面；環狀扁把手，圈足。身飾弦紋線。淡紅細胎，塗有白色陶衣，罩黃釉，釉色明亮，釉中浮現褐色絲狀雜質；釉施不到底，器內自口以下無釉。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2669428&randomCode=1585285388",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/112?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_112.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

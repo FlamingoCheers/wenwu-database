@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26596",
+ "name": "龍泉窯 青瓷盤",
+ "aliases": [
+  "Dish in celadon glaze, Longquan ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高9.3公分 口徑59.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷015657N000000000"
+ },
+ "summary": "侈口微斂，淺弧壁，矮圈足。通體施翠青色釉，勻淡光亮，全器施青釉，淡雅素緻，胎薄處隱約透出白胎。器底有墊圈痕，施一圈赭色釉，底有傷缺。龍泉窯燒瓷歷史從宋至清，元代龍泉窯以大件物品為多，器大而不變形，胎體較為厚重。元代青瓷發展鼎盛，除了製作內銷之外，也制作外銷瓷器。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=407603&randomCode=25246606163",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=407604&randomCode=60256576273",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26596?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26596.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

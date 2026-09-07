@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-24499",
+ "name": "佛垂足坐像",
+ "aliases": [
+  "Seated Buddha"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "寬9.8公分 厚7.2公分 高16.6公分 重1142.4公克 尊像高9.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000105N000000000"
+ },
+ "summary": "此像屬於印度—爪哇(Indo-Javanese)風格造像。青銅佛像垂足坐於仰覆蓮臺上，其下又有岩石臺座，附背光，像身肉髻、螺髮，圓臉、肩臂圓渾、僧袍貼身而裙裳下擺寬大，雙手作說法印，臉部神態安詳。西元八至十二世紀末，印尼爪哇一帶受斯那王朝(Sana Dynasty)統治，文化深受東印度波羅(Pāla Dynasty)傳統影響，史稱東印度波羅—斯那王朝，美術帶有波羅與笈多美術風格，在造像藝術風格上深受同時期印度造像風格影響，例如此像之臺座造型與背光四周圖案化的火舌，即帶有比哈爾那爛陀(Bihar，Nalanda)遺風。薄衣貼體、優雅細緻的佛像則具有波羅王朝風格受笈多造像美術影響的風格。此像背光上",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=142671&randomCode=86227374404",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=142672&randomCode=1251105479",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24499?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24499.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

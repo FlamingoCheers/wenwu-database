@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-108",
+ "name": "磁州窯 黑釉稜線罐",
+ "aliases": [
+  "Jar with raised striations in black glaze, Cizhou ware"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高22.5公分 口徑16.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購瓷000066N000000000"
+ },
+ "summary": "廣口罐，口緣出圓唇；直頸、圓肩腹、圈足，足形削刻不平整。肩頸間附雙板狀耳。耳與器身均以直稜泥線為飾，再上黑釉，釉色凝厚鮮亮，但施不到底。器胎灰白，雜質多，塗佈有褐色汁。器裡僅口緣有釉。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391930&randomCode=69329177399",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=391931&randomCode=122114727",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/108?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_108.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

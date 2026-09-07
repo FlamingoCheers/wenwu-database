@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1948",
+ "name": "內言卣",
+ "aliases": [
+  "You wine vessel with inscription \"Nei yen\""
+ ],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  17
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "器高33.0公分 帶提粱35.3公分 腹寬21.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000122N000000000"
+ },
+ "summary": "帶蓋，器作子母口，長頸，鼓腹略垂，圈足。U形提梁兩端作浮雕獸首，提梁與器頸之間以環耳相接。全器無地紋，蓋面和器腹中段作獸面紋，頸間和圈足飾夔鳳紋。器蓋對銘二字。本器為乾隆三十四年(1769)頒賜國子監的「周笵十器」之一，名之「周內言卣」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=425&randomCode=1527602291",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=426&randomCode=1408114683",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1948?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1948.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

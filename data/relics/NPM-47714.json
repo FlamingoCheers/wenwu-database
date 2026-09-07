@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-47714",
+ "name": "伊斯蘭回文豆",
+ "aliases": [
+  "Islamic footed bowl (jam) with Arabic inscription"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高13.7公分 口徑18.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅001356N000000000"
+ },
+ "summary": "圓口，細短柄，盤形圈足。器腹可見波浪式的連珠紋帶交會，間隔填滿花葉紋，圖塊以銀片鑲嵌。口緣及圈足上各有一周庫發體（Kufic）銘文，是伊斯蘭文化中常用於抄寫可蘭經的古體文。銘文內容為向真主阿拉祈求人世名利的祝願之語。經比對，此器可能來自伊朗東部呼羅珊，年代約為十三世紀。著錄於《西清續鑑‧ 甲編》附錄一，作〈唐時回銅器〉。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=5628&randomCode=801686892",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=5629&randomCode=644677688",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47714?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47714.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

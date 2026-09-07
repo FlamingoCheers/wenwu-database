@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27531",
+ "name": "白瓷貫耳弦紋壺",
+ "aliases": [
+  "Flask with tubular handles and linear pattern in white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高14.8公分 口徑7.7*5.6公分 公分 底徑7.5*5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷005179N000000000"
+ },
+ "summary": "器形仿銅器扁壺，侈口短頸，器腹部微扁而碩大，矮圈足。器頸部飾二道凸稜弦紋痕，頸部左右接有兩貫耳。施罩月白色釉，月白釉色微淺淡，勻而欠潤，胎骨厚重，釉質甚濃。器表開片紋稀疏，釉層表面有棕眼縮釉痕。足底未上釉處露出灰褐色胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=466792&randomCode=20928053451",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=466793&randomCode=46530487774",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27531?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27531.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26406",
+ "name": "哥窯 青瓷葵花式洗",
+ "aliases": [
+  "Hibiscus-shaped brush washer in celadon glaze, Ge ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  14
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.4公分 口徑12.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017429N000000000"
+ },
+ "summary": "此洗作十瓣牡丹花形，口微內斂，外腹隨花形起伏，無圈足，外底內凹。全器滿釉，僅底部有六個支釘痕，以及一塊剝釉處，黑色胎土外露。釉色灰青，口緣釉薄，映現胎土，呈現出傳世哥窯常見的「紫口」特色。釉質乳濁瑩亮，氣泡稯眼明顯，並滿佈黑、黃兩色開片，且因釉層不一使觸手有起伏感。又，此洗附木座，然已破損，底部陰刻一「丙」字。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=404950&randomCode=78975064073",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=404951&randomCode=1620288759",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26406?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26406.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

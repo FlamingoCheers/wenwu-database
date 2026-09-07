@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1935",
+ "name": "錯金銀鳧尊",
+ "aliases": [
+  "Water fowl-shaped Zun vessel with gold and silver inlay"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "長34.5公分 寬15.0公分 高29.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅001540N000000000"
+ },
+ "summary": "原藏於熱河行宮。造型典雅，腹部圓鼓，頭部略為上揚。腹部羽翅以錯金銀鳳鳥紋為裝飾，頸、肩飾以連珠纓絡，其間貼飾梅花。元代南方的瓷窯也好以貼花連珠為飾，或為一時之風氣。透過顯微放大，鳧尊表面錯金部位的表面與周圍均有壓塹痕，以固定金絲。內側可見金屬釘，為鑄造之遺留。足部與器身為後接，從內側也可見接痕。這類器物最早見於《宣和博古圖》卷七，作「周鳧尊」，但至今尚未看到相似的周器。海外也藏有幾件鳧尊，器表均錯以金銀，製作十分精美，從風格特徵看來應為同時之作。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=6497&randomCode=1445255694",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=6498&randomCode=1916781445",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1935?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1935.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

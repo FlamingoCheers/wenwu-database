@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-74",
+ "name": "定窯 白瓷三繫壺 口印「褚」字銘",
+ "aliases": [
+  "Lidded pot with three lugs and chu mark, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高11.0公分 口徑15.2公分 底徑7.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014353N000000000"
+ },
+ "summary": "提梁壺，器形扁圓，斂口，長流；流壁以泥板方折角接成糟，流無上蓋，僅在流尾飾一雲形貼花，上印「褚」字。口沿下另飾三雲頭，前二後一，釦以銅線，線端彎起為小龍首狀，十分細緻；三線與銅質提梁相扣成丁字形。器蓋微隆起，蓋沿平折，蓋面劃蓮花一朵，以蒂為鈕，十六片蓮瓣四披。蓋器口邊均無釉、鑲銅稜釦。全器滿施牙白釉，質堅，器身薄可透光。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=631727&randomCode=1062103020",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=631728&randomCode=328928575",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/74?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_74.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

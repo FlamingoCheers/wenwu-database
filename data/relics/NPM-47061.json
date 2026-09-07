@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-47061",
+ "name": "韓國 高麗時代 十三~十四世紀 銅鎏金如意紋方盒",
+ "aliases": [
+  "Gilt bronze Square Box Decorated with Ju-i Motif, Korea, Koryo dynasty, 13th~14th century"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  13,
+  14
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "5.4×4.4×2.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000431N000000000"
+ },
+ "summary": "方圓形盒，子母口，無足，盒身及盒蓋作平頂斜緣，滿飾陰刻紋樣，斜緣作多層的波浪狀環繞，底紋作圓點魚子紋狀，盒蓋中央刻三朵如意狀雲紋猶如自浪中湧現，兩邊角還露出兩朵花瓣狀的局部，使畫面十分熱鬧，盒身中央刻一盛開花朵及花蒂，用刀深刻而不失流暢，功能不詳。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=342224&randomCode=43941273329",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=342225&randomCode=30503586871",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47061?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47061.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

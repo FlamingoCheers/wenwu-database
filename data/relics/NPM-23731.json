@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23731",
+ "name": "白瓷印花方盒",
+ "aliases": [
+  "Square box with impressed decoration in white glaze"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高9.7公分 口徑7.5公分 底徑4.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002251N000000000"
+ },
+ "summary": "長方盒，子母口，帶蓋，外壁施透明釉，呈色白中泛黃。全器以釉下印花技法製作紋樣，器外壁八角錦地，八角形中有小花。蓋面邊框飾回紋。外底四腳有「L」形露胎區，其微凸於底面，為器足。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395021&randomCode=90353622904",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=395022&randomCode=2044805024",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23731?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23731.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

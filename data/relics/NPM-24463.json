@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24463",
+ "name": "柬埔寨 12-13世紀 青銅鎏金 毗濕奴神立像",
+ "aliases": [
+  "Standing Vishnu, Cambodia, ca. 12th-13th century"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "像寬21.0公分 厚10.3公分 高35.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000071N000000000"
+ },
+ "summary": "青銅鎏金立像附座，柬埔寨一帶作品，約十二至十三世紀，此時期柬埔寨受吉蔑文化統治，佛教信仰帶有印度教與密教風格。當印度教的神祇越過海峽成為東南亞的信仰，雖保留原有多面多臂及持物等圖像特徵，但融入當地人文 特質，呈現多元文化縮影。最顯著的是面相與體態脫離印度原型，轉化為東南亞人種特色。如此尊立像，一面三目，四臂，手中分持 法輪、蓮子、海螺及權杖，是印度教三大神之宇宙守護神毗濕奴的圖像特徵，然而髮式結成筒狀高髻，一圈圓冠環繞頭部，身佩瓔珞諸釧，裸上身，腰繫有魚尾式垂帛的山樸圍裙，皆是柬埔寨君王樣式，這是由於吉蔑文化將天王（Devarāja）信仰引入，與當地流行的佛教和印度教思想結合，而天王信仰認為帝",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=142606&randomCode=69223963612",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=142607&randomCode=106034043",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24463?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24463.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

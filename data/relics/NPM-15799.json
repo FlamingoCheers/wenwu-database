@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-15799",
+ "name": "天然如意硯",
+ "aliases": [
+  "Ruyi-shaped natural inkstone"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長20.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文001536N000000000"
+ },
+ "summary": "歙石，色黝黑，全器剝蝕斑駁。長方形石硯，一角因傷損略鈍圓，硯堂有圓形略凹以受墨，硯池作如意雲紋樣，周並起細棱，硯壁四面琢深弦紋一周，其餘原有紋飾皆模糊或不存。硯背有元人張雨「句曲外史」篆款，與乾隆甲辰年(四十九年，1784)御製詩。現收於有同乾隆御製詩之嵌玉紫檀木盒。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=178274&randomCode=40198537520",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=178275&randomCode=1020951901",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/15799?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_15799.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

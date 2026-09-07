@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-51149",
+ "name": "玉獸鈕未刻印",
+ "aliases": [
+  "Jade seal with an animal-shaped knob, stamp uncut"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  117,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬1.35公分 通高3.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉003047N000000000"
+ },
+ "summary": "玉獸鈕方印，獸作蹲坐狀，印面未刻，印身有璺，印面邊沿微傷。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=144436&randomCode=78445469000",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=144437&randomCode=21698265162",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/51149?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_51149.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

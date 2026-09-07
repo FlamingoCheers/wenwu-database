@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-14915",
+ "name": "端石三祝硯",
+ "aliases": [
+  "Duan inkstone with protruding textures symbolizing \"Sanzhu\""
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長21.1公分 寬12.55公分 高7.15公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中文000011N000000000"
+ },
+ "summary": "端石硯，深灰色，長方形抄手式。硯周三邊起邊框，上飾連續回紋，硯堂平而略凹，向硯首斜下為池，中浮雕波濤地回首龍一隻。硯背有三顆依天然石眼雕刻飾水雲小柱，因而名之三祝。硯首側壁有乾隆題詩文及印，貯於刻有相同御製詩黑漆嵌盒。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=183569&randomCode=51818310962",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=183570&randomCode=2091148258",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/14915?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_14915.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

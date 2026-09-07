@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-20207",
+ "name": "龍泉窯 青瓷鳳首瓶",
+ "aliases": [
+  "Vase with phoenix-head handles in celadon glaze, Longquan ware"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高26.0公分 口徑8.5公分 底徑8.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003108N000000000"
+ },
+ "summary": "盤口紙槌瓶式。口部折沿平斜，口緣微具圓棱；管狀長頸、斜肩，直筒狀器腹；底淺挖為足。頸部兩側各作鳳耳，鳳耳簡拙，僅略具其形。全器釉色粉青敦厚，凝練的釉汁將每一折曲修飾圓潤。足端露胎，塗赭色護胎汁。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321732&randomCode=73739755843",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=321733&randomCode=84395382127",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/20207?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_20207.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

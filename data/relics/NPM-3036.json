@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3036",
+ "name": "銅雀臺瓦硯",
+ "aliases": [
+  "Roof tile of the T'ung-ch'ueh Tower"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1644
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長27.9公分 寬16.5公分 高2.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文001650N000000000"
+ },
+ "summary": "器作長方覆瓦形，硯面受墨處窪下略作葫蘆形，上半自受墨處斜下深一‧五公分為墨池，硯面額首上方正中鐫寶一、曰「乾隆御賞之寶」，篆書六字，左上方有「句曲外史」，篆字方印一，右方鐫「項墨林家珍藏」，隸書六字，左下刻「水晶宮道人珍藏寶玩」，隸書九字，硯面並刻清乾隆朝，名臣題銘，有汪由敦篆書銘一則，勵宗萬隸書銘一則，裘曰修銘，梁詩正銘、皆為楷書，另有董邦達行書詩乙首。考「句曲外史」，係張雨自號，趙孟順嘗自稱水晶宮道人，而墨林居士即項元汴，按硯譜云：「是硯與困學錄藏硯，皆背無葛麻文，雖不被定其必係漢瓦，然既經趙孟頫諸人鑒藏，製作印識亦俱古雅，臣等伏讀是硯御製詩云：「或云六朝好事者，所仿為之誌不朽，此事雖假亦",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1709882&randomCode=1957478784",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1709883&randomCode=86323836",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3036?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3036.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

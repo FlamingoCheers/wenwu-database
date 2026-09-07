@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-27528",
+ "name": "汝窯 青瓷洗",
+ "aliases": [
+  "Brush washer with celadon glaze"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.7公分 口徑15.9公分 底徑13.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷005176N000000000"
+ },
+ "summary": "圓口，口沿磨平，殘留鑲嵌痕跡。平底無足，周壁較薄，器底稍厚。滿釉支燒，通體施天青色釉，局部微現粉色光澤，器表開灰色紋片，內深外淺。底周排佈五枚支釘，支痕中可見灰土色胎。圓洗流通於南北兩宋窯場，以考古出土物為例，河南省寶豐縣清涼寺窯址見有與此品相似的標本。浙江省杭州市老虎洞窯址及郊壇下官窯窯址也出土一些形制相仿的例證。除了滿釉支燒外，亦存在使用支圈墊燒，周壁或有高低不同變化的作例。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393662&randomCode=72091359917",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393663&randomCode=831949442",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27528?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27528.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

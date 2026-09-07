@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26921",
+ "name": "白瓷印花龍紋盤",
+ "aliases": [
+  "Dish with impressed dragon decoration in white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.0公分 口徑29.0公分 底徑19.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷002508N000000000"
+ },
+ "summary": "敞口，淺壁，矮圈足，口沿鑲銅釦。全器施米白色釉，外底足內亦施釉，圈足底緣無釉，露出褐黃色胎。外壁光素無紋，內壁以印花技法裝飾雙龍戲珠圖案，龍身上以魚子般的凸紋象徵鱗片，周圍環繞多朵折帶雲。口沿處裝飾一圈回紋。外壁留下多道釉汁流淌的痕跡，稱之為「淚痕」。口沿鑲銅釦是受定窯影響，除了可遮掩覆燒時產生的芒口外，亦結合了當時人們對於金銀器飾的喜愛。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=429083&randomCode=87756086174",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=429084&randomCode=416422928",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26921?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26921.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

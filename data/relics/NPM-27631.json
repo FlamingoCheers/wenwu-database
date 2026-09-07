@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27631",
+ "name": "定窯 白瓷印花雙龍紋盤",
+ "aliases": [
+  "Dish with impressed dragon decoration in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.4公分 口徑23.0公分 底徑6.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷003026N000000000"
+ },
+ "summary": "盤，侈口，深壁，折底內收，內底心略凹，矮圈足。器內壁劃分為六格，內底心印雙龍戲珠紋，器外壁樸素無紋飾。胎骨稍厚，施罩白釉，釉質瑩白，器表釉面多開片紋，似經水浸呈現黃褐色斑點，外足底緣一周露白胎。定窯窯址位在河北省曲陽縣澗磁村、燕山村一帶，窯場廣佈，是宋元時期北方最著名盛燒的白瓷窯場。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470123&randomCode=68232719860",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=470124&randomCode=1213583883",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27631?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27631.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26064",
+ "name": "官窯 青瓷八方弦紋盤口瓶",
+ "aliases": [
+  "Octagonal vase with dish-shaped mouth and linear pattern in celadon glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高21.5公分 口徑8.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017701N000000000"
+ },
+ "summary": "盤形口，長頸，腹部扁碩，平底，矮圈足。瓶身凸起八稜，頸腹間共飾弦紋四道。胎骨稍厚，通體施青瓷釉，釉色灰青，釉面開深色大紋片，施釉至足際，足緣無釉，露胎處加塗灰黑色護胎汁。造型相似於玻璃器。外底面鐫刻乾隆皇帝〈詠官窯瓶〉：「粉青真上品，鱔血具奇紋。卦義八稜蘊，環形雙節分。稱珍惟樸素，引趣卻華紛。比似宣成巧，椎輪此出羣濝」御製詩。詩末署「乾隆壬辰孟夏月御題」紀年銘（乾隆三十七年：1772），並落「古香」和「太璞」兩枚鈐印。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393554&randomCode=54066343819",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393555&randomCode=74410187183",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26064?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26064.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

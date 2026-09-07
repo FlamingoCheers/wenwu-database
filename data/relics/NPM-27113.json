@@ -1,0 +1,43 @@
+{
+ "relic_id": "NPM-27113",
+ "name": "定窯 白釉印花菊花碗",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.3公分 口徑18.5公分 底徑4.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014635N000000000"
+ },
+ "summary": "侈口，深壁上豐下削，圓底，矮圈足。胎骨稍厚，全器滿施白色釉，釉質勻潤但無光澤。器外壁光素無紋，並可見到釉汁流淌所造成的「淚痕」。內周壁印飾轉枝花卉，葉片輪廓內以篦狀工具劃出複線紋，底心為菊花圖案。圈足底緣無釉露胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=433550&randomCode=44109770081",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=433551&randomCode=84280895529",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27113?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27113.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

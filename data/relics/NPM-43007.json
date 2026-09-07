@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43007",
+ "name": "青花龍紋瓶",
+ "aliases": [
+  "Vase with dragon decoration in underglaze blue"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高27.6、口徑8.2、足徑8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購瓷000129N000000000"
+ },
+ "summary": "玉壺春瓶，撇口、細頸、斜肩、垂腹、矮圈足。白地青花，釉色帶灰、濃淡不一，表面可見若干縮釉小點，內圈足施釉不完全，同足緣露胎。器內口沿飾卷草紋，器外壁繞一雲龍，筆法樸拙。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=399075&randomCode=91055149657",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=399076&randomCode=521560557",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43007?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43007.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

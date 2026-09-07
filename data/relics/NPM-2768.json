@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2768",
+ "name": "青花花卉紋葫蘆式執壺",
+ "aliases": [
+  "Gourd-shapped ewer with floral decoration in underglaze blue"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高11.2公分 口徑2.0公分 足徑5.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000330N000000000"
+ },
+ "summary": "青花葫蘆式執壺，小口、細腰葫蘆式瓶身，一側曲把拱起銜接上下身，另一側的管狀長流從下腹部高豎起再向外曲折；餅形足，平底無釉，沾有窯渣。此種注子造形為元代所常見，有青花、青白瓷、褐斑青白瓷等裝飾。器壁以青花繪飾，口緣一道回紋，上下腹各繪連枝花卉，流的壁上也繪一小枝花，筆法簡率，與其他販至東南亞的小件青花器的繪法一致。外壁罩以灰青色釉。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=319340&randomCode=18627437248",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=319341&randomCode=1986010629",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2768?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2768.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

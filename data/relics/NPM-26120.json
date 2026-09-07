@@ -1,0 +1,48 @@
+{
+ "relic_id": "NPM-26120",
+ "name": "餘杭窯 青瓷三羊尊",
+ "aliases": [
+  "Zun vessel with three goat heads in celadon glaze"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高14.8公分 口徑13.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷017796N000000000"
+ },
+ "summary": "造形仿古銅器尊，圓形侈口外敞，斜直頸，鼓腹，高足脛外撇，矮圈足。口沿鑲銅釦。器腹飾以三羊首銜環，頸腹交界、器腹與脛交界各有一圈凸弦紋。器內外施釉，釉色灰青，圈足一周露胎呈色灰白。本件曾於西元1935至1936年間由故宮出借至英國倫敦參加「倫敦中國藝術國際展覽會」(The International Exhibition of Chinese Art, London, 1935-6) ，當時名稱定為「南宋餘杭窯油青三羊尊」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401615&randomCode=19881722614",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401616&randomCode=764165296",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26120?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26120.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

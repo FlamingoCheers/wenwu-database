@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-27432",
+ "name": "定窯 白瓷印花牡丹飛雁紋盤",
+ "aliases": [
+  "White dish with impressed design of peony and flying geese, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高3.9公分 口徑20.1公分 底徑6.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014484N000000000"
+ },
+ "summary": "侈口、淺壁、平底，矮圈足，胎骨薄。盤內口沿下回紋一道，內壁周圍印纏枝牡丹花，間飾三隻飛雁，盤底印折枝秋葵花二枝。全器施白釉，器底滿釉，釉色灰白。口緣鑲銅釦。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=466508&randomCode=26725652096",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=466509&randomCode=94414893669",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/27432?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_27432.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

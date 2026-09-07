@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-1321",
+ "name": "鈞窯 月白紫斑梅瓶",
+ "aliases": [
+  "Meiping vase with moon-white glaze and purple splashes"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高35.5公分 口徑4.1公分 足徑11.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷006087N000000000"
+ },
+ "summary": "瓶小口出沿，口上作一細稜，短頸，溜肩，長腹，足脛外撇，短圈足。通體罩施月白色釉，釉色灰藍，釉面局部有漬痕，釉表開大紋片，瓶肩兩面各有一變形蟲式的銅紅斑，施釉至足際，足底無釉，露土色胎。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1225393&randomCode=1218944111",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1225394&randomCode=669580010",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1321?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1321.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

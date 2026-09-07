@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2745",
+ "name": "剔犀雲紋盒",
+ "aliases": [
+  "Black tixi lacquer box with cloud pattern"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "漆器",
+ "material": null,
+ "dimensions": "高4.7公分 徑9.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故漆000488N000000000"
+ },
+ "summary": "蒸餅式，但約略轉折出側壁，盒蓋髹塗黑褐色漆，漆層間夾暗紅線五道，盒身則髹塗黑漆，為黑間暗紅線六道。子母口，底凹下後中央再稍微隆起。蓋面剔刻四如意雲首紋，中央形成四出十字紋，中心剔刻出一圓點，側壁則繞飾八如意雲首紋，器身亦繞刻八如意雲首紋，如意雲紋間往往夾飾香草紋的捲邊紋飾作為「填空」紋飾。漆質清澈，少雜質。這件漆盒的堆漆肥厚， 漆質佳，平直，都是元代剔犀工藝的風格。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=188532&randomCode=47576459255",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=188533&randomCode=64654513979",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2745?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2745.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-57608",
+ "name": "玉持蓮童子",
+ "aliases": [
+  "Jade child holding lotus"
+ ],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "高4.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉006536N000000000"
+ },
+ "summary": "玉質，雕一童子，梳單髻，穿著交襟長上衣及長褲，面露微笑向左望，雙手置於胸前，左手持荷枝，腦後有荷花及荷葉。線條圓潤，與玉質的晶瑩潔白互相呼應。荷枝彎折處形成一孔，穿有一如意結黃繩。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=338233&randomCode=81908027478",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=338234&randomCode=46203206204",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/57608?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_57608.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

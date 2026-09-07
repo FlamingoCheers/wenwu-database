@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2739",
+ "name": "玉龍紋屏",
+ "aliases": [
+  "Jade plague with dragon decoration"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "杂器",
+ "material": null,
+ "dimensions": "寬8.9公分 通高13.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故雜000002N000000000"
+ },
+ "summary": "此件方形帶版的質地為純淨無瑕之青玉。以多層次鏤空技法處理紋飾：中心為曲身梭巡於朵雲之間的五爪遊龍，外圍四瓣菱花形開光，底襯卷草紋，線條彼此壓疊交錯，繁密而不凌亂，四角則飾剖面式的朵花紋。從龍的表現方式及紋樣佈局看來，製作年代不晚於明早期。清高宗 ( 1736-1795 ) 愛玉，在位期間玉器製作呈現空前繁榮的景況。然即位之初的二十五年，由於新疆尚未納入版圖，玉料供應量無法與後來相提並論，因此宮廷作坊常將舊藏賦予新意。此帶版即於當時被配以新座，成為乾隆皇帝文房陳設的雅玩。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=151073&randomCode=74644455232",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=151074&randomCode=82207494484",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2739?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2739.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

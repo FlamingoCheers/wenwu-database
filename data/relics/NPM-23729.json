@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-23729",
+ "name": "彭窯 白瓷軸頭罐",
+ "aliases": [
+  "White jar in the shape of a scroll end painted, Peng ware"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.3公分 底徑3.5公分 口徑3.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷002249N000000000"
+ },
+ "summary": "圓口，直頸，碩腹，腹與頸間圓形板狀物相隔，平底，帶蓋。全器光素無紋，器外壁與蓋皆施透明釉，呈色白中泛黃。底外中心有圓形無釉區，見有明顯的旋削痕。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394104&randomCode=21337058183",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=394105&randomCode=1891425343",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/23729?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_23729.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

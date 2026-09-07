@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-99",
+ "name": "雘村石風字硯",
+ "aliases": [
+  "Huocun stone inkstone in the shape of a character feng (wind)"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長19.1公分 寬10.9至11.6公分 厚1.2至2.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文001550N000000000"
+ },
+ "summary": "硯作風字形，首端略弧，微束腰；石色黃赭。硯面自墨堂向墨池斜下，池額三面加一道稜。硯背首端加厚成弧形足，尾端兩隅各有一長方形足；中央陰刻楷書清高宗御製銘文及鈐印。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1300152&randomCode=1971660650",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1300153&randomCode=519829852",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/99?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_99.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

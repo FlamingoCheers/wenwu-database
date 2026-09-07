@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-28208",
+ "name": "定窯 白瓷劃花蓮塘雙鳧紋碗",
+ "aliases": [
+  "Bowl with incised decoration of waterfowls and pond in white glaze, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  12,
+  13
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.8公分 口徑24.0公分 底徑7.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷012436N000000000"
+ },
+ "summary": "碗，侈口、深弧壁、平底、矮圈足，口緣鑲銅釦。胎骨稍厚，通體施白釉，釉質濃潤，外底及足緣微露胎。器內壁淺劃蓮塘景致，一雙鳧鳥悠遊其中，線條簡約流暢；外壁隱約留有轆轤痕。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=588337&randomCode=92195159472",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=588338&randomCode=77502198",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/28208?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_28208.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

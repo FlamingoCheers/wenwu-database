@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-30163",
+ "name": "定窯 白瓷鴛鴦穿花紋笠式碗",
+ "aliases": [
+  "Conical bowl with impressed decoration of Mandarin ducks and flowers in white glaze, Ding ware"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.8公分 口徑18.8公分 底徑3.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷010534N000000000"
+ },
+ "summary": "斗笠式碗，廣口、小足、斜壁，足滿釉，口鑲銅釦稜。器裡印花為飾，口沿回紋一周，器壁為兩對鴛鴦，各首尾相銜的展翼飛越花叢，繁花盛開，以蓮荷花葉為多，其他茨菰、水蓼之類摻雜，填滿整個畫面空隙如錦繡。碗心微低陷，飾多重花瓣的朵花圖案。定窯紋樣中，以花鳥組合的數量最多；各樣的鳥，包括長尾的山雞、練雀、鸞鳥、鳳凰、孔雀，以及水禽鴨、鵝、雁、鴛鴦等，均常為紋飾主題，而印花繁密，花卉與禽鳥交錯為熱鬧的圖景。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=623045&randomCode=1884334410",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=623046&randomCode=609054910",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/30163?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_30163.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

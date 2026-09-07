@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-5216",
+ "name": "「□」銅印",
+ "aliases": [
+  "Bronze seal with inscription \"X\""
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "長2.6公分 寬2.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅001823N000000000"
+ },
+ "summary": "扁長方形銅印，獸鈕。獸張口扭首，蹲伏於印背上，長尾翹起。周身線條簡潔生動。印面鑄一朱文「□」字，印文凸出印面甚多。本印置於清乾隆朝「金薤留珍」之五篋其中「府」屜之中。「金薤留珍」乃乾隆朝時將內府所收的前代印記整理編次而成；包含銅官印221件，私印1070件，共1291件，存放於「東」、「壁」、「圖」、「書」、「府」五個黑地金漆龍紋屜匣中，並依各櫃所藏編製印譜。印譜目錄編次方式以官印為始，繼以私印，可能是承襲明顧從德《集古印譜》之編目方法。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=38330&randomCode=696381150",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=38331&randomCode=1115537187",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5216?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5216.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}
