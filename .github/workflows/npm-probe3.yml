@@ -1,0 +1,30 @@
+# NPM probe3: defeat IIS 411 on POST /opendata/Pub/Search
+# variants: --data-binary from file, no -L, explicit Expect:, http1.1
+name: npm-probe3
+on:
+  workflow_dispatch:
+
+jobs:
+  probe3:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Try POST variants
+        run: |
+          mkdir -p npm_probe3
+          cat > body.json <<'EOF'
+          {"RegisterType":null,"IndexYear":null,"WestBeginYear":0,"WestEndYear":0,"YearDisplay":null,"SearchContent":null,"RegisterTypeEng":null,"PageInfo":{"PageIndex":1,"PageSize":15,"PageCount":7245}}
+          EOF
+          U="https://theme.npm.edu.tw/opendata/Pub/Search"
+          echo "== v1: --data-binary @file, no -L"
+          curl -s -m 60 --http1.1 -A "Mozilla/5.0" -H "Content-Type: application/json" -H "Referer: https://theme.npm.edu.tw/opendata/" --data-binary @body.json -o npm_probe3/v1.html -w "HTTP %{http_code} %{size_download}B\n" -X POST "$U"
+          echo "== v2: v1 + Expect disabled"
+          curl -s -m 60 --http1.1 -A "Mozilla/5.0" -H "Expect:" -H "Content-Type: application/json" --data-binary @body.json -o npm_probe3/v2.html -w "HTTP %{http_code} %{size_download}B\n" -X POST "$U"
+          echo "== v3: form-encoded"
+          curl -s -m 60 -A "Mozilla/5.0" --data "RegisterType=&IndexYear=&WestBeginYear=0&WestEndYear=0&YearDisplay=&SearchContent=&RegisterTypeEng=&PageInfo.PageIndex=1&PageInfo.PageSize=15" -o npm_probe3/v3.html -w "HTTP %{http_code} %{size_download}B\n" -X POST "$U"
+          for f in npm_probe3/v*.html; do echo "== $f head =="; head -c 300 "$f"; echo; done
+      - name: Upload probe3
+        uses: actions/upload-artifact@v4
+        with:
+          name: npm-probe3
+          path: npm_probe3/
