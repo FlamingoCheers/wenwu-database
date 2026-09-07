@@ -1,8 +1,11 @@
-﻿name: update-data
+﻿# Weekly refresh: incremental A-class collection + rebuild SQLite snapshot
+# Note: raw cache persists via actions/cache; full Met crawl takes ~3.5h on first run
+name: update-data
 
 on:
   schedule:
-    - cron: "0 21 * * 5"   # 姣忓懆浜?UTC 21:00锛堝寳浜椂闂村懆鍏?05:00锛?  workflow_dispatch: {}
+    - cron: "0 21 * * 5"   # Fri 21:00 UTC = Sat 05:00 Beijing
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -10,14 +13,15 @@ permissions:
 jobs:
   collect-and-build:
     runs-on: ubuntu-latest
-    timeout-minutes: 360   # 棣栨鍏ㄩ噺鐖?Met 绾?3.5h锛涗箣鍚庢瘡鍛ㄥ閲忓彧闇€鍑犲垎閽?    steps:
+    timeout-minutes: 360   # first full Met crawl ~3.5h; weekly incremental is minutes
+    steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: 缂撳瓨 Met raw锛堣法璺戞柇鐐圭画鐖級
+      - name: Cache Met raw (resume across runs)
         uses: actions/cache@v4
         with:
           path: raw/met
@@ -25,22 +29,23 @@ jobs:
           restore-keys: |
             met-raw-
 
-      - name: 澧為噺閲囬泦 A 绫绘簮锛圡et Open Access锛屽苟鍙戯級
+      - name: Incremental collect (Met Open Access, concurrent)
         run: python collectors/met_collector.py --limit 0 --workers 6
 
-      - name: 閲嶆槧灏勫凡鏈夎褰曪紙鏄犲皠瑙勫垯鍗囩骇鏃朵紶鎾級
+      - name: Remap existing records (propagate mapping upgrades)
         run: python collectors/met_collector.py --remap
 
-      - name: 鏋勫缓 SQLite 蹇収
+      - name: Build SQLite snapshot
         run: python pipeline/build_db.py
 
-      - name: 鎻愪氦骞舵帹閫?        run: |
+      - name: Commit and push
+        run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/relics
           if git diff --cached --quiet; then
-            echo "鏃犳柊澧炴暟鎹?
+            echo "No new data"
           else
-            git commit -m "鏁版嵁鏇存柊: $(date -u +%F) 澧為噺閲囬泦"
+            git commit -m "data: incremental update $(date -u +%F)"
             git push
           fi
