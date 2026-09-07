@@ -105,7 +105,7 @@ def to_record(obj):
 
 def main():
     parser = argparse.ArgumentParser(description="Met Open Access 采集器（亚洲艺术部，CC0）")
-    parser.add_argument("--limit", type=int, default=0, help="成功入库目标数量，0=全量")
+    parser.add_argument("--limit", type=int, default=0, help="本次处理对象数上限（含跳过），0=全量")
     parser.add_argument("--sleep", type=float, default=0.05, help="请求间隔秒数（每线程）")
     parser.add_argument("--workers", type=int, default=6, help="并发线程数")
     parser.add_argument("--force", action="store_true", help="覆盖已存在的记录")
@@ -201,7 +201,7 @@ def main():
                 failures.append({"objectID": oid, "error": err})
             if done_n % 200 == 0:
                 print(f"进度 {done_n}/{len(todo)}  入库 {ok}  跳过 {skipped}  失败 {failed}", flush=True)
-            if args.limit and ok >= args.limit:
+            if args.limit and done_n >= args.limit:
                 for f2 in futures:
                     f2.cancel()
                 break

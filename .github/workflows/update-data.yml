@@ -5,7 +5,16 @@ name: update-data
 on:
   schedule:
     - cron: "0 21 * * 5"   # Fri 21:00 UTC = Sat 05:00 Beijing
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Max objects this run (0 = unlimited; batch with e.g. 8000)"
+        required: false
+        default: "0"
+      workers:
+        description: "Concurrent fetch workers"
+        required: false
+        default: "12"
 
 permissions:
   contents: write
@@ -30,7 +39,7 @@ jobs:
             met-raw-
 
       - name: Incremental collect (Met Open Access, concurrent)
-        run: python collectors/met_collector.py --limit 0 --workers 6
+        run: python collectors/met_collector.py --limit ${{ github.event.inputs.limit || 0 }} --workers ${{ github.event.inputs.workers || 12 }}
 
       - name: Remap existing records (propagate mapping upgrades)
         run: python collectors/met_collector.py --remap
