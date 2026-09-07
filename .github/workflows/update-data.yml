@@ -1,4 +1,4 @@
-﻿# Weekly refresh: incremental A-class collection + rebuild SQLite snapshot
+# Weekly refresh: incremental A-class collection + rebuild SQLite snapshot
 # Note: raw cache persists via actions/cache; full Met crawl takes ~3.5h on first run
 name: update-data
 
