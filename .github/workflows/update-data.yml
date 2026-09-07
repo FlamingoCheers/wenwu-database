@@ -19,8 +19,19 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: 增量采集 A 类源（Met Open Access）
-        run: python collectors/met_collector.py --limit 0
+      - name: 缓存 Met raw（跨跑断点续爬）
+        uses: actions/cache@v4
+        with:
+          path: raw/met
+          key: met-raw-${{ github.run_id }}
+          restore-keys: |
+            met-raw-
+
+      - name: 增量采集 A 类源（Met Open Access，并发）
+        run: python collectors/met_collector.py --limit 0 --workers 6
+
+      - name: 重映射已有记录（映射规则升级时传播）
+        run: python collectors/met_collector.py --remap
 
       - name: 构建 SQLite 快照
         run: python pipeline/build_db.py

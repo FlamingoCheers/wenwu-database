@@ -1,7 +1,9 @@
 import argparse
 import json
 import sys
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import urllib.request
 import urllib.error
 from datetime import date
@@ -104,7 +106,8 @@ def to_record(obj):
 def main():
     parser = argparse.ArgumentParser(description="Met Open Access 采集器（亚洲艺术部，CC0）")
     parser.add_argument("--limit", type=int, default=0, help="成功入库目标数量，0=全量")
-    parser.add_argument("--sleep", type=float, default=0.12, help="请求间隔秒数")
+    parser.add_argument("--sleep", type=float, default=0.05, help="请求间隔秒数（每线程）")
+    parser.add_argument("--workers", type=int, default=6, help="并发线程数")
     parser.add_argument("--force", action="store_true", help="覆盖已存在的记录")
     parser.add_argument("--remap", action="store_true", help="仅用本地 raw 缓存重映射已入库记录（不联网）")
     args = parser.parse_args()
@@ -148,18 +151,20 @@ def main():
     skip_file = RAW_DIR / "_skipped.json"
     skip_set = set(json.loads(skip_file.read_text(encoding="utf-8"))) if skip_file.exists() else set()
     skip_new = []
-    for i, oid in enumerate(ids, 1):
-        if args.limit and ok >= args.limit:
-            break
-        out_path = RELICS_DIR / f"MET-{oid}.json"
-        if out_path.exists() and not args.force:
-            skipped += 1
-            continue
+    todo = []
+    for oid in ids:
         if oid in skip_set:
             skipped += 1
             continue
+        if (RELICS_DIR / f"MET-{oid}.json").exists() and not args.force:
+            skipped += 1
+            continue
+        todo.append(oid)
+    print(f"待处理 {len(todo)}  已跳过 {skipped}", flush=True)
+
+    def work(oid):
+        raw_path = RAW_DIR / f"{oid}.json"
         try:
-            raw_path = RAW_DIR / f"{oid}.json"
             if raw_path.exists():
                 obj = json.loads(raw_path.read_text(encoding="utf-8"))
             else:
@@ -167,21 +172,36 @@ def main():
                 raw_path.write_text(json.dumps(obj, ensure_ascii=False), encoding="utf-8")
                 time.sleep(args.sleep)
             if not obj.get("isPublicDomain"):
-                skip_new.append(oid)
-                skipped += 1
-                continue
+                return ("skip", oid, None)
             record = to_record(obj)
             if not record["images"]:
+                return ("skip", oid, None)
+            (RELICS_DIR / f"MET-{oid}.json").write_text(
+                json.dumps(record, ensure_ascii=False, indent=1), encoding="utf-8")
+            return ("ok", oid, None)
+        except Exception as exc:
+            return ("fail", oid, str(exc))
+
+    with ThreadPoolExecutor(max_workers=args.workers) as ex:
+        futures = [ex.submit(work, oid) for oid in todo]
+        done_n = 0
+        for fut in as_completed(futures):
+            status, oid, err = fut.result()
+            done_n += 1
+            if status == "ok":
+                ok += 1
+            elif status == "skip":
                 skip_new.append(oid)
                 skipped += 1
-                continue
-            out_path.write_text(json.dumps(record, ensure_ascii=False, indent=1), encoding="utf-8")
-            ok += 1
-        except Exception as exc:
-            failed += 1
-            failures.append({"objectID": oid, "error": str(exc)})
-        if i % 100 == 0:
-            print(f"进度 {i}/{len(ids)}  入库 {ok}  跳过 {skipped}  失败 {failed}", flush=True)
+            else:
+                failed += 1
+                failures.append({"objectID": oid, "error": err})
+            if done_n % 200 == 0:
+                print(f"进度 {done_n}/{len(todo)}  入库 {ok}  跳过 {skipped}  失败 {failed}", flush=True)
+            if args.limit and ok >= args.limit:
+                for f2 in futures:
+                    f2.cancel()
+                break
 
     if skip_new:
         skip_set.update(skip_new)
