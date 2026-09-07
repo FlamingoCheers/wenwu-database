@@ -1,0 +1,60 @@
+# NPM probe7: detail pages + list entry structure + total counts
+name: npm-probe7
+on:
+  workflow_dispatch:
+
+jobs:
+  probe7:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Fetch details and analyze list
+        run: |
+          mkdir -p npm_probe7
+          for id in 48200 45889; do
+            curl -s -m 90 -A "Mozilla/5.0" -o "npm_probe7/detail_$id.html" \
+              -w "detail $id: HTTP %{http_code} %{size_download}B\n" \
+              -L "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/$id?dep=U&mode=full"
+          done
+          python3 - <<'EOF'
+          import re
+          d = open('npm_probe7/detail_48200.html', encoding='utf-8', errors='replace').read()
+          # 表格字段
+          for pat in [r'(統一編號|品名|質地|時代|朝代|功能|尺寸|說明|授權|數量)[^<]{0,20}</t[hd]>\s*<t[hd][^>]*>(.{0,120}?)</t[hd>]']:
+              for m in re.finditer(pat, d, re.S):
+                  print('FIELD', m.group(1), '=>', re.sub(r'<[^>]+>', '', m.group(2)).strip()[:100])
+          # 图片
+          for m in re.finditer(r'(?:data-src|src)="([^"]*(?:multimedia|photo|jpg|jpeg|png)[^"]*)"', d, re.I):
+              print('IMG', m.group(1)[:120])
+          # 说明段落
+          body = re.sub(r'<script.*?</script>|<style.*?</style>', '', d, flags=re.S)
+          for m in re.finditer(r'>([^<>]{40,300})<', body):
+              s = m.group(1).strip()
+              if re.search(r'[\u4e00-\u9fff]{15,}', s):
+                  print('TXT', s[:150])
+          # 列表页总条数/页数
+          q = open('npm_probe7_list.html', encoding='utf-8', errors='replace') if False else None
+          EOF
+          echo "---- list page analysis ----"
+          cp npm_probe6 2>/dev/null || true
+          ls npm_probe7/
+      - name: Copy q2 from probe6 artifact is not possible; fetch list again
+        run: |
+          echo '{"RegisterType":"玉器","IndexYear":null,"WestBeginYear":1368,"WestEndYear":1644,"YearDisplay":"1368~1644~明","SearchContent":null,"RegisterTypeEng":null,"PageInfo":{"PageIndex":1,"PageSize":15,"PageCount":7245}}' > b2.json
+          curl -s -m 90 -A "Mozilla/5.0" -H "Content-Type: application/json" -H "Referer: https://digitalarchive.npm.gov.tw/opendata" --data-binary @b2.json -o npm_probe7/list_jade_ming.html -X POST "https://digitalarchive.npm.gov.tw/opendata/Pub/Search" -w "list: HTTP %{http_code} %{size_download}B\n"
+          python3 - <<'EOF'
+          import re
+          q = open('npm_probe7/list_jade_ming.html', encoding='utf-8', errors='replace').read()
+          for pat in [r'共[^<]{0,20}筆', r'PageCount["\s:=]+(\d+)', r'(\d+)\s*筆', r'class="[^"]*page[^"]*"[^>]*>[^<]{0,30}']:
+              for m in re.finditer(pat, q):
+                  print('COUNT', pat[:20], '=>', m.group(0)[:60])
+          # 条目结构
+          items = re.findall(r'<li[^>]*>(.{0,500}?)</li>', q, re.S)[:2]
+          for it in items:
+              print('ITEM', re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '|', it))[:220])
+          EOF
+      - name: Upload probe7
+        uses: actions/upload-artifact@v4
+        with:
+          name: npm-probe7
+          path: npm_probe7/
