@@ -60,11 +60,22 @@ met_collector 按 departmentIds=6（亚洲艺术部）拉取，未过滤国别 �
 CH_DYN_WEAK（长文本仅认"代/朝/初/末"复合词）两级表；
 nmc_collector 类别映射为名称优先两轮扫描（防描述词劫持）。
 
-## Phase F · 台北故宫 open data 侦察（走 Actions runner 海外网络）
+## Phase F · 台北故宫 open data 接入（走 Actions runner 海外网络）
 
-加 `npm-probe` workflow：runner 上 curl 探测 opendata.npm.gov.tw 整包地址与授权字段，
-结果写回 `collectors/npm_recon.md`（artifact 取回）。采集器本体留下轮。
-- 状态：🔄（workflow 已提交 df7351c 并 dispatch，待取回 artifact 分析）
+probe1-7 探明（9-07）：`theme.npm.edu.tw/opendata` 已整站迁移到
+**`digitalarchive.npm.gov.tw/opendata`**（本地大陆网络不可达，runner 直连正常）。
+POST `/opendata/Pub/Search`（application/json，body 含 YearDisplay "起~止~朝代" +
+WestBeginYear/WestEndYear + PageInfo）返回整页 HTML 列表（每页 15 条，响应内含 PageCount）；
+详情页 `/opendata/Pub/Detail/{id}?dep=U&mode=full` 为 td/td 字段表
+（文物統一編號/品名中英/分類/時代+西元年/尺寸/說明）；
+图片 `data-image="/opendata/Image/GetImage?imageId=..&randomCode=.."` 直接可取
+（100万/600万像素下载才需验证码，中图够用）；授权 CC0 1.0 或 CC BY 4.0（页内徽章）。
+`collectors/npm_collector.py`：按朝代轴采集（--dynasty 中文或英文 key song/ming/...
+—— dispatch 输入中文会被 ASCII 化成 "?"，必须用英文 key），--remap 免网重映射；
+`.github/workflows/npm-sync.yml` 手动按朝代 dispatch（crawl → remap → validate → commit）。
+- 状态：✅ 试点 20 件全合格入库；宋轴全量运行中（run 34095173027）；
+  朝代映射表补漏（CH_DYN_STRONG/WEAK 之前整条"宋"系缺失，COARSE_RANGES 补
+  ("宋",960,1279) 粗区间，commit ae3ee02）。后续：其余朝代轴逐个 dispatch。
 
 ## 收尾
 
@@ -76,3 +87,6 @@ nmc_collector 类别映射为名称优先两轮扫描（防描述词劫持）。
 - 2026-09-07 Phase A 污染治理（删 2,142 件非中国记录）+ Phase B/C/D 完成
   （commit b6f999d / 244b7f1）；Phase E 国博试点完成（110af4a）；
   Phase F probe 已 dispatch；Met 全量重爬（culture 过滤）dispatch 后台运行。
+- 2026-09-07(下午) Phase F 完成：probe5-7 打通新域名+搜索/详情/图片/授权全链路；
+  npm_collector + npm-sync 上线（8eee482 / ae3ee02）；朝代映射补宋系漏项；
+  宋轴全量后台运行中；Met 全量重爬仍在进行（06:40Z 起）。
