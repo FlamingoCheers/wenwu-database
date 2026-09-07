@@ -1,0 +1,40 @@
+# NPM probe5: AJAX search on the new home digitalarchive.npm.gov.tw/opendata
+name: npm-probe5
+on:
+  workflow_dispatch:
+
+jobs:
+  probe5:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: POST search on digitalarchive
+        run: |
+          mkdir -p npm_probe5
+          cat > body.json <<'EOF'
+          {"RegisterType":null,"IndexYear":null,"WestBeginYear":0,"WestEndYear":0,"YearDisplay":null,"SearchContent":null,"RegisterTypeEng":null,"PageInfo":{"PageIndex":1,"PageSize":15,"PageCount":7245}}
+          EOF
+          U="https://digitalarchive.npm.gov.tw/opendata/Pub/Search"
+          curl -s -m 90 -A "Mozilla/5.0" -H "Content-Type: application/json" -H "Referer: https://digitalarchive.npm.gov.tw/opendata" -H "X-Requested-With: XMLHttpRequest" --data-binary @body.json -o npm_probe5/search1.html -w "search HTTP %{http_code} %{size_download}B\n" -X POST "$U" || true
+          head -c 500 npm_probe5/search1.html; echo
+          echo "---- links ----"
+          grep -hoiE '(href|src)="[^"]+"' npm_probe5/search1.html | sort -u | head -40 || echo "(none)"
+      - name: Fetch one detail page if links found
+        run: |
+          link=$(grep -hoiE 'href="[^"]+"' npm_probe5/search1.html | grep -viE '(css|js|ico|png|#|javascript)' | head -1 | sed 's/href="//i; s/"$//')
+          echo "first link: $link"
+          if [ -n "$link" ]; then
+            case "$link" in
+              http*) url="$link" ;;
+              /*) url="https://digitalarchive.npm.gov.tw$link" ;;
+              *) url="https://digitalarchive.npm.gov.tw/opendata/$link" ;;
+            esac
+            echo "GET $url"
+            curl -s -m 90 -A "Mozilla/5.0" -o npm_probe5/detail.html -w "detail HTTP %{http_code} %{size_download}B\n" -L "$url" || true
+            grep -hoE '(統一編號|品名|質地|時代|朝代|功能|尺寸|授權|說明)[^<]{0,80}' npm_probe5/detail.html | head -25 || true
+          fi
+      - name: Upload probe5
+        uses: actions/upload-artifact@v4
+        with:
+          name: npm-probe5
+          path: npm_probe5/
