@@ -1,9 +1,8 @@
-name: update-data
+﻿name: update-data
 
 on:
   schedule:
-    - cron: "0 21 * * 5"   # 每周五 UTC 21:00（北京时间周六 05:00）
-  workflow_dispatch: {}
+    - cron: "0 21 * * 5"   # 姣忓懆浜?UTC 21:00锛堝寳浜椂闂村懆鍏?05:00锛?  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -11,15 +10,14 @@ permissions:
 jobs:
   collect-and-build:
     runs-on: ubuntu-latest
-    timeout-minutes: 360   # 首次全量爬 Met 约 3.5h；之后每周增量只需几分钟
-    steps:
+    timeout-minutes: 360   # 棣栨鍏ㄩ噺鐖?Met 绾?3.5h锛涗箣鍚庢瘡鍛ㄥ閲忓彧闇€鍑犲垎閽?    steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: 缓存 Met raw（跨跑断点续爬）
+      - name: 缂撳瓨 Met raw锛堣法璺戞柇鐐圭画鐖級
         uses: actions/cache@v4
         with:
           path: raw/met
@@ -27,23 +25,22 @@ jobs:
           restore-keys: |
             met-raw-
 
-      - name: 增量采集 A 类源（Met Open Access，并发）
+      - name: 澧為噺閲囬泦 A 绫绘簮锛圡et Open Access锛屽苟鍙戯級
         run: python collectors/met_collector.py --limit 0 --workers 6
 
-      - name: 重映射已有记录（映射规则升级时传播）
+      - name: 閲嶆槧灏勫凡鏈夎褰曪紙鏄犲皠瑙勫垯鍗囩骇鏃朵紶鎾級
         run: python collectors/met_collector.py --remap
 
-      - name: 构建 SQLite 快照
+      - name: 鏋勫缓 SQLite 蹇収
         run: python pipeline/build_db.py
 
-      - name: 提交并推送
-        run: |
+      - name: 鎻愪氦骞舵帹閫?        run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/relics sqlite/
+          git add data/relics
           if git diff --cached --quiet; then
-            echo "无新增数据"
+            echo "鏃犳柊澧炴暟鎹?
           else
-            git commit -m "数据更新: $(date -u +%F) 增量采集"
+            git commit -m "鏁版嵁鏇存柊: $(date -u +%F) 澧為噺閲囬泦"
             git push
           fi
