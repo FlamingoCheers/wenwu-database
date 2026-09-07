@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-51540",
+ "name": "An Emperor with Two Ladies",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "杂器",
+ "material": "Album leaf; ink and color on silk",
+ "dimensions": "7 1/8 x 8 7/8 in. (18.1 x 22.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "23.33.1"
+ },
+ "summary": "Album leaf。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP154403.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51540",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/51540.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

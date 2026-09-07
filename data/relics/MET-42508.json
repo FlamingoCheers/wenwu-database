@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-42508",
+ "name": "Altar bowl with Tibetan inscription",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1400,
+  1433
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted with cobalt blue and with incised decoration under transparent glaze (Jingdezhen ware)",
+ "dimensions": "H. 4 5/8 in. (11.7 cm); Diam. 6 5/8 in. (16.8 cm); Diam. of foot 1 13/16 in. (4.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1984.483.1"
+ },
+ "summary": "Altar bowl。China。Ming dynasty(1368–1644), Xuande mark and period (1426–35)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT2900.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42508",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "礼制",
+  "祭祀"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42508.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-49080",
+ "name": "White Chrysanthemums",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1654,
+  1654
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; color on paper",
+ "dimensions": "Image: 30 7/16 x 15 1/2 in. (77.3 x 39.4 cm)\r\nOverall with mounting: 60 x 21 in. (152.4 x 53.3 cm)\r\nOverall with knobs: 60 x 24 in. (152.4 x 61 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1981.285.4"
+ },
+ "summary": "Hanging scroll。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1981_285_4.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49080",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49080.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

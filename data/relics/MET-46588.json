@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-46588",
+ "name": "Jar with Cover",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1662,
+  1772
+ ],
+ "category": "瓷器",
+ "material": "Porcelain",
+ "dimensions": "H. 6 1/4 in. (15.9 cm); Diam. 5 3/8 in. (13.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "14.40.307a, b"
+ },
+ "summary": "Jar with cover。China。Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-14_40_307ab_whs-003.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/46588",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/46588.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

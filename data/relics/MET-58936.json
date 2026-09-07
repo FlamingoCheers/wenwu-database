@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-58936",
+ "name": "Wine container in the shape of a leather pouch",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -799,
+  -700
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 10 in. (25.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "49.135.9a, b"
+ },
+ "summary": "Wine container。China。Western Zhou (1046–771 BCE)–Eastern Zhou (770–256 BCE) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP102602.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/58936",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/58936.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

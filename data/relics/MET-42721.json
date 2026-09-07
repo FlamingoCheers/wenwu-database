@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-42721",
+ "name": "Rock in the form of a fantastic mountain",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1900,
+  1999
+ ],
+ "category": "竹木牙角",
+ "material": "Taihu limestone; wood stand",
+ "dimensions": "H. (with stand) 46 in. (116.8 cm); W. 28 1/2 in. (72.4 cm); D. 20.5 in. (52.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2011.575.1a, b"
+ },
+ "summary": "Scholar's rock。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/2011_575_1ab.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42721",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42721.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-68506",
+ "name": "Robe for Buddhist Priest",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "杂器",
+ "material": "Silk and metallic thread",
+ "dimensions": "Overall: 48 x 119 1/2 in. (266.07 x 297.18 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.75.1"
+ },
+ "summary": "Robe。China。Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/133889.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/68506",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/68506.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

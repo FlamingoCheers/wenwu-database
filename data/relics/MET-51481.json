@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-51481",
+ "name": "Landscape",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1368,
+  1911
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink on silk",
+ "dimensions": "69 x 30 1/2 in. (175.3 x 77.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "13.220.29"
+ },
+ "summary": "Hanging scroll。China。Ming (1368–1644) or Qing (1644–1911) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/13_220_29_21031.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51481",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51481.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

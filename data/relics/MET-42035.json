@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-42035",
+ "name": "Oracle bone fragment",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -1610,
+  -1036
+ ],
+ "category": "杂器",
+ "material": "Inscribed bone",
+ "dimensions": "H. 7 1/2 in. (19.1 cm); W. 3 3/8 in. (8.6 cm); D. 3/4 in. (1.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "23.23.4"
+ },
+ "summary": "Oracle bone fragment。China。Shang dynasty (ca. 1600–1046 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-23_23_4_002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42035",
+ "license": "CC0",
+ "tags": [
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42035.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

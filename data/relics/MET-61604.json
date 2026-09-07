@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-61604",
+ "name": "Tile with lion",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1279
+ ],
+ "category": "陶器",
+ "material": "Unglazed terracotta",
+ "dimensions": "H. 11 1/8 in. (28.3 cm); W. 6 3/4 in. (17.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.76.124"
+ },
+ "summary": "Tile。China。Song Dynasty (960–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/30_76_124_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61604",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61604.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

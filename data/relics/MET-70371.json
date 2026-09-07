@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-70371",
+ "name": "Thangka Curtain",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1600,
+  1799
+ ],
+ "category": "杂器",
+ "material": "Silk",
+ "dimensions": "40 1/2 x 22 in. (102.87 x 55.88 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "64.20.1"
+ },
+ "summary": "Thangka curtain。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/179400.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/70371",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/70371.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

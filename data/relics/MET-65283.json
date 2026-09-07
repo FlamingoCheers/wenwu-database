@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-65283",
+ "name": "Belt Buckle with Animal-Combat Scene",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -299,
+  -100
+ ],
+ "category": "青铜器",
+ "material": "Gilded bronze",
+ "dimensions": "H. 2 1/4 in. (5.7 cm); W. 4 5/8 in. (11.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2002.201.103"
+ },
+ "summary": "Belt buckle。North China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/2002_201_103.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/65283",
+ "license": "CC0",
+ "tags": [
+  "妆饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/65283.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

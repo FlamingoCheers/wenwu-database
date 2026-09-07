@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-41102",
+ "name": "Snuff Bottle with Peony, Fish, and Bat",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "玉器",
+ "material": "Rock crystal with jadeite stopper",
+ "dimensions": "H. 3 1/2 in. (8.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.926a, b"
+ },
+ "summary": "Snuff bottle。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/02_18_926.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/41102",
+ "license": "CC0",
+ "tags": [
+  "日常生活",
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/41102.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

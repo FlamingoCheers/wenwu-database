@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-44465",
+ "name": "Pitcher (Hu)",
+ "aliases": [],
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -2550,
+  -2450
+ ],
+ "category": "陶器",
+ "material": "Earthenware",
+ "dimensions": "H. 9 3/8 in. (23.8 cm); W. 8 3/4 in. (22.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1987.409.4"
+ },
+ "summary": "Pitcher。China。Neolithic period",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1987_409_4.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44465",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44465.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

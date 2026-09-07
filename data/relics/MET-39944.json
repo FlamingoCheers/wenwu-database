@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-39944",
+ "name": "Fragment of a Halo with Buddha Figure",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  500,
+  699
+ ],
+ "category": "杂器",
+ "material": "Stucco with color",
+ "dimensions": "H. 4 1/2 in. (11.4 cm); W. 8 1/2 in. (21.6 cm); D. 1 1/4 in. (3.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.32.17"
+ },
+ "summary": "Relief。China (Xinjiang Autonomous Region)。Khotan Kingdom",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP269540.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39944",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39944.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

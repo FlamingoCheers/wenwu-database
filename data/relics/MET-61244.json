@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-61244",
+ "name": "Finial in shape of a horse and rider",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -299,
+  -256
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 3 1/2 in. (8.9 cm); L. 3 1/2 in. (8.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "49.136.8"
+ },
+ "summary": "Finial。China or Southeast Asia。Eastern Zhou dynasty (770–256 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP219135.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61244",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61244.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

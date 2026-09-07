@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-50230",
+ "name": "Vase in Meiping Shape",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1000,
+  1199
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with white glaze (Cizhou ware)",
+ "dimensions": "H. 11 3/8 in. (28.9 cm); Diam. 7 5/8 in. (19.4 cm); Diam. of rim 2 1/8 in. (5.4 cm); Diam. of foot 3 1/2 in. (8.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "22.91.2"
+ },
+ "summary": "Vase。China。Northern Song dynasty (960–1127)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14610-051.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/50230",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/50230.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

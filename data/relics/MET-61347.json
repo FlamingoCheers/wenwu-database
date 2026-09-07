@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-61347",
+ "name": "Fitting",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -200,
+  -1
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "W. (across head) 1 7/8 in. (4.8 cm); L. 5 3/16 in. (13.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.214.55"
+ },
+ "summary": "Fitting。China。Han dynasty (206 BCE–221 CE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP167786.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61347",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/61347.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-51677",
+ "name": "Head of Bodhisattva",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  500,
+  699
+ ],
+ "category": "杂器",
+ "material": "Pigments on mud plaster",
+ "dimensions": "Image: 5 1/8 x 5 1/4 in. (13 x 13.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "47.18.61"
+ },
+ "summary": "Wall painting。China (Xinjiang Uyghur Autonomous Region)。Kizil kingdom",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP355133.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51677",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51677.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

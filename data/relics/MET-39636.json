@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-39636",
+ "name": "Bodhisattva Manjushri (Wenshu)",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1100,
+  1399
+ ],
+ "category": "竹木牙角",
+ "material": "Mammoth ivory",
+ "dimensions": "H. 7 3/4 in. (19.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "34.26.3a, b"
+ },
+ "summary": "Headless figure。China。Southern Song (1127–1279)–Yuan (1271–1368) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP170129.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39636",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39636.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

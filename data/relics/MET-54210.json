@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-54210",
+ "name": "Buddha",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  500,
+  699
+ ],
+ "category": "杂器",
+ "material": "Pigments on mud plaster",
+ "dimensions": "12 3/4 x 9 3/8 in. (32.4 x 23.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "51.94.2"
+ },
+ "summary": "Wall painting。China (Xinjiang Uyghur Autonomous Region)。Kizil kingdom",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP355134.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/54210",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/54210.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

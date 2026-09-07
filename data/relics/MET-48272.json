@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-48272",
+ "name": "Jar with Cover",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "陶器",
+ "material": "Pottery (Tenmoku glaze)",
+ "dimensions": "H. 5 1/2 in. (14.0 cm); Diam. 5 1/2 in. (14.0 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "25.215.3a, b"
+ },
+ "summary": "Jar with cover。China。Song dynasty (960–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/25_215_3ab_S1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/48272",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/48272.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-46111",
+ "name": "Figure of a horse",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  799
+ ],
+ "category": "陶器",
+ "material": "Earthenware with pigment",
+ "dimensions": "H. 14 1/4 in. (36.2 cm); W. 7 7/8 in. (20 cm); L. 17 3/4 in. (45.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "67.62.2"
+ },
+ "summary": "Figure。China。Tang dynasty (618–907)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/187467.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/46111",
+ "license": "CC0",
+ "tags": [
+  "日常生活",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/46111.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

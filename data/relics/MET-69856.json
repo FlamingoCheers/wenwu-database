@@ -1,0 +1,45 @@
+{
+ "relic_id": "MET-69856",
+ "name": "Daoist priest’s ritual robe with deities of the pantheon",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1567,
+  1633
+ ],
+ "category": "杂器",
+ "material": "Silk and metal thread embroidery on silk satin",
+ "dimensions": "53 x 83 1/2 in. (134.6 x 212.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "46.188"
+ },
+ "summary": "Daoist priest's robe。China。Ming (1368–1644) or Qing (1644–1911) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/136908.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/69856",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教",
+  "酒文化",
+  "礼制",
+  "祭祀",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/69856.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

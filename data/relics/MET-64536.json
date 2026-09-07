@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-64536",
+ "name": "Belt hook",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -399,
+  -200
+ ],
+ "category": "青铜器",
+ "material": "Bronze inlaid with gold and silver",
+ "dimensions": "L. 8 in. (20.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2002.134"
+ },
+ "summary": "Belt hook。China。Eastern Zhou dynasty, Warring States period (475–221 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/2002_134_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/64536",
+ "license": "CC0",
+ "tags": [
+  "妆饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/64536.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-39556",
+ "name": "Joint Landscape",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1509,
+  1546
+ ],
+ "category": "杂器",
+ "material": "Handscroll; ink on paper",
+ "dimensions": "Image: 14 1/2 in. × 56 ft. 8 13/16 in. (36.8 × 1729.3 cm)\r\nOverall with mounting: H. 16 in. (40.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1990.54"
+ },
+ "summary": "Handscroll。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP235702_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39556",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39556.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

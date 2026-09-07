@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-46011",
+ "name": "Jar with floral pattern",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1279
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with incised pattern over black glaze",
+ "dimensions": "H. 10 5/16 in. (26.2 cm); Diam. 10 13/16 in. (27.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "18.56.16"
+ },
+ "summary": "Jar。China。Jin dynasty (1115–1234)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/18_56_16_O1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/46011",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/46011.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

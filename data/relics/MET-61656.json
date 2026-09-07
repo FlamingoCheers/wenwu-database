@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-61656",
+ "name": "Buddha, probably Shakyamuni (Shijiamouni)",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1299
+ ],
+ "category": "竹木牙角",
+ "material": "Willow wood with pigment",
+ "dimensions": "H. 25 1/4 in. (64.1 cm); W. 18 1/2 in. (47 cm); D. 16 in. (40.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "32.148"
+ },
+ "summary": "Figure。China。Jin dynasty (1115–1234)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP163997.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61656",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61656.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

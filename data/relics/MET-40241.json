@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-40241",
+ "name": "Headstone from a Sarcophagus",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1299
+ ],
+ "category": "杂器",
+ "material": "Limestone",
+ "dimensions": "W. 86 5/8 in. (220 cm); D. 48 3/8 in. (122.9 cm)\r\na) Headstone: H. 26 3/4 in. (67.9 cm); W. 39 1/4 in. (99.7 cm); D. 2 1/2 in. (6.4 cm)\r\nb) Foot: H. 4 1/2 in. (11.4 cm); Gr. W. 27 in. (68.6 cm); L. 43 in. (109.2 cm)\r\nc) Lid: H. 7 in. (17.8 cm); Gr. W. 26 1/2 in. (67.3 cm); L. 37 3/4 in. (95.9 cm)\r\nd) Lid: H. 9 in. (22.9 cm); Gr. W. 32 in. (81.3 cm); L. 38 in. (96.5 cm)\r\ne) Base: H. 4 1/2 in. (11.4 cm); W. 29 in. (73.7 cm); L. 19 in. (48.3 cm)\r\nf) Base: H. 5 in. (12.7 cm); Gr. W. 48 in. (121.9 cm); L. 28 in. (71.1 cm)\r\ng) Base: H. 4 in. (10.2 cm); Gr. W. 38 in. (96.5 cm); L. 30 1/4 in. (76.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1994.346a–g"
+ },
+ "summary": "Headstone。North China。late Jin (1115–1234)–early Yuan (1271–1368) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1994_346a.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40241",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/40241.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

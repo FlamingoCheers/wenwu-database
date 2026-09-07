@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-52673",
+ "name": "Water vessel",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1644,
+  1911
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with glaze",
+ "dimensions": "H. 1 3/4 in. (4.4 cm); W. 1 7/8 in. (4.8 cm); L. 3 3/4 in. (9.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "18.56.20"
+ },
+ "summary": "Water vessel。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/18_56_20_S2_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52673",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52673.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

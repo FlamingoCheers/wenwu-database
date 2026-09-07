@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-65383",
+ "name": "Short Sword with Ornate Handle",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -600,
+  -400
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "L. 14 in. (35.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2003.193"
+ },
+ "summary": "Short sword。North China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/2003.193.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/65383",
+ "license": "CC0",
+ "tags": [
+  "战争",
+  "兵器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/65383.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-64899",
+ "name": "Plaque with mask designs",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -799,
+  -771
+ ],
+ "category": "玉器",
+ "material": "Jade (nephrite)",
+ "dimensions": "H. 1 7/8 (4.8 cm); W. 1 3/4 in. (4.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2002.206"
+ },
+ "summary": "Plaque。China。Western Zhou dynasty (1046–771 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-45209-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/64899",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/64899.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-69954",
+ "name": "Piece",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1733
+ ],
+ "category": "杂器",
+ "material": "Silk, metallic thread",
+ "dimensions": "7 1/2 x 29 1/2 in. (19.1 x 74.9 cm)\r\nMount: 11 7/8 × 34 in. (30.2 × 86.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "51.83.1"
+ },
+ "summary": "Piece。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/51_83_1_O.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/69954",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/69954.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

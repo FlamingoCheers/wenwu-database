@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-42130",
+ "name": "Staff Finial with Bell Ring and Bird",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -206,
+  220
+ ],
+ "category": "杂器",
+ "material": "Nephrite",
+ "dimensions": "H. 7 1/8 in. (18.1 cm); W. 4 1/4 in. (10.8 cm); L. 2 5/8 in. (6.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.348a–c"
+ },
+ "summary": "Finial。China。Han dynasty (206 BCE–220 CE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/18717.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42130",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42130.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

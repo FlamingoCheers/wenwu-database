@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-62958",
+ "name": "Figure of a kneeling attendant",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1,
+  220
+ ],
+ "category": "陶器",
+ "material": "Earthenware with traces of pigment",
+ "dimensions": "H. 1 5/8 in. (4.1 cm); W. 1 3/16 in. (3.0 cm); D. 2 in. (5.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "36.12.9"
+ },
+ "summary": "Figure。China。Han dynasty (206 BCE–220 CE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/102725.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/62958",
+ "license": "CC0",
+ "tags": [
+  "日常生活",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/62958.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

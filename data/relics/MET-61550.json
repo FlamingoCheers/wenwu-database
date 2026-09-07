@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-61550",
+ "name": "Monk",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  571,
+  599
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 21 1/2 in. (54.6 cm); W. 5 1/2 in. (14 cm); D. 5 in. (12.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "28.122.2"
+ },
+ "summary": "Figure。China。Sui dynasty (581–618)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP163986.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61550",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/61550.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

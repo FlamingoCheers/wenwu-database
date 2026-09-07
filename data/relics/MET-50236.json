@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-50236",
+ "name": "Vase in the shape of a flower",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1199
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with bluish white glaze (Jingdezhen Qingbai ware)",
+ "dimensions": "H. 5 1/8 in. (13 cm); Diam. 3 in. (7.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "17.175.5"
+ },
+ "summary": "Vase。China。Southern Song dynasty (1127–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/17_175_5_TQ.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/50236",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/50236.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

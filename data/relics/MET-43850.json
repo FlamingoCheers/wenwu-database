@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-43850",
+ "name": "Urn",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "玉器",
+ "material": "Jadeite, emerald-green mingled with light gray and markings of dead oak leaf",
+ "dimensions": "H. 4 15/16 in. (12.5 cm); W. 3 11/16 in. (9.4 cm); D. 1 7/8 in. (4.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.499a, b"
+ },
+ "summary": "Urn。China。Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/02_18_499ab.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/43850",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/43850.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

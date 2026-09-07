@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-61689",
+ "name": "Bodhisattva",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  581,
+  618
+ ],
+ "category": "杂器",
+ "material": "Stone",
+ "dimensions": "H. 39 1/2 in. (100.3 cm); W. 10 1/2 in. (26.7 cm); D. 7 in. (17.8 cm); H. (with base) 47 1/2 in. (120.7 cm); H. (lotus-shaped base) 29 1/2 in. (74.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "42.152.5a, b"
+ },
+ "summary": "Figure。China。Sui dynasty (581–618)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/42_152_5.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61689",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61689.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-48939",
+ "name": "Portrait of a Gentleman",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1500,
+  1699
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink and color on silk",
+ "dimensions": "56 7/8 x 35 1/8 in. (144.5 x 89.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "51.39.4"
+ },
+ "summary": "Hanging scroll。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-35725-002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/48939",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/48939.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

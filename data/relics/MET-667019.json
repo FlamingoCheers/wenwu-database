@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-667019",
+ "name": "Tea-bowl stand with pommel scrolls",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1400,
+  1499
+ ],
+ "category": "漆器",
+ "material": "Carved red and black lacquer (tixi)",
+ "dimensions": "H. 3 1/2 in. (8.9 cm); Diam. of tray 5 7/8 in. (14.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2015.500.1.106"
+ },
+ "summary": "Tea-bowl stand。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-27917-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/667019",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "茶文化",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/667019.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

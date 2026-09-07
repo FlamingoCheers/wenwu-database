@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-42443",
+ "name": "Jar with scholars in landscape",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1500,
+  1599
+ ],
+ "category": "瓷器",
+ "material": "Stoneware painted in overglaze polychrome enamels (Cizhou ware)",
+ "dimensions": "H. 17 1/2 in. (44.5 cm); Diam. 13 in. (33.0 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "26.292.53a, b"
+ },
+ "summary": "Jar。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/103507.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42443",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42443.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

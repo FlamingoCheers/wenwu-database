@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-42189",
+ "name": "Horse",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  667,
+  749
+ ],
+ "category": "陶器",
+ "material": "Earthenware with three-color (sancai) glaze and pigment",
+ "dimensions": "H. 29 in. (73.7 cm); W. 32 in. (81.3 cm); D. 12 in. (30.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1991.253.12"
+ },
+ "summary": "Figure。China。Tang dynasty (618–907)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1991_253_12.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42189",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42189.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

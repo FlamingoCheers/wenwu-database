@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-48884",
+ "name": "Pavilion by Lake Shore",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1600,
+  1911
+ ],
+ "category": "金银器",
+ "material": "Folding fan mounted as an album leaf; ink on gold paper",
+ "dimensions": "6 7/8 x 19 1/2 in. (17.5 x 49.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "13.100.67"
+ },
+ "summary": "Folding fan mounted as an album leaf。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP153829.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/48884",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/48884.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

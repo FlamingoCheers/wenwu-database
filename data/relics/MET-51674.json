@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-51674",
+ "name": "Mountain Landscape",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1368,
+  1911
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink on silk",
+ "dimensions": "63 1/8 x 19 15/16 in. (160.3 x 50.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "47.18.56"
+ },
+ "summary": "Hanging scroll。China。Ming (1368–1644) or Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/47_18_56_O1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51674",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51674.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

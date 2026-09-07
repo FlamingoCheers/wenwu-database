@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-42361",
+ "name": "Figure of a Dog",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  25,
+  220
+ ],
+ "category": "陶器",
+ "material": "Earthenware with dark green glaze",
+ "dimensions": "H. 10 1/2 in. (26.7 cm); W. 4 1/2 in. (11.4 cm); L. 9 1/2 in. (24.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1991.253.1"
+ },
+ "summary": "Figure。China。Eastern Han dynasty (25–220)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT6718.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42361",
+ "license": "CC0",
+ "tags": [
+  "日常生活",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42361.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

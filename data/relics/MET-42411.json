@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-42411",
+ "name": "Vase decorated with flowers and birds",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1662,
+  1722
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted with colored enamels over transparent glaze, and colored enamels over \"fire-red” glaze (Jingdezhen ware)",
+ "dimensions": "H. 17 1/4 in. (43.8 cm); Diam. 7 3/4 in. (19.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "63.213.6"
+ },
+ "summary": "Vase。China。Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/63_213_6_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42411",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42411.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

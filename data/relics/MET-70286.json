@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-70286",
+ "name": "Pieces",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1723,
+  1735
+ ],
+ "category": "杂器",
+ "material": "Silk, metallic thread",
+ "dimensions": "Overall (a): 27 1/4 x 15 1/4 in. (69.2 x 38.7 cm)\r\nOverall (b): 27 1/2 x 16 in. (69.9 x 40.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "60.157.2a, b"
+ },
+ "summary": "Pieces。China。Qing dynasty (1644–1911), Yongzheng period (1723–35)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/171917.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/70286",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/70286.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-44390",
+ "name": "Ladle with handle in the shape of a dragon's head",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  200,
+  299
+ ],
+ "category": "青铜器",
+ "material": "Gilt bronze",
+ "dimensions": "L. 14 1/2 in. (36.8 cm); W. 3 7/8 in. ( 9.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1994.605.90"
+ },
+ "summary": "Ladle。China。Three Kingdoms period (220–280)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP219351.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44390",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44390.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

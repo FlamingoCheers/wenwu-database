@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-71026",
+ "name": "Brocade",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1500,
+  1599
+ ],
+ "category": "杂器",
+ "material": "",
+ "dimensions": "a: 1 × 5 in. (2.5 × 12.7 cm)\r\nb: 1 × 5 1/4 in. (2.5 × 13.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "20.148.28a, b"
+ },
+ "summary": "Brocade。China or Japan",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP15495.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/71026",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/71026.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

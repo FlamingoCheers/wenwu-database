@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-46521",
+ "name": "Vase with dragon",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1667,
+  1722
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with incised decoration under yellow glaze (Jingdezhen ware)",
+ "dimensions": "H. 9 15/16 in. (25.2 cm); Diam. 3 3/4 in. (9.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "14.40.167"
+ },
+ "summary": "Vase。China。Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/14_40_167_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/46521",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/46521.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-42063",
+ "name": "Bowl with Cover",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1567,
+  1633
+ ],
+ "category": "杂器",
+ "material": "Cloisonne enamel",
+ "dimensions": "H. 4 1/4 in. (10.8 cm); Diam. 5 in. (12.7 cm); Diam. of base: 3 1/4 in. (8.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "29.110.34a, b"
+ },
+ "summary": "Bowl with cover。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/29_110_34ab_74178.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42063",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42063.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

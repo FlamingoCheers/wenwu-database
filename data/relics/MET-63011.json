@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-63011",
+ "name": "Pig",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  500,
+  599
+ ],
+ "category": "陶器",
+ "material": "Earthenware with pigment",
+ "dimensions": "H. 3 in. (7.6 cm); L. 6 3/4 in. (17.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.208.1"
+ },
+ "summary": "Figure。China。Northern Wei (386–534)–Northern Qi (550–577) period",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-16517-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/63011",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/63011.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

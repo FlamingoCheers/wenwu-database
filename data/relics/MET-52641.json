@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-52641",
+ "name": "Flower Pot (one of a pair)",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "陶器",
+ "material": "Pottery (Jun ware)",
+ "dimensions": "H. 5 7/8 in. (14.9 cm); W. 8 1/4 in. (21 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "50.145.310"
+ },
+ "summary": "Flower pot。China。Song dynasty (960–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/50_145_310_O1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52641",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52641.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

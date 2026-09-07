@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-60657",
+ "name": "Ornamental plaque",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  700,
+  799
+ ],
+ "category": "杂器",
+ "material": "Amber with incised decoration",
+ "dimensions": "H. 1 in. (2.5 cm); L. 3 3/8 in. (8.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.214.111"
+ },
+ "summary": "Plaque。China。Tang dynasty (618—907)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1985_214_111_DT8153.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/60657",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/60657.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

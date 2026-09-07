@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-60764",
+ "name": "Landscapes of Taiping Prefecture",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1648,
+  1648
+ ],
+ "category": "竹木牙角",
+ "material": "Woodblock-printed book; ink on paper",
+ "dimensions": "H. 8 7/8 in. (22.5 cm); W. 6 in. (15.2 cm); D. 1 in. (2.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "CIB8"
+ },
+ "summary": "Illustrated book。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/CIB8_d1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/60764",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/60764.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

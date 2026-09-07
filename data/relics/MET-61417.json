@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-61417",
+ "name": "Mirror with game board design",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1,
+  199
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "Diam. 7 in. (17.8 cm); D. 7/16 in. (1.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "67.253.2"
+ },
+ "summary": "Mirror。China。Eastern Han dynasty (25–220)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/67_253_2_188725.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61417",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "游戏",
+  "博戏"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61417.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

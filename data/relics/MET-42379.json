@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-42379",
+ "name": "Horse and female rider",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  667,
+  749
+ ],
+ "category": "陶器",
+ "material": "Earthenware with three-color (sancai) glaze and pigment",
+ "dimensions": "H. 17 1/2 in. (44.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1991.253.10"
+ },
+ "summary": "Figure。China。Tang dynasty (618–907)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1991_253_10.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42379",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42379.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

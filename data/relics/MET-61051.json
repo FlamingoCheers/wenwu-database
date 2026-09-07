@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-61051",
+ "name": "Water ewer (Yi)",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -206,
+  220
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 4 3/4 in. (12.1 cm); W. 10 in. (25.4 cm); D. 13 in. (33 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "13.220.47"
+ },
+ "summary": "Water ewer。China。late Zhou (1046–256 BCE) or Han (206 BCE–220 CE) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP151422.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61051",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61051.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

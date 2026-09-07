@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-48673",
+ "name": "Figure of an immortal lady",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1500,
+  1599
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with colored glaze (Jingdezhen ware)",
+ "dimensions": "H. 23 in. (58.4 cm); W. 10 1/2 in. (26.7 cm); D. 7 3/4 in. (19.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "14.40.218"
+ },
+ "summary": "Figure。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/172451.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/48673",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教",
+  "日常生活"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/48673.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

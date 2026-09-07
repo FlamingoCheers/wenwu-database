@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-39917",
+ "name": "Bamboo",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1037,
+  1101
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll mounted as a handscroll; ink on paper",
+ "dimensions": "Image: 21 3/8 in. × 13 in. (54.3 × 33 cm)\r\nOverall with mounting: 14 3/4 in. × 34 ft. 10 3/16 in. (37.5 × 1062.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1989.363.3"
+ },
+ "summary": "Hanging scroll mounted as handscroll。China。Song dynasty (960–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP144239_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39917",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39917.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

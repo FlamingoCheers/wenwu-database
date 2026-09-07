@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-44018",
+ "name": "Table screen",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1573,
+  1620
+ ],
+ "category": "杂器",
+ "material": "Nephrite, spinach-green",
+ "dimensions": "H. 10 1/16 in. (25.6 cm); W. 5 in. (12.7 cm); D. 9/16 in. (1.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.731"
+ },
+ "summary": "Table screen。China。Ming dynasty (1368–1644), Wanli period (1573–1620)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/32790.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44018",
+ "license": "CC0",
+ "tags": [
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44018.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

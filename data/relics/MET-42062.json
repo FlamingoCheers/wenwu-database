@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-42062",
+ "name": "Hand Warmer",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1567,
+  1633
+ ],
+ "category": "杂器",
+ "material": "Cloisonné enamel",
+ "dimensions": "H. 3 3/4 in. (9.5 cm); W. 4 1/2 in. (11.4 cm); D. 6 in. (15.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "29.110.24a, b"
+ },
+ "summary": "Hand warmer。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/29_110_24_74173.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42062",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/42062.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

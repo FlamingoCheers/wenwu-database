@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-61233",
+ "name": "Dagger-Ax (Ge)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1600,
+  -1046
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "L. 8 11/16 in. (22.1 cm); W. 2 3/4 in. (7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "47.87"
+ },
+ "summary": "Dagger-ax。China。Shang dynasty (ca. 1600–1046 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP218288.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61233",
+ "license": "CC0",
+ "tags": [
+  "战争",
+  "兵器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61233.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

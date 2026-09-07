@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-40178",
+ "name": "Writing brush with geometric patterns",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1200,
+  1299
+ ],
+ "category": "杂器",
+ "material": "Writing brush with geometric patterns",
+ "dimensions": "L.10 1/8 in. (25.6 cm); Diam. 3/4 in. (1.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2015.500.1.22a, b"
+ },
+ "summary": "Writing brush。China。Southern Song dynasty (1127–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP704274.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40178",
+ "license": "CC0",
+ "tags": [
+  "文房",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/40178.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

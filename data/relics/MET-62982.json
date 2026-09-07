@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-62982",
+ "name": "Warrior",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  699
+ ],
+ "category": "杂器",
+ "material": "Unfired clay with pigment",
+ "dimensions": "H. (w/stand) 12 7/8 in. (32.7 cm); W. 3 1/4 in. (8.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "52.190.4"
+ },
+ "summary": "Figure。China。Tang dynasty (618–907)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/52_190_4_F.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/62982",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/62982.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

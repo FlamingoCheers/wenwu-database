@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-54001",
+ "name": "Scabbard Slide",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -400,
+  -100
+ ],
+ "category": "杂器",
+ "material": "Agate",
+ "dimensions": "H. 1 in. (2.5 cm); L. 2 in. (5.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.214.104"
+ },
+ "summary": "Scabbard slide。China。Eastern Zhou (770–256 BCE)–Western Han (206 BCE–9 CE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1985_214_104.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/54001",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/54001.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

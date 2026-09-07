@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-60702",
+ "name": "Socketed Finial",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -13,
+  -11
+ ],
+ "category": "竹木牙角",
+ "material": "Bone or ivory",
+ "dimensions": "H. 2 1/16 in. (5.2 cm); W. 7/8 in. (2.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.214.123"
+ },
+ "summary": "Finial。China。Shang dynasty (ca. 1600–1046 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1985_214_123.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/60702",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/60702.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-46642",
+ "name": "Meiping vase",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1767,
+  1799
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with iron-rust glaze (Jingdezhen ware)",
+ "dimensions": "H. 6 1/2 in. (16.5 cm); Diam. 3 13/16 in. (9.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "79.2.806"
+ },
+ "summary": "Vase。China。Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/29447.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/46642",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/46642.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

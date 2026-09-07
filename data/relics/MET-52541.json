@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-52541",
+ "name": "Figure of a child",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -400,
+  -200
+ ],
+ "category": "陶器",
+ "material": "Earthenware with traces of pigment",
+ "dimensions": "H. 2 in. (5.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "43.56.8"
+ },
+ "summary": "Figure。China。Eastern Zhou dynasty, Warring States period (475–221 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-43_56_8_001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52541",
+ "license": "CC0",
+ "tags": [
+  "日常生活",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52541.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-44514",
+ "name": "Grain serving vessel (gui)",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -867,
+  -800
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 9 in. (22.9 cm); W. 13 in. (33 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1988.20.3a, b"
+ },
+ "summary": "Grain vessel。China。Western Zhou dynasty (1046–771 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP151413.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44514",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44514.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-59449",
+ "name": "Short Sword and Sheath with Crouching Feline",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -999,
+  -700
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "Sword: L. 9 in. (22.9 cm)\r\nScabbard: L. 5 3/4 in. (14.6 cm); W. 2 1/2 in. (6.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2002.201.32a, b"
+ },
+ "summary": "Sword and scabbard。Northeast China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/2002_201_32ab_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/59449",
+ "license": "CC0",
+ "tags": [
+  "战争",
+  "兵器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/59449.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

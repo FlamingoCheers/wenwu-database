@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-43757",
+ "name": "One of pair of cups",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "玉器",
+ "material": "Jadeite, emerald-green running to lighter tints, and a few light clouds of creamy white tinged with russet",
+ "dimensions": "H. 2 3/8 in. (6 cm); W. 2 13/16 in. (7.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.359"
+ },
+ "summary": "Cup。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/02_18_359_O2.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/43757",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "照明"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/43757.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

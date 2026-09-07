@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-73806",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1300,
+  1399
+ ],
+ "category": "瓷器",
+ "material": "Glazed stoneware (Jizhou ware)",
+ "dimensions": "H. 3/4 in. (1.9 cm)\r\nDiam. of rim: 6 1/4 in. (15.9 cm)\r\nDiam. of foot: 4 1/2 in. (11.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2007.219"
+ },
+ "summary": "Dish。China。Yuan dynasty (1271–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/2007_219_Strm1_F.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/73806",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/73806.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

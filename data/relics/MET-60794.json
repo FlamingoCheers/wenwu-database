@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-60794",
+ "name": "Head of a Buddha",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  534,
+  566
+ ],
+ "category": "杂器",
+ "material": "Limestone with traces of pigment and gilding",
+ "dimensions": "H. 9 1/2 in. (24.1 cm); W. 6 1/4 in. (15.9 cm); D. 6 1/2 in. (16.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2001.422"
+ },
+ "summary": "Head。China。Northern Qi dynasty (550–577)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP170247.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/60794",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/60794.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

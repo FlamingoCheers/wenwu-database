@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-65176",
+ "name": "Square Plaque",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  650,
+  899
+ ],
+ "category": "金银器",
+ "material": "Gold",
+ "dimensions": "H. 1 1/2 in. square (3.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2002.556.18"
+ },
+ "summary": "Plaque。Northwest China/Eastern Central Asia。period of Tibetan rule",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/2002_556_18.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/65176",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/65176.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

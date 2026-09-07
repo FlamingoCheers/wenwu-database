@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-61768",
+ "name": "Musician playing a drum",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  500,
+  534
+ ],
+ "category": "杂器",
+ "material": "Limestone",
+ "dimensions": "H. 14 1/4 in. (36.2 cm); W. 9 in. (22.9 cm); D. 2 in. (5.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.214.140"
+ },
+ "summary": "Relief figure。China。Northern Wei dynasty (386–534)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP137153.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61768",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/61768.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

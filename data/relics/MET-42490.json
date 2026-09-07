@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-42490",
+ "name": "Vase with lotus pond scene",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1300,
+  1349
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze cobalt blue (Jingdezhen ware)",
+ "dimensions": "H. 11 1/4 in. (28.6 cm); Diam. 5 1/4 in. (13.3 cm); Diam. of rim 2 7/8 in. (7.3 cm); Diam. of foot 3 1/4 in. (8.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1991.253.33"
+ },
+ "summary": "Vase。China。Yuan dynasty (1271–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1991_253_33.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42490",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42490.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

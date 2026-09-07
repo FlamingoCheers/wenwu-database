@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-51965",
+ "name": "Tile with figures and chariots",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  94,
+  94
+ ],
+ "category": "陶器",
+ "material": "Earthenware",
+ "dimensions": "H. 2 5/8 in. (6.7 cm); W. 12 5/8 in. (32.1 cm); D. 6 in. (15.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "10.202.7"
+ },
+ "summary": "Tile。China。Han dynasty (202 BCE–220 CE), 6th year of Yongyuan era (94 CE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/10_202_7.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51965",
+ "license": "CC0",
+ "tags": [
+  "出行"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51965.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

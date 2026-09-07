@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-61286",
+ "name": "Tripod Vessel (Liding)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1300,
+  -1199
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. (with handles) 7 3/8 in. (18.7 cm); Diam. 6 3/4 in. (17.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "66.182.5"
+ },
+ "summary": "Vessel。China。Shang dynasty (ca. 1600–1046 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP140813.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61286",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61286.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

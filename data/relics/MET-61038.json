@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-61038",
+ "name": "Covered Food Vessel (Qi hou dun)",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -770,
+  -255
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. (with loops) 7 1/4 (18.4 cm); W. (at handles) 11 3/4 in. (29.8 cm); Diam. 9 1/2 in. (24.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "13.100.3a, b"
+ },
+ "summary": "Covered food vessel。China。late Eastern Zhou dynasty (770–256 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP140806.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61038",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61038.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

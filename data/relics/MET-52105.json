@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-52105",
+ "name": "Two Rams on Wheeled Cart",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -206,
+  250
+ ],
+ "category": "金银器",
+ "material": "Silver",
+ "dimensions": "H. 3 1/2 in. (8.9 cm); L. 4 1/4 in. (10.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "28.132.1"
+ },
+ "summary": "Rams。China。Han dynasty (206 BCE–220 CE) or later",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-12567-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52105",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52105.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

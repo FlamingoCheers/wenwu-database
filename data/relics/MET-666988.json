@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-666988",
+ "name": "Brush with plum blossoms",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1550,
+  1599
+ ],
+ "category": "漆器",
+ "material": "Carved red lacquer",
+ "dimensions": "L. incl. cover 9 in. (22.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2015.500.1.103a, b"
+ },
+ "summary": "Brush。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-12231-040.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/666988",
+ "license": "CC0",
+ "tags": [
+  "植物",
+  "文房",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/666988.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

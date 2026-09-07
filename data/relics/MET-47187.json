@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-47187",
+ "name": "Bowl with fish",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1426,
+  1435
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze cobalt blue and copper red (Jingdezhen ware)",
+ "dimensions": "H. 3 7/8 in. (9.8 cm); Diam. 8 1/16 in. (20.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "19.11"
+ },
+ "summary": "Bowl。China。Ming dynasty (1368–1644), Xuande period (1426–35)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/42893.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/47187",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/47187.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-62051",
+ "name": "Ring with Insert",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -500,
+  -200
+ ],
+ "category": "玉器",
+ "material": "Jade",
+ "dimensions": "Diam. 1 1/2 in. (3.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.214.106a, b"
+ },
+ "summary": "Ring。China。Eastern Zhou dynasty (770–256 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-1985_214_10ab_003.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/62051",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/62051.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

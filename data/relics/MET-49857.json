@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-49857",
+ "name": "Vase with rabbits",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1568,
+  1599
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze cobalt blue (Jingdezhen ware)",
+ "dimensions": "H. 23 in. (58.4 cm); Diam. 9 3/16 in. (23.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "24.80.168"
+ },
+ "summary": "Vase。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-26033-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49857",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/49857.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

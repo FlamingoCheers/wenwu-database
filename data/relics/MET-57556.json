@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-57556",
+ "name": "Seated Boddhisattva, Tara, on Lotus Throne",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1400,
+  1499
+ ],
+ "category": "书画",
+ "material": "Framed painting; ink and color on paper",
+ "dimensions": "Image: 37 3/4 x 24 3/4 in. (95.9 x 62.9 cm)\r\nFramed: 41 x 28 1/8 in. (104.1 x 71.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "19.103.1"
+ },
+ "summary": "Painting。China (?)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/19_103_1.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/57556",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/57556.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

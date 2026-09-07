@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-823598",
+ "name": "Incense burner with floral pattern",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1600,
+  1799
+ ],
+ "category": "金银器",
+ "material": "Copper alloy, parcel gilding, and silvering",
+ "dimensions": "H. 3 1/8 in. (7.9 cm); W. incl. handles 7 1/4 in. (18.4 cm); Diam. 5 5/8 in. (14.3 cm); Diam. of foot 4 3/8 in. (11.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2019.317"
+ },
+ "summary": "Censer。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-18403-013.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/823598",
+ "license": "CC0",
+ "tags": [
+  "香文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/823598.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

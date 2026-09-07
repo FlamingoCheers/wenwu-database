@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-47862",
+ "name": "Dish with mythical beast qilin (one of a pair)",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1568,
+  1599
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with white slip decoration and brown glaze (Jingdezhen ware)",
+ "dimensions": "H. 1 in. (2.5 cm); Diam. 3 3/4 in. (9.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.76.188"
+ },
+ "summary": "Dish。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/30_76_188_O1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/47862",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "祥瑞纹样"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/47862.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

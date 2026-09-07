@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-43701",
+ "name": "Ceremonial blade (fragment)",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -2000,
+  -1500
+ ],
+ "category": "杂器",
+ "material": "Nephrite",
+ "dimensions": "H. 8 in. (20.3 cm); W. 4 in. (10.1 cm); D. 1/8 in. (0.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.294"
+ },
+ "summary": "Fragment。China。Neolithic period–Shang dynasty (ca. 1600–1046 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/02_18_294_S1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/43701",
+ "license": "CC0",
+ "tags": [
+  "战争",
+  "兵器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/43701.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

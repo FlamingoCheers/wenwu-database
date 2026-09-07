@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-48108",
+ "name": "Teabowl with pair of birds",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1279
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with turtle shell glaze (Cizhou ware)",
+ "dimensions": "H. 2 11/16 in. (6.8 cm); Diam. 5 1/16 in. (12.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "24.100.2"
+ },
+ "summary": "Bowl。China。Southern Song dynasty (1127–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/56936.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/48108",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "茶文化",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/48108.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

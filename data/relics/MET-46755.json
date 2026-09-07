@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-46755",
+ "name": "Jar with flowers",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1644,
+  1666
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted with underglaze cobalt blue and overglaze polychrome enamels (Jingdezhen ware)",
+ "dimensions": "H. incl. carved wooden lid 7 1/2 in. (19.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "21.175.25a, b"
+ },
+ "summary": "Jar。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-21_175_25ab_whs-002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/46755",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/46755.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

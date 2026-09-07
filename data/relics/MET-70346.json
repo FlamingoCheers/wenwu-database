@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-70346",
+ "name": "Panel",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1567,
+  1633
+ ],
+ "category": "杂器",
+ "material": "Silk, metallic thread;  on silk;  mounted on silk;  backed with cotton",
+ "dimensions": "Overall: 35 1/2 x 17 1/4 in. (90.2 x 43.8 cm)\r\nOverall with mounting: 49 3/4 × 24 3/4 in. (126.4 × 62.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "62.97.52a, b"
+ },
+ "summary": "Panel。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/175119.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/70346",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/70346.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

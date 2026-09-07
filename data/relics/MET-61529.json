@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-61529",
+ "name": "Door Jamb: Part of Tomb Entrance",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  500,
+  599
+ ],
+ "category": "杂器",
+ "material": "Stone",
+ "dimensions": "H. 60 in. (152.4 cm); W. 8 in. (20.3 cm); L. 8 in. (20.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "18.56.86"
+ },
+ "summary": "Door jamb。China。Northern and Southern Dynasties (386–581)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/18_56_86_F.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61529",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61529.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

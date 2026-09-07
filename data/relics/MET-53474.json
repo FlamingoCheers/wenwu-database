@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-53474",
+ "name": "Buddha Maitreya (Mile) altarpiece",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  515,
+  540
+ ],
+ "category": "青铜器",
+ "material": "Gilt bronze",
+ "dimensions": "H. 23 1/4 in. (59.1 cm); W. 15 in. (38.1 cm); D. 7 1/2 in. (19.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "38.158.2a–g"
+ },
+ "summary": "Altarpiece。China。Northern Wei dynasty (386–534)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP217570.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/53474",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "礼制",
+  "祭祀"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/53474.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-50705",
+ "name": "Covered box with plum blossoms under moon",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1250,
+  1333
+ ],
+ "category": "瓷器",
+ "material": "Porcelaneous stoneware (Jizhou ware)",
+ "dimensions": "Diam. 3 1/8 in. (7.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1977.449.6a, b"
+ },
+ "summary": "Box with cover。China。late Southern Song (1127–1279)–Yuan (1271–1368) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1977_449_6_212524.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/50705",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/50705.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

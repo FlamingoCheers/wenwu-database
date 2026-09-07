@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-52538",
+ "name": "Figure of a woman",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -400,
+  -256
+ ],
+ "category": "陶器",
+ "material": "Earthenware with traces of pigment",
+ "dimensions": "H. 2 5/8 in. (6.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "43.56.5"
+ },
+ "summary": "Figure。China。Eastern Zhou dynasty, Warring States period (475–221 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-43_56_5_001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52538",
+ "license": "CC0",
+ "tags": [
+  "日常生活",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52538.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

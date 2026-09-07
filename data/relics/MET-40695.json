@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-40695",
+ "name": "Candlestick with lotus scrolls",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1433
+ ],
+ "category": "杂器",
+ "material": "Cloisonné enamel",
+ "dimensions": "H. 4 1/4 in. (10.8 cm); Diam.of rim  5 3/4 in. (14.6 cm); Diam. of base 4 1/2 in. (11.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "29.110.37"
+ },
+ "summary": "Candlestick。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP228142.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40695",
+ "license": "CC0",
+ "tags": [
+  "植物",
+  "照明"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/40695.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

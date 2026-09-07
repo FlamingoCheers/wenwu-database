@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-51901",
+ "name": "Calligraphy",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1786,
+  1822
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink on green paper",
+ "dimensions": "Image: 64 7/8 x 15 in. (164.8 x 38.1 cm)\r\nOverall with mounting: 88 1/4 x 21 3/4 in. (224.2 x 55.2 cm)\r\nOverall with knobs: 88 1/4 x 26 in. (224.2 x 66 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1989.363.204"
+ },
+ "summary": "Hanging scroll。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-36230-002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51901",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/51901.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

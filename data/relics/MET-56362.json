@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-56362",
+ "name": "Table with Flowering Sprays",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1567,
+  1633
+ ],
+ "category": "漆器",
+ "material": "Black lacquer inlaid with mother-of-pearl",
+ "dimensions": "H. 33 1/2 in. (85.1 cm); W. 79 1/2 in. (201.9 cm); D. 33 3/4 in. (85.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "65.57"
+ },
+ "summary": "Table。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP138487.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/56362",
+ "license": "CC0",
+ "tags": [
+  "植物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/56362.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

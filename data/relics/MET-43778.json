@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-43778",
+ "name": "Belt plaque",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1500,
+  1599
+ ],
+ "category": "玉器",
+ "material": "Jade (nephrite)",
+ "dimensions": "H. 2 1/8 in. (5.4 cm); W. 5 3/16 in. (13.2 cm); D. 1/4 in. (0.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.390"
+ },
+ "summary": "Belt plaque。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/14969.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/43778",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/43778.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

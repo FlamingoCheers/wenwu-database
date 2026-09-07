@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-39893",
+ "name": "Inkstone in the Form of a Qin (Zither)",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "杂器",
+ "material": "Stone (slaty shale)",
+ "dimensions": "H. 3/4 in. (1.9 cm); W. 3 1/8 in. (7.9 cm); L. 6 7/8 in. (17.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1998.85"
+ },
+ "summary": "Inkstone。China。Song dynasty (960–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-13045-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39893",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "文房",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39893.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

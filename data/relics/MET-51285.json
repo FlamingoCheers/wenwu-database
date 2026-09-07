@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-51285",
+ "name": "A Tang Palace",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1495,
+  1552
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink and color on silk",
+ "dimensions": "Image: 33 × 30 3/4 in. (83.8 × 78.1 cm)\r\nOverall with mounting: 73 3/4 × 35 5/8 in. (187.3 × 90.5 cm)\r\nOverall with knobs: 73 3/4 × 39 in. (187.3 × 99.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "12.134.8"
+ },
+ "summary": "Hanging scroll。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/13890.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51285",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/51285.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

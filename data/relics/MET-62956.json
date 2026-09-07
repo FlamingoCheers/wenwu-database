@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-62956",
+ "name": "Figure of a seated musician clapping hands",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1,
+  220
+ ],
+ "category": "陶器",
+ "material": "Earthenware with traces of pigment",
+ "dimensions": "H. 3 1/2 in. (8.9 cm); W. 2 3/8 in. (6.0 cm); D. 1 5/8 in. (4.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "36.12.7"
+ },
+ "summary": "Figure。China。Han dynasty (206 BCE–220 CE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/102723.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/62956",
+ "license": "CC0",
+ "tags": [
+  "日常生活",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/62956.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-53634",
+ "name": "Colander for Food Steamer (Xian)",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -770,
+  -256
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 8 1/4 in. (21 cm); Diam. 11 1/2 in. (29.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "13.100.5"
+ },
+ "summary": "Colander。China。late Eastern Zhou dynasty (770–256 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP164897.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/53634",
+ "license": "CC0",
+ "tags": [
+  "茶文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/53634.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

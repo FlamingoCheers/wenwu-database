@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-49044",
+ "name": "Calligraphy",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1593,
+  1644
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink on paper",
+ "dimensions": "Image: 54 7/8 x 24 1/4 in. (139.4 x 61.6 cm)\r\nOverall with mounting: 111 x 31 1/2 in. (281.9 x 80 cm)\r\nOverall with knobs: 111 x 34 1/2 in. (281.9 x 87.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1989.363.122"
+ },
+ "summary": "Hanging scroll。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-35897-002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49044",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/49044.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

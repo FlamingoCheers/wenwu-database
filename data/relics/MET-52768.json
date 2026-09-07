@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-52768",
+ "name": "Brush Rest",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "瓷器",
+ "material": "Porcelain decorated with cobalt blue under transparent glaze (Jingdezhen ware)",
+ "dimensions": "H. 2 3/4 in. (7 cm); W. 7 5/16 in. (18.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "58.64.1"
+ },
+ "summary": "Brush rest。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/58_64_1_O1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52768",
+ "license": "CC0",
+ "tags": [
+  "文房",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52768.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

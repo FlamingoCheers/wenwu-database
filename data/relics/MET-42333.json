@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-42333",
+ "name": "Covered jar",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -500,
+  -350
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with impressed and relief decoration",
+ "dimensions": "Diam. 4 1/2 in. (11.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1986.75.2"
+ },
+ "summary": "Covered jar。China。Eastern Zhou dynasty, Warring States period (475–221 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT8291.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42333",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "玺印封泥",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42333.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

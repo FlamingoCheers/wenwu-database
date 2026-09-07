@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-52598",
+ "name": "Tea bowl",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1279
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with iron-oxide glaze (Chayang ware)",
+ "dimensions": "H. 2 in. (5.1 cm); Diam. 4 7/8 in. (12.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "17.179.4"
+ },
+ "summary": "Tea bowl。China。Southern Song dynasty (1127–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/17_179_4_S1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52598",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "茶文化",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52598.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

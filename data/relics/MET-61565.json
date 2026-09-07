@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-61565",
+ "name": "Figure of an actor(?)",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1279
+ ],
+ "category": "陶器",
+ "material": "Unglazed pottery",
+ "dimensions": "H. 3 7/8 in. (9.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.76.79"
+ },
+ "summary": "Figure。China。Song dynasty (960–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/30_76_79_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61565",
+ "license": "CC0",
+ "tags": [
+  "日常生活"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61565.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-39540",
+ "name": "Two eagles",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1702,
+  1702
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink on paper",
+ "dimensions": "Image: 73 3/4 x 35 1/2 in. (187.3 x 90.2 cm)\r\nOverall with mounting: 122 3/4 x 42 1/2 in. (311.8 x 108 cm)\r\nOverall with knobs: 122 3/4 x 46 1/2 in. (311.8 x 118.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2014.721"
+ },
+ "summary": "Hanging scroll。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-19468-002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39540",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/39540.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

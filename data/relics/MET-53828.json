@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-53828",
+ "name": "Jar with dragon and stylized character for longevity (shou)",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1522,
+  1599
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze cobalt blue (Jingdezhen ware)",
+ "dimensions": "H. 20 5/8 in. (52.4 cm); Diam. 20 1/2 in. (52.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "20.144"
+ },
+ "summary": "Jar。China。Ming dynasty (1368–1644), Jiajing mark and period (1522–66)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP225254.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/53828",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/53828.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

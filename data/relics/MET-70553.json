@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-70553",
+ "name": "Saddle Rug with Branch Designs",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1799
+ ],
+ "category": "杂器",
+ "material": "Foundation: cotton;  wool knotting",
+ "dimensions": "56 1/2 x 26 in. (143.51 x 66.04 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1974.160.4"
+ },
+ "summary": "Saddle rug。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/TP523.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/70553",
+ "license": "CC0",
+ "tags": [
+  "出行"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/70553.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

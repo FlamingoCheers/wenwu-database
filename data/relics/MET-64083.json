@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-64083",
+ "name": "Folding screen with figures in a landscape",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "杂器",
+ "material": "Carved talc mounted on silk",
+ "dimensions": "Overall (open, curved): 65 1/2 in. × 12 ft. × 24 in. (166.4 × 365.8 × 61 cm)\r\nEach panel: 64 1/2 × 19 5/8 in. (163.8 × 49.8 cm)\r\nEach panel (image): 43 in. × 17 1/8 in. (109.2 × 43.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "13.220.80a–h"
+ },
+ "summary": "Screen。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-17911-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/64083",
+ "license": "CC0",
+ "tags": [
+  "山水",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/64083.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

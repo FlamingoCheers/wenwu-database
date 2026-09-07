@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-843765",
+ "name": "Incense burner in the shape of a goose",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1400,
+  1433
+ ],
+ "category": "杂器",
+ "material": "Copper alloy",
+ "dimensions": "H. 14 1/2 in. (36.8 cm); W. 18 3/4 in. (47 6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2020.335a, b"
+ },
+ "summary": "Incense burner。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-20785-002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/843765",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "香文化",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/843765.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

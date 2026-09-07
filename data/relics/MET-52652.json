@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-52652",
+ "name": "Plate",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1000,
+  1199
+ ],
+ "category": "陶器",
+ "material": "Pottery (Jun ware, possibly Guan ware)",
+ "dimensions": "H. 1 1/2 in. (3.8 cm); Diam. 7 1/4 in. (18.4 cm); Diam. of foot 3 7/8 in. (9.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "26.292.30"
+ },
+ "summary": "Plate。China。Northern Song dynasty (960–1127)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14609-137.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52652",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52652.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

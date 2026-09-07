@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-45850",
+ "name": "Seated Immortal",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1600,
+  1699
+ ],
+ "category": "陶器",
+ "material": "Pottery",
+ "dimensions": "H. 21 in. (53.3 cm); W. 11 in. (27.9 cm); D. 9 1/4 in. (23.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "16.100"
+ },
+ "summary": "Figure。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/16_100_O1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/45850",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/45850.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-124883",
+ "name": "Bracelet",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1890,
+  1910
+ ],
+ "category": "金银器",
+ "material": "silver",
+ "dimensions": "Width (a, b): 3 1/2 in. (8.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2005.359a, b"
+ },
+ "summary": "Bracelet。China (Miao-Wuya)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/TR.364.5ab.2005.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/124883",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/124883.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

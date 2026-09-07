@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-46077",
+ "name": "Covered Jar",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1500,
+  1549
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with carved, pierced, and relief decoration, in the biscuit and under colored glazes (Fahua ware)",
+ "dimensions": "H. 18 5/16 in. (46.5 cm); Diam. 15 in. (38.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "61.200.15a, b"
+ },
+ "summary": "Covered jar。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/61_200_15ab_O1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/46077",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/46077.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

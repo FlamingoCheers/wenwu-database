@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-44578",
+ "name": "Breadth of WovenTextile",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1733
+ ],
+ "category": "金银器",
+ "material": "Satin damask and satin brocaded in silk and gold-wrapped silk",
+ "dimensions": "Selvage to selvage:\r\na: 74 × 30 1/2 in. (188 × 77.5 cm)\r\nb: 23 × 24 in. (58.4 × 61 cm)\r\nc: 19 × 19 in. (48.3 × 48.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1989.56.1a–c"
+ },
+ "summary": "Breadth of woven textile。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/RT704A.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44578",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44578.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

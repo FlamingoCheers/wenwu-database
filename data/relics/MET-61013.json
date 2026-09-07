@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-61013",
+ "name": "Incense burner with Arab inscription",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1661,
+  1722
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. (inc. handles) 5 5/8 in. (14.3 cm); Diam. 5 1/4 in. (13.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "07.205.2"
+ },
+ "summary": "Incense burner。China。Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/2638.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61013",
+ "license": "CC0",
+ "tags": [
+  "香文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61013.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-45498",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1200,
+  1299
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with greyish blue glaze (Jun ware)",
+ "dimensions": "H. 3 5/8 in. (9.2 cm); Diam. 8 1/4 in. (21.0 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "29.100.209"
+ },
+ "summary": "Bowl。China。Yuan dynasty (1271–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/75865.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/45498",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/45498.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

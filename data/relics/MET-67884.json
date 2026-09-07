@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-67884",
+ "name": "Two textiles with flowers",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1799
+ ],
+ "category": "杂器",
+ "material": "Silk voided cut velvet with metal thread",
+ "dimensions": "a: 32 7/8 × 17 in. (83.5 × 43.2 cm)\r\nb: 33 × 13 1/2 in. (83.8 × 34.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "09.13.15a, b"
+ },
+ "summary": "Pieces。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-09_13_15a_front.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/67884",
+ "license": "CC0",
+ "tags": [
+  "植物",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/67884.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

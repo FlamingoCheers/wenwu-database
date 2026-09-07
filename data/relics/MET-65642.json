@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-65642",
+ "name": "Dragon Robe",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1799
+ ],
+ "category": "杂器",
+ "material": "Silk",
+ "dimensions": "55 x 67 in. (139.7 x 170.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "56.210.6"
+ },
+ "summary": "Robe。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-56_210_6_sr1-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/65642",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/65642.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

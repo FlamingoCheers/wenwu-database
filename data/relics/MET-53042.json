@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-53042",
+ "name": "Model of a coin box",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1,
+  199
+ ],
+ "category": "陶器",
+ "material": "Earthenware with lead green glaze",
+ "dimensions": "H. 5 5/8 in. (14.3 cm); W. 9 3/8 in. (23.8 cm); D. 9 1/2 in. (24.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "38.56.5"
+ },
+ "summary": "Model。China。Han dynasty (206 BCE–220 CE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/114941.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/53042",
+ "license": "CC0",
+ "tags": [
+  "货币金融",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/53042.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

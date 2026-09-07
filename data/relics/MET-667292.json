@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-667292",
+ "name": "Ten dishes with chrysanthemum petal rim",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1300,
+  1368
+ ],
+ "category": "漆器",
+ "material": "Lacquer",
+ "dimensions": "Each: H. 7/8 in. (2.2 cm); Diam. 7 in. (17.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2015.500.1.96a–j"
+ },
+ "summary": "Dishes。China。Yuan dynasty  (1271–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP704198.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/667292",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/667292.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

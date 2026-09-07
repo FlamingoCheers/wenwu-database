@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-73380",
+ "name": "Incense burner with dragon, phoenix, and sea creatures",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1500,
+  1699
+ ],
+ "category": "杂器",
+ "material": "Copper alloy",
+ "dimensions": "H. 5 1/2 in. (14 cm); W. 5 in. (12.7 cm); D. 3 3/4 in. (9.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.448a, b"
+ },
+ "summary": "Incense burner。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP208745.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/73380",
+ "license": "CC0",
+ "tags": [
+  "香文化",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/73380.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

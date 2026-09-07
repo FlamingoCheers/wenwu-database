@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-40084",
+ "name": "Vase with Buddhist figures",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1667,
+  1699
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with raised decoration, painted in underglaze cobalt blue and copper red (Jingdezhen ware)",
+ "dimensions": "H. 17 13/16 in. (45.2 cm); Diam. 19 5/8 in. (49.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "79.2.489"
+ },
+ "summary": "Vase。China。Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/ASA106.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40084",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/40084.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

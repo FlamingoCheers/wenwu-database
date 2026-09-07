@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-51291",
+ "name": "The Immortal, Zhong li",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1368,
+  1911
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink and color on paper",
+ "dimensions": "45 x 17 3/4 in. (114.3 x 45.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "13.100.23"
+ },
+ "summary": "Hanging scroll。China。Ming (1368–1644) or Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/13_100_23_O.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51291",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51291.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

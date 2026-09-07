@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-53749",
+ "name": "Jar with miscellenous treasures",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1600,
+  1644
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in overglaze polychrome enamels (Jingdezhen ware)",
+ "dimensions": "H. 4 5/8 in. (11.7 cm); Diam. 6 3/8 in. (16.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "17.118.16a, b"
+ },
+ "summary": "Jar。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/17_118_16a_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/53749",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/53749.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

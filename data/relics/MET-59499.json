@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-59499",
+ "name": "Yoke Ornament in the Shape of a Doe",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -499,
+  -300
+ ],
+ "category": "青铜器",
+ "material": "Tinned bronze",
+ "dimensions": "H. 2 1/4 in. (5.7 cm); L. 2 5/8 in. (6.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2002.201.77"
+ },
+ "summary": "Yoke ornament。Northwest China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/2002_201_77_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/59499",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/59499.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

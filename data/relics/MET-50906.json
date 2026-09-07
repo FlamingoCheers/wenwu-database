@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-50906",
+ "name": "Vase with scholar objects",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1644,
+  1733
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze cobalt blue (Jingdezhen ware)",
+ "dimensions": "H. 6 1/2 in. (16.5 cm); Diam. 3 1/2 in. (8.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "29.149.24"
+ },
+ "summary": "Vase。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/29_149_24_S1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/50906",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/50906.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

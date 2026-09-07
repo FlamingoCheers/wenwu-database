@@ -1,0 +1,44 @@
+{
+ "relic_id": "MET-713154",
+ "name": "Paperweight in the shape of a Qilin",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1400,
+  1599
+ ],
+ "category": "杂器",
+ "material": "Copper alloy",
+ "dimensions": "W. 2 1/2 in. (6.4 cm); W. 2 1/2 in. (6.4 cm); D. 1 3/4 in. (4.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2016.243"
+ },
+ "summary": "Paperweight。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-23607-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/713154",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "祥瑞纹样",
+  "文房",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/713154.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

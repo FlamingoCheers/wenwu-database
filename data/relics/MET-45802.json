@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-45802",
+ "name": "Summer Garden",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1520,
+  1540
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink and color on paper",
+ "dimensions": "Image: 126 1/8 x 39 1/4 in. (320.4 x 99.7 cm)\r\nOverall with mounting: 171 x 48 3/8 in. (434.3 x 122.9 cm)\r\nOverall with knobs: 171 x 52 7/8 in. (434.3 x 134.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1986.266.2"
+ },
+ "summary": "Hanging scroll。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT8369.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/45802",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/45802.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

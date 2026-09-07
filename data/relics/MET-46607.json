@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-46607",
+ "name": "Figure of a standing servant",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": "Stoneware painted with polychrome enamels (Cizhou type ware)",
+ "dimensions": "H. 7 in. (17.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "26.292.66"
+ },
+ "summary": "Tomb figure。China。Jin dynasty (1115–1234)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/26_292_66_O1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/46607",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器",
+  "日常生活",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/46607.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

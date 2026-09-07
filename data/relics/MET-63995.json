@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-63995",
+ "name": "Rubbing of an old fisherman from a Ming dynasty stone carving",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1900,
+  1959
+ ],
+ "category": "杂器",
+ "material": "Ink on paper",
+ "dimensions": "Overall with mounting: 35 × 18 1/4 in. (88.9 × 46.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "59.195.1"
+ },
+ "summary": "Rubbing。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-18070-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/63995",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/63995.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

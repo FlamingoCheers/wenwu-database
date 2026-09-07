@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-41045",
+ "name": "Seal",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1300,
+  1644
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 15/16 in. (2.4 cm); W. 15/16 in. (2.4 cm); D. 5/8 in. (1.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "24.13.48"
+ },
+ "summary": "Seal。China。Ming dynasty (1368–1644) or earlier",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/24_13_48_O2.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/41045",
+ "license": "CC0",
+ "tags": [
+  "玺印封泥",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/41045.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

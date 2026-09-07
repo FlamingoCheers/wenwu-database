@@ -1,0 +1,46 @@
+{
+ "relic_id": "MET-43862",
+ "name": "Mountain scene in the form of pine, cranes, and immortals",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1899
+ ],
+ "category": "玉器",
+ "material": "Jade (nephrite)",
+ "dimensions": "H. 9 1/16 in. (23 cm); W. 6 1/8 in. (15.5 cm); D. 2 in. (5.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.531"
+ },
+ "summary": "Relief。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP225847.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/43862",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教",
+  "酒文化",
+  "礼制",
+  "山水",
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/43862.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

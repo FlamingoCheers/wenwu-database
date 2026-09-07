@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-61754",
+ "name": "Standing Bodhisattva",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "杂器",
+ "material": "Sunbaked mud, polychrome and gilt traces",
+ "dimensions": "H. 28 13/16 in. (73.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "60.75.1"
+ },
+ "summary": "Standing Bodhisattva。China。Song dynasty (960–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/60_75_1_F.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61754",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61754.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-45797",
+ "name": "Garden Flowers",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1540,
+  1540
+ ],
+ "category": "书画",
+ "material": "Album of sixteen paintings and one leaf of calligraphy; ink and color on paper",
+ "dimensions": "Image (six leaves): 12 13/16 x 22 9/16 in. (32.5 x 57.3 cm)\r\nImage (ten leaves): 13 1/8 x 22 3/4 in. (33.3 x 57.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1986.266.1a–u"
+ },
+ "summary": "Album。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP161169_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/45797",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/45797.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-51608",
+ "name": "Landscape with Ox Carts on a Road",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "书画",
+ "material": "Miniature from album of eleven paintings; ink and color on silk",
+ "dimensions": "5 x 6 3/4 in. (12.7 x 17.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "42.200.8"
+ },
+ "summary": "Album leaf。China。Ming dynasty (?) (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP154477.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51608",
+ "license": "CC0",
+ "tags": [
+  "山水",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51608.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

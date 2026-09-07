@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-42316",
+ "name": "Dish with pheasant and flowers on fan",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1720,
+  1760
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in overglaze polychrome enamels, gold, and silver (Jingdezhen ware)",
+ "dimensions": "Diam. of rim: 7 7/8 in. (20 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "79.2.590"
+ },
+ "summary": "Dish。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP240973.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42316",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42316.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

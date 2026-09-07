@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-61291",
+ "name": "Wine cup with ring handle (He)",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -206,
+  220
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 2 5/8 in. (6.7 cm); W. (with handles) 6 7/8 in. (17.5 cm); D. 6 5/16 in. (16 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "67.43.8"
+ },
+ "summary": "Wine cup。China。Han dynasty (206 BCE–220 CE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP151355.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61291",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61291.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

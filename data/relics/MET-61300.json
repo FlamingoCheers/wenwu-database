@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-61300",
+ "name": "Dagger and Sheath",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -349,
+  -150
+ ],
+ "category": "青铜器",
+ "material": "Bronze, gold",
+ "dimensions": "Dagger and sheath L. 9 in. (22.9 cm); Dagger (hilt only) 3 11/16 in. (9.4 cm)\r\nSheath L. 5 5/8 in. (14.3 cm); W. 2 1/16 in. (5.2 cm); D. 5/16 in. (.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "69.218a, b"
+ },
+ "summary": "Dagger and sheath。China。late Eastern Zhou (770–256 BCE)–Han (206 BCE–220 CE) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP167750.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61300",
+ "license": "CC0",
+ "tags": [
+  "战争",
+  "兵器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61300.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

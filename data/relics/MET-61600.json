@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-61600",
+ "name": "Votive tablet",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  500,
+  581
+ ],
+ "category": "陶器",
+ "material": "Earthenware",
+ "dimensions": "H. 4 1/2 in. (11.4 cm); W. 3 7/8 in. (9.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.76.120"
+ },
+ "summary": "Votive tablet。China。Northern and Southern Dynasties (386–581)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/30_76_120_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61600",
+ "license": "CC0",
+ "tags": [
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61600.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

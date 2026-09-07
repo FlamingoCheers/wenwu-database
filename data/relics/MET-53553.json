@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-53553",
+ "name": "Wine Warmer (Jiao)",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -1299,
+  -1000
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. incl. knob 9 1/8 in. (23.2 cm); W. at handle 3 3/4 in. (9.5 cm); L. 6 5/8 in. (16.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "46.55.2a, b"
+ },
+ "summary": "Wine warmer。China。Shang dynasty (ca. 1600–1046 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP154555.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/53553",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/53553.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

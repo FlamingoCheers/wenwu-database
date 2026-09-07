@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-60954",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1600,
+  1699
+ ],
+ "category": "漆器",
+ "material": "Lacquer on pewter",
+ "dimensions": "H. 3 1/2 in. (8.9 cm); Diam. of rim 7 7/8 in. (20 cm); Diam. of foot 3 5/8 in. (9.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "33.40.80"
+ },
+ "summary": "Bowl。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/33_40_80_92231.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/60954",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/60954.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-69879",
+ "name": "Wrapping Cloth",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1875,
+  1908
+ ],
+ "category": "杂器",
+ "material": "Silk, metallic thread",
+ "dimensions": "42 1/4 x 42 1/4 in. (107.32 x 107.32 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "49.22.6"
+ },
+ "summary": "Wrapping Cloth。China。Qing dynasty (1644–1911), Guangxu period (1875–1908)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-49_22.6_001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/69879",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/69879.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

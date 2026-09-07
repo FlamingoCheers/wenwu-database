@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-52592",
+ "name": "Bowl with lotus scrolls",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1000,
+  1199
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with incised decoration under ivory white glaze (Ding ware)",
+ "dimensions": "H. 2 7/8 in. (7.3 cm); Diam. 6 3/4 in. (17.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "23.93.2"
+ },
+ "summary": "Bowl。China。Song dynasty (960–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/23_93_2_52795.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52592",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52592.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

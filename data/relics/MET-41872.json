@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-41872",
+ "name": "Inkstone with Pine Tree and Bird",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1500,
+  1599
+ ],
+ "category": "杂器",
+ "material": "Slate",
+ "dimensions": "H. 7 in. (17.8 cm); W. 4 15/16 in. (12.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1993.378"
+ },
+ "summary": "Inkstone。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP225815.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/41872",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "植物",
+  "文房",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/41872.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

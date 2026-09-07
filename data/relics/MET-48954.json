@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-48954",
+ "name": "Poem by Wang Wei",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1632,
+  1636
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink on paper",
+ "dimensions": "Image: 74 3/8 × 29 1/4 in. (188.9 × 74.3 cm)\r\nOverall with mounting: 8 ft. 7 3/4 in. × 34 1/4 in. (263.5 × 87 cm)\r\nOverall with knobs: 8 ft. 7 3/4 in. × 38 in. (263.5 × 96.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1989.363.100"
+ },
+ "summary": "Hanging scroll。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-35893-002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/48954",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/48954.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

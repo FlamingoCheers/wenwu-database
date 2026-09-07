@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-49495",
+ "name": "Ritual grain serving vessel (Dou)",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -499,
+  -400
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 7 in. (17.8 cm); W. (incl. lugs) 9 in. (22.9 cm); Diam. of lid: 7 1/4 in. (18.4 cm); Diam. of rim (interior): 6 3/4 in. (17.1 cm); Diam. of foot: 4 1/4 in. (10.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "16.89a, b"
+ },
+ "summary": "Grain serving vessel。China。Eastern Zhou dynasty, Warring States period (475–221 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP218281.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49495",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "礼制",
+  "祭祀"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49495.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

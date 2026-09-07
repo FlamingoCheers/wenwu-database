@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-73307",
+ "name": "Saddle Pommel",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  600,
+  899
+ ],
+ "category": "金银器",
+ "material": "Gold foil and silver",
+ "dimensions": "Overall (largest fragment): H. 4 1/8 in. (10.5 cm); W. 10 in. (25.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.474a–ii"
+ },
+ "summary": "Saddle fittings。China (Xinjiang Autonomous Region, Central Asia)。Period of Tibetan Empire",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP272009.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/73307",
+ "license": "CC0",
+ "tags": [
+  "出行"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/73307.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-50791",
+ "name": "Brush Washer",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1722
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with clair de lune glazes",
+ "dimensions": "Diam. 4 5/8 in. (11.7 cm); H. 1 9/16 in. (4.0 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "64.279.2"
+ },
+ "summary": "Brush washer。China。Qing dynasty (1644–1911), Kangxi mark and period (1662–1722)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14605-167.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/50791",
+ "license": "CC0",
+ "tags": [
+  "文房",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/50791.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-49855",
+ "name": "Flask with Lotus Pond",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1334,
+  1366
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted with cobalt blue under transparent glaze (Jingdezhen ware)",
+ "dimensions": "H. 11 1/4 in. (28.6 cm); Diam. 3 1/4 in. (8.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1984.297"
+ },
+ "summary": "Flask。China。Yuan dynasty (1271–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP342530.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49855",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49855.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

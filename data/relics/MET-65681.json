@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-65681",
+ "name": "Emperor's Twelve-Symbol robe",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1825,
+  1845
+ ],
+ "category": "杂器",
+ "material": "Silk",
+ "dimensions": "70 x 55 in. (177.8 x 139.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "45.48"
+ },
+ "summary": "Emperor's Twelve-Symbol Robe。China。Qing dynasty (1644–1911), Daoguang period (1821–50)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/134629.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/65681",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/65681.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

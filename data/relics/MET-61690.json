@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-61690",
+ "name": "Statuette of Phoenix (Fenghuang)",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1300,
+  1644
+ ],
+ "category": "杂器",
+ "material": "Wrought iron",
+ "dimensions": "H. 7 in. (17.8 cm); L. 11 1/4 in. (28.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "42.199"
+ },
+ "summary": "Statuette。China。Ming dynasty (1368–1644) or earlier",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-42_199_001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61690",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61690.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

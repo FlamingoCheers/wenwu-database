@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-69805",
+ "name": "Sutra cover with geometric pattern",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1600,
+  1699
+ ],
+ "category": "杂器",
+ "material": "Silk lampas with metal thread",
+ "dimensions": "13 3/16 × 5 3/8 in. (33.5 × 13.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "46.133.64"
+ },
+ "summary": "Sutra Cover。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP250253.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/69805",
+ "license": "CC0",
+ "tags": [
+  "照明"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/69805.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

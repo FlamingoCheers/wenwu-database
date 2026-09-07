@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-52532",
+ "name": "Beaker",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -3000,
+  -1900
+ ],
+ "category": "陶器",
+ "material": "Burnished black earthenware",
+ "dimensions": "H. 7 5/16 in. (18.6 cm); Diam. (at top)  5 7/8 in. (14.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "50.61.8"
+ },
+ "summary": "Beaker。China。Neolithic period, Longshan culture (c.3000–c.1900 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/147119.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52532",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52532.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

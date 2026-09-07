@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-42111",
+ "name": "Woman’s Robe with Lotus Flowers",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1799
+ ],
+ "category": "杂器",
+ "material": "Silk embroidery on silk gauze",
+ "dimensions": "Overall: 55 x 45 1/2 in. (139.7 x 115.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "34.117.1"
+ },
+ "summary": "Woman's robe。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/98631.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42111",
+ "license": "CC0",
+ "tags": [
+  "植物",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42111.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

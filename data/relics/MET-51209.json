@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-51209",
+ "name": "Teapot",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1662,
+  1722
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in enamels on the biscuit",
+ "dimensions": "H. 4 5/16 in. (11.0 cm); W. 5 15/16 in. (15.1 cm); D. 3 1/4 in. (8.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "79.2.1378a, b"
+ },
+ "summary": "Teapot。China。Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/29764.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51209",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "茶文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51209.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

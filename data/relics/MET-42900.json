@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-42900",
+ "name": "Dog",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1600,
+  1699
+ ],
+ "category": "玉器",
+ "material": "Jade, teakwood stand",
+ "dimensions": "H. 1 5/16 in. (3.3 cm); L. 2 3/4 in. (7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "44.82"
+ },
+ "summary": "Dog。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/135937.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42900",
+ "license": "CC0",
+ "tags": [
+  "茶文化",
+  "动物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42900.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

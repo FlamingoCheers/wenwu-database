@@ -1,0 +1,46 @@
+{
+ "relic_id": "MET-53609",
+ "name": "Daoist priest’s ritual robe with dragons",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1667,
+  1699
+ ],
+ "category": "杂器",
+ "material": "Silk and metal thread tapestry (kesi)",
+ "dimensions": "Overall: 54 3/4 x 65 3/4 in. (139.1 x 167 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "43.144"
+ },
+ "summary": "Daoist Robe。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT4777.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/53609",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教",
+  "礼制",
+  "祭祀",
+  "祥瑞纹样",
+  "动物",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/53609.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

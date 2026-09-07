@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-53120",
+ "name": "Rock in the form of a fantastic mountain",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1899
+ ],
+ "category": "竹木牙角",
+ "material": "Black Lingbi limestone; wood stand",
+ "dimensions": "H. (with stand) 26 in. (66 cm); W. 31.5 in. (80 cm); D. 15 in. (38.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2011.575.3a, b"
+ },
+ "summary": "Scholar's rock。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/L37147_2011_575_3ab.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/53120",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/53120.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

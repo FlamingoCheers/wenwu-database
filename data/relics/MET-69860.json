@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-69860",
+ "name": "Chinese Palampore",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1750,
+  1800
+ ],
+ "category": "杂器",
+ "material": "Silk satin embroidered with silk",
+ "dimensions": "108 x 90 in. (274.3 x 228.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "47.63"
+ },
+ "summary": "Coverlet。China (Guangzhou), for the European or American market。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP286563.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/69860",
+ "license": "CC0",
+ "tags": [
+  "照明"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/69860.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

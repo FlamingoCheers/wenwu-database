@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-39901",
+ "name": "Night-Shining White",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  740,
+  760
+ ],
+ "category": "杂器",
+ "material": "Handscroll; ink on paper",
+ "dimensions": "Image: 12 1/8 x 13 3/8 in. (30.8 x 34 cm)\r\nOverall with mounting: 14 in. x 37 ft. 5 1/8 in. (35.4 cm x 11.4 m)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1977.78"
+ },
+ "summary": "Handscroll。China。Tang dynasty (618–907)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP153705.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39901",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/39901.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

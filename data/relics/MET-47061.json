@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-47061",
+ "name": "Vase with flowers",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1600,
+  1699
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze cobalt blue and overglaze polychrome enamels (Jingdezhen ware), with Japanese gold lacquer repairs",
+ "dimensions": "H. 8 3/4 in. (22.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "91.1.338"
+ },
+ "summary": "Vase。China or Japan (?)。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/13711.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/47061",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/47061.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

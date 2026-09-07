@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-50038",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1875,
+  1908
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in overglaze enamels and gilt",
+ "dimensions": "H. 2 1/4 in. (5.7 cm); Diam. 4 1/8 in. (10.5 cm); Diam. of foot 1 3/4 in. (4.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1984.286"
+ },
+ "summary": "Bowl。China。Qing dynasty (1644–1911), Guangxu period (1875–1908)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-35308-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/50038",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/50038.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

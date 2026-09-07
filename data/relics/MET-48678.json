@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-48678",
+ "name": "Tile Fragment",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1403,
+  1424
+ ],
+ "category": "陶器",
+ "material": "Pottery with polychrome enamels",
+ "dimensions": "H. 8 in. (20.3 cm); L. 10 3/4 in. (27.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "42.114"
+ },
+ "summary": "Tile fragment。China。Ming dynasty (1368–1644), Yongle period (1403–24)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/129735.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/48678",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/48678.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

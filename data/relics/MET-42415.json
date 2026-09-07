@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-42415",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1662,
+  1722
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with mirror-black glaze",
+ "dimensions": "H. 8 3/4 in. (22.2 cm); W. 4 3/4 in. (12.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "66.206.14"
+ },
+ "summary": "Vase。China。Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/66_206_14_O2_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42415",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42415.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

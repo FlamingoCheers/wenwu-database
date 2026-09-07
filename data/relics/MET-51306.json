@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-51306",
+ "name": "Watching the Phoenix",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink and color on silk",
+ "dimensions": "Overall: 19 1/8 x 15 1/4 in. (48.6 x 38.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "13.100.31"
+ },
+ "summary": "Hanging scroll。China。Ming dynasty (1368–1644) or later",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/20558.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51306",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "祥瑞纹样"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51306.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-42735",
+ "name": "Long Side Table",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1600,
+  1799
+ ],
+ "category": "竹木牙角",
+ "material": "Wood (huanghuali or Dalbergia odorifera)",
+ "dimensions": "H. 34 7/8 in. (88.6 cm); W. 21 3/4 in. (55.2 cm); L. 124 in. (315 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1976.193.9"
+ },
+ "summary": "Table。China。late Ming (1368–1644) or early Qing (1644–1911) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1976_193_9_O2.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42735",
+ "license": "CC0",
+ "tags": [
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42735.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

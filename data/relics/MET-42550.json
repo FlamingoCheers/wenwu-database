@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-42550",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1522,
+  1566
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze blue and overglaze yellow and red enamels",
+ "dimensions": "H. 7 5/8 in. (19.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "79.2.866"
+ },
+ "summary": "Vase。China。Ming dynasty (1368–1644), Jiajing mark and period (1522–66)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14609-180.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42550",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/42550.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

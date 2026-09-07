@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-45175",
+ "name": "Comb",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -1300,
+  -1000
+ ],
+ "category": "玉器",
+ "material": "Jade (nephrite) with traces of cinnabar",
+ "dimensions": "H. 3 in. (7.6 cm); W. 2 3/8 in. (6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.214.94"
+ },
+ "summary": "Comb。China。Shang dynasty (ca. 1600–1046 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT8152.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/45175",
+ "license": "CC0",
+ "tags": [
+  "妆饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/45175.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-53947",
+ "name": "Lobed Tripod Cauldron (Liding)",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -1199,
+  -1000
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. to handles 7 1/2 in. (19.1 cm); H. at rim 6 1/4 in. (15.9 cm); W. at handles 5 3/4 in. (14.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "49.136.5"
+ },
+ "summary": "Cauldron。China。Shang dynasty (ca. 1600–1046 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP140716.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/53947",
+ "license": "CC0",
+ "tags": [
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/53947.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

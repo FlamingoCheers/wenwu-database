@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-64898",
+ "name": "Pillow",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  690,
+  710
+ ],
+ "category": "陶器",
+ "material": "Earthenware with marbled veneer and brown glaze",
+ "dimensions": "H. 2 1/2 in. (6.4 cm); W. 6 1/2 in. (16.5 cm); D. 4 1/2 in. (11.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2002.181"
+ },
+ "summary": "Pillow。China。Tang dynasty (618–907)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP158762.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/64898",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/64898.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

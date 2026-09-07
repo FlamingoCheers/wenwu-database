@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-51753",
+ "name": "The Diamond Sutra",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1573,
+  1620
+ ],
+ "category": "竹木牙角",
+ "material": "Woodblock printed book with handwritten and hand-painted sections",
+ "dimensions": "12 1/2 x 5 1/2 in. (31.8 x 14 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "47.136.4"
+ },
+ "summary": "Illustrated book。China。Ming dynasty (1368–1644), Wanli period (1573–1620)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/47_136_4_O8_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51753",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51753.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

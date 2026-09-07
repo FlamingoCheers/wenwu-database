@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-61241",
+ "name": "Wine container (zun)",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -1099,
+  -900
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 5 3/4 in. (14.6 cm); Diam. 5 in. (12.7 cm); Diam. of rim 5 5/8 in. (14.3 cm); Diam. of foot 4 5/8 in. (11.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "49.135.14"
+ },
+ "summary": "Wine container。China。Western Zhou dynasty (1046–771 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP218265.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61241",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61241.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

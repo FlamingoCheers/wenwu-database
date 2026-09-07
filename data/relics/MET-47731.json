@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-47731",
+ "name": "Plate with flowers",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1849
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze blue and overglaze polychrome enamels (Jingdezhen ware)",
+ "dimensions": "H. 1 5/8 in. (4.1 cm); Diam. 15 1/16 in. (38.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "79.2.1275"
+ },
+ "summary": "Plate。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/79_2_1275_O_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/47731",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/47731.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

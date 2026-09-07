@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """构建检索前端索引：data/relics/*.json -> web/data/index.json(.gz)
 
-纯 stdlib。字段裁剪 + 预计算搜索 blob + 分面统计。
+纯 stdlib。字段裁剪 + 分面统计（搜索 blob 由前端现拼，减小索引体积）。
 产出两份：gz（浏览器 DecompressionStream 解压）与明文（兜底）。
 web/data/ 已 gitignore，由 Pages 部署时现构建。
 """
@@ -52,19 +52,16 @@ def build():
             "y1": yr[1],
             "cat": cat,
             "mat": d.get("material") or "",
-            "dim": (d.get("dimensions") or "")[:80],
+            "dim": (d.get("dimensions") or "")[:60],
             "mu": mu,
             "code": code,
             "inv": col.get("inventory_no") or "",
-            "desc": (d.get("summary") or "")[:160],
+            "desc": (d.get("summary") or "")[:110],
             "img": imgs[0]["url"] if imgs else "",
             "url": d.get("source_url") or "",
             "lic": "%s · %s" % (d.get("license", ""), col.get("museum") or ""),
             "tags": tags,
         }
-        blob = " ".join([it["name"], it["alias"], dyn, cat, it["mat"], it["mu"],
-                         it["inv"], " ".join(tags)]).lower()
-        it["b"] = blob
         items.append(it)
         dyn_counts[dyn] = dyn_counts.get(dyn, 0) + 1
         cat_counts[cat] = cat_counts.get(cat, 0) + 1

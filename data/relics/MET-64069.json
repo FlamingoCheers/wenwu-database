@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-64069",
+ "name": "Dufu's \"Ballad of the Old Cypress\"",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1900,
+  1999
+ ],
+ "category": "杂器",
+ "material": "Ink on paper",
+ "dimensions": "Image (a): 46 × 23 in. (116.8 × 58.4 cm)\r\nImage (b): 46 × 23 in. (116.8 × 58.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1977.375.54a, b"
+ },
+ "summary": "Rubbing。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-1977_375_54_at-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/64069",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/64069.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

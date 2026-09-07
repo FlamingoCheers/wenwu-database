@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-39528",
+ "name": "Jar with Handles",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1199
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with applied white slip ribs and black glaze (Cizhou ware)",
+ "dimensions": "H. 7 1/2 in. (19.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1997.1.7"
+ },
+ "summary": "Jar。China。late Northern Song (960–1127)–Jin (1115–1234) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14610-043.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39528",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39528.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

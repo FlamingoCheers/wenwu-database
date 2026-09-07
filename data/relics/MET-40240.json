@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-40240",
+ "name": "Side Panel from a Sarcophagus",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1299
+ ],
+ "category": "杂器",
+ "material": "Limestone",
+ "dimensions": "H. 24 1/2 in. (62.2 cm); W. 74 in. (188 cm); D. 2 5/8 in. ( 6.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1994.370a, b"
+ },
+ "summary": "Sarcophagus panel。North China。late Jin (1115–1234)–early Yuan (1271–1368) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1994_370a_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40240",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/40240.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

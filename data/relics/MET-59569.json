@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-59569",
+ "name": "Belt Buckle with Dragon and Fantastic Creature",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -99,
+  99
+ ],
+ "category": "金银器",
+ "material": "Gold inlaid with quartz",
+ "dimensions": "H. 2 7/8 in. (7.3 cm); W. 4 5/8 in. (11.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2002.201.185"
+ },
+ "summary": "Buckle。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-18883-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/59569",
+ "license": "CC0",
+ "tags": [
+  "妆饰",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/59569.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

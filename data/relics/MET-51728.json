@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-51728",
+ "name": "Two Ancestors of the Mao Family",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1368,
+  1911
+ ],
+ "category": "杂器",
+ "material": "Handscroll; ink and color on paper",
+ "dimensions": "11 1/8 x 1 13/16 in. (28.3 x 4.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "47.18.122"
+ },
+ "summary": "Handscroll。China。Ming (1368–1644) or Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP203092-93_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51728",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51728.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

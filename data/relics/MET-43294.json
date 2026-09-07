@@ -1,0 +1,44 @@
+{
+ "relic_id": "MET-43294",
+ "name": "Record of the Commemorative Tablet by Imperial Manufacture of the Great Buddha Temple of Longxing at Zhengding",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1644,
+  1911
+ ],
+ "category": "玉器",
+ "material": "Jade, rosewood",
+ "dimensions": "H. 7 5/8 in. (19.4 cm); W. 5 1/2 in. (14 cm); D. 1 5/8 in. (4.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1976.231"
+ },
+ "summary": "Book。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1976_231_O1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/43294",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "酒文化",
+  "礼制",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/43294.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

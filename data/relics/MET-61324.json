@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-61324",
+ "name": "Wine container with handle (you)",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -1100,
+  -900
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. (to top of lid): 11 7/16 in. (29.1 cm); H. (incl. erect handle): 12 11/16 in. (32.2 cm); W. 10 5/8 in. (27 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.214.7"
+ },
+ "summary": "Wine container。China。Western Zhou dynasty (1046–771 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP155115.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61324",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61324.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

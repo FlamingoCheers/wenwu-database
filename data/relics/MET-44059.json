@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-44059",
+ "name": "Immortal Holding a Peach",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1500,
+  1599
+ ],
+ "category": "杂器",
+ "material": "Silk tapestry (kesi)",
+ "dimensions": "Overall: 46 x 24 in. (116.8 x 61 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "26.114.4"
+ },
+ "summary": "Panel。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP225808.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44059",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44059.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

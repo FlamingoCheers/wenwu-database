@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-41759",
+ "name": "Snuff Bottle",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "杂器",
+ "material": "Quartz",
+ "dimensions": "H. 2 13/16 in. (7.1 cm); W. 2 1/16 in. (5.2 cm); D. 3/4 in. (1.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1971.117.15a, b"
+ },
+ "summary": "Snuff bottle。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1971_117_15.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/41759",
+ "license": "CC0",
+ "tags": [
+  "日常生活"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/41759.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

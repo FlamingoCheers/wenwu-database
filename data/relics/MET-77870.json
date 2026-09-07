@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-77870",
+ "name": "Eight views of the Yellow Mountains",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1681,
+  1681
+ ],
+ "category": "书画",
+ "material": "Album of nine leaves of painting and calligraphy; ink on paper",
+ "dimensions": "Image (leaf a): 9 1/2 × 5 1/2 in. (24.1 × 14 cm)\r\nOverall with mounting (a): 12 1/4 × 14 5/8 in. (31.1 × 37.1 cm)\r\nOverall with mounting (leaves b–h): 12 1/8 × 14 3/8 in. (30.8 × 36.5 cm)\r\nImage (i frontispiece): 10 1/8 × 12 1/4 in. (25.7 × 31.1 cm)\r\nImage (j  inscription by the artist): 10 3/8 × 12 1/2 in. (26.4 × 31.8 cm)\r\nOverall with mounting (i and j): 14 5/8 × 12 1/4 in. (37.1 × 31.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2012.167a–l"
+ },
+ "summary": "Album。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP332570.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/77870",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/77870.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

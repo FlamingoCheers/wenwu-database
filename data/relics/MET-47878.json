@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-47878",
+ "name": "Ewer with archaistic vessels",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1667,
+  1733
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze cobalt blue (Jingdezhen ware), metal mounts",
+ "dimensions": "H. 4 1/4 in. (10.8 cm); W. 6 1/2 in. (16.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "79.2.288"
+ },
+ "summary": "Teapot。China。Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/79_2_288_S1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/47878",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "茶文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/47878.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

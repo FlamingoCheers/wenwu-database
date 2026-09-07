@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-42520",
+ "name": "Bowl with Dragon",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1534,
+  1566
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with incised decoration under and colored enamels over transparent glaze (Jingdezhen ware)",
+ "dimensions": "H. 3 1/4 in. (8.3 cm); Diam. 7 1/2 in. (19.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "63.175.2"
+ },
+ "summary": "Bowl。China。Ming dynasty (1368–1644), Zhengde mark and period (1506–21)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14609-171.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42520",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42520.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

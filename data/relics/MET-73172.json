@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-73172",
+ "name": "Tea Bowl with Marbleized Veneer",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1299
+ ],
+ "category": "陶器",
+ "material": "Earthenware with glaze (Cizhou ware)",
+ "dimensions": "H. 2 3/4 in. (7 cm); Diam. 6 5/16 in. (16 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.72"
+ },
+ "summary": "Tea bowl。China。Jin dynasty (1115–1234)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP158779.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/73172",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "茶文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/73172.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

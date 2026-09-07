@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-51816",
+ "name": "The Red Cliff Ode, by Su Dongpo (1036-1101)",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1600,
+  1641
+ ],
+ "category": "杂器",
+ "material": "Album of sixteen calligraphies; ink on tan-coated paper",
+ "dimensions": "Overall (leaves): 11 3/8 x 7 1/2 in. (28.9 x 19.1 cm)\r\nOverall (wood covers): 14 1/2 x 9 1/4 in. (36.8 x 23.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "56.115"
+ },
+ "summary": "Album。China。late Ming (1368–1644)–early Qing (1644–1911) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP159167.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51816",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51816.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

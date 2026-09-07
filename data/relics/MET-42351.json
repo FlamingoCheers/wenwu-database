@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-42351",
+ "name": "Vessel in the shape of a mythical creature",
+ "aliases": [],
+ "dynasty": "西晋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  265,
+  316
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with celadon glaze (Yue ware)",
+ "dimensions": "H. 4 5/8 in. (11.3 cm); L. 6 5/8 in. (16.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.66"
+ },
+ "summary": "Vessel。China。Six Dynasties (220–589), Western Jin (265–316) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT2636.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42351",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42351.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-772693",
+ "name": "Basin with turtles and fish",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1300,
+  1368
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 6 5/8 in. (16.8 cm); Diam. of rim 12 1/4 in. (31.1 cm); Diam. of foot 6 1/8 in. (15.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2018.851.1a–c"
+ },
+ "summary": "Basin。China。Yuan (1271–1368) to early Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-16217-003.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/772693",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/772693.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

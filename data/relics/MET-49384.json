@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-49384",
+ "name": "Rectangular cauldron (Fangding) with footed cover (Zu)",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -1200,
+  -1000
+ ],
+ "category": "青铜器",
+ "material": "Bronze inlaid with black pigment",
+ "dimensions": "H. 13 in. (33 cm); W. 9 in. (22.9 cm); D. 12 1/2 in. (31.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "43.25.2a, b"
+ },
+ "summary": "Cauldron。China。Shang dynasty (ca. 1600–1046 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP140770.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49384",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49384.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

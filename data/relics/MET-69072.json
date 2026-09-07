@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-69072",
+ "name": "Emperor's Twelve-Symbol Robe",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1723,
+  1735
+ ],
+ "category": "杂器",
+ "material": "Silk, metallic thread",
+ "dimensions": "55 1/2 x 28 in. (140.97 x 71.12 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "35.84.15"
+ },
+ "summary": "Robe, Emperor's 12-Symbol。China。Qing dynasty (1644–1911), Yongzheng period (1723–35)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/100843.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/69072",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/69072.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

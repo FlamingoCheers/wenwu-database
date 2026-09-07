@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-51832",
+ "name": "Beggars",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1644,
+  1956
+ ],
+ "category": "杂器",
+ "material": "Handscroll; ink and color on paper",
+ "dimensions": "10 x 132 3/4 in. (25.4 x 337.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "57.125"
+ },
+ "summary": "Handscroll。China。Qing dynasty (1644–1911) or Modern",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP204819_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51832",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/51832.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

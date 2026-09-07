@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-43378",
+ "name": "Figure of a fantastic animal",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1644,
+  1911
+ ],
+ "category": "杂器",
+ "material": "Black crystal",
+ "dimensions": "H. 4 1/2 in. (11.4 cm); W. 2 1/8 in. (5.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "21.175.129"
+ },
+ "summary": "Ornament。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP267542.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/43378",
+ "license": "CC0",
+ "tags": [
+  "日常生活"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/43378.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

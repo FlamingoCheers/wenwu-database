@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-842983",
+ "name": "Hexagonal vase with cloud-shaped handles",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1300,
+  1368
+ ],
+ "category": "杂器",
+ "material": "Copper alloy",
+ "dimensions": "H. 7 1/2 in. (19.1 cm): W. 3 3/4 in. (9.5 cm); D. 3 1/2 in. (8.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2020.389"
+ },
+ "summary": "Vase。China。Yuan dynasty (1271–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-21702-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/842983",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/842983.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

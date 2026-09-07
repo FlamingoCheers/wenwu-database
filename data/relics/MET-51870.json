@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-51870",
+ "name": "Two Poems",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "杂器",
+ "material": "Handscroll; ink and color on paper",
+ "dimensions": "Image: 11 3/4 x 63 in. (29.8 x 160 cm)\r\nOverall with mounting: 12 1/16 x 192 9/16 in. (30.6 x 489.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1989.363.34"
+ },
+ "summary": "Handscroll。China。Yuan dynasty (1271–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1989_363_34_sec01_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51870",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/51870.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

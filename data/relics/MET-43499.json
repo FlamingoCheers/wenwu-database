@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-43499",
+ "name": "Fragment",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1902,
+  1902
+ ],
+ "category": "杂器",
+ "material": "Nephrite, yellow and greenish yellow",
+ "dimensions": "H. 2 1/4 in. (5.7 cm); W. 2 3/4 in. (7 cm); Th. 1 in. (2.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.90"
+ },
+ "summary": "Fragment。China (possibly Turkestan)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/02_18_90 Fragment.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/43499",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/43499.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

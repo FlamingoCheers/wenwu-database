@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-40454",
+ "name": "Beneficent Rain",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1268,
+  1316
+ ],
+ "category": "杂器",
+ "material": "Handscroll; ink on silk",
+ "dimensions": "Image: 10 9/16 x 107 in. (26.8 x 271.8 cm)\r\nOverall with mounting: 11 in. x 24 ft. 11 13/16 in. (27.9 x 753.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.227.2"
+ },
+ "summary": "Handscroll。China。Yuan dynasty (1271–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP213969_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40454",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/40454.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

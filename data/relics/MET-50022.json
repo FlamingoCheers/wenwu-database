@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-50022",
+ "name": "Dish with Rock, Peonies, Chrysanthemums, and Fungus",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1534,
+  1566
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted with colored enamels over transparent glaze (Jingdezhen ware)",
+ "dimensions": "H. 7 1/2 in. (19.1 cm); W. 7 7/16 in. (18.9 cm); D. 1 5/8 in. (4.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "19.137"
+ },
+ "summary": "Dish。China。Ming dynasty (1368–1644), Jiajing mark and period (1522–66)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14609-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/50022",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/50022.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

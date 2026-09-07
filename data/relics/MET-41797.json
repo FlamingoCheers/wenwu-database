@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-41797",
+ "name": "Ink Pond Clouds",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1871,
+  1933
+ ],
+ "category": "杂器",
+ "material": "Pine soot and binding medium; inscribed in gilt",
+ "dimensions": "H. 3 5/8 in. (9.2 cm); W. 2 3/4 in. (7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.76.217"
+ },
+ "summary": "Ink tablet。China。late Qing dynasty (1644–1911) or early Republic period (1912–49)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/30_76_217_B.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/41797",
+ "license": "CC0",
+ "tags": [
+  "植物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/41797.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

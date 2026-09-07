@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-41481",
+ "name": "Landscapes after old masters",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1674,
+  1677
+ ],
+ "category": "杂器",
+ "material": "Album of twelve leaves; ink and color on paper",
+ "dimensions": "Ten paintings by Wang Hui (a–j): 8 5/8 x 13 1/4 in. (22 x 33.8 cm); two paintings by Wang Shimin (k, l): 10 x 13 in. (25.4 x 33 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1989.141.4a–rr"
+ },
+ "summary": "Album。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP154156_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/41481",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/41481.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

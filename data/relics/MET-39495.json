@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-39495",
+ "name": "Textile with Aquatic Birds and Recumbent Animal",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1200,
+  1299
+ ],
+ "category": "杂器",
+ "material": "Silk tapestry (kesi)",
+ "dimensions": "Overall: 11 1/4 x 24 1/2 in. (28.6 x 62.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1997.7"
+ },
+ "summary": "Textile。Eastern Central Asia or North China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT4121.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39495",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39495.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-50960",
+ "name": "Covered ewer with plum blossoms",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1733
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with a clear glaze (Dehua ware)",
+ "dimensions": "H. 4 1/2  in. (11.4 cm); W. 3 3/8 in. (8.6 cm); D. 2 5/8 in. (6.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "79.2.486a, b"
+ },
+ "summary": "Covered ewer。China。Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-35306-002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/50960",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/50960.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

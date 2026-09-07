@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-124880",
+ "name": "Jewelry set",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1890,
+  1910
+ ],
+ "category": "金银器",
+ "material": "silver",
+ "dimensions": "Diameter (a): 9 in. (22.9 cm)\r\nWidth (b, c): 3 in. (7.6 cm)\r\nWidth (d, e): 3 in. (7.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2005.356a–e"
+ },
+ "summary": "Jewelry Set。China (Miao-Geyi)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/TR.364.2a-e.2005.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/124880",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/124880.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

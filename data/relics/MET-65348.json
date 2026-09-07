@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-65348",
+ "name": "\"Inkstone\" and cover in the shape of a turtle",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  581,
+  699
+ ],
+ "category": "陶器",
+ "material": "Earthenware",
+ "dimensions": "H. 3 1/2  in. (8.9 cm);  W. 9 1/4  in. (23.5 cm); L. 11 5/8 in. (29.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2003.82a, b"
+ },
+ "summary": "Covered inkstone。China。Sui (581–618)–Tang (618–907) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP224994.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/65348",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "文房",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/65348.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

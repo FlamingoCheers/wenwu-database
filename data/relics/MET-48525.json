@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-48525",
+ "name": "Tomb guardian beast",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  400,
+  589
+ ],
+ "category": "陶器",
+ "material": "Earthenware with trace of pigment",
+ "dimensions": "H. 8 1/2 in. (21.6 cm); W. 3 3/4 in. (9.5 cm); L. 11 1/2 in. (29.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "68.149.5"
+ },
+ "summary": "Figure。China。Northern Wei dynasty (386–534)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-46644-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/48525",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/48525.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

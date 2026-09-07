@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-51863",
+ "name": "Mountains and Pavilions",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1368,
+  1911
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink and color on silk",
+ "dimensions": "Image: 43 1/16 x 16 1/8 in. (109.4 x 40.9 cm)\r\nOverall with mounting: 76 1/4 x 22 in. (193.7 x 55.9 cm)\r\nOverall with knobs: 76 1/4 x 25 1/8 in. (193.7 x 63.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1979.437"
+ },
+ "summary": "Hanging scroll。China。Ming (1368–1644) or Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-36814-002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51863",
+ "license": "CC0",
+ "tags": [
+  "山水",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51863.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

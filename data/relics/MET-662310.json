@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-662310",
+ "name": "Wine beaker (Gu)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1299,
+  -1200
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 12 in. (30.5 cm); Diam. of rim: 3 1/2 in. (8.9 cm); Diam. of base: 6 1/2 in. (16.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2015.52"
+ },
+ "summary": "Wine beaker。China。Shang dynasty (ca. 1600–1046 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP702326.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/662310",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/662310.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

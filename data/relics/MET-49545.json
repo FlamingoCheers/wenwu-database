@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-49545",
+ "name": "Seated Falconer",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  534,
+  599
+ ],
+ "category": "陶器",
+ "material": "Earthenware with red and white pigments",
+ "dimensions": "H. 6 in. (15.2 cm); W. 5 3/4 in. (14.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2015.500.7.7"
+ },
+ "summary": "One of a pair of figures。China。Northern Wei (386–534)–Northern Qi (550–577) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP702295.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49545",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49545.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

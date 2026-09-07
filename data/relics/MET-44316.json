@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-44316",
+ "name": "Seal with Knob in the Shape of a Turtle",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -10,
+  210
+ ],
+ "category": "金银器",
+ "material": "Silver",
+ "dimensions": "H. 1/4 in. (0.7 cm); W. 1 in. (2.5 cm); D. 1 in. (2.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1994.605.14"
+ },
+ "summary": "Seal。China。Eastern Han dynasty (25–220)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/35696.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44316",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "玺印封泥",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44316.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

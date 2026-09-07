@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-51991",
+ "name": "Brick from the Porcelain Pagoda",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1403,
+  1430
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with white glaze (Jingdezhen ware)",
+ "dimensions": "H. 3 1/8 in. (7.9 cm); W. 10 5/8 in. (27.0 cm); D. 5 7/8 in. (14.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "89.7b"
+ },
+ "summary": "Brick。China。Ming dynasty (1368–1644), Yongle period (1403–24)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/28696.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51991",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51991.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

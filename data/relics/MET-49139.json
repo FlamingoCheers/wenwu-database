@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-49139",
+ "name": "Vase (Hu)",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -2400,
+  -2000
+ ],
+ "category": "陶器",
+ "material": "Burnished earthenware",
+ "dimensions": "H. 12 1/8 in. (30.8 cm); Diam. 4 3/4 in. (12.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "50.61.7a, b"
+ },
+ "summary": "Vase。China。Neolithic period, Liangzhu culture (ca. 3200–2000 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/202507.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49139",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49139.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

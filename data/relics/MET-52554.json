@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-52554",
+ "name": "Armored warrior with shield",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  500,
+  599
+ ],
+ "category": "陶器",
+ "material": "Earthenware with traces of pigment",
+ "dimensions": "H. 13 3/4 in. (34.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "51.156.1"
+ },
+ "summary": "Figure。China。Northern Wei dynasty (386–534)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/151432.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52554",
+ "license": "CC0",
+ "tags": [
+  "战争",
+  "兵器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52554.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

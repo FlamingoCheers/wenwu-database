@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-50739",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with greyish-blue crackled glaze (Ru yao type)",
+ "dimensions": "H. 4 7/8 in. (12.4 cm); Diam. 3 15/16 in. (10 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "65.86.34"
+ },
+ "summary": "Vase。China。Qing dynasty (1644–1911), Qianlong mark and period (1736–95)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/65_86_34_182491.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/50739",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/50739.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

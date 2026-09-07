@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-49386",
+ "name": "Miniature wine warmer (Jue)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1335,
+  -1300
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 4 5/8 in. (11.7 cm); W. 2 5/8 in. (6.7 cm); L. at spout 4 1/16 in. (10.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "49.135.8"
+ },
+ "summary": "Wine warmer。China。Shang dynasty (ca. 1600–1046 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP151354.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49386",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49386.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

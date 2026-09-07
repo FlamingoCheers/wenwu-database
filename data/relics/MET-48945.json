@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-48945",
+ "name": "Landscape after Dong Yuan, Juran, Ma Yuan, and Xia Gui",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1655,
+  1655
+ ],
+ "category": "杂器",
+ "material": "Handscroll; ink and color on paper",
+ "dimensions": "Image: 11 x 126 in. (27.9 x 320 cm)\r\nOverall with mounting: 13 1/2 x 365 5/8 in. (34.3 x 928.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1977.87"
+ },
+ "summary": "Handscroll。China。Ming (1368–1644)–early Qing (1644–1911) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP213260_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/48945",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/48945.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

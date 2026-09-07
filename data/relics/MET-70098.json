@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-70098",
+ "name": "Mythical realm",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1767,
+  1795
+ ],
+ "category": "杂器",
+ "material": "Silk tapestry (kesi) with ink and color",
+ "dimensions": "OVerall: 66 1/2 x 24 1/4 in. (168.91 x 61.59 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "54.158.2"
+ },
+ "summary": "Panel (one of a pair)。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/54_158_1_F_aftercons.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/70098",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/70098.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

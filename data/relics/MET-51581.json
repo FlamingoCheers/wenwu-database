@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-51581",
+ "name": "One hundred portraits of Peking opera characters",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1867,
+  1911
+ ],
+ "category": "金银器",
+ "material": "Album of fifty leaves; ink, color, and gold on silk",
+ "dimensions": "Image (each): 10 3/8 × 8 1/4 in. (26.4 × 21 cm)\r\nOverall (each leaf): 12 7/8 × 9 3/8 in. (32.7 × 23.8 cm)\r\nOverall (each double leaf): 12 7/8 × 18 3/4 in. (32.7 × 47.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.76.299a–xx"
+ },
+ "summary": "Album。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP280073.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51581",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/51581.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-52713",
+ "name": "Altar Bowl with Fish",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1400,
+  1433
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in copper red under transparent glaze (Jingdezhen ware)",
+ "dimensions": "H. 3 7/8 in. (9.8 cm); Diam. 5 in. (12.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "19.155.1"
+ },
+ "summary": "Bowl。China。Ming dynasty (1368–1644), Xuande mark and period (1426–35)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14609-082.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52713",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "礼制",
+  "祭祀",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52713.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

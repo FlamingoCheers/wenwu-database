@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-61242",
+ "name": "Mounting in Form of a Human Mask",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -1046,
+  -256
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 1 5/8 in. (4.1 cm); W. 2 1/16 in. (5.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "49.136.2"
+ },
+ "summary": "Mounting。China。Zhou dynasty (1046–256 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP167705.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61242",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/61242.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

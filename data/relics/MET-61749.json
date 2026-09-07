@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-61749",
+ "name": "Figure seated on lotiform base",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "杂器",
+ "material": "Stucco",
+ "dimensions": "a. H. 22 3/4 in. (57.8 cm); W. 15 3/4 in. (40 cm); D. 10 1/2 in. (26.7 cm)\r\nb. H. 8 1/4 in. (21 cm); W. 19 in. (48.3 cm); D. 12 3/4 in. (32.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "58.64.32a, b"
+ },
+ "summary": "Figure。China。early Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP219042.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61749",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/61749.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-43880",
+ "name": "Incense burner with cover",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1796,
+  1820
+ ],
+ "category": "杂器",
+ "material": "Nephrite, white with greenish tint and cloudings and veinings of lighter color and different shades of brown",
+ "dimensions": "H. 3 3/8 in. (8.5 cm); W. 6 15/16 in. (17.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.702a, b"
+ },
+ "summary": "Incense burner with cover。China。Qing dynasty (1644–1911), Jiaqing period (1796–1820)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/14883.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/43880",
+ "license": "CC0",
+ "tags": [
+  "香文化",
+  "照明"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/43880.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

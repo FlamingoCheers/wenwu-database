@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-51764",
+ "name": "Dragon-boat festival performance",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1767,
+  1833
+ ],
+ "category": "杂器",
+ "material": "Silk and metal thread tapestry (kesi)",
+ "dimensions": "30 × 42 1/2 in. (76.2 × 108 cm)\r\nPressure-mounted: 35 × 47 × 1 1/2 in. (88.9 × 119.4 × 3.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "49.47"
+ },
+ "summary": "Panel。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-15147-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51764",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物",
+  "出行"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51764.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

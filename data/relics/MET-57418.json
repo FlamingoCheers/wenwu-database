@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-57418",
+ "name": "Jar with cover and saucer",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1000,
+  1099
+ ],
+ "category": "瓷器",
+ "material": "Porcelain covered with bluish green glaze (Jingdezhen Qingbai ware)",
+ "dimensions": "H. 2 5/8 in. (6.7 cm); Diam. of saucer 3 7/8 in. (9.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "17.175.2a–c"
+ },
+ "summary": "Jar with saucer。China (?)。Northern Song dynasty (960–1127)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/17_175_2a-c.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/57418",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/57418.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

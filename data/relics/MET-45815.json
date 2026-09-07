@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-45815",
+ "name": "Planting Chrysanthemums",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1500,
+  1599
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink and color on paper",
+ "dimensions": "Image: 42  × 10 3/4 in. (106.7 × 27.3 cm)\r\nOverall with mounting: 8 ft. 11 1/4 in. × 19 in. (272.4 × 48.3 cm)\r\nOverall with knobs: 8 ft. 11 1/4 in. × 22 1/2 in. (272.4 × 57.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1986.266.3"
+ },
+ "summary": "Hanging scroll。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT5558.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/45815",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/45815.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

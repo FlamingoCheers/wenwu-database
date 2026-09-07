@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-59468",
+ "name": "Cheekpiece for Bridle in the Shape of a Leopard",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -599,
+  -300
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 5/8 in. (1.6 cm); L. 5 1/2 in. (14 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2002.201.36"
+ },
+ "summary": "Bridle fitting。Northeast China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/2002_201_36_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/59468",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/59468.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

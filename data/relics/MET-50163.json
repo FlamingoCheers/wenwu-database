@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-50163",
+ "name": "Monteith",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1733
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in overglaze famille verte enamels and gilt",
+ "dimensions": "L. 21 3/4 in. (55.2 cm); W. 15 in. (38.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1974.369.8"
+ },
+ "summary": "Monteith。China。Qing dynasty (1644–1911), probably Kangxi period (late)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/ADA4937.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/50163",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/50163.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

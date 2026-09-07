@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-63407",
+ "name": "Page from the Ten Bamboo Studio Manual of Painting and Calligraphy",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1633,
+  1633
+ ],
+ "category": "杂器",
+ "material": "Leaf from a printed book; ink and color on paper",
+ "dimensions": "9 15/16 x 11 9/16 in. (25.2 x 29.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "CP79"
+ },
+ "summary": "Print。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-CP79_001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/63407",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/63407.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

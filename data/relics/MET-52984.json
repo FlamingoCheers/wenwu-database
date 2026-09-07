@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-52984",
+ "name": "Jar with lotus scrolls",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1500,
+  1533
+ ],
+ "category": "瓷器",
+ "material": "Porcelain applied with slip over blue glaze (Jingdezhen ware)",
+ "dimensions": "H. 11 5/16 in. (28.7 cm); Diam. 11 7/8 in. (30.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "24.173a, b"
+ },
+ "summary": "Jar。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/24_173ab_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52984",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52984.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-40007",
+ "name": "Cloudy Mountains",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1127,
+  1199
+ ],
+ "category": "杂器",
+ "material": "Handscroll; ink on paper",
+ "dimensions": "Image: 10 7/8 × 22 7/16 in. (27.6 × 57 cm)\r\nOverall with mounting: 11 3/16 in. × 24 ft. 6 3/16 in. (28.4 × 747.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1973.121.1"
+ },
+ "summary": "Handscroll。China。Southern Song dynasty (1127–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP212993_4_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40007",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/40007.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

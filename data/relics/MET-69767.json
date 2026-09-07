@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-69767",
+ "name": "Textile fragment with dragon medallions",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1600,
+  1699
+ ],
+ "category": "杂器",
+ "material": "Silk satin brocaded with silk and metal thread",
+ "dimensions": "12 1/4 × 18 in. (31.1 × 45.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "46.133.21"
+ },
+ "summary": "Textile fragment。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-46_133_21_obverse.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/69767",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/69767.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

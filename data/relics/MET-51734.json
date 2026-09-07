@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-51734",
+ "name": "Two Buddhist Paintings",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  670,
+  797
+ ],
+ "category": "杂器",
+ "material": "Single leaf and single accordian-fold manuscript; ink and color on paper",
+ "dimensions": "(a.) 22 1/2 x 16 5/8 in. (57.2 x 42.2 cm);\r\n(b.) 11 1/2 x 52 1/4 in. (29.2 x 132.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "47.18.131a, b"
+ },
+ "summary": "Leaves。China。Tang dynasty (618–907) (?)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP159123.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51734",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51734.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

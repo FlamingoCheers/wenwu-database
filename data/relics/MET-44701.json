@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-44701",
+ "name": "Bamboo and rock",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1350,
+  1377
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink on paper",
+ "dimensions": "Image: 53 3/16 x 16 5/8 in. (135.1 x 42.2 cm)\r\nOverall with mounting: 104 1/4 x 23 7/8 in. (264.8 x 60.6 cm)\r\nOverall with knobs: 104 1/4 x 27 1/8 in. (264.8 x 68.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1991.438.1"
+ },
+ "summary": "Hanging scroll。China。Yuan dynasty (1271–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT6777.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44701",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44701.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

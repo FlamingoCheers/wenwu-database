@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-69065",
+ "name": "Emperor's Twelve-Symbol Robe for Summer",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1875,
+  1908
+ ],
+ "category": "杂器",
+ "material": "Silk, metallic thread",
+ "dimensions": "57 3/4 x 57 in. (146.69 x 144.78 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "35.84.7"
+ },
+ "summary": "Robe, Emperor's 12-Symbol, for Summer。China。Qing dynasty (1644–1911), Guangxu period (1875–1908)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/100831.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/69065",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/69065.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

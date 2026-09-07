@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-53549",
+ "name": "Album",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1867,
+  1899
+ ],
+ "category": "杂器",
+ "material": "Album of twelve leaves; ink and color on pith paper, bound in red damask",
+ "dimensions": "8 3/4 x 13 1/8 in. (22.2 x 33.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "43.157"
+ },
+ "summary": "Album。China。Qing dynasty (?) (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP156899.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/53549",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/53549.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

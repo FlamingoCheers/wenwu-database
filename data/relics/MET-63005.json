@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-63005",
+ "name": "Camel with saddle bags",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  567,
+  633
+ ],
+ "category": "陶器",
+ "material": "Earthenware with traces of pigment",
+ "dimensions": "H. 13 5/8 in. (34.6 cm); L. 16 in. (40.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1974.289.4"
+ },
+ "summary": "Figure。China。Sui (581–618) or early Tang (618–907) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/205439.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/63005",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "出行"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/63005.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

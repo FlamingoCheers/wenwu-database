@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-64880",
+ "name": "Cup with double fish",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1199
+ ],
+ "category": "金银器",
+ "material": "Silver with chased decoration and gilding",
+ "dimensions": "H. 2 3/4 in. (7 cm); W. at handle 7 1/4 in. (18.4 cm); Diam. 6 1/8 in. (15.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2002.207"
+ },
+ "summary": "Cup。China。Southern Song dynasty (1127–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT5402.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/64880",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/64880.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

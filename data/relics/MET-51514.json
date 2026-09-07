@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-51514",
+ "name": "Family Training",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1600,
+  1913
+ ],
+ "category": "杂器",
+ "material": "Ten panels mounted as a handscroll; ink and color on silk",
+ "dimensions": "Image (each panel, approx.): 13 3/8 × 16 1/4 in. (34 × 41.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "13.220.125"
+ },
+ "summary": "Panels mounted as a handscroll。China。Ming (1368–1644) or Qing (1644–1911) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP216154_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51514",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/51514.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

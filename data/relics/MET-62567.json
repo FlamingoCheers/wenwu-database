@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-62567",
+ "name": "Model of a House",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -206,
+  220
+ ],
+ "category": "陶器",
+ "material": "Earthenware with trace of pigments",
+ "dimensions": "a: H. 9 3/4 in. (24.8 cm); W. 18 3/4 in. (47.6 cm); D. 10 1/2 in. (26.7 cm), \r\nb: H. 21 1/8 in. (53.7 cm); W. 20 3/8 in. (51.8 cm); D. 9 3/4 in. (24.8 cm)\r\nc: H. 3 1/4 in. (8.3 cm); W. 26 1/2 in. (67.3 cm); D. 15 1/4 in. (38.7 cm)\r\nd: H. 2 3/4 in. (7 cm); W. 18 7/8 in. (47.9 cm); D. 8 3/4 in. (22.2 cm)\r\ne: H. 9 7/8 in. (26.1 cm); W. base 19 1/2 in. (49.5 cm); D. base 8 3/4 in. (22.2 cm); W. top 15 1/2 in. (39.4 cm); D. top 5 1/8in. (13 cm)\r\nf: H. 3 5/8 in. (9.2 cm); W. 15 7/16 in. (39.2 cm); D. 8 in. (20.3 cm)\r\n\r\n\r\na. wt. 24.2 lbs\r\nb. wt. 49.6 lbs\r\nc. wt. 18 lbs\r\nd. wt. 6.5 lbs\r\ne. wt. 20.2 lbs\r\nf. wt. 4.8 lbs\r\n\r\nCSR Survey - 8/6/2025 - measured by AC",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "51.127.2a–f"
+ },
+ "summary": "Tomb sculpture。China。Eastern Han dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/156471.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/62567",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/62567.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

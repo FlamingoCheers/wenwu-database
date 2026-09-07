@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-69923",
+ "name": "Imperial Twelve-Symbol Robe for Boy Emperor",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1862,
+  1908
+ ],
+ "category": "杂器",
+ "material": "Silk, metallic thread",
+ "dimensions": "L. 36 in. (91.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "49.108"
+ },
+ "summary": "Robe, Imperial Twelve Symbols for Boy Emperor。China。Qing dynasty, Tongzhi (1862–74)–Guangxu (1875–1908) period",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/145774.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/69923",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/69923.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

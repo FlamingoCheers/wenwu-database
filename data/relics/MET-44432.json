@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-44432",
+ "name": "Dish with mythical creatures",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  567,
+  599
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with relief and impressed decoration under celadon glaze (Northern ware)",
+ "dimensions": "H. 1 1/2 in. (3.8 cm); Diam. 5 1/8 in. (13 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1998.335"
+ },
+ "summary": "Dish。China。Northern Zhou (557–581) to Sui Dynasty (581–619)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT4326.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44432",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "玺印封泥",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44432.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

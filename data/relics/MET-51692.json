@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-51692",
+ "name": "Daoist Riding Horned Animal",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "杂器",
+ "material": "Album leaf; ink and color on silk",
+ "dimensions": "12 1/2 x 8 3/4 in. (31.8 x 22.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "47.18.78"
+ },
+ "summary": "Album leaf。China。Song dynasty (?) (960–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP153549.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51692",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51692.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

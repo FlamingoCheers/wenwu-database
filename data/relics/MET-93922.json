@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-93922",
+ "name": "Skirt",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1850
+ ],
+ "category": "杂器",
+ "material": "Silk, bast fiber, fur",
+ "dimensions": "(a): 39 × 29 1/4 in. (99.1 × 74.3 cm)\r\n(b): 39 × 31 in. (99.1 × 78.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1973.110.2a, b"
+ },
+ "summary": "Skirt。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1973.110.2ab_F.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/93922",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/93922.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

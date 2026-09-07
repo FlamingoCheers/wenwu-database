@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-59504",
+ "name": "Sixteen Belt Ornaments",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -399,
+  -300
+ ],
+ "category": "青铜器",
+ "material": "Tinned bronze",
+ "dimensions": "a: H. 2 in. (5.1 cm); W. 3 1/8 in. (7.9 cm)\r\nb–p: H. 1 1/8 in. (2.9 cm); W. 2 in. (5.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2002.201.82a–p"
+ },
+ "summary": "Belt ornaments。Northwest China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/2002_201_82a-p.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/59504",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/59504.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

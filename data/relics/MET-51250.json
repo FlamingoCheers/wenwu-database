@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-51250",
+ "name": "Embroidered Panel with Daoist Magician",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1500,
+  1599
+ ],
+ "category": "杂器",
+ "material": "Silk and metallic thread embroidery on silk satin",
+ "dimensions": "Framed: 68 3/4 x 26 in. (174.6 x 66 cm)\r\nOverall: 49 1/4 x 15in. (125.1 x 38.1cm)\r\nMount: 26 x 68 3/4 in. (66 x 174.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "47.18.59"
+ },
+ "summary": "Panel。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/SC53237.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51250",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51250.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-52560",
+ "name": "Figure of a rider",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  220,
+  399
+ ],
+ "category": "陶器",
+ "material": "Earthenware",
+ "dimensions": "H. 14 1/4 in. (36.2 cm); W. 7 1/2 in. (19.1 cm); D. 4 in. (10.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "64.69"
+ },
+ "summary": "Figure。China。Six Dynasties (220–589)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/64_69_179566.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52560",
+ "license": "CC0",
+ "tags": [
+  "日常生活"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52560.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

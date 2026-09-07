@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-43882",
+ "name": "Girdle plaque",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "杂器",
+ "material": "Nephrite, white with greenish-gray tint",
+ "dimensions": "H. 5/8 in. (1.6 cm); W. 3 3/4 in. (9.6 cm); D. 2 11/16 in. (6.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.559"
+ },
+ "summary": "Girdle plaque。China。Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/02_18_559_O1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/43882",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/43882.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

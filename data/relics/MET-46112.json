@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-46112",
+ "name": "Figure of a standing warrior",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  799
+ ],
+ "category": "陶器",
+ "material": "Earthenware with trace of pigment",
+ "dimensions": "H. 23 1/4 in. (59.1 cm); W. 8 1/2 in. (21.6 cm); D. 5 in. (12.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "13.101.1"
+ },
+ "summary": "Figure。China。Tang dynasty (618–907)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/16426.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/46112",
+ "license": "CC0",
+ "tags": [
+  "日常生活",
+  "动物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/46112.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

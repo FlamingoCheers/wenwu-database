@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-49575",
+ "name": "Guardian Lion",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  534,
+  566
+ ],
+ "category": "杂器",
+ "material": "Limestone",
+ "dimensions": "H. 25 3/4 in. (65.4 cm); W. 22 in. (55.9 cm); D. 23 in. (58.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.66.1"
+ },
+ "summary": "Figure。China。Northern Qi dynasty (550–577)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP372039.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49575",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49575.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

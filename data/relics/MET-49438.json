@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-49438",
+ "name": "Chariot Yoke Ornament in the Shape of a Doe",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -399,
+  -300
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 3 11/16 in. (9.4 cm); W. 4 1/2 in. (11.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.214.88"
+ },
+ "summary": "Chariot yoke ornament。North China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/h1_85.214.88.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49438",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "出行"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49438.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-60762",
+ "name": "Ten Bamboo Studio",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1821,
+  1850
+ ],
+ "category": "竹木牙角",
+ "material": "Six volumes of woodblock-printed books; ink and color on paper",
+ "dimensions": "10 1/2 × 12 3/8 × 1/8 in. (26.7 × 31.4 × 0.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "CIB6a–f"
+ },
+ "summary": "Illustrated book。China。Qing dynasty (1644–1911), Daoguang period (1821–50)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/CIB6_d1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/60762",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/60762.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

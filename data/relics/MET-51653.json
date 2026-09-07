@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-51653",
+ "name": "Eight Buddhist Paintings",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "杂器",
+ "material": "Eight leaves; ink and color on paper",
+ "dimensions": "Image (a): 10 3/4 x 7 1/2 in. (27.3 x 19.1 cm)\r\nImage (b): 30 x 21 in. (76.2 x 53.3 cm); Framed (b): 35 × 25 3/4 in. (88.9 × 65.4 cm)\r\nImage (c): 7 1/4 x 5 1/2 in. (18.4 x 14 cm)\r\nImage (d): 10 3/16 x 7 7/8 in. (25.9 x 20 cm)\r\nImage (e): 12 3/4 x 8 5/16 in. (32.4 x 21.1 cm)\r\nImage (f): 13 7/8 x 10 3/4 in. (35.2 x 27.3 cm)\r\nImage (g): 10 7/8 x 7 1/2 in. (27.6 x 19.1 cm)\r\nImage (h): 13 1/8 x 11 1/2 in. (33.3 x 29.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "47.18.26a–h"
+ },
+ "summary": "Paintings。China。Tang dynasty (618–907) (?)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP159111.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51653",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51653.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

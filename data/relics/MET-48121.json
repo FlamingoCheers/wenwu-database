@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-48121",
+ "name": "Tea bowl with decoration of six-petaled flowers",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1299
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with black and brown glazes and paper-cut designs (Jizhou ware)",
+ "dimensions": "H. 2 5/8 in. (6.7 cm); Diam. 5 in. (12.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "29.100.223"
+ },
+ "summary": "Bowl。China。Southern Song dynasty (1127–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP342686.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/48121",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "茶文化",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/48121.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

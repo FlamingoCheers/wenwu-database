@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-64045",
+ "name": "The \"Heart\" Sutra written in cursive script",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1900,
+  1999
+ ],
+ "category": "杂器",
+ "material": "Ink on paper",
+ "dimensions": "Image (a): 14 × 43 in. (35.6 × 109.2 cm)\r\nImage (b): 13 1/4 × 41 1/2 in. (33.7 × 105.4 cm)\r\nImage (c): 13 3/4 × 22 1/2 in. (34.9 × 57.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1977.375.30a–c"
+ },
+ "summary": "Rubbing。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1977_375_30a_c_label_strip_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/64045",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/64045.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

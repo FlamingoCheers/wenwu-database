@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-50239",
+ "name": "Figure",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1200,
+  1399
+ ],
+ "category": "瓷器",
+ "material": "Stoneware painted in underglaze black, overglaze polychrome enamels (Cizhou ware)",
+ "dimensions": "H. 9 1/2 in. (24.1 cm); W. 4 1/2 in. (11.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "55.135.3"
+ },
+ "summary": "Figure。China。Jin (1115–1234)–Yuan (1271–1368) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/159953.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/50239",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/50239.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-69965",
+ "name": "Table valance with dragon",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1820,
+  1820
+ ],
+ "category": "杂器",
+ "material": "Silk embroidery over silk satin",
+ "dimensions": "32 1/2 × 35 in. (82.6 × 88.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "52.111"
+ },
+ "summary": "Valance。China。Qing dynasty (1644–1911), Jiaqing period (1796–1820)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-52_111_F.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/69965",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/69965.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

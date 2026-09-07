@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-70430",
+ "name": "Panel with floral medallions",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1799
+ ],
+ "category": "杂器",
+ "material": "Silk lampas",
+ "dimensions": "66 5/8 × 26 7/8 in. (169.2 × 68.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "66.162.2"
+ },
+ "summary": "Panel。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-66_162_2_F.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/70430",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "照明"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/70430.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

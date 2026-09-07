@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-44339",
+ "name": "Chinese zodiac figure, snake",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1200,
+  1299
+ ],
+ "category": "陶器",
+ "material": "Grey earthenware with pigment",
+ "dimensions": "H. 4 3/8 in. (11.1 cm); W. 3 in. (7.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1994.605.38"
+ },
+ "summary": "Figure。China。Jin (1115–1234) to Yuan dynasty (1279–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-18686-002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44339",
+ "license": "CC0",
+ "tags": [
+  "天文历法",
+  "生肖",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44339.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

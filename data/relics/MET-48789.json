@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-48789",
+ "name": "Tomb guardian beasts with dog",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  799
+ ],
+ "category": "陶器",
+ "material": "Earthenware with pale green glaze",
+ "dimensions": "a: 12 7/8 × 5 × 6 1/4 in. (32.7 × 12.7 × 15.9 cm)\r\nb: 11 × 4 3/4 × 6 1/4 in. (27.9 × 12.1 × 15.9 cm)\r\nc (dog): 4 1/2 in. × 2 in. × 3 in. (11.4 × 5.1 × 7.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "13.220.77a–c"
+ },
+ "summary": "Figures。China。Tang dynasty (618–907)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-46641-001_group.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/48789",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/48789.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

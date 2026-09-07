@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-49074",
+ "name": "Landscapes, Flowers and Birds",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1639,
+  1639
+ ],
+ "category": "书画",
+ "material": "Album of eight paintings; ink and color on paper",
+ "dimensions": "11 1/8 x 8 7/8 in. (28.3 x 22.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1981.285.3a–h"
+ },
+ "summary": "Album。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP161114_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49074",
+ "license": "CC0",
+ "tags": [
+  "山水",
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49074.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

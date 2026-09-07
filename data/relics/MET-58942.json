@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-58942",
+ "name": "Pole Base in the Form of a Tiger",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -206,
+  220
+ ],
+ "category": "杂器",
+ "material": "Steatite",
+ "dimensions": "Gr. H. 2 in. (5.1 cm); L. 5 1/8 in. (13 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2001.264"
+ },
+ "summary": "Pole base。China。Han dynasty (206 BCE–220 CE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP158753.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/58942",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "茶文化",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/58942.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

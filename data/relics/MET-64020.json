@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-64020",
+ "name": "Rubbings of Yishan stele",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1900,
+  1999
+ ],
+ "category": "杂器",
+ "material": "Ink on paper",
+ "dimensions": "Image (a): 58 1/2 × 30 7/8 in. (148.6 × 78.4 cm)\r\nImage (b): 59 5/8 in. × 28 in. (151.4 × 71.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1977.375.5"
+ },
+ "summary": "Rubbing。China。Modern",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1977_375_5_label_strip_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/64020",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/64020.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

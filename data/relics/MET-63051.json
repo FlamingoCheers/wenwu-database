@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-63051",
+ "name": "Carved Finial",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -400,
+  -200
+ ],
+ "category": "杂器",
+ "material": "Bone",
+ "dimensions": "H. 1 11/16 in. (4.3 cm); W. 1 1/2 in. (3.8 cm); D. 1/2 in. (1.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2002.201.204"
+ },
+ "summary": "Finial。Northwest China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/2002_201_204_O.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/63051",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/63051.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

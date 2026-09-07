@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-40508",
+ "name": "Twin Pines, Level Distance",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1310,
+  1310
+ ],
+ "category": "杂器",
+ "material": "Handscroll; ink on paper",
+ "dimensions": "Image: 10 9/16 x 42 5/16 in. (26.8 x 107.5 cm)\r\nOverall with mounting: 10 15/16 x 25 ft. 7 11/16 in. (27.8 x 781.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1973.120.5"
+ },
+ "summary": "Handscroll。China。Yuan dynasty (1271–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP153682.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40508",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/40508.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-50661",
+ "name": "Lobed bowl",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1099
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with ivory glaze (Ding ware)",
+ "dimensions": "H. 2 1/4 in. (5.7 cm); Diam. 7 in. (17.8 cm); Diam. of foot 2 1/8 in. (5.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.214.134"
+ },
+ "summary": "Bowl。China。Northern Song dynasty (960–1127)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1985_214_134_S1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/50661",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/50661.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

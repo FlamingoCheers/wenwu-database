@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-42323",
+ "name": "Teapot in the Shape of a Plum Blossom",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1600,
+  1633
+ ],
+ "category": "瓷器",
+ "material": "Stoneware (Yixing ware)",
+ "dimensions": "H. 3 3/4 in. (9.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1982.362a, b"
+ },
+ "summary": "Teapot。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP342745.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42323",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "茶文化",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42323.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

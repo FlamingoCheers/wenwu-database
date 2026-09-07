@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-58453",
+ "name": "Guardian Protector of the East (Dongfang chiguo tianwang)",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1000,
+  1199
+ ],
+ "category": "青铜器",
+ "material": "Partially gilt arsenical bronze; lost-wax cast",
+ "dimensions": "H. 6 1/8 in. (15.6 cm); W. 5 1/8 in. (13 cm); D. 3 1/2 in. (8.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2001.77"
+ },
+ "summary": "Figure。China。Dali kingdom (938–1253)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP170244.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/58453",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/58453.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-42555",
+ "name": "Chimera",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  400,
+  499
+ ],
+ "category": "杂器",
+ "material": "Stone",
+ "dimensions": "H. 21 1/2 in. (54.6 cm); W. 17 7/8 in. (45.4 cm); L. 18 1/2 in. (47 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "63.224.2"
+ },
+ "summary": "Pillar top。China。Six Dynasties (220–589)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-24837-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42555",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/42555.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

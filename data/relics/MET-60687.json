@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-60687",
+ "name": "Blind with covered box",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1899
+ ],
+ "category": "漆器",
+ "material": "a: Bamboo, silk\r\nbc: Lacquered wood",
+ "dimensions": "a: 35 x 36 1/2 in. (88.9 x 92.7 cm)\r\nbc: H. 3 1/2 in. (8.9 cm); W. 4 1/2 in. (11.4 cm); L. 39 3/4 in. (101 cm)\r\nWith cover: H. 4 1/4 in. (10.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "62.97.14a–c"
+ },
+ "summary": "Blind with covered box。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/62_97_14a.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/60687",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/60687.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

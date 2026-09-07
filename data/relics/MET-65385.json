@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-65385",
+ "name": "Palaces of the Immortals",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1753,
+  1753
+ ],
+ "category": "金银器",
+ "material": "Folding fan mounted as an album leaf; ink, color, and gold on paper",
+ "dimensions": "Image: 6 1/4 x 18 1/2 in. (15.9 x 47 cm)\r\nSheet: 15 × 24 1/2 in. (38.1 × 62.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2003.132"
+ },
+ "summary": "Folding fan mounted as an album leaf。China。Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP104399.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/65385",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/65385.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

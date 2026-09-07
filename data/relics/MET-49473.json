@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-49473",
+ "name": "Tiger Calligraphy",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1890,
+  1890
+ ],
+ "category": "金银器",
+ "material": "Hanging scroll; ink on silver-flecked red paper",
+ "dimensions": "Image: 51 x 26 1/2 in. (129.5 x 67.3 cm)\r\nOverall: 83 1/2 x 31 3/4 in. (212.1 x 80.6 cm)\r\nOverall with knobs: 83 1/2 x 35 1/8 in. (212.1 x 89.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1989.363.165"
+ },
+ "summary": "Hanging scroll。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-36213-002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49473",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49473.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-42708",
+ "name": "Bodhisattva in pensive pose",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  500,
+  533
+ ],
+ "category": "杂器",
+ "material": "Limestone",
+ "dimensions": "H. 20 1/2 in. (52.1 cm); W. 12 3/4 in. (32.4 cm); D. 5 in. (12.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "39.191"
+ },
+ "summary": "Figure。China。Northern Wei dynasty (386–534)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP219039.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42708",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42708.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

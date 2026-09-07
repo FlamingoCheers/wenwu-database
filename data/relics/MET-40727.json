@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-40727",
+ "name": "Vase from a five-piece altar set",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1750,
+  1799
+ ],
+ "category": "杂器",
+ "material": "Cloisonné enamel",
+ "dimensions": "H. 13 in. (33 cm); Diam. of rim 6 1/8 in. (15.6 cm); Diam. of foot 4 5/8 in. (11.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "29.110.70"
+ },
+ "summary": "Vase。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP242377.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40727",
+ "license": "CC0",
+ "tags": [
+  "礼制",
+  "祭祀"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/40727.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

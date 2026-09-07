@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-42829",
+ "name": "Ritual object (cong)",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1868,
+  1911
+ ],
+ "category": "玉器",
+ "material": "Jade",
+ "dimensions": "H. 11/16 in. (1.7 cm); Diam. 1 3/4 in. (4.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "13.40.67"
+ },
+ "summary": "Ritual object。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/15298.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42829",
+ "license": "CC0",
+ "tags": [
+  "礼制",
+  "祭祀"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42829.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

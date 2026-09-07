@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-49170",
+ "name": "The Sixteen Luohans",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1667,
+  1667
+ ],
+ "category": "杂器",
+ "material": "Handscroll; ink on paper",
+ "dimensions": "Image: 18 1/4 in. × 19 ft. 7 3/4 in. (46.4 × 598.8 cm)\r\nOverall with mounting: 22 5/16 in. × 74 ft. 7 in. (56.7 × 2273.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.227.1"
+ },
+ "summary": "Handscroll。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP153677.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49170",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49170.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

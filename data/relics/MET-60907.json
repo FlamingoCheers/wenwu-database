@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-60907",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1522,
+  1566
+ ],
+ "category": "漆器",
+ "material": "Lacquer",
+ "dimensions": "H. 2 in. (5.1 cm); Diam. 4 in. (10.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "81.1.616"
+ },
+ "summary": "Bowl。China。Ming dynasty (1368–1644), Jiajing period (1522–66)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/81_1_616_O.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/60907",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/60907.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-51079",
+ "name": "Tea Bowl with Leaf Decoration",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1299
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with black and brown glaze and pigment (Jizhou ware)",
+ "dimensions": "H. 2 1/8 in. (5.4 cm); Diam. 5 5/8 in. (14.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "29.100.220"
+ },
+ "summary": "Bowl。China。Southern Song dynasty (1127–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP342590.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51079",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "茶文化",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51079.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

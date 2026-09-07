@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-52639",
+ "name": "Jar",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1279,
+  1368
+ ],
+ "category": "陶器",
+ "material": "Pottery (Jun ware)",
+ "dimensions": "H. 11 1/4 in. (28.6 cm); Diam. 12 1/2 in. (31.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "26.292.42"
+ },
+ "summary": "Jar。China。Yuan dynasty (?) (1271–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/26_292_42_O1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52639",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52639.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

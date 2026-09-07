@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-59573",
+ "name": "Belt Buckle with Zoomorphic Motif",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1,
+  199
+ ],
+ "category": "玻璃器",
+ "material": "Gold inlaid with glass and carnelian",
+ "dimensions": "H. 3 in. (7.6 cm); W. 4 5/8 in. (11.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2002.201.186"
+ },
+ "summary": "Belt buckle。North China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/2002_201_186_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/59573",
+ "license": "CC0",
+ "tags": [
+  "妆饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/59573.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

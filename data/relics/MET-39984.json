@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-39984",
+ "name": "Celestial Figure Emerging from a Flower",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  500,
+  699
+ ],
+ "category": "杂器",
+ "material": "Stucco with color",
+ "dimensions": "6 1/2 x 5 1/4 in. (16.5 x 13.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.32.42"
+ },
+ "summary": "Relief。China (Xinjiang Autonomous Region)。Khotan Kingdom",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP269543.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39984",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39984.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

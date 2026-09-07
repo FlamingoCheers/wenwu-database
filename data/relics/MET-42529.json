@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-42529",
+ "name": "Bowl with Lotuses",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1500,
+  1533
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted with cobalt blue under transparent glaze (Jingdezhen ware)",
+ "dimensions": "H. 3 1/2 in. (8.9 cm); Diam. 8 1/8 in. (20.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "63.155.2"
+ },
+ "summary": "Bowl。China。Ming dynasty (1368–1644), Zhengde mark and period (1506–21)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14609-166.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42529",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42529.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-45821",
+ "name": "Mei Cheng Sitting Alone",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1495,
+  1576
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink and color on paper",
+ "dimensions": "Image: 48 7/8 x 15 1/8 in. (124.1 x 38.4 cm)\r\nOverall with mounting: 87 3/8 x 30 1/8 in. (221.9 x 76.5 cm)\r\nOverall with knobs: 87 3/8 x 34 1/2 in. (221.9 x 87.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1991.273"
+ },
+ "summary": "Hanging scroll。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1991_273_O.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/45821",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/45821.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

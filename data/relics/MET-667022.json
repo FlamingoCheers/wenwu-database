@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-667022",
+ "name": "Dish with persimmons, flowers, and birds",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1500,
+  1599
+ ],
+ "category": "漆器",
+ "material": "Black lacquer with painted decoration",
+ "dimensions": "W. 6 5/16 in. (16 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2015.500.1.89"
+ },
+ "summary": "Dish。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP359521.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/667022",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/667022.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

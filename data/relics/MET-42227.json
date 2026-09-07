@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-42227",
+ "name": "Water Jar",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1678,
+  1688
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with incised decoration under peachbloom glaze (Jingdezhen ware)",
+ "dimensions": "H. 3 1/2 in. (8.9 cm); Diam. 5 in. (12.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "14.40.363"
+ },
+ "summary": "Jar。China。Qing dynasty (1644–1911), Kangxi mark and period (1662–1722)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14605-105.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42227",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42227.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

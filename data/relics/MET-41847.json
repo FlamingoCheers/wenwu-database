@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-41847",
+ "name": "Hall of Ancient Airs",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1871,
+  1933
+ ],
+ "category": "杂器",
+ "material": "Pine soot and binding medium; inscribed in gilt",
+ "dimensions": "H. 2 in. (5.1 cm); W. 2 7/8 in. (7.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.76.267"
+ },
+ "summary": "Ink tablet。China。late Qing dynasty (1644–1911) or early Republic period (1912–49)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/30_76_267_F.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/41847",
+ "license": "CC0",
+ "tags": [
+  "植物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/41847.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

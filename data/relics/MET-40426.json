@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-40426",
+ "name": "Landscape",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink and color on silk",
+ "dimensions": "Image: 68 1/2 × 35 1/2 in. (174 × 90.2 cm)\r\nOverall with mounting: 9 ft. 1 7/8 in. × 42 5/8 in. (279.1 × 108.3 cm)\r\nOverall with knobs: 9 ft. 1 7/8 in. × 46 1/4 in. (279.1 × 117.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "47.18.15"
+ },
+ "summary": "Hanging scroll。China。Ming dynasty (?) (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-44705-002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40426",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/40426.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

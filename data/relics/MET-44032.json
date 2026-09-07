@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-44032",
+ "name": "Vase with Flowers",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1796,
+  1820
+ ],
+ "category": "玉器",
+ "material": "Jadeite, the vases white with mottlings of emerald-green and a very faint lavender tint",
+ "dimensions": "H. 15 in. (38.1 cm); W. 10 in. (25.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.747"
+ },
+ "summary": "Vase with flowers。China。Qing dynasty (1644–1911), Jiaqing period (1796–1820)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/02_18_747_14710.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44032",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44032.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

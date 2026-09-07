@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-50662",
+ "name": "Belt hook",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -200,
+  -1
+ ],
+ "category": "杂器",
+ "material": "Bone",
+ "dimensions": "H. 6 1/4 in. (15.9 cm); L. 5 1/2 in. (14 cm); D. 7/8 in. (2.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.214.127"
+ },
+ "summary": "Belt hook。China。Western Han dynasty (206 BCE– 9 CE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1985_214_127_S1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/50662",
+ "license": "CC0",
+ "tags": [
+  "妆饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/50662.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

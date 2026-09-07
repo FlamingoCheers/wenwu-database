@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-43350",
+ "name": "Vase with auspicious animals",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1568,
+  1633
+ ],
+ "category": "杂器",
+ "material": "Cloisonné enamel",
+ "dimensions": "H. 12 3/4 in. (32.4 cm); W. 7 1/4 in. (18.4 cm); D. 7 1/4 in. (18.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "29.110.19a–c"
+ },
+ "summary": "Vase。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP272553.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/43350",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/43350.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

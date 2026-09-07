@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-49227",
+ "name": "The Palace of Nine Perfections",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1691,
+  1691
+ ],
+ "category": "杂器",
+ "material": "Set of twelve hanging scrolls; ink and color on silk",
+ "dimensions": "Image: 81 1/2 in. × 18 ft. 5 3/4 in. (207 × 563.2 cm)\r\nOverall with mounting: 94 1/4 in. × 19 ft. (239.4 × 579.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1982.125a–l"
+ },
+ "summary": "Hanging scrolls。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP274140.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49227",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49227.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

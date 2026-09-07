@@ -1,0 +1,44 @@
+{
+ "relic_id": "MET-39858",
+ "name": "Chess playing in an immortal realm",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "竹木牙角",
+ "material": "Bamboo root carving",
+ "dimensions": "H. 7 3/4 in. (19.7 cm); W. 4 1/4 in. (10.8 cm); D. 4 1/2 in. (11.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2015.500.6.1"
+ },
+ "summary": "Figure。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP701726.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39858",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教",
+  "植物",
+  "游戏",
+  "博戏"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39858.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

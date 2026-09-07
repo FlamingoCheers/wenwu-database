@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-51675",
+ "name": "Misty Landscape",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink and color on silk",
+ "dimensions": "45 1/4 × 20 1/2 in. (114.9 × 52.1 cm)\r\nOverall with mounting: 8 ft. 4 3/8 in. × 28 5/8 in. (255 × 72.7 cm)\r\nOverall with knobs: 8 ft. 4 3/8 in. × 30 in. (255 × 76.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "47.18.57"
+ },
+ "summary": "Hanging scroll。China。Ming dynasty (?) (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-47_18_57-004.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51675",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51675.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

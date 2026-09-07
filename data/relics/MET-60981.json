@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-60981",
+ "name": "Table screen",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1567,
+  1633
+ ],
+ "category": "漆器",
+ "material": "Lacquer inlaid with mother-of-pearl",
+ "dimensions": "Screen: H. 17 1/2 in. (44.5 cm); W. 11 in. ( 27.9 cm)\r\nScreen with stand: H. 16 3/4 in. (42.5 cm); W.  20 1/2 in. (52.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1984.340"
+ },
+ "summary": "Table screen。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14362-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/60981",
+ "license": "CC0",
+ "tags": [
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/60981.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

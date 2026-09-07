@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-665746",
+ "name": "Altar vase (one of a pair)",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1401,
+  1499
+ ],
+ "category": "杂器",
+ "material": "Copper alloy",
+ "dimensions": "H. 10 1/2 in. (26.7 cm);  Diam. 6 in. (15.2 cm)\r\nDiam. of rim: 3 3/4 in. (9.5 cm)\r\nDiam. of foot: 4 1/8 in. (10.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2014.675"
+ },
+ "summary": "Vase。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP702318.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/665746",
+ "license": "CC0",
+ "tags": [
+  "礼制",
+  "祭祀"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/665746.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

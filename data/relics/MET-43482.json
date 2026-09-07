@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-43482",
+ "name": "Fragment",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1902,
+  1902
+ ],
+ "category": "杂器",
+ "material": "Nephrite",
+ "dimensions": "a) H. 1 1/2 in. (3.8 cm); W. 2 3/8 in. (6 cm); Th. 1 3/4 in. (4.4 cm)\r\nb) H. 1 1/2 in. (3.8 cm); W. 2 3/8 in. (6 cm); Th. 1/4 in. (.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.73a, b"
+ },
+ "summary": "Fragment。China, Turkestan",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/02_18_73b Fragment.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/43482",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/43482.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-45862",
+ "name": "Amphora with dragon-shaped handles",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  600,
+  699
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with raised decoration and pale buff glaze",
+ "dimensions": "H. 20 1/8 in. (51.1 cm); Diam. 10 3/4 in. (27.3 cm); Diam. of foot 4 7/8 in. (12.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "38.56.7"
+ },
+ "summary": "Amphora。China。Tang dynasty (618–907)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14610-060.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/45862",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/45862.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

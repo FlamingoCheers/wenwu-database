@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-65163",
+ "name": "Amulet Case Surmounted by a Ram",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  600,
+  899
+ ],
+ "category": "金银器",
+ "material": "Gold",
+ "dimensions": "H. 2 in. (5.1 cm); W. (at top, inc. ram) 3/4 in. (1.9 cm); Diam. 1/2 in. (1.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2002.556.5a–d"
+ },
+ "summary": "Amulet case。China (Xinjiang Autonomous Region, Central Asia)。Period of Tibetan Empire",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP271835.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/65163",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/65163.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

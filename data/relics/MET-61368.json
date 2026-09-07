@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-61368",
+ "name": "Incense burner",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -206,
+  220
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. (to finial) 5 5/8 in. (14.3 cm); Gr. Diam. 4 1/4 in. (10.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1989.363.218a, b"
+ },
+ "summary": "Incense burner。China。Eastern Zhou (770–256 BCE)–Han (206 BCE–220 CE) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-1989_363_218ab_1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61368",
+ "license": "CC0",
+ "tags": [
+  "香文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61368.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

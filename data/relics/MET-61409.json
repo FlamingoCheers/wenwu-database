@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-61409",
+ "name": "Mirror with deities and mythical creatures",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  200,
+  399
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "Diam. 8 1/4 in. (21 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "25.218"
+ },
+ "summary": "Mirror。China。Eastern Han (25–220)–Six Dynasties (220–589)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-25_218_002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61409",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61409.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

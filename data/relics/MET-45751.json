@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-45751",
+ "name": "Traveling box with lotus scrolls",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1400,
+  1433
+ ],
+ "category": "漆器",
+ "material": "Polychromatic lacquer, leather, wood, and iron damascened with gold",
+ "dimensions": "H. 21 in. (53.3 cm); W. 15 in. (38.1 cm); D. 12 1/2 in. (31.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1999.61"
+ },
+ "summary": "Traveling box。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-23571-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/45751",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/45751.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

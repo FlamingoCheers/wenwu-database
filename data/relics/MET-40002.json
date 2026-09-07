@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-40002",
+ "name": "Landscape in the style of Fan Kuan",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1133
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink and color on silk",
+ "dimensions": "Image: 65 3/8 × 41 1/8 in. (166.1 × 104.5 cm)\r\nOverall with mounting: 9 ft. 8 1/2 in. × 49 3/4 in. (295.9 × 126.4 cm)\r\nOverall with knobs: 9 ft. 8 1/2 in. × 53 3/4 in. (295.9 × 136.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "56.151"
+ },
+ "summary": "Hanging scroll。China。Song dynasty (960–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP165244.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40002",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/40002.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

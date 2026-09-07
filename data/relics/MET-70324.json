@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-70324",
+ "name": "Fragments of Robe-Front",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1600,
+  1649
+ ],
+ "category": "杂器",
+ "material": "Silk, gilding",
+ "dimensions": "Overall (a): 42 x 35 1/4 in. (106.7 x 89.5 cm)\r\nOverall (b): 5 1/2 x 21 in. (14 x 53.3 cm)\r\nOverall (c): 20 1/4 x 5 1/4 in. (51.4 x 13.3 cm)\r\nOverall (d): 18 1/2 x 13 in. (47 x 33 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "62.62.1a–d"
+ },
+ "summary": "Robe-Front。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP14504.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/70324",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/70324.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

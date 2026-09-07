@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-50721",
+ "name": "Tea bowl",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1234
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with golden-black hare's fur glaze (Tenmoku ware?)",
+ "dimensions": "H. 1 1/4 in. (3.2 cm); Diam. 4 7/16 in. (11.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "66.187.4"
+ },
+ "summary": "Bowl。China。Jin dynasty (1115–1234)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/66_187_4_O1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/50721",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "茶文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/50721.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

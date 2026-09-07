@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-64883",
+ "name": "Textile with Stripes and Confronted Dragons",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -475,
+  -221
+ ],
+ "category": "杂器",
+ "material": "Warp-faced compound plain weave silk",
+ "dimensions": "Overall: 6 × 6 11/16 in. (15.2 × 17 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2002.559"
+ },
+ "summary": "Woven textile (detail)。China。Eastern Zhou dynasty, Warring States period (475–221 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP158228.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/64883",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/64883.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-46707",
+ "name": "Bowl with lions",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1534,
+  1566
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in overglaze polychrome enamels (Jingdezhen ware)",
+ "dimensions": "H. 3 7/16 in. (8.7 cm); Diam. 7 7/8 in. (20 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "79.2.130"
+ },
+ "summary": "Bowl。China。Ming dynasty (1368–1644), Jiaqing mark and period (1760–1820)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/27947.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/46707",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/46707.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

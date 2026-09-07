@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-69624",
+ "name": "Fragment of Woven Silk",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1200,
+  1299
+ ],
+ "category": "杂器",
+ "material": "Silk",
+ "dimensions": "Frame: 9 × 12 in. (22.9 × 30.5 cm)\r\na: 1 3/4 × 2 3/4 in. (4.4 × 7 cm)\r\nb: 2 × 2 1/4 in. (5.1 × 5.7 cm)\r\nc: 2 1/4 × 1 3/4 in. (5.7 × 4.4 cm)\r\nd: 1/2 × 3/4 in. (1.3 × 1.9 cm)\r\ne: 1/2 × 1 in. (1.3 × 2.5 cm)\r\nf: 1/2 × 3/4 in. (1.3 × 1.9 cm)\r\ng: 3/4 × 1/2 in. (1.9 × 1.3 cm)\r\nh: 1 1/4 × 1/2 in. (3.2 × 1.3 cm)\r\ni: 1 3/4 × 8 in. (4.4 × 20.3 cm)\r\nj: 1 1/2 × 3 in. (3.8 × 7.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "44.48.23a–j"
+ },
+ "summary": "Fragment。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-44_48_23a_j-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/69624",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/69624.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-48505",
+ "name": "Teapot with chi dragons and character of longevity (shou)",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with slip decoration (Yixing ware)",
+ "dimensions": "H. 4 7/8 in. (12.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "44.39.2a, b"
+ },
+ "summary": "Teapot。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/132658.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/48505",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "茶文化",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/48505.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

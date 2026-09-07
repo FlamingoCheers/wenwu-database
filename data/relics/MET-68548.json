@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-68548",
+ "name": "Chair strip with dragon",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1733
+ ],
+ "category": "金银器",
+ "material": "Silk satin brocaded with gold thread",
+ "dimensions": "72 1/4 × 24 in. (183.5 × 61 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.75.55"
+ },
+ "summary": "Chair strip。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-30_75_55_front.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/68548",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/68548.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

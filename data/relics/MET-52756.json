@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-52756",
+ "name": "Rectangular box with double dragons",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1573,
+  1620
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted with cobalt blue under transparent glaze",
+ "dimensions": "H. 3 9/16 in. (9.0 cm); W. 9 1/2 in. (24.1 cm); D. 6 1/8 in. (15.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "25.64.1a, b"
+ },
+ "summary": "Covered box。China。Ming dynasty (1368–1644), Wanli period (1573–1620)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/25_64_1_59616.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52756",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52756.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

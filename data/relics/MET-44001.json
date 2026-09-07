@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-44001",
+ "name": "Belt hook with dragons",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "玉器",
+ "material": "Jade (jadeite)",
+ "dimensions": "H. 3 11/16 in. (9.4 cm); W. 11/16 in. (1.7 cm); D. 1 in. (2.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.711"
+ },
+ "summary": "Belt hook。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP321117.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44001",
+ "license": "CC0",
+ "tags": [
+  "妆饰",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44001.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

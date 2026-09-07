@@ -2,8 +2,8 @@
  "relic_id": "MET-39598",
  "name": "Textile with Horned Animals in a Pearl Roundel",
  "aliases": [],
- "dynasty": "唐",
- "dynasty_confidence": "inferred",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
  "year_range": [
   600,
   899
@@ -34,7 +34,7 @@
  ],
  "related": [],
  "raw_ref": "raw/met/39598.json",
- "needs_review": false,
- "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
 }

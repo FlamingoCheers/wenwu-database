@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-48649",
+ "name": "Jar with Flowers",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1734,
+  1766
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted with colored enamels over transparent glaze (Jingdezhen ware)",
+ "dimensions": "H. 17 1/4 in. (43.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "14.40.233a, b"
+ },
+ "summary": "Jar。China。Qing dynasty (1644–1911), Yongzheng (1723–35)–Qianlong (1736–95)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14605-057.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/48649",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/48649.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

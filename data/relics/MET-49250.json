@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-49250",
+ "name": "Two Paintings of Deer Antlers",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1762,
+  1767
+ ],
+ "category": "杂器",
+ "material": "Two handscrolls; ink and color on paper",
+ "dimensions": "a: 9 3/4 × 81 1/4 in. (24.8 × 206.4 cm)\r\nb: 9 7/8 × 81 1/4 in. (25.1 × 206.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "13.220.127a, b"
+ },
+ "summary": "Handscrolls。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP166607_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49250",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49250.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

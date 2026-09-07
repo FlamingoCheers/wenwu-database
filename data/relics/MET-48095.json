@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-48095",
+ "name": "Teapot with scholar objects",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1733
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze blue with \"powder-blue\" glaze (Jingdezhen ware)",
+ "dimensions": "H. 3 1/2 in. (8.9 cm); W. 6 1/2 in. (16.5 cm); D. 4 in. (10.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "79.2.144a, b"
+ },
+ "summary": "Teapot。China。Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/27912.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/48095",
+ "license": "CC0",
+ "tags": [
+  "茶文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/48095.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

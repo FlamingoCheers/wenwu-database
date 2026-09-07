@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-44728",
+ "name": "Jar (Guan)",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -2300,
+  -2000
+ ],
+ "category": "陶器",
+ "material": "Earthenware with painted decoration",
+ "dimensions": "H. 14 3/16 in. (36 cm); W. (not including handles) 12 3/8 in. (31.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1992.165.15"
+ },
+ "summary": "Jar。China。Neolithic, Majiayao Yangshao, Machang phase",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/268181.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44728",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44728.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

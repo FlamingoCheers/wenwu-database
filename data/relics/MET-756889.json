@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-756889",
+ "name": "Garden scene",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1867,
+  1867
+ ],
+ "category": "杂器",
+ "material": "Album leaf; ink and color on paper",
+ "dimensions": "Image: 13 × 11 in. (33 × 27.9 cm)\r\nSheet: 20 15/16 × 20 15/16 in. (53.2 × 53.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2017.724"
+ },
+ "summary": "Album leaf。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14063-026.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/756889",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/756889.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

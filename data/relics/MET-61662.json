@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-61662",
+ "name": "Tomb column",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -206,
+  220
+ ],
+ "category": "陶器",
+ "material": "Sunbaked terracotta",
+ "dimensions": "H. 47 in. (119.4 cm); W. 7 1/4 in. (18.4 cm); D. 7 1/4 in. (18.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "38.56.2"
+ },
+ "summary": "Tomb column。China。Han dynasty (206 BCE–220 CE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/38_56_2-3_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61662",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61662.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

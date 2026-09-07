@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-44324",
+ "name": "Square Pen with Six Rams",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1,
+  233
+ ],
+ "category": "陶器",
+ "material": "Earthenware with green lead glaze",
+ "dimensions": "H. 3 in. (7.6 cm); L 8 5/8 in. (21.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1994.605.23"
+ },
+ "summary": "Architectural model。China。Eastern Han dynasty (25–220)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/272392.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44324",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44324.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-42195",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1567,
+  1599
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted with underglaze blue; gilt silver mounts, probably German, early 17th century",
+ "dimensions": "H. 4 3/4 in. (12 cm); W. at handles 7 7/8 in. (20 cm); Diam. 6 in. (15.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "23.263"
+ },
+ "summary": "Bowl。China。Ming dynasty (1368–1644), Wanli period (1573–1620)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-20029-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42195",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42195.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

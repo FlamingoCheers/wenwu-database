@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-51212",
+ "name": "Tile with Vajra from the Porcelain Pagoda",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1403,
+  1424
+ ],
+ "category": "瓷器",
+ "material": "Glazed stoneware",
+ "dimensions": "H. 10 13/16 in. (27.5 cm); W. 17 5/16 in. (44.0 cm); D. 3 5/8 in. (9.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "89.7a"
+ },
+ "summary": "Tile。China。Ming dynasty (1368–1644), Yongle period (1403–24)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-38166-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51212",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51212.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

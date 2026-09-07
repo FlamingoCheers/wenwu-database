@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-61763",
+ "name": "Scholar's rock",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1644,
+  1911
+ ],
+ "category": "竹木牙角",
+ "material": "Lingbi limestone with wood base",
+ "dimensions": "H. ( inc. base) 7 1/4 in. (18.4 cm); W. 10 3/4 in. (27.3 cm); D. 6 3/8 in. (16.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1984.495.3a, b"
+ },
+ "summary": "Scholar's rock。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-1984_495_3ab-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61763",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/61763.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

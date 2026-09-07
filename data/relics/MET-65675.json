@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-65675",
+ "name": "Empress's Twelve-Symbol Robe",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1821,
+  1850
+ ],
+ "category": "杂器",
+ "material": "Silk and metallic threads",
+ "dimensions": "33 3/16 x 120 3/4 in. (84.3 x 306.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "54.27.8"
+ },
+ "summary": "Empress's Twelve-Symbol Robe。China。Qing dynasty (1644–1911), Daoguang period (1821–50)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/157018.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/65675",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/65675.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

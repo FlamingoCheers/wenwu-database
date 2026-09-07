@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-61698",
+ "name": "Stele with Buddha and attendant bodhisattvas",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  550,
+  560
+ ],
+ "category": "杂器",
+ "material": "Black stone",
+ "dimensions": "H. 19 5/8 in. (49.8 cm); W. 12 1/2 in. (31.8 cm); D. 4 in. (10.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "47.6"
+ },
+ "summary": "Stele。China。Style of Northern Qi dynasty (550–577)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/47_6_F2x.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61698",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61698.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

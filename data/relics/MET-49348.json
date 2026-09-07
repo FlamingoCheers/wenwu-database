@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-49348",
+ "name": "Water Coupe",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1690,
+  1732
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with peachbloom glazes (Jingdezhen ware)",
+ "dimensions": "H. 3 1/2 in. (8.9 cm); Diam. 5 in. (12.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "65.225.3"
+ },
+ "summary": "Water coupe。China。Qing dynasty (1644–1911), Kangxi mark and period (1662–1722)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP351240.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49348",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/49348.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

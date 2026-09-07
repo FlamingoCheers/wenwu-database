@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-61774",
+ "name": "Buddhist monk",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  534,
+  599
+ ],
+ "category": "青铜器",
+ "material": "Gilt leaded bronze, piece-mold cast",
+ "dimensions": "H. (with tang)  4 5/8 in. (11.7 cm);  W. 1 in. (2.6 cm);  Diam. 1/4 in. (.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "66.155.5"
+ },
+ "summary": "Figurine。China。Northern Qi (550–77) or Sui (581–617) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP170204.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61774",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "日常生活"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61774.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

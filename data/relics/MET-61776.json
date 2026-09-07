@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-61776",
+ "name": "Buddhist attendant (possibly Kasyapa)",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  567,
+  699
+ ],
+ "category": "杂器",
+ "material": "Sandstone with traces of pigment",
+ "dimensions": "H. 39 in. (99.1 cm); W. 14 1/2 in. (36.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.214.144"
+ },
+ "summary": "Headless figure。China。Sui (581–618) or Tang (618–907) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP170236.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61776",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61776.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

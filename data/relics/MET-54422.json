@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-54422",
+ "name": "Mirror case with boys at play",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "杂器",
+ "material": "Silk embroidery on simple gauze silk; silk and metal thread embroidery on silk satin (two-sided)",
+ "dimensions": "Overall: 16 1/2 x 16 1/2 in. (41.9 x 41.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.75.61"
+ },
+ "summary": "Mirror case。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP255118.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/54422",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/54422.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-61525",
+ "name": "Chimera (Bixie)",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  220,
+  589
+ ],
+ "category": "青铜器",
+ "material": "Gilt bronze",
+ "dimensions": "H. 1 1/8 in. (2.9 cm); W. 1 1/16 in. (2.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "18.56.10"
+ },
+ "summary": "Figure。China。Six Dynasties (220–589)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/18_56_10_179625.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61525",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/61525.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

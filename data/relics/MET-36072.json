@@ -2,8 +2,8 @@
  "relic_id": "MET-36072",
  "name": "Dream Landscape",
  "aliases": [],
- "dynasty": "清",
- "dynasty_confidence": "inferred",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
  "year_range": [
   1600,
   1750
@@ -34,7 +34,7 @@
  ],
  "related": [],
  "raw_ref": "raw/met/36072.json",
- "needs_review": false,
- "fetched_at": "2026-09-04",
- "updated_at": "2026-09-04"
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
 }

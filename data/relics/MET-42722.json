@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-42722",
+ "name": "Arhat (Luohan)",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  990,
+  1010
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with three-color glaze",
+ "dimensions": "H. (figure) 50 in. (127 cm); H. (with base) 92 in. (233.7 cm); W. 41 in. (104.1 cm); D. 38 in. (96.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "20.114"
+ },
+ "summary": "Figure。China。Liao dynasty (907–1125)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP163962.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42722",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42722.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

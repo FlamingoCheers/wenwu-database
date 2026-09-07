@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-61228",
+ "name": "Wine container (zun)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1300,
+  -1199
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 8 1/2 in. (21.6 cm); Diam. 7 5/8 in. (19.4 cm); Diam. of rim 7 5/8 in. (19.4 cm); Diam. of foot 5 1/4 in. (13.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "45.124"
+ },
+ "summary": "Wine container。China。Shang dynasty (ca. 1600–1046 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP164952.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61228",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61228.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-52563",
+ "name": "Flask with mythical birds",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  500,
+  599
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with molded decoration under dark brown glaze",
+ "dimensions": "H. 8 13/16 in. (22.4 cm); W. 7 1/2 in. (19.1 cm); D. 4 1/2 in. (11.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "26.292.44"
+ },
+ "summary": "Jar。China。Northern dynasty (386–581 CE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/103493.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52563",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52563.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

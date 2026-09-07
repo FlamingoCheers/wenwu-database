@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-44315",
+ "name": "Seal with Knob in the Shape of a Chimera",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  190,
+  410
+ ],
+ "category": "青铜器",
+ "material": "Gilded bronze",
+ "dimensions": "H. 3/4 In. (1.9 cm) W. 9/16 in. (1.4 cm); D. 9/16 in. (1.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1994.605.15"
+ },
+ "summary": "Seal。China。Eastern Han (25–220)–Western Jin (265–316) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1994_605_15_L35702.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44315",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "玺印封泥",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44315.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

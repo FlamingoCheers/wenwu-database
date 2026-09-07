@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-61156",
+ "name": "Ritual Spoon (Bi)",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -867,
+  -733
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "W. 2 1/2 in. (6.4 cm); L. 12 3/4 in. (32.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "24.72.15"
+ },
+ "summary": "Spoon。China。mid-Zhou dynasty (1046–256 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP167678.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61156",
+ "license": "CC0",
+ "tags": [
+  "礼制",
+  "祭祀"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61156.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

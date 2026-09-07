@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-51668",
+ "name": "Library Scene",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  900,
+  999
+ ],
+ "category": "杂器",
+ "material": "Handscroll; ink and color on silk",
+ "dimensions": "Image: 9 7/8 × 18 3/4 in. (25.1 × 47.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "47.18.49"
+ },
+ "summary": "Handscroll。China。Song dynasty (?) (960–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP202148_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51668",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/51668.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

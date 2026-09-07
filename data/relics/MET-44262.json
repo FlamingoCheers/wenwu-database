@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-44262",
+ "name": "Incense burner with cover",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1662,
+  1722
+ ],
+ "category": "玉器",
+ "material": "Jadeite, emerald-green with a few delicate patches of lavender-gray",
+ "dimensions": "H. 7 11/16 in. (19.5 cm); W. 6 15/16 in. (17.6 cm); L. 3 3/16 in. (8.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.428a, b"
+ },
+ "summary": "Incense burner with cover。China。Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/02_18_428_O2_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44262",
+ "license": "CC0",
+ "tags": [
+  "香文化",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44262.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-46062",
+ "name": "Vase with lion and bird",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1767,
+  1799
+ ],
+ "category": "瓷器",
+ "material": "Soft-paste porcelain painted in underglaze cobalt blue (Jingdezhen ware)",
+ "dimensions": "H. 20 1/2 in. (52.1 cm); W. 7 1/2 in. (19.1 cm); Diam. of rim 6 in. (15.2 cm); Diam. of foot 5 1/8 in. (13 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "14.40.311"
+ },
+ "summary": "Vase。China。Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/172456.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/46062",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/46062.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

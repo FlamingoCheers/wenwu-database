@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-39550",
+ "name": "Simple Retreat",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1360,
+  1380
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink and color on paper",
+ "dimensions": "Image: 53 3/4 × 17 5/8 in. (136.5 × 44.8 cm)\r\nOverall with mounting: 8 ft. 5 1/4 in. × 24 3/4 in. (257.2 × 62.9 cm)\r\nOverall with knobs: 8 ft. 5 1/4 in. × 28 11/16 in. (257.2 × 72.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2012.526.2"
+ },
+ "summary": "Hanging scroll。China。Late Yuan (1271–1368) or early Ming (1368–1644) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP274196.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39550",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/39550.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

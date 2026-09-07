@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-40218",
+ "name": "Pair of dishes with scenes from Romance of the Three Kingdoms",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1367,
+  1399
+ ],
+ "category": "漆器",
+ "material": "Carved red and black lacquer",
+ "dimensions": "Each: Diam. 6 in. (15.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2015.500.1.34a, b"
+ },
+ "summary": "Dishes。China。Yuan (1271–1368)–Ming (1368–1644) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/2015_500_1_34ab_sf.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40218",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/40218.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-40782",
+ "name": "Covered Tea Caddy",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1899
+ ],
+ "category": "杂器",
+ "material": "Painted enamel",
+ "dimensions": "H. 4 3/4 in. (12.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "07.233.1a, b"
+ },
+ "summary": "Tea caddy。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/07_233_1ab.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40782",
+ "license": "CC0",
+ "tags": [
+  "茶文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/40782.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

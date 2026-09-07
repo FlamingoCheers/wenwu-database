@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-42433",
+ "name": "Pillow with a falcon attacking a swan",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1050,
+  1350
+ ],
+ "category": "瓷器",
+ "material": "Stoneware painted with brown and black pigment on white slip under transparent glaze (Cizhou ware)",
+ "dimensions": "L. 16 1/8 in. (41 cm); H. 6 1/8 in. (15.5 cm); D. 11 3/4 in. (29.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.214.132"
+ },
+ "summary": "Pillow。China。Jin dynasty (1115–1234)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP274727.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42433",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42433.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

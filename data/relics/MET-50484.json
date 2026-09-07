@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-50484",
+ "name": "Liubo Board and Pieces",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -100,
+  100
+ ],
+ "category": "陶器",
+ "material": "Earthenware with pigment and bone",
+ "dimensions": "L. 14 1/4 in. (36.2 cm); W. 12 3/8 in. (31.4 cm); H. 2 in. (5.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1994.285a–m"
+ },
+ "summary": "Game board and pieces。China。Han dynasty (206 BCE–220 CE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP372026.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/50484",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "游戏",
+  "博戏"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/50484.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

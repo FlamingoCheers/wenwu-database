@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-42719",
+ "name": "Buddha Dipankara (Randengfo)",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  495,
+  495
+ ],
+ "category": "杂器",
+ "material": "Sandstone",
+ "dimensions": "H. 127 in. (322.6 cm); W. 75 in. (190.5 cm); D. 28 in. (71.1 cm); H. with base: 137 in. (348 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "65.29.3"
+ },
+ "summary": "Stele。China。Northern Wei dynasty (386–534)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP164037.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42719",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42719.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-49213",
+ "name": "Kiln Waster",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1299
+ ],
+ "category": "瓷器",
+ "material": "Porcelaneous ware and stoneware with celadon glazes (Longquan ware)",
+ "dimensions": "H. 3 1/4 in. (8.3 cm); Diam. of rim: 3 3/4 in. (9.5 cm); Diam. of foot: 2 1/4 in. (5.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "26.292.80"
+ },
+ "summary": "Kiln waster。China。Southern Song dynasty (1127–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/103544.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49213",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/49213.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

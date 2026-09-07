@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-42097",
+ "name": "Incense burner",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1500,
+  1599
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 4 in. (10.2 cm); W. at handles. 6 in. (15.2 cm); Diam. of rim 4 5/16 in. (11 cm); Diam. of foot 3 3/8 in. (8.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "29.100.549"
+ },
+ "summary": "Incense burner。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/29_100_549_76322.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42097",
+ "license": "CC0",
+ "tags": [
+  "香文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42097.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-53940",
+ "name": "Cup with flowering plum and crescent moon",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1200,
+  1399
+ ],
+ "category": "金银器",
+ "material": "Silver with repoussé decoration and gilding",
+ "dimensions": "H. 2 in. (5.1 cm); Diam. 3 3/4 in. (9.5 cm); Diam. of foot 1 5/8 in. (4.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2000.209"
+ },
+ "summary": "Cup。China。Yuan dynasty (1271–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-27507-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/53940",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/53940.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-42123",
+ "name": "Back and Sleeve of a Dragon Robe",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1573,
+  1620
+ ],
+ "category": "杂器",
+ "material": "Silk and metallic-thread embroidery on silk satin damask",
+ "dimensions": "85 x 42 in. (215.9 x 106.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1986.143"
+ },
+ "summary": "Back and Sleeve of a Dragon Robe。China。Ming dynasty (1368–1644), Wanli period (1573–1620)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1986_143.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42123",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42123.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

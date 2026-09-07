@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-73673",
+ "name": "Wine container (hu)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -99,
+  99
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 12 in. (30.5 cm); Diam. 6 1/2 in. (16.5 cm); Diam. of rim: 1 7/8 in. (4.8 cm); Diam. of foot: 4 1/2 in. (11.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2007.133"
+ },
+ "summary": "Wine container。China。Han dynasty (206 BCE–220 CE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP148407.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/73673",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/73673.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-49402",
+ "name": "Chariot linchpin with a tiger head",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -1099,
+  -900
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 4 5/8 in. (11.7 cm); W. 4 1/4 in. (10.8 cm); D. 2 in. (5.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.214.35"
+ },
+ "summary": "Chariot linchpin。China。Shang (ca. 1600–1046 BCE)–Western Zhou (1046–771 BCE) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-37004-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49402",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "出行"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49402.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

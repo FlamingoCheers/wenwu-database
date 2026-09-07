@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-54914",
+ "name": "Vaisravana, Guardian of the North",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1500,
+  1599
+ ],
+ "category": "书画",
+ "material": "Framed painting; ink and color on paper",
+ "dimensions": "Image: 33 1/4 x 16 3/4 in. (84.5 x 42.5 cm)\r\nFramed: 35 1/2 x 19 in. (90.2 x 48.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "19.103.3"
+ },
+ "summary": "Painting。China (?)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/19_103_3.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/54914",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/54914.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

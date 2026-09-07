@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-49572",
+ "name": "Two Bodhisattvas",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  500,
+  699
+ ],
+ "category": "杂器",
+ "material": "Pigments on mud plaster",
+ "dimensions": "16 3/8 x 9 3/4 in. (41.6 x 24.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "51.94.5"
+ },
+ "summary": "Wall painting。China (Xinjiang Uyghur Autonomous Region)。Kizil kingdom",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/51_94_5_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49572",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49572.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

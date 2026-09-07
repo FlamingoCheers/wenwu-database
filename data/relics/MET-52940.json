@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-52940",
+ "name": "Stem Cup",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1723,
+  1735
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with mirror-black glaze, with traces of gilt design",
+ "dimensions": "H. 3 1/2 in. (8.9 cm); Diam. of rim 2 7/8 in. (7.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "50.221.26"
+ },
+ "summary": "Stem cup。China。Qing dynasty (1644–1911), Yongzheng mark and period (1723–35)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/50_221_26_S_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52940",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52940.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

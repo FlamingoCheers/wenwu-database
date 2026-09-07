@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-48085",
+ "name": "Jar with flowers",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1568,
+  1633
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze cobalt blue (Zhangzhou ware)",
+ "dimensions": "H. 8 5/8 in. (21.9 cm); W. 6 3/4 in. (17.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "19.136.2"
+ },
+ "summary": "Jar。China。Ming dynasty (1368–1644),",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/19_136_2_S1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/48085",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/48085.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

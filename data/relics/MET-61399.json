@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-61399",
+ "name": "Mirror with birds and flowers",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  700,
+  799
+ ],
+ "category": "青铜器",
+ "material": "Bronze with black patina",
+ "dimensions": "Diam. 5 1/2 in. (14 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "22.141.5"
+ },
+ "summary": "Mirror。China。Tang dynasty (618–907)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/22_141_5_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61399",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61399.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

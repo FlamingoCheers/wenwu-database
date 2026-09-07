@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-51970",
+ "name": "Tile with characters",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -221,
+  220
+ ],
+ "category": "陶器",
+ "material": "Earthenware",
+ "dimensions": "H. 2 3/8 in. (6 cm); W. 13 in. (33 cm); D. 5 1/2 in. (14 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "10.202.14"
+ },
+ "summary": "Tile。China。Qin–Han dynasty (221 BCE–220 CE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/10_202_14_9624.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51970",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/51970.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

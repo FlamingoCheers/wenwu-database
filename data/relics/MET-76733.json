@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-76733",
+ "name": "Bottle",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  567,
+  633
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with incised decoration under celadon glaze",
+ "dimensions": "H. 11 1/4 in. (28.6 cm); Diam. 6 in. (15.2 cm); Diam. of rim 2 7/8 in. (7.3 cm); Diam. of foot 3 1/8 in. (7.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2011.394"
+ },
+ "summary": "Bottle。China。Sui dynasty (581–618)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14609-068.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/76733",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/76733.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

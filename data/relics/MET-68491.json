@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-68491",
+ "name": "Valance with dragons and medallion of longevity (shou)",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1799
+ ],
+ "category": "金银器",
+ "material": "Silk and gold thread embroidery",
+ "dimensions": "Image (a): 11 1/4 × 8 ft. 11 in. (28.6 × 271.8 cm)\r\nImage (b): 8 ft. 4 × 1 5/8 in. (254 × 4.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "29.100.543a, b"
+ },
+ "summary": "Valance。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/SC156201.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/68491",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/68491.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

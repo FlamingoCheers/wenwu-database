@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-839092",
+ "name": "Tripod incense burner",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1486,
+  1486
+ ],
+ "category": "杂器",
+ "material": "Copper alloy",
+ "dimensions": "H. 15 11/16 (39.8 cm);  W. 11 3/4 (29.8 cm); D. 10 1/2 in. (26.7 cm)\r\nDiam. of rim: 7 3/4 in. (19.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2020.124"
+ },
+ "summary": "Censer。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-20783-004.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/839092",
+ "license": "CC0",
+ "tags": [
+  "香文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/839092.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

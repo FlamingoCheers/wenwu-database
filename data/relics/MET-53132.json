@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-53132",
+ "name": "Soaring Peak",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1701,
+  1800
+ ],
+ "category": "竹木牙角",
+ "material": "Sea-green hornblende with yellow markings; carved wood stand",
+ "dimensions": "Overall (with base): H. 28 1/2 in. (72.4 cm); W. 11 1/2 in. (29.2 cm); D. 7 1/4 in. (18.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2009.512.2a–c"
+ },
+ "summary": "Scholar's rock。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP350745.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/53132",
+ "license": "CC0",
+ "tags": [
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/53132.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

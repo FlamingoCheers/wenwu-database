@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-73823",
+ "name": "Banner with Bodhisattva, possibly Mahamayuri",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  800,
+  999
+ ],
+ "category": "杂器",
+ "material": "Ink and pigment on silk",
+ "dimensions": "22 1/2 x 11 in. (57 x 28 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2007.294a, b"
+ },
+ "summary": "Temple banner。China (Dunhuang area, Gansu Province)。Tang dynasty (618–907) or Five Dynasties period (907–960)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-16996-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/73823",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/73823.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

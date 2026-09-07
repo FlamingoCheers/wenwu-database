@@ -1,0 +1,44 @@
+{
+ "relic_id": "MET-68508",
+ "name": "Daoist priest’s ritual robe with celestial palace",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1767,
+  1799
+ ],
+ "category": "杂器",
+ "material": "Silk and metal thread embroidery on silk satin",
+ "dimensions": "Overall: 54 x 73 in. (137.2 x 185.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.75.3"
+ },
+ "summary": "Robe, Daoist Priest's。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP251116.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/68508",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教",
+  "礼制",
+  "祭祀",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/68508.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

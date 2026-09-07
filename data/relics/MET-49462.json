@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-49462",
+ "name": "Man on a Bridge",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1889,
+  1889
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink on bark paper",
+ "dimensions": "Image: 37 in. × 24 1/4 in. (94 × 61.6 cm)\r\nOverall with mounting: 80 × 29 3/4 in. (203.2 × 75.6 cm)\r\nOverall with knobs: 80 × 32 7/8 in. (203.2 × 83.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1986.267.50"
+ },
+ "summary": "Hanging scroll。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-30285-002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49462",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/49462.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

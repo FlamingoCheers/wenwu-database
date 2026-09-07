@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-39890",
+ "name": "Inscriptions on the Stone Drums (Eastern Zhou dynasty, 5th century BCE)",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1600,
+  1644
+ ],
+ "category": "碑帖拓本",
+ "material": "Set of rubbings in ten sections mounted as a pair of handscrolls; ink on paper",
+ "dimensions": "Image (scroll a): 16 1/2 × 257 1/4 in. (41.9 × 653.4 cm)\r\nImage (scroll b): 16 3/4 × 265 5/8 in. (42.5 × 674.7 cm)\r\nOverall with mounting (each) H. 17 3/4 in. (45.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1992.166.1a, b"
+ },
+ "summary": "Rubbing。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP363290.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39890",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39890.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

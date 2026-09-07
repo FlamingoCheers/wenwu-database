@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-41194",
+ "name": "Landscape after a poem by Wang Wei",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1323,
+  1323
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink and color on silk",
+ "dimensions": "Image: 50 3/4 x 27 1/16 in. (128.9 x 68.7 cm)\r\nOverall with mounting: 8 ft. 8 1/8 in. x 33 3/4 in. (264.5 x 85.7 cm)\r\nOverall with knobs: 8 ft. 8 1/8 in. x 37 in. (264.5 x 94 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.214.147"
+ },
+ "summary": "Hanging scroll。China。Yuan dynasty (1271–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP154120.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/41194",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/41194.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

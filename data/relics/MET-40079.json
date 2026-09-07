@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-40079",
+ "name": "Buddhist Guardian King",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; silk applique and embroidery on plain-weave silk",
+ "dimensions": "Overall: 37 3/4 x 18 1/2 in. (95.9 x 47 cm)\r\nOverall with mounting: 85 1/2 x 23 1/4 in. (217.2 x 59.1 cm)\r\nOverall with knobs: 85 1/2 × 25 3/4 in. (217.2 × 65.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "47.18.104"
+ },
+ "summary": "Panel。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/AR650.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40079",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/40079.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-41771",
+ "name": "Ink Tablet with Dragon and Phoenix Deign",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1875,
+  1933
+ ],
+ "category": "杂器",
+ "material": "Black ink",
+ "dimensions": "W. 1 3/4 in. (4.4 cm); L. 9 5/8 in. (24.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.76.193"
+ },
+ "summary": "Ink tablet。China。late Qing dynasty (1644–1911) or early Republic period (1912–49)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/30_76_193_F.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/41771",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/41771.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

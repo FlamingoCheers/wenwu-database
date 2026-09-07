@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-43992",
+ "name": "Fish Gong",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "杂器",
+ "material": "Nephrite, (a) gong: white of yellowish tone clouded with lighter tints; (b) mount: olive green with shades of brown",
+ "dimensions": "Gong: H. 12 1/4 in. (31.1 cm); W. 7 1/8 in. (18.1 cm); D. 1/2 in. (1.3 cm)\r\nMount: W. 1 3/4 in. (4.4 cm); L. 7 1/4 in. (18.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.698a, b"
+ },
+ "summary": "Gong。China。Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/18708.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/43992",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "照明"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/43992.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

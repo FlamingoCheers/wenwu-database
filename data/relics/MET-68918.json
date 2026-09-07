@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-68918",
+ "name": "Rank Badge with Qilin",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "杂器",
+ "material": "Silk, metallic thread",
+ "dimensions": "11 3/4 x 12 1/4 in. (29.84 x 31.11 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.75.950"
+ },
+ "summary": "Rank Badge。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/79893.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/68918",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/68918.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

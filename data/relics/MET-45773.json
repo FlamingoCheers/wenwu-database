@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-45773",
+ "name": "Landscapes",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1470,
+  1524
+ ],
+ "category": "杂器",
+ "material": "Eight album leaves mounted as a handscroll; ink and color on silk",
+ "dimensions": "Image (All leaves): 12 3/4 x 162 7/8 in. (32.4 x 413.7 cm)\r\nOverall with mounting: 13 1/16 x 306 5/16 in. (33.2 x 778 cm)\r\nImage (Leaf 1): 12 3/4 x 17 in. (32.4 x 43.2 cm)\r\nImage (Leaf 2): 12 3/4 x 17 in. (32.4 x 43.2 cm)\r\nImage (Leaf 3): 12 3/4 x 16 7/8 in. (32.4 x 42.9 cm)\r\nImage (Leaf 4): 12 3/4 x 16 3/4 in. (32.4 x 42.5 cm)\r\nImage (Leaf 5): 12 3/4 x 16 7/8 in. (32.4 x 42.9 cm)\r\nImage (Leaf 6): 12 3/4 x 16 13/16 in. (32.4 x 42.7 cm)\r\nImage (Leaf 7): 12 3/4 x 16 7/8 in. (32.4 x 42.9 cm)\r\nImage (Leaf 8): 12 3/4 x 16 7/8 in. (32.4 x 42.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1980.81"
+ },
+ "summary": "Album leaves mounted as a handscroll。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP204676_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/45773",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/45773.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

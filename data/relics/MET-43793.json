@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-43793",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "杂器",
+ "material": "Nephrite, dark seaweed green with veinings of lighter shade and a staining of brown on one side",
+ "dimensions": "H. 1 3/4 in. (4.4 cm); W. 10 3/8 in. (26.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.415"
+ },
+ "summary": "Dish。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/15073.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/43793",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "照明"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/43793.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

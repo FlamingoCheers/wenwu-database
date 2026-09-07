@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-61773",
+ "name": "Buddha",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  717,
+  717
+ ],
+ "category": "杂器",
+ "material": "Marble",
+ "dimensions": "H. 12 1/8 in. (30.8 cm); W. 7 1/4 in. (18.4 cm); D. 6 in. (15.2 cm); Wt.18.4 lbs (8.3 kg)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.214.143"
+ },
+ "summary": "Headless figure。China。Tang dynasty (618–907)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP170230.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61773",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61773.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

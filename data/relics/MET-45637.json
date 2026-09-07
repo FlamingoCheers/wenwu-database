@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-45637",
+ "name": "Red Cliffs and Green Valleys",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1357,
+  1377
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink on paper",
+ "dimensions": "Image: 26 3/4 x 13 1/2 in. (67.9 x 34.3 cm)\r\nOverall with mounting: 91 1/4 x 21 3/8 in. (231.8 x 54.3 cm)\r\nOverall with knobs: 91 1/4 x 25 1/8 in. (231.8 x 63.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1973.121.7"
+ },
+ "summary": "Hanging scroll。China。Yuan dynasty (1271–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-36789-002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/45637",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/45637.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

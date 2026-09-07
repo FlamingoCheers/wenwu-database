@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-69802",
+ "name": "Textile fragment with geometric pattern",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1500,
+  1599
+ ],
+ "category": "杂器",
+ "material": "Silk lampas",
+ "dimensions": "14 3/8 × 4 9/16 in. (36.5 × 11.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "46.133.61"
+ },
+ "summary": "Piece。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-46_133_61_front.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/69802",
+ "license": "CC0",
+ "tags": [
+  "服饰",
+  "照明"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/69802.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

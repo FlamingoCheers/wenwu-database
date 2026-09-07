@@ -1,0 +1,44 @@
+{
+ "relic_id": "MET-712098",
+ "name": "The Daoist Immortal Han Xiangzi",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1475,
+  1505
+ ],
+ "category": "杂器",
+ "material": "Framed hanging scroll; ink and color on silk",
+ "dimensions": "Image: 48 in. × 26 3/4 in. (121.9 × 67.9 cm)\r\nFramed: 62 1/4 × 39 in. (158.1 × 99.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2016.238"
+ },
+ "summary": "Hanging scroll。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-2016_238-BT-2017.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/712098",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/712098.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-39493",
+ "name": "Yokeback armchair",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1600,
+  1699
+ ],
+ "category": "竹木牙角",
+ "material": "Wood (huanghuali, Dalbergia odorifera)",
+ "dimensions": "H. 48 in. (121.9 cm); W. 23 in. (58.4 cm); D. 18 3/4 in. (47.6cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1997.92"
+ },
+ "summary": "Yokeback armchair。China。late Ming (1368–1644)–early Qing (1644–1911) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1997_92_O2_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39493",
+ "license": "CC0",
+ "tags": [
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39493.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

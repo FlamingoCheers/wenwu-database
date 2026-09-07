@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-49201",
+ "name": "Ewer with lug handles",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  900,
+  960
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with incised decoration under celadon glaze (Yue ware)",
+ "dimensions": "H. 5 5/8 in. (14.3 cm); W. 5 11/16 in. (14.4 cm); Diam. 5 1/2 in. (14.0 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "18.56.45"
+ },
+ "summary": "Ewer。China。Five Dynasties (907–960)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/39067.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49201",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49201.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

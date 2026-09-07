@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-49498",
+ "name": "Spear head (mao)",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -600,
+  -300
+ ],
+ "category": "青铜器",
+ "material": "Bronze with metallic inlay",
+ "dimensions": "H. 10 3/4 in. (27.3 cm); W. 2 1/16 in. (5.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.214.27"
+ },
+ "summary": "Spear head。China。Eastern Zhou dynasty, Spring and Autumn period (770–476 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP167765.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49498",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/49498.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

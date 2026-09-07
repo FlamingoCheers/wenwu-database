@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-40510",
+ "name": "A Summer Idyll",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1400,
+  1599
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink on silk",
+ "dimensions": "Image: 52 1/2 x 20 7/8 in. (133.4 x 53 cm)\r\nOverall with mounting: 111 1/2 x 29 in. (283.2 x 73.7 cm)\r\nOverall with knobs: 111 1/2 x 32 1/4 in. (283.2 x 81.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1989.363.31"
+ },
+ "summary": "Hanging scroll。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-35890-002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40510",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/40510.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

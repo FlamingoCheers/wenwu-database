@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-76600",
+ "name": "Sutra cover with flower scrolls and auspicious symbols",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1500,
+  1599
+ ],
+ "category": "杂器",
+ "material": "Silk satin with supplementary silk and metal thread weft patterning",
+ "dimensions": "Overall: 13 7/16 x 4 3/4 x 1/4 in. (34.1 x 12.1 x 0.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2011.221.9"
+ },
+ "summary": "Sutra cover。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/2011_221_9_Strm1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/76600",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/76600.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-70201",
+ "name": "Fragments and Strip",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "杂器",
+ "material": "Silk, metallic thread",
+ "dimensions": "Overall (a): 8 1/4 x 8 1/2 in. (21 x 21.6 cm)\r\nOverall (b): 5 x 5 in. (12.7 x 12.7 cm)\r\nOverall (c): 5 1/2 x 6 in. (14 x 15.2 cm)\r\nOverall (d): 5 3/4 x 20 1/4 in. (14.6 x 51.4 cm)\r\nOverall (e): 18 x 4 in. (45.7 x 10.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "56.91.1a–e"
+ },
+ "summary": "Fragments and strip。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/161194.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/70201",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/70201.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

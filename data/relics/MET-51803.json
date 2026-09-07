@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-51803",
+ "name": "Album of miscellaneous paintings",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1644,
+  1705
+ ],
+ "category": "书画",
+ "material": "Album of twelve paintings; ink wash on paper",
+ "dimensions": "Image: 7 3/4 in. × 6 in. (19.7 × 15.2 cm)\r\nSheet: 11 in. × 7 1/4 in. (27.9 × 18.4 cm)\r\ndouble leaf: 11 × 14 5/8 in. (27.9 × 37.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "54.34a–l"
+ },
+ "summary": "Album。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP154493.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51803",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/51803.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

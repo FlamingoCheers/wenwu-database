@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-81706",
+ "name": "Shoes",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1800,
+  1943
+ ],
+ "category": "杂器",
+ "material": "silk, cotton",
+ "dimensions": "Image (a): 5 × 2 1/8 in. × 5 in. (12.7 × 5.4 × 12.7 cm)\r\nImage (b): 5 × 2 × 5 in. (12.7 × 5.1 × 12.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "C.I.43.90.60a, b"
+ },
+ "summary": "Shoes。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP239118.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/81706",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/81706.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

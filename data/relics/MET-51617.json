@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-51617",
+ "name": "Painted cloth",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1799
+ ],
+ "category": "杂器",
+ "material": "Ink and color on silk",
+ "dimensions": "18 3/4 x 25 15/16 in. (47.6 x 65.9 cm) (unframed); \r\n25 3/4 x 32 7/8 in. (65.4 x 83.5 cm) (overall)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "44.48.1"
+ },
+ "summary": "Painted cloth。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/44_48_1_132487.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51617",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/51617.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

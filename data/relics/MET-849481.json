@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-849481",
+ "name": "Scholar’s Rock in the Form of a Fantastic Mountain",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1800,
+  1950
+ ],
+ "category": "杂器",
+ "material": "Malachite",
+ "dimensions": "Rock and stand: H. 9 in. (22.9 cm); W. 13 1/16 in. (33.2 cm);  D. 3 9/16 in. (9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2021.95a, b"
+ },
+ "summary": "Scholar’s rock。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-25118-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/849481",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/849481.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

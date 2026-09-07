@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-65257",
+ "name": "Plaque in the Shape of a Chariot",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -799,
+  -600
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 4 in. (10.2 cm); W. 3 3/4 in. ( 9.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2002.201.13"
+ },
+ "summary": "Plaque。Northeast China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/2002_201_13.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/65257",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "出行"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/65257.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

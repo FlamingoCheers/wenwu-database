@@ -1,0 +1,44 @@
+{
+ "relic_id": "MET-61682",
+ "name": "Immortal raft",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1771,
+  1799
+ ],
+ "category": "竹木牙角",
+ "material": "Bamboo, wood stand",
+ "dimensions": "H. 5 in. (12.7 cm); W. 10 in. (25.4 cm); D. 3 in. (7.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "42.90.40a, b"
+ },
+ "summary": "Boat on stand。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-15968-027.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61682",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教",
+  "植物",
+  "出行",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61682.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

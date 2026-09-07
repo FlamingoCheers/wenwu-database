@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-52524",
+ "name": "Jar with lugs",
+ "aliases": [],
+ "dynasty": "夏",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -2000,
+  -2000
+ ],
+ "category": "陶器",
+ "material": "Earthenware with pigment",
+ "dimensions": "H. 6 5/16 in. (16.0 cm); Diam. 7 11/16 in. (19.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "27.31"
+ },
+ "summary": "Jar。China。Neolithic period",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/66658.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52524",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52524.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

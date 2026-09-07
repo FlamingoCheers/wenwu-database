@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-42733",
+ "name": "Buddha Maitreya (Mile)",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  486,
+  486
+ ],
+ "category": "青铜器",
+ "material": "Gilt bronze with traces of pigment; piece-mold cast",
+ "dimensions": "H. 55 1/4 in. (140.3 cm); W. 24 1/2 in. (62.2 cm); D. 19 1/4 in. (48.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "26.123"
+ },
+ "summary": "Figure。China。Northern Wei dynasty (386–534)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP170102.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42733",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42733.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

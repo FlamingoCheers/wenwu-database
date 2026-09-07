@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-48955",
+ "name": "Poem in Cursive Script",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1612,
+  1635
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink on silk",
+ "dimensions": "Image: 64 7/8 x 19 5/8 in. (164.8 x 49.8 cm)\r\nOverall with mounting: 98 1/2 x 25 5/8 in. (250.2 x 65.1 cm)\r\nOverall with knobs: 98 1/2 x 29 5/8 in. (250.2 x 75.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1979.500.3"
+ },
+ "summary": "Hanging scroll。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-36816-002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/48955",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/48955.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

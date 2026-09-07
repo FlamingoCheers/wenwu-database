@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-41618",
+ "name": "Snuff bottle with flowers and rocks",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted with colored enamels over a transparent glaze (Jingdezhen ware) and blue glass stopper",
+ "dimensions": "H. 2 1/4 in. (5.7 cm); H. incl. stand 2 7/8 in. (7.3 cm); W. 1 7/8 in. (4.8 cm); D. 3/4 in. (1.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "21.175.371a, b"
+ },
+ "summary": "Snuff bottle。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP319237.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/41618",
+ "license": "CC0",
+ "tags": [
+  "日常生活",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/41618.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

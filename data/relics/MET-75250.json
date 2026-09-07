@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-75250",
+ "name": "Landscapes of the Four Seasons",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1560,
+  1560
+ ],
+ "category": "杂器",
+ "material": "Set of four hanging scrolls; ink and color on paper",
+ "dimensions": "Image (a): 126 3/8 x 37 in. (321 x 94 cm)\r\nImage (b): 127 1/4 x 36 7/8 in. (323.2 x 93.7 cm)\r\nImage (c): 126 3/4 x 36 7/8 in. (321.9 x 93.7 cm)\r\nImage (d): 126 7/8 x 36 7/8 in. (322.3 x 93.7 cm)\r\nOverall with mounting (b): 141 3/4 x 42 3/8 in. (360 x 107.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2008.590a–d"
+ },
+ "summary": "Hanging scrolls。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP227750.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/75250",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/75250.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

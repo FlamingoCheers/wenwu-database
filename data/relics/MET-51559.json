@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-51559",
+ "name": "Lady with Scroll",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1368,
+  1911
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; color on silk",
+ "dimensions": "Image: 47 3/4 × 18 1/4 in. (121.3 × 46.4 cm)\r\nOverall with mounting: 84 × 24 1/4 in. (213.4 × 61.6 cm)\r\nOverall with knobs: 84 × 26 1/2 in. (213.4 × 67.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "29.100.443"
+ },
+ "summary": "Hanging scroll。China。Ming (1368–1644) or Qing (1644–1911) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/29_100_443.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51559",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/51559.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

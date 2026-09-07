@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-46027",
+ "name": "Teapot",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "瓷器",
+ "material": "Red stoneware (Yixing ware)",
+ "dimensions": "H. incl. finial 5 in. (12.7 cm); H. w/o finial 3 3/4 in. (9.5 cm); W. from spout to handle 6 in. (15.2 cm); Diam. of base 3 3/8 in. (8.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "44.39.1a, b"
+ },
+ "summary": "Teapot。China。Qing dynasty (1644-1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/132657.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/46027",
+ "license": "CC0",
+ "tags": [
+  "茶文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/46027.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

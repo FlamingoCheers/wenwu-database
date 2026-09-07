@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-61403",
+ "name": "Mirror with interlaced dragons",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -475,
+  -300
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "Diam. 5 1/4 in. (13.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "23.120.5"
+ },
+ "summary": "Mirror。China。Eastern Zhou, Warring States period (475–221 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-23_120_5_001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61403",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61403.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-61192",
+ "name": "Burner (Ran Lu)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -199,
+  -1
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 3 7/8 in. (9.8 cm); W. 3 1/4 in. (8.3 cm); D. 7 5/8 in. (19.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "28.132.4"
+ },
+ "summary": "Burner。China。Han dynasty (206 BCE–220 CE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP151427.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61192",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/61192.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

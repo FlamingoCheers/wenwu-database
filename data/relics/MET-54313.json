@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-54313",
+ "name": "Brush pot",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1867,
+  1999
+ ],
+ "category": "竹木牙角",
+ "material": "Ivory",
+ "dimensions": "H. 3 in. (7.6 cm); Diam. (max.) 2 1/4 in. (5.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2000.514.49"
+ },
+ "summary": "Brush pot。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/2000_514_49_01_sf.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/54313",
+ "license": "CC0",
+ "tags": [
+  "文房",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/54313.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

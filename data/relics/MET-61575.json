@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-61575",
+ "name": "Figure of a lady holding a dragon boat model",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1279
+ ],
+ "category": "陶器",
+ "material": "Unglazed pottery",
+ "dimensions": "H. 3 in. (7.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.76.89"
+ },
+ "summary": "Figure。China。Song dynasty (960–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/30_76_89_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61575",
+ "license": "CC0",
+ "tags": [
+  "日常生活",
+  "祥瑞纹样",
+  "动物",
+  "出行"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61575.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

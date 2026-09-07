@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-53514",
+ "name": "Luohan",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "书画",
+ "material": "Side panel of a triptych of framed paintings; watercolor on linen",
+ "dimensions": "31 1/8 × 22 1/2 in. (79.1 × 57.2 cm)\r\nFramed: 35 1/2 in. × 26 5/8 in. × 1 in. (90.2 × 67.6 × 2.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.76.192"
+ },
+ "summary": "Panel from a triptych。China。Ming dynasty (1368–1644) or earlier",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/30_76_192.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/53514",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/53514.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

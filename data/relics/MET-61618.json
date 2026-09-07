@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-61618",
+ "name": "Portable Shrine with Buddhist Deities, Guardians and Donors",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1500,
+  1699
+ ],
+ "category": "竹木牙角",
+ "material": "Wood (linden) with traces of pigment; single-block construction",
+ "dimensions": "H. 11 1/4 in. (28.6 cm); W. 16 3/4 in. (42.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.76.158a–c"
+ },
+ "summary": "Portable shrine。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP163992.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61618",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "动物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61618.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

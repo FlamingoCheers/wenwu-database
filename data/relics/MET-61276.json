@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-61276",
+ "name": "Rectangular wine container (fanglei)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1299,
+  -1200
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 21 1/2 in. (54.6 cm); W. 11 1/4 in. (28.6 cm);  W. at handles 14 1/4 in. (36.2 cm); Diam. of base 5 in. (12.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "55.160a, b"
+ },
+ "summary": "Wine container。China。Shang dynasty (ca. 1600–1046 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP155099.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61276",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61276.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

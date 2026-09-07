@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-50549",
+ "name": "Daoist divine official",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1482,
+  1482
+ ],
+ "category": "瓷器",
+ "material": "Glazed stoneware (Shanxi liuli ware)",
+ "dimensions": "H. 23 3/4 in. (60.3 cm); W. 15 in. (38.1 cm); D. 8 3/8 in. (21.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1971.163"
+ },
+ "summary": "Figure。China。Ming dynasty (1368–1644), Chenghua period (1465–87)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP236431.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/50549",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/50549.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

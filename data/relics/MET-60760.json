@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-60760",
+ "name": "The Mustard Seed Garden Painting Manual",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1796,
+  1820
+ ],
+ "category": "竹木牙角",
+ "material": "Eight volumes of woodblock-printed books; ink on paper",
+ "dimensions": "Overall (vols. 2–5, each): 9 15/16 x 6 1/8 in. (25.2 x 15.6 cm)\r\nOverall (vols. 6–9, each): 9 9/16 x 6 1/4 in. (24.3 x 15.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "CIB4a–h"
+ },
+ "summary": "Illustrated book。China。Qing dynasty (1644–1911), Jiaqing period (1796–1820)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/CIB_4_v3_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/60760",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/60760.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

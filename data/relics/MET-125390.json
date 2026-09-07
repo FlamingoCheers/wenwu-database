@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-125390",
+ "name": "Collar",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1799
+ ],
+ "category": "杂器",
+ "material": "(a) Silk, metal, stone, enamel, feathers\r\n(b) Paper, silk",
+ "dimensions": "(a) Length: 33 in. (83.8 cm)\r\n(b) Length: 34 1/2 in. (87.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "C.I.40.56.1a–c"
+ },
+ "summary": "Collar。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/CI40.56.1a–c.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/125390",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/125390.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-42367",
+ "name": "Covered Jar (Hu)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -99,
+  1
+ ],
+ "category": "陶器",
+ "material": "Earthenware with painted decoration",
+ "dimensions": "H. 22 1/8 in. (56.2 cm); Diam. 13 5/8 in. (34.6 cm); Diam. of rim: 7 1/4 in. (18.4 cm); Diam. of foot: 8 in. (20.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1986.170a, b"
+ },
+ "summary": "Jar。China。Western Han dynasty (206 BCE–9 CE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT8314.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42367",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42367.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

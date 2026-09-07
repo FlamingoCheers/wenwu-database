@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-69806",
+ "name": "Sutra cover with auspicious signs and geometric pattern",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1500,
+  1699
+ ],
+ "category": "杂器",
+ "material": "Silk lampas with metal thread",
+ "dimensions": "13 1/2 × 5 1/8 in. (34.3 × 13 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "46.133.65"
+ },
+ "summary": "Sutra cover。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-46_133_65_front.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/69806",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "照明"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/69806.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

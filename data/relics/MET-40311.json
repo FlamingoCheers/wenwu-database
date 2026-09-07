@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-40311",
+ "name": "Ode on Returning Home",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1300,
+  1499
+ ],
+ "category": "金银器",
+ "material": "Handscroll; ink, color, and gold on paper",
+ "dimensions": "Image: 42 x 10 1/4 in. (106.7 x 26 cm)\r\nOverall with mounting: 12 1/4 in. x 13 ft. 6 in. (31.1 x 411.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "13.220.124"
+ },
+ "summary": "Handscroll。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP166346_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40311",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/40311.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

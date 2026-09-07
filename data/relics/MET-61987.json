@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-61987",
+ "name": "Figure of Buddha",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1799
+ ],
+ "category": "杂器",
+ "material": "Lapis lazuli",
+ "dimensions": "H. 4 3/4 in. (12.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.95.324"
+ },
+ "summary": "Figurine。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/30_95_324.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61987",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "日常生活"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61987.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

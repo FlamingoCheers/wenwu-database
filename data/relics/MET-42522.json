@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-42522",
+ "name": "Jar with Dragon",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1506,
+  1521
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with incised decoration under colored glazes",
+ "dimensions": "H. 4 7/16 in. (11.3 cm); Diam. 5 7/8 in. (14.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1981.368.1"
+ },
+ "summary": "Jar。China。Ming dynasty (1368–1644), Zhengde mark and period (1506–21)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14609-095.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42522",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42522.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

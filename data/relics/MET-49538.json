@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-49538",
+ "name": "Scabbard Chape",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -400,
+  -100
+ ],
+ "category": "杂器",
+ "material": "Agate",
+ "dimensions": "H. 1 5/16 in. (3.3 cm); L. 2 1/16 in. (5.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.214.105"
+ },
+ "summary": "Scabbard chape。China。Eastern Zhou (770–256 BCE)–Western Han (206 BCE–9 CE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1985_214_105.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49538",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/49538.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

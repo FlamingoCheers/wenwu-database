@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-65628",
+ "name": "Album of painting and calligraphy for Maoshu",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1666,
+  1680
+ ],
+ "category": "书画",
+ "material": "Album of fourteen paintings and facing pages of calligraphy; ink and color on paper",
+ "dimensions": "Image (each leaf, various image sizes): 13 3/4 × 11 1/8 in. (34.9 × 28.3 cm)\r\nEach double leaf: 13 3/4 × 22 1/4 in. (34.9 × 56.5 cm)\r\nAlbum: 13 3/4 × 11 1/8 × 1 1/4 in. (34.9 × 28.3 × 3.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2015.784.7"
+ },
+ "summary": "Album leaves。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-13189-002_crd.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/65628",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/65628.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

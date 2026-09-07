@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-60529",
+ "name": "Thousand-armed Guanyin seated on lotus",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1500,
+  1599
+ ],
+ "category": "杂器",
+ "material": "Silk embroidered in colored silks",
+ "dimensions": "31 1/4 x 17 3/4 in. (79.4 x 45.1cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "27.176.1"
+ },
+ "summary": "Textile。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP306908.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/60529",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "植物",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/60529.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

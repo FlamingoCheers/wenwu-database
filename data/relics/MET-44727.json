@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-44727",
+ "name": "Jar (Guan)",
+ "aliases": [],
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -2650,
+  -2350
+ ],
+ "category": "陶器",
+ "material": "Earthenware with pigment",
+ "dimensions": "H. 15 3/4 in. (40 cm); W. incl. lugs 16 in. (40.6 cm); Diam. of rim 5 1/4 in. (13.3 cm); Diam. of base 5 in. (12.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1992.165.13"
+ },
+ "summary": "Jar。China。Neolithic period, Majiayao culture (ca. 3300–2050 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP341142.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44727",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44727.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

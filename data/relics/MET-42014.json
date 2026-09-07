@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-42014",
+ "name": "Seal with knob in the shape of a wheel",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1424,
+  1424
+ ],
+ "category": "竹木牙角",
+ "material": "Ivory",
+ "dimensions": "H. 2 3/4 in. (7 cm); W. 1 5/8 in. (4.2 cm); D. 1 5/8 in. (4.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1994.56"
+ },
+ "summary": "Seal。China。Ming dynasty (1368–1644), Yongle period (1403–24)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP318655.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42014",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "玺印封泥",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42014.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

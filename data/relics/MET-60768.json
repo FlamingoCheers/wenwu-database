@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-60768",
+ "name": "Ten Bamboo Studio",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1757,
+  1757
+ ],
+ "category": "竹木牙角",
+ "material": "Ten volumes of woodblock-printed books; ink and color on paper",
+ "dimensions": "Overall (volume): L. 10 in. (25.4 cm); W. 5 5/8 in. (14.3 cm); H. 1/16 in. (0.2 cm)\r\nOverall (with cover): L. 10 1/4 in. (26 cm); W. 6 in. (15.2 cm); H. 2 1/4 in. (5.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "CIB14a–j"
+ },
+ "summary": "Illustrated book。China。Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/CIB14_O2.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/60768",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/60768.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

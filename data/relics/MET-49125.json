@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-49125",
+ "name": "Landscape",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1648,
+  1648
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink on satin",
+ "dimensions": "Image: 33 5/8 x 11 1/4 in. (85.4 x 28.6 cm)\r\nOverall with mounting: 85 x 17 1/8 in. (215.9 x 43.5 cm)\r\nOverall with knobs: 85 x 20 5/8 in. (215.9 x 52.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1989.363.128"
+ },
+ "summary": "Hanging scroll。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-36006-002.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49125",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49125.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

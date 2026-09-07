@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-40681",
+ "name": "Bowl with auspicious symbols",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1573,
+  1620
+ ],
+ "category": "杂器",
+ "material": "Cloisonné enamel",
+ "dimensions": "H. 5 in. (12.7 cm); Diam. of rim 10 1/2 in. (26.7 cm); Diam. of foot 6 in. (15.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "29.110.18"
+ },
+ "summary": "Bowl。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP236620.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40681",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "祥瑞纹样"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/40681.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

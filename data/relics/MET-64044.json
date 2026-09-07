@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-64044",
+ "name": "Fragmentary 1000-character essay written in cursive script in the Tang dynasty",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1900,
+  1999
+ ],
+ "category": "杂器",
+ "material": "Ink on paper",
+ "dimensions": "Image (a): 12 1/2 in. × 43 in. (31.8 × 109.2 cm)\r\nImage (b): 12 3/4 × 32 1/2 in. (32.4 × 82.6 cm)\r\nImage (c): 21 1/2 in. × 21 in. (54.6 × 53.3 cm)\r\nImage (d): 11 1/4 in. × 19 in. (28.6 × 48.3 cm)\r\nImage (e): 11 1/4 in. × 30 in. (28.6 × 76.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1977.375.29a–e"
+ },
+ "summary": "Rubbings。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1977_375_29a_e_label_strip_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/64044",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/64044.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

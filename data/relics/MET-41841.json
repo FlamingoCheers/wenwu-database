@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-41841",
+ "name": "The Melodious Fountain Study",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1871,
+  1933
+ ],
+ "category": "杂器",
+ "material": "Ink",
+ "dimensions": "H. 2 1/16 in. (5.2 cm); W. 2 9/16 in. (6.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.76.261"
+ },
+ "summary": "Ink tablet。China。late Qing dynasty (1644–1911) or early Republic period (1912–49)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/30_76_261_F.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/41841",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/41841.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

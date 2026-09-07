@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-42405",
+ "name": "Plate with Phoenix and Mythical Qilin",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1678,
+  1688
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted with colored enamels over transparent glaze (Jingdezhen ware)",
+ "dimensions": "Diam. 11 in. (27.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "25.64.9"
+ },
+ "summary": "Plate。China。Qing dynasty (1644–1911), Kangxi mark and period (1662–1722)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14608-051.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42405",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "祥瑞纹样"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42405.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

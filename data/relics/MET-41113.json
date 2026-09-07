@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-41113",
+ "name": "Snuff bottle with stopper",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1899
+ ],
+ "category": "杂器",
+ "material": "Rock crystal of the variety known as \"smoky quartz\", red coral,  gilt metal",
+ "dimensions": "H. 2 1/2 in. (6.4 cm); W. 2 1/4 in. (5.7 cm); D. 1 1/4 in. (3.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.937a, b"
+ },
+ "summary": "Snuff bottle with stopper。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/02_18_937.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/41113",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "日常生活"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/41113.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

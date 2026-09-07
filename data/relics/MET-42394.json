@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-42394",
+ "name": "Jar decorated with rock, peonies, and birds",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1634,
+  1699
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze cobalt blue and overglaze enamels (Jingdezhen ware)",
+ "dimensions": "H. 11 5/8 in. (29.5 cm) ; Diam. 10 in. (25.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "24.80.164a, b"
+ },
+ "summary": "Jar。China。Qing dynasty (1644–1911), Shunzhi (1644–61)–Kangxi (1662–1722) period",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14608-046.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42394",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42394.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

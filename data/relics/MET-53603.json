@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-53603",
+ "name": "Landscape with Sailboats",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1427,
+  1509
+ ],
+ "category": "杂器",
+ "material": "Album leaf; ink and color on paper",
+ "dimensions": "9 5/8 x 14 13/16 in. (24.4 x 37.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "69.131.12"
+ },
+ "summary": "Album leaf。China。Ming (1368–1644) or Qing (1644–1911) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP156828.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/53603",
+ "license": "CC0",
+ "tags": [
+  "山水",
+  "出行"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/53603.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

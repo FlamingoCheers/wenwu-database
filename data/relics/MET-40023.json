@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-40023",
+ "name": "Textile fragment with birds among flowers",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1000,
+  1125
+ ],
+ "category": "金银器",
+ "material": "Silk complex gauze, ink, gold and pigment",
+ "dimensions": "24 3/8 × 25 3/4 in. (61.9 × 65.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1998.115"
+ },
+ "summary": "Fragment。China。Liao dynasty (907–1125)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-1998_115_obverse.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40023",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "植物",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/40023.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

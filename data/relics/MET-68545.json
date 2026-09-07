@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-68545",
+ "name": "Chair strip with dragons",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1799
+ ],
+ "category": "杂器",
+ "material": "Silk, metal threads, and peacock feather embroidery on silk gauze",
+ "dimensions": "89 1/8 × 22 in. (226.4 × 55.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.75.52"
+ },
+ "summary": "Chair strip。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-30_75_52_ft.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/68545",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/68545.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

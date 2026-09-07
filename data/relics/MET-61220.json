@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-61220",
+ "name": "Upright bell (nao)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1299,
+  -1200
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 11 1/2 in. (29.2 cm); W. 7 5/16 in. (18.5 cm); L. 11 1/4 in. (28.6 cm); W. at shoulder 6 11/16 in. (17 cm); L. at shoulder 8 1/4 in. (21 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "43.24.2a, b"
+ },
+ "summary": "Bell。China。Shang dynasty (ca. 1600–1046 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP155228.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61220",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/61220.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

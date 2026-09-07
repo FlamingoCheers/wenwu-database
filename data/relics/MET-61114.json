@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-61114",
+ "name": "Lotus",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": "Gilt bronze",
+ "dimensions": "Overall: H. 4 in. (10.2 cm); Diam. 4 1/4 in. (10.8 cm)\r\nOverall (with stand): H. 6 3/8 in. (16.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "22.79.11a, b"
+ },
+ "summary": "Figurine。China。Tang dynasty (618–907)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP203246.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61114",
+ "license": "CC0",
+ "tags": [
+  "日常生活",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61114.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

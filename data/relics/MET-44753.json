@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-44753",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1505,
+  1521
+ ],
+ "category": "瓷器",
+ "material": "Porcelain decorated with underglaze blue and overglaze enamel (Jingdezhen ware)",
+ "dimensions": "Diam. 6 5/8 in. (16.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1991.253.53"
+ },
+ "summary": "Bowl。China。Ming dynasty (1368–1644), Zhengde mark and period (1506–21)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1991_253_53.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44753",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44753.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

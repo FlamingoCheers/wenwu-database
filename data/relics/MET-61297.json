@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-61297",
+ "name": "Incense Burner",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1426,
+  1435
+ ],
+ "category": "青铜器",
+ "material": "Bronze, gold",
+ "dimensions": "H. 1/3/8 in. (3.5 cm); W. at handles 4 1/2 in. (11.4 cm); D. 3 1/2 in. (8.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "67.55.93"
+ },
+ "summary": "Incense burner。China。Ming dynasty (1368–1644), Xuande period (1426–35)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/67_55_93.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61297",
+ "license": "CC0",
+ "tags": [
+  "香文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61297.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

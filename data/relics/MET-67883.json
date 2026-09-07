@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-67883",
+ "name": "Two table valances with dragons",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "金银器",
+ "material": "Silk velvet with gold thread",
+ "dimensions": "a: 36 5/16 × 41 in. (92.2 × 104.1 cm)\r\nb: 36 3/8 × 41 1/2 in. (92.4 × 105.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "09.13.14a, b"
+ },
+ "summary": "Valances。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-09_13_14a_front.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/67883",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/67883.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

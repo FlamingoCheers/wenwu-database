@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-72711",
+ "name": "Blossoming Plum",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1840,
+  1840
+ ],
+ "category": "金银器",
+ "material": "Four album leaves; ink on gold-flecked paper",
+ "dimensions": "Image: 9 1/4 x 8 1/2 in. (23.5 x 21.6 cm)\r\nOverall with mounting: 17 1/2 x 14 1/2 in. (44.5 x 36.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2004.557.2a–d"
+ },
+ "summary": "Album leaves。China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP164323.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/72711",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/72711.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

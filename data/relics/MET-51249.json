@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-51249",
+ "name": "Service with Decoration of Flowers and Birds",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1267,
+  1333
+ ],
+ "category": "金银器",
+ "material": "Silver with gilding",
+ "dimensions": "Diam. from 4 3/8 in. (11.1 cm) to 7 1/2 in. (19 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1997.33.1–.6"
+ },
+ "summary": "Service。China。Southern Song (1127–1278)–Yuan (1271–1368) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT211.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/51249",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/51249.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

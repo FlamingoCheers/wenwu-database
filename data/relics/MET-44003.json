@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-44003",
+ "name": "Button",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1796,
+  1820
+ ],
+ "category": "玉器",
+ "material": "Jadeite, dark brownish-red",
+ "dimensions": "H. 1 7/8 in. (4.7 cm); W. 1 1/2 in. (3.8 cm); D. 3/8 in. (1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.713"
+ },
+ "summary": "Button。China。Qing dynasty (1644–1911), Jiaqing period (1796–1820)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/32927.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44003",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/44003.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

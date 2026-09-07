@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-40004",
+ "name": "In the Palace",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1139
+ ],
+ "category": "杂器",
+ "material": "Handscroll; ink and touches of color on silk",
+ "dimensions": "Image: 10 1/4 × 57 3/4 in. (26 × 146.7 cm)\r\nOverall with mounting: 10 11/16 in. × 29 ft. 11 7/8 in. (27.1 × 914.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1978.4"
+ },
+ "summary": "Handscroll。China。Song dynasty (960–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP204392_93_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40004",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/40004.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

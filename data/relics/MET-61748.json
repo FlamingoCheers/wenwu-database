@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-61748",
+ "name": "Head of attendant",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1000,
+  1199
+ ],
+ "category": "杂器",
+ "material": "Unfired clay with traces of pigment and gilding",
+ "dimensions": "H. 12 7/8 in. (32.7 cm); W. 8 in. (20.3 cm); D. 9 1/8 in. (23.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "58.64.31"
+ },
+ "summary": "Head。China。Liao (907–1125) or Jin (1125–1234) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP222947.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61748",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61748.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

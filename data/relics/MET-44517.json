@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-44517",
+ "name": "Ritual Tripod Cauldron with Cover (Ding)",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -499,
+  -300
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. (at handles) 16 7/8 in. (42.9 cm); W. (at handles) 19 3/4 in. (50.2 cm); Diam. 16 5/8 in. (42.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1988.20.6a, b"
+ },
+ "summary": "Cauldron。China。Eastern Zhou dynasty (770–256 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP140749.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44517",
+ "license": "CC0",
+ "tags": [
+  "礼制",
+  "祭祀"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44517.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-50278",
+ "name": "Pouring Vessel (Kendi) with Flowers and Birds",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1567,
+  1633
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with applied decoration painted with cobalt blue under transparent glaze (Jingdezhen ware)",
+ "dimensions": "H. 7 7/16 in. (18.9 cm); W. 5 7/16 in. (13.8 cm); D. 5 in. (12.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "79.2.166"
+ },
+ "summary": "Pouring vessel。China。Ming dynasty (1368–1644), Wanli period (1573–1620)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP264298.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/50278",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/50278.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-61255",
+ "name": "Chariot axle cap and linchpin",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -500,
+  -400
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "a (cap): H. 2 3/4 in. (7 cm); Diam. 2 11/16 in. (6.8 cm)\r\nb (linchpin): H. 2 13/16 in. (7.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "49.137.11a, b"
+ },
+ "summary": "Chariot fittings。China。Eastern Zhou dynasty (770–256 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP167719.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61255",
+ "license": "CC0",
+ "tags": [
+  "出行"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61255.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

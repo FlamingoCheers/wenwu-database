@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-70206",
+ "name": "Empress's Twelve-Symbol Robe",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1851,
+  1861
+ ],
+ "category": "杂器",
+ "material": "Silk",
+ "dimensions": "53 x 76 1/2 in. (134.62 x 194.31 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "56.92.3"
+ },
+ "summary": "Robe, Empress's Twelve Symbol。China。Qing dynasty (1644–1911), Xianfeng period (1851–61)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/161415.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/70206",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/70206.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

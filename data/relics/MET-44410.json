@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-44410",
+ "name": "Horse and cavalry rider",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -206,
+  220
+ ],
+ "category": "陶器",
+ "material": "Earthenware with pigment",
+ "dimensions": "Horse: H. 13 1/2 in. (34.3 cm); L. 18 11/16 in. (47.5 cm)\r\nRider: H. 13 in. (33 cm); W. 9 3/4 in. (24.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1994.605.110a, b"
+ },
+ "summary": "Figures。China。Han dynasty (206 BCE–220 CE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-1994_605_110ab_001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44410",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44410.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

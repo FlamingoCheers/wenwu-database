@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-53713",
+ "name": "Theatrical Robe for a Male Role",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1750,
+  1799
+ ],
+ "category": "杂器",
+ "material": "Silk florentine stitch embroidery on silk gauze",
+ "dimensions": "Overall: 55 3/8 x 89 1/4 in. (140.7 x 226.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "32.30.10"
+ },
+ "summary": "Robe。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP241377.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/53713",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/53713.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

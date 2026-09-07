@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-40699",
+ "name": "Incense burner in the shape of a rooster",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1750,
+  1799
+ ],
+ "category": "杂器",
+ "material": "Cloisonné enamel",
+ "dimensions": "H. 8 1/4 in. (21 cm); W. 7 1/2 in. (19.1 cm); D. 3 1/4 in. (8.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "29.110.41"
+ },
+ "summary": "Incense burner。China。Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP242334.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40699",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "香文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/40699.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

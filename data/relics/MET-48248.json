@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-48248",
+ "name": "Tea caddy with flowers",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1796,
+  1820
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with polychrome enamels over a blue ground (Jingdezhen ware)",
+ "dimensions": "H. 8 in. (20.3 cm); W. 4 3/8 in. (11.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "79.2.1298a, b"
+ },
+ "summary": "Tea caddy。China。Qing dynasty (1644–1911), Jiaqing period (1796–1820)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/79_2_1298ab_O1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/48248",
+ "license": "CC0",
+ "tags": [
+  "茶文化",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/48248.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

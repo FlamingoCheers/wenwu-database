@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-61311",
+ "name": "Water basin (Pan)",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -800,
+  -600
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 4 9/16 in. (11.6 cm); W. 13 13/16 in. (35.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1975.66.2"
+ },
+ "summary": "Basin。China。Western Zhou (1046–771 BCE)–Eastern Zhou  (770–256 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP151402.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61311",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/61311.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

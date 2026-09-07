@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-40054",
+ "name": "Odes of the State of Bin",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1134,
+  1166
+ ],
+ "category": "金银器",
+ "material": "Handscroll; ink, color, gold and silver on silk",
+ "dimensions": "Image: 10 15/16 in. × 21 ft. 9 1/4 in. (27.8 × 663.6 cm)\r\nOverall with mounting: 13 13/16 in. × 45 ft. 10 1/2 in. (35.1 × 1398.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1973.121.3"
+ },
+ "summary": "Handscroll。China。Southern Song dynasty (1127–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP213064_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40054",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/40054.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-65322",
+ "name": "Openwork Fitting",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  600,
+  899
+ ],
+ "category": "金银器",
+ "material": "Gold",
+ "dimensions": "H. 3/4 in. (1.9 cm); W. 1 in. (2.5 cm); D. 3/4 in. (1.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2003.24.9"
+ },
+ "summary": "Fitting。China (Xinjiang Autonomous Region, Central Asia)。Period of Tibetan Empire",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP271990.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/65322",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/65322.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

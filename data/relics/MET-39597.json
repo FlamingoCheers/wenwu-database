@@ -2,8 +2,8 @@
  "relic_id": "MET-39597",
  "name": "Purse with boys playing",
  "aliases": [],
- "dynasty": "辽",
- "dynasty_confidence": "inferred",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
  "year_range": [
   900,
   1099
@@ -32,7 +32,7 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/39597.json",
- "needs_review": false,
- "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
 }

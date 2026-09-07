@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-61650",
+ "name": "Right hand of Buddha",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  540,
+  570
+ ],
+ "category": "杂器",
+ "material": "Limestone with pigment and gilding",
+ "dimensions": "H. 20 1/2 in. (52.1 cm); W. 15 in. (38.1 cm); D. 20 in. (50.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.81"
+ },
+ "summary": "Sculpture。China (Northern Xiangtangshan, North Cave)。Northern Qi dynasty (550–577)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP170109.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61650",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61650.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

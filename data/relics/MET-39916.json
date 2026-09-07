@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-39916",
+ "name": "Frontispiece and Colophons to the Album \"Five Old Men of Suiyang\"",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1000,
+  1911
+ ],
+ "category": "杂器",
+ "material": "Album of fifteen leaves; ink on paper",
+ "dimensions": "Overall with mounting (each double leaves): 19 x 32 in. (48.3 x 81.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "17.136a–r"
+ },
+ "summary": "Album leaves。China。Song (960–1279)–Qing (1644–1911) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP164581.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39916",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39916.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

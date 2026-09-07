@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-73223",
+ "name": "Wrist Rest with Scene from \"The West Chamber\"",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1674,
+  1734
+ ],
+ "category": "竹木牙角",
+ "material": "Bamboo",
+ "dimensions": "H. 8 1/8 in. (20.6 cm); W. 2 1/8 in. (5.4 cm); D. 1/2 in. (1.3 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.237"
+ },
+ "summary": "Wrist rest。China。Qing (1644–1911) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP302904.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/73223",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/73223.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

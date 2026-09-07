@@ -1,0 +1,44 @@
+{
+ "relic_id": "MET-70546",
+ "name": "Hanging with immortals, dragons, and phoenixes",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1767,
+  1833
+ ],
+ "category": "杂器",
+ "material": "Silk lampas",
+ "dimensions": "8 ft. 4 in. × 63 1/4 in. (254 × 160.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1973.332"
+ },
+ "summary": "Hanging。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-1973_332_Front.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/70546",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教",
+  "祥瑞纹样",
+  "动物",
+  "照明"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/70546.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

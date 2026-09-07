@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-40514",
+ "name": "Dragon Boat Regatta on Jinming Lake",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1300,
+  1368
+ ],
+ "category": "杂器",
+ "material": "Handscroll; ink on silk",
+ "dimensions": "Image: 13 1/2 x 17 ft 6 in. (34.3 cm x 53.8 m)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "66.174a"
+ },
+ "summary": "Handscroll。China。Yuan dynasty (1271–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP204601_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40514",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物",
+  "出行"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/40514.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-61778",
+ "name": "Buddha Shakyamuni",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  581,
+  618
+ ],
+ "category": "杂器",
+ "material": "Marble",
+ "dimensions": "H. 17 3/4 in. (45.1 cm); W. 10 7/8 in. (27.6 cm); D. 7 in. (17.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.214.145"
+ },
+ "summary": "Upper half of figure。China。Sui dynasty (581–618)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-38581-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61778",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61778.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

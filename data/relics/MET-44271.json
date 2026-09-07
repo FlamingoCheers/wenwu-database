@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-44271",
+ "name": "Lotus bowl with Buddhist figures",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1799
+ ],
+ "category": "玉器",
+ "material": "Jade (nephrite)",
+ "dimensions": "H. 6 5/16 in. (16 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "50.145.97a, b"
+ },
+ "summary": "Covered bowl。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-45485-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44271",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "食器",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44271.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

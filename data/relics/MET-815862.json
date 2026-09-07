@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-815862",
+ "name": "Ceremonial halberd blade or finial",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1046,
+  -771
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 15 in. (38.1 cm); W. 6 1/4 in. (15.9 cm,); D. 1 1/8 in. (2.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2019.109"
+ },
+ "summary": "Blade or finial。China。Western Zhou dynasty (1046–771 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-20777-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/815862",
+ "license": "CC0",
+ "tags": [
+  "战争",
+  "兵器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/815862.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

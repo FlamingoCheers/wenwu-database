@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-57821",
+ "name": "Women in a Palace",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1667,
+  1699
+ ],
+ "category": "漆器",
+ "material": "Black lacquer with mother-of-pearl and gold-foil inlay",
+ "dimensions": "9 ft. 4 5/8 in. × 24 ft. 8 1/16 in. (286.1 × 752 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2001.76a–l"
+ },
+ "summary": "Twelve-panel screen。China。Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP141220.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/57821",
+ "license": "CC0",
+ "tags": [
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/57821.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

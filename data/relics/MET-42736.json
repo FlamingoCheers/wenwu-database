@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-42736",
+ "name": "Altar coffer",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1600,
+  1799
+ ],
+ "category": "竹木牙角",
+ "material": "Wood (huanghuli or Dalbergia odorifera)",
+ "dimensions": "H. 30 in. (76.2 cm); W. 73 in. (185.4 cm); D. 21 1/8 in. (53.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1976.344a–d"
+ },
+ "summary": "Altar coffer。China。late Ming (1368–1644) or early Qing (1644–1911) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1976_344.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42736",
+ "license": "CC0",
+ "tags": [
+  "礼制",
+  "祭祀"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42736.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

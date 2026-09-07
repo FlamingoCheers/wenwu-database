@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-739053",
+ "name": "Octagonal cup with dragon handles",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1600,
+  1644
+ ],
+ "category": "杂器",
+ "material": "Gilt copper alloy",
+ "dimensions": "H. to handles 3 1/4 in. (8.3 cm); H. to rim (2 1/2 in. (6.4 cm); Diam. of rim 3 5/8 in. (9.2 cm); Diam. of foot 1 7/8 in. (4.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2017.20"
+ },
+ "summary": "Cup。China。Late Ming (1368–1644)– early Qing (1644–1911) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14002-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/739053",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/739053.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

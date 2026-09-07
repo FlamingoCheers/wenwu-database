@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-52640",
+ "name": "Flowerpot",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1367,
+  1433
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with variegated purple glaze (Jun ware)",
+ "dimensions": "H. 7 1/4 in. (18.4 cm); Diam. 7 1/2 in. (19.1 cm); Diam. of rim 7 7/8 in. (20 cm); Diam. of foot 4 5/8 in. (11.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "50.145.306"
+ },
+ "summary": "Flowerpot。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-46055-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/52640",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/52640.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

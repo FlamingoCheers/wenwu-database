@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-40092",
+ "name": "Boating by a Willow Bank",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1200,
+  1299
+ ],
+ "category": "杂器",
+ "material": "Fan mounted as an album leaf; ink and color on silk",
+ "dimensions": "9 3/16 x 9 13/16 in. (23.3 x 24.9 cm); with mat: 15 1/2 x 15 1/2 in. (39.4 x 39.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "47.18.137"
+ },
+ "summary": "Fan mounted as an album leaf。China。Song dynasty (960–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP153512.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40092",
+ "license": "CC0",
+ "tags": [
+  "出行"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/40092.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

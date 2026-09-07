@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-61686",
+ "name": "Seated Buddha",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1411,
+  1411
+ ],
+ "category": "漆器",
+ "material": "Lacquered and gilded wood",
+ "dimensions": "H. 8 3/4 in. (22.2 cm); W. 6 1/2 in. (16.5 cm); D. 4 1/4 in. (10.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "42.151.4a–f"
+ },
+ "summary": "Figure。China。Ming dynasty (1368–1644), Yongle period (1403–24)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP164018.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61686",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61686.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-49376",
+ "name": "Ceremonial blade",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -1599,
+  -1000
+ ],
+ "category": "玉器",
+ "material": "Jade (nephrite)",
+ "dimensions": "W. 3 1/4 in. (8.3 cm); L. 13 7/8 in. (35.2 cm); D. 1/4 in. (.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.120.124"
+ },
+ "summary": "Blade。China。Neolithic period–Shang dynasty (ca. 1600–1046 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-45482-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49376",
+ "license": "CC0",
+ "tags": [
+  "战争",
+  "兵器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49376.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

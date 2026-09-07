@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-58527",
+ "name": "Cauldron (Fu)",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -300,
+  -99
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 7 in. (17.8 cm); Diam. of rim 4 1/4 in. (10.8 cm); Diam. of foot 3 1/2 (8.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2003.66.2"
+ },
+ "summary": "Cauldron。Northwest China",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/2003_66_2_O1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/58527",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/58527.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

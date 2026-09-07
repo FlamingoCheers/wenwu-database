@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-70321",
+ "name": "Textile with auspicious symbols",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1567,
+  1633
+ ],
+ "category": "杂器",
+ "material": "Silk gauze damask",
+ "dimensions": "34 1/4 × 80 5/8 in. (87 × 204.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "62.29.2"
+ },
+ "summary": "Textile。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC- 62_29_2_front.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/70321",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/70321.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

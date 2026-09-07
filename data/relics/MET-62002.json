@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-62002",
+ "name": "Guan Yu",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1690,
+  1710
+ ],
+ "category": "金银器",
+ "material": "Hanging scroll; ink, color, and gold on silk",
+ "dimensions": "Image: 68 1/8 x 36 7/16 in. (173 x 92.6 cm)\r\nOverall with mounting: 105 1/8 x 48 11/16 in. (267 x 123.7 cm)\r\nOverall with knobs: 105 1/8 x 52 1/2 in. (267 x 133.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2001.442"
+ },
+ "summary": "Hanging scroll。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-18070-024.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/62002",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/62002.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

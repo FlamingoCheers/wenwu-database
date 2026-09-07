@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-39548",
+ "name": "Rocky Landscape with Pines",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1295,
+  1345
+ ],
+ "category": "杂器",
+ "material": "Hanging scroll; ink on silk",
+ "dimensions": "Image: 35 3/4 × 16 3/4 in. (90.8 × 42.5 cm)\r\nOverall with mounting: 76 5/8 × 22 3/4 in. (194.6 × 57.8 cm)\r\nOverall with knobs: 76 5/8 × 26 1/8 in. (194.6 × 66.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2008.673"
+ },
+ "summary": "Hanging scroll。China。Yuan dynasty (1271–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP249730.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39548",
+ "license": "CC0",
+ "tags": [
+  "山水",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39548.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-44759",
+ "name": "Landscapes, Figures, and Flowers",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1618,
+  1622
+ ],
+ "category": "杂器",
+ "material": "Album of twelve leaves; ink and color on paper",
+ "dimensions": "Image: 8 3/4 × 3 5/8 in. (22.2 × 9.2 cm)\r\nInscription: 8 3/4 × 3 5/8 in. (22.2 × 9.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.121a–l"
+ },
+ "summary": "Album。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1985_121_A_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44759",
+ "license": "CC0",
+ "tags": [
+  "山水",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44759.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

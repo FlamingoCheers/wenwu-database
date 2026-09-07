@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-42709",
+ "name": "Buddha",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  534,
+  566
+ ],
+ "category": "杂器",
+ "material": "Limestone with traces of pigment",
+ "dimensions": "H. 31 1/2 in. (80 cm); W. 10 1/2 in. (26.7 cm); D. 7 3/4 in. (19.7 cm); Diam. (base): 11 1/2 in. (29.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "63.25"
+ },
+ "summary": "Stele fragment。China。Eastern Wei dynasty (534–550)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP170196.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42709",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42709.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

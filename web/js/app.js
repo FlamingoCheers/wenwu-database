@@ -33,12 +33,19 @@ async function loadIndex() {
 }
 
 /* ---------- 筛选与排序 ---------- */
+let _blobCache = null;
+function blobs() {
+  if (!_blobCache) _blobCache = state.index.items.map(x =>
+    (x.name + " " + x.alias + " " + x.dyn + " " + x.cat + " " + x.mat + " " + x.inv + " " + (x.tags || []).join(" ")).toLowerCase());
+  return _blobCache;
+}
+
 function filtered() {
   const q = state.q.trim().toLowerCase();
   let list = state.index.items;
   if (state.dyn !== "全部") list = list.filter(x => x.dyn === state.dyn);
   if (state.cat !== "全部") list = list.filter(x => x.cat === state.cat);
-  if (q) list = list.filter(x => x.b.includes(q));
+  if (q) { const bl = blobs(); list = list.filter((x, i) => bl[i].includes(q)); }
   if (state.sort === "year_asc") list = [...list].sort((a, b) => (a.y0 ?? 9e9) - (b.y0 ?? 9e9));
   if (state.sort === "year_desc") list = [...list].sort((a, b) => (b.y0 ?? -9e9) - (a.y0 ?? -9e9));
   return list;

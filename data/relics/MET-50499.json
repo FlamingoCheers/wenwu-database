@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-50499",
+ "name": "Teapot",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1900,
+  1999
+ ],
+ "category": "瓷器",
+ "material": "Stoneware (Yixing ware)",
+ "dimensions": "H.  4 3/8 in. (11.1 cm); Diam. at base: 5 in. (12.7 mcm); Diam. at rim: 3 1/8 in. (7.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1993.480.2a, b"
+ },
+ "summary": "Teapot。China。Modern",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1993_480_2.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/50499",
+ "license": "CC0",
+ "tags": [
+  "茶文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/50499.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

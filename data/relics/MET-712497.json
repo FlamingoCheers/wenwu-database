@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-712497",
+ "name": "The Water Margin",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1610,
+  1640
+ ],
+ "category": "竹木牙角",
+ "material": "Woodblock-printed book; ink on paper",
+ "dimensions": "H. 10 1/8 × W. 6 1/2 × D. 2 1/4 in. (25.7 × 16.5 × 5.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2020.73.4"
+ },
+ "summary": "Illustrated book。China。Ming dynasty (1368–1644)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-18167-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/712497",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/712497.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

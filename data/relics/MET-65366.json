@@ -1,0 +1,45 @@
+{
+ "relic_id": "MET-65366",
+ "name": "Daoist priest’s ritual robe with Eight Trigrams",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "杂器",
+ "material": "Silk appliqué with damask, satin, brocade, and embroidery with silk and metal thread",
+ "dimensions": "53 x 68 1/4 in. (134.6 x 173.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "36.105"
+ },
+ "summary": "Robe, Daoist Priest's。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/TP478.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/65366",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教",
+  "礼制",
+  "祭祀",
+  "动物",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/65366.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

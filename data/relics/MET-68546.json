@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-68546",
+ "name": "Chair Strip",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1662,
+  1735
+ ],
+ "category": "杂器",
+ "material": "Silk and metal thread embroidery on silk satin",
+ "dimensions": "Overall: 65 x 20 1/4 in. (165.10 x 51.44 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "30.75.53"
+ },
+ "summary": "Chair Strip。China。Qing dynasty, Kangxi (1662–1722)–Yongzheng (1723–35) period",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-40225-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/68546",
+ "license": "CC0",
+ "tags": [
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/68546.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-50537",
+ "name": "Bowl (one of a pair)",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1915,
+  1916
+ ],
+ "category": "瓷器",
+ "material": "Porcelain",
+ "dimensions": "H. 2 3/16 in. (5.6 cm); Diam. 4 11/16 in. (11.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "69.250.1"
+ },
+ "summary": "Bowl。China。Hongxian mark and period (1915–16)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/192228.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/50537",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/50537.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

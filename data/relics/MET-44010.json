@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-44010",
+ "name": "Sacrificial Vessel with Cover",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1796,
+  1875
+ ],
+ "category": "玉器",
+ "material": "Jadeite, creamy white with cloudings, veinings and streaks of bright emerald green",
+ "dimensions": "H. 6 in. (15.2 cm); W. 3 1/4 in. (8.3 cm); D. 1 3/8 in. (3.5 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.720a, b"
+ },
+ "summary": "Vessel with cover。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/32808.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44010",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44010.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

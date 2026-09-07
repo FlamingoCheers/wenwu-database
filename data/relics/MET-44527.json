@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-44527",
+ "name": "Winter landscapes and flowers",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1720,
+  1772
+ ],
+ "category": "书画",
+ "material": "Album of twelve paintings; ink and color on paper",
+ "dimensions": "Image (each): 8 5/8 × 11 7/8 in. (21.9 × 30.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1988.153.1a–l"
+ },
+ "summary": "Album。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP120312.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44527",
+ "license": "CC0",
+ "tags": [
+  "山水",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44527.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

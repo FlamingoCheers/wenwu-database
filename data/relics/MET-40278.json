@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-40278",
+ "name": "Meeting between Yaoshan and Li Ao",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1200,
+  1255
+ ],
+ "category": "书画",
+ "material": "Horizontal painting mounted as a hanging scroll; ink on paper",
+ "dimensions": "Image: 12 1/2 x 33 1/4 in. (31.8 x 84.5 cm)\r\nOverall with mounting: 49 1/8 x 34 in. (124.8 x 86.4 cm)\r\nOverall with knobs: 49 1/8 x 36 1/4 in. (124.8 x 92.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1982.2.1"
+ },
+ "summary": "Hanging scroll。China。Song dynasty (960–1279)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP154109.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40278",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/40278.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

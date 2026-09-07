@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-61008",
+ "name": "Incense burner",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1426,
+  1435
+ ],
+ "category": "金银器",
+ "material": "Brass inlaid with gold",
+ "dimensions": "H. 8 1/8 in. (20.6 cm); W. 8 5/8 in. (21.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "06.114a, b"
+ },
+ "summary": "Incense burner。China。Ming dynasty (1368–1644), Xuande period (1426–35)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/06_114_1476.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/61008",
+ "license": "CC0",
+ "tags": [
+  "香文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/61008.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

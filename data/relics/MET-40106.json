@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-40106",
+ "name": "Buddhist Temples amid Autumn Mountains",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1300,
+  1499
+ ],
+ "category": "杂器",
+ "material": "Handscroll; ink and pale color on silk",
+ "dimensions": "Image: 12 7/8 in. × 10 ft. 6 1/2 in. (32.7 × 321.3 cm)\r\nOverall with mounting: 13 1/8 in. × 37 ft. 2 1/8 in. (33.3 × 1133.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1983.12"
+ },
+ "summary": "Handscroll。China。Yuan (1271–1368)–Ming (1368–1644) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP213697_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/40106",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/40106.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

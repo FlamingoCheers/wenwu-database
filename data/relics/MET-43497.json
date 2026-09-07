@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-43497",
+ "name": "Pebble",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1902,
+  1902
+ ],
+ "category": "杂器",
+ "material": "Nephrite",
+ "dimensions": "H. 4 1/4 in. (10.8 cm); W. 2 1/4 in. (5.7 cm); Th. 3/4 in. (1.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.88"
+ },
+ "summary": "Pebble。China (possibly Turkestan)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/02_18_88 Pebble.JPG",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/43497",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/43497.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

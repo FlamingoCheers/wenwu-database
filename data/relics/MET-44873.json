@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-44873",
+ "name": "Landscapes and Flowers",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1600,
+  1649
+ ],
+ "category": "金银器",
+ "material": "Twelve folding fans mounted as album leaves; ink and color on gold paper",
+ "dimensions": "9 1/2 x 20 1/2 in. (24.1 x 52.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1989.364a–l"
+ },
+ "summary": "Folding fans mounted as album leaves。China。late Ming (1368–1644)–early Qing (1644–1911) dynasty",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DT6316_CRD.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44873",
+ "license": "CC0",
+ "tags": [
+  "山水",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44873.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

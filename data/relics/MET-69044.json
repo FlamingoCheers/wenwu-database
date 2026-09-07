@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-69044",
+ "name": "Throne cover with dragons",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1799
+ ],
+ "category": "金银器",
+ "material": "Silk lampas brocaded with gold thread",
+ "dimensions": "38 5/8 × 46 3/4 in. (98.1 × 118.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "32.65.27"
+ },
+ "summary": "Furniture cover。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/LC-32_65_27_front.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/69044",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物",
+  "照明"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/69044.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

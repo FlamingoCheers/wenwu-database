@@ -1,0 +1,38 @@
+{
+ "relic_id": "MET-53798",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1200,
+  1368
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with carved decoration under crackled glaze (Jingdezhen qingbai ware)",
+ "dimensions": "H. 9 13/16 in. (24.9 cm); Diam. 5 1/8 in. (13.0 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "18.97.1"
+ },
+ "summary": "Vase。China。Yuan dynasty (1271–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/18_97_1_O1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/53798",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/met/53798.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

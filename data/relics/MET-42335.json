@@ -1,0 +1,43 @@
+{
+ "relic_id": "MET-42335",
+ "name": "Candle Stand in the Shape of a Fantastic Animal",
+ "aliases": [],
+ "dynasty": "西晋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  265,
+  316
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with green glaze",
+ "dimensions": "L. 5 in. (12.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1990.291.1"
+ },
+ "summary": "Candle stand。China。Western Jin dynasty (265–316)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1990_291_1.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/42335",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "照明",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/42335.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

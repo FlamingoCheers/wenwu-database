@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-49379",
+ "name": "Tripod Vessel (Gui)",
+ "aliases": [],
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -2599,
+  -2500
+ ],
+ "category": "陶器",
+ "material": "Earthenware",
+ "dimensions": "H. 12 1/8 in. (30.8 cm); W. 6 in. (15.2 cm); D. 6 in. (15.2 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1993.198.2"
+ },
+ "summary": "Vessel。China。Neolithic, Dawenkou culture (ca. 2800–2400 BCE)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP-12552-001.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/49379",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/49379.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

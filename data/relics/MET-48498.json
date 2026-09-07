@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-48498",
+ "name": "Figure of a standing woman",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  600,
+  799
+ ],
+ "category": "陶器",
+ "material": "Earthenware with pigments",
+ "dimensions": "H. 10 in. (25.4 cm); W. 2 3/4 in. (7 cm); D. 2 1/4 in. (5.7 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "10.221.10"
+ },
+ "summary": "Figure。China。Tang dynasty (618–907)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/10_221_10_O1_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/48498",
+ "license": "CC0",
+ "tags": [
+  "日常生活",
+  "动物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/48498.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

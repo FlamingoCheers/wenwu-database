@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-44100",
+ "name": "Bodhisattva Guanyin Riding a White Lotus Petal",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1600,
+  1799
+ ],
+ "category": "杂器",
+ "material": "Silk and metallic thread embroidery on woven silk",
+ "dimensions": "Overall: 12 x 10 5/8 in. (30.5 x 27 cm)\r\nOverall with mounting: 18 3/4 × 17 1/4 in. (47.6 × 43.8 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "47.18.31"
+ },
+ "summary": "Album leaf。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/AR645.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44100",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44100.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

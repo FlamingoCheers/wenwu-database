@@ -1,0 +1,41 @@
+{
+ "relic_id": "MET-57612",
+ "name": "Bodhisattva Manjushri",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1403,
+  1424
+ ],
+ "category": "杂器",
+ "material": "Gilt copper alloy",
+ "dimensions": "H. 7 1/2 in. (19.1 cm); W. 4 3/4 in. (12.1 cm); D. 3 1/2 in. (8.9 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2001.59"
+ },
+ "summary": "Figure。China。Ming dynasty (1368–1644), Yongle mark and period (1403–24)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP164061.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/57612",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/57612.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

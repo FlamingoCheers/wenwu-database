@@ -1,0 +1,44 @@
+{
+ "relic_id": "MET-44338",
+ "name": "Chinese zodiac figure, tiger",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1200,
+  1299
+ ],
+ "category": "陶器",
+ "material": "Grey earthenware pottery with pigment",
+ "dimensions": "H. 4 3/4 in. (12.1 cm); W. 3 11/16 in. (9.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1994.605.37"
+ },
+ "summary": "Tomb figure。China。Jin (1115–1234) to Yuan dynasty (1279–1368)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/1994_605_37_L35760.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/44338",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器",
+  "天文历法",
+  "生肖",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/44338.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}

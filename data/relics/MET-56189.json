@@ -1,0 +1,42 @@
+{
+ "relic_id": "MET-56189",
+ "name": "Table screen with land of immortals",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1899
+ ],
+ "category": "玉器",
+ "material": "Jade (nephrite)",
+ "dimensions": "H. 11 9/16 in. (29.4 cm); W. 7 15/16 in. (20.2 cm); D. 9/16 in. (1.4 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "02.18.681"
+ },
+ "summary": "Table screen。China。Qing dynasty (1644–1911)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/14986.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/56189",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/56189.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-08",
+ "updated_at": "2026-09-08"
+}
