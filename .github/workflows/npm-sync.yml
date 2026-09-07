@@ -1,0 +1,51 @@
+# Ingest NPM (Taipei) open data for one dynasty axis, then validate + commit.
+# Run per-dynasty via dispatch; a weekly cron for NPM is added once all
+# axes have their first full pass.
+name: npm-sync
+on:
+  workflow_dispatch:
+    inputs:
+      dynasty:
+        description: "Dynasty axis label (e.g. 宋/明) or 'all'"
+        required: false
+        default: "宋"
+      limit:
+        description: "Max items this run (0 = unlimited)"
+        required: false
+        default: "0"
+
+permissions:
+  contents: write
+
+jobs:
+  npm:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Crawl NPM open data
+        run: |
+          python collectors/npm_collector.py \
+            --dynasty "${{ github.event.inputs.dynasty || '宋' }}" \
+            --limit ${{ github.event.inputs.limit || '0' }} \
+            --sleep 0.5
+
+      - name: Validate
+        run: python pipeline/validate.py
+
+      - name: Commit new relics
+        run: |
+          git config user.name "wenwu-bot"
+          git config user.email "bot@wenwu.local"
+          git add data/relics
+          if git diff --cached --quiet; then
+            echo "no new NPM data"
+          else
+            git commit -m "data: NPM ${{ github.event.inputs.dynasty || '宋' }} batch"
+            git push
+          fi
