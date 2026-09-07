@@ -13,11 +13,11 @@
 
 ---
 
-## P1 · 检索前端 🔄（当前阶段）
+## P1 · 检索前端 ✅（已上线 https://flamingocheers.github.io/wenwu-database/ ）
 
 | # | 任务 | 产出 | 验收标准 | 状态 |
 |---|------|------|----------|------|
-| 1.1 | 设计稿确认 | `web/design/mockup.html`（可交互，含真实数据） | 用户确认视觉方向与纹样/动效尺度 | 🔄 |
+| 1.1 | 设计稿确认 | `web/design/mockup.html`（可交互，含真实数据） | 用户确认视觉方向与纹样/动效尺度 | ✅ |
 | 1.2 | Web 索引构建器 | `pipeline/build_web_index.py` → `web/data/index.json.gz` | 全量 5,239 条；gz 456 KB（< 500 KB 达标）；明文兜底 | ✅ |
 | 1.3 | 静态站实现 | `web/index.html` + css + js（按设计稿实现） | 客户端搜索/朝代/类别筛选/详情弹层/分页/复制引用/#r= 分享链接 | ✅ |
 | 1.4 | GitHub Pages 部署 | `.github/workflows/deploy-pages.yml` | 公网可访问；数据推送自动重新部署（含首次竞态重跑） | ✅ |
@@ -31,8 +31,8 @@
 
 | # | 任务 | 产出 | 验收标准 | 状态 |
 |---|------|------|----------|------|
-| 0.1 | 609 件朝代复核 | LLM 批量判定脚本（读 raw 摘要+年代区间） + 复核报告 | needs_review < 100；抽样 30 件人工核对准确率 ≥ 90% | ⬜ |
-| 0.2 | 414 组同名疑重审核 | `raw/_dedupe_report.json` → LLM 判定 → `dedupe.py --apply` | 报告清零；删除有日志可回滚 | ⬜ |
+| 0.1 | 609 件朝代复核 | 规则法 `pipeline/infer_dynasty.py`（词表 range 重叠判定） | needs_review < 100；抽样 30 件人工核对准确率 ≥ 90% | ✅（609→164 待复核，445 推断） |
+| 0.2 | 414 组同名疑重审核 | 政策判定：同馆藏号=重（0组）；仅同名=保留（414组） | 报告清零；删除有日志可回滚 | ✅（余同名组留 LLM 阶段） |
 | 0.3 | 主题标签增强 | LLM 按 14 组人生主题标签体系补打 | ≥ 80% 文物 ≥ 2 个标签 | ⬜ |
 
 ---
@@ -41,8 +41,8 @@
 
 | # | 任务 | 产出 | 验收标准 | 状态 |
 |---|------|------|----------|------|
-| 2.1 | 国博截图采集试点（B 类流程验证） | `collectors/nmc_collector.py` + OCR 管线 | 50 件端到端入库（热链优先、截图兜底）过 validate | ⬜ |
-| 2.2 | 台北故宫 open data 整包 | `collectors/npm_collector.py`（Actions runner 下载） | 入库 ≥ 3,000 件；授权字段核验通过 | ⬜ |
+| 2.1 | 国博采集试点（实测纯静态分页，免 OCR） | `collectors/nmc_collector.py` | 50 件端到端入库过 validate | ✅（52 件，全量 112 页待跑） |
+| 2.2 | 台北故宫 open data 整包 | `collectors/npm_collector.py`（Actions runner） | 入库 ≥ 3,000 件；授权字段核验通过 | 🔄（试点 20 件 ✅；宋轴全量运行中，余朝代逐批） |
 | 2.3 | 香港故宫 / 史密森尼 API | `collectors/hkpm_collector.py` / `smi_collector.py` | 各 ≥ 500 件入库 | ⬜ |
 | 2.4 | 跨馆去重 | `dedupe.py` 跨馆模式 | 跨馆疑重报告生成并清零 | ⬜ |
 | 2.5 | 图片本地化策略落地 | 缩图管线 + 警戒线监控 | 热链失败的馆走 1000px/q80 缩图入库；仓库 < 1.5 GB | ⬜ |
