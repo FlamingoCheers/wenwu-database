@@ -23,6 +23,59 @@ DYNASTY_MAP = [
     (re.compile(r"\brepublic\b|\bmodern\b|\bcontemporary\b", re.I), "近代"),
 ]
 
+# 中文朝代词分两级:
+# STRONG——仅用于短字段(≤12字, 如博物馆卡片上的年代标注栏), 允许单字朝代名,
+#          对高危单字加负向断言(鎏金/黄金/公元/纪元/说明/西夏等误伤源)。
+# WEAK——用于任意长度文本, 只认"朝代+代/朝/初/末"及复合词(清宫/大唐/民国等)。
+CH_DYN_STRONG = [
+    (re.compile(r"旧石器|新石器|仰韶|龙山|良渚|红山|马家窑|齐家|二里头"), "新石器时代"),
+    (re.compile(r"西夏"), "西夏"),
+    (re.compile(r"[东西]周"), "东周"),
+    (re.compile(r"(?<!西)夏"), "夏"),
+    (re.compile(r"商"), "商"),
+    (re.compile(r"(?<![东西])周"), "东周"),
+    (re.compile(r"春秋"), "春秋"),
+    (re.compile(r"战国"), "战国"),
+    (re.compile(r"秦"), "秦"),
+    (re.compile(r"(?<!字)汉"), "汉"),
+    (re.compile(r"三国"), "三国"),
+    (re.compile(r"(?<![东西])晋"), "东晋"),
+    (re.compile(r"南北朝|北魏|东魏|西魏|北齐|北周"), "南北朝"),
+    (re.compile(r"隋"), "隋"),
+    (re.compile(r"唐"), "唐"),
+    (re.compile(r"五代"), "五代十国"),
+    (re.compile(r"辽"), "辽"),
+    (re.compile(r"(?<!鎏|黄|错|贴|紫)金"), "金"),
+    (re.compile(r"(?<!公|纪|美|日|多|单|综)元"), "元"),
+    (re.compile(r"(?<!证|说|黎|说)明"), "明"),
+    (re.compile(r"(?<!满)清"), "清"),
+    (re.compile(r"民国|近现代|现当代|当代|现代|近代"), "近代"),
+]
+
+CH_DYN_WEAK = [
+    (re.compile(r"旧石器时代|新石器时代|仰韶文化|龙山文化|良渚文化|红山文化|马家窑|齐家文化|二里头"), "新石器时代"),
+    (re.compile(r"西夏"), "西夏"),
+    (re.compile(r"夏代|夏朝|夏家店"), "夏"),
+    (re.compile(r"商代|商朝|殷商|商晚期|商早期"), "商"),
+    (re.compile(r"西周|东周|周代|周朝"), "东周"),
+    (re.compile(r"春秋"), "春秋"),
+    (re.compile(r"战国"), "战国"),
+    (re.compile(r"秦代|秦朝|大秦"), "秦"),
+    (re.compile(r"汉代|汉朝|西汉|东汉|两汉|汉墓"), "汉"),
+    (re.compile(r"三国|魏晋"), "三国"),
+    (re.compile(r"西晋|东晋|两晋|晋代"), "东晋"),
+    (re.compile(r"南北朝|北魏|东魏|西魏|北齐|北周"), "南北朝"),
+    (re.compile(r"隋代|隋朝"), "隋"),
+    (re.compile(r"唐代|唐朝|大唐|盛唐|晚唐|初唐|中唐|唐三彩"), "唐"),
+    (re.compile(r"五代十国|五代"), "五代十国"),
+    (re.compile(r"辽代|辽朝|契丹"), "辽"),
+    (re.compile(r"金代|金朝|女真"), "金"),
+    (re.compile(r"元代|元朝|蒙元"), "元"),
+    (re.compile(r"明代|明朝|明初|明末|大明|明式"), "明"),
+    (re.compile(r"清代|清朝|清初|清末|大清|清宫|清式|康雍乾"), "清"),
+    (re.compile(r"民国|共和国|近现代|现当代|当代|现代|近代"), "近代"),
+]
+
 DYNASTY_AMBIGUOUS = {
     "jin": lambda b: "金" if (b or 0) >= 1115 else "西晋",
     "zhou": lambda b: "西周" if (b or 0) < -771 else "东周",
@@ -99,6 +152,12 @@ def map_dynasty(*texts, begin=None, end=None):
     for pattern, key in DYNASTY_MAP:
         if pattern.search(joined):
             return key, "high"
+    # 中文两级: 短字段(年代栏/名称)可用单字朝代词, 长文本仅认带后缀复合词
+    short = len(joined) <= 12
+    for table in ([CH_DYN_STRONG, CH_DYN_WEAK] if short else [CH_DYN_WEAK]):
+        for pattern, key in table:
+            if pattern.search(joined):
+                return key, "medium"
     for token, resolver in DYNASTY_AMBIGUOUS.items():
         if re.search(rf"\b{token}\b", joined, re.I) and begin is not None:
             return resolver(begin), "medium"

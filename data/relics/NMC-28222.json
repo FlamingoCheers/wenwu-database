@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-28222",
+ "name": "玉梳",
+ "aliases": [],
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "玉器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "目前所见最早玉梳出土于陶寺龙山文化墓葬中。商周时期则多有发现。如殷墟妇好墓、浙川一号楚墓、曾侯乙墓等均出土有刻纹精美的玉梳。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218795000991972.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_28222.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_28222.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}
