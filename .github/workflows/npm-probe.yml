@@ -1,0 +1,29 @@
+# 台北故宫 Open Data 探测(Phase F)
+# 大陆网络不可达, 改用海外 runner 实测: 首页连通性 + 数据集整包链接收集
+# 产物为 artifact(不进主仓库), 供解析字段映射后决定是否正式接入
+name: npm-probe
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Probe NPM open data sites
+        run: |
+          mkdir -p npm_probe
+          for u in "https://theme.npm.edu.tw/opendata/" "https://opendata.npm.gov.tw/" "https://digitalarchive.npm.gov.tw/"; do
+            name=$(echo "$u" | sed 's|https://||; s|[/.]|_|g')
+            code=$(curl -sL -m 60 -A "Mozilla/5.0" -o "npm_probe/$name.html" -w "%{http_code}" "$u" || echo "000")
+            size=$(wc -c < "npm_probe/$name.html" 2>/dev/null || echo 0)
+            echo "== $u -> HTTP $code, ${size} bytes"
+          done
+          echo "---- dataset links ----"
+          grep -hoiE 'href="[^"]+\.(csv|json|zip|xlsx?)[^"]*"' npm_probe/*.html | sort -u | tee npm_probe/links.txt || echo "no dataset links found"
+          grep -hoiE '(href|data-url)="[^"]*(Data|download|dataset)[^"]*"' npm_probe/*.html | sort -u | head -50 || true
+      - name: Upload probe results
+        uses: actions/upload-artifact@v4
+        with:
+          name: npm-probe
+          path: npm_probe/
