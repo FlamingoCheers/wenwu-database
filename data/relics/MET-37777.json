@@ -2,8 +2,8 @@
  "relic_id": "MET-37777",
  "name": "Offering Tray (Talam)",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "宋",
+ "dynasty_confidence": "inferred",
  "year_range": [
   900,
   1399
@@ -32,7 +32,7 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/37777.json",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-04",
  "updated_at": "2026-09-04"
 }

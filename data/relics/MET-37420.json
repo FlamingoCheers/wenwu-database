@@ -2,8 +2,8 @@
  "relic_id": "MET-37420",
  "name": "Finial with a Cockerel",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "五代十国",
+ "dynasty_confidence": "inferred",
  "year_range": [
   900,
   949
@@ -32,7 +32,7 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/37420.json",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-04",
  "updated_at": "2026-09-04"
 }

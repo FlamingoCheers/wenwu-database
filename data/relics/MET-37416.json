@@ -2,8 +2,8 @@
  "relic_id": "MET-37416",
  "name": "Water Spout in the Form of a Makara",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "辽",
+ "dynasty_confidence": "inferred",
  "year_range": [
   850,
   1050
@@ -35,7 +35,7 @@
  ],
  "related": [],
  "raw_ref": "raw/met/37416.json",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-04",
  "updated_at": "2026-09-04"
 }

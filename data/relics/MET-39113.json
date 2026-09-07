@@ -2,8 +2,8 @@
  "relic_id": "MET-39113",
  "name": "Crowned and Jewelled Bust of Buddha",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "明",
+ "dynasty_confidence": "inferred",
  "year_range": [
   1300,
   1499
@@ -35,7 +35,7 @@
  ],
  "related": [],
  "raw_ref": "raw/met/39113.json",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-04",
  "updated_at": "2026-09-04"
 }

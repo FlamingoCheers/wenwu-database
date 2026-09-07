@@ -2,8 +2,8 @@
  "relic_id": "MET-38944",
  "name": "Ritual Ewer with Manasa, the Snake Goddess",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "辽",
+ "dynasty_confidence": "inferred",
  "year_range": [
   900,
   999
@@ -37,7 +37,7 @@
  ],
  "related": [],
  "raw_ref": "raw/met/38944.json",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-04",
  "updated_at": "2026-09-04"
 }

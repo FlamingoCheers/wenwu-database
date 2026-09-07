@@ -2,8 +2,8 @@
  "relic_id": "MET-36053",
  "name": "Landscape with Pavilions and Cranes",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "明",
+ "dynasty_confidence": "inferred",
  "year_range": [
   1271,
   1644
@@ -35,7 +35,7 @@
  ],
  "related": [],
  "raw_ref": "raw/met/36053.json",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-04",
  "updated_at": "2026-09-04"
 }

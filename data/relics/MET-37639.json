@@ -2,8 +2,8 @@
  "relic_id": "MET-37639",
  "name": "Fragment of a Box Lid",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "南北朝",
+ "dynasty_confidence": "inferred",
  "year_range": [
   350,
   550
@@ -34,7 +34,7 @@
  ],
  "related": [],
  "raw_ref": "raw/met/37639.json",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-04",
  "updated_at": "2026-09-04"
 }

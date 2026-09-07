@@ -2,8 +2,8 @@
  "relic_id": "MET-37631",
  "name": "Textile Panel with Scenes from the Ramayana",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "明",
+ "dynasty_confidence": "inferred",
  "year_range": [
   1350,
   1550
@@ -37,7 +37,7 @@
  ],
  "related": [],
  "raw_ref": "raw/met/37631.json",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-04",
  "updated_at": "2026-09-04"
 }

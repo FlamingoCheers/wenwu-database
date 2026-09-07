@@ -2,8 +2,8 @@
  "relic_id": "CLE-2017-16-a",
  "name": "Covered Jar with Carved Lotus Petals",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "南北朝",
+ "dynasty_confidence": "inferred",
  "year_range": [
   386,
   581
@@ -53,7 +53,7 @@
  ],
  "related": [],
  "raw_ref": "raw/cle/page_0.json",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-04",
  "updated_at": "2026-09-04"
 }

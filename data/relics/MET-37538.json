@@ -2,8 +2,8 @@
  "relic_id": "MET-37538",
  "name": "Vessel Stem Bowl",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "商",
+ "dynasty_confidence": "inferred",
  "year_range": [
   -1500,
   -1000
@@ -34,7 +34,7 @@
  ],
  "related": [],
  "raw_ref": "raw/met/37538.json",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-04",
  "updated_at": "2026-09-04"
 }

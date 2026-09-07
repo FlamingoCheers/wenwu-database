@@ -2,8 +2,8 @@
  "relic_id": "MET-38978",
  "name": "Buddha in Meditation Posture",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "唐",
+ "dynasty_confidence": "inferred",
  "year_range": [
   750,
   950
@@ -36,7 +36,7 @@
  ],
  "related": [],
  "raw_ref": "raw/met/38978.json",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-04",
  "updated_at": "2026-09-04"
 }

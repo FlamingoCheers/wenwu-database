@@ -2,8 +2,8 @@
  "relic_id": "MET-37662",
  "name": "Roof Tile in the Form of a Dragon",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "元",
+ "dynasty_confidence": "inferred",
  "year_range": [
   1300,
   1399
@@ -37,7 +37,7 @@
  ],
  "related": [],
  "raw_ref": "raw/met/37662.json",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-04",
  "updated_at": "2026-09-04"
 }

@@ -2,8 +2,8 @@
  "relic_id": "MET-37463",
  "name": "Covered Box with Design of Four Birds",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "明",
+ "dynasty_confidence": "inferred",
  "year_range": [
   1300,
   1570
@@ -34,7 +34,7 @@
  ],
  "related": [],
  "raw_ref": "raw/met/37463.json",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-04",
  "updated_at": "2026-09-04"
 }

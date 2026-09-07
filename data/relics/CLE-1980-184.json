@@ -4,8 +4,8 @@
  "aliases": [
   "青銅辟邪"
  ],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "南北朝",
+ "dynasty_confidence": "inferred",
  "year_range": [
   400,
   499
@@ -47,7 +47,7 @@
  ],
  "related": [],
  "raw_ref": "raw/cle/page_0.json",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-04",
  "updated_at": "2026-09-04"
 }

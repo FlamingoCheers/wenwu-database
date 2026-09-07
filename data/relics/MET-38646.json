@@ -2,8 +2,8 @@
  "relic_id": "MET-38646",
  "name": "Buddha Shakyamuni or Akshobhya, the Buddha of the East",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "宋",
+ "dynasty_confidence": "inferred",
  "year_range": [
   1000,
   1199
@@ -37,7 +37,7 @@
  ],
  "related": [],
  "raw_ref": "raw/met/38646.json",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-04",
  "updated_at": "2026-09-04"
 }

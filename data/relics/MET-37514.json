@@ -2,8 +2,8 @@
  "relic_id": "MET-37514",
  "name": "Water Dropper in the form of a Seated Demon",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "明",
+ "dynasty_confidence": "inferred",
  "year_range": [
   1300,
   1550
@@ -37,7 +37,7 @@
  ],
  "related": [],
  "raw_ref": "raw/met/37514.json",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-04",
  "updated_at": "2026-09-04"
 }

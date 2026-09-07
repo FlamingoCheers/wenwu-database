@@ -2,8 +2,8 @@
  "relic_id": "MET-39371",
  "name": "Relief Plaque of Hindu Deity, Probably Processional: Face of Ganesha",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "明",
+ "dynasty_confidence": "inferred",
  "year_range": [
   1300,
   1599
@@ -32,7 +32,7 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/39371.json",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-04",
  "updated_at": "2026-09-04"
 }
