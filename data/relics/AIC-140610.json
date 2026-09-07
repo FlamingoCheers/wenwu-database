@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-140610",
+ "name": "Dragon",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1301,
+  1400
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink on paper",
+ "dimensions": "66.3 × 36.8 cm (26 1/8 × 14 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink on paper。66.3 × 36.8 cm (26 1/8 × 14 1/2 in.)。Russell Tyson and Robert C. Ross Foundation Funds",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "140610"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/82a9964f-a872-fb7c-9771-07ef3299ed7f/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Russell Tyson and Robert C. Ross Foundation Funds"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/140610",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=140610)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

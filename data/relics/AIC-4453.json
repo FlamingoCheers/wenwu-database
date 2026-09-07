@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-4453",
+ "name": "Bodhisattva",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  725,
+  750
+ ],
+ "category": "宗教造像",
+ "material": "Limestone with traces of polychromy",
+ "dimensions": "157.5 × 80.6 cm (62 × 31 3/4 in.); Diam.: 80.6 cm (31 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Limestone with traces of polychromy。157.5 × 80.6 cm (62 × 31 3/4 in.); Diam.: 80.6 cm (31 3/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>In eighth-century China, Buddhist sculptors adopted new standards of secular beauty for spiritual figures. Whereas images of the Buddha appear sternly formal, bodhisattvas, the merciful deities that guide men toward salvation, often display more humanistic features. This bodhisattva's graceful proportions, upswept hair, sinuous drapery, and delicate jewelry convey an appealing physical elegance. Seated informally, the deity is poised to step down from its pedestal.</p>\n<p>Together with a large seated Buddha and another attendant bodhisattva in the Art Institute collection (1930.83, 1930.84), this sculpture came to the museum in 1930 with a note of its discovery in a temple known as Cangfosi in northern Hebei province. Neither archaeological nor written records have been located to confirm this reported site. The scale and stone medium of these figures suggest that they were commissioned for a cave temple or shrine a chamber carved into the face of a mountain or cliff.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "4453"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/3f8067b6-eb0f-7be8-661d-518a8c8f8155/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/4453",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=4453)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

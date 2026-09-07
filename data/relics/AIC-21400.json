@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-21400",
+ "name": "Bottle with Cupped Mouth and Mock Ring Handles",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  25,
+  220
+ ],
+ "category": "陶器",
+ "material": "Earthenware with lead green glaze",
+ "dimensions": "44 × 24 cm (17 5/16 × 9 7/16 in.); Diam.: 24 cm (9 7/16 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with lead green glaze。44 × 24 cm (17 5/16 × 9 7/16 in.); Diam.: 24 cm (9 7/16 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21400"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/14277e9d-bf44-faa8-2e83-7b967bffddc1/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21400",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21400)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

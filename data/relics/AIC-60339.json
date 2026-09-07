@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-60339",
+ "name": "Water Container (Pan)",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -750,
+  -650
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "12.4 × 35.6 cm (4 7/8 × 14 in.); Diam.: 35.6 cm (14 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。12.4 × 35.6 cm (4 7/8 × 14 in.); Diam.: 35.6 cm (14 in.)。Dr. Edith B. Farnsworth Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "60339"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/5fde36d8-acb1-de65-2830-80462a58ef5f/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Dr. Edith B. Farnsworth Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/60339",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=60339)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

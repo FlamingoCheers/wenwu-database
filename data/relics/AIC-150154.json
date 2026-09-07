@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-150154",
+ "name": "Bedcover",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1750,
+  1800
+ ],
+ "category": "织绣",
+ "material": "Silk, warp-float faced 7:1 satin weave; embroidered in knot, satin, and split stitches; five loom widths joined",
+ "dimensions": null,
+ "excavated_from": "",
+ "summary": "Silk, warp-float faced 7:1 satin weave; embroidered in knot, satin, and split stitches; five loom widths joined。Purchased with funds provided by Mrs. Harold T. Martin and Mrs. Theodore D. Tieken",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "150154"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/0228e656-8312-4232-baaa-9564307f9086/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Purchased with funds provided by Mrs. Harold T. Martin and Mrs. Theodore D. Tieken"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/150154",
+ "license": "CC0",
+ "tags": [
+  "服饰",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=150154)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

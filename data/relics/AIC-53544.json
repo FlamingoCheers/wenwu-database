@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-53544",
+ "name": "Stem Cup",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  906
+ ],
+ "category": "金银器",
+ "material": "Silver with parcel gilt decoration",
+ "dimensions": "4.8 × 7.8 cm (3 1/8 × 1 15/16 in.); Diam.: 4.9 cm (1 15/16 in.)",
+ "excavated_from": "",
+ "summary": "Silver with parcel gilt decoration。4.8 × 7.8 cm (3 1/8 × 1 15/16 in.); Diam.: 4.9 cm (1 15/16 in.)。Gift of Mr. Russell Tyson",
+ "history": "<p>The form of this wine cup was inspired by goblets made in the Sasanian and Sogdian empires, but originally derived from Hellenistic styles of the Mediterranean world.  Its low, spreading foot gently flares into faceted petals suggesting a lotus flower.  Since the introduction of Buddhism to China, the lotus—which emerges unstained from muddy water and therefore carries associations of purity and non-attachment to worldly concerns—had become a pervasive motif in secular as well as religious art.  Two layers of petals, beaten in repousse, enclose birds, floral sprays, and clusters of grapes—all delicately chased and gilded against a ringmatted ground. This mixture of native and imported decorative motifs, which followed the seventh-century introduction of grapevines and grape wine from Iranian and Turkic lands, is executed with a linear fluency that is distinctively Chinese.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "53544"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/77cb2b66-205a-fe25-70e6-d509698854d7/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mr. Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/53544",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=53544)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

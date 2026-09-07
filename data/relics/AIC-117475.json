@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-117475",
+ "name": "Punch Bowl",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1789,
+  1789
+ ],
+ "category": "瓷器",
+ "material": "Hard-paste porcelain, glaze, enamels in colors, gilding",
+ "dimensions": "15 × 36.3 × 25.8 cm (5 15/16 × 14 5/16 × 10 3/16 in.)",
+ "excavated_from": "",
+ "summary": "Hard-paste porcelain, glaze, enamels in colors, gilding。15 × 36.3 × 25.8 cm (5 15/16 × 14 5/16 × 10 3/16 in.)。Purchased with funds provided by the Antiquarian Society",
+ "history": "<p>Chinese officials limited all international trading to the city of Canton, and segregated foreigners within a 15-acre area. Decorated in grisaille, or monochrome, the exterior of this punch bowl shows the 13 trade buildings,  known as hongs (foreign factories), that lined this restricted area. Each building was associated with a particular country, and they doubled as counting houses and living quarters, where agents resided during the fall trading season. In this view of the hongs, the American factory lies between those of the United Kingdom and the Netherlands, suggesting that this was an early rendering, made before the United States permanently established its factory next to Sweden’s.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "117475"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/39f2a271-2bb2-78c8-2f97-565ff8894b49/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Purchased with funds provided by the Antiquarian Society"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/117475",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=117475)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

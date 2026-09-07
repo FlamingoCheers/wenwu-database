@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-12561",
+ "name": "Foliate Square Dish",
+ "aliases": [],
+ "dynasty": "五代十国",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  950,
+  1000
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with creamy white glaze and underglaze molded decoration",
+ "dimensions": "3.7 × 11.5 × 11.5 cm (1 7/16 × 4 1/2 × 4 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain with creamy white glaze and underglaze molded decoration。3.7 × 11.5 × 11.5 cm (1 7/16 × 4 1/2 × 4 1/2 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12561"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/e6cc57da-8497-1c87-c2dc-7eba534923cb/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12561",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12561)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

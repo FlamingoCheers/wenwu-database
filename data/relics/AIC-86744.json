@@ -1,0 +1,44 @@
+{
+ "relic_id": "AIC-86744",
+ "name": "Mirror with Images of Purity and Immortality and “Lion and Grapevine” Design",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  700,
+  800
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "Diam. 17.4 (6.8 in.); d. 0.6 cm (0.2 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。Diam. 17.4 (6.8 in.); d. 0.6 cm (0.2 in.)。Samuel M. Nickerson Endowment",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "86744"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/4fbae3bf-5f18-f867-652c-2353869f7c06/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Samuel M. Nickerson Endowment"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/86744",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "道教",
+  "神话宗教",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=86744)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-21366",
+ "name": "Hexagonal Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1899
+ ],
+ "category": "瓷器",
+ "material": "Celadon-glazed porcelain",
+ "dimensions": "11.6 × 13.6 × 11.8 cm (4 9/16 × 5 3/8 × 4 5/8 in.)",
+ "excavated_from": "",
+ "summary": "Celadon-glazed porcelain。11.6 × 13.6 × 11.8 cm (4 9/16 × 5 3/8 × 4 5/8 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21366"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/cbed33f8-592f-c6e5-ddd6-f26687dafd2a/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21366",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21366)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

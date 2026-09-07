@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-57654",
+ "name": "Cylindrical Jar with Three Bear-Shaped Feet and Mountain-Shaped Cover",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -100,
+  220
+ ],
+ "category": "瓷器",
+ "material": "Earthenware with molded relief decoration and lead glaze",
+ "dimensions": "21.6 × 20.3 cm (8 1/2 × 8 in.); Diam.: 20.3 cm (8 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with molded relief decoration and lead glaze。21.6 × 20.3 cm (8 1/2 × 8 in.); Diam.: 20.3 cm (8 in.)。Gift of Bertha Palmer Thorne",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "57654"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/bde8ea9e-4873-ffc8-c234-abc5a153b706/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Bertha Palmer Thorne"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/57654",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "山水",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=57654)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

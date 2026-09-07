@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-22128",
+ "name": "Fragment",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1700,
+  1750
+ ],
+ "category": "织绣",
+ "material": "Silk brocade",
+ "dimensions": "108.3 × 101.4 cm (42 5/8 × 39 7/8 in.)",
+ "excavated_from": "",
+ "summary": "Silk brocade。108.3 × 101.4 cm (42 5/8 × 39 7/8 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "22128"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/1a46d507-d56f-8f28-bf5a-dfb9427c3a73/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/22128",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=22128)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

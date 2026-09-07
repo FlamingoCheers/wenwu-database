@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-35376",
+ "name": "Equestrienne",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  725,
+  750
+ ],
+ "category": "陶器",
+ "material": "Earthenware with polychrome pigments",
+ "dimensions": "56.2 × 48.2 × 39 cm (22 1/8 × 19 × 15 3/8 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with polychrome pigments。56.2 × 48.2 × 39 cm (22 1/8 × 19 × 15 3/8 in.)。Gift of Mrs. Potter Palmer",
+ "history": "<p>Chinese ceramic figures made exclusively for burial often vividly evoke the fashions and recreational activities of their aristocratic owners. This figure sensitively captures a quiet moment in the life of a matronly equestrienne, who gently guides her horse. The animal’s powerful neck and flanks, long legs, trimmed mane, and decoratively tied tail are features distinctive to the handsome breeds that were brought to China from the empire’s northwestern frontiers as well as from sites as far west as the Aral Sea. Carefully twisted strands of clay realistically depict the fur-like texture of the animal’s saddle blanket. The woman’s full proportions—evident in the folds of her flowing, wide-sleeved robe, as well as in her plump cheeks and double chin—are enhanced by her loosely gathered coiffure, which is topped with a dangling forehead bun. Her weight, costume, and hairstyle reflect early-to-mid-eighth-century ideals of feminine beauty. Stylistically, the woman closely resembles figures that archeologists have recently unearthed from the tombs of high-status individuals that are datable to about 740.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "35376"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/f18f7064-fb9a-7074-1f1c-f8009eecaec7/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. Potter Palmer"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/35376",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=35376)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

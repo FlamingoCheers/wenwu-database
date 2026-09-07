@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-60503",
+ "name": "Flowers of the Four Seasons",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1701,
+  1800
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink and colors on paper",
+ "dimensions": "136.2 × 70.7 cm (53 5/8 × 27 7/8 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink and colors on paper。136.2 × 70.7 cm (53 5/8 × 27 7/8 in.)。Purchase, Oriental Art Sundry Fund",
+ "history": "<p>Meticulously outlined and colored with a finely tapered brush, these multiseasonal flowers—including iris, peony, lotus, poppy, lily, narcissus, chrysanthemum, nandina berry, and plum—display a draftsman-like style mastered by court artists. The inscription on this painting attributes its image of floral abundance to Yongrong, the sixth son of the Qianlong emperor (r. 1735-95).  Prince Yongrong supervised the Imperial Household Department, which served diverse needs of the emperor and his family in the residential quarters of the palace.  The attribution of this painting remains open to study.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "60503"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/27440046-931e-8f6f-22f6-3ad8d3402631/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Purchase, Oriental Art Sundry Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/60503",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=60503)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-76243",
+ "name": "Wine Ewer and Warming Bowl",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "瓷器",
+ "material": "Qingbai ware; porcelain with underglaze carved and incised decoration",
+ "dimensions": "Ewer: h. 16.4 cm (6 3/8 in.) diam.15.1 cm (5 7/8 in.) bowl: h. 13.8 cm (5 3/8 in.) diam. 16.6 cm (6 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Qingbai ware; porcelain with underglaze carved and incised decoration。Ewer: h. 16.4 cm (6 3/8 in.) diam.15.1 cm (5 7/8 in.) bowl: h. 13.8 cm (5 3/8 in.) diam. 16.6 cm (6 1/2 in.)。Purchased with funds provided by the Rice Foundation",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "76243"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/892aec78-0a88-b347-4884-5527d7c57817/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Purchased with funds provided by the Rice Foundation"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/76243",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=76243)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

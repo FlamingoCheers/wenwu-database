@@ -1,0 +1,44 @@
+{
+ "relic_id": "AIC-32640",
+ "name": "Puxian, the Bodhisattva of Benevolence",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1301,
+  1368
+ ],
+ "category": "织绣",
+ "material": "Framed banner; ink and colors on silk",
+ "dimensions": "59.1 × 31.7 cm (23 1/4 × 12 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Framed banner; ink and colors on silk。59.1 × 31.7 cm (23 1/4 × 12 1/2 in.)。James W. and Marilynn Alsdorf Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "32640"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/b963b35d-fe68-ba34-91b4-c4e8a0755f87/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 James W. and Marilynn Alsdorf Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/32640",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=32640)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

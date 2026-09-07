@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-71015",
+ "name": "Plaque with Openwork Phoenix",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  900,
+  1400
+ ],
+ "category": "玉器",
+ "material": "Jade",
+ "dimensions": "16.2 × 7.8 × 0.6 cm (6 3/8 × 3 1/16 × 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Jade。16.2 × 7.8 × 0.6 cm (6 3/8 × 3 1/16 × 1/4 in.)。Edward and Louise B. Sonnenschein Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "71015"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/8764602a-b74d-60d9-20fb-7f112b97efd3/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Edward and Louise B. Sonnenschein Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/71015",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=71015)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-104483",
+ "name": "Cloud-Shaped Pillow",
+ "aliases": [],
+ "dynasty": "五代十国",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  950,
+  999
+ ],
+ "category": "瓷器",
+ "material": "Cizhou ware; stoneware, slip-coated with underglaze marbled, inlaid, and impressed decoration",
+ "dimensions": "Diam.: 23.7 cm (9 3/8 in.)",
+ "excavated_from": "",
+ "summary": "Cizhou ware; stoneware, slip-coated with underglaze marbled, inlaid, and impressed decoration。Diam.: 23.7 cm (9 3/8 in.)。Purchased with funds provided by Otto C. Deering",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "104483"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/8e52420d-fb00-d5bf-fbab-bc285dc7c0e0/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Purchased with funds provided by Otto C. Deering"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/104483",
+ "license": "CC0",
+ "tags": [
+  "玺印封泥",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=104483)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

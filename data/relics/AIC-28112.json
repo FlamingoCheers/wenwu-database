@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-28112",
+ "name": "Guanyin (Avalokiteshvara) Holding Lotus-Form Cup",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1301,
+  1400
+ ],
+ "category": "金银器",
+ "material": "Gilt copper alloy",
+ "dimensions": "25.5 × 19 × 14.2 cm (10 × 7 1/2 × 5 5/8 in.)",
+ "excavated_from": "",
+ "summary": "Gilt copper alloy。25.5 × 19 × 14.2 cm (10 × 7 1/2 × 5 5/8 in.)。Gift of Guy H. Mitchell",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "28112"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/1b563a3c-d371-9fb2-c824-197269adfa6f/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Guy H. Mitchell"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/28112",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "食器",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=28112)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

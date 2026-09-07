@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-70059",
+ "name": "Dragon Pendant",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -5,
+  -5
+ ],
+ "category": "玉器",
+ "material": "Jade",
+ "dimensions": "10.6 × 3.4 × 4 cm (4 3/16 × 1 7/16 × 3 in.)",
+ "excavated_from": "",
+ "summary": "Jade。10.6 × 3.4 × 4 cm (4 3/16 × 1 7/16 × 3 in.)。Edward and Louise B. Sonnenschein Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "70059"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/a424089b-174c-56c5-65cb-560a1d902fe2/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Edward and Louise B. Sonnenschein Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/70059",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=70059)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

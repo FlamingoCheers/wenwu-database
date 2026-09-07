@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-22490",
+ "name": "Wine Jar (Hu)",
+ "aliases": [],
+ "dynasty": "秦",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -481,
+  -221
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "32.4 × 19.7 cm (12 3/4 × 7 3/4 in.); Diam.: 19.7 cm (7 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。32.4 × 19.7 cm (12 3/4 × 7 3/4 in.); Diam.: 19.7 cm (7 3/4 in.)。Gift of Naomi Donnelley",
+ "history": "<p>This vessel displays a rich variety of ornament and filler patterns: Two thick bands of interlaced dragons, their bodies filled with spirals, triangles, and dots, alternate with thinner bands.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "22490"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/28bc42b7-23a2-39e4-bca1-3d930e8fba91/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Naomi Donnelley"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/22490",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=22490)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

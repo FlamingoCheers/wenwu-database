@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-42271",
+ "name": "Pilgrim Flask",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  701,
+  750
+ ],
+ "category": "陶器",
+ "material": "Earthenware with three-color (sancai) lead glazes",
+ "dimensions": "19.2 × 15.5 × 14.5 cm (7 5/8 × 6 1/8 × 5 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with three-color (sancai) lead glazes。19.2 × 15.5 × 14.5 cm (7 5/8 × 6 1/8 × 5 3/4 in.)。Bequest of Henry C. Schwab",
+ "history": "<p>Trans-Asiatic trade expanded the Chinese repertoire of simple, wheel-thrown clay shapes to include composite forms pressed in molds. This pilgrim flask—a vessel shape that may imitate forms originally made in glass, leather, or metalwork —depicts a young boy adorned with a billowing scarf, who dances with a lion. Although similar images can be traced back to Hellenistic Greece (c. 300-200 B.C.), the extent of such Classical influence on the much later art of Tang dynasty China has yet to be determined.</p>\n<p>This vessel displays a fluid “three-color” (<em>sancai</em>) glaze, named after the archetypical combination of bright green, amber, and white (transparent) lead-rich glazes that have been colored with carefully measured recipes of metallic oxides.  The green derives from copper and the amber from iron.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "42271"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/5de6ef4c-2849-4696-5ae2-0d35aaeb8d15/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Henry C. Schwab"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/42271",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=42271)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

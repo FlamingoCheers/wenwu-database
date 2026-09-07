@@ -1,0 +1,45 @@
+{
+ "relic_id": "AIC-50983",
+ "name": "Viewing Plum Blossoms with Warm Wine 溫酒賞梅圖",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1712,
+  1722
+ ],
+ "category": "织绣",
+ "material": "Hanging scroll; ink and slight color on silk",
+ "dimensions": "165 × 99 cm (65 × 39 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink and slight color on silk。165 × 99 cm (65 × 39 in.)。Gift of Naomi Donnelley",
+ "history": "<p>Yuan Jiang is most renowned for his meticulous “ruled-line painting” (<em>jiehua</em>) of architecture—the only pictorial style to utilize carpentry tools along with the flexible brush. A master of composition as well as draftsmanship, Yuan seamlessly constructed buildings within landscapes of imposing grandeur and unexpected drama. This aristocratic villa and its surrounding garden of large, diagonally swept trees and huge, eroded rocks lies beneath distant mountain ranges that emerge and recede above a thick mist. Within this animated and dreamlike setting, figures in the foreground library, on the veranda, and in the surrounding garden appear isolated in their own tranquility. Such strikingly panoramic but personally accessible images were typically commissioned by affluent individuals of late imperial China for display in the spacious reception halls of their private mansions.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "50983"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/51e388a6-7fac-50a8-8daf-1654d5561ac7/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Naomi Donnelley"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/50983",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "玺印封泥",
+  "文字书写",
+  "植物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=50983)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

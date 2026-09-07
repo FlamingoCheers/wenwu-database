@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-12679",
+ "name": "Bottle-Shaped Vase with Dragon Handles and Lotus Flowers",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1665,
+  1799
+ ],
+ "category": "瓷器",
+ "material": "Dehua ware (blanc de chine); porcelain with underglaze molded decoration",
+ "dimensions": "32.5 × 19.3 cm (12 13/16 × 7 5/8 in.); Diam.: 19.3 cm (7 5/8 in.)",
+ "excavated_from": "",
+ "summary": "Dehua ware (blanc de chine); porcelain with underglaze molded decoration。32.5 × 19.3 cm (12 13/16 × 7 5/8 in.); Diam.: 19.3 cm (7 5/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12679"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/2b303ed4-6ad2-4dab-ea71-82380cc5067e/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12679",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12679)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

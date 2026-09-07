@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-89452",
+ "name": "Rectangular Cauldron",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1600,
+  -1050
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "17 × 14.2 cm (6 5/8 × 5 5/8 in.); D.: 10.8 cm (4 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。17 × 14.2 cm (6 5/8 × 5 5/8 in.); D.: 10.8 cm (4 1/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>Unlike most bronze vessels whose shapes were derived from prehistoric ceramic forms, this type of rectangular container was invented by Shang bronze artisans. Each side features a pair of profile birds with long, trailing tailfeathers. The black material in sunken areas of this design contains carbon. This filler is common to many Shang bronzes and seems to have been deliberately applied after casting in order to emphasize the surface decoration.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "89452"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/9edaa9d1-0242-4256-6e47-0d8262b49827/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/89452",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=89452)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

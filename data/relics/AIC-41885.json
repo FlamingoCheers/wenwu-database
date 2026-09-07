@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-41885",
+ "name": "Bowl with Four Panels of Landscape Scenes",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1899
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in overglaze enamels",
+ "dimensions": "8.1 × 13 cm (3 3/16 × 5 1/8 in.); Diam.: 13 cm (5 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain painted in overglaze enamels。8.1 × 13 cm (3 3/16 × 5 1/8 in.); Diam.: 13 cm (5 1/8 in.)。Bequest of Henry C. Schwab",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "41885"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/a38418ba-968e-2f76-01fb-806fb0b076fd/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Henry C. Schwab"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/41885",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=41885)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

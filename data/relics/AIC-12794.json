@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-12794",
+ "name": "Pillar from Tomb Chamber",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -100,
+  -1
+ ],
+ "category": "陶器",
+ "material": "Gray earthenware with impressed and carved decoration",
+ "dimensions": "111.5 × 18 × 17.5 cm (43 7/8 × 7 1/16 × 6 7/8 in.)",
+ "excavated_from": "",
+ "summary": "Gray earthenware with impressed and carved decoration。111.5 × 18 × 17.5 cm (43 7/8 × 7 1/16 × 6 7/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>In northern China during the Han dynasty, hollow clay bricks were used to construct the small, rectangular chambers of underground tombs. The doors, pillars, and lintel assembled here reconstruct the entrance to such a chamber. Before firing, the bricks were stamped with vigorous images from daily life and from mythology.  This combination of subject matters reflects a dualistic view of the human soul:  separating at death, one part of the soul was thought to remain in the earthly tomb, while the other ascended to a paradise—the realm of ancestral spirits and of the special beings who have achieved immortality.</p>\n<p>Guardian images, both realistic and symbolic, are centered on each door.  Two long-robed men (identified by inscription as tingzhang, village officials) flank another protective symbol, a ring-snouted monster mask.  Surrounding this central square are border strips depicting scenes of entertainment and of animals, hunters, and chariots charging across mountains.  Winged xian—immortal, elf-like figures—are also depicted in a mountainous setting.  Other emblematic designs that appear repeatedly on these doors include a spade-shaped evergreen tree, designating family continuity and longevity, and a disk enclosing a bird in flight, which can be identified with the sun.<br>On the lintel above, soldiers bearing shields flank a protective monster mask.  On either side of this mask, jade disks tied by cords may symbolize prosperity or other auspicious wishes for the soul.  Other auspicious symbols include the dragon and phoenix (also known as the Red Bird), identified in Han cosmological texts as the animals of the east and south, respectively.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12794"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/95ad6d6b-941c-0070-adfe-f8e956a0c9a0/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12794",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器",
+  "玺印封泥",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12794)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

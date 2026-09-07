@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-12132",
+ "name": "Tripod Cylindrical Jar (Lian or Zun)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  101,
+  199
+ ],
+ "category": "陶器",
+ "material": "Earthenware with green lead glaze",
+ "dimensions": "22 × 31.1 cm (8 11/16 × 12 1/4 in.); Diam.: 31.1 cm (12 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with green lead glaze。22 × 31.1 cm (8 11/16 × 12 1/4 in.); Diam.: 31.1 cm (12 1/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12132"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/6b38bb39-cefc-27ea-5053-0d7dfc5b7fe6/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12132",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12132)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

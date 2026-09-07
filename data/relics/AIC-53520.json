@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-53520",
+ "name": "Vase with Lizard",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": "Celadon-glazed stoneware and underglaze molded decoration",
+ "dimensions": "23.8 × 11.7 cm (9 3/8 × 4 5/8 in.); Diam.: 11.7 cm (4 5/8 in.)",
+ "excavated_from": "",
+ "summary": "Celadon-glazed stoneware and underglaze molded decoration。23.8 × 11.7 cm (9 3/8 × 4 5/8 in.); Diam.: 11.7 cm (4 5/8 in.)。Gift of Mr. Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "53520"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/0d7d5269-a862-d336-7a19-d9085edd4e93/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mr. Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/53520",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=53520)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

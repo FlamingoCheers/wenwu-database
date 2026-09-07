@@ -1,0 +1,45 @@
+{
+ "relic_id": "AIC-75091",
+ "name": "One Hundred Cranes 百鶴圖",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1682,
+  1770
+ ],
+ "category": "织绣",
+ "material": "Handscroll; ink and light color on silk",
+ "dimensions": "30.3 × 381.7 cm (11 15/16 × 150 5/16 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink and light color on silk。30.3 × 381.7 cm (11 15/16 × 150 5/16 in.)。Gift of Mrs. Richard Q. Livingston in memory of her husband, Richard Quigley Livingston",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "75091"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/886766ee-3a14-0dd3-eaf5-6a84718ea719/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. Richard Q. Livingston in memory of her husband, Richard Quigley Livingston"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/75091",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "玺印封泥",
+  "文字书写",
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=75091)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

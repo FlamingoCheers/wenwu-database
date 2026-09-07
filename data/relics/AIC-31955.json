@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-31955",
+ "name": "Goblet (jia)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1200,
+  -1046
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "51.5 × 23.5 cm (20 1/4 × 9 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。51.5 × 23.5 cm (20 1/4 × 9 1/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>Monumental scale and the precise casting of animal imagery distinguish this vessel as a commission of late Shang royalty. Two tiers of monster masks encircle the flared bowl. Elongated version of these masks, which may also be interpreted as paired serpents, descend the sharply tapered legs. A bovine head with sculpted horns crowns the strap handle. Pieces of the clay core, visible through holes in the legs, remain from the piece-mold casting process.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "31955"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/d11802b4-51a5-477e-9e42-d01f2222e3a4/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/31955",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=31955)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

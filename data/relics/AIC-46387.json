@@ -1,0 +1,44 @@
+{
+ "relic_id": "AIC-46387",
+ "name": "Portrait of Tao Yuanming",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1647,
+  1709
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink and color on paper",
+ "dimensions": "82 × 41.3 cm (32 1/4 × 16 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink and color on paper。82 × 41.3 cm (32 1/4 × 16 1/4 in.)。Gift of Florence Ayscough and Harley Farnsworth MacNair",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "46387"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/0b5406ad-d98e-5148-2668-92ecf87a6900/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Florence Ayscough and Harley Farnsworth MacNair"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/46387",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水",
+  "动物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=46387)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

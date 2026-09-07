@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-12314",
+ "name": "Scholar in Landscape",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1280,
+  1368
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink on paper",
+ "dimensions": "56.6 × 29.9 cm (22 1/4 × 11 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink on paper。56.6 × 29.9 cm (22 1/4 × 11 3/4 in.)。Gift of the Orientals",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12314"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/039d28c2-38ce-a7d1-b57c-dbe2f672425f/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of the Orientals"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12314",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12314)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

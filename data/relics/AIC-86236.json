@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-86236",
+ "name": "Mountainous Landscape after Wang Meng",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1642,
+  1715
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink on paper",
+ "dimensions": "175.6 × 58.9 cm (69 1/8 × 23 3/16 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink on paper。175.6 × 58.9 cm (69 1/8 × 23 3/16 in.)。Kate S. Buckingham Endowment Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "86236"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/9bb4c0d6-27e2-9b5d-0a0a-6c32fe08bc57/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Kate S. Buckingham Endowment Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/86236",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=86236)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

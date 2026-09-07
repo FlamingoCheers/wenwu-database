@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-18312",
+ "name": "Spade-Shaped Snuff Bottle with Mock Ox-Head Handles",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1780,
+  1880
+ ],
+ "category": "杂器",
+ "material": "Turquoise with carved decoration",
+ "dimensions": "4.7 × 4.3 × 1.8 cm (1 7/8 × 1 11/16 × 11/16 in.)",
+ "excavated_from": "",
+ "summary": "Turquoise with carved decoration。4.7 × 4.3 × 1.8 cm (1 7/8 × 1 11/16 × 11/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "18312"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/a92fe324-6cd7-a8f0-57fa-b742065e5df1/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/18312",
+ "license": "CC0",
+ "tags": [
+  "日常生活",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=18312)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

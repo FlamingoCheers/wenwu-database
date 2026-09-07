@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-49011",
+ "name": "History of the Life of Tao Yuanming",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1573,
+  1636
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink on paper",
+ "dimensions": "23.2 × 198.5 cm (9 3/16 × 78 3/16 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink on paper。23.2 × 198.5 cm (9 3/16 × 78 3/16 in.)。Gift of Mrs. Chauncey McCormick",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "49011"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/448fbb2a-4171-9c2b-e3cc-9a3ba2effcfe/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. Chauncey McCormick"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/49011",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=49011)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

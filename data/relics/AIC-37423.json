@@ -1,0 +1,44 @@
+{
+ "relic_id": "AIC-37423",
+ "name": "Covered Food Container",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -999,
+  -900
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "24.1 × 21.6 cm (8 1/2 × 8 1/2 in.); Diam.: 21.6 cm (8 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。24.1 × 21.6 cm (8 1/2 × 8 1/2 in.); Diam.: 21.6 cm (8 1/2 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>Birds with long, trailing plumage encircle the lid and basin of this vessel. Their flowing lines reflect the skillful hand of the potter who carved the design in clay for casting in bronze. At some time in the past, this extensively damaged vessel was repaired and cleaned, thereby exposing its present, uncorroded surface.</p>\n<p>Cast in the basin and lid are identical inscriptions:  &quot;In the eleventh month, first quarter, [on the day] <em>jiashen</em>, the King was in Hua.  The King gave Ming deer.  [Ming] therefore made [this] precious vessel.  May Ming always [use this] gui to entertain many friends.&quot;   The unusual inscription describes a secular event, indicating a new use for ritual bronzes. Such commemorative inscriptions, which gradually replaced shorter ancestor dedications, are important documents of Western Zhou history.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "37423"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/d5294fa8-caf1-fde3-7c30-805f3116c4e4/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/37423",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=37423)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

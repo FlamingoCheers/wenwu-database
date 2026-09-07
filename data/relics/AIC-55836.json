@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-55836",
+ "name": "Wine Warmer (Zun)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -206,
+  9
+ ],
+ "category": "青铜器",
+ "material": "Gilt bronze",
+ "dimensions": "10.9 × 9.5 cm (4 1/4 × 3 3/4 in.); Diam.: 9.5 cm (3 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Gilt bronze。10.9 × 9.5 cm (4 1/4 × 3 3/4 in.); Diam.: 9.5 cm (3 3/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>This type of cylindrical vessel has been identified as a wine warmer (<em>zun</em>) through a similar inscribed example excavated in northern China.  The vessel may have been used for a variety of foods or wines, but its short legs indicate that it was probably not designed to be placed over a fire. This metal shape was modeled after early boxes of lacquered wood that served as cosmetic containers (<em>lian</em>).</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "55836"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/4683c3e2-c948-d7b5-4413-5be786588959/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/55836",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=55836)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

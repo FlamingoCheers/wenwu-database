@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-86387",
+ "name": "Architectural Fitting (Gong)",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1050,
+  -950
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "22 × 48.9 × 10.2 cm (8 5/8 × 19 1/4 × 4 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。22 × 48.9 × 10.2 cm (8 5/8 × 19 1/4 × 4 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>This is one of sixteen hollow bronze fittings in the museum's collection that together comprise rectangular, L-shaped, and cylindrical pieces.  In 1973, fittings of similar shape and design were excavated from the site of a palace of the 7th century B.C. in modern-day Fengxiang, Shaanxi province in north China.  Most show tightly interlaced surface patterns like those cast in this piece. Archaeologists have conjectured that these fittings, some of which preserve traces of wood, originally served as collars and sleeves that had been socketed over a framework of timber columns and tie beams embedded into the earthen walls. Some of these pieces may originally have been stuffed with silk to tighten them.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "86387"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/b985e5ec-6ed9-902d-7b63-90f067ac7be3/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/86387",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=86387)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-183894",
+ "name": "Rectangular Cauldron",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1200,
+  -1001
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "21.9 × 17.2 × 14 cm (8 5/8 × 6 13/16 × 5 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。21.9 × 17.2 × 14 cm (8 5/8 × 6 13/16 × 5 1/2 in.)。Avery Brundage, Russell Tyson, and Alyce and Edwin DeCosta and Walter E. Heller endowments; General Acquisitions Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "183894"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/0279fc9d-f03b-3faf-7bc2-ba9a9e805fd5/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Avery Brundage, Russell Tyson, and Alyce and Edwin DeCosta and Walter E. Heller endowments; General Acquisitions Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/183894",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=183894)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

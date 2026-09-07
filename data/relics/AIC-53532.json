@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-53532",
+ "name": "Lotus Petal Bowl",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1200,
+  1279
+ ],
+ "category": "瓷器",
+ "material": "Longquan ware; stoneware with underglaze carved decoration",
+ "dimensions": "6.3 × 14.5 cm (2 1/2 × 5 11/16 in.); Diam.: 14.5 cm (5 11/16 in.)",
+ "excavated_from": "",
+ "summary": "Longquan ware; stoneware with underglaze carved decoration。6.3 × 14.5 cm (2 1/2 × 5 11/16 in.); Diam.: 14.5 cm (5 11/16 in.)。Gift of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "53532"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/8465c094-5126-1629-0cce-6451e767985c/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/53532",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=53532)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

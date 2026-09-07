@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-46359",
+ "name": "Album of Landscapes and Figures with Calligraphy by Chen Xiuyu",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1895,
+  1896
+ ],
+ "category": "书画",
+ "material": "Album of 25 leaves; ink and light color on paper",
+ "dimensions": "Each leaf: 30.5 × 36.3 cm (12 × 14 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Album of 25 leaves; ink and light color on paper。Each leaf: 30.5 × 36.3 cm (12 × 14 1/4 in.)。Gift of Florence Ayscough and Harley Farnsworth MacNair",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "46359"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/d6fbc526-8317-ebbf-e403-bc89daa492d9/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Florence Ayscough and Harley Farnsworth MacNair"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/46359",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=46359)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-21390",
+ "name": "Model of a Bell (Zheng)",
+ "aliases": [],
+ "dynasty": "秦",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -400,
+  -201
+ ],
+ "category": "瓷器",
+ "material": "Gray stoneware with incised decoration",
+ "dimensions": "H.: 38.8 cm (15 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Gray stoneware with incised decoration。H.: 38.8 cm (15 1/4 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21390"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/5f4c4e9e-8362-04e3-117a-9615e49a490a/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21390",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21390)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

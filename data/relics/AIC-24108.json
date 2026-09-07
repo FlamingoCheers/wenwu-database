@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-24108",
+ "name": "Ornamental Fitting with Crouching Felines (one of pair)",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -599,
+  -400
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "5.8 × 29.5 cm (2 5/16 × 11 5/8 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。5.8 × 29.5 cm (2 5/16 × 11 5/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "24108"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/8871179a-882a-82f1-700a-adb5dc192260/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/24108",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=24108)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

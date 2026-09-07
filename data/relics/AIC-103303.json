@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-103303",
+ "name": "Architectural Brick with Ogre Mask",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  750,
+  799
+ ],
+ "category": "陶器",
+ "material": "Molded terracotta with traces of slip pigment",
+ "dimensions": "42 × 36.2 × 11.4 cm (16 1/2 × 14 1/4 × 4 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Molded terracotta with traces of slip pigment。42 × 36.2 × 11.4 cm (16 1/2 × 14 1/4 × 4 1/2 in.)。Purchased with funds provided by Mr. and Mrs. Kenneth Bro; Russell Tyson Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "103303"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/a51e00b9-4b75-e612-24e6-4aa5ae24da56/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Purchased with funds provided by Mr. and Mrs. Kenneth Bro; Russell Tyson Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/103303",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=103303)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

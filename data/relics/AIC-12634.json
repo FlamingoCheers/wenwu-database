@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-12634",
+ "name": "Wine Container",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1099,
+  -1000
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "32.8 × 18.4 × 14.4 cm (12 7/8 × 7 1/8 × 5 5/8 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。32.8 × 18.4 × 14.4 cm (12 7/8 × 7 1/8 × 5 5/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>The bulging, curvilinear silhouette of this house-shaped wine container is emphasized by prominent, hooked flanges, which also accent the surface divisions created by sectional mold casting.  The elements of surface decoration—high relief monster (<em>taotie</em>) masks, crested and plumed birds, and dragons with reverted heads are extravagantly shaped: Fringes with elaborate hooks and quills, their curves and coils extend and replicate to symmetrically fill the divided panels of the body and lid.</p>\n<p>Identical dedicatory inscriptions cast within the interior of the base and lid read: &quot;Rong zi [Son of Rong] made [this] precious sacrificial vessel.&quot; Such inscriptions, studied as historical documents as well as calligraphic art, contribute to our understanding of the chronology and patronage of ancient Chinese bronzes.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12634"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/6d600759-e6e9-e23e-81b1-ff6681b1d76e/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12634",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12634)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

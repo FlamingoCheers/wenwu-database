@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-14803",
+ "name": "Square-Sectioned Jars (Fanghu)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -206,
+  9
+ ],
+ "category": "陶器",
+ "material": "Earthenware",
+ "dimensions": "44 × 20.5 × 20.5 cm (17 5/16 × 8 1/16 × 8 1/16 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware。44 × 20.5 × 20.5 cm (17 5/16 × 8 1/16 × 8 1/16 in.)。Gift of the Joseph and Helen Regenstein Foundation",
+ "history": "<p>The squared shape and vibrantly painted decoration of this jar imitates those of bronze and lacquer vessels. Its images of monster-mask ring handles duplicate, in larger scale, functional fittings in bronze. When excavated from Han tombs, some clay jars of this type were found to contain grain offerings provided for the deceased as part of the funerary rites.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "14803"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/d14b55a0-282c-4460-048e-39bf416abf09/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of the Joseph and Helen Regenstein Foundation"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/14803",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=14803)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

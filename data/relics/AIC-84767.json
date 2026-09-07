@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-84767",
+ "name": "The Bamboo Slope 竹坡圖",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1632,
+  1717
+ ],
+ "category": "竹木牙角",
+ "material": "Handscroll; ink on paper",
+ "dimensions": "25.8 × 459.8 cm (10 1/8 × 181 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink on paper。25.8 × 459.8 cm (10 1/8 × 181 in.)。Gift of Wan-go H. C. Weng",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "84767"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/cd9e4fe1-7404-dbee-522f-8d8e0335a830/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Wan-go H. C. Weng"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/84767",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=84767)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

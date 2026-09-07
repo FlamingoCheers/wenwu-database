@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-73244",
+ "name": "Dish-Shaped Candlestand with Long, Ribbed Neck",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  600,
+  650
+ ],
+ "category": "瓷器",
+ "material": "Glazed stoneware",
+ "dimensions": "20.1 × 19.6 cm (7 15/16 × 7 3/4 in.); Diam.: 19.6 cm (7 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Glazed stoneware。20.1 × 19.6 cm (7 15/16 × 7 3/4 in.); Diam.: 19.6 cm (7 3/4 in.)。Gift of Mr. Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "73244"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/3d5e1f6c-c589-8507-dce5-e276ec2f4bf6/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mr. Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/73244",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "照明",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=73244)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

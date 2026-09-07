@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-32945",
+ "name": "Amphora with Three Dragon-Shaped Handles",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  701,
+  800
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with yellowish-white glaze",
+ "dimensions": "35.9 × 18.4 cm (14 1/8 × 7 1/4 in.); Diam.: 18.4 cm (7 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Stoneware with yellowish-white glaze。35.9 × 18.4 cm (14 1/8 × 7 1/4 in.); Diam.: 18.4 cm (7 1/4 in.)。Dr. Edith B. Farnsworth Collection",
+ "history": "<p>The dragon, with a scaly serpentine body, large whiskered head, and feet with sharp claws, is a supernatural creature that represents strength and goodness. The appearance of the dragon is considered a sign of good luck. Early depictions of the dragon are associated with water and rain, and are symbols of fertility and fecundity. The dragon came to represent the emperor, imperial power, and authority.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "32945"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/5df8c7ff-30ba-94ca-7945-88d9cbe4032f/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Dr. Edith B. Farnsworth Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/32945",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=32945)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-89468",
+ "name": "Box in the Form of a Clamshell",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  701,
+  750
+ ],
+ "category": "金银器",
+ "material": "Silver with parcel gilding",
+ "dimensions": null,
+ "excavated_from": "",
+ "summary": "Silver with parcel gilding。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "89468"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/85bf83d4-df13-b905-c2c9-d1433c5325e2/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/89468",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=89468)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

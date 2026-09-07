@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-234480",
+ "name": "Famous Scenes of Yandang Mountain",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1601,
+  1699
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink and colors on paper",
+ "dimensions": "32 × 465 cm (12 5/8 × 183 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink and colors on paper。32 × 465 cm (12 5/8 × 183 in.)。Kate S. Buckingham Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "234480"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/20dc42f2-3f2d-b68a-964b-6681ed507985/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Kate S. Buckingham Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/234480",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=234480)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

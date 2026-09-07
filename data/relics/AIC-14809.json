@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-14809",
+ "name": "Panel (Furnishing Fabric)",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1820,
+  1830
+ ],
+ "category": "金银器",
+ "material": "Silk, warp-float faced 4:1 satin weave; embroidered with silk and gold-leaf-over-lacquered-paper-strip-wrapped silk in flat, knot, satin, padded satin, surface satin, split, and stem stitches; laid work and couching; four panels joined",
+ "dimensions": "172.7 × 137.2 cm (68 × 54 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Silk, warp-float faced 4:1 satin weave; embroidered with silk and gold-leaf-over-lacquered-paper-strip-wrapped silk in flat, knot, satin, padded satin, surface satin, split, and stem stitches; laid work and couching; four panels joined。172.7 × 137.2 cm (68 × 54 1/4 in.)。Gift of Dr. John J. Ireland",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "14809"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/87c119c2-0639-391f-8df5-39bbf31c9095/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Dr. John J. Ireland"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/14809",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=14809)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

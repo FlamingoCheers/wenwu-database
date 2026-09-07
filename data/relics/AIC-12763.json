@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-12763",
+ "name": "Flattened Teapot (Bianhu)",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1630,
+  1670
+ ],
+ "category": "瓷器",
+ "material": "Dehua ware (blanc de chine); porcelain",
+ "dimensions": "13 × 7 cm (5 1/8 × 2 3/4 in.); Diam.: 7 cm (2 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Dehua ware (blanc de chine); porcelain。13 × 7 cm (5 1/8 × 2 3/4 in.); Diam.: 7 cm (2 3/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12763"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/44b0721e-affc-af97-7dea-bff2f2ff3d7a/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12763",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "茶文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12763)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

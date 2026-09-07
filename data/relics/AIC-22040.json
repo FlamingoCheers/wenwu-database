@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-22040",
+ "name": "Jar in the Form of an Ancient Bronze Container (lei)",
+ "aliases": [],
+ "dynasty": "秦",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -475,
+  -221
+ ],
+ "category": "瓷器",
+ "material": "Stoneware",
+ "dimensions": "26.6 × 34 cm (10 5/8 × 13 3/8 in.); Diam.: 34 cm (13 3/8 in.)",
+ "excavated_from": "",
+ "summary": "Stoneware。26.6 × 34 cm (10 5/8 × 13 3/8 in.); Diam.: 34 cm (13 3/8 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "22040"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/6ff36f52-4cf6-728c-84c7-a8fe8587a0bc/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/22040",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=22040)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

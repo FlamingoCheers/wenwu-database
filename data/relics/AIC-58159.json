@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-58159",
+ "name": "Bird-Shaped Container (zun)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1200,
+  -1046
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "15.9 × 13.3 × 5.7 cm (6 1/4 × 5 1/4 × 2 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。15.9 × 13.3 × 5.7 cm (6 1/4 × 5 1/4 × 2 1/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>Animal-shaped vessels are the rarest of all Shang ritual bronzes. This creature is a fascinating blend of alert poise and solemn dignity. Whereas the scaled pattern on the neck and tail of this bird suggests feathers, other details are fantastic rather than anatomical. A dragon in profile and a coiled serpent embellish each wing; monster masks crown the head as well as the removable lid on the bird's back.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "58159"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/69f80860-c4fe-d41c-6432-96fe42613adb/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/58159",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=58159)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

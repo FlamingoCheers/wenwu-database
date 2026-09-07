@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-49028",
+ "name": "Drinking and Dancing before the Tribal Chief",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1669,
+  1742
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink on paper",
+ "dimensions": "35.7 × 99.8 cm (14 1/16 × 39 5/16 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink on paper。35.7 × 99.8 cm (14 1/16 × 39 5/16 in.)。Gift of Mrs. Chauncey McCormick",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "49028"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/74e4bd6b-8831-1965-d4de-95f899755a00/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. Chauncey McCormick"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/49028",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=49028)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

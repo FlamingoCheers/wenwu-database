@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-7782",
+ "name": "Tea Bowl and Dish",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1784,
+  1795
+ ],
+ "category": "瓷器",
+ "material": "Hard-paste porcelain, glaze, with enamels in colors, and gilding",
+ "dimensions": "Cup: 4.5 × 8.6 cm (1 3/4 × 3 3/8 in.); Saucer: 3 × 14.1 cm (1 3/16 × 5 9/16 in.)",
+ "excavated_from": "",
+ "summary": "Hard-paste porcelain, glaze, with enamels in colors, and gilding。Cup: 4.5 × 8.6 cm (1 3/4 × 3 3/8 in.); Saucer: 3 × 14.1 cm (1 3/16 × 5 9/16 in.)。Bequest of Frederick S. Colburn",
+ "history": "<p>This tea bowl and dish, decorated with an American sailing vessel and the initials <em>CWJER</em> (or <em>CW &amp; ER</em>), are among the many examples of souvenir ware that captains and trade merchants special ordered from the porcelain shops in Canton to commemorate their journeys. The decoration on these pieces is of a more personal character than the average stock porcelain. Motifs for commemorative ware were most often copied from illustrations on mercantile and cargo documentation and thus probably bore little resemblance to the actual vessels.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "7782"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/4036b978-7bdf-b611-b976-6d95d5ca5ae5/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Frederick S. Colburn"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/7782",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "茶文化",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=7782)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

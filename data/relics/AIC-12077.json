@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-12077",
+ "name": "Wine Vessel (hu or zhong)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -206,
+  9
+ ],
+ "category": "青铜器",
+ "material": "Gilt bronze",
+ "dimensions": "42.5 × 38.4 cm (16 3/4 × 15 1/8 in.); Diam.: 38.5 cm (15 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Gilt bronze。42.5 × 38.4 cm (16 3/4 × 15 1/8 in.); Diam.: 38.5 cm (15 1/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12077"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/c06db245-3f85-bd85-4b5a-c1d51c1af895/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12077",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12077)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

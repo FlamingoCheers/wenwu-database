@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-12221",
+ "name": "Miniature Chest with Drawers (Mingqi)",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "瓷器",
+ "material": "Earthenware with green glaze and underglaze molded decoration",
+ "dimensions": "21.6 × 15 × 7.9 cm (8 1/2 × 5 7/8 × 3 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with green glaze and underglaze molded decoration。21.6 × 15 × 7.9 cm (8 1/2 × 5 7/8 × 3 1/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12221"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/683ffbb3-bbc3-b89b-e489-453438869558/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12221",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12221)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

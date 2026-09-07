@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-8669",
+ "name": "Vase with Figures, Landscape, and Auspicious Symbols",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1662,
+  1722
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze blue",
+ "dimensions": "29.2 × 15.5 cm (11 7/8 × 6 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain painted in underglaze blue。29.2 × 15.5 cm (11 7/8 × 6 1/8 in.)。Gift of Mr. Ralph M. Chait",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "8669"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/7e72c577-4637-e6f7-8e9a-d71ae23cf32d/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mr. Ralph M. Chait"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/8669",
+ "license": "CC0",
+ "tags": [
+  "山水",
+  "祥瑞纹样"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=8669)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

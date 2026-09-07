@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-198345",
+ "name": "Jar (hu)",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -927,
+  -850
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "48.5 × 30 × 24.5 cm (19 1/4 × 11 3/4 × 9 5/8 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。48.5 × 30 × 24.5 cm (19 1/4 × 11 3/4 × 9 5/8 in.)。Gift of Fred Eychaner and Tommy Yang Guo",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "198345"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/740bc9d3-8194-7e43-5eb2-0a13d55ce2f7/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Fred Eychaner and Tommy Yang Guo"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/198345",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=198345)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

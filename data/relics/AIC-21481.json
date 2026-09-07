@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-21481",
+ "name": "Incense Burner with Animal Handles",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "瓷器",
+ "material": "Guan ware; celadon-glazed stoneware",
+ "dimensions": "7.6 × 14.4 × 10.9 cm (3 × 5 11/16 × 4 5/16 cm)",
+ "excavated_from": "",
+ "summary": "Guan ware; celadon-glazed stoneware。7.6 × 14.4 × 10.9 cm (3 × 5 11/16 × 4 5/16 cm)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21481"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/c85c1983-7400-34b7-0d28-24b66c0a1b9f/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21481",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "香文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21481)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

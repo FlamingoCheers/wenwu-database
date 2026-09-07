@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-7855",
+ "name": "Tea Caddy with Cover",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1750,
+  1750
+ ],
+ "category": "瓷器",
+ "material": "Hard-paste porcelain with enamel and gilding",
+ "dimensions": "12.4 × 6.8 × 5.7 cm (4 7/8 × 2 11/16 × 2 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Hard-paste porcelain with enamel and gilding。12.4 × 6.8 × 5.7 cm (4 7/8 × 2 11/16 × 2 1/4 in.)。Bequest of Frederick S. Colburn",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "7855"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/7a9a2c5d-599f-0ecb-3002-85b60fb95308/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Frederick S. Colburn"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/7855",
+ "license": "CC0",
+ "tags": [
+  "茶文化",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=7855)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

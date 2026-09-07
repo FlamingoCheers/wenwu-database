@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-84123",
+ "name": "Drinking at Night",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1520,
+  1523
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink on paper",
+ "dimensions": "30.5 × 388.7 cm (12 × 153 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink on paper。30.5 × 388.7 cm (12 × 153 in.)。Gift of the Joseph and Helen Regenstein Foundation",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "84123"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/480d33f9-7328-a1f8-bb37-7373230b841b/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of the Joseph and Helen Regenstein Foundation"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/84123",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "照明"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=84123)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

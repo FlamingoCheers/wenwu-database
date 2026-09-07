@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-42218",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "陶器",
+ "material": "Earthenware with marbled slip",
+ "dimensions": "3.3 × 8.3 cm (1 5/16 × 3 1/4 in.); Diam.: 8.3 cm (3 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with marbled slip。3.3 × 8.3 cm (1 5/16 × 3 1/4 in.); Diam.: 8.3 cm (3 1/4 in.)。Bequest of Henry C. Schwab",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "42218"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/d5bbde97-9e0b-70af-347d-213eb0a22143/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Henry C. Schwab"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/42218",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=42218)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

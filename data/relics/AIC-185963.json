@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-185963",
+ "name": "Cauldron",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1050,
+  -771
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "49 × 43 cm (19 3/8 × 16 15/16 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。49 × 43 cm (19 3/8 × 16 15/16 in.)。Major Acquisitions Centennial Fund",
+ "history": "<p>As this monumental cauldron demonstrates, the most distinctive bronze vessels of early China represent important historical documents as well as stunningly powerful works of art. Designed to contain offerings of meat in ritual ceremonies, this vessel was cast with a lengthy inscription on its interior bowl. The text commemorates a solemn ritual ceremony at the imperial court of the Zhou, the second dynasty recorded in Chinese texts, and explains that Captain Wang, a noble official who had been rewarded for his loyal service to the Zhou king, commissioned this vessel to honor his deceased father and record the occasion for succeeding generations. Together with the inscription, the vessel’s shallow profile and austere surface decor date it to the early ninth century BC. Although the monsterlike masks that project from each leg display animal imagery common on older bronzes, the two registers of hooked, ribbonlike bands that encircle the bowl preserve only traces of early dragon or bird patterns. The transition from zoomorphic to abstract surface designs marks a significant turning point in the art of early Chinese bronzes. Recent archaeological discoveries of similar bronze vessels in China indicate that this cauldron was most likely buried as part of a large hoard.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "185963"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/69f25cba-e78d-061b-4cc1-b8fe66b02f28/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Major Acquisitions Centennial Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/185963",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=185963)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

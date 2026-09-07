@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-27925",
+ "name": "Suspension Bell (Bo) 东周时期青铜镈",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -499,
+  -450
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "62.2 × 43.6 × 36.8 cm (24 1/2 × 17 3/16 × 14 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。62.2 × 43.6 × 36.8 cm (24 1/2 × 17 3/16 × 14 1/2 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "27925"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/c1ac1941-e90c-2393-3e29-251a3b8fadfc/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/27925",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=27925)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

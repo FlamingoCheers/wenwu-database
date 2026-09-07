@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-11318",
+ "name": "Portrait of a Gentleman",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1260,
+  1644
+ ],
+ "category": "织绣",
+ "material": "Album leaf; ink and colors on silk",
+ "dimensions": "29.5 × 24.5 cm (11 5/8 × 9 11/16 in.)",
+ "excavated_from": "",
+ "summary": "Album leaf; ink and colors on silk。29.5 × 24.5 cm (11 5/8 × 9 11/16 in.)。Gift of Robert Allerton",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "11318"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/576b1e09-3e0c-59e2-49aa-394c853b0ff1/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Robert Allerton"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/11318",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=11318)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

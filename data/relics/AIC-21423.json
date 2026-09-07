@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-21423",
+ "name": "Cup in the Shape of a Plum Flower with Branch-Shaped Handle",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "瓷器",
+ "material": "Yixing stoneware with underglaze molded decoration",
+ "dimensions": "3.9 × 10.2 × 8.5 cm (1 9/16 × 4 × 3 3/8 in.)",
+ "excavated_from": "",
+ "summary": "Yixing stoneware with underglaze molded decoration。3.9 × 10.2 × 8.5 cm (1 9/16 × 4 × 3 3/8 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21423"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/968e6b0f-236f-53e1-a95d-acc8b6ee1faf/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21423",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21423)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-5410",
+ "name": "Water Ewer (He)",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -399,
+  -300
+ ],
+ "category": "青铜器",
+ "material": "Bronze with copper inlay",
+ "dimensions": "25.4 × 21 cm (10 1/8 × 8 1/4 in.); Diam.: 21 cm (8 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Bronze with copper inlay。25.4 × 21 cm (10 1/8 × 8 1/4 in.); Diam.: 21 cm (8 1/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>Whereas this type of water ewer is found together with wine vessels in tombs of the Shang period, it typically appears with a shallow water basin (<em>pan</em>) in Zhou tombs. This change in burial context suggests a change in function—from a vessel used to dilute wine to one used to pour ablutions. In this imaginative, finely cast example, various creatures assume different parts: bird-men (or men with birdlike headdresses) form the legs; a bird's head acts as the spout; and on the lid, a small monkey grasps a chain linked to a feline animal whose broadly arched back forms the handle.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "5410"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/6b337aa9-fccf-274a-9bcc-ea5bd2613c09/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/5410",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=5410)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-47961",
+ "name": "Head of Luohan",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  999,
+  1099
+ ],
+ "category": "漆器",
+ "material": "Hollow dry lacquer",
+ "dimensions": "30.5 × 26 × 20.4 cm (11 13/16 × 10 1/4 × 8 1/16 in.)",
+ "excavated_from": "",
+ "summary": "Hollow dry lacquer。30.5 × 26 × 20.4 cm (11 13/16 × 10 1/4 × 8 1/16 in.)。Gift of Janis H. Palmer",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "47961"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/56af1dd7-fbbe-5198-f2e5-d92c397b6e22/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Janis H. Palmer"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/47961",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=47961)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

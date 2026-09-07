@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-43173",
+ "name": "Narcissus",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1501,
+  1568
+ ],
+ "category": "金银器",
+ "material": "Folding fan mounted as an album leaf; ink on gold paper",
+ "dimensions": "Upper: W.: 48 cm (18 7/8 in.); Lower: W.: 22 cm (8 5/8 in.); Rib: H.: 15.6 cm (6 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Folding fan mounted as an album leaf; ink on gold paper。Upper: W.: 48 cm (18 7/8 in.); Lower: W.: 22 cm (8 5/8 in.); Rib: H.: 15.6 cm (6 1/8 in.)。Mr. and Mrs. Samuel M. Nickerson Endowment Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "43173"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/41d8c49b-20e2-af18-d7e3-b092e26bac38/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Mr. and Mrs. Samuel M. Nickerson Endowment Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/43173",
+ "license": "CC0",
+ "tags": [
+  "玺印封泥",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=43173)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

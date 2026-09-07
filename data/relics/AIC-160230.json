@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-160230",
+ "name": "Cupstand",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1000,
+  1127
+ ],
+ "category": "瓷器",
+ "material": "Black Ding ware; porcelain with brownish-black (tea dust) glaze",
+ "dimensions": "5.2 × 11.6 cm (2 1/16 × 4 9/16 in.); Diam.: 11.6 cm (4 9/16 in.)",
+ "excavated_from": "",
+ "summary": "Black Ding ware; porcelain with brownish-black (tea dust) glaze。5.2 × 11.6 cm (2 1/16 × 4 9/16 in.); Diam.: 11.6 cm (4 9/16 in.)。Gift of Dorothy Braude Edinburg to the Harry B. and Bessie K. Braude Memorial Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "160230"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/76e9e54f-661c-389a-21d7-7c69c419ab67/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Dorothy Braude Edinburg to the Harry B. and Bessie K. Braude Memorial Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/160230",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "茶文化",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=160230)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

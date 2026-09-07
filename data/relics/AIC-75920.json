@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-75920",
+ "name": "Bowl-Shaped Vessel with Cover (Gui) and Pierced Collar",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  25,
+  99
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with grayish-green glaze and underglaze incised decoration, gilt bronze applied to mouth-rim",
+ "dimensions": "16.5 × 25.8 cm (6 7/16 × 10 3/16 in.); Diam.: 25.8 cm (10 3/16 in.)",
+ "excavated_from": "",
+ "summary": "Stoneware with grayish-green glaze and underglaze incised decoration, gilt bronze applied to mouth-rim。16.5 × 25.8 cm (6 7/16 × 10 3/16 in.); Diam.: 25.8 cm (10 3/16 in.)。Gift of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "75920"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/59575c05-a44b-4041-e9db-be1f536ff8e0/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/75920",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=75920)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-12028",
+ "name": "Top Story of a Tower  (Tomb Model)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  25,
+  220
+ ],
+ "category": "陶器",
+ "material": "Earthenware with green lead glaze",
+ "dimensions": "44.5 × 37.5 × 38 cm (17 1/2 × 14 3/4 × 14 15/16 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with green lead glaze。44.5 × 37.5 × 38 cm (17 1/2 × 14 3/4 × 14 15/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>As burial practices filtered down from the Han aristocracy to officials and landowners, tomb models related to farming, an honored occupation, became increasingly popular. These models provide rough but lively impressions of rural compounds. The granary, used to store millet, barley, and wheat, was depicted either as a jar or as a small building.  This building combines realistic and imaginative details:  angular brackets support a tiled roof with ridgepoles and roundels and crowned with an oversize bird and floral roof ends.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12028"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/49ae72b1-ecd9-db06-97c2-32cc618c6497/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12028",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12028)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-7788",
+ "name": "Plate",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1780,
+  1790
+ ],
+ "category": "瓷器",
+ "material": "Porcelain, polychrome enamels, and gilding",
+ "dimensions": "3.2 × 24.5 cm (1 1/4 × 9 5/8 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain, polychrome enamels, and gilding。3.2 × 24.5 cm (1 1/4 × 9 5/8 in.)。Bequest of Frederick S. Colburn",
+ "history": "<p>The center of this plate depicts a fanciful figure of Fame with the emblem of the Society of the Cincinnati, a group founded in the wake of the American Revolution to preserve rights and liberties. Originally enhanced with gilt decoration, the blue-and-white underglaze border, known as the Fitzhugh pattern, incorporates flowers, butterflies, and Chinese decorative motifs. George Washington, the society’s first president, and Colonel Henry Lee, a Revolutionary War cavalry officer, both owned extensive dinner services in this pattern.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "7788"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/d1dd0752-26f0-0184-ab71-e11675663ed7/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Frederick S. Colburn"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/7788",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=7788)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

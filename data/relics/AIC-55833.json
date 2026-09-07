@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-55833",
+ "name": "Covered Food Container",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -900,
+  -800
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "19.9 × 21.3 cm (7 3/4 × 8 3/8 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。19.9 × 21.3 cm (7 3/4 × 8 3/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>This tureen was reportedly discovered in 1890 in a storage pit in Fufeng county, Shaanxi province, about sixty-two miles west of the present-day city of Xi'an, the site of the Western Zhou capital. This cache is said to have comprised more than one hundred twenty vessels.</p>\n<p>Identical inscriptions cast inside the basin and lid inform us that this vessel was commissioned by Ke, who served as a quartermaster (<em>shenfu</em>) at the Zhou court. The text states that the Ke had this vessel made to commemorate the occasion when the king registered Ke s fields and men, and that he used it to make offerings to his ancestors.  It also tells us that the vessel was to be passed on to Ke's descendants, who were to eternally treasure and use it:</p>\n<p>&quot;It was the eighteenth year, twelfth month, first auspiciousness, <em>gengyin</em> (day 27); the king was in the Kang Mu Palace at Zhou. The king commanded the chief attendant's assistant Secretary Xin to record Quartermaster Ke's fields and men. Ke bowed and touched his head to the ground, daring in response to extol the Son of Heaven's illustriously gracious beneficence, herewith making this sacrificial xu vessel. It is to be used to contribute to the wedding of the captain-in-chief's friends. May Ke herewith morning and night make offering to his august grandfather, and may his august grandfather and deceased-father cascadingly send down on Ke many blessings, long life, and an eternal mandate to serve the Son of Heaven. May Ke be daily awarded beneficence without limit, and may Ke for ten thousand years have sons' sons and grandsons' grandsons eternally to treasure and use it.&quot; (Translated Edward L. Shaughnessy, University of Chicago)</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "55833"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/8b4cd593-6570-15ce-0c76-23c0504b89cb/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/55833",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=55833)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

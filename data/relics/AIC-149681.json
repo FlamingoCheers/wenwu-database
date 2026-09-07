@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-149681",
+ "name": "Fragment (Dress Fabric)",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  775,
+  825
+ ],
+ "category": "织绣",
+ "material": "Silk, weft-float faced 1:2 'S' twill weave of complementary wefts and inner warps (samite)",
+ "dimensions": "61.6 × 90.2 cm (24 1/4 × 35 1/2 in.); Weft repeat: H.: 61 cm (24 in.)",
+ "excavated_from": "",
+ "summary": "Silk, weft-float faced 1:2 'S' twill weave of complementary wefts and inner warps (samite)。61.6 × 90.2 cm (24 1/4 × 35 1/2 in.); Weft repeat: H.: 61 cm (24 in.)。Robert Allerton Endowment",
+ "history": "<p>This textile reflects the cosmopolitan richness and inventiveness of the Tang dynasty. During this period, caravans of merchants and Buddhist clerics traversed the vast network that modern scholars call the Silk Road, transporting China’s luxurious silks westward across Asia and returning with exotic goods from empires extending to the Mediterranean Sea.</p>\n<p>In this textile’s jewel-like floral medallion, symmetrically curled and layered tendrils derived from the classical half palmette were adopted and refined by Chinese weavers from foreign sources. The stylized floral head seen from above, the blossoming stems in three-quarter view, and the half palmettes in profile merge naturalism and geometry by subtly varying perspective and color. This design pervaded East Asian decorative arts; similar floral medallions and scrolls embellish wall paintings, stone carvings, and vessels of ceramic and silver that Tang aristocrats commissioned for their tombs, Buddhist temples, and private treasuries. Architectural tiles from palace sites in Korea and, most notably, exquisite silk fabrics and carpets preserved in the Shosoin repository in Nara, Japan, attest to the transmission of these patterns throughout East Asia in the eighth century.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "149681"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/13b2edbf-05dc-a541-af00-6c14408ce6a6/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Robert Allerton Endowment"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/149681",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=149681)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

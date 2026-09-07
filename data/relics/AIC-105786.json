@@ -1,0 +1,49 @@
+{
+ "relic_id": "AIC-105786",
+ "name": "Water Pavilion by Twin Pines",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1279,
+  1368
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink and light colors on paper",
+ "dimensions": "100.3 × 35.5 cm (39 1/2 × 14 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink and light colors on paper。100.3 × 35.5 cm (39 1/2 × 14 in.)。Kate S. Buckingham Endowment Fund",
+ "history": "<p>This landscape was attributed to the Northern Song court painter Guo Xi (c. 1001-c. 1090) by the authors of early 20th-century colophons that accompany the painting. The depiction of figures gazing out from two water pavilions at the foot of a rocky outcrop—as well as a dramatic clusters of old pine-trees and billowing, restless forms of mountain-ridges that rise from valleys into the high distance—are all features associated with Guo Xi’s iconic landscapes. The relatively looser composition and hybrid brushwork, however, point to a Yuan re-interpretation of this Northern Song style.  A seal on the painting that may be associated with a Yuan scholar named Wu Fang supports this fourteenth-century date.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "105786"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/aa493ca1-f4d6-6ed2-d680-11da7a13736a/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Kate S. Buckingham Endowment Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/105786",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "酒文化",
+  "礼制",
+  "玺印封泥",
+  "文字书写",
+  "山水",
+  "动物",
+  "植物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=105786)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

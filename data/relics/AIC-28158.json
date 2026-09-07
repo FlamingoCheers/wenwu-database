@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-28158",
+ "name": "Guanyin (Avalokiteshvara)",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1350,
+  1400
+ ],
+ "category": "青铜器",
+ "material": "Gilt bronze",
+ "dimensions": "35.6 × 15.7 × 8.1 cm (14 × 6 1/8 × 3 3/16 in.)",
+ "excavated_from": "",
+ "summary": "Gilt bronze。35.6 × 15.7 × 8.1 cm (14 × 6 1/8 × 3 3/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>In its willowy proportions, as well as facial features and dress, this image exemplifies the Chinese manifestation of the princely Indian deity Avalokitesvara as the distinctively feminine Goddess of Mercy (Guanyin). Her necklaces of symmetrical loops and pendants closely resemble those of richly adorned images dating to the late 14th century, which spanned the Mongol Yuan dynasty (1279 1368) and China's return to native rule under the Ming (1368 1644).</p>\n<p>This image originally contained a strip of paper inscribed in Tibetan with Sanskrit mantras (ritual chants). Although both Yuan and Ming elites maintained close relations with Tibet, the presence of this sacred record in an elegantly secularized figure is unusual.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "28158"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/0a0a3531-5054-6e98-edab-c1517f75fbab/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/28158",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=28158)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

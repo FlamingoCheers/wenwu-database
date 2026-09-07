@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-46088",
+ "name": "Panel (Furnishing Fabric)",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1600,
+  1650
+ ],
+ "category": "金银器",
+ "material": "Silk and gold-leaf-over-lacquered-paper-strip-wrapped silk, slit tapestry weave with interlaced outlining wefts; painted details",
+ "dimensions": "236.5 × 171.3 cm (93 1/8 × 67 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Silk and gold-leaf-over-lacquered-paper-strip-wrapped silk, slit tapestry weave with interlaced outlining wefts; painted details。236.5 × 171.3 cm (93 1/8 × 67 1/2 in.)。Florence Ayscough and Harley Farnsworth MacNair Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "46088"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/9ee40669-4456-327f-c175-01d1500f8fe9/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Florence Ayscough and Harley Farnsworth MacNair Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/46088",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=46088)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

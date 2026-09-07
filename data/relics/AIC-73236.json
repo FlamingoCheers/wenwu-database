@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-73236",
+ "name": "Mastiff (Tomb Figurine)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  25,
+  220
+ ],
+ "category": "陶器",
+ "material": "Brick-red earthenware with green lead glaze",
+ "dimensions": "H.: 32.3 cm (12 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Brick-red earthenware with green lead glaze。H.: 32.3 cm (12 3/4 in.)。Gift of Russell Tyson",
+ "history": "<p>Tomb models such as this alert watchdog reflect an increasingly humanistic and mundane view of the afterlife. Its compact, hollow earthenware body has been molded in two halves, joined lengthwise along the head, chest, back, and rump. The lead glaze, colored green by the addition of copper oxide, has decomposed into thin layers that reflect light with silvery iridescence.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "73236"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/19eaa765-61f0-62f2-1aaf-e35196dd18af/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/73236",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器",
+  "日常生活"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=73236)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

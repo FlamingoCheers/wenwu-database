@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-16012",
+ "name": "Teapot",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1790,
+  1790
+ ],
+ "category": "瓷器",
+ "material": "Hard-paste porcelain, glaze, enamels and gilding",
+ "dimensions": "H.: 14.8 cm (5 13/16 in.)",
+ "excavated_from": "",
+ "summary": "Hard-paste porcelain, glaze, enamels and gilding。H.: 14.8 cm (5 13/16 in.)。Gift of Emily Crane Chadbourne",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "16012"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/72a14148-4781-57ba-fc41-d3d514912925/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Emily Crane Chadbourne"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/16012",
+ "license": "CC0",
+ "tags": [
+  "茶文化",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=16012)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

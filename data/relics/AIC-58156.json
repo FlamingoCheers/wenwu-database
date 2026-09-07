@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-58156",
+ "name": "Wine Container",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1050,
+  -900
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "29 × 21.6 cm (11 7/16 × 8 1/2 in.); Diam.: 21.6 cm (8 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。29 × 21.6 cm (11 7/16 × 8 1/2 in.); Diam.: 21.6 cm (8 1/2 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>Exuberant, crested birds that encircle the central and lower zones of this vessel, together with jagged vertical flanges, display the new flamboyance of Western Zhou design. Around the neck, rising blades exhibit spreading cicada-like forms and the suggestion of monster masks. The surface of this vessel is of silvery color with patches of azurite blue and malachite green encrustations. The base is inscribed &quot;Jian made (this) precious sacrificial vessel.&quot;</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "58156"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/5e81ec0b-ad06-909d-bfc4-7766872337c7/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/58156",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=58156)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

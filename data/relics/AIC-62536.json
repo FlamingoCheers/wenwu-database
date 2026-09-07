@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-62536",
+ "name": "Autumn Mountains 秋山圖",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1510,
+  1550
+ ],
+ "category": "金银器",
+ "material": "Handscroll; ink on gold-flecked paper",
+ "dimensions": "32 × 489 cm (12 9/16 × 192 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink on gold-flecked paper。32 × 489 cm (12 9/16 × 192 1/2 in.)。Kate S. Buckingham Endowment Fund",
+ "history": "<p>The eminent scholar-painter Wen Zhengming mastered disciplined but unassertive brushwork to create subtly powerful and often poignant compositions. Ascending a steep mountain path, a man with a walking staff is the solitary inhabitant of this landscape; desolate huts and clustered groves of thin trees are his only neighbors. Horizontal strokes accent the densely layered and partially shadowed mountain contours – an intriguing blend or representational form and surface texture.</p>\n<p>A poetic colophon by Shao Bao (1460-1527) is inscribed after the painting:<br><q>In the Dao of painting, spring mountains are admired,<br>But one can sympathize even more with autumn mountains.<br>High winds overwhelm strong trees,<br>Heavy rains - one can really see the springs.<br>Tallow and plum trees are thin,<br>Maple groves and apricot [trees] fade and groan.<br>Yet when winter follows this,<br>The pine and cypress are just as before.&quot;<br>(translation by Stephen Little)</q></p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "62536"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/bc3826a5-0fa4-fe79-c883-768cdc4cfe4f/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Kate S. Buckingham Endowment Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/62536",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=62536)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

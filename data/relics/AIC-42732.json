@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-42732",
+ "name": "Bottle-Shaped Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1723,
+  1735
+ ],
+ "category": "瓷器",
+ "material": "Porcelain",
+ "dimensions": "15.4 × 7.3 cm (6 1/16 × 2 7/8 in.); Diam.: 7.3 cm (2 7/8 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain。15.4 × 7.3 cm (6 1/16 × 2 7/8 in.); Diam.: 7.3 cm (2 7/8 in.)。Bequest of Henry C. Schwab",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "42732"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/7408ad42-3ecc-c4e0-a7fe-a0609e41673f/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Henry C. Schwab"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/42732",
+ "license": "CC0",
+ "tags": [
+  "玺印封泥",
+  "文字书写",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=42732)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

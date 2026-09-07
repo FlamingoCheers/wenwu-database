@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-202975",
+ "name": "Beaker",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1599,
+  -1450
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H. 15.5 (6 1/8 in.) diam. 11.0 cm (4 5/16 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。H. 15.5 (6 1/8 in.) diam. 11.0 cm (4 5/16 in.)。Gift of Katherine and George Fan",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "202975"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/d506f504-1613-7361-fee7-cd4089f7ebe0/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Katherine and George Fan"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/202975",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=202975)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

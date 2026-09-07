@@ -1,0 +1,44 @@
+{
+ "relic_id": "AIC-12236",
+ "name": "Tripod Dish with Flying Goose, Stylized Flowers and Vines",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "陶器",
+ "material": "Slip-coated earthenware with three-color (sancai) lead glazes and underglaze mold-impressed decoration",
+ "dimensions": "6.5 × 29.3 cm (2 9/16 × 11 9/16 in.); Diam.: 29.3 cm (11 9/16 in.)",
+ "excavated_from": "",
+ "summary": "Slip-coated earthenware with three-color (sancai) lead glazes and underglaze mold-impressed decoration。6.5 × 29.3 cm (2 9/16 × 11 9/16 in.); Diam.: 29.3 cm (11 9/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12236"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/6c86e7a3-6e15-86df-f2bd-170712a05e08/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12236",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "玺印封泥",
+  "文字书写",
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12236)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

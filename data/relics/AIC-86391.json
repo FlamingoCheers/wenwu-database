@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-86391",
+ "name": "Rectangular Tureen (fu)",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -770,
+  -445
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "18.6 × 33.3 × 21 cm (7 5/16 × 13 1/8 × 8 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。18.6 × 33.3 × 21 cm (7 5/16 × 13 1/8 × 8 1/2 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>The lid and basin of this grain vessel are virtually identical in form; with the lid inverted, both pieces could be used as serving dishes. Its large lug handles are cast as vestiges of dragon heads with rolled snouts; smaller heads are applied to the lid. The surface design consists of flat, tessellated planes composed of rectangular units of tightly interlaced ribbons.  This restrained pattern reflects a new interest in finely textured grid patterns that transformed bronze design in the sixth century B.C. The blue (azurite) and green (malachite) patina is copper corrosion, formed over centuries of burial underground.</p>\n<p>The form of this vessel was originally based on a bamboo prototype, whose function was to hold grain, perhaps rice.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "86391"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/9541bb37-23d5-d8cb-8399-7f525167b0dc/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/86391",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=86391)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

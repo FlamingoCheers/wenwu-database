@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-17862",
+ "name": "Snuff Bottle",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1644,
+  1911
+ ],
+ "category": "杂器",
+ "material": "Fossil coral",
+ "dimensions": "6.5 × 5.5 × 3.1 cm (2 9/16 × 2 3/16 × 1 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Fossil coral。6.5 × 5.5 × 3.1 cm (2 9/16 × 2 3/16 × 1 1/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "17862"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/b1fa5bf1-8d44-3a0f-b35b-48eb8b931290/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/17862",
+ "license": "CC0",
+ "tags": [
+  "日常生活"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=17862)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

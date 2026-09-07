@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-111140",
+ "name": "Horse",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  701,
+  750
+ ],
+ "category": "陶器",
+ "material": "Earthenware with three-color (sancai) lead glazes",
+ "dimensions": "73.7 × 25.4 × 68.6 cm (29 × 10 × 27 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with three-color (sancai) lead glazes。73.7 × 25.4 × 68.6 cm (29 × 10 × 27 in.)。Gift of Mrs. Gordon Palmer",
+ "history": "<p>In  Tang-dynasty  China,  horses  were  treasured for their military value and their use in aristocratic sports. The finest steeds were imported from Central Asia and from China’s northwestern neighbors. In this model for the afterlife, the sculptor captured the horse’s power and grace as well as its spirit and alertness. The harness ornaments closely resemble those used in real life.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "111140"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/72dd1c9e-f777-cbf3-ec01-8ae0663bb6d1/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. Gordon Palmer"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/111140",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=111140)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

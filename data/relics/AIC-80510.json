@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-80510",
+ "name": "Birds, Flowers and Insects",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1686,
+  1756
+ ],
+ "category": "书画",
+ "material": "Album of eight leaves; ink and color on paper",
+ "dimensions": "Each leaf: 24.2 × 30.5 cm (9 1/2 × 12 in.)",
+ "excavated_from": "",
+ "summary": "Album of eight leaves; ink and color on paper。Each leaf: 24.2 × 30.5 cm (9 1/2 × 12 in.)。Samuel M. Nickerson Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "80510"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/7967bcfe-1634-19ad-ff6c-48a10cae9a8e/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Samuel M. Nickerson Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/80510",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=80510)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

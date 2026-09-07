@@ -1,0 +1,44 @@
+{
+ "relic_id": "AIC-28163",
+ "name": "Footed Dish with Lotus Medallion and Cloud Scrolls",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  701,
+  750
+ ],
+ "category": "陶器",
+ "material": "Earthenware with impressed decoration and three-color (sancai) lead glazes",
+ "dimensions": "6.3 × 29.5 cm (2 1/2 × 11 5/8 in.); Diam.: 29.5 cm (11 5/8 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with impressed decoration and three-color (sancai) lead glazes。6.3 × 29.5 cm (2 1/2 × 11 5/8 in.); Diam.: 29.5 cm (11 5/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>Chinese potters of the mid-Tang dynasty (c. 675-750) revitalized a centuries-old tradition of low-fired, lead-rich glazes colored with metallic oxides. Artists of the late Western Han dynasty (1st century B.C.) had pioneered this technology by coating vessels, figures, and other objects of porous red earthenware with striking but easily weathered glazes of copper green and iron amber-brown.  Utilizing harder and lighter-toned clays (often brightened with white slip), carefully fritted (melted and crushed) glazes, and measured recipes of metallic oxides, the Tang created stable and brilliant hues. Generally termed &quot;three-color&quot; (<em>sancai</em>) after the archetypical combination of bright green, amber, and white (transparent) glazes, this palette also included a rare cobalt blue probably imported from Persia.  Such fluid glazes could be dripped, spotted, splashed or neatly contained within carved, molded or impressed outlines.</p>\n<p>This footed dish was crisply impressed with a central, lotus-like medallion and surrounding cloud-like scrolls. Within those sharply grooved outlines, the craftsman carefully painted the amber, green, and blue glazes.  The rim is painted in blue and the legs and underside in amber.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "28163"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/0ee06bf9-ac87-7705-1406-7f23ffc59dc2/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/28163",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "玺印封泥",
+  "文字书写",
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=28163)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

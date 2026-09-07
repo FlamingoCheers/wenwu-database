@@ -1,0 +1,44 @@
+{
+ "relic_id": "AIC-76275",
+ "name": "Street Scenes in Times of Peace 太平風會圖",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1293,
+  1365
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink and colors on paper",
+ "dimensions": "28 × 1092.2 cm (11 × 430 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink and colors on paper。28 × 1092.2 cm (11 × 430 in.)。Kate S. Buckingham Endowment",
+ "history": "<p>This impressive handscroll depicts more than four hundred figures that together represent a broad variety of professional occupations, social types, public interactions and expressive poses. The scroll is a rare example of genre painting, seemingly newly emerged during the Song dynasty (960-1279), that took the public activities of common people as its subject-matter. The title, added in the frontispiece to the painting, literally reads “Collection of Customs during Times of Peace” (Taiping fenghui), referring to the totality of social and professional activities of a given community. The absence of an articulated background to the depiction of these activities, and their general composition around typological groups, is a feature shared with the medium of the model-book. Such painting manuals provided a collection of iconographic cartouches for copying into larger, integrated compositions. However, the particular compositional features of this scroll, including complex interaction among groups of figures, overall spatial coherence, and the nature of activities portrayed (including transportation, performance, and public sales), interestingly suggest that its horizontal pictorial surface stands here for the public space of the ‘street’. Activities portrayed include the transportation of goods, livestock, and people, commercial activities, including divinatory and clerical services, public entertainment, and even the accidental entertainment provided by a runaway donkey causing a stir. The social array of characters runs the gamut from street-beggar to scholarly recluse (with staff and servant carrying a lute), from men to women and children. Some of the hats and clothing of these figures appear to be Mongol in type, which lends additional interest to the temporal context of production of this particular painting: if painted in the Ming, the reference to the Mongol presence during the preceding Yuan dynasty adds a retrospective, historicizing note to this portrayal of public life.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "76275"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/cb19e461-4e69-c945-00d1-5ceb472f5fd1/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Kate S. Buckingham Endowment"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/76275",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "玺印封泥",
+  "文字书写",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=76275)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

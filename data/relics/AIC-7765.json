@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-7765",
+ "name": "Coffee Pot with Lid",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1790,
+  1800
+ ],
+ "category": "瓷器",
+ "material": "Hard-paste porcelain, enamels, and gilding",
+ "dimensions": "24.5 × 20.6 × 12.4 cm (9 5/8 × 8 1/8 × 4 7/8 in.)",
+ "excavated_from": "",
+ "summary": "Hard-paste porcelain, enamels, and gilding。24.5 × 20.6 × 12.4 cm (9 5/8 × 8 1/8 × 4 7/8 in.)。Bequest of Frederick S. Colburn",
+ "history": "<p>This coffee pot, decorated with an American sailing vessel, is among the many examples of souvenir ware that captains and trade merchants special ordered from the porcelain shops in Canton to commemorate their journeys. The decoration on these pieces is of a more personal character than the average stock porcelain. Motifs for commemorative ware were most often copied from illustrations on mercantile and cargo documentation and thus probably bore little resemblance to the actual vessels.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "7765"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/2f8e2784-7d1d-3041-b90a-a81c4f38fcea/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Frederick S. Colburn"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/7765",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=7765)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

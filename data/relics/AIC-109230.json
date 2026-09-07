@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-109230",
+ "name": "Goblet",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1600,
+  -1050
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "27.2 × 17 cm (10 3/4 × 6 11/16 in.); Diam.: 17 cm (6 11/16 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。27.2 × 17 cm (10 3/4 × 6 11/16 in.); Diam.: 17 cm (6 11/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>For nobility of the Shang dynasty, divine goodwill was enlisted and repaid with ritual offerings of food and drink. This vessel, which would have been placed over fire to heat sacrificial wine, displays the taut profile and precise surface decoration and distinguishes the finest bronzes commissioned for this purpose.  Its surface decoration is intricately executed in several levels of relief. Two tiers of monster masks, each formed of hooks and spirals around a pair of staring eyes, encircle the flared bowl. Elongated versions of these masks, which may be read as paired serpents, descend the legs, while a snub-nosed bovine head with sculpted horns crowns the strap-handle.  This intriguing imagery, set off a background of fine, squared spirals, reappears in endless variations on Shang bronzes, but eludes modern interpretation.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "109230"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/1f1d5da3-9e53-2250-cb35-e71a11692790/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/109230",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=109230)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

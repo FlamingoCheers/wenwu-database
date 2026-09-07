@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-48982",
+ "name": "Horse (Tomb Figure)",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  700,
+  750
+ ],
+ "category": "陶器",
+ "material": "Buff earthenware with three-color (sancai) lead glazes and molded decoration",
+ "dimensions": "62.9 × 78 cm (24 3/4 × 30 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Buff earthenware with three-color (sancai) lead glazes and molded decoration。62.9 × 78 cm (24 3/4 × 30 3/4 in.)。Gift of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "48982"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/d6c7251c-9ef1-fee1-a6dc-b8ab2b60ce16/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/48982",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=48982)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

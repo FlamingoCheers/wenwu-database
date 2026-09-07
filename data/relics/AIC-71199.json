@@ -1,0 +1,44 @@
+{
+ "relic_id": "AIC-71199",
+ "name": "Buddhist Monk in a Grotto 乾隆御题诗玉山子",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1600,
+  1750
+ ],
+ "category": "玉器",
+ "material": "Jade",
+ "dimensions": "9 × 8.1 × 2.2 cm (3 9/16 × 3 3/16 × 7/8 in.)",
+ "excavated_from": "",
+ "summary": "Jade。9 × 8.1 × 2.2 cm (3 9/16 × 3 3/16 × 7/8 in.)。Edward and Louise B. Sonnenschein Collection",
+ "history": "<p>Chinese scholars commissioned exquisitely crafted sculptures to decorate the desks of their private studies. The upper corner of this miniature mountain cave is incised with an inscription datable to the reign of the Qianlong emperor (r. 1736-1795). However, it is likely that this inscription was added later. The artistic style of the sculpture suggests that it was created one century earlier than the inscription. Carved to depict a Buddhist monk peacefully meditating in a grotto, the sculpture may have expressed the owner’s penchant for aesthetic and spiritual retreat during a time of political instability.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "71199"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/548c408e-4283-b57f-fc23-a3ee4cfb52b8/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Edward and Louise B. Sonnenschein Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/71199",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "酒文化",
+  "礼制",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=71199)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

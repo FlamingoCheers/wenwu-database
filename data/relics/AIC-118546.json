@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-118546",
+ "name": "Cocoon-Shaped Flask (Jianxinghu)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -206,
+  9
+ ],
+ "category": "陶器",
+ "material": "Buff earthenware with polychrome pigments",
+ "dimensions": "31 × 26 × 21 cm (12 1/4 × 10 1/4 × 8 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Buff earthenware with polychrome pigments。31 × 26 × 21 cm (12 1/4 × 10 1/4 × 8 1/4 in.)。Gift of Cathay and Joyce Li in memory of James W. Alsdorf",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "118546"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/7555f806-d59f-3d54-6f70-b71cb4ad2669/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Cathay and Joyce Li in memory of James W. Alsdorf"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/118546",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=118546)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

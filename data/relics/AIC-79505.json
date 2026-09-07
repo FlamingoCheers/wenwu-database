@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-79505",
+ "name": "A Hunt in the Mountains of Heaven",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1601,
+  1700
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink and color on paper",
+ "dimensions": "33.3 × 899.2 cm (12 7/8 × 354 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink and color on paper。33.3 × 899.2 cm (12 7/8 × 354 in.)。Kate S. Buckingham Endowment",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "79505"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/7cab841a-24d6-4063-33dd-076adb1c82c3/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Kate S. Buckingham Endowment"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/79505",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=79505)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

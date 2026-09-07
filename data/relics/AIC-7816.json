@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-7816",
+ "name": "Teapot with Cover",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1790,
+  1800
+ ],
+ "category": "瓷器",
+ "material": "Hard-paste porcelain, glaze, with enamels in colors, and gilding",
+ "dimensions": "15.2 × 24.1 × 13.3 cm (6 × 9 1/2 × 5 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Hard-paste porcelain, glaze, with enamels in colors, and gilding。15.2 × 24.1 × 13.3 cm (6 × 9 1/2 × 5 1/4 in.)。Bequest of Frederick S. Colburn",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "7816"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/cc397bd2-bc65-269a-ea89-c8504817d330/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Frederick S. Colburn"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/7816",
+ "license": "CC0",
+ "tags": [
+  "茶文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=7816)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

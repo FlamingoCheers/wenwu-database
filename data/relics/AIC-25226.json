@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-25226",
+ "name": "Tripod Caldron (Ding)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -206,
+  9
+ ],
+ "category": "陶器",
+ "material": "Gray earthenware with mold-impressed decoration",
+ "dimensions": "23.2 × 27.8 cm (9 1/8 × 10 15/16 in.); Diam.: 27.8 cm (10 15/16 in.)",
+ "excavated_from": "",
+ "summary": "Gray earthenware with mold-impressed decoration。23.2 × 27.8 cm (9 1/8 × 10 15/16 in.); Diam.: 27.8 cm (10 15/16 in.)。Gift of Mrs. Potter Palmer",
+ "history": "<p>During the Han dynasty, economic stability and growth allowed officials and landowners to afford burial goods like aristocratic families could. Clay replicas of costly bronze and lacquer vessels also met the wider demand from middle-income patrons for tomb furnishings. This cauldron, modeled after a common bronze shape, has a lid that depicts a sinuous dragon—a design commonly found on lacquerware.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "25226"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/ff2b06ad-68e9-1e1d-ffeb-2d60bc5a8046/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. Potter Palmer"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/25226",
+ "license": "CC0",
+ "tags": [
+  "玺印封泥",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=25226)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

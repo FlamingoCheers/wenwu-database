@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-23497",
+ "name": "Wine Flask (Bian Hu)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -99,
+  100
+ ],
+ "category": "青铜器",
+ "material": "Bronze with incised decoration",
+ "dimensions": "22.5 × 26.3 × 8.3 cm (8 7/8 × 10 3/8 × 3 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Bronze with incised decoration。22.5 × 26.3 × 8.3 cm (8 7/8 × 10 3/8 × 3 1/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>This unusual variation of the canteen-shaped container is lightly chiseled with a combination of geometric patterns, birds, and gazelle-like creatures. The distinctive technique and style of surface decoration seen on this vessel associate it with bronzes excavated in far southern China, near modern Vietnam. Under occupation by Han rulers, bronze foundries in this frontier area produced intriguing bronzes in which Chinese styles are blended with those of the native, non-Chinese tribes.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "23497"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/00c26e17-38d2-ee04-d8a3-01fb37a81d91/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/23497",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=23497)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-89829",
+ "name": "“Guleng” Teapot",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1849
+ ],
+ "category": "瓷器",
+ "material": "Yixing stoneware",
+ "dimensions": "7.3 × 14.4 × 9.7 cm (2 7/8 × 5 11/16 × 3 13/16 in.)",
+ "excavated_from": "",
+ "summary": "Yixing stoneware。7.3 × 14.4 × 9.7 cm (2 7/8 × 5 11/16 × 3 13/16 in.)。Gift of Mr. Russell Tyson",
+ "history": "<p>Two characters, “guleng” (觚稜), are inscribed on one side of this teapot, denoting the shape of the vessel styled after an ancient angular wine goblet. The opposite side features an engraved poem further elaborating on the unique shape of the teapot and its minimalistic aesthetic. This work was commissioned by Chen Mansheng and crafted by Yang Pengnian. The potter's name, Pengnian, is stamped beneath the handle, while Mansheng's mark is found on the bottom. The pair was known for their collaboration in creating scholarly stonewares that incorporated calligraphy, literati painting and poetry into their designs.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "89829"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/51806565-f819-aee6-e126-106338bdddc9/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mr. Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/89829",
+ "license": "CC0",
+ "tags": [
+  "茶文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=89829)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-15910",
+ "name": "Woman's Shoes",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1801,
+  1900
+ ],
+ "category": "织绣",
+ "material": "Silk, satin weave, with needlework",
+ "dimensions": "a: 10.4 × 21.6 × 7.8 cm (4 1/8 × 8 1/2 × 3 1/8 in.); b: 10.2 × 29.9 × 7.8 cm (4 × 8 5/8 × 3 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Silk, satin weave, with needlework。a: 10.4 × 21.6 × 7.8 cm (4 1/8 × 8 1/2 × 3 1/8 in.); b: 10.2 × 29.9 × 7.8 cm (4 × 8 5/8 × 3 1/8 in.)。Gift of Mrs. J. Ogden Armour through the Antiquarian Society",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "15910"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/0655410d-43d5-9b3f-4af4-bff8276ce10d/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. J. Ogden Armour through the Antiquarian Society"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/15910",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=15910)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

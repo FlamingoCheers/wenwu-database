@@ -1,0 +1,44 @@
+{
+ "relic_id": "AIC-86451",
+ "name": "Landscape",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1644,
+  1689
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink on paper",
+ "dimensions": "27.4 × 279.4 cm (10 3/4 × 110 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink on paper。27.4 × 279.4 cm (10 3/4 × 110 in.)。Waller Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "86451"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/f42f6c53-7682-35df-8fbf-d58880d15b7e/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Waller Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/86451",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "玺印封泥",
+  "文字书写",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=86451)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

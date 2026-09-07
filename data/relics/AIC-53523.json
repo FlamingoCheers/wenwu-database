@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-53523",
+ "name": "Dragon-Handled Amphora",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  700,
+  750
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with creamy white glaze",
+ "dimensions": "48.8 × 25.6 cm (19 3/16 × 10 1/16 in.); Diam.: 25.6 cm (10 1/16 in.)",
+ "excavated_from": "",
+ "summary": "Stoneware with creamy white glaze。48.8 × 25.6 cm (19 3/16 × 10 1/16 in.); Diam.: 25.6 cm (10 1/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "53523"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/c0894d6d-8819-9ac6-3c86-fdf343fd27c1/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/53523",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=53523)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

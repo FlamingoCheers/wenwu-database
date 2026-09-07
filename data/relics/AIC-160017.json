@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-160017",
+ "name": "Mahamayuri Vidyaraja",
+ "aliases": [],
+ "dynasty": "辽",
+ "dynasty_confidence": "high",
+ "year_range": [
+  916,
+  1125
+ ],
+ "category": "书画",
+ "material": "Ink and colors on cotton (framed)",
+ "dimensions": "141.4 × 88.3 cm (55 11/16 × 34 13/16 in.)",
+ "excavated_from": "",
+ "summary": "Ink and colors on cotton (framed)。141.4 × 88.3 cm (55 11/16 × 34 13/16 in.)。Kate S. Buckingham Endowment",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "160017"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/e95dc063-127f-dd28-2c6f-fed1bc409d29/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Kate S. Buckingham Endowment"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/160017",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=160017)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

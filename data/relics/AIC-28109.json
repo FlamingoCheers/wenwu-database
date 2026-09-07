@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-28109",
+ "name": "Guanyin (Avalokiteshvara)",
+ "aliases": [],
+ "dynasty": "西夏",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1200
+ ],
+ "category": "青铜器",
+ "material": "Gilt copper",
+ "dimensions": "34 × 6.4 × 5.6 cm (13 3/8 × 2 1/2 × 2 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Gilt copper。34 × 6.4 × 5.6 cm (13 3/8 × 2 1/2 × 2 1/4 in.)。Gift of Guy H. Mitchell",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "28109"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/d4936694-69fa-0d24-d403-59c2e406bda3/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Guy H. Mitchell"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/28109",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=28109)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

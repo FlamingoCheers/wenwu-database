@@ -1,0 +1,44 @@
+{
+ "relic_id": "AIC-65911",
+ "name": "Standing Attendant (Tomb Figurine)",
+ "aliases": [],
+ "dynasty": "秦",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -400,
+  -201
+ ],
+ "category": "杂器",
+ "material": "Wood with traces of polychrome pigments",
+ "dimensions": "49.9 × 10.1 × 4.6 cm (19 5/8 × 4 × 1 13/16 in.)",
+ "excavated_from": "",
+ "summary": "Wood with traces of polychrome pigments。49.9 × 10.1 × 4.6 cm (19 5/8 × 4 × 1 13/16 in.)。Gift of Florene M. Schoenborn",
+ "history": "<p>In Chu tombs, wood sculptures of men and women were placed in compartments surrounding the coffin.  Natural weathering has accentuated the elegant attenuation of these figures.  Some were constructed with separate forearms and hands, now lost, that were tenoned into small holes in their sleeves.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "65911"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/4ea0f51a-7004-8a84-97e7-fc4b520ed0bf/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Florene M. Schoenborn"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/65911",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器",
+  "日常生活",
+  "动物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=65911)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

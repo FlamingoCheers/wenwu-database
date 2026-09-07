@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-94182",
+ "name": "Dish with Five-Clawed Dragon",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1600,
+  1799
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze iron red",
+ "dimensions": "1.1 × 10.5 cm (7/16 × 4 1/8 in.); Diam.: 10.5 cm (4 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain painted in underglaze iron red。1.1 × 10.5 cm (7/16 × 4 1/8 in.); Diam.: 10.5 cm (4 1/8 in.)。James W. and Marilynn Alsdorf Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "94182"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/2149136f-607c-437b-91c8-38c449cc683e/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 James W. and Marilynn Alsdorf Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/94182",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=94182)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

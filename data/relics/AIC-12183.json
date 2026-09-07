@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-12183",
+ "name": "Pilgrim Flask (Bian Hu)",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  565,
+  699
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with mold-impressed decoration under yellowish-brown lead glaze",
+ "dimensions": "24.1 × 20.4 × 12.2 cm (9 1/2 × 8 × 4 13/16 in.)",
+ "excavated_from": "",
+ "summary": "Stoneware with mold-impressed decoration under yellowish-brown lead glaze。24.1 × 20.4 × 12.2 cm (9 1/2 × 8 × 4 13/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>The flat sides of this canteen-shaped container depict a youthful dancer and a musician who perform above a pair of romping lions. In their costumes and facial features, these performers resemble figures depicted in ancient Hellenistic art. The clarity of their features is partially obscured by a thickly applied glaze, as well as by the dense background of undulating foliage, floral heads, and grapevines. Some of these designs clearly derive from Central Asian metalwork. They may have been transmitted to China as decorative motifs on imported objects or alternatively, as background patterns on Buddhist images that were brought to China or created in China from Central Asian prototypes.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12183"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/047e4bc8-4c8c-4c31-b554-3197f1fb5b33/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12183",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "玺印封泥",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12183)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

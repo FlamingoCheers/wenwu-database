@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-41865",
+ "name": "Pair of Ornaments",
+ "aliases": [],
+ "dynasty": "秦",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -399,
+  -200
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "A: 4.8 × 3 × 1 cm (1 7/8 × 1 3/16 × 3/8 in.); b: 4.8 × 3 × 1 cm (1 7/8 × 1 3/16 × 3/8 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。A: 4.8 × 3 × 1 cm (1 7/8 × 1 3/16 × 3/8 in.); b: 4.8 × 3 × 1 cm (1 7/8 × 1 3/16 × 3/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "41865"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/17b6c7e6-2935-5484-d307-1432ae14c90b/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/41865",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=41865)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

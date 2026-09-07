@@ -1,0 +1,37 @@
+{
+ "relic_id": "AIC-183455",
+ "name": "Panel",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "织绣",
+ "material": "Silk, bands of satin weave with supplementary pile warps forming cut and voided velvet",
+ "dimensions": "315.2 × 73.1 cm (124 1/8 × 28 3/4 in.); Repeat: 19.3 × 23.5 cm (7 5/8 × 9 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Silk, bands of satin weave with supplementary pile warps forming cut and voided velvet。315.2 × 73.1 cm (124 1/8 × 28 3/4 in.); Repeat: 19.3 × 23.5 cm (7 5/8 × 9 1/4 in.)。Gift of the James D. Tigerman Estate",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "183455"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/495e069d-ab88-ed9b-84fc-e1c6ec1a0ded/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of the James D. Tigerman Estate"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/183455",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=183455)",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

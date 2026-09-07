@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-18454",
+ "name": "Bottle-Shaped Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1799
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with purple flambé glaze",
+ "dimensions": "33 × 22.2 cm (13 × 8 3/4 in.); Diam.: 22.2 cm (8 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain with purple flambé glaze。33 × 22.2 cm (13 × 8 3/4 in.); Diam.: 22.2 cm (8 3/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>This vase’s rich glaze was created when a potter fired it in a kiln with restricted oxygen at a high temperature. The copper oxides in the glaze transformed unpredictably into streaks of crimson, violet, and blue to create what is known as “flambé glaze.” Potters carefully manipulated kiln conditions in this process, called reduction firing, yet embraced the chance effects that gave each piece its unique, flame-like character. These striking results captivated European collectors, and ceramicists such as French artist Taxile Doat sought to reproduce the fluid, iridescent effects in their own work in the 18th and 19th centuries.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "18454"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/739e0021-806a-4ccc-6da6-a729d688821f/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/18454",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=18454)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

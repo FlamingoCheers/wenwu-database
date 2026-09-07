@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-22117",
+ "name": "Uncut Yardage (Dress Fabric)",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1700,
+  1725
+ ],
+ "category": "织绣",
+ "material": "brocaded silk",
+ "dimensions": "128 × 142.8 cm (50 3/8 × 56 1/4 in.)",
+ "excavated_from": "",
+ "summary": "brocaded silk。128 × 142.8 cm (50 3/8 × 56 1/4 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "22117"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/aecce2d1-6a73-1287-e52f-6765fefcb94f/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/22117",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=22117)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

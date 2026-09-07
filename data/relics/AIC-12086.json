@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-12086",
+ "name": "Bell (nao)",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1046,
+  -771
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "41.7 × 28.9 cm (16 1/2 × 11 3/8 in.); Diam.: 28.9 cm (11 3/8 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。41.7 × 28.9 cm (16 1/2 × 11 3/8 in.); Diam.: 28.9 cm (11 3/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>Bells of this type are among China's earliest percussion instruments. Many have been unearthed from mountain slopes and along riverbanks in south China. This area was occupied by distinctive cultures that coexisted with the Shang and Western Zhou dynasties. Along this southern frontier, it appears that large bronze bells were more important than bronze vessels to the local aristocracy.</p>\n<p>This bell was designed to be mounted on its hollow stem with its curved mouth facing up and struck from the outside with a mallet. Unlike other types of bronze bells that were assembled as chime sets, this one was intended to be played as an individual instrument. It may have been sounded during ceremonies or military campaigns. The eyebrow-shaped lines that skim the margins of this bell depict imaginary dragons or realistic reptiles.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12086"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/7942dae0-6fdd-e6a1-9a23-b64d5c08e8fc/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12086",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12086)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

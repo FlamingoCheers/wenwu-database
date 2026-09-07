@@ -1,0 +1,52 @@
+{
+ "relic_id": "AIC-51450",
+ "name": "Pavilion of Eight Poems 八詠樓詩畫",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink on paper",
+ "dimensions": "Painting: 25.4 × 122 cm (10 × 48 in.); Calligraphy: 25.4 × 419.1 cm (10 × 165 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink on paper。Painting: 25.4 × 122 cm (10 × 48 in.); Calligraphy: 25.4 × 419.1 cm (10 × 165 in.)。Kate S. Buckingham Endowment Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "51450"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/7eeb9d38-a1f4-47b4-b335-654fdd20b1bb/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Kate S. Buckingham Endowment Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/51450",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "妆饰",
+  "玺印封泥",
+  "文字书写",
+  "山水",
+  "祥瑞纹样",
+  "茶文化",
+  "动物",
+  "植物",
+  "照明",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=51450)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

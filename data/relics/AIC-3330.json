@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-3330",
+ "name": "Basin",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -800,
+  -600
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "13.7 × 41.8 cm (5 1/2 × 16 1/2 in.); Diam.: 41.8 cm (16 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。13.7 × 41.8 cm (5 1/2 × 16 1/2 in.); Diam.: 41.8 cm (16 1/2 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>Squatting male and female figures support this basin; dragon-shaped handles bite at its rim. Such sculptural features enliven the silhouettes of late Western Zhou vessels, although their surface decor often reflects less vitality. The simple, ribbonlike bands encircling the basin have been dramatically abstracted from components of earlier monster masks.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "3330"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/8114214f-f0f8-caf4-08e6-3f098391e597/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/3330",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=3330)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

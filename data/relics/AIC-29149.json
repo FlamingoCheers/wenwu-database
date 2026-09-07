@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-29149",
+ "name": "Buddhist Votive Stele",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  551,
+  551
+ ],
+ "category": "宗教造像",
+ "material": "Stone",
+ "dimensions": "339 × 99 × 21.6 cm (133 1/2 × 39 × 8 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Stone。339 × 99 × 21.6 cm (133 1/2 × 39 × 8 1/2 in.)。Gift of The Orientals",
+ "history": "<p>Buddhist stone tablets known as votive steles were commissioned by pious individuals and families, and erected in temple courtyards and other public spaces. The horizontal registers on this stele illustrate scenes from the life of the Buddha and from sacred texts. The upper pair of niches on this side depicts the death of the Buddha (right) and preparations for his cremation (left). On the opposite side, the primary scene represents the Buddha preaching the <em>Lotus Sutra</em>, a major scripture transmitted from India. The niches above show the Buddha flanked by monks and bodhisattvas (enlightened beings). Surrounding carvings portray ascetics, guardians, protective lions, heavenly musicians, and priests. Inscribed around the lower portion are the names of donors who commissioned this stele to commemorate their ancestors. The most important of these donors appear as standardized figures with parasols held aloft by their attendants. By commissioning such tablets, pious devotees hoped to gain spiritual benefits for themselves and their families.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "29149"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/df7eff2d-b2f3-898e-88b4-4bf8d4292871/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of The Orientals"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/29149",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=29149)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

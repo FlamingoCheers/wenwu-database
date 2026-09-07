@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-7909",
+ "name": "Cider Jug with Lid",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1800
+ ],
+ "category": "瓷器",
+ "material": "Hard-paste porcelain with polychrome enamels and gilding",
+ "dimensions": "24.1 × 18.7 × 14.3 cm (9 1/2 × 7 3/8 × 5 5/8 in.)",
+ "excavated_from": "",
+ "summary": "Hard-paste porcelain with polychrome enamels and gilding。24.1 × 18.7 × 14.3 cm (9 1/2 × 7 3/8 × 5 5/8 in.)。Bequest of Frederick S. Colburn",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "7909"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/e7cafb71-c58b-c620-e16e-c3b0cd4d0237/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Frederick S. Colburn"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/7909",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=7909)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

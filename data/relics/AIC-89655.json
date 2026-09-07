@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-89655",
+ "name": "Bell Inscribed with the Heart Sutra",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "玉器",
+ "material": "Jade",
+ "dimensions": "7.3 × 4.4 × 2.3 cm (2 7/8 × 1 3/4 × 15/16 in.)",
+ "excavated_from": "",
+ "summary": "Jade。7.3 × 4.4 × 2.3 cm (2 7/8 × 1 3/4 × 15/16 in.)。Gift of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "89655"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/c5be3172-6ad0-8960-4756-83abbfcba219/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/89655",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=89655)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

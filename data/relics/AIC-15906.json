@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-15906",
+ "name": "Man's Boots",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1801,
+  1900
+ ],
+ "category": "织绣",
+ "material": "Silk, satin weave, with needlework",
+ "dimensions": "a: 23.8 × 16.8 × 6.3 cm (9 3/8 × 6 5/8 × 2 1/2 in.); b: 22.9 × 16.3 × 6.1 cm (9 × 6 3/8 × 2 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Silk, satin weave, with needlework。a: 23.8 × 16.8 × 6.3 cm (9 3/8 × 6 5/8 × 2 1/2 in.); b: 22.9 × 16.3 × 6.1 cm (9 × 6 3/8 × 2 3/4 in.)。Gift of Mrs. J. Ogden Armour through the Antiquarian Society",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "15906"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/036bca90-506b-0230-044f-8dcf85c877a0/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. J. Ogden Armour through the Antiquarian Society"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/15906",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=15906)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

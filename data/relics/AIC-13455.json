@@ -1,0 +1,44 @@
+{
+ "relic_id": "AIC-13455",
+ "name": "Clouds over the River before Rain 溪雲欲雨圖",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1440,
+  1509
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink and color on paper",
+ "dimensions": "34.8 × 810.3 cm (13 3/4 × 319 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink and color on paper。34.8 × 810.3 cm (13 3/4 × 319 in.)。Kate S. Buckingham Endowment Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "13455"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/591b86ab-c0a9-77f7-c4bf-a330498b9c02/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Kate S. Buckingham Endowment Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/13455",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "玺印封泥",
+  "文字书写",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=13455)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

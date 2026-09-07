@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-75310",
+ "name": "Female Attendant",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -200,
+  -101
+ ],
+ "category": "陶器",
+ "material": "Gray earthenware with slip and polychrome pigments",
+ "dimensions": "57.2 × 18 × 14.8 cm (22 1/2 × 7 1/16 × 5 13/16 in.)",
+ "excavated_from": "",
+ "summary": "Gray earthenware with slip and polychrome pigments。57.2 × 18 × 14.8 cm (22 1/2 × 7 1/16 × 5 13/16 in.)。Potter Palmer Collection, gift of Mrs. Potter Palmer",
+ "history": "<p>This figure wears the narrow, calf-length robe distinctive of servants. Her facial features, characteristically masklike and serene, are framed by long hair, which is parted and tied in a bun at the nape of her neck. Her cupped hands may originally have held a staff.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "75310"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/abfb6970-dfd7-b147-3124-69f691f4f5d8/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Potter Palmer Collection, gift of Mrs. Potter Palmer"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/75310",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=75310)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

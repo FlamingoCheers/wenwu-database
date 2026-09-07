@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-183287",
+ "name": "Squirrel and Grapes",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1694,
+  1694
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink and color on paper",
+ "dimensions": "84.7 × 30.6 cm (33 1/4 × 12 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink and color on paper。84.7 × 30.6 cm (33 1/4 × 12 1/4 in.)。Samuel M. Nickerson Endowment",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "183287"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/8c56e29b-6b6f-394d-3a62-21c811932b72/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Samuel M. Nickerson Endowment"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/183287",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=183287)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

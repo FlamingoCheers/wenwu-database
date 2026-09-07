@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-202971",
+ "name": "Goblet",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1599,
+  -1499
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "21.1 × 11.2 cm (8 5/8 × 4 3/8 in.); Diam.: 11.2 cm (4 3/8 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。21.1 × 11.2 cm (8 5/8 × 4 3/8 in.); Diam.: 11.2 cm (4 3/8 in.)。Gift of Katherine and George Fan",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "202971"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/3e7ba4bd-9d51-6b4b-05ac-871354928429/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Katherine and George Fan"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/202971",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=202971)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

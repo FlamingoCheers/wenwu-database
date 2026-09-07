@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-6793",
+ "name": "Portrait of Wen Zhengming",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1600,
+  1700
+ ],
+ "category": "织绣",
+ "material": "Album leaf; ink and light color on silk",
+ "dimensions": "42.3 × 44.5 cm (16 11/16 × 17 9/16 in.)",
+ "excavated_from": "",
+ "summary": "Album leaf; ink and light color on silk。42.3 × 44.5 cm (16 11/16 × 17 9/16 in.)。S. M. Nickerson Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "6793"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/4ca3d40b-9fcd-2302-673d-7222f35d02da/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 S. M. Nickerson Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/6793",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=6793)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

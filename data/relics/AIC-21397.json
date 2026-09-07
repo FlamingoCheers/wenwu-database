@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-21397",
+ "name": "Incense Burner (Xianglu)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -206,
+  9
+ ],
+ "category": "陶器",
+ "material": "Gray earthenware with polychrome painting and openwork decoration",
+ "dimensions": "14.3 × 14.4 cm (5 5/8 × 5 11/16 in.); Diam.: 14.4 cm (5 11/16 in.)",
+ "excavated_from": "",
+ "summary": "Gray earthenware with polychrome painting and openwork decoration。14.3 × 14.4 cm (5 5/8 × 5 11/16 in.); Diam.: 14.4 cm (5 11/16 in.)。Bequest of Russell Tyson",
+ "history": "<p>This incense burner has a stemmed cup and a domed, openwork cover pierced with geometric patterns. Its design is distinctive to ceramics from south-central China that were made during the Western Han dynasty (206BCE–9 CE). It was probably modeled on a bronze incense burner cast with a perforated lid for the release of fragrant smoke. Other common forms from the Han dynasty are in the case to the right.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21397"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/c48914a1-87cd-2fb9-2bb8-74b3aaabfed7/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21397",
+ "license": "CC0",
+ "tags": [
+  "香文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21397)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

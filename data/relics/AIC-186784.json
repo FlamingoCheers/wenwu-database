@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-186784",
+ "name": "Couch-Bed",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1900
+ ],
+ "category": "杂器",
+ "material": "Huanghuali wood with woven-mat seat",
+ "dimensions": "79 × 213 × 124.5 cm (31 × 83 7/8 × 49 in.)",
+ "excavated_from": "",
+ "summary": "Huanghuali wood with woven-mat seat。79 × 213 × 124.5 cm (31 × 83 7/8 × 49 in.)。G. Ronald and Evelyn Nish Fund—in memory of Ruth S. Demme, Simeon B. Williams Fund, Bertha Evans Brown Fund, Estate of Alice Feffer, Ada Turnbull Hertle Fund, Alyce and Edwin DeCosta and the Walter E. Heller Foundation Fund, Estate of Laura T. Magnuson, Major Acquisitions Centennial Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "186784"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/60096325-2810-4c17-6c7d-f900dbd6392c/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 G. Ronald and Evelyn Nish Fund—in memory of Ruth S. Demme, Simeon B. Williams Fund, Bertha Evans Brown Fund, Estate of Alice Feffer, Ada Turnbull Hertle Fund, Alyce and Edwin DeCosta and the Walter E. Heller Foundation Fund, Estate of Laura T. Magnuson, Major Acquisitions Centennial Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/186784",
+ "license": "CC0",
+ "tags": [
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=186784)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

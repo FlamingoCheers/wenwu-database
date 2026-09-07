@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-159686",
+ "name": "Cup and Cupstand",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1000,
+  1099
+ ],
+ "category": "瓷器",
+ "material": "Northern black ware, Cizhou type; light-gray stoneware with dark-brown glaze",
+ "dimensions": "Overall: h. 10.3 cm (4 1/16 in.) diam. 11.3 cm (4 7/16 in.) cup: h. 4.4 cm (1 3/4 in.) diam. 9.5 cm (3 3/4 in.) stand: h. 6.9 cm (2 3/4 in.) diam. 11.3 cm (4 7/16 in.)",
+ "excavated_from": "",
+ "summary": "Northern black ware, Cizhou type; light-gray stoneware with dark-brown glaze。Overall: h. 10.3 cm (4 1/16 in.) diam. 11.3 cm (4 7/16 in.) cup: h. 4.4 cm (1 3/4 in.) diam. 9.5 cm (3 3/4 in.) stand: h. 6.9 cm (2 3/4 in.) diam. 11.3 cm (4 7/16 in.)。Gift of Dorothy Braude Edinburg to the Harry B. and Bessie K. Braude Memorial Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "159686"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/c23cea6f-78ee-0f9e-4a8c-e0e3bc8e5fae/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Dorothy Braude Edinburg to the Harry B. and Bessie K. Braude Memorial Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/159686",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=159686)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

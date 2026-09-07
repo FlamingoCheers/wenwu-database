@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-21385",
+ "name": "Container in the Form of a Bronze Jar (Hu)",
+ "aliases": [],
+ "dynasty": "秦",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -475,
+  -221
+ ],
+ "category": "陶器",
+ "material": "Earthenware",
+ "dimensions": "36 × 21.6 cm (14 × 8 1/2 in.); Diam.: 21.6 cm (8 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware。36 × 21.6 cm (14 × 8 1/2 in.); Diam.: 21.6 cm (8 1/2 in.)。Bequest of Russell Tyson",
+ "history": "<p>The shape of this container and the monster-mask (taotie) decoration on its sides closely imitate those of bronze vessels. The use of clay rather than the more costly bronze reveals the object’s function as mingqi or “spirit good,” an object that was made specifically for the funerary context. The animal imagery and geometric patterns on the vessel surface, however, are distinctive to objects made of clay. Tigers, fish, and birds—images drawn from land, water, and air—represent early attempts in Chinese art to portray the natural world. Similar ceramics have been excavated from tombs of the ancient State of Yan, in the region of modern-day Beijing.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21385"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/4140501f-584b-ae9b-5a87-04a5481fadba/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21385",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21385)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

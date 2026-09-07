@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-86658",
+ "name": "Mirror with Dragon Arabesque",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -300,
+  -101
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "Thickness: D.: 0.2 cm (1/16 in.); Diam.: 10.8 cm (4 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。Thickness: D.: 0.2 cm (1/16 in.); Diam.: 10.8 cm (4 1/4 in.)。Gift of the Orientals",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "86658"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/e1a51814-bb86-3d5c-0db8-9c621dceca4b/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of the Orientals"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/86658",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=86658)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

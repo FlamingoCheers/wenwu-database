@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-21702",
+ "name": "Tiger-Shaped Pillow with Floral Spray",
+ "aliases": [],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": "Cizhou ware; slip-coated earthenware with underglaze iron brown and amber painting",
+ "dimensions": "H.: 35.6 cm (14 in.)",
+ "excavated_from": "",
+ "summary": "Cizhou ware; slip-coated earthenware with underglaze iron brown and amber painting。H.: 35.6 cm (14 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21702"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/5163006a-15e2-efb6-461f-074aaeeedfd3/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21702",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21702)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

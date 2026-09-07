@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-48994",
+ "name": "Bowl with Fish",
+ "aliases": [],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": "Cizhou ware; slip-coated stoneware with underglaze iron brown painting",
+ "dimensions": "16.1 × 18.5 cm (6 5/16 × 7 1/4 in.); Diam.: 18.5 cm (7 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Cizhou ware; slip-coated stoneware with underglaze iron brown painting。16.1 × 18.5 cm (6 5/16 × 7 1/4 in.); Diam.: 18.5 cm (7 1/4 in.)。Gift of Mr. Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "48994"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/6f65b3c4-1b69-9cea-9a21-016f75d0c544/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mr. Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/48994",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=48994)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

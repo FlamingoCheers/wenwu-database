@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-9009",
+ "name": "Bencharong (Five-Colored) Ware, Bowl",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1801,
+  1900
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in overglaze polychrome enamels",
+ "dimensions": "9.2 × 17.9 cm (3 5/8 × 7 1/16 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain painted in overglaze polychrome enamels。9.2 × 17.9 cm (3 5/8 × 7 1/16 in.)。A. A. Sprague Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "9009"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/72501f0b-cbd7-09cd-bab8-e075f0911c95/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 A. A. Sprague Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/9009",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=9009)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

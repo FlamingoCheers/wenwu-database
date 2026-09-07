@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-21251",
+ "name": "Dish with Fish Swimming in Lotus Pond",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1573,
+  1620
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze blue with reserve decoration",
+ "dimensions": "Diam.: 15.3 cm (6 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain painted in underglaze blue with reserve decoration。Diam.: 15.3 cm (6 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21251"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/d8fcec95-2acc-4c7f-4874-de0ea200b60f/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21251",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物",
+  "植物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21251)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

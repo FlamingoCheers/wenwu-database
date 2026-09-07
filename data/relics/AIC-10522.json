@@ -1,0 +1,45 @@
+{
+ "relic_id": "AIC-10522",
+ "name": "Mirror with \"TLV\" Pattern",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  25,
+  220
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "Diam.: 21 cm (8 1/4 in.); Thickness: D.: 0.5 cm (3/16 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。Diam.: 21 cm (8 1/4 in.); Thickness: D.: 0.5 cm (3/16 in.)。Samuel M. Nickerson Endowment",
+ "history": "<p>The design of this mirror reflects principles of ancient Chinese cosmology that envisioned a circular universe enclosing a square earth. Within the border of the square are characters denoting the twelve animals of the Chinese zodiac.  The marks resembling T, L, and V correspond to patterns on an instrument used by Han dynasty diviners to foretell the future.  This mirror was designed to place its owner at the center of the cosmos, a favorable position symbolically protected by the Animals of the Four Directions—the Green Dragon of the East, the Red Bird of the South, the White Tiger of the West, and the Black Warrior (tortoise and snake) of the North.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "10522"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/7cdaae46-0eab-8df1-7a50-45ae63dbcc1d/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Samuel M. Nickerson Endowment"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/10522",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "酒文化",
+  "礼制",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=10522)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

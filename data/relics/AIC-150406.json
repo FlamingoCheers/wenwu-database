@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-150406",
+ "name": "Landscape with Daoist Immortals Playing Weiqi",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1400,
+  1599
+ ],
+ "category": "织绣",
+ "material": "Hanging scroll; ink and colors on silk",
+ "dimensions": "175.2 × 106.7 cm (69 × 42 1/16 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink and colors on silk。175.2 × 106.7 cm (69 × 42 1/16 in.)。Russell Tyson, Avery Brundage, and Samuel M. Nickerson Endowment Funds",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "150406"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/7739a403-99b6-d151-c892-e93a0b17e4ef/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Russell Tyson, Avery Brundage, and Samuel M. Nickerson Endowment Funds"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/150406",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=150406)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

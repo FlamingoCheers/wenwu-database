@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-21431",
+ "name": "Female Attendant (Tomb Figurine)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -200,
+  -101
+ ],
+ "category": "陶器",
+ "material": "Gray earthenware with slip coating and polychrome pigments",
+ "dimensions": "30 × 8.3 × 5.6 cm (11 13/16 × 3 1/4 × 2 3/16 in.)",
+ "excavated_from": "",
+ "summary": "Gray earthenware with slip coating and polychrome pigments。30 × 8.3 × 5.6 cm (11 13/16 × 3 1/4 × 2 3/16 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21431"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/ad4a0605-c0f3-5af1-321e-856266caa11f/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21431",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器",
+  "日常生活",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21431)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

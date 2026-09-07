@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-21408",
+ "name": "Vase with Stylized Flowers and Vines",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze blue",
+ "dimensions": "H.: 14 cm (5 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain painted in underglaze blue。H.: 14 cm (5 1/2 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21408"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/832cbbb9-2bda-da17-36d0-16d0b7a583c4/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21408",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21408)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

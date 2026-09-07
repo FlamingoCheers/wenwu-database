@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-71800",
+ "name": "Cushion Cover",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1775,
+  1800
+ ],
+ "category": "金银器",
+ "material": "Silk, warp-float faced 7:1 satin weave; embroidered with silk and gold-leaf-over-lacquered-paper-strip-wrapped silk in knot, satin, and stem stitches; laid work and couching",
+ "dimensions": "84.1 × 90.3 × 12.7 cm (33 1/8 × 35 1/2 × 5 in.)",
+ "excavated_from": "",
+ "summary": "Silk, warp-float faced 7:1 satin weave; embroidered with silk and gold-leaf-over-lacquered-paper-strip-wrapped silk in knot, satin, and stem stitches; laid work and couching。84.1 × 90.3 × 12.7 cm (33 1/8 × 35 1/2 × 5 in.)。Gift of Edward B. Butler through the Antiquarian Society",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "71800"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/432f30ef-d208-77bb-4588-234057e8e066/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Edward B. Butler through the Antiquarian Society"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/71800",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=71800)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

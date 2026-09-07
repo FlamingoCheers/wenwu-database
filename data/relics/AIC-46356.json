@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-46356",
+ "name": "Ghosts",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1893,
+  1893
+ ],
+ "category": "书画",
+ "material": "Album of twelve leaves; ink on paper",
+ "dimensions": "33.7 × 35.6 cm (13 1/4 × 14 in.)",
+ "excavated_from": "",
+ "summary": "Album of twelve leaves; ink on paper。33.7 × 35.6 cm (13 1/4 × 14 in.)。Gift of Florence Ayscough and Harley Farnsworth MacNair\n\nConservation made possible by San-Jian Art & Conservation Co. Ltd.",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "46356"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/54cac2cf-f139-6a98-a277-72b95d4ea1c6/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Florence Ayscough and Harley Farnsworth MacNair\n\nConservation made possible by San-Jian Art & Conservation Co. Ltd."
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/46356",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=46356)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

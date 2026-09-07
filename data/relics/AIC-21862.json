@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-21862",
+ "name": "Hollow Brick (probably Lintel) from Tomb Chamber",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -206,
+  9
+ ],
+ "category": "陶器",
+ "material": "Gray earthenware with impressed and carved decoration",
+ "dimensions": "121.9 × 20.3 × 20.3 cm (8 × 8 × 48 in.)",
+ "excavated_from": "",
+ "summary": "Gray earthenware with impressed and carved decoration。121.9 × 20.3 × 20.3 cm (8 × 8 × 48 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21862"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/0eda074d-1115-fe2c-5704-f33859501694/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21862",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器",
+  "玺印封泥",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21862)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

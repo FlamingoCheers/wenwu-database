@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-21325",
+ "name": "Jar with the Four Accomplishments: Painting, Calligraphy, Music, Strategy",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1400,
+  1499
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze blue",
+ "dimensions": "35.6 × 40 cm (14 × 15 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain painted in underglaze blue。35.6 × 40 cm (14 × 15 3/4 in.)。Bequest of Russell Tyson",
+ "history": "<p>This porcelain jar is decorated with images of The Four Accomplishments –  qin (music), qi (the game of Go), shu (calligraphy), and hua (painting). In ancient China, mastery of these elegant skills was deemed essential for the ideal scholarly gentleman to signify sophistication and education. Consequently, motifs of The Four Accomplishments frequently appear in paintings and on decorative objects. Notably, this jar showcases women partaking in these scholarly pursuits that were traditionally associated with men, likely reflecting the rise of learned women during the Ming Dynasty.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21325"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/a1e90efc-120f-ca7a-e303-236013238252/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21325",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21325)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-35957",
+ "name": "Buzi (Court Rank Badge)",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1850,
+  1875
+ ],
+ "category": "金银器",
+ "material": "Silk, warp-float faced 7:1 satin weave; embroidered with silk and gold-leaf-over-lacquered-paper-strip-wrapped silk in knot, split, and straight stitches; laid work and couching; lined with silk, plain weave",
+ "dimensions": "30.3 × 30.8 cm (12 × 12 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Silk, warp-float faced 7:1 satin weave; embroidered with silk and gold-leaf-over-lacquered-paper-strip-wrapped silk in knot, split, and straight stitches; laid work and couching; lined with silk, plain weave。30.3 × 30.8 cm (12 × 12 1/8 in.)。Bequest of Harold R. Warner",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "35957"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/a3bc4c02-cbb3-4c79-ef90-00ad8c343ed3/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Harold R. Warner"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/35957",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=35957)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

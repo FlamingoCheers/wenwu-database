@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-129745",
+ "name": "Bead",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -770,
+  -445
+ ],
+ "category": "玻璃器",
+ "material": "Round glass bead with pattern of circles with concentric circles of white, and turquoise and smaller white dots. Currently stored in embroidered box.",
+ "dimensions": "2.5 × 2.5 cm (1 × 1 in.); Diam.: 2.5 cm (1 in.)",
+ "excavated_from": "",
+ "summary": "Round glass bead with pattern of circles with concentric circles of white, and turquoise and smaller white dots. Currently stored in embroidered box.。2.5 × 2.5 cm (1 × 1 in.); Diam.: 2.5 cm (1 in.)。Gift of Ferdinando P. Musso",
+ "history": "<p>The earliest examples of Chinese glass include polychrome beads like these, in which superimposed layers of different colors create eye-like motifs. Rich in lead and barium, these beads are chemically distinct from those of soda-lime glass made in Greek and Roman workshops of the eastern Mediterranean and western Asia, rare examples of which have been discovered in north and northwest China. Those foreign imports inspired Chinese craftsmen to create their own polychrome beads. Their burial contexts—strung together with jades to form pendant sets, or inlaid into bronze objects such as mirrors and garment hooks—indicate that Chinese patrons easily integrated these new creations into traditional art forms.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "129745"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/87f735a6-f22a-fdae-505a-85961f5dc99e/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Ferdinando P. Musso"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/129745",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=129745)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

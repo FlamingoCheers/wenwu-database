@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-8037",
+ "name": "Cushion Cover",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1700,
+  1750
+ ],
+ "category": "金银器",
+ "material": "Silk and gold-leaf-over-lacquered-paper-strip-wrapped silk, slit and dovetailed tapestry weave with interlaced outlining wefts; painted details; lined with silk, warp-float faced 7:1 satin weave",
+ "dimensions": "101.5 × 104.9 cm (40 × 41 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Silk and gold-leaf-over-lacquered-paper-strip-wrapped silk, slit and dovetailed tapestry weave with interlaced outlining wefts; painted details; lined with silk, warp-float faced 7:1 satin weave。101.5 × 104.9 cm (40 × 41 1/2 in.)。Purchased with funds provided by Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "8037"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/be95515d-a511-76d9-d581-408b7c685dea/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Purchased with funds provided by Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/8037",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=8037)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

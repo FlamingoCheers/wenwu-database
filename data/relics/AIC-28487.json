@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-28487",
+ "name": "Buddha, Standing with Hand in Gesture of Reassurance (Abhaymudra)",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": "Gilt copper alloy",
+ "dimensions": "11.5 × 3.3 × 3.5 cm (4 1/2 × 1 1/2 × 1 3/8 in.)",
+ "excavated_from": "",
+ "summary": "Gilt copper alloy。11.5 × 3.3 × 3.5 cm (4 1/2 × 1 1/2 × 1 3/8 in.)。James W. and Marilynn Alsdorf Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "28487"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/76d59944-2cf7-4515-8a14-8f7fe75d1c81/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 James W. and Marilynn Alsdorf Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/28487",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=28487)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

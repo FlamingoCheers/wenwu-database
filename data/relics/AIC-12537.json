@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-12537",
+ "name": "Lobed Flowerpot",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1400,
+  1499
+ ],
+ "category": "瓷器",
+ "material": "Jun ware; stoneware with opaque reddish-blue glaze",
+ "dimensions": "17.5 × 25.6 cm (6 7/8 × 10 1/16 in.); Diam.: 25.6 cm (10 1/16 in.)",
+ "excavated_from": "",
+ "summary": "Jun ware; stoneware with opaque reddish-blue glaze。17.5 × 25.6 cm (6 7/8 × 10 1/16 in.); Diam.: 25.6 cm (10 1/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12537"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/adc532cb-cf07-4023-872e-3cec3ad6f255/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12537",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "植物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12537)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

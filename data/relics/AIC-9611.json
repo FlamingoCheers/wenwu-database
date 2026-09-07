@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-9611",
+ "name": "Loop Suspension Bell (Niuzhong)",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -799,
+  -500
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "34.8 × 19.9 cm (13 3/4 × 7 13/16 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。34.8 × 19.9 cm (13 3/4 × 7 13/16 in.)。Samuel M. Nickerson Endowment",
+ "history": "<p>Several types of chime bells were cast toward the end of China's Bronze Age and were probably played together in concert. Smallest among these were <em>niuzhong</em>, which had concave rims. <em>Niuzhong</em> were cast in graduated sizes, assembled as a set (often of nine), and suspended from a horizontal beam in order of size. Each bell was designed to emit two distinct tones: one from striking the center of the lower panel, another from striking either corner. The mask centered on the striking panel of this bell is an abstraction of ferocious monster designs seen on earlier bronze vessels.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "9611"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/a1826e59-126d-a0fc-5cd4-c55bde551945/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Samuel M. Nickerson Endowment"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/9611",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=9611)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-21868",
+ "name": "Model of a Wellhead with Roosters",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -100,
+  100
+ ],
+ "category": "陶器",
+ "material": "Gray earthenware with molded, incised, and stamped decoration",
+ "dimensions": "38 × 45.5 × 25.2 cm (14 15/16 × 17 15/16 × 9 15/16 in.)",
+ "excavated_from": "",
+ "summary": "Gray earthenware with molded, incised, and stamped decoration。38 × 45.5 × 25.2 cm (14 15/16 × 17 15/16 × 9 15/16 in.)。Samuel M. Nickerson Fund",
+ "history": "<p>These  jaunty  roosters  once  sat  atop  a  model well in Han-dynasty China. They are perched on the roof, which covered a pulley for raising and lowering buckets. Both the wellhead and the pigsty in the adjacent case resemble objects excavated from a tomb in Huixian, a city in northern China, and they may have come from the same workshop.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21868"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/19271ad5-d374-33c7-413c-fa53a4a08189/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Samuel M. Nickerson Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21868",
+ "license": "CC0",
+ "tags": [
+  "玺印封泥",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21868)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

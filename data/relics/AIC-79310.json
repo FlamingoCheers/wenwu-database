@@ -1,0 +1,44 @@
+{
+ "relic_id": "AIC-79310",
+ "name": "Pulling Oars under Clearing Autumn Skies 晴秋涉櫂圖",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1540,
+  1550
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink and color on paper",
+ "dimensions": "105.8 × 31.1 cm (41 5/8 × 17 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink and color on paper。105.8 × 31.1 cm (41 5/8 × 17 in.)。W. L. Mead Fund",
+ "history": "<p>Landscape painting offered artists the opportunity to create visual poems about the beauty and continuity of nature and man's place in it. Lu Zhi, a 16th-century artist, belonged to a class of highly educated men who painted for their own pleasure. In <em>Distant Mountains</em>, he used multiple ground planes and suggestive voids to create a majestic vista of jagged peaks and a meandering, wide river. Through the crystalline precision of his brush strokes, the artist achieved an image of great clarity and refinement.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "79310"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/87565374-6bad-9892-7f4f-cf3fa9e8486d/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 W. L. Mead Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/79310",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水",
+  "出行",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=79310)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-49039",
+ "name": "The Wangchuan Villa",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1601,
+  1800
+ ],
+ "category": "金银器",
+ "material": "Handscroll; ink, color, and gold on silk",
+ "dimensions": null,
+ "excavated_from": "",
+ "summary": "Handscroll; ink, color, and gold on silk。Gift of Mrs. Chauncey McCormick",
+ "history": "<p>Wangchuan Villa was the retreat of the famous poet Wang Wei (699–759); the site was located on the outskirts of Chang’an (now Xi’an), capital of the Tang dynasty (618–970). Wang Wei converted part of his estate into a Buddhist temple after his mother’s death and painted a panoramic view of the Wang-chuan Villa on its walls. Although the temple was destroyed during the Huichang Persecution of Buddhism (841–45), the original mural has inspired artists for more than a thousand years. This handscroll painting is based on a stone engraving from 1617, the image that became the most widely accepted model for representations of Wangchuan Villa.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "49039"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/301d2352-2582-03bc-ab13-d768586b4f15/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. Chauncey McCormick"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/49039",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=49039)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

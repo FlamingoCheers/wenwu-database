@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-13447",
+ "name": "Noble Hermit in a Mountain Retreat",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1662,
+  1722
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink on paper",
+ "dimensions": null,
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink on paper。Kate S. Buckingham Endowment Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "13447"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/2fbf1cec-e2c4-9b1f-6949-088b00a07698/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Kate S. Buckingham Endowment Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/13447",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=13447)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

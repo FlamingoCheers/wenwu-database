@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-21212",
+ "name": "Rectangular Vessel with Truncated Neck",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "瓷器",
+ "material": "Kirande-type ware; porcelain painted in overglaze enamels and gilded detail; metal rim",
+ "dimensions": "34 × 20.7 × 20.7 cm (13 3/8 × 8 1/8 × 8 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Kirande-type ware; porcelain painted in overglaze enamels and gilded detail; metal rim。34 × 20.7 × 20.7 cm (13 3/8 × 8 1/8 × 8 1/8 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21212"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/e7d328bb-5ff1-f02e-c40f-a07d26c5b673/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21212",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21212)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

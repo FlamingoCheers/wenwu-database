@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-18473",
+ "name": "Garlic-Head Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1644,
+  1911
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with dark purple glaze and light blue speckles",
+ "dimensions": "25.2 × 14.1 cm (9 15/16 × 5 9/16 in.); Diam.: 14.1 cm (5 9/16 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain with dark purple glaze and light blue speckles。25.2 × 14.1 cm (9 15/16 × 5 9/16 in.); Diam.: 14.1 cm (5 9/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "18473"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/64212e41-8b0a-8701-ae12-6408e4be5abf/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/18473",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=18473)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

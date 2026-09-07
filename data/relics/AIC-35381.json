@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-35381",
+ "name": "Seated Woman Holding Mirror",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  906
+ ],
+ "category": "陶器",
+ "material": "Earthenware with three-color (sancai) lead glazes and traces of polychrome pigments",
+ "dimensions": "31.2 × 13.8 × 15.5 cm (12 5/16 × 5 7/16 × 6 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with three-color (sancai) lead glazes and traces of polychrome pigments。31.2 × 13.8 × 15.5 cm (12 5/16 × 5 7/16 × 6 1/8 in.)。Gift of Pauline Palmer Wood",
+ "history": "<p>This mature woman with a topknot gazing into a hand-mirror reflects life in a sophis-ticated and fashion-conscious Tang court. She may be applying cosmetics, which included mineral pigments that were im-ported from Persia (now Iran) and Central Asia. She sits upon round, waisted stools that were a new furniture style for the time.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "35381"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/6c8dcbdd-c3bb-c218-5260-e194e5ae5e65/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Pauline Palmer Wood"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/35381",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=35381)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

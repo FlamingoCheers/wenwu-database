@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-41894",
+ "name": "Dish with Dragons and Lotus Flowers",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1662,
+  1722
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with underglaze blue and overglaze yellow enamel decoration",
+ "dimensions": "3.3 × 15.7 cm (1 5/16 × 6 3/16 in.); Diam.: 15.7 cm (6 3/16 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain with underglaze blue and overglaze yellow enamel decoration。3.3 × 15.7 cm (1 5/16 × 6 3/16 in.); Diam.: 15.7 cm (6 3/16 in.)。Bequest of Henry C. Schwab",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "41894"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/b75f1a0f-31ea-e242-66d5-31bc2d52a51f/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Henry C. Schwab"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/41894",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "祥瑞纹样",
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=41894)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

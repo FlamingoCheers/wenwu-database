@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-39577",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1000,
+  1099
+ ],
+ "category": "瓷器",
+ "material": "Porcelain covered with bluish green glaze (Jingdezhen Qingbai ware)",
+ "dimensions": "H. 2 3/4 in. (7.0 cm); Diam. 7 5/16 in. (18.6 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "91.1.389"
+ },
+ "summary": "Bowl。China。Northern Song dynasty (960–1127",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/91_1_389_S_sf.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39577",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39577.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

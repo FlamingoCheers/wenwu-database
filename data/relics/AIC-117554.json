@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-117554",
+ "name": "Bodhisattva",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -960,
+  1278
+ ],
+ "category": "书画",
+ "material": "Ink and colors on primed mud-wall construction",
+ "dimensions": "84.5 × 57.2 cm (33 1/4 × 22 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Ink and colors on primed mud-wall construction。84.5 × 57.2 cm (33 1/4 × 22 1/2 in.)。Kate S. Buckingham Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "117554"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/6597bb58-d113-7369-7089-672f2d556dc3/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Kate S. Buckingham Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/117554",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=117554)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

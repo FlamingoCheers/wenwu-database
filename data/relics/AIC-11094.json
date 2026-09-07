@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-11094",
+ "name": "Monk",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  589,
+  618
+ ],
+ "category": "雕塑",
+ "material": "Limestone with traces of polychromy",
+ "dimensions": "87.7 × 25.4 × 19.7 cm (34 1/2 × 10 × 7 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Limestone with traces of polychromy。87.7 × 25.4 × 19.7 cm (34 1/2 × 10 × 7 3/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>Expressing serene dignity, <a href=\"https://www.artic.edu/collection?q=monk&department_ids=Asian+Art&classification_ids=sculpture%3Bstone\">these youthful monks</a> stand erect, their eyes downcast and hands firmly joined in reverent prayer. Their long earlobes allude to earrings that were worn by the Buddha as a young Indian prince and to his rejection of material wealth. Characteristic of Sui dynasty sculpture, the monks’ sharply defined facial features and the folds of their robes enhance the figures’ flat, understated modeling. Each of their robes was originally painted with rectangles of different colors, signifying the patchwork mantle worn by the Buddha and by pious monks who emulated his humble values. Only shadowy traces of these pigments are now evident.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "11094"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/65e8b4c3-a7ab-87c2-d884-6ee6e8d696be/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/11094",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=11094)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-110866",
+ "name": "Model of Stove",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  25,
+  220
+ ],
+ "category": "陶器",
+ "material": "Gray earthenware with molded relief decoration",
+ "dimensions": "33.5 × 24.7 × 13.5 cm (13 3/16 × 9 3/4 × 5 5/16 in.)",
+ "excavated_from": "",
+ "summary": "Gray earthenware with molded relief decoration。33.5 × 24.7 × 13.5 cm (13 3/16 × 9 3/4 × 5 5/16 in.)。Gift of Mrs. Potter Palmer",
+ "history": "<p>Under Han rule, tombs came to represent earthly dwellings whose furnishings illuminate many aspects of domestic life.  Burial models of stoves may have carried additional significance, as offerings were made to the hearth god during seasonal rites and festivities.  This model is particularly well equipped.  One end shows a fire door; the top has holes for caldrons or steamers and molded decoration of seafood, dishes, and cooking utensils—trays, bowls, eared cups, and skewers.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "110866"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/d5565b76-89c0-a393-cd73-7c729cdfccf2/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. Potter Palmer"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/110866",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=110866)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

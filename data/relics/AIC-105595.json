@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-105595",
+ "name": "Vessel in Form of a Bird",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  701,
+  750
+ ],
+ "category": "陶器",
+ "material": "Earthenware with three-color (sancai) lead glazes",
+ "dimensions": "H.: 34.7 cm (13 11/16 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with three-color (sancai) lead glazes。H.: 34.7 cm (13 11/16 in.)。Bequest of Janis H. Palmer",
+ "history": "<p>This  bird-shaped  clay  vessel  features  naturalistic wing and tail feathers but decorative scrollwork along the neck and body. It is painted with lead-based three-color (sancai) glazes that were commonly used during the Tang dynasty. The bird may be either a mandarin duck or a wild goose; both traditionally symbolized peace, prosperity, and marital love.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "105595"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/04285ccb-54e4-379f-7316-fa10f7fc1f9f/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Janis H. Palmer"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/105595",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=105595)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

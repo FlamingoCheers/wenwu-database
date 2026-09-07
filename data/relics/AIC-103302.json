@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-103302",
+ "name": "Landscape: Beautiful Scenery Frozen in Mist",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1750,
+  1795
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink on paper",
+ "dimensions": "87.7 × 41 cm (34 1/2 × 16 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink on paper。87.7 × 41 cm (34 1/2 × 16 1/8 in.)。Avery Brundage Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "103302"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/5c346055-2d1a-0695-4913-c53c496c66de/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Avery Brundage Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/103302",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=103302)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

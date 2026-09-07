@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-204613",
+ "name": "Landscape in the Style of Ancient Masters: colophon by Lu Hui, dated 1912",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1912,
+  1912
+ ],
+ "category": "书画",
+ "material": "Album leaf; ink on paper",
+ "dimensions": "31 × 40.7 cm (12 × 16 in.)",
+ "excavated_from": "",
+ "summary": "Album leaf; ink on paper。31 × 40.7 cm (12 × 16 in.)。Samuel M. Nickerson fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "204613"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/5cd23ba4-071f-a2e9-b0cb-7a1efa6bde18/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Samuel M. Nickerson fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/204613",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=204613)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

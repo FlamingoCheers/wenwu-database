@@ -1,0 +1,46 @@
+{
+ "relic_id": "AIC-75574",
+ "name": "Song of a Fisherman",
+ "aliases": [],
+ "dynasty": "宋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1497,
+  1576
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink on paper",
+ "dimensions": "28.6 × 605.8 cm (11 1/4 × 238 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink on paper。28.6 × 605.8 cm (11 1/4 × 238 1/2 in.)。The Orientals Sundry Fund",
+ "history": "<p>Wang Wen exemplified the life of the scholar-official in Ming dynasty China.  He retired from government service to his lakeside retreat and pursued painting, calligraphy, and poetry. For this painting, Wang Wen wrote a poem (also entitled “Song of a Fisherman”), which includes several allusions to moral integrity. This poem displays the artist’s distinctively fluid, cursive “draft script” (cao shu). Its first section reads as follows:</p>\n<p>Most men of the world fish with crooked hooks: I alone trust in hooks, but never in fancy baits. After rain, I carry my long pole to the terrace edge and dangle if from among pines and clouds above the ripples of Qi. (translated by Irving Yucheng Lo)</p>\n<p>Qi refers to a river in north-central China. This river is cited in several verses of the Shijing (Book of Odes) – a compilation of more than three hundred poems datable between about 1000 and 600 B.C that extol men of principle. Government officials often alluded to these poems to convey Confucian teachings.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "75574"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/843da8dd-8b6e-38d6-66e8-b0a2045315b0/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 The Orientals Sundry Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/75574",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水",
+  "祥瑞纹样",
+  "动物",
+  "植物",
+  "出行"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=75574)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

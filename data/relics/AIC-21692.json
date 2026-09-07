@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-21692",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": "Qingbai ware; glazed porcelain with underglaze incised decoration",
+ "dimensions": "5 × 14.2 cm (2 × 5 9/16 in.); Diam.: 14.2 cm (5 9/16 in.)",
+ "excavated_from": "",
+ "summary": "Qingbai ware; glazed porcelain with underglaze incised decoration。5 × 14.2 cm (2 × 5 9/16 in.); Diam.: 14.2 cm (5 9/16 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21692"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/04420087-439e-fd12-c254-67e8b09b08ac/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21692",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21692)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

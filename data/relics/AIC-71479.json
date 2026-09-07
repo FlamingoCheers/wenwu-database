@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-71479",
+ "name": "Daoist God Zhenwu (Perfected Warrior), Supreme Emperor of the Dark Heaven",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1439,
+  1439
+ ],
+ "category": "青铜器",
+ "material": "Gilt bronze",
+ "dimensions": "34.3 × 24 × 16.7 cm (13 1/2 × 9 1/2 × 6 5/8 in.)",
+ "excavated_from": "",
+ "summary": "Gilt bronze。34.3 × 24 × 16.7 cm (13 1/2 × 9 1/2 × 6 5/8 in.)。Gift of Robert Sonnenschein II",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "71479"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/60d63397-48f0-4bcd-be80-1f59d91cf994/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Robert Sonnenschein II"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/71479",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=71479)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

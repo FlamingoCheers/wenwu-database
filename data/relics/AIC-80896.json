@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-80896",
+ "name": "Globular Jar with Ring Handles",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -99,
+  -1
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with olive-green glaze and incised, impressed decoration and relief cordons",
+ "dimensions": "H.: 39.4 cm (15 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Stoneware with olive-green glaze and incised, impressed decoration and relief cordons。H.: 39.4 cm (15 1/2 in.)。Gift of Mr. Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "80896"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/4d71b4f7-2bc2-7bd0-ed09-88c0d3bfeeb9/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mr. Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/80896",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "玺印封泥",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=80896)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

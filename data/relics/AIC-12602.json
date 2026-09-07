@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-12602",
+ "name": "Bell with Archaistic Motifs",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1630,
+  1670
+ ],
+ "category": "瓷器",
+ "material": "Dehua ware (blanc de chine); porcelain with underglaze mold-impressed decoration",
+ "dimensions": "16.4 × 2 cm (6 1/2 × 4 3/4 in.); Diam.: 2 cm (4 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Dehua ware (blanc de chine); porcelain with underglaze mold-impressed decoration。16.4 × 2 cm (6 1/2 × 4 3/4 in.); Diam.: 2 cm (4 3/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12602"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/2171bc63-69fb-02b7-bc18-27c0fe52ded3/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12602",
+ "license": "CC0",
+ "tags": [
+  "玺印封泥",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12602)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-65914",
+ "name": "Grave Guardian Beast (Zhenmu Shou)",
+ "aliases": [],
+ "dynasty": "秦",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -400,
+  -201
+ ],
+ "category": "漆器",
+ "material": "Wood with polychrome pigments and lacquer horns",
+ "dimensions": "48.9 × 25.5 × 20 cm (19 1/4 × 10 1/16 × 7 7/8 in.)",
+ "excavated_from": "",
+ "summary": "Wood with polychrome pigments and lacquer horns。48.9 × 25.5 × 20 cm (19 1/4 × 10 1/16 × 7 7/8 in.)。Gift of Florene M. Schoenborn",
+ "history": "<p>Antlered creatures with long, protruding tongues are the most distinctive burial gifts that have been discovered in Chu tombs.  &quot;Antler and tongue&quot; figures may have been used in shamanistic rituals or may represent local deities. Typically centered at the head of the coffin, perhaps to protect the deceased from evil, such grotesque images assume a variety of forms with single or double heads. The painted scrollwork on this example is unusually well preserved.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "65914"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/a9679d81-857d-b396-4b4f-e74c3e219aa2/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Florene M. Schoenborn"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/65914",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=65914)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,46 @@
+{
+ "relic_id": "AIC-32289",
+ "name": "The Plum Blossom Studio in the style of Li Cheng",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1685,
+  1695
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink and light colors on paper",
+ "dimensions": "180.3 × 47 cm (71 × 18 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink and light colors on paper。180.3 × 47 cm (71 × 18 1/2 in.)。Bertha Evans Brown Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "32289"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/c751d2c6-1a96-3f64-91b1-b6832a20bf5b/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bertha Evans Brown Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/32289",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "玺印封泥",
+  "文字书写",
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=32289)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

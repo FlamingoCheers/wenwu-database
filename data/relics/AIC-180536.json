@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-180536",
+ "name": "Square-Sectioned Jar (Fanghu)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -206,
+  9
+ ],
+ "category": "陶器",
+ "material": "Gray earthenware with polychrome pigments",
+ "dimensions": "43.8 × 19.5 × 19.5 cm (17 1/4 × 7 11/16 × 7 11/16 in.)",
+ "excavated_from": "",
+ "summary": "Gray earthenware with polychrome pigments。43.8 × 19.5 × 19.5 cm (17 1/4 × 7 11/16 × 7 11/16 in.)。Gift of the Joseph and Helen Regenstein Foundation",
+ "history": "<p>The squared shape and vibrantly painted decoration of this jar imitates those of bronze and lacquer vessels. Its images of monster-mask ring handles duplicate, in larger scale, functional fittings in bronze. When excavated from Han tombs, some clay jars of this type were found to contain grain offerings provided for the deceased as part of the funerary rites.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "180536"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/5991879c-31c1-b1ab-a523-4ee713a912bd/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of the Joseph and Helen Regenstein Foundation"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/180536",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=180536)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

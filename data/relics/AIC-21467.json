@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-21467",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": "Northern black ware; Cizhou type; glazed stoneware with mottled markings in overglaze iron oxide",
+ "dimensions": "8.8 × 19 cm (3 7/16 × 7 1/2 in.); Diam.: 19 cm (7 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Northern black ware; Cizhou type; glazed stoneware with mottled markings in overglaze iron oxide。8.8 × 19 cm (3 7/16 × 7 1/2 in.); Diam.: 19 cm (7 1/2 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21467"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/0399d11e-9d3d-0eca-a7ca-e744aa408380/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21467",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21467)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-21274",
+ "name": "Elongated Vase with Animal-Head Handles",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1573,
+  1620
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze blue and overglaze polychrome enamels (wucai)",
+ "dimensions": "58.3 × 21.5 × 21.5 cm (22 15/16 × 8 7/16 × 8 7/16 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain painted in underglaze blue and overglaze polychrome enamels (wucai)。58.3 × 21.5 × 21.5 cm (22 15/16 × 8 7/16 × 8 7/16 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21274"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/1604b6ad-2925-8ba6-c2d3-1afa8117a779/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21274",
+ "license": "CC0",
+ "tags": [
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21274)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-21653",
+ "name": "Foliate Cup and Stand",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1301,
+  1368
+ ],
+ "category": "瓷器",
+ "material": "Longquan ware; stoneware with underglaze molded decoration",
+ "dimensions": "Diam.: 16.5 cm (6 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Longquan ware; stoneware with underglaze molded decoration。Diam.: 16.5 cm (6 1/2 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21653"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/c038b5e0-c4b7-553c-17dc-a32ac4c3ac06/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21653",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21653)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

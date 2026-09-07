@@ -173,6 +173,9 @@ def main():
                 time.sleep(args.sleep)
             if not obj.get("isPublicDomain"):
                 return ("skip", oid, None)
+            cul = (obj.get("culture") or "").lower()
+            if "china" not in cul:
+                return ("skip", oid, None)
             record = to_record(obj)
             if not record["images"]:
                 return ("skip", oid, None)

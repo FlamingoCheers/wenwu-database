@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-70006",
+ "name": "Covered Pilgrim Flask with Scrolls",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  907,
+  1124
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with lead glaze and underglaze incised decoration",
+ "dimensions": "30.8 × 17 × 12.6 cm (12 1/8 × 6 11/16 × 4 15/16 in.)",
+ "excavated_from": "",
+ "summary": "Stoneware with lead glaze and underglaze incised decoration。30.8 × 17 × 12.6 cm (12 1/8 × 6 11/16 × 4 15/16 in.)。Through prior bequests of Mary Hooker Dole and Grace Brown Palmer; Robert C. Ross Foundation Endowment",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "70006"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/6cdb6ad3-129f-58b6-b5c9-627949275ede/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Through prior bequests of Mary Hooker Dole and Grace Brown Palmer; Robert C. Ross Foundation Endowment"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/70006",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=70006)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

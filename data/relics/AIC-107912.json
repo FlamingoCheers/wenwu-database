@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-107912",
+ "name": "Musical Chime",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1756,
+  1766
+ ],
+ "category": "玉器",
+ "material": "Jade with gilt decoration",
+ "dimensions": null,
+ "excavated_from": "",
+ "summary": "Jade with gilt decoration。Edward and Louise B. Sonnenschein Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "107912"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/603211f5-9092-7794-57ff-8da698e511a5/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Edward and Louise B. Sonnenschein Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/107912",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=107912)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

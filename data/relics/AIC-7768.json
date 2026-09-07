@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-7768",
+ "name": "Sugar Bowl with Cover",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1790,
+  1800
+ ],
+ "category": "瓷器",
+ "material": "Hard-paste porcelain, enamels, and gilding",
+ "dimensions": "14 × 14.9 × 11.3 cm (5 1/2 × 5 7/8 × 4 7/16 in.)",
+ "excavated_from": "",
+ "summary": "Hard-paste porcelain, enamels, and gilding。14 × 14.9 × 11.3 cm (5 1/2 × 5 7/8 × 4 7/16 in.)。Bequest of Frederick S. Colburn",
+ "history": "<p>This sugar bowl, decorated with an American sailing vessel, is among the many examples of souvenir ware that captains and trade merchants special ordered from the porcelain shops in Canton to commemorate their journeys. The decoration on these pieces is of a more personal character than the average stock porcelain. Motifs for commemorative ware were most often copied from illustrations on mercantile and cargo documentation and thus probably bore little resemblance to the actual vessels.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "7768"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/2c124a0b-86ef-42d8-048c-24d016de4d3f/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Frederick S. Colburn"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/7768",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=7768)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

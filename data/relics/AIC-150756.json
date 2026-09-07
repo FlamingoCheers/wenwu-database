@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-150756",
+ "name": "Man's Rank Badge",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1860,
+  1889
+ ],
+ "category": "金银器",
+ "material": "Silk and gold-leaf-over-lacquered-paper-strip-wrapped silk, slit tapestry weave; painted (kossu)",
+ "dimensions": "29.3 × 30.8 cm (11 1/2 × 12 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Silk and gold-leaf-over-lacquered-paper-strip-wrapped silk, slit tapestry weave; painted (kossu)。29.3 × 30.8 cm (11 1/2 × 12 1/8 in.)。Gift of Gaylord Donnelley in memory of Miss Naomi Donnelley",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "150756"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/62dc1f38-2d9a-8106-a652-7f813bab66e6/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Gaylord Donnelley in memory of Miss Naomi Donnelley"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/150756",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=150756)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

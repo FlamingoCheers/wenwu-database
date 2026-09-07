@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-86232",
+ "name": "Lotus and Waterfowl",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1697,
+  1697
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink on paper",
+ "dimensions": "95.6 × 37.5 cm (37 5/8 × 14 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink on paper。95.6 × 37.5 cm (37 5/8 × 14 3/4 in.)。Buckingham Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "86232"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/4435bdc5-5779-a10b-d5b6-300b87803ff4/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Buckingham Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/86232",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=86232)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

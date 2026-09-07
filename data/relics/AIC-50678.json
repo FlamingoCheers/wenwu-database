@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-50678",
+ "name": "Vase with Trumpet-Shaped Mouth",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1000,
+  1099
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with amber lead glaze",
+ "dimensions": "H.: 36.5 cm (14 3/8 in.)",
+ "excavated_from": "",
+ "summary": "Stoneware with amber lead glaze。H.: 36.5 cm (14 3/8 in.)。Gift of Mr. and Mrs. Charles C. Haffner III",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "50678"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/0d40f3e1-5b67-d203-91b7-db5989a3ec52/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mr. and Mrs. Charles C. Haffner III"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/50678",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=50678)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

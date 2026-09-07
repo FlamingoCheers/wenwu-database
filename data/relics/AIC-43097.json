@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-43097",
+ "name": "Recumbent Stag",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -206,
+  9
+ ],
+ "category": "青铜器",
+ "material": "Bronze with incised decoration",
+ "dimensions": "8.5 × 13.3 × 6 cm (3 3/8 × 5 1/4 × 2 3/8 in.)",
+ "excavated_from": "",
+ "summary": "Bronze with incised decoration。8.5 × 13.3 × 6 cm (3 3/8 × 5 1/4 × 2 3/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>Bronze sculptures of real and imaginary animals are generally known as &quot;Ordos&quot; after the Ordos Desert in which they were first discovered in the early twentieth century. This northern and northwestern frontier of China—which also includes the forests and grasslands of present-day Inner Mongolia, Outer Mongolia, southern Siberia, and parts of Central Asia—was occupied by hunting and herding tribes during the first millennium B.C. The precise ethnic identities of most of these tribes are unknown; ancient Chinese texts refer to many of these tribes by ancient regional names rather than by the names by which the tribes called themselves.</p>\n<p>The vigorous lifestyle of these nomadic horsemen is reflected in their bronzes, which originally embellished chariots, harness equipment, and personal accessories.  In its strikingly lifelike modeling, this relaxed but spirited stag exemplifies a new realism that entered Chinese art toward the end of the Bronze Age. Although the socket in its back indicates that this animal once supported a shaft, its exact function is unknown.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "43097"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/29ff4c61-a59c-1483-98b1-43f6df136ed5/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/43097",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=43097)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

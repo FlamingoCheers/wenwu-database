@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-149075",
+ "name": "Envoys Presenting Tribute",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1821,
+  1861
+ ],
+ "category": "织绣",
+ "material": "Handscroll; ink on silk",
+ "dimensions": "34.9 × 355 cm (13 3/4 × 139 13/16 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink on silk。34.9 × 355 cm (13 3/4 × 139 13/16 in.)。Gift of Charles C. Haffner III",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "149075"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/6c56d92c-45f8-1117-13d4-6eb9b6d5369e/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Charles C. Haffner III"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/149075",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=149075)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

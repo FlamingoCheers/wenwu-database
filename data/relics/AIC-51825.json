@@ -1,0 +1,44 @@
+{
+ "relic_id": "AIC-51825",
+ "name": "\"Inkstone\" in the Form of a Double-Headed Turtle",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  200,
+  499
+ ],
+ "category": "瓷器",
+ "material": "Earthenware with molded and incised decoration",
+ "dimensions": "3 × 6 cm (7 5/8 × 15 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with molded and incised decoration。3 × 6 cm (7 5/8 × 15 1/4 in.)。Gift of Pauline Palmer Wood",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "51825"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/bdb829b4-1dea-8ade-ba65-c71bce3774cf/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Pauline Palmer Wood"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/51825",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物",
+  "文房",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=51825)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

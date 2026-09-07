@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-12065",
+ "name": "Granary (Cang)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  25,
+  220
+ ],
+ "category": "陶器",
+ "material": "Brick-red earthenware with green lead glaze, carved and molded decoration",
+ "dimensions": "39.5 × 24 × 21.5 cm (15 9/16 × 9 7/16 × 8 7/16 in.)",
+ "excavated_from": "",
+ "summary": "Brick-red earthenware with green lead glaze, carved and molded decoration。39.5 × 24 × 21.5 cm (15 9/16 × 9 7/16 × 8 7/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>As burial practices filtered down from the Han aristocracy to officials and landowners, tomb models related to farming, an honored occupation, became increasingly popular.  The granary, used to store millet, barley, and wheat, was depicted either as a jar or as a small building.  The two-story granary found in southern Chinese tombs of the Western Han dynasty (206 B.C.-A.D. 9) was a wood or ceramic model elevated on stilts.  By the Eastern Han dynasty, this rectangular structure had spread to northern China and was raised on legs that were formed as crouching bears, a convention common to Han art.  The inscription painted on the door of this granary states that it was made for the tomb of a local official.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12065"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/c5a3135c-1542-a96a-2456-c05cfa8769f0/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12065",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12065)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

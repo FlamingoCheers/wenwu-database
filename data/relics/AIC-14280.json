@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-14280",
+ "name": "Sleeve Band",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1875,
+  1900
+ ],
+ "category": "织绣",
+ "material": "embroidered in silks on gauze in design of flowers and plants in jardinieres",
+ "dimensions": "63.7 × 17.4 cm (25 1/8 × 6 7/8 in.)",
+ "excavated_from": "",
+ "summary": "embroidered in silks on gauze in design of flowers and plants in jardinieres。63.7 × 17.4 cm (25 1/8 × 6 7/8 in.)。Gift of Marion Marks Rubens",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "14280"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/31aad08c-ad1f-25a7-2035-af77248c13eb/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Marion Marks Rubens"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/14280",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "植物",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=14280)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

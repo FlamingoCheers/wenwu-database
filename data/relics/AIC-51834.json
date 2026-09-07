@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-51834",
+ "name": "Farm Shed with Grain Mill",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  25,
+  220
+ ],
+ "category": "陶器",
+ "material": "Brick-red earthenware with green lead glaze",
+ "dimensions": "17.8 × 19.4 × 27.3 cm (7 × 7 5/8 × 10 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Brick-red earthenware with green lead glaze。17.8 × 19.4 × 27.3 cm (7 × 7 5/8 × 10 3/4 in.)。Gift of Rose Movius Palmer",
+ "history": "<p>This humble-looking burial model illustrates two notable inventions in engineering and architecture that were in used widely during the Han dynasty.  The rotary mill, worked by a pedal-operated hammer, was used to prepare grain for flour. The shed that encloses it has a deeply overhanging tile roof supported by a wood column with projecting bracket arms. This type of bracketing, which transferred the weight of the roof to the column, became an increasingly important feature of later Chinese buildings.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "51834"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/ae39f225-3e4e-3df8-308c-580cd2cbd99d/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Rose Movius Palmer"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/51834",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=51834)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

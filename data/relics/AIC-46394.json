@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-46394",
+ "name": "Melting the Gold and Predicting the Future",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1901,
+  1901
+ ],
+ "category": "金银器",
+ "material": "Hanging scroll; ink and color on silk",
+ "dimensions": "102.9 × 39.4 cm (40 1/2 × 15 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink and color on silk。102.9 × 39.4 cm (40 1/2 × 15 1/2 in.)。Gift of Florence Ayscough and Harley Farnsworth MacNair",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "46394"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/7f86b859-c091-c7f4-4878-539ff0e2c942/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Florence Ayscough and Harley Farnsworth MacNair"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/46394",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "玺印封泥",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=46394)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

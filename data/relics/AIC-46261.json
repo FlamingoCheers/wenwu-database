@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-46261",
+ "name": "Feline-headed Guardian Beast (Zhenmushou)",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  701,
+  750
+ ],
+ "category": "陶器",
+ "material": "Earthenware with three-color (sancai) lead glazes\nand traces of pigments",
+ "dimensions": "H.: 100.7 cm (39 5/8 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with three-color (sancai) lead glazes\nand traces of pigments。H.: 100.7 cm (39 5/8 in.)。Gift of Pauline Palmer Wood",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "46261"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/83533940-d8f8-7c44-8d9e-6176e71baa17/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Pauline Palmer Wood"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/46261",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=46261)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

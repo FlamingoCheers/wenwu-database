@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-53276",
+ "name": "Tubular Fitting",
+ "aliases": [],
+ "dynasty": "秦",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -399,
+  -200
+ ],
+ "category": "青铜器",
+ "material": "Bronze inlaid with gold and silver",
+ "dimensions": "12.1 × 4.4 cm (4 3/4 × 1 11/16 in.); Diam.: 4.4 cm (1 11/16 in.)",
+ "excavated_from": "",
+ "summary": "Bronze inlaid with gold and silver。12.1 × 4.4 cm (4 3/4 × 1 11/16 in.); Diam.: 4.4 cm (1 11/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>Sumptuously inlaid bronze tubes were designed as fittings for weapons, scepters, and chariots. This bottle-shaped fitting may have formed part of the axel cap for the wheel of a ceremonial chariot.  In its remarkable fluency, the inlaid design of volutes and spirals was largely inspired by contemporary lacquer painting.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "53276"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/1a736c44-2071-b2ca-db2a-4121d8e92182/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/53276",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=53276)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

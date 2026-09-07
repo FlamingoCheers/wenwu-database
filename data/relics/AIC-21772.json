@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-21772",
+ "name": "Spittoon (Zhadou)",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  800,
+  899
+ ],
+ "category": "瓷器",
+ "material": "Yue ware; glazed stoneware",
+ "dimensions": "10.2 × 15.3 cm (4 × 6 in.); Diam.: 15.3 cm (6 in.)",
+ "excavated_from": "",
+ "summary": "Yue ware; glazed stoneware。10.2 × 15.3 cm (4 × 6 in.); Diam.: 15.3 cm (6 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21772"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/fdc93349-1dfe-312a-945c-daf6e36a777c/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21772",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21772)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

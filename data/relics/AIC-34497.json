@@ -1,0 +1,44 @@
+{
+ "relic_id": "AIC-34497",
+ "name": "Landscape after Wang Meng",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1680,
+  1680
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink and light color on paper",
+ "dimensions": "122 × 54.7 cm (48 × 21 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink and light color on paper。122 × 54.7 cm (48 × 21 1/2 in.)。Russell Tyson Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "34497"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/8b8be801-8fb5-0a74-9d1d-1c82eca7633d/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Russell Tyson Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/34497",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水",
+  "文房",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=34497)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

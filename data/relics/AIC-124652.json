@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-124652",
+ "name": "Loop Suspension Bell (Niuzhong)",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -550,
+  -450
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "27 × 15.5 cm (10 5/8 × 6 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。27 × 15.5 cm (10 5/8 × 6 1/8 in.)。The Asian Fund; Avery Brundage, Samuel M. Nickerson, and Russell Tyson endowments",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "124652"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/caaeb6f1-4f5d-e1c0-e5ca-9f480b4a5cd6/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 The Asian Fund; Avery Brundage, Samuel M. Nickerson, and Russell Tyson endowments"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/124652",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=124652)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

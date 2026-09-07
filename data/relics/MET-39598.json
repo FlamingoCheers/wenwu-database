@@ -1,0 +1,40 @@
+{
+ "relic_id": "MET-39598",
+ "name": "Textile with Horned Animals in a Pearl Roundel",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "inferred",
+ "year_range": [
+  600,
+  899
+ ],
+ "category": "杂器",
+ "material": "Weft-faced compound silk twill",
+ "dimensions": "Overall: a: 10 x 15 1/2 in. (25.4 x 39.4 cm)\r\nOverall: b.: 9 3/4 x 15 in. (24.8 x 38.1 cm)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "大都会艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1996.1a, b"
+ },
+ "summary": "Textile。China (Xinjiang Autonomous Region, Central Asia)",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://images.metmuseum.org/CRDImages/as/original/DP271813.jpg",
+   "license": "CC0",
+   "credit": "The Metropolitan Museum of Art, CC0"
+  }
+ ],
+ "source_url": "https://www.metmuseum.org/art/collection/search/39598",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/met/39598.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

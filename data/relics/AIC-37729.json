@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-37729",
+ "name": "Seated Girl Holding Mirror",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  906
+ ],
+ "category": "陶器",
+ "material": "Earthenware with three-color (sancai) lead glazes and traces of pigments",
+ "dimensions": "28.5 × 11 cm (11 1/4 × 4 5/16 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with three-color (sancai) lead glazes and traces of pigments。28.5 × 11 cm (11 1/4 × 4 5/16 in.)。Gift of Mrs. Janis H. Palmer",
+ "history": "<p>This young girl with braided pigtails gazing into a hand-mirror reflects life in a sophis-ticated and fashion-conscious Tang court. She may be applying cosmetics, which included mineral pigments that were im-ported from Persia (now Iran) and Central Asia. She sits upon round, waisted stools that were a new furniture style for the time.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "37729"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/d6c74cd7-b2bc-15f1-f0f6-e0b67cc818c6/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. Janis H. Palmer"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/37729",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=37729)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

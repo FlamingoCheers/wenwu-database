@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-96627",
+ "name": "The Wangchuan Villa 網川圖",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1201,
+  1250
+ ],
+ "category": "织绣",
+ "material": "Handscroll; ink on silk",
+ "dimensions": "26.3 × 554 cm (216 × 10 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink on silk。26.3 × 554 cm (216 × 10 1/4 in.)。Kate S. Buckingham Fund",
+ "history": "<p>This painting depicts the private estate of Wang Wei (c. 699–761), a government statesman renowned as a poet, painter, calligrapher, and musician. Wang periodically retired to this countryside villa, which he described in a painting and in a poem of 20 quatrains. Although Wang’s original pictorial composition is not preserved, this early reinterpretation depicts the scenic spots vividly described in his poetry.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "96627"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/d555d6f1-b2cb-b07f-51a2-45a7d3aaa571/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Kate S. Buckingham Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/96627",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=96627)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

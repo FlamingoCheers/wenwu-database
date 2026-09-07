@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-3316",
+ "name": "Mirror with Images of Daoist Deities",
+ "aliases": [],
+ "dynasty": "三国",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  100,
+  299
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "20.6 × 0.6 cm (8 1/8 × 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。20.6 × 0.6 cm (8 1/8 × 1/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>Mirrors of the Han dynasty were designed to procure blessings of longevity for the living and to guide the soul of the deceased toward immortal bliss.  The images cast on the back of this mirror figured prominently in the quest for immortality that pervaded Han China. Two venerated deities that were later incorporated into the Taoist pantheon—the Queen Mother of the West (Xi Wang Mu) and the King Father of the East (Dong Wang Kong)—are seated opposite the central knob. Each is attended by immortals, identified by their whisks.  Horse-drawn chariots may be interpreted as vehicles to escort the soul on its journey between this world and the next.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "3316"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/fd9da8f4-8b0f-2621-49e0-6f237bf9be50/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/3316",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "道教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=3316)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

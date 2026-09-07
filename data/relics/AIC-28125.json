@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-28125",
+ "name": "Bodhisattava",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  524,
+  524
+ ],
+ "category": "青铜器",
+ "material": "Gilt bronze",
+ "dimensions": "13.3 × 5.2 × 7.1 cm (5 1/4 × 2 1/8 × 2 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Gilt bronze。13.3 × 5.2 × 7.1 cm (5 1/4 × 2 1/8 × 2 3/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "28125"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/6676729c-8d46-c232-f99c-27746b4ad8ec/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/28125",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=28125)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

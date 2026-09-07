@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-55821",
+ "name": "Jar (hu)",
+ "aliases": [],
+ "dynasty": "秦",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -475,
+  -221
+ ],
+ "category": "青铜器",
+ "material": "Bronze inlaid with copper",
+ "dimensions": "44.7 × 30.6 cm (17 5/8 × 12 in.); Diam.: 30.5 cm (12 in.)",
+ "excavated_from": "",
+ "summary": "Bronze inlaid with copper。44.7 × 30.6 cm (17 5/8 × 12 in.); Diam.: 30.5 cm (12 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>The introduction of metallic inlay enriched bronze vessels with color. In this jar, curvilinear silhouettes of birds, feline creatures, and stags were cast from flat sheets of copper and arranged in pairs in the clay mold assembly. Telltale signs of this technique appear around the foot rim, where some of these copper inlays broke and were displaced when molten bronze was poured into the assembly.</p>\n<p>These inlaid images, which were probably inspired by contemporary designs in lacquer painting and embroidery, provide some of the earliest evidence of pictorial representation in Chinese art. In this vessel, such images are stylized to form S-curves, and are more decorative than realistic. The monster mask, a prominent design on earlier bronze vessels, is also abstracted; its horns, nose, and jaws are converted into spirals. Four masklike configurations are centered on the bulge of this vessel; two appear beneath three-dimensional monster masks, which originally held rings.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "55821"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/ec98cd23-bffc-306e-7319-a0fdbaf68bd5/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/55821",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=55821)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

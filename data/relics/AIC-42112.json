@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-42112",
+ "name": "Vase with Dragons",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1662,
+  1722
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze blue",
+ "dimensions": "24 × 10.6 cm (9 7/16 × 4 3/16 in.); Diam.: 10.6 cm (4 3/16 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain painted in underglaze blue。24 × 10.6 cm (9 7/16 × 4 3/16 in.); Diam.: 10.6 cm (4 3/16 in.)。Bequest of Henry C. Schwab",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "42112"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/976a92a9-1759-e258-e231-26e21537e7d7/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Henry C. Schwab"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/42112",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=42112)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

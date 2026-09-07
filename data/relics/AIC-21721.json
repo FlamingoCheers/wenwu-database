@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-21721",
+ "name": "Amphora-Type Vase with Stylized Flowers",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1165,
+  1234
+ ],
+ "category": "瓷器",
+ "material": "Glazed stoneware with underglaze molded decoration",
+ "dimensions": "12.8 × 8 × 4.1 cm (5 1/16 × 3 1/8 × 1 5/8 in.)",
+ "excavated_from": "",
+ "summary": "Glazed stoneware with underglaze molded decoration。12.8 × 8 × 4.1 cm (5 1/16 × 3 1/8 × 1 5/8 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21721"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/89b07d48-b707-9b9f-35fd-bb40f6803908/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21721",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21721)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

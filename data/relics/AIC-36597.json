@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-36597",
+ "name": "Parting at the Gate of the Capital",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1423,
+  1495
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink and color on paper",
+ "dimensions": "53.4 × 461.1 cm (21 × 181 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink and color on paper。53.4 × 461.1 cm (21 × 181 1/2 in.)。Gift of Alice Boney",
+ "history": "<p>This handscroll captures a goodbye. Along the riverbank, a boatman poised with paddle in hand stands tall in anticipation of launching. Nearby, scholars wearing black hats linger over their departure. Within the thatched pavilion, two servants diligently pack up the remains of a farewell party. In ancient China, a handscroll would be viewed by unrolling it in segments, one arm’s length at a time, from right to left. This handscroll would thus gradually reveal the travelers and the distant landscape, creating the effect of sending them off.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "36597"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/6725ded2-030e-59cb-7575-82374f76baca/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Alice Boney"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/36597",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=36597)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

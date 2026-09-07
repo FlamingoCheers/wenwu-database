@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-21754",
+ "name": "Jar with Fluted Rim",
+ "aliases": [],
+ "dynasty": "五代十国",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  900,
+  999
+ ],
+ "category": "瓷器",
+ "material": "Ding ware; glazed porcelain",
+ "dimensions": "8.9 × 14 cm (3 1/2 × 5 1/2 in.); Diam.: 14 cm (5 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Ding ware; glazed porcelain。8.9 × 14 cm (3 1/2 × 5 1/2 in.); Diam.: 14 cm (5 1/2 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21754"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/5d7b8692-1f3e-846d-de95-6042e17b6997/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21754",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21754)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

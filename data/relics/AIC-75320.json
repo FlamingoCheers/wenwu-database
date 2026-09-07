@@ -1,0 +1,46 @@
+{
+ "relic_id": "AIC-75320",
+ "name": "Return to Stone Lake 石湖歸棹圖",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1441,
+  1451
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink on paper",
+ "dimensions": "26.1 × 231.2 cm (10 1/4 × 91 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink on paper。26.1 × 231.2 cm (10 1/4 × 91 in.)。Kate S. Buckingham Endowment Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "75320"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/4954c682-2179-be5d-88a3-bd53d5903d7c/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Kate S. Buckingham Endowment Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/75320",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水",
+  "动物",
+  "出行",
+  "文房",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=75320)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

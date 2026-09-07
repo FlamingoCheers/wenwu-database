@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-60419",
+ "name": "Vase with Flattened Body",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1899
+ ],
+ "category": "瓷器",
+ "material": "Celadon-glazed porcelain",
+ "dimensions": "8.7 × 10.7 cm (3 7/16 × 4 3/16 in.)",
+ "excavated_from": "",
+ "summary": "Celadon-glazed porcelain。8.7 × 10.7 cm (3 7/16 × 4 3/16 in.)。Gift of Sarah G. Larson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "60419"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/d8627bf3-1c0d-5db4-01ff-50be4369ed62/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Sarah G. Larson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/60419",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=60419)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

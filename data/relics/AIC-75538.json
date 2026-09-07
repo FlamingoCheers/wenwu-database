@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-75538",
+ "name": "Landscape after Huang Gongwang",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1701,
+  1701
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink and color on paper; with box",
+ "dimensions": "129.6 × 58.5 cm (51 × 23 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink and color on paper; with box。129.6 × 58.5 cm (51 × 23 in.)。Gift of Hulburd Johnston",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "75538"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/ef334713-4300-07e6-3bfa-522290594226/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Hulburd Johnston"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/75538",
+ "license": "CC0",
+ "tags": [
+  "山水",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=75538)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-183344",
+ "name": "Taihu Rock",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1838,
+  1899
+ ],
+ "category": "书画",
+ "material": "Folding fan (mounted); finger painting in ink on paper",
+ "dimensions": "23.5 × 51.5 cm (9 5/16 × 20 5/16 in.)",
+ "excavated_from": "",
+ "summary": "Folding fan (mounted); finger painting in ink on paper。23.5 × 51.5 cm (9 5/16 × 20 5/16 in.)。Samuel M. Nickerson Endowment",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "183344"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/12da5877-0e32-482c-14a6-61bdf1e895a4/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Samuel M. Nickerson Endowment"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/183344",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=183344)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

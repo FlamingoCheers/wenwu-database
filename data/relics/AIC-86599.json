@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-86599",
+ "name": "Folding Oil Lamp",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -206,
+  220
+ ],
+ "category": "青铜器",
+ "material": "Bronze with incised decoration",
+ "dimensions": "6.5 × 13 × 11.2 cm (2 1/2 × 5 1/8 × 4 3/8 in.)",
+ "excavated_from": "",
+ "summary": "Bronze with incised decoration。6.5 × 13 × 11.2 cm (2 1/2 × 5 1/8 × 4 3/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "86599"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/2e447dcb-f997-4847-be70-01051363471d/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/86599",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "照明"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=86599)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

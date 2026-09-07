@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-183893",
+ "name": "Beaker",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1600,
+  -1050
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "H.: 30.5 cm (12 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。H.: 30.5 cm (12 in.)。Alyce and Edwin DeCosta and The Walter E. Heller Foundation Endowment",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "183893"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/b16686a0-93d1-a35a-4700-5d6acb6763e6/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Alyce and Edwin DeCosta and The Walter E. Heller Foundation Endowment"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/183893",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=183893)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-21499",
+ "name": "Frog-Shaped Jarlet",
+ "aliases": [],
+ "dynasty": "西晋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  265,
+  316
+ ],
+ "category": "瓷器",
+ "material": "Yue ware; stoneware with underglaze molded decoration",
+ "dimensions": "6.4 × 10.6 cm (2 1/2 × 4 3/16 in.); Diam.: 10.6 cm (4 3/16 in.)",
+ "excavated_from": "",
+ "summary": "Yue ware; stoneware with underglaze molded decoration。6.4 × 10.6 cm (2 1/2 × 4 3/16 in.); Diam.: 10.6 cm (4 3/16 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21499"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/bb66290b-3d79-767d-a9e1-97763d3e0e22/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21499",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21499)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

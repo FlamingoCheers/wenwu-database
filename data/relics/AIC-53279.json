@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-53279",
+ "name": "Tubular Fitting",
+ "aliases": [],
+ "dynasty": "秦",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -399,
+  -200
+ ],
+ "category": "青铜器",
+ "material": "Bronze inlaid with silver",
+ "dimensions": "7.3 × 3.3 cm (2 7/8 × 1 5/16 in.); Diam.: 3.3 cm (1 5/16 in.)",
+ "excavated_from": "",
+ "summary": "Bronze inlaid with silver。7.3 × 3.3 cm (2 7/8 × 1 5/16 in.); Diam.: 3.3 cm (1 5/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "53279"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/f7a1c1f8-ec88-2ed7-95cf-8ae469b67c29/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/53279",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=53279)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-22200",
+ "name": "Stem Cup with Florets",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  906
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with yellow glaze and underglaze mold-impressed decoration",
+ "dimensions": "7.1 × 9.3 cm (2 13/16 × 3 11/16 in.); Diam.: 9.3 cm (3 11/16 in.)",
+ "excavated_from": "",
+ "summary": "Stoneware with yellow glaze and underglaze mold-impressed decoration。7.1 × 9.3 cm (2 13/16 × 3 11/16 in.); Diam.: 9.3 cm (3 11/16 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "22200"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/e90b039d-760b-15bc-4d70-873ac58d551b/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/22200",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "玺印封泥",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=22200)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

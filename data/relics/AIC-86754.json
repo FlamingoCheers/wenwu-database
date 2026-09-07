@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-86754",
+ "name": "Lobed Mirror with Birds, Insects, and Floral Sprays",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  700,
+  799
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "Diam.: 17.7 cm (7 in.); Thickness: D.: 0.7 cm (5/16 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。Diam.: 17.7 cm (7 in.); Thickness: D.: 0.7 cm (5/16 in.)。Gift of The Orientals",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "86754"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/d32fb413-3b38-10c1-8eed-c1863aa5bafd/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of The Orientals"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/86754",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "动物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=86754)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

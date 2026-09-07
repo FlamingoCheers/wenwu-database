@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-86423",
+ "name": "Mask from a Horse Bridle",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -899,
+  -800
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "26.5 × 27.5 × 0.3 cm (10 3/8 × 10 3/4 × 3/32 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。26.5 × 27.5 × 0.3 cm (10 3/8 × 10 3/4 × 3/32 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>This sheet of hammered bronze was attached to cloth or leather as part of an elaborate bridle. The mask was placed on the horse's forehead, between the ears. Similar plaques have been excavated from the trappings of horses and chariots that were buried in trenches adjacent to aristocratic tombs in present-day Xi'an, the site of the Western Zhou capital.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "86423"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/4c27a302-290b-5243-e301-6e7e74704fc7/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/86423",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=86423)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

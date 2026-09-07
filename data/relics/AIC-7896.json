@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-7896",
+ "name": "Dinner Plate",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1796,
+  1810
+ ],
+ "category": "瓷器",
+ "material": "Hard-paste porcelain, glaze, with enamels in colors, and gilding",
+ "dimensions": "Diam.: 22.3 cm (8 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Hard-paste porcelain, glaze, with enamels in colors, and gilding。Diam.: 22.3 cm (8 3/4 in.)。Bequest of Frederick S. Colburn",
+ "history": "<p>This plate was part of a large service made for the 1796 wedding of New York politician DeWitt Clinton (1769–1828) and his bride, Maria Franklin (1775–1818). The decorative Chinese landscape is encircled by a spearhead border and depictions of the eight Chinese Immortals of the Taoist religion, a purely Chinese decoration. Only the entwined gold initials DWMC indicate that this plate was made for a foreign market.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "7896"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/7597e412-18c9-0e33-0202-79f808cd43c3/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Frederick S. Colburn"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/7896",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=7896)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

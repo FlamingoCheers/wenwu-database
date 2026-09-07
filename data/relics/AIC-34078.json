@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-34078",
+ "name": "Food container",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1050,
+  -1000
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "At lip: Diam.: 22.2 cm (8 3/4 in.); H.: 27 cm (10 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。At lip: Diam.: 22.2 cm (8 3/4 in.); H.: 27 cm (10 3/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>The handled tureen is one of an extensive array of bronze vessels commissioned by China's royal family and political aristocracy for the preparation and offering of millet and other food in ceremonial banquets. This vessel's distinctive style, with its basin cast onto a hollow square base derived from an altar or stand, was introduced soon after the Zhou conquest of China's first archaeologically verified dynasty, the Shang. Exuberantly imaginative creatures animate the surface. Two large, coiled dragons spread across each side of the bowl; animal-headed birds form the handles; and on the base, creatures with spiky, flame-like plumage display a clever ambiguity: they may be read as addorsed birds or as elephant-headed &quot;dragons&quot; facing each other.</p>\n<p>Inside the bottom of the basin, an inscription of eleven characters is countersunk in the metal and runs from top to bottom in two columns reading right to left: <em>Zhong Cheng zuo you bao yi yong xiang wang ni wei yong</em> [&quot;Zhong Cheng makes his treasured vessel, to use to feast the king's reciprocal immortalizing.&quot; (translation by Edward L. Shaughnessy)]. This brief text commemorates a celebratory event: the commission of this vessel to entertain the king by a court official or attendant named Zhong Cheng. The strongly rendered and well-balanced script incorporates a few pictographic characters, among which &quot;feast&quot; (left column, second character) depicts two figures kneeling face-to-face over a grain vessel.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "34078"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/982ef7d9-36e7-a630-ed05-81d67537b2f9/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/34078",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=34078)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

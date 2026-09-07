@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-42029",
+ "name": "Pair of Teabowls with Bamboo",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1723,
+  1735
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze blue and overglaze enamels (doucai)",
+ "dimensions": "Diam.: 9.5 cm (3 3/4 in.); Each: H.: 4.4 cm (1 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain painted in underglaze blue and overglaze enamels (doucai)。Diam.: 9.5 cm (3 3/4 in.); Each: H.: 4.4 cm (1 3/4 in.)。Bequest of Henry C. Schwab",
+ "history": "<p>These eggshell-thin bowls represent an exquisite example of the technique known as <em>doucai</em> (dovetailing or contending colors), in which underglaze-blue outlines are partly filled with overglaze enamel colors. Outlines of bamboo were painted in cobalt and covered with a transparent glaze before firing. The leaves were then colored with pale green, yellow, and red enamels, and the bowls refired at a lower temperature.</p>\n<p>Bamboo, which remains green throughout the year and whose hollow stems bend without breaking, has traditionally been viewed in China as a poignant image of human resilience. The elegant depiction of nature on these teabowls was undoubtedly inspired by China’s long tradition of bamboo paintings on silk and paper.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "42029"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/17dd49bf-be0d-8aee-5b74-999045291db0/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Henry C. Schwab"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/42029",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "茶文化",
+  "植物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=42029)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

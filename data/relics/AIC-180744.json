@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-180744",
+ "name": "Camel",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  701,
+  750
+ ],
+ "category": "陶器",
+ "material": "Earthenware with three-color (sancai) lead glazes",
+ "dimensions": null,
+ "excavated_from": "",
+ "summary": "Earthenware with three-color (sancai) lead glazes。Gift of Bertha Palmer Thorne",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "180744"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/c02ac167-54bc-ec04-19da-72e4a73326aa/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Bertha Palmer Thorne"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/180744",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=180744)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

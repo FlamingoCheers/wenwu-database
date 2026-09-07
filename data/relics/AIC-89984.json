@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-89984",
+ "name": "Washing the Elephant",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink and colors on paper",
+ "dimensions": "36.9 × 641.7 cm (14 1/2 × 252 5/8 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink and colors on paper。36.9 × 641.7 cm (14 1/2 × 252 5/8 in.)。Gift of Mrs. Chauncey McCormick",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "89984"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/0b47bf51-b805-a7dd-7ab7-04b59c24e709/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. Chauncey McCormick"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/89984",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=89984)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

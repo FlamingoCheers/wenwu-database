@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-105549",
+ "name": "Beaker",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1600,
+  -1050
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "24.1 × 14.3 cm (9 1/2 × 5 5/8 in.); Diam.: 14.3 cm (5 5/8 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。24.1 × 14.3 cm (9 1/2 × 5 5/8 in.); Diam.: 14.3 cm (5 5/8 in.)。Bequest of Chester D. Tripp",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "105549"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/09380225-93ea-4875-1d76-d2998b8403f9/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Chester D. Tripp"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/105549",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=105549)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-60348",
+ "name": "Wine Jar (Hu)",
+ "aliases": [],
+ "dynasty": "秦",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -299,
+  -200
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "31.2 × 22.9 × 22.3 cm (12 1/4 × 9 × 8 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。31.2 × 22.9 × 22.3 cm (12 1/4 × 9 × 8 3/4 in.)。Bequest of Dr. Edith B. Farnsworth",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "60348"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/c192f549-b9cb-f351-3df0-810d25ade501/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Dr. Edith B. Farnsworth"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/60348",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=60348)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

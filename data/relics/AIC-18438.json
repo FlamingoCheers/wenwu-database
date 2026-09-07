@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-18438",
+ "name": "Melon-Shaped Water Pot",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1799
+ ],
+ "category": "玉器",
+ "material": "Gray opaque glass with ivory lid",
+ "dimensions": "9.5 × 10.6 cm (3 3/4 × 4 3/16 in.); Diam.: 10.6 cm (4 3/16 in.)",
+ "excavated_from": "",
+ "summary": "Gray opaque glass with ivory lid。9.5 × 10.6 cm (3 3/4 × 4 3/16 in.); Diam.: 10.6 cm (4 3/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "18438"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/b8dce7d8-2de9-f915-652e-ba1899dbd081/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/18438",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=18438)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

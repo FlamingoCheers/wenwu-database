@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-86233",
+ "name": "Landscape after Wang Meng",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1592,
+  1680
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink and light color on paper",
+ "dimensions": "219.8 × 96.6 cm (86 1/2 × 38 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink and light color on paper。219.8 × 96.6 cm (86 1/2 × 38 in.)。Bertha Evans Brown Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "86233"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/d2c1e32e-f890-a12a-19e0-f8d638d19bdf/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bertha Evans Brown Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/86233",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=86233)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

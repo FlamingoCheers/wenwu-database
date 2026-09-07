@@ -1,0 +1,44 @@
+{
+ "relic_id": "AIC-149376",
+ "name": "Carpet (For a Buddhist Temple Column)",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1825,
+  1875
+ ],
+ "category": "织绣",
+ "material": "Cotton and wool, plain weave with supplementary wrapping wefts forming cut pile through a technique known as left-handed Sehna or Persian knot",
+ "dimensions": "282.2 × 120.3 cm (189 3/4 × 47 3/8 in.)",
+ "excavated_from": "",
+ "summary": "Cotton and wool, plain weave with supplementary wrapping wefts forming cut pile through a technique known as left-handed Sehna or Persian knot。282.2 × 120.3 cm (189 3/4 × 47 3/8 in.)。Gift of James Tigerman",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "149376"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/ea689d15-31ab-b4af-6f3c-65791121d80d/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of James Tigerman"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/149376",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "酒文化",
+  "礼制",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=149376)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-56801",
+ "name": "Bowl with Peony Flowers",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1723,
+  1735
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in overglaze enamels",
+ "dimensions": "6.2 × 13.3 cm (2 7/16 × 5 1/4 in.); Diam.: 13.3 cm (5 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain painted in overglaze enamels。6.2 × 13.3 cm (2 7/16 × 5 1/4 in.); Diam.: 13.3 cm (5 1/4 in.)。Gift of H. Deakin to the Antiquarian Society",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "56801"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/8402ec51-a08e-b918-bb46-0e88ec8ba7f6/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of H. Deakin to the Antiquarian Society"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/56801",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=56801)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

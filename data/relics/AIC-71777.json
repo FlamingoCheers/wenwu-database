@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-71777",
+ "name": "Prunus and Bamboo",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "竹木牙角",
+ "material": "Hanging scroll; ink and slight color on paper",
+ "dimensions": "86 × 18.6 cm (33 7/8 × 7 3/8 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink and slight color on paper。86 × 18.6 cm (33 7/8 × 7 3/8 in.)。Samuel M. Nickerson Endowment",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "71777"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/57cac090-d682-98b4-2fad-3a1dabf034b4/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Samuel M. Nickerson Endowment"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/71777",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=71777)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

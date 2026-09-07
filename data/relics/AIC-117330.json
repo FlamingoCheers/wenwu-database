@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-117330",
+ "name": "Ogre-Headed Guardian Beast (Zhenmushou)",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  701,
+  750
+ ],
+ "category": "陶器",
+ "material": "Earthenware with three-color (sancai) lead glazes and traces of pigments",
+ "dimensions": "90.5 × 37.5 × 26.5 cm (35 11/16 × 14 13/16 × 10 7/16 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with three-color (sancai) lead glazes and traces of pigments。90.5 × 37.5 × 26.5 cm (35 11/16 × 14 13/16 × 10 7/16 in.)。Gift of Charlotte Bordeaux, Pauline Wood Egan, Gordon P. O'Neill, John O'Neill III, Potter Palmer, Oakleigh B. Thorne, Honore Wamsler, and Arthur M. Wood, Jr.",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "117330"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/34f7a775-7313-3037-dbeb-032c80a4e9ea/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Charlotte Bordeaux, Pauline Wood Egan, Gordon P. O'Neill, John O'Neill III, Potter Palmer, Oakleigh B. Thorne, Honore Wamsler, and Arthur M. Wood, Jr."
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/117330",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=117330)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

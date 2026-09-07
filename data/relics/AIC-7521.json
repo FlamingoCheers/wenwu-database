@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-7521",
+ "name": "Pair of Plaques with Profile Animal Heads",
+ "aliases": [],
+ "dynasty": "秦",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1027,
+  -221
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "30.2 × 22.4 × 0.2 cm (11 7/8 × 8 13/16 × 3/16 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。30.2 × 22.4 × 0.2 cm (11 7/8 × 8 13/16 × 3/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>This metal plaque is one of a pair that was beaten together to form mirror images of an animal head in profile with gaping mouth and curved fang. Similarly curved and perforated examples, which have been excavated from the burials of horses and chariots, suggest that these plaques originally formed the cheek pieces for a horse's bridle. Alternatively, they may have been sewn onto leather to form defensive armor for the chest or back of a soldier.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "7521"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/997c2dd3-437d-4b05-77b8-8c3a7944c82a/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/7521",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=7521)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

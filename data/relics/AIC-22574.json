@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-22574",
+ "name": "Bowl with Six Goats",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1821,
+  1850
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze blue and overglaze enamels",
+ "dimensions": "6.4 × 15.3 cm (2 1/2 × 6 in.); Diam.: 15.3 cm (6 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain painted in underglaze blue and overglaze enamels。6.4 × 15.3 cm (2 1/2 × 6 in.); Diam.: 15.3 cm (6 in.)。Gift of Mrs. Chauncey B. Borland",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "22574"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/b6f9eff8-6b8e-17a1-f400-7bb7df7e575d/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. Chauncey B. Borland"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/22574",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=22574)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

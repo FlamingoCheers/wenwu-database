@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-180135",
+ "name": "Tubular Fitting",
+ "aliases": [],
+ "dynasty": "战国",
+ "dynasty_confidence": "inferred",
+ "year_range": [
+  -399,
+  -222
+ ],
+ "category": "青铜器",
+ "material": "Bronze inlaid with gold and silver",
+ "dimensions": "14.4 × 3.6 cm (5 5/8 × 1 7/16 in.); Diam.: 3.6 cm (1 7/16 in.)",
+ "excavated_from": "",
+ "summary": "Bronze inlaid with gold and silver。14.4 × 3.6 cm (5 5/8 × 1 7/16 in.); Diam.: 3.6 cm (1 7/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>Sumptuously inlaid bronze tubes were designed as fittings for weapons, scepters, and chariots. This hexagonal fitting was probably a ferrule (<em>dun</em>), used to cap the lower end of a wood shaft for a bronze halberd. In its remarkable fluency, the inlaid design of volutes and spirals was largely inspired by contemporary lacquer painting.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "180135"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/04c4e192-f7ca-f06e-9784-c0696ee7d0b0/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/180135",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=180135)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

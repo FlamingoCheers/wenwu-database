@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-30214",
+ "name": "Figure of a Youth",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  906
+ ],
+ "category": "瓷器",
+ "material": "Earthenware with brown lead glaze",
+ "dimensions": "30.2 × 10.5 × 8.1 cm (11 7/8 × 4 1/8 × 3 3/16 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with brown lead glaze。30.2 × 10.5 × 8.1 cm (11 7/8 × 4 1/8 × 3 3/16 in.)。Gift of Emily Crane Chadbourne",
+ "history": "<p>Tang artisans delighted in observing and depicting traders and travelers from around the world who flocked to China’s major cities. Wearing a toga-like robe and knee-length pantaloons, the figurine of a dark-skinned, curly-haired young boy evokes Tang descriptions of people from “Kunlun,” – a term derived from the remote and mysterious Kunlun Mountains mentioned in ancient mythology. However, it had come to refer to people of non-Chinese origin – especially those from the southern maritime countries in Asia – during the Tang Dynasty.</p>\n<p>Clay figures similar to this one were interred in Tang tombs to serve the deceased. With raised hands and a tilted body, the figure exudes a strong sense of movement. It likely portrays a rowing scene: the small holes on the hands might have been used to attach a wooden paddle. Enslaved people of Kunlun (kunlun nu) played a significant role in various maritime operations. They provided the essential labor needed to propel ships engaged in long-distance trade.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "30214"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/8d874d85-0fa5-74b6-0a85-580ae8087785/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Emily Crane Chadbourne"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/30214",
+ "license": "CC0",
+ "tags": [
+  "日常生活",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=30214)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

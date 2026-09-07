@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-15748",
+ "name": "Portrait of the Tibetan Lama Chankya Hutuktu Rolpai Dorje (1717-1786)",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1799,
+  1899
+ ],
+ "category": "青铜器",
+ "material": "Brass alloy",
+ "dimensions": "7.7 × 6.2 × 5 cm (3 × 2 1/2 × 2 in.)",
+ "excavated_from": "",
+ "summary": "Brass alloy。7.7 × 6.2 × 5 cm (3 × 2 1/2 × 2 in.)。Gift of Guy H. Mitchell",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "15748"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/cdc83268-e8e3-0e55-a741-bcf1cf9ce8d2/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Guy H. Mitchell"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/15748",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=15748)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

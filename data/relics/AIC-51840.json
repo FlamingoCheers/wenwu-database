@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-51840",
+ "name": "Board Game Player",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  25,
+  220
+ ],
+ "category": "陶器",
+ "material": "Earthenware with green lead glaze",
+ "dimensions": "20.1 × 15 × 9 cm (7 15/16 × 5 15/16 × 3 9/16 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with green lead glaze。20.1 × 15 × 9 cm (7 15/16 × 5 15/16 × 3 9/16 in.)。Gift of Rose Movius Palmer",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "51840"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/69fe8b13-3557-5842-d5cd-e0271738513f/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Rose Movius Palmer"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/51840",
+ "license": "CC0",
+ "tags": [
+  "游戏",
+  "博戏"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=51840)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

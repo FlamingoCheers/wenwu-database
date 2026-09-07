@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-2525",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1760,
+  1770
+ ],
+ "category": "瓷器",
+ "material": "Hard-paste porcelain with polychrome enamels and gilding",
+ "dimensions": "9.6 × 25.4 × 25.4 cm (3 3/4 × 10 × 10 in.)",
+ "excavated_from": "",
+ "summary": "Hard-paste porcelain with polychrome enamels and gilding。9.6 × 25.4 × 25.4 cm (3 3/4 × 10 × 10 in.)。Gift of The Winfield Foundation",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "2525"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/a0df3133-fca9-af4c-a0fe-8d427d47e294/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of The Winfield Foundation"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/2525",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=2525)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

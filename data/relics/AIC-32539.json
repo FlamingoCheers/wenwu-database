@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-32539",
+ "name": "Weight in the Form of Nestled Birds",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": "Gilt bronze",
+ "dimensions": "W.: 5.4 cm (2 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Gilt bronze。W.: 5.4 cm (2 1/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>This small gilt-bronze sculpture captures the tender image of two birds nestled against each other. Their interlocking claws and tail feathers on the front side, along with the overlapping wings on the reverse, create a strong sense of liveliness and intimacy. This object might have functioned as a sleeve weight, which was used in burials to anchor the sleeve of the deceased.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "32539"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/f32b7a12-4cd1-2711-28e1-10078bb58e28/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/32539",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=32539)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

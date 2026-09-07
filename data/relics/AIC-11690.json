@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-11690",
+ "name": "Maitreya Buddha",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  705,
+  705
+ ],
+ "category": "宗教造像",
+ "material": "Limestone",
+ "dimensions": "82.3 × 33 × 30.2 cm (32 7/16 × 12 15/16 × 11 15/16 in.)",
+ "excavated_from": "",
+ "summary": "Limestone。82.3 × 33 × 30.2 cm (32 7/16 × 12 15/16 × 11 15/16 in.)。Gift of Alice Getty",
+ "history": "<p>The depiction of the enthroned Buddha incorporates several key elements of Buddhist iconography. The posture, with both legs down and the feet firmly planted on the ground—known in Sanskrit as the <em>bhadrasana</em> or “auspicious pose”—originated in Northwest India. This pose was widely used across the Indian subcontinent and beyond to depict Hindu and Buddhist deities associated with royalty and fertility. The Buddha is clearly identified here by a dated inscription as <em>Mile</em>, a transliterated name for Maitreya, the future Buddha who is destined to descend from Tushita Heaven to bring enlightenment to the world. His majestic seated posture may symbolize Maitreya’s future reign from Mount Meru, the cosmic axis, and his imminent descent to the earthly realm, ready to fulfill the hopes and prayers of the faithful.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "11690"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/18fd2c70-eff4-33ca-b1d8-576757e6af4e/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Alice Getty"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/11690",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=11690)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

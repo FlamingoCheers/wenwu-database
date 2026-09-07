@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-84705",
+ "name": "Landscape",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1515,
+  1575
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink on paper",
+ "dimensions": "102.4 × 30.5 cm (40 1/4 × 12 in.); Including mount: 238.4 × 52.3 cm (93 7/8 × 20 5/8 in.); Rolling bar: H.: 62 cm (24 7/16 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink on paper。102.4 × 30.5 cm (40 1/4 × 12 in.); Including mount: 238.4 × 52.3 cm (93 7/8 × 20 5/8 in.); Rolling bar: H.: 62 cm (24 7/16 in.)。Gift of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "84705"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/180d9360-e8c2-2ae8-cad4-4bcadab75802/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/84705",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=84705)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

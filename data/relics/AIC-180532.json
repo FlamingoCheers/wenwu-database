@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-180532",
+ "name": "Female Dancer",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -206,
+  -75
+ ],
+ "category": "陶器",
+ "material": "Gray earthenware with slip coating and polychrome pigments",
+ "dimensions": "16.7 × 11.5 × 9.6 cm (6 9/16 × 4 1/2 × 3 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Gray earthenware with slip coating and polychrome pigments。16.7 × 11.5 × 9.6 cm (6 9/16 × 4 1/2 × 3 3/4 in.)。Gift of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "180532"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/4a198085-58ff-6118-aa76-f6f5ed4506f0/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/180532",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=180532)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

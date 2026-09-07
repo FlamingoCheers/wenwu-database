@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-25999",
+ "name": "Stemmed Bowl (dou)",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "瓷器",
+ "material": "Porcelain",
+ "dimensions": "16.3 × 14.4 cm (6 7/16 × 5 11/16 in.); Diam.: 14.5 cm (5 11/16 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain。16.3 × 14.4 cm (6 7/16 × 5 11/16 in.); Diam.: 14.5 cm (5 11/16 in.)。Mrs. Siegfried G. Schmidt",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "25999"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/2ccf636f-bbcd-e9eb-0a3d-5ad27d2b4023/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Mrs. Siegfried G. Schmidt"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/25999",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=25999)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

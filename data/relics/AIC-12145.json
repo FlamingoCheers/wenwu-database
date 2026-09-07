@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-12145",
+ "name": "Ovoid Jar with Blossom-Like Spotting",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  700,
+  750
+ ],
+ "category": "陶器",
+ "material": "Earthenware with three-color (sancai) lead glazes and resist decoration",
+ "dimensions": "16.5 × 17.4 cm (6 1/2 × 6 13/16 in.); Diam.: 17.4 cm (6 13/16 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with three-color (sancai) lead glazes and resist decoration。16.5 × 17.4 cm (6 1/2 × 6 13/16 in.); Diam.: 17.4 cm (6 13/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12145"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/21e59b40-cadd-d3e1-962f-0e8c391c397e/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12145",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12145)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

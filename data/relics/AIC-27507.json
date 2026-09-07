@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-27507",
+ "name": "Sovereign of the Clouds of Dawn (Bixia Yuanjun)",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1375,
+  1450
+ ],
+ "category": "青铜器",
+ "material": "Bronze with traces of pigment",
+ "dimensions": "98 × 57 × 32.5 cm (38 5/8 × 22 1/2 × 12 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Bronze with traces of pigment。98 × 57 × 32.5 cm (38 5/8 × 22 1/2 × 12 3/4 in.)。Gift of Mrs. Samuel G. Rautbord",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "27507"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/8458bab5-6355-2fd2-f969-c91dd07cc5de/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. Samuel G. Rautbord"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/27507",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=27507)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

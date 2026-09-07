@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-94242",
+ "name": "Groom",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  701,
+  750
+ ],
+ "category": "陶器",
+ "material": "Earthenware with three-color (sancai) lead glazes",
+ "dimensions": "58.5 × 25 × 17.5 cm (23 × 9 13/16 × 6 7/8 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with three-color (sancai) lead glazes。58.5 × 25 × 17.5 cm (23 × 9 13/16 × 6 7/8 in.)。Gift of Rose Movius Palmer",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "94242"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/820720bb-1268-3cd0-ea7c-39fdf88c0c23/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Rose Movius Palmer"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/94242",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=94242)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

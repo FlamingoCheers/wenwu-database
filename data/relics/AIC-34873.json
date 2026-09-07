@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-34873",
+ "name": "Bucket with Swing Handle",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1000,
+  -950
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "30.8 × 25.1 cm (12 3/16 × 9 7/8 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。30.8 × 25.1 cm (12 3/16 × 9 7/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>The handled bucket is described in ancient texts as a vessel for carrying wine. This vessel's gently sagging profile is sparsely decorated—dragons with detached, hooked trunks are confined to narrow bands around the neck and lid. Contrasting with these abstract designs are more naturalistic rams' heads at the neck and on the handles, which are sculpted in the round. Such realistic animals appeared as secondary motifs on Shang bronzes but became more prominent during the Western Zhou.</p>\n<p>Identical inscriptions are cast inside the bucket and lid: <em>Zi Fu Geng</em> [made for Father Geng of the Zi family]</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "34873"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/256302d0-37e0-f383-8123-c13e6ab8ddbb/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/34873",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=34873)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-14811",
+ "name": "Wine Jar (Hu)",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -499,
+  -400
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "11.2 × 25.4 × 25.4 cm (4 3/8 × 10 × 10 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。11.2 × 25.4 × 25.4 cm (4 3/8 × 10 × 10 in.)。Gift of Mrs. Harold A. Rosenbaum",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "14811"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/1319be2c-da71-286c-3697-b68d6106cbd4/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. Harold A. Rosenbaum"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/14811",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=14811)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

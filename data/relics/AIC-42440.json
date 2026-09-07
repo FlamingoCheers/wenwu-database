@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-42440",
+ "name": "Baluster-Shaped Vase with Loop Handles",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1736,
+  1796
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with robin’s egg blue glaze",
+ "dimensions": "21.9 × 11.6 cm (8 5/8 × 4 9/16 in.); Diam.: 11.6 cm (4 9/16 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain with robin’s egg blue glaze。21.9 × 11.6 cm (8 5/8 × 4 9/16 in.); Diam.: 11.6 cm (4 9/16 in.)。Bequest of Henry C. Schwab",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "42440"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/69c706bf-8df3-7016-5bb8-cee2d7d29d51/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Henry C. Schwab"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/42440",
+ "license": "CC0",
+ "tags": [
+  "玺印封泥",
+  "文字书写",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=42440)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

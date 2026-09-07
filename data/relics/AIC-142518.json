@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-142518",
+ "name": "Model of a Bell (Goudiao)",
+ "aliases": [],
+ "dynasty": "秦",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -480,
+  -221
+ ],
+ "category": "瓷器",
+ "material": "Buff stoneware with incised decoration",
+ "dimensions": "23.6 × 12.5 cm (9 5/16 × 4 15/16 in.)",
+ "excavated_from": "",
+ "summary": "Buff stoneware with incised decoration。23.6 × 12.5 cm (9 5/16 × 4 15/16 in.)。Bertha Evans Brown Endowment",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "142518"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/4a0d98b0-9248-8e19-88b2-2477a44eff6e/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bertha Evans Brown Endowment"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/142518",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=142518)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

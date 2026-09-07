@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-23144",
+ "name": "Flask (bianhu)",
+ "aliases": [],
+ "dynasty": "秦",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -475,
+  -221
+ ],
+ "category": "青铜器",
+ "material": "Bronze inlaid with copper",
+ "dimensions": "36.3 × 34 × 11 cm (14 5/16 × 13 3/8 × 4 5/16 in.)",
+ "excavated_from": "",
+ "summary": "Bronze inlaid with copper。36.3 × 34 × 11 cm (14 5/16 × 13 3/8 × 4 5/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>This canteen-shaped container was probably modeled after leather flasks designed to be slung from the shoulder by cords. The bricklike pattern of inlaid copper may allude to this cord wrapping. A stamp carved with a pattern of feather-curls was repeatedly impressed into the clay mold to create this intricate surface decoration.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "23144"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/7210dd54-8b37-b573-1ced-54584116ab8e/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/23144",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=23144)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

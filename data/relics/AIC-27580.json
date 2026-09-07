@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-27580",
+ "name": "Octagonal Box with Birds, Peony Flowers, and Peach Branches",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1522,
+  1566
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze blue",
+ "dimensions": null,
+ "excavated_from": "",
+ "summary": "Porcelain painted in underglaze blue。Purchased with funds provided by Josephine P. Albright in memory of Alice Higgenbothem Patterson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "27580"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/16dd2235-ad5d-20de-1e2b-1ff8ffde97aa/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Purchased with funds provided by Josephine P. Albright in memory of Alice Higgenbothem Patterson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/27580",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=27580)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

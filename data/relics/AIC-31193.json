@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-31193",
+ "name": "Gu-Shaped (Archaic Bronze Vessel) Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1723,
+  1735
+ ],
+ "category": "瓷器",
+ "material": "Porcelain",
+ "dimensions": "26 × 20.1 cm (10 1/4 × 7 15/16 in.); Diam.: 20.1 cm (7 15/16 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain。26 × 20.1 cm (10 1/4 × 7 15/16 in.); Diam.: 20.1 cm (7 15/16 in.)。Gift of Emily Crane Chadbourne",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "31193"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/1318d506-83e7-517c-cdf7-379d47411dde/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Emily Crane Chadbourne"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/31193",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=31193)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

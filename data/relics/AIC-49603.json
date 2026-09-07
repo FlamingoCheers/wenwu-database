@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-49603",
+ "name": "Female Musician",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  906
+ ],
+ "category": "陶器",
+ "material": "Earthenware with polychrome pigments",
+ "dimensions": "20.9 × 13.3 × 13.5 cm (8 1/4 × 5 1/4 × 5 5/16 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with polychrome pigments。20.9 × 13.3 × 13.5 cm (8 1/4 × 5 1/4 × 5 5/16 in.)。Gift of Arthur M. Wood",
+ "history": "<p>Young female musicians who hailed from oasis cities on the Silk Road in Central Asia captivated the Tang court by playing a combination of Chinese and foreign instru-ments. This ensemble features girls playing the cymbals, a vertical flute or oboe, pan-pipes, and an upright angular harp. Two musicians in the back row hold vessel-like instruments that have not been identified.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "49603"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/c05e1377-73ae-dbdb-90f1-556ceae664cb/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Arthur M. Wood"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/49603",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=49603)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

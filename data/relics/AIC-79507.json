@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-79507",
+ "name": "Pillars of the Country",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1423,
+  1495
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink and color on paper",
+ "dimensions": "29.9 × 759.5 cm (11 3/4 × 299 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink and color on paper。29.9 × 759.5 cm (11 3/4 × 299 in.)。Kate S. Buckingham Endowment",
+ "history": "<p>Together with those of a riverscape, rocks, flowers, and branches of cedar and bamboo, the magpie is one of six images painted by Yao Shou along the  length of this handscroll. This work represents a  genre of painting known as “bird-and-fl ower” that  prized realism and refined compositions. Yao’s vision, however, was far more personal if seemingly simpler. He rendered the magpie almost entirely in varied tones of black ink; the branches are accented with darker twigs and dotted leaves; and the bamboo leaves are rendered in freely executed strokes of pale blue.<br />\nYao accompanied the magpie—as he did its companion images—with an original poem written  in his elegant cursive script and signed with his courtesy name, Gongshou:<br>In the bright moonlight, why does the magpie  circle three times before alighting?<br>During sunny days, it sings on the green branches.<br>I also practice divination to find the place where the magpie often roosts.<br>It stays on the rooftop of the old master’s house, and the stars arrive late.<br />\nThe title and artist’s biography combine to add poignancy to this work. Pillars of the Country refers to the vital role of intellectuals in supporting the Ming dynasty’s integrity. Almost thirty years earlier, Yao had retired from a prestigious career in government service to become a painter, calligrapher, collector, and scholar. Now advanced in years, he expressed his cultivated ideals in both the willful spontaneity of his brushwork and the informed allusions in his inscription, adapting each line from that of a celebrated poem from centuries past.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "79507"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/48450f9e-295e-604b-851e-ad66a30712a5/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Kate S. Buckingham Endowment"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/79507",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=79507)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

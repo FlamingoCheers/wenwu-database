@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-42386",
+ "name": "Amphora-Shaped Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1662,
+  1722
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in overglaze enamel",
+ "dimensions": "18.2 × 5.4 cm (7 3/16 × 2 1/8 in.); Diam.: 5.4 cm (2 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain painted in overglaze enamel。18.2 × 5.4 cm (7 3/16 × 2 1/8 in.); Diam.: 5.4 cm (2 1/8 in.)。Bequest of Henry C. Schwab",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "42386"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/c879f937-0a10-9f0d-82d8-4a71a60e3a77/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Henry C. Schwab"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/42386",
+ "license": "CC0",
+ "tags": [
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=42386)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

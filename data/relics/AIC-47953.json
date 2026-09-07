@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-47953",
+ "name": "Curly-Haired Youth",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  700,
+  800
+ ],
+ "category": "陶器",
+ "material": "Earthenware with green lead glaze",
+ "dimensions": "26.7 × 14.7 cm (10 1/2 × 5 13/16 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with green lead glaze。26.7 × 14.7 cm (10 1/2 × 5 13/16 in.)。Gift of Mrs. Arthur Wood",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "47953"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/8e76bc2a-ca35-1c59-6c9b-62d6403554f2/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. Arthur Wood"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/47953",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=47953)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

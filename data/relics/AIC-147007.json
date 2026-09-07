@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-147007",
+ "name": "Winged Beast (Tomb Figure)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -200,
+  -101
+ ],
+ "category": "陶器",
+ "material": "Gray earthenware, slip-coated with polychrome pigments",
+ "dimensions": "22.2 × 43.8 cm (14 7/8 × 27 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Gray earthenware, slip-coated with polychrome pigments。22.2 × 43.8 cm (14 7/8 × 27 1/2 in.)。Gift of Stanley Herzman in memory of Gladys Wolfson Herzman; Avery Brundage, Louise Lutz and Russell Tyson Endowments",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "147007"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/e4dc27a9-ea6c-0a72-def0-507245f1e44c/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Stanley Herzman in memory of Gladys Wolfson Herzman; Avery Brundage, Louise Lutz and Russell Tyson Endowments"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/147007",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=147007)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

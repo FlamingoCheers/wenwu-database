@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-32532",
+ "name": "Camel and Rider",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  701,
+  750
+ ],
+ "category": "陶器",
+ "material": "Earthenware with three-color (sancai) lead glazes",
+ "dimensions": "86.3 × 66 × 25.5 cm (34 × 26 × 10 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with three-color (sancai) lead glazes。86.3 × 66 × 25.5 cm (34 × 26 × 10 in.)。Gift of Bertha Palmer Thorne",
+ "history": "<p>Sculptors of tomb figures keenly observed and then skillfully rendered in clay the caravans of Bactrian camels. These animals were led by grooms who hailed from the Taklamakan Desert located in China’s northwestern border regions. In Tang-dynasty  China,  camels  were  novelties,  considered auspicious because their packs carried valuable goods from the West.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "32532"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/9a0116bf-125f-cbba-0ef0-06ae5a07d481/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Bertha Palmer Thorne"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/32532",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=32532)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

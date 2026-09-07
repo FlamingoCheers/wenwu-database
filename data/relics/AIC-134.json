@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-134",
+ "name": "Lacquer Tea Bowl 乾隆禦制雕漆盞",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "漆器",
+ "material": "Cinnabar and black lacquer with carved decoration",
+ "dimensions": "5.6 × 10.9 cm (2 3/16 × 4 15/16 in.); Diam.: 10.9 cm (4 15/16 in.)",
+ "excavated_from": "",
+ "summary": "Cinnabar and black lacquer with carved decoration。5.6 × 10.9 cm (2 3/16 × 4 15/16 in.); Diam.: 10.9 cm (4 15/16 in.)。Gift of Martin A. Ryerson and C. L. Hutchinson",
+ "history": "<p>This finely carved two-color lacquer tea bowl bears an inscription of a poem composed by Emperor Qianlong in 1746. The poem praises the “three purity tea” (sanqing cha), which consists of plum blossom petals, fingered citron and pine nuts, and must be brewed in melted snow water. According to imperial records, Emperor Qianlong often served sanqing tea during his renowned tea gatherings held in the palace during the New Year season. It was at one of these banquets that he wrote this poem. Although the same poem appears on many tea utensils made for the Emperor, lacquer pieces like this bowl are particularly rare due to the extensive time and effort required for their production.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "134"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/a6b21bf6-aa51-1b2f-6e2e-be09e3e126ba/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Martin A. Ryerson and C. L. Hutchinson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/134",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "茶文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=134)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-53194",
+ "name": "Ladle",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "金银器",
+ "material": "Beaten silver",
+ "dimensions": null,
+ "excavated_from": "",
+ "summary": "Beaten silver。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "53194"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/f92a2bc1-aec5-2659-66c3-8aba0b136cfd/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/53194",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=53194)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

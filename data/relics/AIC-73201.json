@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-73201",
+ "name": "Goblet",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1600,
+  -1050
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "19.7 × 16.5 × 8 cm (7 3/4 × 6 1/2 × 3 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。19.7 × 16.5 × 8 cm (7 3/4 × 6 1/2 × 3 1/4 in.)。Gift of Russell Tyson",
+ "history": "<p>This vessel, with a carefully balanced spout and pointed rim, was probably used to heat and pour wine during ceremonies of ancestor worship. The second character of the inscription, showing four footprints around a square, has been read by scholars as a family name.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "73201"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/22d9ac04-a369-63ca-dca4-761f681519ae/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/73201",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=73201)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

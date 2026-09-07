@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-12013",
+ "name": "Model of a Two-Story Structure",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  25,
+  220
+ ],
+ "category": "陶器",
+ "material": "Brick-red earthenware with green lead glaze",
+ "dimensions": "51.6 × 33.5 × 11.5 cm (20 5/16 × 13 3/16 × 4 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Brick-red earthenware with green lead glaze。51.6 × 33.5 × 11.5 cm (20 5/16 × 13 3/16 × 4 1/2 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>Burial models attest to the prevalence of multistoried buildings in early imperial China. This two-story structure, simply constructed of clay slabs, has a tile roof and an openwork balcony supported by brackets. Such realistic details are modified by imaginative &quot;squatting-bear&quot; feet. This model may depict a granary, or it may have been assembled with other clay structures to form a residential compound.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12013"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/79ed8214-61f0-e6ad-77cb-865bb866a412/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12013",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12013)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-12242",
+ "name": "Jar with Floral Medallions",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  906
+ ],
+ "category": "陶器",
+ "material": "Earthenware with molded decoration and three-color (sancai) lead glazes",
+ "dimensions": "30.5 × 26 cm (12 × 10 1/4 in.); Diam.: 26 cm (10 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with molded decoration and three-color (sancai) lead glazes。30.5 × 26 cm (12 × 10 1/4 in.); Diam.: 26 cm (10 1/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12242"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/910858de-d03e-8002-8d17-f0a8c9f1ea95/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12242",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12242)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

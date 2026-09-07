@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-12741",
+ "name": "Vase with Rectangular Handles",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with pale lavender-blue (tianlan) glaze",
+ "dimensions": "30.1 × 13.4 cm (11 7/8 × 5 1/4 in.); Diam.: 13.4 cm (5 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain with pale lavender-blue (tianlan) glaze。30.1 × 13.4 cm (11 7/8 × 5 1/4 in.); Diam.: 13.4 cm (5 1/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12741"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/a6cbb336-cf86-2454-85e9-23a09f354fe6/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12741",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12741)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

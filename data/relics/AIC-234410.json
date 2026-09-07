@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-234410",
+ "name": "Opium Box",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1816,
+  1826
+ ],
+ "category": "金银器",
+ "material": "Silver",
+ "dimensions": "H.: 3.2 cm (1 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Silver。H.: 3.2 cm (1 1/4 in.)。Gift of Anna Mantel Fishbein",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "234410"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/e2652fec-8074-252b-7e0a-68d3cf002f46/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Anna Mantel Fishbein"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/234410",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=234410)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

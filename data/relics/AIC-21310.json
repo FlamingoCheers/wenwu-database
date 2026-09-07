@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-21310",
+ "name": "Dish with Two Women in a Garden",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in overglaze enamels",
+ "dimensions": "5.3 × 31.9 cm (2 3/16 × 12 9/16 in.); Diam.: 31.9 cm (12 9/16 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain painted in overglaze enamels。5.3 × 31.9 cm (2 3/16 × 12 9/16 in.); Diam.: 31.9 cm (12 9/16 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21310"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/c9569f06-508d-85a6-12dd-7ef8dbf24fec/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21310",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21310)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

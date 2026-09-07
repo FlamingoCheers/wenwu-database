@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-17459",
+ "name": "Dish with Mandarin Ducks in a Lotus Pond",
+ "aliases": [],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1199
+ ],
+ "category": "瓷器",
+ "material": "Ding ware; porcelain with underglaze molded decoration; metal rim",
+ "dimensions": "1.8 × 14.2 cm (11/16 × 5 9/16 in.); Diam.: 14.2 cm (5 9/16 in.)",
+ "excavated_from": "",
+ "summary": "Ding ware; porcelain with underglaze molded decoration; metal rim。1.8 × 14.2 cm (11/16 × 5 9/16 in.); Diam.: 14.2 cm (5 9/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "17459"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/72a043b2-c342-b97b-843c-e631ca482245/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/17459",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=17459)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

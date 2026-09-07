@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-12640",
+ "name": "Bow Support for a Crossbow",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -399,
+  -300
+ ],
+ "category": "青铜器",
+ "material": "Bronze inlaid with strand silver",
+ "dimensions": "19.3 × 8.4 × 3 cm (7 1/2 × 3 1/4 × 1 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Bronze inlaid with strand silver。19.3 × 8.4 × 3 cm (7 1/2 × 3 1/4 × 1 1/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12640"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/743bded4-ce50-264f-b99d-af41cceda46d/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12640",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12640)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

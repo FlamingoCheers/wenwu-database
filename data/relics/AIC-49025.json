@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-49025",
+ "name": "King Yu Moving a Mountain to Control the Floods",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1701,
+  1799
+ ],
+ "category": "织绣",
+ "material": "Handscroll; ink and color on silk",
+ "dimensions": "29 × 373 cm (11 7/16 × 146 7/8 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink and color on silk。29 × 373 cm (11 7/16 × 146 7/8 in.)。Gift of Mrs. Chauncey McCormick",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "49025"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/0752a72c-2810-3730-43bd-90e03bb8608f/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. Chauncey McCormick"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/49025",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=49025)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

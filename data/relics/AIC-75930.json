@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-75930",
+ "name": "Quatrefoil Footed Dish",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  700,
+  750
+ ],
+ "category": "陶器",
+ "material": "Earthenware with cobalt blue and lead amber glazes",
+ "dimensions": "4.8 × 16.3 × 16.8 cm (1 7/8 × 6 7/16 × 6 5/8 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with cobalt blue and lead amber glazes。4.8 × 16.3 × 16.8 cm (1 7/8 × 6 7/16 × 6 5/8 in.)。Gift of Mr. Russell Tyson",
+ "history": "<p>The sharply lobed silhouette of this vessel was likely inspired by luxurious forms in Indian and Near Eastern metalwork. Its outwardly curved cabriole legs are common to several forms of offering trays crafted in Chinese silver and depicted in painting. In Chinese ceramics, however, this foliate form is known only in wares made exclusively for burial.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "75930"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/31c672f1-993a-9292-3bc6-3fd276506fc4/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mr. Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/75930",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=75930)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

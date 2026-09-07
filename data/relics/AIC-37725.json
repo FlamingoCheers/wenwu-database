@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-37725",
+ "name": "Armored Guardian King (Tianwang) Trampling Demon",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  701,
+  750
+ ],
+ "category": "陶器",
+ "material": "Earthenware with three-color (sancai) lead glazes and traces of pigments",
+ "dimensions": "H.: 114.3 cm (45 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with three-color (sancai) lead glazes and traces of pigments。H.: 114.3 cm (45 in.)。Gift of Janis H. Palmer",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "37725"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/f0337a09-4318-2b1b-602e-df43554844e1/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Janis H. Palmer"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/37725",
+ "license": "CC0",
+ "tags": [
+  "战争",
+  "兵器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=37725)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

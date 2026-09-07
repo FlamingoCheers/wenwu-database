@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-37722",
+ "name": "Civil Official (Wenguan)",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  701,
+  800
+ ],
+ "category": "瓷器",
+ "material": "Earthenware with three-color (sancai) lead glazes",
+ "dimensions": "H.: 106.7 cm (42 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with three-color (sancai) lead glazes。H.: 106.7 cm (42 in.)。Gift of Janis H. Palmer",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "37722"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/99d62f46-9451-93be-5ae4-41fa929eb5b5/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Janis H. Palmer"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/37722",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=37722)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

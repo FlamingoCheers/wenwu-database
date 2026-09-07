@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-88724",
+ "name": "Head of a Luohan",
+ "aliases": [],
+ "dynasty": "辽",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1001,
+  1100
+ ],
+ "category": "漆器",
+ "material": "Hollow dry lacquer",
+ "dimensions": "28.6 × 18 × 20 cm (11 1/4 × 7 1/16 × 7 7/8 in.)",
+ "excavated_from": "",
+ "summary": "Hollow dry lacquer。28.6 × 18 × 20 cm (11 1/4 × 7 1/16 × 7 7/8 in.)。Gift of the Orientals",
+ "history": "<p>In traditional Buddhist belief, the <em>luohan</em> is a disciple who has attained enlightenment through intense personal effort. Beginning in the ninth century, the worship of luohan and their depiction in art evolved primarily in the context of the Chan (Zen), or “meditation,” sect of Buddhism. This head was created in the delicate technique of hollow dry lacquer. The artisan first soaked layers of coarse cloth in lacquer (a thick sap tapped from a sumac tree) and applied these to a clay core formed over an armature of wood or other material. After allowing the work to dry, he applied a thick layer of lacquer paste to create the basic shape of the sculpture and a thinner coat into which he carefully modeled the eyes, high cheekbones, and other facial features. After removing the core and supporting armature, he set colored beads behind the eyes to represent irises and pupils. Finally, he painted the surface and perhaps applied gilding. Although these surface finishes have disintegrated over the centuries, the sensitively executed facial features preserve the insightful expression of the luohan.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "88724"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/214ac436-6535-8de0-b77d-c2e5406df956/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of the Orientals"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/88724",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=88724)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-32538",
+ "name": "Grain Vessel (Gui)",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1100,
+  -1000
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "17.5 × 23 cm (6 3/4 × 9 1/8 in.); Diam.: 23.2 cm (9 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。17.5 × 23 cm (6 3/4 × 9 1/8 in.); Diam.: 23.2 cm (9 1/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>A monster mask (<em>taotie</em>) spreads boldly across this vessel, conforming to its bulging contour. While showing some stylistic features of slightly earlier manufacture, this vessel's heavy handles and the spiny dragons beneath the mouth rim are characteristic of bronzes of the early Western Zhou dynasty (c. 1050-771 B.C.).</p>\n<p>The cruciform emblem enclosing the top character of the inscription is read <em>ya</em>. This emblem is thought to bear some relation to family names, although its exact meaning remains problematic.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "32538"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/0fdc02fa-f564-d645-c9f8-41e587b74cd7/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/32538",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=32538)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-65922",
+ "name": "Ewer with Abstract Swirls and Radiating Strokes",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  800,
+  899
+ ],
+ "category": "瓷器",
+ "material": "Tongguan (Changsha) ware; stoneware with underglaze painting in copper green",
+ "dimensions": "H.: 22.9 cm (9 in.)",
+ "excavated_from": "",
+ "summary": "Tongguan (Changsha) ware; stoneware with underglaze painting in copper green。H.: 22.9 cm (9 in.)。Gift of Dr. K. C. Kim",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "65922"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/aba329b4-a939-606e-8847-99388c54d79b/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Dr. K. C. Kim"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/65922",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=65922)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

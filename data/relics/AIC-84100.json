@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-84100",
+ "name": "Flowering Lotus",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink and color on paper",
+ "dimensions": "29.9 × 231.7 cm (11 13/16 × 91 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink and color on paper。29.9 × 231.7 cm (11 13/16 × 91 1/4 in.)。Wirt D. Walker Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "84100"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/ca6d2ad1-d0da-68f3-b37a-a31b389102ea/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Wirt D. Walker Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/84100",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=84100)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

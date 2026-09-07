@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-21524",
+ "name": "Ovoid Ewer",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "瓷器",
+ "material": "Ding ware; glazed porcelain",
+ "dimensions": "10.8 × 10.9 cm (4 1/4 × 4 5/16 in.); Diam.: 10.9 cm (4 5/16 in.)",
+ "excavated_from": "",
+ "summary": "Ding ware; glazed porcelain。10.8 × 10.9 cm (4 1/4 × 4 5/16 in.); Diam.: 10.9 cm (4 5/16 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21524"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/86522c59-66b0-5959-0f84-4f675dabfb83/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21524",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21524)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

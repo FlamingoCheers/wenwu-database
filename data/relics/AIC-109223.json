@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-109223",
+ "name": "Beaker",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1600,
+  -1050
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "31.2 × 17.5 cm (12 1/4 × 6 7/8 in.); Diam.: 17.5 cm (6 7/8 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。31.2 × 17.5 cm (12 1/4 × 6 7/8 in.); Diam.: 17.5 cm (6 7/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>This elegantly dignified vessel displays the taut, slender profile and crisply cast surface decoration that distinguishes the finest bronzes made for late Shang royalty. Long tapered blades above a band of serpents encircle the wide, trumpet-mouthed neck. Monster masks (<em>taotie</em>) with angular horns surround the middle section. All motifs are organized in clearly defined quadrants, which are divided by striated flanges and reserved against a background of finely squared spirals.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "109223"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/d8ef66d8-da81-a2de-1837-309a5395530e/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/109223",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=109223)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-12054",
+ "name": "Storage Jar (Hu) with Hunting Scenes",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  25,
+  220
+ ],
+ "category": "陶器",
+ "material": "Earthenware with underglaze molded decoration and green lead glaze",
+ "dimensions": "37.6 × 29.5 cm (14 13/16 × 11 5/8 in.); Diam.: 29.5 cm (11 5/8 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with underglaze molded decoration and green lead glaze。37.6 × 29.5 cm (14 13/16 × 11 5/8 in.); Diam.: 29.5 cm (11 5/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12054"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/79be597e-6547-41c4-ba30-02c25c38ff88/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12054",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12054)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

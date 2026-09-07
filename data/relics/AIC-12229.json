@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-12229",
+ "name": "Dragon-Handled Amphora 三彩双龙耳瓶",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "陶器",
+ "material": "Earthenware with three-color (sancai) lead glazes 三彩铅釉陶器",
+ "dimensions": "H. 38.7 cm (15.2 in.) diam. 17.5 cm (6.9 in.) 高 38.7 厘米 （15.2 英寸），直径 17.5 cm （6.9 英寸）",
+ "excavated_from": "",
+ "summary": "Earthenware with three-color (sancai) lead glazes 三彩铅釉陶器。H. 38.7 cm (15.2 in.) diam. 17.5 cm (6.9 in.) 高 38.7 厘米 （15.2 英寸），直径 17.5 cm （6.9 英寸）。Lucy Maud Buckingham Collection",
+ "history": "<p>Many scholars suggest that this distinctive Tang form may have been inspired by earlier, Hellenistic ceramic and glass vessels deriving from the Greek amphora. If so, Chinese artisans thoroughly transformed that ancient shape: They created a high-shouldered silhouette with a slender neck, which is gracefully framed by curved handles, whose dragon heads bite the cupped mouth-rim in their open jaws.</p>\n<p>This vessel displays a fluid  &quot;three-color&quot; glaze, named after the archetypical combination of bright green, amber, and white (transparent) lead-rich glazes colored with carefully measured recipes of metallic oxides.  The green derives from copper and the amber from iron.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12229"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/7f0b217b-a6c0-06ea-cf95-db619df3760a/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12229",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12229)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

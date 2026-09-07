@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-146282",
+ "name": "Two Scholar-Musicians in a Landscape",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1401,
+  1500
+ ],
+ "category": "织绣",
+ "material": "Hanging scroll; ink and color on silk",
+ "dimensions": "173.5 × 105.5 cm (68 5/16 × 41 9/16 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink and color on silk。173.5 × 105.5 cm (68 5/16 × 41 9/16 in.)。Purchased with funds provided by Dr. Edmund Lewis",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "146282"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/4fe8c931-0695-92f5-f974-b93ddb1ea02f/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Purchased with funds provided by Dr. Edmund Lewis"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/146282",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=146282)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

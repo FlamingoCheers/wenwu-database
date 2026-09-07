@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-11703",
+ "name": "Enlightened Protector Mahakala with Six Arms (Shadbhuja)",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1701,
+  1900
+ ],
+ "category": "青铜器",
+ "material": "Gilt copper alloy with traces of orange pigment",
+ "dimensions": "12.8 × 10 × 5 cm (5 × 3 7/8 × 2 in.)",
+ "excavated_from": "",
+ "summary": "Gilt copper alloy with traces of orange pigment。12.8 × 10 × 5 cm (5 × 3 7/8 × 2 in.)。Samuel M. Nickerson Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "11703"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/f1a42a6e-ac69-a3f8-6a6b-8b118d540778/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Samuel M. Nickerson Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/11703",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=11703)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-80887",
+ "name": "Dish with Dragons, Flaming Pearls, and Cloud Scrolls",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1522,
+  1566
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze blue",
+ "dimensions": "7.2 × 32.2 cm (2 13/16 × 12 1/16 in.); Diam.: 32.2 cm (12 1/16 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain painted in underglaze blue。7.2 × 32.2 cm (2 13/16 × 12 1/16 in.); Diam.: 32.2 cm (12 1/16 in.)。Gift of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "80887"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/a1fbc032-c45f-7fdf-4cea-da1be4c647d4/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/80887",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=80887)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

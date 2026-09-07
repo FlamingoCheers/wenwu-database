@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-43169",
+ "name": "Landscape 山水扇面",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "金银器",
+ "material": "Folding fan mounted as an album leaf; ink on gold paper",
+ "dimensions": "Upper: W.: 52.1 cm (20 1/2 in.); Lower: W.: 24.2 cm (9 1/2 in.); Rib: H.: 16.4 cm (6 7/16 in.)",
+ "excavated_from": "",
+ "summary": "Folding fan mounted as an album leaf; ink on gold paper。Upper: W.: 52.1 cm (20 1/2 in.); Lower: W.: 24.2 cm (9 1/2 in.); Rib: H.: 16.4 cm (6 7/16 in.)。Mr. and Mrs. Samuel M. Nickerson Endowment Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "43169"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/7e8cd885-32c2-2721-0440-71064338a36e/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Mr. and Mrs. Samuel M. Nickerson Endowment Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/43169",
+ "license": "CC0",
+ "tags": [
+  "玺印封泥",
+  "文字书写",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=43169)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

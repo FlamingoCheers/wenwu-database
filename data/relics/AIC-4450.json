@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-4450",
+ "name": "Bodhisattva",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  725,
+  750
+ ],
+ "category": "宗教造像",
+ "material": "Limestone with traces of polychromy",
+ "dimensions": "157.5 × 78.1 cm (62 × 30 3/4 in.); Diam.: 78.1 cm (30 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Limestone with traces of polychromy。157.5 × 78.1 cm (62 × 30 3/4 in.); Diam.: 78.1 cm (30 3/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "4450"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/729ce6f0-3686-d018-8c5b-4a2ed7379324/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/4450",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=4450)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

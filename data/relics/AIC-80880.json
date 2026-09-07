@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-80880",
+ "name": "Jar with Cover",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  700,
+  750
+ ],
+ "category": "瓷器",
+ "material": "Earthenware with blue lead glaze",
+ "dimensions": "21.1 × 23.4 cm (8 5/16 × 9 3/16 in.); Diam.: 23.4 cm (9 3/16 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with blue lead glaze。21.1 × 23.4 cm (8 5/16 × 9 3/16 in.); Diam.: 23.4 cm (9 3/16 in.)。Gift of Russell Tyson",
+ "history": "<p>In China, the use of finely ground cobalt blue ore as a colorant for lead glaze originated in the Tang dynasty. Perhaps intending to emulate vibrant blue glass imported from the Middle East, Chinese potters applied this glaze to off-white earthenwares and low-fired stonewares that were intended primarily for burial. The source of Tang cobalt has been subject to ongoing debate. For many years, most scholars assumed that Chinese potters imported cobalt ore from the Middle East. Recent analyses of Tang blue glazes, however, show these to be chemically distinct from those of Middle Eastern ceramics and may indicate a domestic Chinese source for this colorant.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "80880"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/7637d2e5-1996-1b35-befb-4776eb0dab8e/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/80880",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=80880)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-25230",
+ "name": "Ewer",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1605,
+  1615
+ ],
+ "category": "瓷器",
+ "material": "Hard-paste porcelain and silver",
+ "dimensions": "28 × 24.8 × 16.6 cm (11 × 9 3/4 × 6 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Hard-paste porcelain and silver。28 × 24.8 × 16.6 cm (11 × 9 3/4 × 6 1/2 in.)。Gift of Mr. and Mrs. Medard W. Welch",
+ "history": "<p>This splendid ewer is an outstanding example of cross-cultural inspiration. Made of Chinese blue and white porcelain, it was originally a type of drinking vessel called a kendi. Such vessels took a variety a variety of forms throughout Asia: in this case, the rounded shapes indicate it was made for export to Indonesia, where kendis were associated with fertility. The Indonesian form is combined with Chinese decorative motifs like flowering plum branches and fruit clusters.</p>\n<p>This kendi was then shipped to the Near East, possibly to Persia (modern day Iran), where such vessels were often adapted for use as water pipes. By the early 1600s, it had made its way to England, most likely imported by one of the East India trading companies. Additions to the piece testify to the artistry of English silversmiths: an eagle-headed spout was added to the bulbous mouth of the porcelain jug and connected by a set of hinged straps to the waist and base of the vessel. A scroll handle links the waist to the lidded cover. These additions transformed the piece into a wine ewer, allowing a prosperous Englishman to add an exquisite exotic touch to his collection of gold and silver plate.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "25230"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/f5224389-6f34-f076-cf98-af3125434ddc/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mr. and Mrs. Medard W. Welch"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/25230",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=25230)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

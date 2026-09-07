@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-12123",
+ "name": "Tripod Cylindrical Jar (Lian or Zun) with Equestrians and Creatures, Bear-Shaped Feet",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  25,
+  220
+ ],
+ "category": "陶器",
+ "material": "Earthenware with lead green glaze",
+ "dimensions": "Diam.: 19.7 cm (7 3/4 in.); With lid: H.: 18.7 cm (7 3/8 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with lead green glaze。Diam.: 19.7 cm (7 3/4 in.); With lid: H.: 18.7 cm (7 3/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12123"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/6219aab6-c16c-b8b2-9416-94688e827f64/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12123",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12123)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

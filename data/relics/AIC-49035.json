@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-49035",
+ "name": "The Four Accomplishments",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1801,
+  1899
+ ],
+ "category": "织绣",
+ "material": "Handscroll; ink and color on silk",
+ "dimensions": "35.8 × 392.6 cm (14 1/8 × 154 5/8 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink and color on silk。35.8 × 392.6 cm (14 1/8 × 154 5/8 in.)。Gift of Mrs. Chauncey McCormick",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "49035"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/abcc78e3-6f0c-6e08-5028-b72ad77ff8e7/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. Chauncey McCormick"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/49035",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=49035)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

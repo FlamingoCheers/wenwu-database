@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-35384",
+ "name": "Phoenix-Headed Ewer",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  701,
+  750
+ ],
+ "category": "陶器",
+ "material": "Earthenware with molded decoration and three-color (sancai) lead glazes",
+ "dimensions": "32.2 × 13 cm (12 3/4 × 5 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with molded decoration and three-color (sancai) lead glazes。32.2 × 13 cm (12 3/4 × 5 1/8 in.)。Gift of Pauline Palmer Wood",
+ "history": "<p>The pearl-shaped body, cartouche-like medallions, and leafy details on the handle of this vessel were all inspired by silverware from the ancient Persian (Iranian) city-state of Sogdiana. Sogdiana was an important stop along the Silk Road, a network of trade routes that connected China to Europe and Africa through Central Asia. Crowned by the head of a phoenix, this ewer’s flattened form was molded in two halves and then joined along vertical seams. When it was fired, lead glazes flowed freely over the relief decoration of a perched or dancing phoenix framed by floral scrolls. The opposite side depicts an archer mounted on a horse.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "35384"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/4c00e0b4-cbe4-6e35-aa25-d81b20e59738/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Pauline Palmer Wood"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/35384",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "祥瑞纹样"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=35384)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

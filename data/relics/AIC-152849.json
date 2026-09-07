@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-152849",
+ "name": "Krishna Yamari",
+ "aliases": [],
+ "dynasty": "西夏",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1200
+ ],
+ "category": "杂器",
+ "material": "Cast iron",
+ "dimensions": "29.5 × 24.5 × 12.5 cm (11 5/8 × 9 5/8 × 4 7/8 in.)",
+ "excavated_from": "",
+ "summary": "Cast iron。29.5 × 24.5 × 12.5 cm (11 5/8 × 9 5/8 × 4 7/8 in.)。Kate S. Buckingham Endowment",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "152849"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/48dbb1fa-030b-1800-0176-82c5c74307e5/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Kate S. Buckingham Endowment"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/152849",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=152849)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-32631",
+ "name": "Mountain-Shaped Incense Burner",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -99,
+  99
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "21.3 × 19.4 cm (8 3/8 × 7 1/8 in.); Diam.: 19.4 cm (7 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。21.3 × 19.4 cm (8 3/8 × 7 1/8 in.); Diam.: 19.4 cm (7 1/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>During the Han dynasty, fantastical beliefs in immortality and exotic lands inspired the earliest three-dimensional landscapes.  The conical lid of this incense burner, shaped like towering peaks, is associated with the mountainous Isles of the Blessed.  These islands were described as the realm of immortal beings (xian) in the myth, superstition, and magic widespread in Han Dynasty Religion.  Fragrant smoke wafting through holes in the lid of this incense burner would evoke such a mist-shrouded utopia.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "32631"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/6276c0e8-e91a-c21b-ea8d-aa75b12a5c7a/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/32631",
+ "license": "CC0",
+ "tags": [
+  "香文化",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=32631)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

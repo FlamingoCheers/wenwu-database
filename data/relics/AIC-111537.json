@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-111537",
+ "name": "Teapot Shaped like a Bamboo Hat",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1800,
+  1849
+ ],
+ "category": "瓷器",
+ "material": "Yixing stoneware",
+ "dimensions": "6.4 × 15.3 cm (2 1/2 × 6 in.); Diam.: 15.3 cm (6 in.)",
+ "excavated_from": "",
+ "summary": "Yixing stoneware。6.4 × 15.3 cm (2 1/2 × 6 in.); Diam.: 15.3 cm (6 in.)。Gift of Mr. Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "111537"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/3a926260-79d0-51f4-29bd-44b18c219785/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mr. Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/111537",
+ "license": "CC0",
+ "tags": [
+  "茶文化",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=111537)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

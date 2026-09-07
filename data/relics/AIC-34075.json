@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-34075",
+ "name": "Jar (hu or zhong)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -206,
+  9
+ ],
+ "category": "青铜器",
+ "material": "Bronze with gilding",
+ "dimensions": "46 × 36 cm (18 1/8 × 14 13/16 in.); Diam.: 37.7 cm (14 13/16 in.)",
+ "excavated_from": "",
+ "summary": "Bronze with gilding。46 × 36 cm (18 1/8 × 14 13/16 in.); Diam.: 37.7 cm (14 13/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>The dragon became prominent during the Han as an auspicious creature associated with imperial authority and with the ever-changing nature of the universe. Since the dragon was endowed with the same dynamic energy that animated clouds and vapors, it was graphically combined with expanding and contracting patterns of great imagination and vitality. Here, dragons with interlaced trunks merge with scrolling &quot;cloud&quot; patterns to create continuous bands of ornament. This fluent decor was incised into the bronze after casting. Filings of gold and silver were then liquefied in separate baths of hot mercury and these butter-like solutions brushed onto the bronze; the vessel was reheated to vaporize the mercury and then burnished, leaving a thin but brilliant two-toned surface. This technique, variously known as amalgam-, mercury-, or fire-gilding, created a splendid object with economic expenditure of precious metals.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "34075"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/6a241a10-3e19-fe53-f76b-ac40374f0196/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/34075",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=34075)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

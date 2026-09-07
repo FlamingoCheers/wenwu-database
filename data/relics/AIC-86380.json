@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-86380",
+ "name": "Buddha",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "宗教造像",
+ "material": "Limestone with traces of polychromy",
+ "dimensions": "219.7 × 111 cm (86 1/2 × 43 3/4 in.); Diam.: 111 cm (43 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Limestone with traces of polychromy。219.7 × 111 cm (86 1/2 × 43 3/4 in.); Diam.: 111 cm (43 3/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>Following its introduction from India centuries earlier, Buddhism flourished in China under the powerfully cosmopolitan Tang dynasty. Characteristic of Tang style in its robust, tapered physique, this monumental figure exhibits iconographic features distinctive to the Buddha: tightly curled hair covering a cranial mound symbolizes his enlightenment; and a forehead depression that originally held a stone or jewel represents wisdom. The articulated folds of the deity's flowing robe integrate Indian sensuality with a distinctly Tang blend of realism and linear elegance. Capping the deity's right shoulder, this garment discreetly modifies a fully bare-chested style described in Indian monastic texts.</p>\n<p>The stepped pedestal rises from a base encircled by lotus petals pure white flowers that rise from muddy water and thereby evoke Buddhist beliefs in purity and the search for enlightenment. Above, musicians encircling the tapered stem evoke an ideal, celestial realm.</p>\n<p>Together with two attendant bodhisattvas in the Art Institute collection (1930.84 and 1930.85), this sculpture came to the museum in 1930 with a note of its discovery in a temple known as Cangfosi in northern Hebei province. Neither archaeological nor written records have been located to confirm this reported site. The scale and stone medium of these figures suggest that they were commissioned for a cave temple or shrine—a chamber carved into the face of a mountain or cliff.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "86380"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/598c063a-8071-e4d5-675e-111961495738/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/86380",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=86380)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

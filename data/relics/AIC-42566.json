@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-42566",
+ "name": "Pair of Cups",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1723,
+  1735
+ ],
+ "category": "瓷器",
+ "material": "Porcelain painted in underglaze blue and overglaze enamels (doucai)",
+ "dimensions": "A: h. 5.7 cm (2 1/4 in.) diam. 10.2 cm (4 in.) B: h.5.7 cm (2 1/4 in.) diam.10.0 cm (3 15/16 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain painted in underglaze blue and overglaze enamels (doucai)。A: h. 5.7 cm (2 1/4 in.) diam. 10.2 cm (4 in.) B: h.5.7 cm (2 1/4 in.) diam.10.0 cm (3 15/16 in.)。Bequest of Henry C. Schwab",
+ "history": "<p>The emperors of China’s last dynasty, the Qing, were enamored of exquisitely decorative objects and recruited remarkable craftsmen to serve their court. During his brief reign, the Yongzheng emperor, himself an artist and astute connoisseur, took a personal role in overseeing the imperial kilns. In their elegance and technical sophistication, these extraordinarily thin cups exemplify his exacting standards. Their floral medallions were delicately outlined in pale cobalt blue and, after glazing and firing, filled with soft, translucent enamels. So perfectly do these enamels fill the outlines that this technique is known as <em>doucai</em> (joined or dovetailed colors). Although quite different from the naturalistic floral motifs that characterize many Qing imperial porcelains, these medallions are also seen in rare examples of exquisite Yongzheng ware in the Palace Museum in Beijing. Their style may reflect the influence of Japanese lacquers, which were imported into China in the sixteenth and seventeenth centuries and subsequently inspired creative copies by Chinese palace craftsmen. The Yongzheng emperor was renowned for having encouraged innovative and sometimes foreign-inspired design in ceramics as well as other decorative arts.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "42566"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/568b87d2-25f6-c63b-e8c3-6920bf1b75be/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Henry C. Schwab"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/42566",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=42566)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

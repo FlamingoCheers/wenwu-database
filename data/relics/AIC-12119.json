@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-12119",
+ "name": "Wellhead with Dragon Heads",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  25,
+  220
+ ],
+ "category": "瓷器",
+ "material": "Earthenware with green lead glaze",
+ "dimensions": "27.8 × 21.6 × 17.5 cm (11 × 8 9/16 × 6 15/16 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with green lead glaze。27.8 × 21.6 × 17.5 cm (11 × 8 9/16 × 6 15/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12119"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/6c263ec8-238a-4480-5aca-86bb8aac8f54/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12119",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12119)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

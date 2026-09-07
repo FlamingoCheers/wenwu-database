@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-120578",
+ "name": "Tripod Food Container (Li)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1500,
+  -1400
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "19.8 × 12.8 cm (7 13/16 × 5 1/16 in.); Diam.: 12.8 cm (5 1/16 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。19.8 × 12.8 cm (7 13/16 × 5 1/16 in.); Diam.: 12.8 cm (5 1/16 in.)。Gift of T.T. Tsui",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "120578"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/dc3abfd6-756d-f928-8327-05e6e085d42c/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of T.T. Tsui"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/120578",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=120578)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

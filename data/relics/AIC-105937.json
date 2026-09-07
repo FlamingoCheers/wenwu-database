@@ -1,0 +1,45 @@
+{
+ "relic_id": "AIC-105937",
+ "name": "Immortals Riding Dragons: Sections of a Tomb Pediment",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -206,
+  220
+ ],
+ "category": "瓷器",
+ "material": "Gray earthenware with traces of slip and polychrome pigments",
+ "dimensions": null,
+ "excavated_from": "",
+ "summary": "Gray earthenware with traces of slip and polychrome pigments。Gift of Mrs. Gordon Palmer",
+ "history": "<p>These triangular sculptures originally fit under the pitched roof of a burial chamber constructed of clay bricks.  The position of similar panels discovered intact suggests that they originally formed two ends of a pediment that divided a chamber in half.</p>\n<p>The panels are carved and painted to depict winged figures mounted on dragons striding over hills or waves.  In Han mythology, such beings are described as immortals (xian).  Having achieved eternal life, these immortals were endowed with the power to fly and roamed freely about the universe. The depiction of these remarkable beings in tombs reflects a widespread belief that the soul of the deceased could leave its earth-bound existence, ascend to heaven,  and become an immortal.  The ascent of the soul to the realm of the immortals is a major theme in Han art.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "105937"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/0bbdb4ab-e09b-2961-4d25-c5f774597620/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. Gordon Palmer"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/105937",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教",
+  "丧葬",
+  "明器",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=105937)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

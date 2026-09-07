@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-86420",
+ "name": "Mask",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -899,
+  -800
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "26.4 × 32.2 × 0.3 cm (10 1/2 × 12 7/8 × 3/32 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。26.4 × 32.2 × 0.3 cm (10 1/2 × 12 7/8 × 3/32 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>The function of this mask is not certain. It may have served as a bridle plaque for a horse, an ornament for a chariot, or, sewn onto leather, as chest armor for a soldier.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "86420"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/e5093c5e-7a10-87e7-12f9-3483c4bb046e/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/86420",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=86420)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

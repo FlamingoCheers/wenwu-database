@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-33964",
+ "name": "Bodhisattva in \"Thrice Bent\" Pose (Tribhanga)",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  600,
+  650
+ ],
+ "category": "青铜器",
+ "material": "Gilt copper alloy",
+ "dimensions": null,
+ "excavated_from": "",
+ "summary": "Gilt copper alloy。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "33964"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/613b6b64-7551-fd7c-4ae1-289411a086fd/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/33964",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=33964)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

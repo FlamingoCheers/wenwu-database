@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-24090",
+ "name": "Pole Top with Ibex (one of pair)",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -599,
+  -400
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "17.7 × 9.5 cm (7 × 3 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。17.7 × 9.5 cm (7 × 3 3/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "24090"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/b10a8ae9-6245-5120-3c32-e0c9c44e4cca/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/24090",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=24090)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

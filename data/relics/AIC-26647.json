@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-26647",
+ "name": "Wine Container",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1600,
+  -1050
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "45 × 24.8 cm (17 3/4 × 9 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。45 × 24.8 cm (17 3/4 × 9 3/4 in.)。Lucy Maud Buckingham Collection",
+ "history": "<p>The bronze vessels produced with sophisticated casting techniques and intricate designs by Chinese artisans of the late Shang dynasty (c. 1700-c. 1050 B.C.) are achievements unrivaled by any other Bronze Age culture. For the ruling elite of ancient China, prestigious objects made of bronze signified supreme political power as well as devout spiritual beliefs and exalted social status. Foremost among these bronzes are vessels that were made for the preparation and offering of food, wine, and water in ceremonial banquets conducted to seek and repay divine ancestral goodwill.  Ancient Chinese wine was fermented from grain rather than fruit and, like beer, is best described as a type of millet ale.<br>This square-shouldered jar for wine storage is animated by a menagerie of imaginary creatures that have been intricately cast onto the surface in several levels of relief. The most prominent of these is a horned ogre mask (later known as a <em>taotie</em>), whose significance remains one of the great enigmas of early Chinese art. Here the <em>taotie</em>, inverted across the roof-like lid, recurs along the body within pendant triangular blades, each of which also contains a wide-eyed cicada at its tip.  The cicada is found often on Chinese bronzes, perhaps because its extraordinarily long life cycle carried associations of regeneration.  Confronted pairs of jaunty, stylized birds encircle the neck of the vessel, with similarly disposed dragons—each with down-curved head plume and up-curved tail around the widest part of the body.  Birds and dragons are separated by a shoulder band of whorl circles, nose-diving dragons, and four fully sculpted bovine heads, two purely decorative and two surmounting lug handles.  Two more such handles were cast on below to facilitate lifting.  Compact, sharply cast spirals covering both the relief-cast <em>taotie</em>, dragons, and birds, and their receding background impart a shimmering effect to the surface, now covered with thin layers of cuprite red, malachite green, and azurite blue patina.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "26647"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/79b62d90-fa78-2c7f-b4a5-da75de63795a/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/26647",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=26647)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

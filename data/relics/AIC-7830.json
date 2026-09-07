@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-7830",
+ "name": "Punch Bowl",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1769,
+  1769
+ ],
+ "category": "瓷器",
+ "material": "Hard-paste porcelain, glaze, with enamels in colors, and gilding",
+ "dimensions": "11.1 × 26.4 cm (4 3/8 × 10 3/8 in.)",
+ "excavated_from": "",
+ "summary": "Hard-paste porcelain, glaze, with enamels in colors, and gilding。11.1 × 26.4 cm (4 3/8 × 10 3/8 in.)。Bequest of Frederick S. Colburn",
+ "history": "<p>This bowl displays portraits copied from a broadside printed in London in June 1768. The portraits depict the Englishmen John Wilkes (left), an outspoken advocate of political reform and American liberty, and Lord Mansfield (right), who tried to silence Wilkes with charges of libel. Satirical coats of arms surround their portraits. Wilkes is flanked by his close associates and defenders, while Lord Mansfield appears with George III and the devil by his side. American colonists viewed Wilkes as an avatar of liberty and free speech.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "7830"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/9eddc23c-5929-24ab-e941-800429213a35/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Frederick S. Colburn"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/7830",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=7830)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

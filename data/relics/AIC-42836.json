@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-42836",
+ "name": "Baluster-Shaped Vase with Peony Flowers",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1899
+ ],
+ "category": "瓷器",
+ "material": "Celadon-glazed porcelain with underglaze molded decoration",
+ "dimensions": "16 × 8.3 cm (6 5/16 × 3 1/4 in.); Diam.: 8.3 cm (3 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Celadon-glazed porcelain with underglaze molded decoration。16 × 8.3 cm (6 5/16 × 3 1/4 in.); Diam.: 8.3 cm (3 1/4 in.)。Bequest of Henry C. Schwab",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "42836"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/cbc958b7-e527-99f9-999e-53d11e736e38/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Henry C. Schwab"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/42836",
+ "license": "CC0",
+ "tags": [
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=42836)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

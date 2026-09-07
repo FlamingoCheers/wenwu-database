@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-12497",
+ "name": "Cundi Bodhisattva",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1799
+ ],
+ "category": "瓷器",
+ "material": "Dehua ware (blanc de chine); porcelain",
+ "dimensions": "37.2 × 21.5 × 13.1 cm (14 5/8 × 8 7/16 × 5 3/16 in.)",
+ "excavated_from": "",
+ "summary": "Dehua ware (blanc de chine); porcelain。37.2 × 21.5 × 13.1 cm (14 5/8 × 8 7/16 × 5 3/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12497"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/ed17aa97-7147-e4c3-c508-d9b3d1bdcae8/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12497",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12497)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

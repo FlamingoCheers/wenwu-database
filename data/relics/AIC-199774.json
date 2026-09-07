@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-199774",
+ "name": "Brush Holder",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1799,
+  1850
+ ],
+ "category": "杂器",
+ "material": "Wood (huanghuali)",
+ "dimensions": "13.1 × 12.3 cm (5 1/8 × 4 13/16 in.); Diam.: 12.3 cm (4 13/16 in.)",
+ "excavated_from": "",
+ "summary": "Wood (huanghuali)。13.1 × 12.3 cm (5 1/8 × 4 13/16 in.); Diam.: 12.3 cm (4 13/16 in.)。Purchased with funds provided by the Asian Art Council of The Art Institute of Chicago, Betsy Nathan, Mr. and Mrs. James E. Breece III and Mr. and Mrs. Bruce Dunn",
+ "history": "<p>For the educated elite of Late Imperial China, stationery objects were not only essential utensils for writing and painting, but also emblems of cultural identity. While members of the imperial court and the newly affluent favored works of lavish materials and overtly decorative styles, true men of letters cherished items with subtle sophistication. This small cylindrical brush pot, crafted from dark huanghuali wood, epitomizes such literati aesthetic with its spare and simply incised imagery. The motif of plum blossom carried special meaning for Chinese artists and writers, symbolizing resilience, renewal, and fortitude as the first flower to bloom in late winter's bleak landscape. These sentiments are expressed in two anonymous poems, which are engraved on opposite sides of the brushpot.</p>\n<p>The signature and seal on the pot identify the craftsman as Ma Guozhen, a renowned bamboo carver from Jiading, a city situated between Shanghai and Yangzhou. During Ma’s lifetime, Yangzhou was the center of an innovative group of painters known as the “Yangzhou Eccentrics,” many of whom specialized in painting ink plums. In their spare, expressively acerbic imagery, the angular branches and loop-like blossoms of this brushpot closely mirror the distinctive pictorial style of one of the most renowned Eccentrics, Li Fangying (1695-1754).</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "199774"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/b240a4d6-4ae2-70fb-3127-bbc9269c6909/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Purchased with funds provided by the Asian Art Council of The Art Institute of Chicago, Betsy Nathan, Mr. and Mrs. James E. Breece III and Mr. and Mrs. Bruce Dunn"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/199774",
+ "license": "CC0",
+ "tags": [
+  "文房",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=199774)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

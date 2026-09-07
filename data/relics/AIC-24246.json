@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-24246",
+ "name": "Single Shoe",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1855,
+  1875
+ ],
+ "category": "金银器",
+ "material": "Blue and red sateen, gilt trim",
+ "dimensions": "13.8 × 11.4 × 4.3 cm (5 1/2 × 4 1/2 × 1 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Blue and red sateen, gilt trim。13.8 × 11.4 × 4.3 cm (5 1/2 × 4 1/2 × 1 3/4 in.)。Bequest of Frank S. Brewer Estate",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "24246"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/60141616-dd90-8970-f00a-258d1f3e178c/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Frank S. Brewer Estate"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/24246",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=24246)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

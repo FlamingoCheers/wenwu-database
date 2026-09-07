@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-7824",
+ "name": "Tea Bowl and Saucer",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1790,
+  1800
+ ],
+ "category": "瓷器",
+ "material": "Hard-paste porcelain with enamels and gilding",
+ "dimensions": "Bowl: 4.8 × 8.9 cm (1 7/8 × 3 1/2 in.); Saucer: 2.9 × 14 cm (1 1/8 × 5 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Hard-paste porcelain with enamels and gilding。Bowl: 4.8 × 8.9 cm (1 7/8 × 3 1/2 in.); Saucer: 2.9 × 14 cm (1 1/8 × 5 1/2 in.)。Bequest of Frederick S. Colburn",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "7824"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/392e11ed-2602-cdcf-57ea-a3c717ab81f4/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Frederick S. Colburn"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/7824",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "茶文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=7824)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

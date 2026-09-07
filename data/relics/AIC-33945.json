@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-33945",
+ "name": "Jar",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  701,
+  750
+ ],
+ "category": "陶器",
+ "material": "Earthenware with three-color (sancai) lead glazes",
+ "dimensions": "14.2 × 17.4 cm (5 9/16 × 6 7/8 in.); Diam.: 17.4 cm (6 7/8 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with three-color (sancai) lead glazes。14.2 × 17.4 cm (5 9/16 × 6 7/8 in.); Diam.: 17.4 cm (6 7/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "33945"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/fb8a91b1-0bbb-f00a-02ab-5c58e8b9b480/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/33945",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=33945)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

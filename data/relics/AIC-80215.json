@@ -1,0 +1,44 @@
+{
+ "relic_id": "AIC-80215",
+ "name": "Flowers and Insects",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1662,
+  1722
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink and color on paper",
+ "dimensions": "27.9 × 430.6 cm (169 1/2 × 10 15/16 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink and color on paper。27.9 × 430.6 cm (169 1/2 × 10 15/16 in.)。Samuel M. Nickerson Fund",
+ "history": "<p>This sensitively idyllic glimpse of nature is the collaborative work of two sisters, who resided in east coastal Hangzhou. The city’s mild climate and beautiful scenery attracted generations of intellectual elite. Fostered by that cultural ambience, both sisters became renowned as poets and painters, but their painting styles were quite distinct. Whereas Chai Jingyi specialized in semi-abstract images of nature that affirmed ideals of self-expression, Chai Zhengyi was most renowned for closely observant studies such as this. Depicted together with asters and Asiatic dayflowers, the fruiting wild rose (dog rose) places this scene in the autumn. Inhabiting this vegetation is a variety of graceful insects— the butterfly, mantis, locust, and other grasshoppers. Such creatures denoted the annual passage of seasons in early poetry, and from that literary tradition, became elegant and often allusive subjects of painting.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "80215"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/98de0aaf-e074-2536-5e15-44a03bf2c855/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Samuel M. Nickerson Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/80215",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "玺印封泥",
+  "文字书写",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=80215)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

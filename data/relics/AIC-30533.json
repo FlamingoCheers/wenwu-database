@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-30533",
+ "name": "Seated Tiger",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  907,
+  1125
+ ],
+ "category": "瓷器",
+ "material": "Slip-coated and glazed stoneware",
+ "dimensions": "20.6 × 9.2 × 12.4 cm (8 1/8 × 3 5/8 × 4 7/8 in.)",
+ "excavated_from": "",
+ "summary": "Slip-coated and glazed stoneware。20.6 × 9.2 × 12.4 cm (8 1/8 × 3 5/8 × 4 7/8 in.)。Oakleigh L. Thorne",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "30533"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/2ddd5f1b-ede1-352b-3f2b-28cbf4b229c5/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Oakleigh L. Thorne"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/30533",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=30533)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-12721",
+ "name": "Bowl with Blossoms and Radiating Petals",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1723,
+  1735
+ ],
+ "category": "瓷器",
+ "material": "Porcelain with underglaze molded decoration",
+ "dimensions": "4.7 × 11.6 cm (1 7/8 × 4 9/16 in.); Diam.: 11.6 cm (4 9/16 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain with underglaze molded decoration。4.7 × 11.6 cm (1 7/8 × 4 9/16 in.); Diam.: 11.6 cm (4 9/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12721"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/9dc9960d-4085-8f63-b58f-a8d1c961c2dc/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12721",
+ "license": "CC0",
+ "tags": [
+  "食器"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12721)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

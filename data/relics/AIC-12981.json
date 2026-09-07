@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-12981",
+ "name": "Covered Box",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1522,
+  1566
+ ],
+ "category": "漆器",
+ "material": "Carved cinnabar lacquer on wood",
+ "dimensions": "18.5 × 25.6 cm (7 1/4 × 10 1/16 in.); Diam.: 25.6 cm (10 1/16 in.)",
+ "excavated_from": "",
+ "summary": "Carved cinnabar lacquer on wood。18.5 × 25.6 cm (7 1/4 × 10 1/16 in.); Diam.: 25.6 cm (10 1/16 in.)。Gift of Mr. & Mrs. Philip Pinsof",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12981"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/d802ad5d-9cc9-688b-930c-e9082db1665c/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mr. & Mrs. Philip Pinsof"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12981",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12981)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

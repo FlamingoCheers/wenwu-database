@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-21806",
+ "name": "Lotus Cup",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1645,
+  1799
+ ],
+ "category": "瓷器",
+ "material": "Yixing stoneware",
+ "dimensions": "5 × 8.3 × 7.3 cm (2 × 3 1/4 × 2 7/8 in.)",
+ "excavated_from": "",
+ "summary": "Yixing stoneware。5 × 8.3 × 7.3 cm (2 × 3 1/4 × 2 7/8 in.)。Bequest of Russell Tyson",
+ "history": "<p>The body of this cup is crafted to resemble a lotus leaf, which gracefully rests upon feet in the shape of lotus pods. Ingeniously, the stems of these pods extend from the cup’s base to its side, forming an artful yet functional handle. The surface of the cup is embellished with delicately carved patterns, which contribute to the overall sense of realism while showcasing the luscious color and texture of the Yixing stoneware. Bearing the seal of Chen Mingyuan, a renowned potter of Yixing stoneware active in the Kangxi period, this lotus-shaped cup exemplifies the artist’s celebrated talent for transforming clay into enchanting, lifelike wonders.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21806"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/37e0e7c1-9d44-669a-5cc0-c5070e56a2fa/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21806",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21806)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

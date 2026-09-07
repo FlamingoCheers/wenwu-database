@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-12099",
+ "name": "Dragon Head Ladle",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -206,
+  220
+ ],
+ "category": "陶器",
+ "material": "Earthenware with lead green glaze",
+ "dimensions": "8.4 × 18.5 × 11.6 cm (3 5/16 × 7 1/4 × 4 9/16 in.)",
+ "excavated_from": "",
+ "summary": "Earthenware with lead green glaze。8.4 × 18.5 × 11.6 cm (3 5/16 × 7 1/4 × 4 9/16 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12099"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/d49eef12-b790-f8ff-bef6-061b49947f74/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12099",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12099)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

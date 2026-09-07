@@ -1,0 +1,45 @@
+{
+ "relic_id": "AIC-53535",
+ "name": "Incense Burner with Chrysanthemum and Knobbed Scrolls",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1000,
+  1099
+ ],
+ "category": "瓷器",
+ "material": "Cizhou ware; stoneware, slip-coated with incised decoration on ground of impressed rings (fish roe)",
+ "dimensions": "33.3 × 26 cm (13 1/4 × 10 1/4 in.); Diam.: 26 cm (10 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Cizhou ware; stoneware, slip-coated with incised decoration on ground of impressed rings (fish roe)。33.3 × 26 cm (13 1/4 × 10 1/4 in.); Diam.: 26 cm (10 1/4 in.)。Gift of Mr. Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "53535"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/f36ffd3f-a2ed-f8ff-0843-721aeac3146b/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mr. Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/53535",
+ "license": "CC0",
+ "tags": [
+  "香文化",
+  "玺印封泥",
+  "文字书写",
+  "动物",
+  "植物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=53535)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

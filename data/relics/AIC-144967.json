@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-144967",
+ "name": "Bell (Duo)",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -400,
+  -301
+ ],
+ "category": "青铜器",
+ "material": "Bronze inlaid with gold",
+ "dimensions": "H.: 8.2 cm (3 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Bronze inlaid with gold。H.: 8.2 cm (3 1/4 in.)。Gift of Dorothy Braude Edinburg to the Harry B. and Bessie K. Braude Memorial Collection",
+ "history": "<p>This small bell was designed with a clapper of bronze or bone (now lost) that was suspended from the short, hollow shank. It may have been used as a handbell to convey signals in military maneuvers. Much of its finely cast decoration—intertwined snakes and densely textured curls—is now camouflaged by surface corrosion. Traces of delicate gold-wire scrollwork are still visible near the rim. A diamond-like pattern with curvilinear motifs decorates the interior.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "144967"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/f92a2eb2-b0cd-0f38-f471-355a7b46228b/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Dorothy Braude Edinburg to the Harry B. and Bessie K. Braude Memorial Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/144967",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=144967)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

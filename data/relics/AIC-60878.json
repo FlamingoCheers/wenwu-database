@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-60878",
+ "name": "Jar in the Form of Ancient Bronze Vessel",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1700,
+  1799
+ ],
+ "category": "瓷器",
+ "material": "Porcelain",
+ "dimensions": "19.7 × 15.6 cm (7 3/4 × 6 1/8 in.); Diam.: 15.6 cm (6 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Porcelain。19.7 × 15.6 cm (7 3/4 × 6 1/8 in.); Diam.: 15.6 cm (6 1/8 in.)。Gift of Mr. and Mrs. Frank Flick",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "60878"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/0337f32d-7237-edae-6b40-3bc0e5598cb9/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mr. and Mrs. Frank Flick"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/60878",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=60878)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

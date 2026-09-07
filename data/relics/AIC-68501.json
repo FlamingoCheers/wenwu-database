@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-68501",
+ "name": "Panel (Furnishing Fabric)",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1750,
+  1800
+ ],
+ "category": "织绣",
+ "material": "Silk and wool, slit tapestry weave",
+ "dimensions": "117.2 × 69.1 cm (46 1/8 × 27 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Silk and wool, slit tapestry weave。117.2 × 69.1 cm (46 1/8 × 27 1/4 in.)。Gift of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "68501"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/f9a12133-e6aa-fefc-bd73-34d31c945a44/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/68501",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=68501)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

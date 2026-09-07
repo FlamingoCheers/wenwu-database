@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-21591",
+ "name": "Covered Ewer with Upright Lotus Petals",
+ "aliases": [],
+ "dynasty": "南宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with underglaze molded, carved, and applied decoration",
+ "dimensions": "11.6 × 11.7 × 9.2 cm (4 9/16 × 4 5/8 × 3 5/8 in.)",
+ "excavated_from": "",
+ "summary": "Stoneware with underglaze molded, carved, and applied decoration。11.6 × 11.7 × 9.2 cm (4 9/16 × 4 5/8 × 3 5/8 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "21591"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/e6870ba2-f38e-84ae-7020-218c8e3d9e52/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/21591",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=21591)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

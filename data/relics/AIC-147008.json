@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-147008",
+ "name": "Entertainer",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  501,
+  600
+ ],
+ "category": "陶器",
+ "material": "Buff earthenware with pigment",
+ "dimensions": "H.: 27 cm (10 in.)",
+ "excavated_from": "",
+ "summary": "Buff earthenware with pigment。H.: 27 cm (10 in.)。Gift of Stanley Herzman in memory of Gladys Wolfson Herzman",
+ "history": "<p>In ancient China, clay figures were buried in tombs to accompany the deceased into the afterlife. It was believed that these figures would “live” within the tomb, providing perpetual companionship and protection to the tomb owner. This particular figure, wearing a soft cap, cowl-neck tunic, and boots, may represent a Central Asian entertainer in the act of balancing an object on his forehead, which is pierced with a hole that would have supported a stick (now lost).</p>\n<p>The figure, depicted with remarkable realism and vividness, exemplifies the meticulous observation and skillful techniques of its craftsmen. With its inclined body, hands pressing on thighs for stability, and a steadfast stance, the figure animates an intense moment of suspension. The open mouth and wide eyes convey the figure’s keen concentration on the task at hand.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "147008"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/2c384bd1-b4bc-8b02-b299-1ff3f1ef7174/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Stanley Herzman in memory of Gladys Wolfson Herzman"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/147008",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=147008)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

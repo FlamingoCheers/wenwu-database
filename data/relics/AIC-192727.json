@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-192727",
+ "name": "Oracle Bones (76 total)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -13,
+  -11
+ ],
+ "category": "杂器",
+ "material": "Segments of turtle plastrons and bones of oxen; polished, burned, and carved with inscriptions",
+ "dimensions": "Various sizes",
+ "excavated_from": "",
+ "summary": "Segments of turtle plastrons and bones of oxen; polished, burned, and carved with inscriptions。Various sizes。Alyce and Edwin DeCosta and the Walter E. Heller Foundation, Frederick W. and Nathalie C. Gookin Endowment, and Frederick W. Renshaw Acquisition Funds",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "192727"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/1495bb5b-72af-026a-aac6-1e68a397e220/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Alyce and Edwin DeCosta and the Walter E. Heller Foundation, Frederick W. and Nathalie C. Gookin Endowment, and Frederick W. Renshaw Acquisition Funds"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/192727",
+ "license": "CC0",
+ "tags": [
+  "礼制",
+  "祭祀",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=192727)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

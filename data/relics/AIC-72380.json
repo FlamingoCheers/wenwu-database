@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-72380",
+ "name": "United by Music 合樂圖",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1401,
+  1425
+ ],
+ "category": "织绣",
+ "material": "Handscroll; ink and colors on silk",
+ "dimensions": "41.9 × 184.2 cm (16 1/2 × 72 9/16 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink and colors on silk。41.9 × 184.2 cm (16 1/2 × 72 9/16 in.)。Kate S. Buckingham Endowment Fund",
+ "history": "<p>This all-female ensemble is an imperial or aristocratic orchestra. Singly or in pairs, the musicians play the large drum, clapper, oboe, vertical flute, transverse flute, hourglass drum, mouth organ, gong-chime, long zither, angular harp, and lute. Such instruments accurately represent those played by the mid- Tang dynasty (eighth century), as known today from surviving artifacts and textural descriptions of the Imperial Conservatory of Music. The audience for this concert strikingly resembles court figures depicted in <em>The Night Revels of Han Xizai</em>, a painting in the Palace Museum, Beijing, attributed to the tenth century painter Gu Hongzhong. Gu Hongzhong was a contemporary of Zhou Wenju, to whom this handscroll was originally ascribed. The artist responsible for this fifteenth-century painting apparently drew upon a number of earlier artistic models, creating a composite image that recalled the work of past centuries.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "72380"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/6ae82203-7056-0e36-450b-71d1bd12eac2/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Kate S. Buckingham Endowment Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/72380",
+ "license": "CC0",
+ "tags": [
+  "玺印封泥",
+  "文字书写"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=72380)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-65909",
+ "name": "Standing Attendant",
+ "aliases": [],
+ "dynasty": "秦",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -400,
+  -201
+ ],
+ "category": "杂器",
+ "material": "Wood with traces of polychrome pigments",
+ "dimensions": "48.8 × 10.4 × 5.5 cm (19 3/16 × 4 1/16 × 2 3/16 in.)",
+ "excavated_from": "",
+ "summary": "Wood with traces of polychrome pigments。48.8 × 10.4 × 5.5 cm (19 3/16 × 4 1/16 × 2 3/16 in.)。Gift of Florene M. Schoenborn",
+ "history": "<p>In Chu tombs, wood sculptures of men and women were placed in compartments surrounding the coffin.  Natural weathering has accentuated the elegant attenuation of these figures.  Some were constructed with separate forearms and hands, now lost, that were tenoned into small holes in their sleeves.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "65909"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/724c6978-006a-e369-3190-eabff3bec565/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Florene M. Schoenborn"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/65909",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=65909)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

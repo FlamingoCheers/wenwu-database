@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-86661",
+ "name": "Mirror with Stylized Phoenixes and Petal Loenges",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -299,
+  -100
+ ],
+ "category": "青铜器",
+ "material": "Bronze with parcel gilding",
+ "dimensions": "Thickness: D.: 0.2 cm (1/8 in.); Diam.: 10.4 cm (4 1/8 in.)",
+ "excavated_from": "",
+ "summary": "Bronze with parcel gilding。Thickness: D.: 0.2 cm (1/8 in.); Diam.: 10.4 cm (4 1/8 in.)。Gift of the Orientals",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "86661"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/c0a163c5-81ff-91aa-44d1-067ab09a8197/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of the Orientals"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/86661",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "祥瑞纹样"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=86661)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

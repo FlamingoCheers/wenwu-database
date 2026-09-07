@@ -1,0 +1,44 @@
+{
+ "relic_id": "AIC-71771",
+ "name": "Winter Landscape",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1500,
+  1559
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink with touches of color on paper",
+ "dimensions": "27.7 × 537.3 cm (10 7/8 × 211 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink with touches of color on paper。27.7 × 537.3 cm (10 7/8 × 211 1/2 in.)。Gift of the Orientals",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "71771"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/4f27590e-6751-cb2d-5651-542ef9908150/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of the Orientals"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/71771",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "玺印封泥",
+  "文字书写",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=71771)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

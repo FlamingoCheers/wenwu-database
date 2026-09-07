@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-217675",
+ "name": "Album of Landscapes and Calligraphy for Liu Songfu",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1895,
+  1896
+ ],
+ "category": "书画",
+ "material": "Album of 25 leaves; ink and light color on paper",
+ "dimensions": "Each leaf: 30.5 × 36.3 cm (12 × 14 1/4 in.)",
+ "excavated_from": "",
+ "summary": "Album of 25 leaves; ink and light color on paper。Each leaf: 30.5 × 36.3 cm (12 × 14 1/4 in.)。Gift of Florence Ayscough and Harley Farnsworth MacNair",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "217675"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/f44f28e5-c548-9a92-cfb4-48043b162eec/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Florence Ayscough and Harley Farnsworth MacNair"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/217675",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=217675)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

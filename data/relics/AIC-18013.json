@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-18013",
+ "name": "Goblet (jue)",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1464,
+  1464
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "20.5 × 19.1 × 8.4 cm (8 1/16 × 7 1/2 × 3 5/16 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。20.5 × 19.1 × 8.4 cm (8 1/16 × 7 1/2 × 3 5/16 in.)。Gift of Mrs. H. R. Warner",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "18013"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/f03040ff-148a-9e73-bfbe-056994c5d77e/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. H. R. Warner"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/18013",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=18013)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

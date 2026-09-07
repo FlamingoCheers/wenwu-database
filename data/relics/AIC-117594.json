@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-117594",
+ "name": "Vase with Dragon-Shaped Handle and Two Loop Handles",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  581,
+  618
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with olive-green glaze",
+ "dimensions": "18.7 × 11.1 cm (7 3/8 × 4 3/8 in.); Diam.: 11.1 cm (4 3/8 in.)",
+ "excavated_from": "",
+ "summary": "Stoneware with olive-green glaze。18.7 × 11.1 cm (7 3/8 × 4 3/8 in.); Diam.: 11.1 cm (4 3/8 in.)。Gift of Mrs. Robert B. Mayer",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "117594"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/162a68d4-16b9-7b7a-3e6a-444face5dcfb/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Mrs. Robert B. Mayer"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/117594",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=117594)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

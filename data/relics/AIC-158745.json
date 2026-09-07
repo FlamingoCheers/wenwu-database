@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-158745",
+ "name": "Valance",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1701,
+  1800
+ ],
+ "category": "织绣",
+ "material": "Silk, figured weave; painted",
+ "dimensions": "82 × 402.9 cm (32 1/4 × 158 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Silk, figured weave; painted。82 × 402.9 cm (32 1/4 × 158 1/2 in.)。Gift of James Tigerman",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "158745"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/f01e0bff-36c7-c172-59dc-0dcb6d864a08/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of James Tigerman"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/158745",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=158745)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

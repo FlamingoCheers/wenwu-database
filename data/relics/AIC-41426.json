@@ -1,0 +1,38 @@
+{
+ "relic_id": "AIC-41426",
+ "name": "Strange Rocks",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1600,
+  1700
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink and light color on paper",
+ "dimensions": "132 × 55.8 cm (52 × 22 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink and light color on paper。132 × 55.8 cm (52 × 22 in.)。Russell Tyson Purchase Fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "41426"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/c407c194-992b-d163-18b6-68c08f86e5ac/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Russell Tyson Purchase Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/41426",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=41426)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-204584",
+ "name": "Landscape in the Style of Ancient Masters: after Wang Meng (c. 1308-1385)",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1637,
+  1647
+ ],
+ "category": "书画",
+ "material": "Album leaf; ink and color on paper",
+ "dimensions": "31 × 40.7 cm (12 × 16 in.)",
+ "excavated_from": "",
+ "summary": "Album leaf; ink and color on paper。31 × 40.7 cm (12 × 16 in.)。Samuel M. Nickerson fund",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "204584"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/78dd82db-3b7c-c5f4-4781-930540fd2773/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Samuel M. Nickerson fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/204584",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=204584)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

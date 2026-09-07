@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-22075",
+ "name": "Trouser Band",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1875,
+  1900
+ ],
+ "category": "织绣",
+ "material": "Embroidered on gauze",
+ "dimensions": "10.6 × 36.8 cm (4 1/4 × 14 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Embroidered on gauze。10.6 × 36.8 cm (4 1/4 × 14 1/2 in.)。Bequest of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "22075"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/c41881e9-0cde-be61-ebe4-0204dff1617a/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Bequest of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/22075",
+ "license": "CC0",
+ "tags": [
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=22075)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

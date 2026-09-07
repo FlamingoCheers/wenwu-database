@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-59448",
+ "name": "Cloud-Shaped Pillow with Fish",
+ "aliases": [],
+ "dynasty": "西夏",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1100,
+  1234
+ ],
+ "category": "瓷器",
+ "material": "Cizhou ware; stoneware, slip-coated, with underglaze painting in iron brown slip",
+ "dimensions": null,
+ "excavated_from": "",
+ "summary": "Cizhou ware; stoneware, slip-coated, with underglaze painting in iron brown slip。Gift of Russell Tyson",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "59448"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/be7375b3-188d-7d89-660d-a6c93d6ed495/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Russell Tyson"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/59448",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=59448)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

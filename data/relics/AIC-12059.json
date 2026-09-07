@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-12059",
+ "name": "Incense Burner (Xunlu or Xianglu)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  25,
+  220
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "16.8 × 12.6 cm (6 5/8 × 5 in.); Diam.: 12.6 cm (5 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。16.8 × 12.6 cm (6 5/8 × 5 in.); Diam.: 12.6 cm (5 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "12059"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/f491796d-0b80-0dd7-3361-45c08fb68c0c/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/12059",
+ "license": "CC0",
+ "tags": [
+  "香文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=12059)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

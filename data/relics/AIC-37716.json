@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-37716",
+ "name": "Model of a Pigsty and Latrines",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -99,
+  99
+ ],
+ "category": "陶器",
+ "material": "Gray earthenware with stamped decoration",
+ "dimensions": "40.6 × 21.6 × 27.9 cm (16 × 8 1/2 × 11 in.)",
+ "excavated_from": "",
+ "summary": "Gray earthenware with stamped decoration。40.6 × 21.6 × 27.9 cm (16 × 8 1/2 × 11 in.)。Gift of Bertha Palmer Thorne",
+ "history": "<p>Han-dynasty grave goods documented even the most mundane aspects of rural life. As illustrated here, latrines—or toilets—were customarily built above a pigsty and connected by pipes to a cesspool. The ar-chitectural style of this well-constructed object resembles models excavated from tombs in Huixian, a city in northern China.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "37716"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/fbdb932e-fbb7-0ce1-9046-79168202aa20/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Bertha Palmer Thorne"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/37716",
+ "license": "CC0",
+ "tags": [
+  "玺印封泥",
+  "文字书写",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=37716)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

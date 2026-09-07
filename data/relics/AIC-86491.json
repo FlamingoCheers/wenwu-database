@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-86491",
+ "name": "Covered Jar (Hu) 东周时期鎏金错银壶",
+ "aliases": [],
+ "dynasty": "秦",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -399,
+  -200
+ ],
+ "category": "青铜器",
+ "material": "Bronze inlaid with strand silver and gilded",
+ "dimensions": "14.6 × 8.9 cm (5 3/4 × 3 1/2 in.); Diam.: 8.9 cm (3 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Bronze inlaid with strand silver and gilded。14.6 × 8.9 cm (5 3/4 × 3 1/2 in.); Diam.: 8.9 cm (3 1/2 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "86491"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/8f45a5af-3bee-6421-c991-1957cade175d/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/86491",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=86491)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

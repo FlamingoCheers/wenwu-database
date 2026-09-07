@@ -1,0 +1,43 @@
+{
+ "relic_id": "AIC-86759",
+ "name": "Mirror with Dragon Arabesques",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -299,
+  -100
+ ],
+ "category": "青铜器",
+ "material": "Bronze",
+ "dimensions": "Diam.: 16 cm (6 5/16 in.); Thickness: D.: 0.5 cm (3/8 in.)",
+ "excavated_from": "",
+ "summary": "Bronze。Diam.: 16 cm (6 5/16 in.); Thickness: D.: 0.5 cm (3/8 in.)。Samuel M. Nickerson Endowment",
+ "history": "<p>The mirror in ancient China, usually held by hand with a cord, was a thin bronze disk with one face polished to a reflective sheen. The backs of mirrors were cast with elegant and dynamic designs. Tight spirals and triangles that form the ground pattern of this mirror are distinctive to south-central and southern China. These fanciful configurations seem to have been inspired by painted lacquers and embroidered and woven textiles distinctive to that area, which was occupied by the Kingdom of Chu.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "86759"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/f94fbd86-ca42-6d17-2308-614601dbe051/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Samuel M. Nickerson Endowment"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/86759",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=86759)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

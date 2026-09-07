@@ -1,0 +1,41 @@
+{
+ "relic_id": "AIC-28128",
+ "name": "Guanyin (Avalokitesvara)",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1001,
+  1100
+ ],
+ "category": "青铜器",
+ "material": "Gilt copper alloy",
+ "dimensions": "34.4 × 9.8 × 8.7 cm (13 1/2 × 3 7/8 × 3 3/8 in.)",
+ "excavated_from": "",
+ "summary": "Gilt copper alloy。34.4 × 9.8 × 8.7 cm (13 1/2 × 3 7/8 × 3 3/8 in.)。Lucy Maud Buckingham Collection",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "28128"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/41c37384-d473-a4c8-c73c-29fd3400bd2b/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Lucy Maud Buckingham Collection"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/28128",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=28128)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

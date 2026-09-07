@@ -1,0 +1,40 @@
+{
+ "relic_id": "AIC-46401",
+ "name": "Black Birds",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1824,
+  1896
+ ],
+ "category": "书画",
+ "material": "Hanging scroll; ink and colors on paper",
+ "dimensions": "147.3 × 78.1 cm (58 × 30 3/4 in.)",
+ "excavated_from": "",
+ "summary": "Hanging scroll; ink and colors on paper。147.3 × 78.1 cm (58 × 30 3/4 in.)。Gift of Florence Ayscough and Harley Farnsworth MacNair",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "46401"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/482f5f87-596c-9105-49e3-868a6f8b71f5/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Gift of Florence Ayscough and Harley Farnsworth MacNair"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/46401",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=46401)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

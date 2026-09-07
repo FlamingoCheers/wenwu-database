@@ -1,0 +1,42 @@
+{
+ "relic_id": "AIC-75317",
+ "name": "Flowers of the Four Seasons 四季花卉圖",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1599,
+  1599
+ ],
+ "category": "书画",
+ "material": "Handscroll; ink on paper",
+ "dimensions": "28.5 × 398 cm (10 7/8 × 152 1/2 in.)",
+ "excavated_from": "",
+ "summary": "Handscroll; ink on paper。28.5 × 398 cm (10 7/8 × 152 1/2 in.)。Kate S. Buckingham Fund",
+ "history": "<p>The artist of this softly monochromatic handscroll evokes the passage of time with plants that bloom in sequence throughout the four seasons. The flowers of spring—tree peony, spring cymbidium, astor, peach, iris, and rose—flow into summer, beginning with the white magnolia (<em>yulan</em>) and crab apple (<em>haitang</em>). Together, these last two flowers comprise a rebus or visual pun for the auspicious phrase “yutang fugui:” “wealth and rank in the Jade Hall.” The Jade Hall alludes to the Hanlin Academy, a government bureau where esteemed scholars were appointed to compile documents for the imperial court.  The opening section shown here depicts the first three flowers of spring.</p>\n",
+ "interpretation": [],
+ "collection": {
+  "museum": "芝加哥艺术馆",
+  "region": "北美洲",
+  "inventory_no": "75317"
+ },
+ "images": [
+  {
+   "url": "https://www.artic.edu/iiif/2/ec57d7e6-1205-ce06-f21c-76d77b457aba/full/843,/0/default.jpg",
+   "license": "CC0",
+   "credit": "芝加哥艺术馆 Kate S. Buckingham Fund"
+  }
+ ],
+ "source_url": "https://www.artic.edu/artworks/75317",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/aic/page_*.json (id=75317)",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}
