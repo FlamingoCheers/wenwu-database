@@ -70,6 +70,15 @@ CATEGORY_MAP = {
     "其他": "杂器",
 }
 
+# English keys for CI inputs (avoids non-ASCII mangling in dispatch payloads)
+EN2ZH = {
+    "neolithic": "新石器時代", "shang": "商", "xizhou": "西周",
+    "chunqiu": "春秋", "zhanguo": "戰國", "qin": "秦", "xihan": "西漢",
+    "donghan": "東漢", "weijin": "魏晉南北朝", "sui": "隋", "tang": "唐",
+    "wudai": "五代", "liao": "遼", "song": "宋", "jin": "金", "yuan": "元",
+    "ming": "明", "qing": "清", "minguo": "民國",
+}
+
 DETAIL_RE = re.compile(r'href="(/opendata/Pub/Detail/(\d+)\?dep=([A-Z]))&amp;mode=full"')
 PAGECOUNT_RE = re.compile(r'"PageCount":(\d+)')
 TR_RE = re.compile(r"<tr>\s*<td>\s*([^<]{1,14})</td>\s*<td>(.*?)</td>", re.S)
@@ -204,6 +213,7 @@ def build_relic(detail_path, oid, dep, fetched):
 
 
 def crawl(dynasty_key, limit, pages, sleep, out_dir):
+    dynasty_key = EN2ZH.get(dynasty_key, dynasty_key)
     axis = DYN_AXIS if dynasty_key == "all" else [
         a for a in DYN_AXIS if a[0] == dynasty_key]
     if not axis:

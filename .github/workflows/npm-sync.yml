@@ -1,14 +1,16 @@
 # Ingest NPM (Taipei) open data for one dynasty axis, then validate + commit.
 # Run per-dynasty via dispatch; a weekly cron for NPM is added once all
 # axes have their first full pass.
+# NOTE: dynasty input uses English keys (song/ming/...) because non-ASCII
+# dispatch payloads get mangled (ASCII-cast to '?') on the way in.
 name: npm-sync
 on:
   workflow_dispatch:
     inputs:
       dynasty:
-        description: "Dynasty axis label (e.g. 宋/明) or 'all'"
+        description: "Axis key: song/ming/qing/tang/... or 'all'"
         required: false
-        default: "宋"
+        default: "song"
       limit:
         description: "Max items this run (0 = unlimited)"
         required: false
@@ -31,8 +33,8 @@ jobs:
       - name: Crawl NPM open data
         run: |
           python collectors/npm_collector.py \
-            --dynasty "${{ github.event.inputs.dynasty || '宋' }}" \
-            --limit ${{ github.event.inputs.limit || '0' }} \
+            --dynasty "${{ github.event.inputs.dynasty }}" \
+            --limit ${{ github.event.inputs.limit }} \
             --sleep 0.5
 
       - name: Validate
@@ -46,6 +48,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "no new NPM data"
           else
-            git commit -m "data: NPM ${{ github.event.inputs.dynasty || '宋' }} batch"
+            git commit -m "data: NPM ${{ github.event.inputs.dynasty }} batch"
             git push
           fi
