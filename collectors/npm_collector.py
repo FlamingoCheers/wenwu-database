@@ -286,19 +286,44 @@ def crawl(dynasty_key, limit, pages, sleep, out_dir):
     print(f"done: in={stats['in']} skip={stats['skip']} fail={stats['fail']}")
 
 
+def remap(out_dir, fetched):
+    """Rebuild every NPM relic from cached raw detail pages (no network)."""
+    import glob
+    n = 0
+    for detail_cache in sorted(glob.glob(os.path.join(out_dir, "detail_*.html"))):
+        oid = re.search(r"detail_(\d+)\.html", detail_cache).group(1)
+        m = re.search(r"dep=([A-Z])",
+                      open(detail_cache, encoding="utf-8", errors="replace").read(3000))
+        out_path = os.path.join("data", "relics", f"NPM-{oid}.json")
+        if not os.path.exists(out_path):
+            continue
+        relic = build_relic(detail_cache, oid, m.group(1) if m else "U", fetched)
+        if relic is None:
+            continue
+        with open(out_path, "w", encoding="utf-8") as f:
+            json.dump(relic, f, ensure_ascii=False, indent=1)
+        n += 1
+    print(f"remapped {n} relics")
+
+
 def main():
     import argparse
     ap = argparse.ArgumentParser()
     ap.add_argument("--dynasty", default="宋",
-                    help="axis label (e.g. 宋/明) or 'all'")
+                    help="axis label (e.g. 宋/明), English key (song/ming) or 'all'")
     ap.add_argument("--limit", type=int, default=0,
                     help="max items to ingest this run (0 = unlimited)")
     ap.add_argument("--pages", type=int, default=0,
                     help="max list pages per axis (0 = all)")
     ap.add_argument("--sleep", type=float, default=0.5)
     ap.add_argument("--out", default="raw/npm")
+    ap.add_argument("--remap", action="store_true",
+                    help="re-map existing relics from raw cache, no network")
     args = ap.parse_args()
     os.makedirs(args.out, exist_ok=True)
+    if args.remap:
+        remap(args.out, date.today().isoformat())
+        return
     crawl(args.dynasty, args.limit, args.pages, args.sleep, args.out)
 
 

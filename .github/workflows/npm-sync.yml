@@ -37,6 +37,9 @@ jobs:
             --limit ${{ github.event.inputs.limit }} \
             --sleep 0.5
 
+      - name: Re-map existing relics (mapping upgrades, no network)
+        run: python collectors/npm_collector.py --remap
+
       - name: Validate
         run: python pipeline/validate.py
 
