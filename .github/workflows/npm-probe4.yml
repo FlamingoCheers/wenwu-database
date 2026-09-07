@@ -1,0 +1,28 @@
+# NPM probe4: new home digitalarchive.npm.gov.tw/opendata
+name: npm-probe4
+on:
+  workflow_dispatch:
+
+jobs:
+  probe4:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Fetch new opendata home
+        run: |
+          mkdir -p npm_probe4
+          for u in "https://digitalarchive.npm.gov.tw/opendata" "https://digitalarchive.npm.gov.tw/opendata/" "https://opendata.npm.gov.tw/"; do
+            n=$(echo "$u" | md5sum | cut -c1-6)
+            code=$(curl -s -m 60 -A "Mozilla/5.0" -o "npm_probe4/home_$n.html" -w "%{http_code} %{size_download} %{url_effective}" -L "$u")
+            echo "$u -> $code"
+          done
+          ls -la npm_probe4/
+          for f in npm_probe4/*.html; do
+            echo "== $f: dataset/json/csv links =="
+            grep -hoiE '(href|src|action)="[^"]+"' "$f" | grep -iE '(json|csv|zip|xlsx|download|dataset|api|ajax|search)' | sort -u | head -30 || echo "(none)"
+          done
+      - name: Upload probe4
+        uses: actions/upload-artifact@v4
+        with:
+          name: npm-probe4
+          path: npm_probe4/
