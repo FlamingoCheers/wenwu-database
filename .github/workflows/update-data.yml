@@ -39,7 +39,7 @@ jobs:
             met-raw-
 
       - name: Bulk filter + collect China PD subset (Met)
-        run: python collectors/met_bulk.py --limit ${{ github.event.inputs.limit || 0 }} --workers 4 --sleep 0.4
+        run: python collectors/met_bulk.py --limit ${{ github.event.inputs.limit || 0 }}
 
       - name: Remap existing records (propagate mapping upgrades)
         run: python collectors/met_collector.py --remap

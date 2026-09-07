@@ -79,7 +79,7 @@ def load_china_pd_ids():
     return sorted(set(ids))
 
 
-def get_json(url, retries=6):
+def get_json(url, retries=8):
     last = None
     for attempt in range(retries):
         try:
@@ -89,7 +89,7 @@ def get_json(url, retries=6):
         except urllib.error.HTTPError as exc:
             last = exc
             if exc.code == 429:
-                wait = 60.0
+                wait = 90.0
                 ra = exc.headers.get("Retry-After") if exc.headers else None
                 if ra:
                     try:
@@ -112,8 +112,8 @@ def get_json(url, retries=6):
 def main():
     parser = argparse.ArgumentParser(description="Met bulk-CSV 采集器（中国 PD 子集）")
     parser.add_argument("--limit", type=int, default=0, help="本次处理对象数上限（含跳过），0=全量")
-    parser.add_argument("--sleep", type=float, default=0.4, help="每请求间隔秒（每线程）")
-    parser.add_argument("--workers", type=int, default=4, help="并发线程数")
+    parser.add_argument("--sleep", type=float, default=1.0, help="每请求间隔秒（每线程）")
+    parser.add_argument("--workers", type=int, default=2, help="并发线程数")
     parser.add_argument("--force", action="store_true", help="覆盖已存在的记录")
     parser.add_argument("--csv-only", action="store_true", help="仅下载并过滤 CSV，不拉详情")
     parser.add_argument("--refresh-csv", action="store_true", help="强制重新下载 CSV")
@@ -186,10 +186,13 @@ def main():
                 failed += 1
                 consec_fail += 1
                 failures.append({"objectID": oid, "error": err})
+                if failed % 100 == 1:
+                    print(f"  fail sample: {err}", flush=True)
             if done_n % 200 == 0:
                 print(f"进度 {done_n}/{len(todo)}  入库 {ok}  跳过 {skipped}  失败 {failed}", flush=True)
-            if consec_fail >= 30:
-                print(f"::error::circuit breaker: {consec_fail} consecutive failures, aborting", flush=True)
+            broke = consec_fail >= 100 or (done_n >= 500 and failed > done_n * 0.6)
+            if broke:
+                print(f"::error::circuit breaker: consec={consec_fail} failed={failed}/{done_n}, aborting", flush=True)
                 aborted = True
                 for f2 in futures:
                     f2.cancel()
