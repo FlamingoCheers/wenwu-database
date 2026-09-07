@@ -24,22 +24,24 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import met_collector as mc
 
-CSV_URL = "https://raw.githubusercontent.com/metmuseum/openaccess/master/MetObjects.csv"
+CSV_URL = "https://media.githubusercontent.com/media/metmuseum/openaccess/master/MetObjects.csv"
 TODAY = date.today().isoformat()
 RAW_DIR = mc.RAW_DIR
 RELICS_DIR = mc.RELICS_DIR
 CSV_PATH = RAW_DIR / "MetObjects.csv"
+LFS_MARK = b"version https://git-lfs.github.com/spec/v1"
 
 
 def download_csv(force=False):
     RAW_DIR.mkdir(parents=True, exist_ok=True)
-    if CSV_PATH.exists() and CSV_PATH.stat().st_size > 50 * 1024 * 1024 and not force:
+    if (CSV_PATH.exists() and CSV_PATH.stat().st_size > 50 * 1024 * 1024
+            and not force and not CSV_PATH.open("rb").read(len(LFS_MARK)) == LFS_MARK):
         print(f"bulk CSV cached: {CSV_PATH} ({CSV_PATH.stat().st_size // 1048576} MB)", flush=True)
         return
-    print("downloading MetObjects.csv ...", flush=True)
+    print("downloading MetObjects.csv (LFS media URL) ...", flush=True)
     req = urllib.request.Request(CSV_URL, headers=mc.HEADERS)
     tmp = CSV_PATH.with_suffix(".part")
-    with urllib.request.urlopen(req, timeout=600) as resp, open(tmp, "wb") as f:
+    with urllib.request.urlopen(req, timeout=900) as resp, open(tmp, "wb") as f:
         total = 0
         while True:
             chunk = resp.read(1 << 20)
@@ -50,6 +52,10 @@ def download_csv(force=False):
             if total % (20 << 20) < (1 << 20):
                 print(f"  {total // 1048576} MB", flush=True)
     tmp.rename(CSV_PATH)
+    head = CSV_PATH.open("rb").read(len(LFS_MARK))
+    if head == LFS_MARK or total < 50 * 1024 * 1024:
+        CSV_PATH.unlink(missing_ok=True)
+        raise SystemExit(f"downloaded file is not the real CSV ({total} bytes, head={head[:40]!r})")
     print(f"done: {total // 1048576} MB", flush=True)
 
 
