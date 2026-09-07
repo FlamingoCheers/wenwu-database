@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3057",
+ "name": "端石睿思東閣硯",
+ "aliases": [
+  "Duan inkstone inscribed with \"Ruisi dongge”"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長21.5公分 寬13.4公分 高5.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000148N000000000"
+ },
+ "summary": "硯作長方形，面寬而平直，硯譜云為端溪水巖石，硯面受墨處緩緩斜向硯首而成墨池，四角皆有傷缺，硯壁四周環刻通景山水，行筆頗為簡練古樸，意境蕭疏，款署：「馬遠」、二字行書，中央刻：「睿思東閣」、四字楷書，周邊刻乾隆皇帝御製七言詩乙首：「當年東閣此臨池，背識瘦金今見之，既曰睿思思底事，足知洪範未曾思。」款題：「乾隆戊戍春御題」，有鈐印一：「會心不遠」。按「乾隆戊戍」為清乾隆四十三年，西元1778年，按此御題詩，收入《清高宗御製詩文全集》八，《御製詩》四集，卷五十一，頁十五。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=332595&randomCode=83678789121",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=332596&randomCode=1145799737",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3057?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3057.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

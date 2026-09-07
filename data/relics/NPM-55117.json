@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-55117",
+ "name": "硯",
+ "aliases": [
+  "Inkstone with inscription"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長31.0公分 寬19.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000155N000000000"
+ },
+ "summary": "長方形硯，此硯石褐中帶紅。硯四周雕刻雲紋與龍紋，硯首雕一龍首紋，硯面平，至龍首下方凹陷成硯池。硯背陰刻一方形印：「御府之印」，陰刻「治平元年五月製」(1064)直向單行楷款。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=332644&randomCode=87138877122",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=332645&randomCode=122114727",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/55117?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_55117.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

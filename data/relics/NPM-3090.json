@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3090",
+ "name": "紫雲硯",
+ "aliases": [
+  "Inkstone inscribed with \"Ziyun\""
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長29.0公分 寬18.6公分 高4.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000453N000000000"
+ },
+ "summary": "端石，硯作長方形，四角圓渾，硯堂方廣平正，墨池深窪約三公分，墨池中央上方有一半圓體，形似懸珠，石色紫中泛紅，質理細潤，硯首壁刻「宋研」二字隸書，硯背中心深窪，上方內壁刻隸書「紫雲」二字，中心鐫清高宗御銘乙首，行書：「與筆為入，與墨為出，不知不識，是為寥天一。」款題：「乾隆御識」，鈐印一：「幾暇臨池」篆文四字。此硯銘亦著錄於《清高宗御製詩文全集一》，《御製文初集》，卷二十七，頁六－七。按此硯係乾隆十四年（1749）冬，乾隆帝於內府什襲古硯材所製古十硯中第六方，所以在硯匣內慓識「己」楷書，以有別於他硯。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=175870&randomCode=29937137913",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=175871&randomCode=1880704887",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3090?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3090.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

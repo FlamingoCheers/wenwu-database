@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3058",
+ "name": "端石東井硯",
+ "aliases": [
+  "Duan “Dongjing” inkstone"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長11.3公分 最寬7.8公分 高2.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000147N000000000"
+ },
+ "summary": "端石、硯作圓形，上斂不豐，刻作鳳池式，石色紫赭，硯堂微凸起後斜入墨池、墨池深邃，上方刻「東井」二字，周環有星雲相襯，古趣盎然，硯背下方有二足，狀如心形，上方刻「軾」字楷書，右方凸起一石柱，左方刻「墨林生」方印（按墨林生為明項元汴號），在硯下方壁鐫乾隆皇帝御題銘乙首、楷書：「井者、清也、可用汲，慎王明也。井者養也，老安少懷，聖言仰也，如子瞻者，雖不能行其志於時，東井銘硯，足睪思也，吾恐明於古而昧於今，將為人所嗤也。」款題：「乾隆戊戌御銘」，鈐印二：「古香」、「太璞」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=330466&randomCode=78925272992",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=330467&randomCode=41442363672",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3058?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3058.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3055",
+ "name": "八卦十二辰硯",
+ "aliases": [
+  "Inkstone with pattern of the eight trigrams and twelve period of time"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1119,
+  1125
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長21.5公分 寬14公分 高6.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000150N000000000"
+ },
+ "summary": "硯作長方形，色紫紅如豬肝，硯譜云為宋老坑端石，硯面左上缺一大角，硯首深窪約0.8公分為墨池，墨池作圭首形，硯額邊緣鋪「宣和」二字篆書，其中「和」字已剝落不全，硯面左右邊緣分刻銘十六字，多漫漶不清，右存「中之華溫潤清□」。清之下一字可能是「和」字，但已不全，左則僅存「無涯」二字而已，且涯之水旁亦缺，硯壁周緣，通刻「八蠻底貢圖」，無論人物、山水、其意態均極生動，然亦有多處駁落不清。覆手四角皆有斷缺，中央窪入，刻連錢二，上一枚刻八卦，下一枚刻十二辰，皆是楷書，周緣則鐫御題詩乙首，款題「乾隆戊戍御題」。鈐印二：「比德」、「朗潤」。「戊戍」為清乾隆四十二年，西元1778年。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=332606&randomCode=89823791064",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=332607&randomCode=912184749",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3055?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3055.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

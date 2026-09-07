@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3091",
+ "name": "暈月硯",
+ "aliases": [
+  "Inkstone inscribed \"Yunyue\""
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長22.2公分 寬13.9公分 厚8.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000450N000000000"
+ },
+ "summary": "端石，硯作長方抄手式，兩附高五‧三公分，下端無堵，硯體外長方形，中央硯堂呈橢圓形，墨池呈弦月形，硯首壁刻篆文：「宋硯」二字，右側壁刻隸書：「暈月」二字，左側壁鐫清高宗御銘乙首，隸書：「珠含其胎，澤潤於礎，元雲蒸蒸，不風而雨。」款題：「乾隆己已仲冬御題」，鈐印一「乾」「隆」連珠印，硯背有石柱十八根，長短不齊，參差其間，然皆無石眼。此硯已破裂成四塊，并有修補痕跡。此硯銘亦著錄於清高宗御製詩文全集一，御製文初集，卷二十七，頁六－七。按此硯係乾隆十四年冬，清高宗於內府選得古硯材乙批製得古十硯，此硯為十硯中的第八方，所以在硯匣內標識「辛」字楷書，以有別於他硯。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173024&randomCode=44227393239",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173025&randomCode=842669898",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3091?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3091.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

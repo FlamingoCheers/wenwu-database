@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-98",
+ "name": "玉帶生硯",
+ "aliases": [
+  "Inkstone inscribed with \"Yu dai sheng\""
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長17.4公分 寬5.3公分 高3.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000140N000000000"
+ },
+ "summary": "長條形如舌狀，中腰一道天然白紋。硯面光素，池如半月，墨堂淺凹，池上方陰刻篆書「玉帶生」三字。側壁有篆銘二道，上者款署文天祥，下者乃清高宗御銘，分別是：「紫之衣兮綿綿，玉之帶兮僯僯，中之藏兮淵淵，外之澤兮曰宣。嗚呼！磨爾心之堅兮，壽吾文之傳兮。」款：「盧陵文天祥製」。「激切盡節易，從容盡節難，窮北再經寒暑。卓乎匪石之志，見於正氣之偏。日月爭光，泥而弗滓，玉帶長生，履善不死。」款：「乾隆御銘」，印：「比德」。硯背清高宗又令宮中匠役陰刻隸書銘記，題名、全文與款識是：「玉帶生歌。玉帶生，端人也，事文丞相，為文墨賓。神工踏雲割寒玉，追追琢琢虯盤綠。曾為信國席上珍，墨瀋猶疑血淚哭。樂作午潮事已非，玉帶生從",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=332520&randomCode=41364028010",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=332521&randomCode=1864624203",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/98?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_98.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

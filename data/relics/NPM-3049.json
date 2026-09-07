@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3049",
+ "name": "澄泥列錢硯",
+ "aliases": [
+  "Refined clay inkstone with coin pattern"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長12.3公分 寬7.4公分 高1.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000044N000000000"
+ },
+ "summary": "方形澄泥硯，遍體滿佈青綠、並有硃砂斑紋，猶如古銅器，硯堂受墨處露澄泥本色，色呈正黃泛紅，硯面周緣浮雕雲紋，然多已漫漶不清，硯背粘古錢三，大者在硯背右上方，小者二、呈兩兩相聯之形，硯背上方兩角顯硯泥金二處，硯壁下方，鐫御製詩乙首：「遍圍青綠貼三錢，在壙近銅理或然，設便魯褒欲著論，可容斯也置身邊」，楷書、款題：「乾隆御題」，按此詩收入《清高宗御製詩文全集》八，《御製詩》四集，卷六十四，頁十一，時在清高宗乾隆四十四年（已亥），西元1779年，有鈐印二：「≡」「隆」圓方連珠印。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334973&randomCode=75861585967",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=334974&randomCode=723182290",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3049?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3049.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

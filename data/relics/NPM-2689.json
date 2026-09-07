@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2689",
+ "name": "仿漢銅雀瓦硯",
+ "aliases": [
+  "Fine clay inkstone in the shape of a Han dynasty roof tile from the Bronze Bird Terrace (Tong-que-tai)"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長20.5公分 寬15.4-16.0公分 高5.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000170N000000000"
+ },
+ "summary": "澄泥質，長方覆瓦式，色黝黑，質細潤，硯面做瓶形，口為池，腹為墨堂；硯背滿佈葛麻紋理，中央一行陽文隸書「建安十五年」銘，上方浮飾古錢紋，並篆「寶貨」二字，下方飾一浮雕回首臥鹿紋。瓶形硯面之外圍滿刻硯銘，硯首以楷書鐫清高宗御製詩一首，款題「乾隆御題」，印：「太璞」、「古香」，其下方又陰刻「乾隆御賞」篆書印文，印文左方陰刻「寶晉齋真賞」五字篆銘；與「乾隆御賞」印文相對之右方陰刻「公綬」篆文印，其下方陰刻隸書「老鐵」二字；左側邊偏上方陰刻「松雪齋藏」四篆字。此外，清高宗詞臣梁詩正、陳邦彥、汪由敦、張若藹、勵宗萬、董邦達、裘曰修等人硯銘亦陰刻於硯面。「寶晉齋」是北宋書畫鑑賞家米芾（1051-1107）的",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1087694&randomCode=1425926072",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1087695&randomCode=402072949",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2689?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2689.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

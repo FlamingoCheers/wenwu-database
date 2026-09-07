@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3046",
+ "name": "澄泥黻黼紋硯",
+ "aliases": [
+  "Refined clay inkstone with cord motif"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長14.0公分 寬8.5公分 高1.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000456N000000000"
+ },
+ "summary": "硯作長方形，硯體多已剝蝕，硯色紫中泛黃，硯面額浮雕黻黼紋，但已漫漶不清，周邊緣刻綯紋一周，亦已不可辨，硯堂寬平，墨池內墨鏽深厚。硯背鐫清高宗御銘一首，并收入《清高宗御製詩文全集》一，《御製文》二集，卷三十九，頁六，硯銘：「宋代澄泥豈曾藏於王氏，天誘文筵，綯紋黻黻又疑成乎宣和之年，爾時豐亨豫大，以飾太平，用致金源之烽煙，時移世變，而陶泓如故，曽無變遷，以靜為用，有如是焉。」楷書，款題：「乾隆戊戌仲春上澣御銘」，按「乾隆戊戌」為清乾隆四十三年，西元1778年，鈐印二，「比德」、「朗潤」。《硯譜》云：「是硯製作既雅，閱歲復久，彌覺古香可挹。」",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=175904&randomCode=32178110046",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=175905&randomCode=229151174",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3046?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3046.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

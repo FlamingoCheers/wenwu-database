@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-47729",
+ "name": "蘭亭端硯",
+ "aliases": [
+  "Duan inkstone of the “Preface to the Poems Collected from the Orchid Pavilion”"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長26.4公分 寬17.0公分 高9.4公分；盒長29.2公分 寬20.2公分 高12.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000136N000000000"
+ },
+ "summary": "宋端石，色紫，質潤，墨銹深結。長方式，體高厚重。硯面周棱淺雕卷雲圖案，硯堂微凹。背面除四圍外，中央平窪下，深達3.5公分，並有點狀鑿痕。硯周壁淺刻書畫，刻線均已腐蝕。右、下側壁所刻為王羲之「蘭亭序」全文，文前有雙龍圓璽，後有「宣和」、「紹興」璽，及「米芾」印；上、左側壁為白描線刻蘭亭休褉圖景。硯背刻乾隆四十一年（1776）之硯銘，言清聖祖曾用此硯。銘曰：「物殊顯晦各有時，晦藏顯出誰使其。穆然宋硯古色披，猶是老坑出端溪。蘭亭圖畫前序誰，精鐫四面筆法奇。宣和紹興璽識遺，後有米符小印施。或即顛翁手所為，山莊散置今見之。是誠實也逾珣琪，康熙舊冊還可稽。綈几曾用供臨池，弗愛彝鼎惟愛斯。崇文並與是儉垂，生",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=628372&randomCode=270134180",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=628373&randomCode=209440967",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47729?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47729.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

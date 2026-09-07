@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2743",
+ "name": "端石癡菴硯",
+ "aliases": [
+  "Duan inkstone of “Chian cabin”"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長22.6公分 寬14.8公分 高2.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000159N000000000"
+ },
+ "summary": "長方形抄手硯式，硯面平直，三邊稍突起寬棱，硯池稍寬。石色紫中泛紅，間有青花斑紋。硯的右側壁陰刻「癡菴」二字（黃公望）篆銘，硯背鐫刻楷書清乾隆皇帝御製詩。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=332669&randomCode=90032606332",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=332670&randomCode=41985992092",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2743?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2743.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

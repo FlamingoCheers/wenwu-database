@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2744",
+ "name": "端石抄手硯",
+ "aliases": [
+  "Duan inkstone in \"Chaoshou\" shape"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長14.3公分 寬8.6公分 高3.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000141N000000000"
+ },
+ "summary": "長方形抄手硯式，硯面平直，硯尾無欄，另三邊稍稍突起寬棱，一字形池；硯背自尾端往硯首斜下。石色青紫，間有青黃斑點與線紋。左側鎸隸書︰「所南文房」及篆印「鄭思肖印」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=332539&randomCode=87613441387",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=332540&randomCode=100673815",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2744?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2744.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

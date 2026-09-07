@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3086",
+ "name": "翠濤硯",
+ "aliases": [
+  "Inkstone inscribed with \"Cuitao\""
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長19.8公分 寬12.6公分 高3.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000143N000000000"
+ },
+ "summary": "《西清硯譜》云為：「宋澄泥製」，但就原器觀之，似是元以後作品，硯色青中泛白，長方抄手式，兩跗較短，下端無堵，受墨處寬平正，與墨池通，墨池深一‧七公分，硯面右上方、有一圓形刻痕，《西清硯譜》云：「原橀五銖錢一枚」，然今已不見，僅留此一痕跡。硯首壁側刻隸書：「宋硯」二字，硯右側壁刻隸書：「翠濤」二字，左側壁鐫清高宗御題銘乙首，楷書：「剛而柔，翠欲流，用以敷言萬春秋。」款題：「乾隆御識」，鈐印二：「幾暇怡情」，「得佳趣」，此硯銘亦著錄於清高宗《御製詩文全集》一，《御製文》初集，卷二十七頁六－七。按此硯係在乾隆十四年(1749)冬，清高宗於內府選得古硯材製為古十硯，此硯即為其中第七方，并在硯匣內刻「庚",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=332556&randomCode=49602509354",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=332557&randomCode=1811190036",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3086?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3086.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

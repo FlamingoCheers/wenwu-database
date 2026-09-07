@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2742",
+ "name": "端石凝松硯",
+ "aliases": [
+  "Duan inkstone with inscription \"Ning song (meditative pine)\""
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1271,
+  1368
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長11.9公分 寬7.7公分 高2.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000455N000000000"
+ },
+ "summary": "長方形抄手硯式，硯面平直有傷缺，硯尾無欄，另三邊稍突起寬棱，一字形池；硯背自尾端往硯首斜下。石色青中泛白。端石產於廣東肇慶一帶，唐代中、晚期後受到重視。硯首側壁陰刻隸書「元研」二字；右側壁陰刻「凝松」二字隸銘，左側壁陰刻行楷書年款：「至正二年四月春製」；硯背鐫刻楷書清高宗御製硯銘：「有暈其黃，載守其黑，是為支離之珀。」款：「乾隆御識」，並鐫刻陰文方印：「幾暇怡情」。至正二年即西元1342年。清高宗的這首「凝松硯銘」收錄於《清高宗御製詩文全集》，從文集中可知：清高宗於乾隆十四年 ( 1749 ) 冬季因為「幾餘偶暇」，遂命人整理內府藏硯，選擇了十件古硯 ( 唐硯三件、宋硯六件、元硯一件 ) 撰寫",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=175894&randomCode=82137733806",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=175895&randomCode=1834361653",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2742?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2742.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}

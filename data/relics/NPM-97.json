@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-97",
+ "name": "從星硯",
+ "aliases": [
+  "Inkstone with astrological theme and engraved with poem"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長15.9公分 寬9.0公分 高5.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000152N000000000"
+ },
+ "summary": "棕黑端石，太史式硯，池呈一字，池正下方有一眼柱，象徵明月，淺浮雕流雲環繞，墨堂尾端無欄；兩側壁高。硯背呈抄手樣斜下，斜面高下錯落六十餘眼柱，彷彿眾星在天。右側壁有陰刻行書銘署扥蘇軾。硯首側壁陰刻隸書清高宗銘及篆印。所附木盒蓋面陰刻相同隸書硯銘與款識，印：「幾瑕怡情」、「得佳趣」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=439424&randomCode=80249967394",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=439425&randomCode=64185826053",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/97?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_97.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-07",
+ "updated_at": "2026-09-07"
+}
