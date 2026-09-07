@@ -47,5 +47,14 @@ jobs:
             echo "No new data"
           else
             git commit -m "data: incremental update $(date -u +%F)"
-            git push
+            ok=0
+            for i in 1 2 3; do
+              if git pull --rebase origin master && git push; then ok=1; break; fi
+              echo "push attempt $i failed, retrying after rebase"
+              sleep 20
+            done
+            if [ "$ok" != "1" ]; then
+              echo "::error::push failed after 3 rebase retries"
+              exit 1
+            fi
           fi

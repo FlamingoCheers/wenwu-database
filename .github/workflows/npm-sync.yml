@@ -30,6 +30,14 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Cache NPM raw (resume across runs)
+        uses: actions/cache@v4
+        with:
+          path: raw/npm
+          key: npm-raw-${{ github.run_id }}
+          restore-keys: |
+            npm-raw-
+
       - name: Crawl NPM open data
         run: |
           python collectors/npm_collector.py \
@@ -52,5 +60,14 @@ jobs:
             echo "no new NPM data"
           else
             git commit -m "data: NPM ${{ github.event.inputs.dynasty }} batch"
-            git push
+            ok=0
+            for i in 1 2 3; do
+              if git pull --rebase origin master && git push; then ok=1; break; fi
+              echo "push attempt $i failed, retrying after rebase"
+              sleep 20
+            done
+            if [ "$ok" != "1" ]; then
+              echo "::error::push failed after 3 rebase retries"
+              exit 1
+            fi
           fi
