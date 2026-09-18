@@ -2,14 +2,15 @@
 
 > 固化版执行计划，随进度更新状态。详细背景见 `工作规划.md`。
 > 状态图例：✅ 完成 · 🔄 进行中 · ⬜ 待办 · ⏸ 受阻
-> 最后更新：2026-09-04
+> 最后更新：2026-09-18
 
 ## 当前基线
 
-- 数据：**5,239 件**（Met 2,435 + 克利夫兰 2,804），质检合格率 100%，CC0 图源热链已验证
-- 仓库：github.com/FlamingoCheers/wenwu-database（公开），Actions 每周六 05:00（北京）自动增量更新，超时 360min
-- 前端：**https://flamingocheers.github.io/wenwu-database/** （Pages 已上线，数据推送自动重新部署）
-- 已知尾巴：609 件朝代待复核、414 组同名疑重待审、主题标签未打满
+- 数据：**24,362 件**（Met 10,581 + 台北故宫 10,112 + 克利夫兰 2,804 + 芝加哥 802 + 国博 63），质检合格率 100%
+- 仓库：github.com/FlamingoCheers/wenwu-database（公开），Pages 已上线，数据推送自动重新部署
+- **采集限速政策**：国内博物馆（含国博及后续省级馆）一律 ≤ 100 件 / 6 小时（`nmc-sync.yml` 已按此实现：cron 每 6 小时、单次硬上限 100）；台北故宫与海外馆不受此限
+- 已知问题：9-11 起每周 update-data（Met 增量）因 Met API 连续失败触发熔断（`circuit breaker: consec=100 failed=102/104`）而失败，暂挂起待修；SQLite 快照目前由 nmc-sync 每次重建兜底
+- 已知尾巴：needs_review 待复核、同名疑重组待审（LLM 阶段）、主题标签未打满
 
 ---
 
@@ -41,8 +42,8 @@
 
 | # | 任务 | 产出 | 验收标准 | 状态 |
 |---|------|------|----------|------|
-| 2.1 | 国博采集试点（实测纯静态分页，免 OCR） | `collectors/nmc_collector.py` | 50 件端到端入库过 validate | ✅（52 件，全量 112 页待跑） |
-| 2.2 | 台北故宫 open data 整包 | `collectors/npm_collector.py`（Actions runner） | 入库 ≥ 3,000 件；授权字段核验通过 | 🔄（试点 20 件 ✅；宋轴全量运行中，余朝代逐批） |
+| 2.1 | 国博采集试点（实测纯静态分页，免 OCR） | `collectors/nmc_collector.py` | 50 件端到端入库过 validate | ✅（试点 63 件；`nmc-sync.yml` 每 6h ≤100 件限速全量爬取，112 页 ≈1,344 件约 2-3 天收尾） |
+| 2.2 | 台北故宫 open data 整包 | `collectors/npm_collector.py`（Actions runner） | 入库 ≥ 3,000 件；授权字段核验通过 | 🔄（宋轴批次完成入库 10,112 件，远超目标；唐/明/清等余朝代逐批 dispatch） |
 | 2.3 | 香港故宫 / 史密森尼 API | `collectors/hkpm_collector.py` / `smi_collector.py` | 各 ≥ 500 件入库 | ⬜ |
 | 2.4 | 跨馆去重 | `dedupe.py` 跨馆模式 | 跨馆疑重报告生成并清零 | ⬜ |
 | 2.5 | 图片本地化策略落地 | 缩图管线 + 警戒线监控 | 热链失败的馆走 1000px/q80 缩图入库；仓库 < 1.5 GB | ⬜ |
