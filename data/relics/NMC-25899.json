@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-25899",
+ "name": "青瓷羊圈",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "这是长江三角洲地区常见的模型明器。三国两晋南北朝墓葬中，猪圈、羊圈、鸡鸭笼等模型明器并不少见，皆汉代以来在葬俗中表现庄园经济的一种风气。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218757758775365.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25899.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_25899.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

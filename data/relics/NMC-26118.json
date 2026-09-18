@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-26118",
+ "name": "水排风箱图",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "宋代冶铁业十分发达，北宋皇祐年间(公元1049～1053年)，铁的年产量达到362万公斤。当时北方的冶铁炉大都以煤作燃料，并采用木扇风箱取代过去的皮制排囊，还出现了图中展示的这种水排风箱。这种水力鼓风器是采用卧轮式水车，通过曲柄、杠杆机械的推动来鼓风。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218761995225158.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26118.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_26118.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

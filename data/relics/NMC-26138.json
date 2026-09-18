@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-26138",
+ "name": "开方作法本源图",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "这张图也叫任意高次幂二项式(a＋b)n定理系数表，是北宋数学家贾宪首先求出，南宋数学家杨辉将它收入自己的著作《详解九章算法》中，于是得以流传。图中从第3行至第7行的各个数字，依次是(a＋b)2、(a＋b)3、(a＋b)4、(a＋b)5、(a＋b)6展开后各项的系数。各行数字有规律可以求出，按此规律能将任意高次幂二项式(a＋b)n顺利地展开。公元16世纪30年代，德国和法国的数学家求出这个系数表，称之为“巴斯加三角”。但中国学者将此图称为“贾宪三角”或“杨辉三角”。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218762372592480.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26138.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_26138.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

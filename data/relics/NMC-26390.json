@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-26390",
+ "name": "《水经注》",
+ "aliases": [],
+ "dynasty": "三国",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "三国两晋南北朝时期，地理学有重要的发展，其代表人物是《水经注》的作者郦道元和提出“制图六体”（即中国传统地图绘制理论的六条原则）的地理学家裴秀。郦道元（公元469~527年），字善长，范阳（今河北省涿州市）人，北魏著名地理学家。公元6世纪初，他为三国时期桑钦所著《水经》一书作注，撰《水经注》40卷，书中引用前人和当时人的地理著作，多达370多种，又补充了自己长期实地考察所得大量资料，极大丰富了原书的内容。《水经注》详细叙述了1200多条河流的变迁与地理沿革，生动描写了各地的风土人情和历史遗迹，是富有文学价值的地理名著。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218767152197998.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26390.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_26390.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

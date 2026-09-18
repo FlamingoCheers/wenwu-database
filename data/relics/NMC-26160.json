@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-26160",
+ "name": "鼒簋",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "鼒簋内有10字铭文，记载周王伐荆，鼒参加了这一战事，并用俘获所得铸造这件青铜簋。铭文中的荆就是楚，也称“荆楚”或“楚荆”。楚在西周时期是南方一个强大的诸侯国，对中央王朝时叛时服，周昭王曾亲率大军南征楚国，结果溺死于汉江。鼒簋是“昭王南征”的文物实证。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218762776670397.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26160.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_26160.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}
