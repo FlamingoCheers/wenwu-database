@@ -1,0 +1,80 @@
+# NMC (中国国家博物馆) rate-limited sync: static HTML crawl of zp/zpml catalog.
+# Domestic-museum rate policy: max 100 items per 6 hours (polite crawling).
+# Cron is offset 20min past the hour to avoid top-of-hour contention.
+# NOTE: raw cache persists via actions/cache — raw/ is gitignored, without the
+# cache every run would restart progress from page 1 (页1→112 全量重扫).
+name: nmc-sync
+
+on:
+  schedule:
+    - cron: "20 */6 * * *"   # 00:20/06:20/12:20/18:20 UTC = 08:20/14:20/20:20/02:20 Beijing
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Max items this run (hard-capped at 100 by rate policy)"
+        required: false
+        default: "100"
+      sleep:
+        description: "Seconds between fetches"
+        required: false
+        default: "1.5"
+
+permissions:
+  contents: write
+
+jobs:
+  nmc:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Cache NMC raw (resume across runs)
+        uses: actions/cache@v4
+        with:
+          path: raw/nmc
+          key: nmc-raw-${{ github.run_id }}
+          restore-keys: |
+            nmc-raw-
+
+      - name: Crawl NMC (rate-limited)
+        run: |
+          LIMIT=${{ github.event.inputs.limit || 100 }}
+          if [ "$LIMIT" -gt 100 ]; then
+            echo "rate policy: capping $LIMIT -> 100 items per run"
+            LIMIT=100
+          fi
+          python collectors/nmc_collector.py \
+            --limit "$LIMIT" \
+            --sleep ${{ github.event.inputs.sleep || 1.5 }}
+
+      - name: Validate
+        run: python pipeline/validate.py
+
+      - name: Build SQLite snapshot
+        run: python pipeline/build_db.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "wenwu-bot"
+          git config user.email "bot@wenwu.local"
+          git add data/relics
+          if git diff --cached --quiet; then
+            echo "no new NMC data"
+          else
+            git commit -m "data: NMC batch (+<=100 rate-limited) $(date -u +%F)"
+            ok=0
+            for i in 1 2 3; do
+              if git pull --rebase origin master && git push; then ok=1; break; fi
+              echo "push attempt $i failed, retrying after rebase"
+              sleep 20
+            done
+            if [ "$ok" != "1" ]; then
+              echo "::error::push failed after 3 rebase retries"
+              exit 1
+            fi
+          fi
