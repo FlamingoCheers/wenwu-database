@@ -37,3 +37,6 @@ Thumbs.db
 
 .gh_token_*.txt
 wenwu_gh_token.txt
+
+# 本机推送辅助脚本（不入库）
+push-with-token.ps1
