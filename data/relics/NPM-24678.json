@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24678",
+ "name": "日本 白鳳時代 銅鎏金 佛立像",
+ "aliases": [
+  "Standing Buddha, Japan, Hakuho period (645-710)"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  645,
+  710
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高34.3公分 重7736公克",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000281N000000000"
+ },
+ "summary": "立像臉部及雙肩輪廓線顯得比較方硬，特別是臉部五官技法較寫實，表情嚴肅。衣褶於身前作圓弧狀，十分規矩。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=364916&randomCode=72817598813",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=364917&randomCode=2055525480",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24678?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24678.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

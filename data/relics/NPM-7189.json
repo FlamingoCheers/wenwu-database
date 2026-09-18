@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-7189",
+ "name": "連枝寶相花紋葵花鏡",
+ "aliases": [
+  "Lobed bronze mirror decorated with connected stylized flowers"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  8,
+  9
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑21.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000383N000000000"
+ },
+ "summary": "八瓣葵花形鏡，半球鈕。兩層花葉紋環繞鏡鈕，呈現如盛開寶相花的團花形。外環八朵寶相花，花莖相連成圈。紋飾以細線勾勒為主，輔以局部淺浮雕。花葉內填以細線構成的脈紋，呈現葉茂花繁的華貴景象。 寶相花來自佛教藝術，帶有聖潔的意味。唐代佛教盛行，寶相花因而成為廣受歡迎的裝飾圖案。造型上結合蓮花、薔薇、牡丹、茶花、忍冬等花卉意象，或正或側，變化多樣。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1299&randomCode=443055955",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1300&randomCode=1213583883",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/7189?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_7189.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

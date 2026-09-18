@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-7197",
+ "name": "雙禽銜紋鏡",
+ "aliases": [
+  "Mirror with paired birds"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑15.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000391N000000000"
+ },
+ "summary": "圓鏡，作八瓣葵花形、半球鈕。鏡背飾兩飛鳥銜綬，上方有月魄，其中有桂樹及玉兔，下方有盤龍，間飾卷雲。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1331&randomCode=79232903",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1332&randomCode=917544977",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/7197?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_7197.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

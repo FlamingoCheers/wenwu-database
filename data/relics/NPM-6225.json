@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-6225",
+ "name": "牛尊",
+ "aliases": [
+  "Zun wine vessel in the shape of a buffalo"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高21.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅001303N000000000"
+ },
+ "summary": "全器以牛為造型，昂首直立，四足略張著地，尾長下垂，背馱三個甕。甕上飾卷草紋，甕以雙繩固定於牛背。牛首上揚，正視前方，背脊鼓出三道皺紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=5403&randomCode=1865488200",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=5404&randomCode=1815007618",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/6225?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_6225.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

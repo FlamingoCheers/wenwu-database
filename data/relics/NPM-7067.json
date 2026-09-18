@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-7067",
+ "name": "寶相花紋葵花鏡",
+ "aliases": [
+  "Lobed bronze mirror decorated with stylized flowers"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑14.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000190N000000000"
+ },
+ "summary": "八瓣菱花形鏡，圓鈕，圓鈕座。鏡背飾寶相花紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=627&randomCode=1195772494",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=628&randomCode=1614928531",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/7067?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_7067.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

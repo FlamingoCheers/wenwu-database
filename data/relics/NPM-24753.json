@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24753",
+ "name": "銅鎏金護法獅",
+ "aliases": [
+  "Gilt guardian lion"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "長4.4公分 寬4.4公分 高6.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000355N000000000"
+ },
+ "summary": "鎏金銅獅，昂首，雖睜眼咧嘴，但表情平和而不凶猛。挺胸而前肢撐地，後足曲跪，如跪坐挺胸之人，尾部作S形彎曲，末端急速變大，造型誇張。獅首下的一圈鬃毛，每絡皆先鋪開後收束為卷稍，狀甚可愛，也可與獅子不帶威猛的表情相配。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365135&randomCode=660758372",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365136&randomCode=1199402017",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24753?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24753.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24562",
+ "name": "中國 唐 銅鎏金 佛坐像",
+ "aliases": [
+  "Seated Buddha, China, T'ang dynasty"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通高21.6公分 像高8.5公分 全重733.1公克",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000167N000000000"
+ },
+ "summary": "此像肉髻不明，有小螺髮，額有白毫，頭光鏤空，外輪廓如火焰，內則飾有一法輪，身著褒衣薄帶的漢式袈裟，趺坐於仰覆蓮座上，袈裟下襬懸垂於前。面圓頰豐，身軀肥碩，五官集中，雙眉輕劃上彎，筆小高挺，嘴微抿，表情沉著莊嚴，乃唐代造像的風格。就全身比例而言，頭部較大，所連接的身體有如管狀，則與七世紀下半龍門石窟萬佛洞中尊相似，應為同時代的作品。此像製作精美，背後袈裟的衣紋走向和蓮座瓣紋的理路，皆被以有如刀刻般的線條細膩呈現。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=113149&randomCode=1891425343",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=113150&randomCode=2627119",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24562?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24562.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

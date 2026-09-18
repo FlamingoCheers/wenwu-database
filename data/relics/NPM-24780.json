@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24780",
+ "name": "銅鎏金獸首長柄香爐",
+ "aliases": [
+  "Gilt copper incense burner with long handle decorated with an animal"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  9,
+  10
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高5.5公分 長37.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000382N000000000"
+ },
+ "summary": "銅鎏金香爐，為韓國作品。折沿，筒狀身，高足外撇。附葫蘆鈕圓頂蓋，蓋外與器身飾魚子地鸚鵡轉枝花葉紋。條狀長柄，末端下折並飾獸首。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365197&randomCode=1802200285",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365198&randomCode=223790946",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24780?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24780.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

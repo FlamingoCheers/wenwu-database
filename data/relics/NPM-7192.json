@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-7192",
+ "name": "月魄菱花鏡",
+ "aliases": [
+  "Foliated bronze mirror with a mythical scene on the moon"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  8,
+  9
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑18.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000386N000000000"
+ },
+ "summary": "八瓣菱花形鏡，龜形鈕。主紋飾區為月宮場景。桂樹、擣藥玉兔及蟾蜍均極為生動，左上方修長的嫦娥一手持「大吉」方牌，一手持盛桔果盤，凌空飛舞。鏡鈕下方有一水池，池上方有一「水」字銘文。兩旁各有雲紋一朵，更添仙氣。外區略高，飾一周雲朵、花蝶及瑞花紋。 帶有月宮圖的銅鏡廣見於中唐時期，頗有銅鏡清明如滿月、興福降祉之意。五代馮暉墓的墓室天象圖中，也有相似的月宮圖。顯見月宮故事廣受歡迎，同時也是民間信仰的一部份。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1311&randomCode=473486618",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1312&randomCode=892642655",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/7192?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_7192.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-56134",
+ "name": "玉「嘎拉哈」",
+ "aliases": [
+  "Jade \"Galaha\" amulet"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  907,
+  1234
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長3.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉004842N000000000"
+ },
+ "summary": "骨狀白玉，玉質溫潤。「嘎哈拉」為遼金游牧民族對「髕骨」(膝蓋骨)的稱呼，原本是採對物的臏骨做為玩具或棋子，後來以金屬或玉仿其形作成的「嘎哈拉」，演變成為避邪祈福的吉祥佩飾。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397701&randomCode=46715790629",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397702&randomCode=580523065",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/56134?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_56134.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

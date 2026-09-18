@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43075",
+ "name": "越窯 青瓷圓盒",
+ "aliases": [
+  "Round box in celadon glaze, Yue ware"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.7、口徑9.2、底徑7.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000013N000000000"
+ },
+ "summary": "圓盒，子母口蓋，淺壁，矮圈足。全器施青釉，口沿處露胎，釉色略灰。蓋壁雙圈內中心淺劃花草紋，外雙圈飾花草紋一週。器底七個支釘痕。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400733&randomCode=40757382568",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400734&randomCode=213070490",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43075?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43075.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

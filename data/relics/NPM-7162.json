@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-7162",
+ "name": "四仙菱花鏡",
+ "aliases": [
+  "Foliated bronze mirror with four deities"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑16.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000355N000000000"
+ },
+ "summary": "八瓣菱花形鏡，伏獸形鈕。內區高浮雕紋飾為騎乘獅子、鸞鳳、駿馬及鶴的仙人。仙人飄帶翻飛，坐騎伴以雲朵，展現凌空飛行的姿態。外區略高，飾花枝及蝴蝶。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1186&randomCode=892642655",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1187&randomCode=286214864",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/7162?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_7162.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

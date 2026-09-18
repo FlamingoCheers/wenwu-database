@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24228",
+ "name": "柳斗形玉杯",
+ "aliases": [
+  "Jade cup in the shape of a wicker basket"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  907,
+  1279
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "口徑5.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001178N000000000"
+ },
+ "summary": "玉質，色白潤微有淺黃色斑。侈口，深弧壁，圓底。器身滿琢平行帶結的繩紋，為模擬竹篾籃筐之造型。附木座。本件收入乾隆時期製作多寶格「集瓊藻」中，據集瓊藻小冊所載原有二層七十三件，共儲於嵌飾獸骨螺甸的木箱中。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=303966&randomCode=20782679027",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=303967&randomCode=1855802565",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24228?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24228.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

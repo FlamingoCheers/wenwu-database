@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-51633",
+ "name": "瑪瑙柳斗形雙耳杯",
+ "aliases": [
+  "Agate cup in the shape of a wicker basket with handles"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  907,
+  1279
+ ],
+ "category": "杂器",
+ "material": null,
+ "dimensions": "寬10.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故雜000376N000000000"
+ },
+ "summary": "瑪瑙，半透明乳灰色，微有黃斑。侈口，弧形壁略直，平底，雙耳。口緣雕六枚圓形乳凸，雙耳作紐絲紋，器腹與底皆飾柳斗紋，線條隨器形轉折，極具幾何裝飾感。瑪瑙杯二件成組，與故雜377一對。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=187947&randomCode=56310332557",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=187948&randomCode=1969929945",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/51633?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_51633.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24781",
+ "name": "銅鎏金淨瓶",
+ "aliases": [
+  "Gilt copper vase"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  9,
+  11
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通高12.2公分 口徑2.4公分 頸徑1.3公分 腹徑5.0公分 足徑3.7公分 圈足高0.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000383N000000000"
+ },
+ "summary": "銅質鎏金淨瓶，為韓國作品，年代約為九至十一世紀，相當於韓國之三國時代晚期及高麗（Koryŏ）王朝時期，而佛教是高麗王朝的國教，此時期韓國製作了大量銅製淨瓶與壺，淨瓶之器形亦常見於銅、瓷等不同製作材質。本件圓形侈口帶唇稜，口部向下收斂，直長頸，肩上有一短而彎之管狀流，圓肩，碩腹深長向下漸收斂，脛向內收束，圈足外撇。頸部有兩道凸弦紋，圈足外飾連珠紋一周。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365200&randomCode=327197870",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365201&randomCode=1292088485",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24781?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24781.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

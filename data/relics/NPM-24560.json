@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24560",
+ "name": "銅鎏金坐佛三尊像",
+ "aliases": [
+  "Gilt tablet with seated Buddha and attendants"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高20.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000165N000000000"
+ },
+ "summary": "此佛板的坐佛身穿右袒式袈裟，趺坐於蓮座上，頂有華蓋遮蔽，兩側各有斜披纓珞的菩薩，也站立於蓮座上。坐佛的仰覆蓮座下有一小鬼，單手舉起支撐蓮座，左、右各有一獅和雙手合十、單腳跪地的供養人像。佛和菩薩的面頰豐滿，肩寬腰細，胸腹微隆，表現出肌肉彈性，衣服貼體，肌骨起伏隱約可見，乃唐代佛教造像之風格。此外，二菩薩肚腹前挺，身軀呈Ｓ型，頗有動感，也是唐代菩薩造像常見的作法。隋唐時代佛板的製作相當普遍，常仿石窟寺院作一佛、二菩薩、二弟子的五尊像組合，並有飛天、蓮池等圖像，表現出如來的淨土世界。然而，此佛板僅為三像組合，且無蓮池、飛天等圖像，頗為特別。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=113145&randomCode=24698864259",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=113146&randomCode=67469449762",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24560?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24560.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

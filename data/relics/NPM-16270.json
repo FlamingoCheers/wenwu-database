@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-16270",
+ "name": "三希堂法帖（三）　冊　唐褚遂良書倪寬傳贊",
+ "aliases": [
+  "Modelbooks of the Three RariTies Hall, Vol. 3: Eulogy of the Biography of Ni Kuan"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "书画",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故帖000160N000000000"
+ },
+ "summary": null,
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=481564&randomCode=17563663862",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=481565&randomCode=91071078710",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/16270?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_16270.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

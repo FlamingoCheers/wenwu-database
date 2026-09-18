@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24654",
+ "name": "佛立像",
+ "aliases": [
+  "Standing Buddha"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  668,
+  1392
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通高31.5公分 像重602公克 座重580公克 全重1178公克",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000257N000000000"
+ },
+ "summary": null,
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=113251&randomCode=1723695683",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=113252&randomCode=769525524",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24654?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24654.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "NPM-24089",
+ "name": "人首魚身釉陶像",
+ "aliases": [],
+ "dynasty": "五代十国",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  907,
+  960
+ ],
+ "category": "陶器",
+ "material": null,
+ "dimensions": "高5.8、長12.3、寬4.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購瓷000053N000000000"
+ },
+ "summary": null,
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2662214&randomCode=1055542983",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24089?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24089.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

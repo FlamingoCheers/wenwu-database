@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-45402",
+ "name": "牙雕魚式佩",
+ "aliases": [
+  "Fish-shaped tusk pendant"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "雕塑",
+ "material": null,
+ "dimensions": "長8.2公分 最寬1.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈雕000174N000000000"
+ },
+ "summary": "全器雕成一尾魚形，以圈點紋為眼紋，魚身兩面滿刻交叉斜線為魚鱗紋，尾分叉。口部橫向與直向皆有孔，可供懸佩。器之ㄧ面染成深綠色，另一面成淺綠色。魚符、魚袋均為唐代官員朝服的一種佩飾，當時佩魚制度在初期比較嚴格，魚符的質料到魚袋的鑲飾均有定制，皇太子佩玉魚，親王配金魚，諸官佩銅魚，後來限制放寬，不限官員佩魚，魚式佩成為腰間的魚形佩飾，而非魚符了。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350017&randomCode=87889634808",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350018&randomCode=96291514603",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/45402?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_45402.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

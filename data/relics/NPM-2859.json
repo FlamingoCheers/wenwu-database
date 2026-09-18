@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2859",
+ "name": "銅五足鏤花香薰",
+ "aliases": [
+  "Five-legged copper incense burner with openwork decoration"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高18.6公分 口徑16.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購銅000072N000000000"
+ },
+ "summary": "香薰造型為五瓣花式，口有折邊，深直壁。底平。有五獸足，足上加飾人面。蓋紐呈花苞狀。蓋面有鏤空花樣四葉紋及朵雲紋。朵雲紋為典型之唐代朵雲紋，常出現於唐三彩、唐金屬器等工藝品上。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=125366&randomCode=74760823064",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=125367&randomCode=58026072379",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2859?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2859.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

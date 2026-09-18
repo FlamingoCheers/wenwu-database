@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-6223",
+ "name": "象尊",
+ "aliases": [
+  "Zun wine vessel in the shape of an elephant"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通寬30.0公分 高19.3公分 口徑8.8公分 腹深8.9公分 足高10.0公分 厚0.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅001874N000000000"
+ },
+ "summary": "全器以象為造型，象鼻下垂，四足著地，尾向右側偏，背有一蓋瓶。象頸有項圈，象首微向左傾，前足微曲。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=8053&randomCode=1586166396",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=8054&randomCode=1822954210",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/6223?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_6223.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

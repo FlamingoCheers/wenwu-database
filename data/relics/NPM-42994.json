@@ -1,0 +1,43 @@
+{
+ "relic_id": "NPM-42994",
+ "name": "越窯 蓋盒",
+ "aliases": [],
+ "dynasty": "五代十国",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  907,
+  960
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高4.3、口徑4.1、足徑3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購瓷000113N000000000"
+ },
+ "summary": "圓形盒，子母口、淺弧壁、平底、餅形足，帶錐形鈕圓蓋，蓋呈二階式。全器施青釉，釉色帶黃，足底留有支燒痕。器內外壁可見轆轤痕，蓋外側隱隱有雙弦紋一週。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401755&randomCode=34306154592",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=401756&randomCode=312847891",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/42994?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_42994.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

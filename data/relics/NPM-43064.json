@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43064",
+ "name": "灰陶加彩陶馬",
+ "aliases": [
+  "Pottery horse with painted colors"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "陶器",
+ "material": null,
+ "dimensions": "高68.0公分 長65.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000002N000000000"
+ },
+ "summary": "此作頭上昂，一足躍起作鳴嘶狀。造型俊美，細部肌理處置嚴謹，馬身比例勻稱，馬身雖健碩，配上修長之頸及四肢，整體而言，較一般唐馬來得頎長骨勁。彩繪方面：以白色為底，上描黑、紅色於眼、口明顯之處，另馬鞍及護身皆彩繪圖案，並加金邊描繪。據其殘留彩繪來看，仍可想見其新作時之光鮮。此馬為分段模製、燒造接合而成，不同於漢馬之分段套合方法。接縫粘合緊密，幾不可察。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393001&randomCode=23770549873",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393002&randomCode=1415205616",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43064?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43064.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-7168",
+ "name": "舞燕花枝紋葵花鏡",
+ "aliases": [
+  "Lobed bronze mirror decorated with flying swallows and flowers"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  8,
+  9
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑21.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000361N000000000"
+ },
+ "summary": "八瓣葵花形鏡，半球鈕。鏡背紋飾分為三層。鏡鈕外環繞六枝俯仰相間的盛開花朵。花外為六隻姿態各異的飛燕。最外圈為六朵流雲，拖曳的雲尾為飛行中的燕子增添了輕盈及速度感。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1210&randomCode=2094777781",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1211&randomCode=1488349990",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/7168?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_7168.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

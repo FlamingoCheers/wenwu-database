@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-22616",
+ "name": "清三希堂法帖（三）　冊　唐顏真卿書朱巨川告身",
+ "aliases": [
+  "Modelbook Calligraphy in the Three Rarities Hall (Sanxitang), Three： Transcription of Zhu Juchuan's A Letter of Appointment"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "书画",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈帖000080N000000039\n more\n \n 贈帖000080N000000040\n 贈帖000080N000000041\n 贈帖000080N000000042\n 贈帖000080N000000043\n 贈帖000080N000000044\n 贈帖000080N000000045"
+ },
+ "summary": null,
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=456531&randomCode=36036993402",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=456532&randomCode=34624364856",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/22616?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_22616.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

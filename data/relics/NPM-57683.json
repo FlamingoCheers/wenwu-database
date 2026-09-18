@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-57683",
+ "name": "玉魚龍佩",
+ "aliases": [
+  "Jade pei pendant in the shape of a fish-dragon"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  907,
+  1125
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長3.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉006611N000000000"
+ },
+ "summary": "玉質，全器琢成一扁平異獸形狀，帶龍首，身軀為魚形，帶魚鰭。周身佈滿魚鱗，腹底有一圓穿孔。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=338479&randomCode=65156512567",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=338480&randomCode=98509125132",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/57683?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_57683.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

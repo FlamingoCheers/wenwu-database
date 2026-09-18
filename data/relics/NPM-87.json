@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-87",
+ "name": "玉摩羯佩",
+ "aliases": [
+  "Jade pei pendant in the shape of Makara"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  907,
+  1125
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長7.2公分 高4.75公分 厚1.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001113N000000000"
+ },
+ "summary": "青色閃玉質。器首為龍形，有雙翅，尾作魚形，龍口銜珠。在翅、鰭與尾部共有七個圓穿，可能為佩飾之物。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=405028&randomCode=45649502211",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=405029&randomCode=64905821743",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/87?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_87.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

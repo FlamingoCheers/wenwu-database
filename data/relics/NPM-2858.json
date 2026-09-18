@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2858",
+ "name": "銅四足提鍊香薰",
+ "aliases": [
+  "Four-legged copper incense burner with ring handles"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高10.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購銅000068N000000000"
+ },
+ "summary": "器蓋為穹頂蓋，桃形鈕。蓋面分三層，上層有鏤空四葉花紋。器身為侈口，淺直壁。器底平，加上修長的四獸足和四組環鏈。以細小的鏤空和封閉的爐身看來，似乎宜於薰燒龍腦之類的樹脂類香料。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=125361&randomCode=78216445345",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=125362&randomCode=47764439322",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2858?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2858.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

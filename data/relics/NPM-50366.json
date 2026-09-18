@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-50366",
+ "name": "玉雙獸",
+ "aliases": [
+  "Jade paired beasts"
+ ],
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  907,
+  1368
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "全高1.9公分 長3.1公分 寬3.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉002232N000000000"
+ },
+ "summary": "玉質，色白而光潤。作立雕趴伏小獸二隻，小獸比肩同臥，以口唇及臀腹相連結。伏身翹臀，身體線條雕琢簡單。側邊有二橫孔分自小獸外側足部貫穿，應作為嵌飾他物之用。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=169518&randomCode=52769394127",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=169519&randomCode=509109396",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/50366?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_50366.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

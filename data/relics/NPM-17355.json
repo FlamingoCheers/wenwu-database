@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-17355",
+ "name": "北宋搨絳帖（十）　冊　唐釋懷素五言詩帖",
+ "aliases": [
+  "The Northern Song Dynasty Rubbing of the Jiang Modelbook, Vol. 10: Five Character Poem"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "书画",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故帖000051N000000000"
+ },
+ "summary": null,
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=479177&randomCode=36027371331",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=479178&randomCode=71317687085",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/17355?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_17355.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

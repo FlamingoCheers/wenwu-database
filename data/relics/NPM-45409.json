@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-45409",
+ "name": "骨雕填彩龍首嵌件",
+ "aliases": [
+  "Bone attachment with dragon-head decoration in fill-in paint"
+ ],
+ "dynasty": "五代十国",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  960
+ ],
+ "category": "雕塑",
+ "material": null,
+ "dimensions": "長3.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈雕000181N000000000"
+ },
+ "summary": "取一小段獸骨磨製出一龍首形，並彩繪三角龍眼，全器已呈綠色，仍可辨原所施紅、黑彩。此器依其樸拙之浮雕搭配陰刻技法，或是唐、五代遺物。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350229&randomCode=89802105851",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350230&randomCode=67063051690",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/45409?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_45409.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-5460",
+ "name": "海獸葡萄紋鏡",
+ "aliases": [
+  "Bronze mirror with lions and grapevines"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑13.0公分 邊厚1.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅000049N000000000"
+ },
+ "summary": "圓鏡，獸形鈕。鈕外飾五隻大小瑞獸，鏡背以凸棱分為內、外兩區，內區飾瑞獸，外圈為葡萄藤蔓與小鳥。鏡緣為一周雲朵紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=29168&randomCode=1097725798",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=29169&randomCode=139926116",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5460?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5460.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

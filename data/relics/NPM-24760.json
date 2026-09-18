@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24760",
+ "name": "銅鎏金護法獅",
+ "aliases": [
+  "Gilt guardian lion"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高5.7公分 長5.4公分 寬3.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000362N000000000"
+ },
+ "summary": "鎏金銅獅，四足挺直，足下皆有一插鞘。壯碩的身驅與四肢，甚是威猛。獅尾已失，獅背披鞍韉，上有圓口小器，或可用於插飾，抑或是大型物品的部件之一。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365152&randomCode=443055955",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365153&randomCode=1632739920",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24760?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24760.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-5468",
+ "name": "瑞花龍鳳葵花鏡",
+ "aliases": [
+  "Lobed mirror decorated with phoenixes"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑22.7公分 邊厚0.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅000057N000000000"
+ },
+ "summary": "八瓣葵花形鏡，半球鈕。內區浮雕主紋由龍鳳構成。鏡鈕兩側為相對的展翅舞鳳，佇立在連枝蓮花上。鏡鈕上方為騰龍紋，周圍襯以祥雲。每瓣鏡緣內均有浮雕紋飾，如折枝蓮葉、啣綬飛鳥、小鳥逐蝶等。對鳥形式的紋飾佈局已多見於盛唐時期，騰龍紋及葵瓣形鏡則主要流行於唐代中期。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=29208&randomCode=348638782",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=29209&randomCode=1889694638",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5468?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5468.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

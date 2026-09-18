@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-35696",
+ "name": "黑釉鐵斑三足鍑",
+ "aliases": [
+  "Tripod fu vessel with iron spots on black glaze"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高17.2公分 口徑16.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷011441N000000000"
+ },
+ "summary": "這件黑釉鐵斑鍑口沿微捲，短直頸，圓肩鼓腹，平底，帶有三獸形足。器身施罩醬黑色釉，釉色不勻，釉表有光澤感，釉面可見明顯鐵斑痕跡；器內施釉亦有抹畫痕，外壁施釉不及底，露出棕褐色胎，胎質細膩，外底還可看見轆轤鏇修痕跡。整件作品與河北省深州市下博村唐墓出土品近似，也和三彩、白瓷等相似造型的作品共同反映出九世紀三足鍑盛行的時代風格。本器雖貼有清代「天字三号」黃籤一張，但對照民國十四年（1925）「辦理清室善後委員會」點檢紫禁城故宮物品，以千字文順序所編的《故宮物品點查報告》卻發現，於其時本件的所在地是壽皇殿，稱為「古瓷三足礶」，由此或可反映出清宮物品在傳世過程中可能經過移動或存在不同的編號系統。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=557927&randomCode=44058749766",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=557928&randomCode=1632739920",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/35696?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_35696.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-5346",
+ "name": "瑞花對鳥菱花鏡",
+ "aliases": [
+  "Foliated mirror decorated with auspicious flowers and paired birds"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑18.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅001895N000000000"
+ },
+ "summary": "八瓣菱花形鏡，半球鈕。凸弦紋將鏡背紋飾分為內外兩區。內區為高浮雕對鳥紋，雙鳥展翅飛舞。鈕上方為一寶相花，下方為蓮花紋。外區略高，飾蓮花、卷草及啣枝飛鳥。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=38784&randomCode=1151159965",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=38785&randomCode=544732174",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5346?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5346.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

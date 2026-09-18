@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-45415",
+ "name": "牙梳",
+ "aliases": [
+  "Tusk comb"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1368
+ ],
+ "category": "雕塑",
+ "material": null,
+ "dimensions": "長9.1公分 寬5.2公分 背厚0.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈雕000187N000000000"
+ },
+ "summary": "全器由五塊牙材製成，合併之即呈半月形，中央三塊兩側各有二小孔，最外面兩塊內側也有二孔，可藉插榫相接成一器。器之背寬大致相同，兩端平直，梳齒長度由中央向兩側依序遞減，齒與背之間陰刻二道弦紋間隔。器表有蝕痕，梳齒亦有殘損",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350662&randomCode=86975503296",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350663&randomCode=58867937760",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/45415?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_45415.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

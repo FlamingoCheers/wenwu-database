@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24448",
+ "name": "誕生佛立像",
+ "aliases": [
+  "Standing Infant Buddha"
+ ],
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  9,
+  10
+ ],
+ "category": "杂器",
+ "material": null,
+ "dimensions": "像高21.8公分 通高23.5公分 座徑10.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈雜000193N000000000"
+ },
+ "summary": "銅佛立像，此像頂有肉髻，眉間有白毫，臉型圓鼓，鼻準豐厚，人中短，唇厚，項有三道環紋；全身赤裸，僅自左肩斜掛一條巾帶，立於一圓形銅座上，座有蓮瓣紋邊飾。右手向上作無畏印，左手向下施與願印，為一尊誕生佛像。為印度喀什米爾作品。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=113313&randomCode=49803794441",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=113314&randomCode=61552678313",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24448?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24448.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

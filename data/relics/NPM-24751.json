@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24751",
+ "name": "葡萄紋菱花鏡",
+ "aliases": [
+  "Six-lobed mirror with pattern of grapes"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "長24.0公分 寬4.4公分 高7.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000353N000000000"
+ },
+ "summary": "菱花形銅鏡，素邊，獸鈕。鏡背滿鏨魚子地，其間葡萄枝葉周繞鏡面，禽鳥停佇，異獸奔躍，不但動靜相襯，這些物象浮出表面如以高浮雕技法製作，整個鏡背鑲嵌銀殼鎏金，因表面鎏金而更為顯眼，強烈地展現出動感。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365126&randomCode=2043074319",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365127&randomCode=1975290173",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24751?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24751.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

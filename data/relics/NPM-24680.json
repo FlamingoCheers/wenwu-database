@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24680",
+ "name": "日本 白鳳時代 銅鎏金 菩薩立像",
+ "aliases": [
+  "Standing bodhisattva, Japan, Hakuho period (645-710)"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  645,
+  710
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高36.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000283N000000000"
+ },
+ "summary": "菩薩像作立姿，身軀略呈S形，銅色上半部略透棕紅，下半部微帶古銅青綠。天衣盤繞全身，再雙垂於地。頸飾瓔珞二層，上層飾繩紋，下層飾花瓣紋。山形寶髻，中有化佛，三山寶冠高聳立體，五官清晰，耳垂至肩。右手朝上，手心向外，拇食指相扣，作說法印；左手执瓶。雙手戴腕釧，足踏仰腹蓮華座。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=364928&randomCode=78628490575",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=364929&randomCode=712461834",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24680?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24680.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

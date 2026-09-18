@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43022",
+ "name": "白釉加彩侏儒胡人陶俑",
+ "aliases": [
+  "Pottery funerary figurine of a dwarf painted with unfired pigments"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  683,
+  755
+ ],
+ "category": "陶器",
+ "material": null,
+ "dimensions": "高12.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購瓷000145N000000000"
+ },
+ "summary": "侏儒俑，戴黑幞頭，深目、鷹鉤鼻，高顴骨、紅唇，絡腮鬍。五官立體，為胡人樣。身著圓領長袍，捲袖管，腰束黑帶，短腿，足蹬黑彩尖頭鞋。河南洛陽孟津縣即出土類似的盛唐時期作品，現藏洛陽市文物管理處。 就春秋戰國時期《左傳．襄公四年》及《國語．晉四》中的記載，侏儒常任職豪門參與政治與外交。之後，也以弄臣與優伶的身份出現。唐代皇親貴族更情有獨鍾，除了境內，非洲、東南亞等地的侏儒也紛紛前來。出土的唐代侏儒陶俑中，有樂舞百戲的說唱者，駝隊的馬伕，也有作為皇族陪侍的內官。如唐惠莊太子墓（西元724年病逝）、懿德太子墓（西元706年葬乾陵）等壁畫墓中皆有侏儒內臣的描繪。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=872174&randomCode=865841515",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=872175&randomCode=1115537187",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43022?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43022.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-5309",
+ "name": "連生貴子葵花鏡",
+ "aliases": [
+  "Lobed mirror decorated with lotuses and infants"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  8,
+  9
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑14.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅001880N000000000"
+ },
+ "summary": "八瓣葵花形鏡，半球鈕。鏡鈕上下各有一株蓮花。鈕下蓮枝向左右延伸，開出兩朵蓮花，其上各立一嬰孩，取「連生貴子」之意。外區略高，飾一周花朵及蝴蝶紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=38640&randomCode=1727325206",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=38641&randomCode=350369487",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5309?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5309.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

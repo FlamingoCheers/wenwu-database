@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24144",
+ "name": "鉛綠釉長頸陶罐",
+ "aliases": [
+  "Long-necked pottery jar in green lead-glaze"
+ ],
+ "dynasty": "五代十国",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  801,
+  960
+ ],
+ "category": "陶器",
+ "material": null,
+ "dimensions": "高39.4公分 底徑11.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購瓷000122N000000000"
+ },
+ "summary": "長頸罐，口作捲曲狀，溜肩，鼓腹，下歛脛，平底，腹部貼模印菱形連珠花及圓凸穿帶紐。黃色胎土，通體施鉛綠釉。肩頸處凸棱，為兩段接胎的巧妙運用。內蒙古和林格爾縣土城子遺址，唐末五代墓室出土類似綠釉罐，現藏內蒙古自治區博物館。美國弗瑞爾美術館(Freer Gallery of Art)收藏一套塔式罐，由類似的綠釉長頸罐及高足器座組成。由此推測，院藏作品應為墓室用器，且應為塔式罐的上半部。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173380&randomCode=78281675864",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173381&randomCode=28215303042",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24144?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24144.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

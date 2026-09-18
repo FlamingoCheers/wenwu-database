@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-45412",
+ "name": "牙雕鳥首鉤",
+ "aliases": [
+  "Tusk hook with bird-head decoration"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  1279
+ ],
+ "category": "雕塑",
+ "material": null,
+ "dimensions": "長10.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈雕000184N000000000"
+ },
+ "summary": "長圓柱形，一端作鳥首形，唇部已殘缺，斜雕雙頰，以圈點紋作眼紋，眼瞳深陷，另一端圓突，並有一孔可繫掛。此器以鳥首作鉤，另一端穿孔供繫掛，與傳統帶鉤型制不同，功能佚考。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350239&randomCode=44808483230",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350240&randomCode=81362188201",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/45412?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_45412.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

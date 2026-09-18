@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-57615",
+ "name": "玉飛天",
+ "aliases": [
+  "Jade figure of an apsara"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  907,
+  1125
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬3.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉006543N000000000"
+ },
+ "summary": "玉質沁褐，雕一飛天人物。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=338432&randomCode=70677489816",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=338433&randomCode=67597156470",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/57615?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_57615.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

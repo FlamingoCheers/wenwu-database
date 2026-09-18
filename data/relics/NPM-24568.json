@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24568",
+ "name": "七佛坐像組",
+ "aliases": [
+  "Set of seven seated Buddhas"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "寬13.0公分 高25.7公分 厚10.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000173N000000000"
+ },
+ "summary": "四角形臺座，前後各有兩個壺開光，座面另置一六角形臺座，座頂為花苞狀，自此展開一卷葉，葉中伸出四蓮莖，曼妙生長，七位坐佛被安排成三層，整齊中不失錯落與變化之美。從隋代開始，中國就有將七佛合組一座的佛教造像，七佛代表的是釋迦佛和其前的六佛：毗婆尸佛、尸棄佛、毗舍浮佛、拘留孫佛、拘那含牟那佛、迦葉佛。而此像用以連接七佛的圖像—蓮莖和唐草，則是唐代非常流行的圖像元素。此像造型與贈銅000172相仿，乃一組之作。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=420464&randomCode=89567736060",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=420465&randomCode=39646835809",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24568?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24568.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

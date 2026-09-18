@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-51407",
+ "name": "玉蓮瓣紋碗",
+ "aliases": [
+  "Jade bowl decorated with lotus petal"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  907,
+  1234
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "高5.4公分 口徑11.4公分 底徑6.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉003342N000000000"
+ },
+ "summary": "玉質，有淺赭色瑕紋。圈足。外壁琢飾三重蓮瓣紋；底琢乾掛，外圍雙龍，示乾隆款，並圍飾回文一道。附鏤雕螭紋紫檀木圓座。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=168460&randomCode=36134044938",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=168461&randomCode=22360305015",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/51407?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_51407.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

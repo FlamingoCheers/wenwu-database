@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43509",
+ "name": "綠釉皮囊壺",
+ "aliases": [
+  "Ewer in the shape of a leather pouch in green glaze"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  907,
+  1125
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高32.3公分 寬18.2公分 口內徑4.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000480N000000000"
+ },
+ "summary": "皮囊壺，遼代典型器形，仿契丹族使用的各種皮囊容器而燒造。扁身單孔式，壺身上扁下圓，上穿兩繫孔，邊角處貼飾一獸紋。全器施綠釉，釉不及地。器身一面貼飾團龍紋並刻劃卷紋，另一面貼飾草葉紋同樣刻劃卷紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400016&randomCode=22520925353",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400017&randomCode=1873613954",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43509?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43509.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

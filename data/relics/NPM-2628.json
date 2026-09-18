@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-2628",
+ "name": "灰陶加彩仕女俑",
+ "aliases": [
+  "Painted pottery figure of a standing lady"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "陶器",
+ "material": null,
+ "dimensions": "高75.5公分 寬26.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000434N000000000"
+ },
+ "summary": "本件灰陶女俑，表面白陶衣上原來的彩繪多半脫落，但造型仍充分表現盛唐仕女「大髻寬衣」、「豐厚為體」的形象。女俑昂首端立，長目小口，身著寬鬆的尖領長袍，自頸部長罩下垂；簡單刻劃的衣褶袖痕，如潑墨簡筆的瀟灑自在，並襯顯軀體的豐腴，裙擺曳地，裙袍下露出尖頭履。右臂寬袖抬於胸前，左手微下垂，面部目光溫和，神情安詳，顯得雍容嫻雅；而蓬鬆的髮頂挽著雙髻，兩側髮鬢前攏，烘托滿月般豐潤的面龐。盛唐女子崇尚肥體之美，健康自信的神采，為其他時期所罕見；其風氣直到晚唐、五代仍不衰。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393017&randomCode=32902613194",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=393018&randomCode=1557864841",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2628?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2628.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

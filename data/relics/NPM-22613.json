@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-22613",
+ "name": "清三希堂法帖（三）　冊　唐褚遂良臨蘭亭詩序",
+ "aliases": [
+  "Modelbook Calligraphy in the Three Rarities Hall (Sanxitang), Three： Copy of A Preface to the Orchid Pavilion (Langting Shi Xu)"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "书画",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈帖000080N000000015\n more\n \n 贈帖000080N000000016\n 贈帖000080N000000017\n 贈帖000080N000000018\n 贈帖000080N000000019\n 贈帖000080N000000020"
+ },
+ "summary": null,
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=456507&randomCode=53857609940",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=456508&randomCode=77154119406",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/22613?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_22613.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

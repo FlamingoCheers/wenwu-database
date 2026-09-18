@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-5483",
+ "name": "雲龍紋菱花鏡",
+ "aliases": [
+  "Foliated bronze mirror decorated with a cloud-and-dragon pattern"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑17.6公分 邊厚0.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅000072N000000000"
+ },
+ "summary": "八瓣菱花形鏡，半球鈕。內區飾一浮雕騰龍紋。龍首帶有聳立分叉的雙角，身上滿布鱗甲。龍身翻轉迴旋，四肢伸展強而有力。龍騰於雲霧間氣勢威武，張口啣住球形鏡鈕，極具戲劇張力。四周環繞朵朵流雲，有飛龍在天之象。外區略高，鏡緣菱瓣內為唐鏡習見之折枝花及蝴蝶紋。此類雲龍紋鏡曾出土於陝西、浙江、廣東等地唐墓中。約出現於盛唐晚期唐玄宗 開元年間，極盛於中唐時期。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=29283&randomCode=2084057325",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=29284&randomCode=707101606",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5483?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5483.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

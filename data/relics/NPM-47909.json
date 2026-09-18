@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-47909",
+ "name": "長沙窯 青釉彩繪花卉紋碗",
+ "aliases": [
+  "Bowl with floral decoration in underglaze polychrome, Changsha ware"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高5.2公分 徑15.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000540N000000000"
+ },
+ "summary": "長沙窯也是唐朝時流通在西亞市場上的外銷瓷之一，窯址位於湖南銅官鎮的瓦渣坪，以生產青釉釉下彩繪瓷器聞名。這件淺碗出土於黑石號沈船，採用沾釉方式在口沿內外裝飾出對稱的四個半圓形褐斑，中心畫出簡單率意的四角花圖案。由於同船伴出一件陰刻「寶曆二年七月十六日」紀年銘的同形器，故知這件碗應產燒於九世紀前半葉左右。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=557826&randomCode=175548894",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=557827&randomCode=519829852",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47909?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47909.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

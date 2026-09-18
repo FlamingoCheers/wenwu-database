@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1820",
+ "name": "舞人玉佩",
+ "aliases": [
+  "Jade pei pendant in the shape of a dancer"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  907,
+  1234
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬3.6公分 高7.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉002229N000000000"
+ },
+ "summary": "泛灰的玉色，有深褐斑點。器作人形，頭戴兩側有鳥翅形裝飾的尖頂帽，身穿大圓領、前襬高衩的袍服，腰繫嵌方形帶銙的腰帶，足登短靴。左手揚於耳後；右手橫在腰際，長長的衣袖似因手部不斷的迴轉而起螺旋狀的衣褶，單膝微曲、腳尖點地，另一腳則是以腳跟踩踏於荷葉之上。神色和善，笑容可掬，充份傳達跳舞時的愉悅感。有穿孔，自頭頂直下荷葉底部。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403658&randomCode=94798447398",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403659&randomCode=1655911537",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1820?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1820.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

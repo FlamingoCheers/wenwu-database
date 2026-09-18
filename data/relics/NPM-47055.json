@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-47055",
+ "name": "中國 唐代 八~九世紀或更晚 銅鎏金七佛造像組",
+ "aliases": [
+  "Gilt bronze Seven Buddhas and Attendants, China, T'ang dynasty, 8th~9th century or later"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  8,
+  9
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高25.5公分 長11.6公分 寬9.7公分 木座高3.4公分 長15.3公分 寬12.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000425N000000000"
+ },
+ "summary": "六角形台座六面開光，座上有兩個蓮座，前後排列，後者較大，分成三株，中央一株蓮莖向上伸展，先作雙層花苞狀座，再展開一捲葉，葉中伸出七枝，蔓妙伸展，將七位坐佛安排為三層，整齊中不失錯落與變化之美。另外兩株向兩側各長出一莖，其上安置一騎獸脅侍菩薩像和前方小蓮座上合掌恭立的弟子，共同構成七佛主尊的脇侍。透過蓮葉捲曲婉轉的造型，以及人物對稱協調的安排，使尊像莊嚴中不失靈活。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=347577&randomCode=41724270362",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=347578&randomCode=37165277964",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/47055?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_47055.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

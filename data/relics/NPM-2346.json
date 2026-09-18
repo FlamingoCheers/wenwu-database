@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-2346",
+ "name": "黃釉瓷硯",
+ "aliases": [
+  "Porcelain inkstone in yellow glaze"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長14.0公分 寬9.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000146N000000000"
+ },
+ "summary": "瓷硯，除硯面外均滿釉。高壁，內腔中空，上方的圓形墨池，既為窯燒的氣孔，且可注溫水以暖硯。將硯倒置橫放，其形長方略近梯形，後端稍高而較寬，前端略窄而低，四角皆圓，頂面中央微凹，顯然原形是一瓷枕。此種尺寸稍小的瓷枕，在唐代墓葬及窯址中均曾多次出現，有以為是脈枕，醫療診斷時所用。中央刻乾隆五十六年(1791)楷銘︰「瓷之治本澄泥也，漢之瓦或庶幾也，不見修內宣和何闕斯也。歲久如玉，視玉堂澄泥猶遜茲也。物聚所好，不能不於此而恧斯也。乾陸辛亥御銘。」印：「 比德」、「朗潤」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=332584&randomCode=44922851615",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=332585&randomCode=154107982",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2346?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2346.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

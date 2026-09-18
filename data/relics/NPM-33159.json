@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-33159",
+ "name": "定窯 白瓷繩紋蓋罐",
+ "aliases": [
+  "Lidded jar with rope decoration, Ding ware"
+ ],
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  901,
+  1000
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "通高7.0公分 高5.5公分 口徑4.5公分 底徑3.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷014716N000000000"
+ },
+ "summary": "蓋罐，直口、斜肩、直壁、下腹斜折、圈足。蓋具子口，頂飾瓜蒂狀鈕，器身貼飾四縱向泥條，泥條上加刻斜繩紋。蓋面、肩部各以雙弦紋劃刻為飾。蓋裡無釉露白胎，口緣、足端無釉。貼直稜泥條的裝飾習慣，或與金屬器裝飾相關，常見於十世紀的出土品，而本器與洛陽後梁高繼蟾墓（909）的蓋罐最相近，亦堆貼直泥條為飾、瓜蒂狀蓋鈕。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=623096&randomCode=366450171",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=623097&randomCode=419884338",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/33159?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_33159.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

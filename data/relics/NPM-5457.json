@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-5457",
+ "name": "「卍」字鏡",
+ "aliases": [
+  "Mirror with Swastika pattern"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑14.5公分 邊厚0.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅000046N000000000"
+ },
+ "summary": "四瓣葵花形鏡，略呈方形，半球鈕。鏡背以鏡鈕為中心，飾一雙勾「卍」字紋。「卍」字在佛教中為大吉祥徵象，「卍」字鏡流行於中、晚唐，與民間篤信佛教有關。也有一些「卍」字鏡帶有「永壽之鏡」等銘文，具長壽、吉祥之意。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=29146&randomCode=1210122473",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=29147&randomCode=1629278510",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5457?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5457.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

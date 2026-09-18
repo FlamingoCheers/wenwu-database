@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24236",
+ "name": "玉虎",
+ "aliases": [
+  "Jade tiger"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  907,
+  1234
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "連座高3.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉001342N000000000"
+ },
+ "summary": "玉質，色青黃，質地密潤帶橙黃色斑紋。全器立雕為一虎，作蹲伏狀，圓眼大咧嘴，線條簡單但身形飽滿，顯出嬌憨童趣，腹部上下及二側皆有對穿孔可組配。附木座。本件收入乾隆時期製作多寶格「集瓊藻」中，據集瓊藻小冊所載原有二層七十三件，共儲於嵌飾獸骨螺甸的木箱中。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=315739&randomCode=54523972909",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=315740&randomCode=856851764",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24236?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24236.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

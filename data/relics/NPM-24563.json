@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24563",
+ "name": "銅鎏金菩薩三尊像",
+ "aliases": [
+  "Gilt triad with Bodhisattva"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通高16.5公分 主尊像高10.1公分 含背光高12.8公分 背光高5.7公分 右協侍高5.6公分 左協侍高5.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000168N000000000"
+ },
+ "summary": "主尊菩薩半跏而坐，頭戴寶冠，後有頭光，外側作火焰造型，中間鏤空現捲枝花紋，肩披天衣，纓絡繁身，綬帶垂展腹前，顯得莊嚴華麗。就身形而言，頰豐頸粗，肩膀寬厚，胸腹隆起，顯得健壯結實，但頭頸連接不順，腹前袈裟未現小腿盤折而造成的肌肉起伏，在處理上較為刻板。此外，由於衣紋線方折，懸垂的天衣和袈裟也略顯僵直。值得注意的是，左、右兩尊菩薩，雖未如主尊菩薩般被佩以繁複的飾品，但肌肉表現生動自然，使其姿態顯得靈活而動感。又，主尊所坐木座，疑為後人所加。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=139069&randomCode=21476412877",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=139070&randomCode=64072091703",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24563?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24563.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

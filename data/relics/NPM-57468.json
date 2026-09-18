@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-57468",
+ "name": "玉穿心盒",
+ "aliases": [
+  "Jade round box"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  907,
+  1234
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "徑2.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉006377N000000000"
+ },
+ "summary": "玉質，色白瑩潤。雕圓形玉盒，帶蓋，中有穿心孔。素面無紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1211335&randomCode=1087005342",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1211336&randomCode=1060204202",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/57468?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_57468.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

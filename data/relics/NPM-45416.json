@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-45416",
+ "name": "牙梳",
+ "aliases": [
+  "Tusk comb"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1368
+ ],
+ "category": "雕塑",
+ "material": null,
+ "dimensions": "長8.9公分 寬3.8公分 背厚0.3公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈雕000188N000000000"
+ },
+ "summary": "全器半月形器之背寬大致相同，兩端平直，梳齒長度由中央向兩側依序遞減，梳背外緣陰刻兩道弦紋為飾，齒與背之間陰刻二道弦紋間隔。一根梳齒殘缺。全器並不平整，製作工藝樸拙。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350251&randomCode=22421323693",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350252&randomCode=87638603903",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/45416?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_45416.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

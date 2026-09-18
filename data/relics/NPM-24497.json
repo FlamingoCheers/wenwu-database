@@ -1,0 +1,44 @@
+{
+ "relic_id": "NPM-24497",
+ "name": "青銅佛垂足坐像",
+ "aliases": [
+  "Bronze seated Buddha"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "全器高22.6公分 寬13.0公分 長13.5公分 像高12.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000103N000000000"
+ },
+ "summary": "青銅佛像附座及背光，此像為印尼爪哇作品，屬於中爪哇時期（西元716-927年）或後夏連特拉時期（post-Shailendra period，西元10-11世紀）印度—爪哇（Indo-Javanese）風格造像。像身肉髻、螺髮，圓臉、肩臂圓渾、僧袍貼身而左手衣袖寬大，在手肘處成方折，雙手作說法印。右袒式僧衣樸實無華，台座形式則較繁複，此樣式之台座稱為「金剛寶座」，是由釋迦牟尼在東印度菩提加耶（Bodhgaya）悟道時所坐石板演變而來，最底層矩形基座浮雕雙鹿及法輪，是釋迦牟尼佛悟道後在鹿野苑（Sarnath）初轉法輪（第一次宣說佛法）之標記。矩形基座之上為仰覆雙層蓮花座，佛垂足坐其上。座背由印度",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=112991&randomCode=1739776367",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=112992&randomCode=894373360",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24497?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24497.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

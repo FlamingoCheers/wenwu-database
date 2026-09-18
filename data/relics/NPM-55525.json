@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-55525",
+ "name": "玉馬形墜飾",
+ "aliases": [
+  "Jade pendant in the shape of horse"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  907,
+  1234
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬4.3公分 高3.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉004136N000000000"
+ },
+ "summary": "白玉沁褐。馬採跪臥姿，身形圓潤而粗壯。圓雕整體外型後，再浮雕出耳、尾及腿部；眼、鼻及口部以挖凹的方式表現，其餘以陰線刻做出毛髮的形狀與線條。有一直通穿貫通背部及腹部，一橫通穿貫通下腹部。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397907&randomCode=68660702139",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=397908&randomCode=978238190",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/55525?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_55525.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24559",
+ "name": "中國 唐 銅鎏金 菩薩坐像",
+ "aliases": [
+  "Seated bodhisattva, China, T'ang dynasty"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "長9.2公分 寬7.9 公分 厚1.4公分 重163.1公克 座寬10.3公分 厚2.4公分 高3.6公分 重170.92公克",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000164N000000000"
+ },
+ "summary": "此菩薩頭梳高髻，臉如滿月，五官集中，雙眉輕劃上彎，鼻小高挺，嘴微抿，表情莊嚴肅穆。上半身肩寬腰細，胸腹微鼓，顯現肌膚質感與彈性，下半身裙布貼體，肌骨起伏隱約可見。下裙的衣褶立體，隨著雙腿的彎曲伸展而分佈，呈現出合理的人體結構。特別是在右大腿和右膝處上，此像更分別表現出衣襞層疊和布料受擠壓而凸起的效果。除此之外，裙襬懸垂於座前，衣紋線呈圓弧形分佈，不只是呈現出布料輕柔的質感，更凸顯了線條本身流暢圓轉之美。如此兼具塑造實質骨肉表現和追求線條幾何美感的作法，正是盛唐佛教造像的特色。又，此像坐於一木質圓柱，並被安置在一四腳方座上，疑為後人所做的組合。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=131616&randomCode=54931817283",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=131617&randomCode=651768621",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24559?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24559.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-36040",
+ "name": "白瓷雙龍耳瓶",
+ "aliases": [
+  "Vase with dragon-shaped handles in white glaze"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "通高36.6公分 口徑6.8公分 底徑9.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷012455N000000000"
+ },
+ "summary": "細長頸，兩龍張口向瓶中作吸食狀，形成兩弧形優美之耳。淺青釉斑剝，僅罩住器之上部，下部皆露胎，釉面有細碎紋片，露胎處有淺絳色之大塊斑點。雙龍耳瓶或稱為雙龍柄壺，是唐代常見的器形之一。它的用途至今不明，目前所見作品因多半出土自墓葬，故可將之看成是祭器或明器。這件原屬清宮舊藏的雙龍耳瓶，從雍正、乾隆兩朝官窯相繼仿燒相似的器型看來，至少出土於雍正朝或更早以前。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=557803&randomCode=19810397012",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=557804&randomCode=906824521",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/36040?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_36040.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

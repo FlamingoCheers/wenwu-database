@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-53456",
+ "name": "蟠虺紋鎛",
+ "aliases": [
+  "Bo bell with coiled hui-snake pattern"
+ ],
+ "dynasty": "春秋",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "長31.4公分 寬24.7公分 高56.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅001877N000000000"
+ },
+ "summary": "橢圓體，平口，鈕作異獸相背，兩面皆飾有十八個螺形枚。篆部飾雲雷紋地，舞部飾有直角彎折、相交相錯的幾何形紋，而鉦部的裝飾除了螺形枚之外，其裝飾與舞部相似，又鼓部也飾有同樣類型的紋飾，可說是全器裝飾的主調。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=38610&randomCode=22202044611",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=38611&randomCode=44785574212",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/53456?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_53456.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

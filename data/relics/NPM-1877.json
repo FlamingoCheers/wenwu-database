@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1877",
+ "name": "玉缸",
+ "aliases": [
+  "Jade basin"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  907,
+  1234
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "高2.6公分 徑2.9公分；木座高1.3公分 徑2.8公分 連座高3.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉005611N000000000"
+ },
+ "summary": "玉質泛黃，有綹，缽之內外緣皆有凹痕。附蓮花形木座，上刻蓮瓣紋。貯在院藏〈紫檀木鑲竹絲轉盤格子〉（故雜1284）。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=996981&randomCode=510840101",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=996982&randomCode=1311798692",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1877?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1877.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

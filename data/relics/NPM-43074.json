@@ -1,0 +1,40 @@
+{
+ "relic_id": "NPM-43074",
+ "name": "三彩文官俑",
+ "aliases": [
+  "Sancai tri-color glazed pottery figure of an official"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高 66.5公分 寬16.2公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000012N000000000"
+ },
+ "summary": "文官俑，是墓葬中守衛類的俑。只出現在官階高的大墓中。此俑端莊站立，頭戴梁冠，身穿朝服，寬袍大袖，是唐代盛典時高官的服飾。顏面溫和，衣衫潑彩華麗。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2661451&randomCode=1073471738",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43074?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43074.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

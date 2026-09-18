@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-7051",
+ "name": "「光宅元年」雙魚紋鏡",
+ "aliases": [
+  "Bronze mirror decorated with inscriptions \"Guangzhai yuan nian\" and paird fish"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑11.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000230N000000000"
+ },
+ "summary": "圓鏡，橋鈕。鏡背飾魚紋，銘文帶模糊不清。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=747&randomCode=626866299",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=748&randomCode=1397394227",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/7051?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_7051.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

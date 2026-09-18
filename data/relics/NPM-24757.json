@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24757",
+ "name": "銅鎏金獅",
+ "aliases": [
+  "Gilt lion"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高4.8公分 長6.8公分 寬5.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000359N000000000"
+ },
+ "summary": "鎏金銅獅，昂首而俯視，咧嘴露齒，表情威猛。挺胸而前肢一撐地、一平舉，後足曲跪，屁股著地。雖然由其表情與動作，彷彿可以聽見牠對特定對象威嚇的低吼聲，但是頭大身小的造型，鬃毛貼體的曲順而柔軟表現，都以較為軟性平和的趣味，調和威猛威嚇的陽剛氣息。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365145&randomCode=241602335",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365146&randomCode=1782658191",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24757?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24757.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-51221",
+ "name": "玉人",
+ "aliases": [
+  "Jade figure"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "玉器",
+ "material": null,
+ "dimensions": "寬1.7公分 高4.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉003127N000000000"
+ },
+ "summary": "玉質，有瑕斑，周身帶赭褐色斑紋。玉人作寬衣博袖狀，頭上有冠，雙手互握，形貌恭謹，自頂至底，直穿一孔，可作穿戴之用。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=169724&randomCode=68236800809",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=169725&randomCode=76578439272",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/51221?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_51221.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-6546",
+ "name": "嵌金銀蟠虺紋罍",
+ "aliases": [
+  "Lei wine vessel with coiling kui dragon pattern and inlaid with gold and silver"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高49.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000858N000000000"
+ },
+ "summary": "罍，附蓋、短頸、折肩、斂腹、圈足。捉手及圈足以鏤空及錯金銀飾波帶紋，肩部飾三小獸頭，並有三角形葉紋，腹部以蟠虺紋為主。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=3353&randomCode=75279201838",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=3354&randomCode=14645995443",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/6546?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_6546.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

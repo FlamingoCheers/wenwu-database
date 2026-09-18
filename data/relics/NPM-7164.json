@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-7164",
+ "name": "雙鸞鏡",
+ "aliases": [
+  "Bronze mirror decorated with paired phoenixes"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑19.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000357N000000000"
+ },
+ "summary": "圓形鏡，半球鈕，圓鈕座。鏡背鑄成如剔地平雕效果的相對鸞鳳紋，鸞鳳羽翼飽滿，體態華貴。鳳鳥間填以雲朵及花葉紋。 剔地平雕紋飾見於唐晚期銅鏡。陝西歷史博物館藏有一件剔地平雕雙鳳牡丹紋鏡，類似鏡也曾出土於雲南大理。剔地平雕宛如剪紙一般的視覺感，有別於唐鏡習見的高浮雕作法，或許是仿自中唐時期流行的金銀平脫嵌片效果。凹下的襯地原本可能填漆或玉石、貝殼等其他材料。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1194&randomCode=147017049",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1195&randomCode=2107228942",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/7164?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_7164.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

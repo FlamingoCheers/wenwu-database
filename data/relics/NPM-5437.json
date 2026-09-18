@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-5437",
+ "name": "瑞花紋葵花鏡",
+ "aliases": [
+  "Lobed mirror decorated with auspicious flowers"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  8,
+  9
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑18.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅002009N000000000"
+ },
+ "summary": "八瓣葵花形鏡，半球鈕。鏡背紋飾為位置相對的闊葉大花折枝四株。花朵或開展或低垂，展現了含苞、初綻、盛開與怒放等姿態。茂盛的蓓蕾與繁複的花瓣呈現花朵嬌態，饒富生趣。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=39357&randomCode=507378691",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=39358&randomCode=1697062656",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5437?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5437.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

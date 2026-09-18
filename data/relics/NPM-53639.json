@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-53639",
+ "name": "石圭璧",
+ "aliases": [
+  "Stone gui-bi"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長20.4公分 璧徑13.8公分 孔徑2.0公分 厚1.9公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈玉000474N000000000"
+ },
+ "summary": "石質，有赭沁色及赭斑點。全器呈圓璧形，兩端有凸起，乃為圭與璧結合之形狀。外壁無紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=123524&randomCode=34715518964",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=123525&randomCode=33555568894",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/53639?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_53639.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

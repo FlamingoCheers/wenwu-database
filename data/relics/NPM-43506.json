@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43506",
+ "name": "三彩印花牡丹紋方碟",
+ "aliases": [
+  "Square saucer with impressed peony decoration in sancai glaze"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  907,
+  1125
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "長12.4-12.6公分 高2.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000477N000000000"
+ },
+ "summary": "方碟，花形敞口，斜壁，平底。器施白、黃、綠三彩釉，底露胎無釉。器內底心及均分成八格的內壁，各印牡丹花葉，四角加飾綠葉一片。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400602&randomCode=39942324070",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400603&randomCode=1217213406",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43506?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43506.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

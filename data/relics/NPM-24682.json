@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24682",
+ "name": "日本 白鳳時代 銅鎏金 菩薩立像",
+ "aliases": [
+  "Standing bodhisattva, Japan, Hakuho period (645-710)"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  645,
+  710
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通高20.2公分 像高19.7公分 全重1006.0公克",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000285N000000000"
+ },
+ "summary": "觀音菩薩立像，銅鑄成，外表鍍金菩薩。臉形長方，鼻翼低平，嘴寬唇厚，耳長圓潤，頭帶寶冠，異常高聳，頂端成三叉狀，置於似背光圖形的寶冠之上。天衣從雙肩垂下，於腰下相合與蓮座相連；裸上身，身體扁平，身形窄瘦，無肌肉感，側看略呈S形；右手舉起平貼至肩，左手自然垂下，手背朝前，整體刻畫帶有方面直聳的流暢感，風格十分特殊。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=364942&randomCode=473486618",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=364943&randomCode=1663170583",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24682?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24682.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

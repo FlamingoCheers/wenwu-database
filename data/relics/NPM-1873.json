@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1873",
+ "name": "玉獅",
+ "aliases": [
+  "Jade lion"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  907,
+  1234
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長3.6公分 寬1.7公分 高5.4公分；木座長5.2公分 寬3.0公分 高1.5公分 連座高6.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉005608N000000000"
+ },
+ "summary": "玉獅，作立姿，頭微仰，睜眼、張口齜牙貌，嘴巴兩側有長鬚，尾巴上揚，右腳搭於繡球上。頭部、尾雕飾弧形曲線紋飾，表現鬃毛的豐厚感，四足指爪與關節處雕琢細緻。玉質帶綹，頭部與四肢有局部烤皮褐斑。帶鏤空雕樹石木座一只。原存放在院藏〈紫檀木鑲竹絲轉盤格子〉（故雜1284）中。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=996967&randomCode=1318889625",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=996968&randomCode=1138708804",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1873?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1873.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

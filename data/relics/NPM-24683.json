@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24683",
+ "name": "日本 白鳳時代 銅鎏金 佛坐像",
+ "aliases": [
+  "Seated Buddha, Japan, Hakuho period (645-710)"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  645,
+  710
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "像長13.0公分 寬9.0公分 高18.8公分 木座長21公分 寬15公分 高11公分 像重1884公克",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000286N000000000"
+ },
+ "summary": "螺髻細瑣，雙目微睜，臉頰豐滿，身著通肩衲衣，結跏趺坐，衣著雕刻流暢自然，層層疊疊，然質感生硬。雙手分置腿上，右手朝上，手心向外，左手無名指與小指微曲，手心向上，分作施無畏印和與願印。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=326034&randomCode=1094096275",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=326035&randomCode=555452630",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24683?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24683.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

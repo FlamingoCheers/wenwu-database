@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-42934",
+ "name": "青瓷鳥紋單把壺",
+ "aliases": [
+  "Single-handled pot with bird decoration in celadon glaze"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高23.3、口徑11.4、底徑18公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購瓷000045N000000000"
+ },
+ "summary": "單把壺，撇口、長頸、斜肩、碩腹下微斂、平底、餅形足，肩一側出六角狀流，一曲把附於頸肩處與流口相對。全器施青釉，足無釉露胎，足底留有一週支燒痕。器外壁自肩部凹刻直線紋，將腹部分為四瓣；流口正下方以褐彩繪一雀鳥立於樹梢，呈欲展翅高飛之姿；足沿繞弦紋一道。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400194&randomCode=45129073265",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400195&randomCode=662489077",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/42934?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_42934.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

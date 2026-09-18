@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-52201",
+ "name": "花鳥紋玉簪首",
+ "aliases": [
+  "Jade Hairpin top with flower-and-bird pattern"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "連銀柄長9.65公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購玉000251N000000000"
+ },
+ "summary": "玉質，色青白，有白斑。呈三角形，雙面淺浮雕朵花與葉，其間停有小鳥，鳥翅與花葉交錯。一角鑲嵌鏤雕枝葉果實的金屬飾件。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=187788&randomCode=84788779680",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=187789&randomCode=780245980",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/52201?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_52201.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

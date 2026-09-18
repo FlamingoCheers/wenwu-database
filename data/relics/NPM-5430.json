@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-5430",
+ "name": "三樂鏡",
+ "aliases": [
+  "Mirror decorated with the Three Pleasures"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  8,
+  9
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑12.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅002001N000000000"
+ },
+ "summary": "圓形鏡，半球鈕。鏡鈕上方有帶框銘文三行：「榮啟奇/ 問曰答/ 孔夫子」，左方人物為持杖孔子，右方為以鹿皮為衣的榮啟奇。下方柳樹一株，象徵郊野。 此圖典故出於《列子》〈天瑞〉：「孔子遊於太山，見榮啟期行乎郕之野，鹿裘帶索，鼓琴而歌。孔子問曰：『先生所以樂，何也？』對曰：『吾樂甚多：天生萬物，唯人為貴。而吾得為人，是一樂也。男女之別，男尊女卑，故以男為貴；吾既得為男矣，是二樂也。人生有不見日月、不免襁褓者，吾既己行年九十矣，是三樂也。貧者士之常也，死者人之終也，處常得終，當何憂哉？』孔子曰 ：『善乎！能自寬者也。』」榮啟奇為人、為男、年過九十的三個快樂，展現恬淡自若的人生態度，使之成為賢者隱士的代",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=39325&randomCode=1338431719",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=39326&randomCode=2108959647",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5430?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5430.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-43058",
+ "name": "白瓷匜",
+ "aliases": [
+  "Yi water vessel in white glaze"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高8.1、口徑13.7、足徑7.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購瓷000184N000000000"
+ },
+ "summary": "匜形器，敞口、深弧壁、平底、矮圈足，腹一側出圓管狀短流。全器施白釉，釉色泛黃，內外壁多處可見縮釉小點，外底及圈足露胎。器內外壁留有轆轤痕，外口沿隱隱可見凹弦紋一道。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400640&randomCode=45400671452",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=400641&randomCode=566173086",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/43058?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_43058.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

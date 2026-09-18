@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-102",
+ "name": "澄泥圓硯",
+ "aliases": [
+  "Round refined clay inkstone"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  10,
+  13
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "通高2.2公分 高1.7公分 徑12.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中文000028N000000000"
+ },
+ "summary": "硯，圓形，色棕褐黝黑，硯面周緣起一圈棱，一端有璜形池，墨堂微圓凹。硯背鼎立三矮柱狀足，足間模印四行楷書硯銘，多字漫渙，押一篆書方印：「儒林之寶」。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=184383&randomCode=56942939953",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=184384&randomCode=1661271765",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/102?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_102.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

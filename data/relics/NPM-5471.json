@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-5471",
+ "name": "寶相花菱花鏡",
+ "aliases": [
+  "Foliated mirror decorated with stylized flowers"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  7,
+  8
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑12.9公分 邊厚0.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故銅000060N000000000"
+ },
+ "summary": "八瓣菱花形鏡，伏獸形鈕。內區飾四朵六瓣團花形寶相花，間以忍冬花卉。外區略高，飾折枝花及花朵紋。 菱花鏡為盛唐時期興起的鏡式，配以變化萬千的寶相花紋，美不勝收。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=29222&randomCode=250423973",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=29223&randomCode=669580010",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/5471?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_5471.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

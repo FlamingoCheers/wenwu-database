@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24564",
+ "name": "中國 唐 銅鎏金 佛坐像",
+ "aliases": [
+  "Seated Buddha, China, T'ang dynasty"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高24.5公分 寬13公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000169N000000000"
+ },
+ "summary": "此像半跏而坐，手作降魔印，身著僧祇支，外罩右袒式袈裟，有鏤空頭光，尖端破損，內有捲草紋相纏。五官集中，眉眼上挑，嘴小微抿，表情安詳而肅穆。面頰豐滿，頸短而粗，肩膀厚實，身形頗為壯碩。袈裟貼體，雖可見袈裟之下的肌骨起伏，但表現得並不自然，尤其是垂落臺前的左小腿彷若一幾何圓柱般。同樣地，袈裟的衣紋走向雖與身體結構呼應，且相當程度地呈現出布料懸垂的柔軟質感，但在處理上有規格化的傾向。例如，此像左腳懸垂座前，但腹前袈裟的衣紋走向卻給人左腳疊於右膝頭上的錯覺，似是直接拷貝至如贈銅000166般這類姿態的佛教造像。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=131620&randomCode=53400359284",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=131621&randomCode=505479873",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24564?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24564.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

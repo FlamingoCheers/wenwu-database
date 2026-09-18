@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24561",
+ "name": "佛坐像",
+ "aliases": [
+  "Seated Buddha"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "A.座寬10.6公分 厚6.5公分 高5.4公分 重160.7公克 B.像寬5.5公分 厚3.5公分 高16.8公分 重272.1公克 C.頭光寬5.5公分 高7.8公分 重33.1公克 D.主尊含座及頭光通高21.8公分 E.整組含脇侍台座 通高27.5公分 通寬20.5公分 厚14公分 全重1280.1公克",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000166N000000000"
+ },
+ "summary": "此像身著僧祇支，外罩右袒式袈裟，趺坐於蓮臺上，下有一四角座，身後則有鏤空頭光，外圍輪廓為火焰造型，內則為卷草相纏，以插榫與佛頭相固定。面圓頤豐，眉眼上挑，鼻樑尖挺，嘴小微抿，表情莊嚴。胸腹隆起，呈現出肌肉的彈性，袈裟貼體，隱約可見肌骨的起伏。袈裟的衣褶立體，其走向除了與肢體動作呼應之外，亦呈現布料本身的柔軟質感。特別是，在佛的左手前臂，以及從左小腿到蓮座側面的轉折處，水平分佈的圓弧狀衣紋就分別表現出袈裟層疊和懸垂之感。又，此像另附有一台座和二脇侍菩薩，或為後人所加。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2670437&randomCode=1844007791",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=2670438&randomCode=1590531552",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24561?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24561.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

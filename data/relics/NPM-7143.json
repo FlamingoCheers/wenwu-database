@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-7143",
+ "name": "狻猊葡萄鏡",
+ "aliases": [
+  "Bronze mirror with lions and grapevines"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑13.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000334N000000000"
+ },
+ "summary": "圓形鏡，伏獸形鈕。鏡背高浮雕紋飾以高起的連珠弦紋分為內外兩區。內區為五隻獅子遊憩於葡萄藤蔓上。外區葡萄藤蔓間有八隻小鳥，或停佇或飛翔，姿態宜人。鏡緣飾雲朵紋。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1106&randomCode=821228986",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1107&randomCode=2010912951",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/7143?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_7143.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

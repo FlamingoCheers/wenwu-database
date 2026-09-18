@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-20640",
+ "name": "唐顏真卿劉中使帖　冊",
+ "aliases": [
+  "Letter on Imperial Commissioner Liu"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "书画",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購書000858N000000000\n more\n \n 購書000858N000000B01\n 購書000858N000000B02\n 購書000858N000000B03\n 購書000858N000000B04\n 購書000858N000000B05\n 購書000858N000000B06\n 購書000858N000000B07\n 購書000858N000000B08\n 購書000858N000000B09\n 購書000858N000000B10\n 購書000858N000000001"
+ },
+ "summary": null,
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=487976&randomCode=63135814630",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=487977&randomCode=47577075660",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/20640?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_20640.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

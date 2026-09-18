@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-2608",
+ "name": "鍍金銅板舍利塔",
+ "aliases": [
+  "Gilt bronze reliquary stupa"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "高18.5公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "購銅000140N000000000"
+ },
+ "summary": "此塔由可重組的四部份相互疊置而成︰塔基、塔身、覆缽和塔剎，以銅片敲擊成型，外鍍金幾已盡退。塔基為須彌座，下三層，上二層，側刻直線，仿磚砌效果，中間最高層每面開三雲形窗，基座內層頂部浮雕蓮花，中央一圓孔，直徑三公分。基座正面三邊刀刻銘記。塔身四面各開一圓拱形龕，龕上左右各立二人，龕側柱上各一立鳥，尖啄羽冠，翼豐微揚，塔身四面接合而成。四龕分別為四本生故事︰尸毗王割肉飼鷹救鴿－菩薩右腿側伸，左腿盤坐，右上一人持劍，右前一人似持秤；月光王捐捨寶首－菩薩頭上一樹，是繫髮所在，二人持劍分別立於菩薩頭上和頭前，一人在前下方伸手捧接；慈力王割耳燃燈－菩薩半跏而坐，一手置一人頭上，外圍眾人環繞，座前三羊低首；",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1305983&randomCode=646408393",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1305984&randomCode=453776411",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/2608?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_2608.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

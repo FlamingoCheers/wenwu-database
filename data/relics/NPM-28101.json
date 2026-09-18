@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-28101",
+ "name": "祕閣帖（九）　冊　唐孫過庭書虞世南獅子賦",
+ "aliases": [
+  "Calligraphic Modelbooks From the Secret Chamber, (Nine): Copy of Yu Shinan’s Ode to Lion"
+ ],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "书画",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈帖000033N000000016\n more\n \n 贈帖000033N000000017\n 贈帖000033N000000018\n 贈帖000033N000000019\n 贈帖000033N000000020"
+ },
+ "summary": null,
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=455315&randomCode=65323087353",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=455316&randomCode=87110177187",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/28101?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_28101.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

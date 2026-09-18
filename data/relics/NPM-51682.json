@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-51682",
+ "name": "玉柳斗形杯",
+ "aliases": [
+  "Jade wicker-shaped cup"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  907,
+  1279
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "帶銀框座高7.0公分 高4.5公分 口徑7.4公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉003654N000000000"
+ },
+ "summary": "玉質，有綹。仿草編花籃，器外壁刻劃編織紋路。下有金屬鏤空托座，下接三蹄足，在三足上填燒琺瑯花葉裝飾。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=130602&randomCode=22002233547",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=130603&randomCode=76576426149",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/51682?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_51682.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-24139",
+ "name": "三彩人馬俑",
+ "aliases": [
+  "Pottery figure of rider on a horse with sancai glaze"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  683,
+  755
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高41.0公分 長36.0公分 寬10.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈瓷000058N000000000"
+ },
+ "summary": "一男子騎馬的塑像，馬形壯碩，四肢勁立於長方板上。男子正身而坐，雙手近馬首如勒韁繩。灰黃陶胎，施白色陶衣，罩飾低溫三彩釉，黃、綠、白、褐色相間。唐人崇尚厚葬，當時的貴族高官「競為厚葬，偶人象馬，雕飾如生，徒以炫耀路人。」三彩鉛釉，色澤亮麗，最宜於葬儀隊伍炫耀遊街，蔚為風尚。盛唐墓葬因此常發現大量三彩人俑。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173316&randomCode=39491680039",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173317&randomCode=44149064412",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24139?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24139.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

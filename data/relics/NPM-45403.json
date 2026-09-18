@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-45403",
+ "name": "牙雕刀式佩",
+ "aliases": [
+  "Knife-shaped tusk pendant"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "雕塑",
+ "material": null,
+ "dimensions": "長8.0公分 最寬0.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈雕000175N000000000"
+ },
+ "summary": "器下半部成刀形，上端鈍尖，剖面成圓形，末端有一穿孔可供懸佩。器身飾圈點紋，並陰刻弦紋與斜線紋。全器已染成綠色。唐代服飾受到胡服影響，腰間革帶上佩飾所謂「蹀躞七事」，包括刀子、礪石、算袋、手巾等等。唐末五代，這七事成為佩飾。此件刀是珮，或即由腰間佩刀蛻化而成。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350020&randomCode=46414075806",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=350021&randomCode=31934863610",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/45403?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_45403.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

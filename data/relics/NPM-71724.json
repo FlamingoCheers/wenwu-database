@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-71724",
+ "name": "玉雙雀",
+ "aliases": [
+  "Jade paired finches"
+ ],
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  907,
+  1234
+ ],
+ "category": "玉器",
+ "material": null,
+ "dimensions": "長3.1公分 寬1.8公分 高2.1公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故玉004356N000000000"
+ },
+ "summary": "本器為橢圓形、雕刻禽鳥一雙，浮游於荷葉上，玉質。禽背相鄰中間到荷葉底有對穿打孔形成上下串接用的穿孔，禽眼由桯鑽而成，羽翅線條簡約。成雙成對的禽鳥動物造形為北方游牧民族常見的玉雕題材。本器從對禽形式與桯具技巧，以及穿孔所顯現的使用方式來看，屬遼至金代作品。本器與玉璧形佩（故玉4355）共同盛放於金漆菊花小圓盒（故漆399）內。存放在院藏「紫檀雕蟠龍方盒百什件」（故雜877）中。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=281472&randomCode=30008118908",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=281473&randomCode=17164609041",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/71724?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_71724.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

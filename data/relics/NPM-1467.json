@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-1467",
+ "name": "邢窯 白瓷穿帶壺",
+ "aliases": [
+  "Porcelain vase with loops in white glaze"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高20.2公分 口徑6.3公分 足徑9.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷004012N000000000"
+ },
+ "summary": "仿似金屬或皮質的壺，小口、短頸、圈足，筒狀圓長腹的兩側微凹下若溝，溝槽上下各貼二絆耳，使繩索能沿溝穿繫；頗似遊牧民族隨騎攜帶的水器。此壺灰白胎，外壁暨底足施白釉，釉色瑩亮，積釉處微具湖水青色。釉下施陶衣，陶衣缺漏處色偏青黃。以蕩釉法上釉，釉面有釉蕩垂的痕跡，器裡釉不及半，足壁及腹下緣亦有多處塊狀缺釉處似手執拿時所遺，足裡有沙黏附。外表光素而自有明豔的氣質。其成型仔細，絆耳以泥刀壓黏，留下如指狀的邊緣，頗與邢窯窯址所見殘器相似。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=557715&randomCode=41062476127",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=557716&randomCode=1593487619",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/1467?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_1467.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

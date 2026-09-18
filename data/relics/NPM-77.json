@@ -1,0 +1,42 @@
+{
+ "relic_id": "NPM-77",
+ "name": "白瓷「官」字花式碗",
+ "aliases": [
+  "White-glazed bowl with floral rim Kuan mark"
+ ],
+ "dynasty": "五代十国",
+ "dynasty_confidence": "medium",
+ "year_range": null,
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高6.8公分 口徑21.7公分 足徑10.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003779N000000000"
+ },
+ "summary": "撇口碗，壁陡斜，五瓣花式口，每二曲片為一花瓣；曲瓣切刻深而分割不甚均勻。口緣薄且經刮磨。圈足，足緣無釉。胎細薄，釉極瑩白。足裡刻「官」字，為上釉後入窯前所刻。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403627&randomCode=96115517682",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=403628&randomCode=250423973",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/77?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_77.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

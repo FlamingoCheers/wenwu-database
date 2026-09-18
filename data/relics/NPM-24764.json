@@ -1,0 +1,40 @@
+{
+ "relic_id": "NPM-24764",
+ "name": "飾品",
+ "aliases": [
+  "Ornament"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "通高31.7公分 像高22.5公分 全重1599.8公克(含座)",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈銅000366N000000000"
+ },
+ "summary": "銅鎏金，一羅漢或僧人盤坐，手捧一碗，兩旁有卷草紋環繞，頂端飾一花朵，下方有一片狀物，可能是做插銷之類的用途。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=365162&randomCode=1206492950",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/24764?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_24764.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

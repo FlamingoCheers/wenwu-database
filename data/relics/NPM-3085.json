@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-3085",
+ "name": "觀象硯",
+ "aliases": [
+  "Inkstone inscribed with \"Guanxiang (astronomical observation)\""
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "文房用具",
+ "material": null,
+ "dimensions": "長15.3公分 高5.8公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故文000451N000000000"
+ },
+ "summary": "端石，硯作八棱形，左右側壁以獸面紋為身，各帶一鈕。墨池分三格，硯首刻隸書：「觀象」二字，硯首壁側鐫隸書：「唐硯」二字，周環鐫清高宗御題梁邱遲體迴文銘乙首，楷書：「美最中全體大用堅」八字，中刻「乾隆御玩」四字，右上方有古錢暈痕，帶木盒，木盒中鐫「甲」字。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173037&randomCode=61161937935",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=173038&randomCode=1204762245",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/3085?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_3085.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

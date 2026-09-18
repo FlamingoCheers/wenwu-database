@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-76",
+ "name": "白瓷皮囊壺",
+ "aliases": [
+  "White-glazed ewer in the shape of a leather pouch"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  9,
+  10
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高14.4公分 口徑2.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中瓷003780N000000000"
+ },
+ "summary": "皮囊壺、圓口、弓式提梁，提梁尾端翹起為羽翅形；扁圓器身、小平底；底部略平無釉，但修削不整，周圍黏有窯渣及沙粒。腹飾三道泥條貼繞器身，肩部錐飾飄垂流蘇的鞍布。本器製作規整，器輕巧，底部略沉；胎體堅緻細密，牙白釉色調微偏黃，薄而溫潤，積釉處略帶青調。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=404778&randomCode=62959593143",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=404779&randomCode=1916327665",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/76?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_76.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

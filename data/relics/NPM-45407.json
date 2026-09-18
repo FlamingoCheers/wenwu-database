@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-45407",
+ "name": "象牙雕馬首鈕箸",
+ "aliases": [
+  "Ivory chopstick with horse-head decoration"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "雕塑",
+ "material": null,
+ "dimensions": "長20.7公分 徑0.6公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "贈雕000179N000000000"
+ },
+ "summary": "磨取一根象牙，一端雕一正面馬首，背面中央刻一長凹槽，斜線陰刻馬鬢，馬首立於工字臺上；其下方中段稍凸，陰刻斜線以示馬身，馬身又立於二層工字臺上，此段局部傷損，箸挺四個部位陰刻斜線為飾，全器已染成淡綠色。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=349777&randomCode=54096271368",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=349778&randomCode=90723344779",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/45407?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_45407.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

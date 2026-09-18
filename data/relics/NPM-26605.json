@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-26605",
+ "name": "白瓷折腰碟",
+ "aliases": [
+  "Angled-waist plate with white glaze"
+ ],
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1368
+ ],
+ "category": "瓷器",
+ "material": null,
+ "dimensions": "高2.5公分 口徑12.0公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "故瓷012255N000000000"
+ },
+ "summary": "撇口折腰盤，器壁自口斜向下內收而呈弧形，淺腹，器腹中部向內折，碟心微凹，矮圈足；口沿無釉，鑲銅釦。全器光素無紋飾，內外壁通體施釉，釉色牙白中帶灰，內外壁於口沿附近有淺褐色冰裂狀細紋；足端露胎，現褐色墊斑五片。碟心有數枚支釘痕跡。此種支燒法，類山西霍州窯製品。圈足附近有舊傷，器壁可見使用痕跡。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=407340&randomCode=47304408734",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=407341&randomCode=50263681271",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/26605?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_26605.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}

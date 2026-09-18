@@ -1,0 +1,45 @@
+{
+ "relic_id": "NPM-7181",
+ "name": "遊禽花枝鏡",
+ "aliases": [
+  "Bronze mirror with waterfowl and flowers"
+ ],
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  7,
+  8
+ ],
+ "category": "青铜器",
+ "material": null,
+ "dimensions": "直徑17.7公分",
+ "excavated_from": "",
+ "collection": {
+  "museum": "台北故宫博物院",
+  "region": "中国台湾",
+  "inventory_no": "中銅000375N000000000"
+ },
+ "summary": "圓形鏡，半球鈕。三紋飾區以弦紋為界，呈同心圓分佈。中心區為四隻禽鳥與花株。第二層為間以花枝的水禽及飛鳥。外緣為一周雲朵紋。紋飾佈局如禽鳥嬉遊於花草叢間，水禽或振翅，或回首，或行走，配以飛翔鵲鳥及小巧雲朵，呈現恬淡宜人的風景。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1267&randomCode=555452630",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  },
+  {
+   "url": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1268&randomCode=1393764704",
+   "license": "CC0 1.0",
+   "credit": "國立故宮博物院 (National Palace Museum)"
+  }
+ ],
+ "source_url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/7181?dep=U&mode=full",
+ "license": "CC0 1.0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/npm/detail_7181.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}
