@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-26923",
+ "name": "大清银行兑换券",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "宣统年间，清政府为了统一全国币制发行的兑换券，俗称“大龙票”。此券面值10元。由于当时的小皇帝溥仪只有三岁，“御容”过于稚气，票面采用溥仪之父摄政王载澧的半身肖像，背衬海水云龙图案，象征溥仪登基。此券为晚清政府首次用现代钢刻凹印版技术印制。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218776673486540.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26923.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_26923.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-18",
+ "updated_at": "2026-09-18"
+}
