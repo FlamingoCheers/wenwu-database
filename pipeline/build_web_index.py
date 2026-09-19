@@ -43,6 +43,10 @@ def build():
         yr = d.get("year_range") or [None, None]
         tags = (d.get("tags") or [])[:4]
         aliases = (d.get("aliases") or [])[:3]
+        # 仅开放授权（CC0/公有领域）的图片进入公开前端；
+        # © 授权馆（如国博）图片不热链展示，来源与出处字段照常保留
+        lic_raw = (d.get("license") or "").lower()
+        open_lic = "cc0" in lic_raw or "public domain" in lic_raw
         it = {
             "id": rid,
             "name": d.get("name") or "",
@@ -57,7 +61,7 @@ def build():
             "code": code,
             "inv": col.get("inventory_no") or "",
             "desc": (d.get("summary") or "")[:110],
-            "img": imgs[0]["url"] if imgs else "",
+            "img": imgs[0]["url"] if (imgs and open_lic) else "",
             "url": d.get("source_url") or "",
             "lic": "%s · %s" % (d.get("license", ""), col.get("museum") or ""),
             "tags": tags,
