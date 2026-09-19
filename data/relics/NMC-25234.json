@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-25234",
+ "name": "木棉搅车图",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "搅车又叫轧车，是一种棉花去籽工具。车上安装二轴，用手摇动，二轴向相反方向转动。二轴中间喂入棉花，互相挤压，棉籽被挤出而落于内侧，净棉从二轴间通过，落于外侧。搅车结构虽然简单，但因采用了正反转动挤压与曲柄传力的原理，大大提高了生产效率。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218745855008260.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25234.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_25234.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-19",
+ "updated_at": "2026-09-19"
+}

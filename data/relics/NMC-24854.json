@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24854",
+ "name": "道光十七年选拔贡单",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "清代国子监生徒来源共分两类：一为贡生，二为监生。贡生有六：岁贡、恩贡、拔贡、优贡、副贡、例贡。监生有四：恩监、荫监、优监、例监。在常贡之外又行选贡之法，即为拔贡。各地儒学生员，经过考选，凡学行兼优，年富力强，累试优等者，得以选充拔贡。顺治元年（1644）首举选贡。乾隆七年（1742）定制，拔贡十二年一选。但被选者至礼部后，要到国子监会同考试，文理通顺者准为拔贡，临监肄业。荒谬者即行褫革，该省学政要受到论处。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218739444988048.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24854.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24854.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-19",
+ "updated_at": "2026-09-19"
+}

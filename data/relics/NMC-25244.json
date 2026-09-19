@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-25244",
+ "name": "木棉纺车图",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "木棉纺车是一种纺棉线的工具，其工作原理是：用脚踏动木棍，大轮飞转，通过弦绳，带动3个繀锭旋转。操作者手持条状棉卷，配合繀锭的转动，将棉线拉出至一定长度时停住，待棉线加捻到一定程度，就将棉线缠于繀上。然后再重复拉线、加捻、缠线动作，纺织新线。手足并用，同时可纺三线。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218746030419121.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25244.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_25244.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-19",
+ "updated_at": "2026-09-19"
+}
