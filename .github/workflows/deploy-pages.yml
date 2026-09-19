@@ -8,6 +8,12 @@ on:
       - "pipeline/**"
       - "web/**"
       - ".github/workflows/deploy-pages.yml"
+  # GITHUB_TOKEN 提交不会触发 push 事件（防递归），数据更新全走 Actions
+  # bot 提交，所以必须用 workflow_run 兜底，否则站点会一直停在手动推送的版本
+  workflow_run:
+    workflows: [update-data, npm-sync, nmc-sync]
+    types: [completed]
+    branches: [master]
   workflow_dispatch:
 
 permissions:
@@ -21,6 +27,8 @@ concurrency:
 
 jobs:
   build:
+    # push/dispatch 直接跑；workflow_run 仅在上游数据流程成功时才重建
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
