@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24417",
+ "name": "站笼",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "以上这两张图片是被判处站笼死刑的犯人。但从犯人相对平静的面部表情可以断定，他们在笼中是直立的而非悬空的，因而死去的过程要相对缓慢一些。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218732364374800.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24417.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24417.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-19",
+ "updated_at": "2026-09-19"
+}

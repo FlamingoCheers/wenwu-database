@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24419",
+ "name": "1900年的联锁枷",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "“锁”即铁索、铁链，也是中国古代的刑具之一。据史书记载，西汉时已开始用“锁”；南北朝以后，历代对于锁的规格和使用都有规定。这是清朝时被判处枷号且被联锁在一起的三个犯人。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218732400476995.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24419.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24419.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-19",
+ "updated_at": "2026-09-19"
+}
