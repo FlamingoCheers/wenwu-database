@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-25443",
+ "name": "筒车图",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "筒车形同大纺轮，直立与江河岸边水中，轮周系有小筒。当立轮受水力冲击时会日夜自转，小筒没入水盛水，转自高处则自动泻水入槽中，即省人力，又可不停地灌溉农田。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218749477131799.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25443.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_25443.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-19",
+ "updated_at": "2026-09-19"
+}

@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-25428",
+ "name": "《永乐大典》",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "《永乐大典》是一部百科全书式的类书，摘录各种书中的有关材料，按内容分门别类加以编辑成集以备查阅所用。《永乐大典》共22937卷，11095册，保存了大量的古代典籍。该书完成于永乐五年(公元1407年)，由翰林学士解缙等人主持编纂，永乐皇帝定名为《永乐大典》。嘉靖年间，照原本摹写了一部副本，正副两部分藏于文渊阁和皇史宬。明亡时，文渊阁被焚，存于其中的一部《永乐大典》可能付之一炬；另一部在公元1900年八国联军入侵北京时，多被焚掠，目前中国国内仅存200余册。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218749242398878.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25428.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_25428.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-19",
+ "updated_at": "2026-09-19"
+}
