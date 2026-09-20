@@ -1,0 +1,82 @@
+# NPM (台北故宫) redesc job: re-extract 說明/題跋/銘刻/質材 from the cached raw
+# detail pages (raw/ is gitignored — everything comes from the npm-raw- cache
+# populated by npm-sync.yml). Zero network traffic to the museum.
+# Run after each big NPM batch (dispatch), before falling back to LLM descriptions.
+name: npm-redesc
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "true = report only, no write-back"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+
+jobs:
+  redesc:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Restore NPM raw cache
+        uses: actions/cache@v4
+        with:
+          path: raw/npm
+          key: npm-raw-redesc-${{ github.run_id }}
+          restore-keys: |
+            npm-raw-
+
+      - name: Smoke-parse one page
+        run: |
+          python - <<'PY'
+          import glob
+          from pipeline.npm_redesc import all_fields
+          pages = sorted(glob.glob("raw/npm/detail_*.html"))
+          print("cached pages:", len(pages))
+          if pages:
+              f = all_fields(open(pages[0], encoding="utf-8", errors="replace").read())
+              print("sample keys:", sorted(f.keys())[:20])
+          PY
+
+      - name: Re-extract from raw cache
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            python pipeline/npm_redesc.py --dry-run
+          else
+            python pipeline/npm_redesc.py
+          fi
+
+      - name: Validate
+        run: python pipeline/validate.py
+
+      - name: Build SQLite snapshot
+        run: python pipeline/build_db.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "wenwu-bot"
+          git config user.email "bot@wenwu.local"
+          git add data/relics
+          if git diff --cached --quiet; then
+            echo "no backfilled NPM data"
+          else
+            git commit -m "data: NPM redesc backfill from raw cache $(date -u +%F)"
+            ok=0
+            for i in 1 2 3; do
+              if git pull --rebase origin master && git push; then ok=1; break; fi
+              echo "push attempt $i failed, retrying after rebase"
+              sleep 20
+            done
+            if [ "$ok" != "1" ]; then
+              echo "::error::push failed after 3 rebase retries"
+              exit 1
+            fi
+          fi
