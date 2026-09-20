@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "54.150.1"
  },
- "summary": "Jar。China",
+ "summary": "大型陶罐，马达班式，约十七世纪。陶质，器高逾八十厘米，小口长身，为储运水、酒、谷物等物的大容器。此类储物大罐常见于海上贸易航线，实用性与流通性兼备。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/46116.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

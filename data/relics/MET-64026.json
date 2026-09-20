@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.11"
  },
- "summary": "Rubbing。China",
+ "summary": "20世纪拓印的僧人撰辑石碑拓片，纸本墨拓，72.1×95.9厘米。僧人撰文立碑是佛教碑刻传统中的常见形式，拓片存其文辞与书迹。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64026.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

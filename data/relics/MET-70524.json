@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1972.37.1"
  },
- "summary": "Panel。China",
+ "summary": "17至18世纪中国缂丝残片，通经断纬织出花卉纹，丝与金属线并用。缂丝以细梭逐色织花，此片精巧，或原属较大的装饰织物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/70524.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

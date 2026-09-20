@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.133.12"
  },
- "summary": "Piece。China",
+ "summary": "明末清初丝绒织物残件，十六至十七世纪织造，以丝掺金线织出绒面。此类绒料富丽厚重，多用于服饰或陈设，可见当时的提花绒织工艺。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/69759.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

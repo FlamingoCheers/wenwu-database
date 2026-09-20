@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "历史照片。记录筛制茶叶的劳作场景。制茶须经筛分、拣剔等工序以分出品级，影像保存了近代茶叶加工中的传统手工技艺。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/nmc/detail_24337.html",
  "needs_review": true,
  "fetched_at": "2026-09-20",
- "updated_at": "2026-09-20"
+ "updated_at": "2026-09-20",
+ "desc_ai": true
 }

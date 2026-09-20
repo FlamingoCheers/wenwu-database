@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.841"
  },
- "summary": "Paperweight。China",
+ "summary": "十八世纪水晶镇纸，长8.3厘米。以晶莹水晶琢成，书写时用以镇压纸面，是清代文房用具中兼具实用的雅玩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44069.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

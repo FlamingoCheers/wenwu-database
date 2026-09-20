@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.52"
  },
- "summary": "Rubbing。China",
+ "summary": "《天冠山诗》纪游诗刻拓本，吟咏游历天冠山所见景致与感怀，此类题咏刻石兼具诗文与书法双重价值。二十世纪捶拓，纸本墨拓。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64067.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

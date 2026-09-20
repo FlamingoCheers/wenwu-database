@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "粉白地暗花双龙戏球纹宣纸。纸面粉白，饰双龙戏球暗纹。此类加工纸供书写、刷印之用，龙纹纸规格较高，体现了传统造纸与砑花装饰技艺。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/nmc/detail_26809.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

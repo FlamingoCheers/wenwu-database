@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1985.214.86"
  },
- "summary": "Ornament。China",
+ "summary": "鸟首形铜饰件（一对之一），公元前3—前1世纪。青铜铸成鸟首形象，造型小巧精悍，或为器物、车马具上的装饰构件，体现古代动物造型的装饰传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/52110.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

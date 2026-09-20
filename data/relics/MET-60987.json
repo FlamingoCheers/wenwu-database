@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.31.1"
  },
- "summary": "Shadow player。China",
+ "summary": "清代（十九世纪）皮影戏人物，高约23.5厘米，以驴皮雕镂而成，可于灯影幕布间演出，是民间皮影艺术的实物资料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/60987.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

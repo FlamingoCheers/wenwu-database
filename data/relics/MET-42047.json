@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "67.55.50"
  },
- "summary": "Oracle bone。China",
+ "summary": "卜骨，以化石骨制成，十九世纪或更早，长仅4厘米。形制与古代占卜用骨相类，小巧罕见，与甲骨占卜文化相关。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/42047.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

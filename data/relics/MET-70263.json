@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "60.98.7"
  },
- "summary": "Rank Badge。China",
+ "summary": "锦鸡纹补子，缂织而成并织入金属线，方形幅面内金鸡配蝙蝠纹。补子原系明清官服胸背品级标识，锦鸡表文官二品；此件属20世纪上半叶（?），用途或涉仿古、戏剧装束。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/70263.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

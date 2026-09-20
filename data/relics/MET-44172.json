@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.911"
  },
- "summary": "Bottle。China",
+ "summary": "十八世纪蛇纹石瓶，高12.4厘米。蛇纹石即传统岫玉一类材质，温润似玉，琢制成瓶供陈设或插花之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/44172.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.89a, b"
  },
- "summary": "Covered vase。China",
+ "summary": "清代玉盖瓶（18世纪），高9.4厘米，小巧玲珑。盖瓶以子母口相合，琢治规整，多作案头清供陈设之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/43324.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

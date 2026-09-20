@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.159a–c"
  },
- "summary": "Covered vase。China",
+ "summary": "18世纪早期玉盖瓶，连座通高约28—33厘米。瓶身玉色温润，器形端庄，带盖玉瓶是清代玉雕陈设中的经典样式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/62042.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

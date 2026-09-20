@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "09.3"
  },
- "summary": "Pictorial map。China",
+ "summary": "描绘台南热兰遮城、普罗民遮城与台南市街的图画地图，十九世纪鹿皮水墨设色挂幅，绘城郭、屋舍与船舶，兼具地图纪实与绘画趣味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/35968.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

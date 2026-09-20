@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "历史照片。为绰号“盖京东”的绑匪李汉卿的留影。此类匪犯照片多与官方缉捕存档相关，是清末民初匪患与地方治安状况的人物实证。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/nmc/detail_24425.html",
  "needs_review": true,
  "fetched_at": "2026-09-19",
- "updated_at": "2026-09-19"
+ "updated_at": "2026-09-19",
+ "desc_ai": true
 }

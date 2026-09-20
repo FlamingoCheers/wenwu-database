@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.74a–c"
  },
- "summary": "Double vase。China",
+ "summary": "19世纪早期玉双联瓶，通高35.9厘米，饰龙纹。双瓶相连寓意成双成对，大件玉瓶掏膛规整，是清代宫廷风格的陈设重器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/62034.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.34a–c"
  },
- "summary": "Rubbing。China",
+ "summary": "草书《千字文》拓本三段。《千字文》为历代习书常用内容，以草书书写尤见笔法功力。此件幅面阔大，二十世纪捶拓，纸本墨拓，可供临习研究。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/64049.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

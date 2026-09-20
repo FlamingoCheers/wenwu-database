@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "24.80.536a, b"
  },
- "summary": "Covered vase。China",
+ "summary": "19世纪水晶盖瓶，高35.6厘米。水晶莹澈通透，硬度高而难琢，大件盖瓶尤费工时，多为厅堂案头的重要陈设。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/61984.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

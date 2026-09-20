@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1991.380"
  },
- "summary": "Rubbing。China",
+ "summary": "纸本墨拓册页三十开，题名《十七日》，十三世纪拓自四世纪书迹系列。拓本为临习书法与考订法书之资，墨色沉古。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/39899.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

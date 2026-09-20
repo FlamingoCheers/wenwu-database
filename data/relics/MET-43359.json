@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.145"
  },
- "summary": "Vase。China",
+ "summary": "微型玉瓶（20世纪），高仅4.8厘米，饰花卉纹。小瓶掌中可握，或作清供小景，或供案头把玩，玲珑可喜。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/43359.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

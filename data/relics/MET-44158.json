@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.890"
  },
- "summary": "Tray。China",
+ "summary": "十八世纪蓝灰玛瑙托盘，宽14.6厘米。盘面开阔，灰蓝色泽素净，可承置文玩清供，为案头成套用具之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/44158.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

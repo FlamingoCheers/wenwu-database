@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "17.38.2"
  },
- "summary": "Seal。China",
+ "summary": "清代玉印，十九世纪，印钮雕神兽，附丝绦。神兽钮为传统印钮题材，雕琢工整，供钤用与赏玩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/40983.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "《聊斋志异》画册。以蒲松龄文言小说集《聊斋志异》为题材绘制的图册，图写花妖狐魅、人鬼异事，将文学想象化为图像，别有意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/nmc/detail_26795.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

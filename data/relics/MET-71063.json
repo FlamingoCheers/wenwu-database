@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.148.69"
  },
- "summary": "Piece。China",
+ "summary": "17世纪中国重组织丝织物小残片，仅数厘米长，以多重经纬织出纹样，是研究明清织造技术的实物片段。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/71063.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

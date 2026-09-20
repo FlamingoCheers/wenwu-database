@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "25.215.27"
  },
- "summary": "Pot。China",
+ "summary": "五彩小罐，明代约1650年。瓷胎，施釉上多彩纹饰，器高不足四厘米，小巧精致。此类小罐或作盛放香料、药物之用，属明末清初流行的彩瓷小件。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/52979.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.37"
  },
- "summary": "Rubbing。China",
+ "summary": "堂号匾额拓本。匾额多悬于厅堂门楣，书堂名以彰显家声与志趣，此件二十世纪捶拓，纸本墨拓，兼具书法欣赏与匾额堂号文化研究价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/64052.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

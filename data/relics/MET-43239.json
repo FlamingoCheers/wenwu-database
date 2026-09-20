@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.158a, b"
  },
- "summary": "Figure。China",
+ "summary": "十九世纪玉雕凤凰，高26.7厘米，立于雕花叶丛之间，衬牡丹纹。凤穿牡丹为传统吉祥题材，雕琢繁丽，为陈设重器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/43239.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

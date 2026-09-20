@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "08.248.3"
  },
- "summary": "Kang Rug。China",
+ "summary": "炕毯，十七世纪织造，以棉线为经纬地子、羊毛打结成绒，质地厚实保暖，铺陈于炕榻，兼具御寒与装饰功能，反映北方居室用毯习俗。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/67874.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

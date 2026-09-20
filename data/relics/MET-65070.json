@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.133.48"
  },
- "summary": "Rank badge。China",
+ "summary": "清代补子，十八世纪织造，以丝掺金线织出花鸟纹样，并饰蝙蝠。补子为缀于官服胸背的品级标识，飞禽纹多属文官补服之制。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/65070.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

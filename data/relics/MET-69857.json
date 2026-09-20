@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.189"
  },
- "summary": "Piece。China",
+ "summary": "17至18世纪中国刺绣织物，丝线绣于丝地，饰枝叶纹，幅面宽大近两米，或为桌围、床帐一类陈设绣品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/69857.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

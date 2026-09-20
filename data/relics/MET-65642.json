@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "56.210.6"
  },
- "summary": "Robe。China",
+ "summary": "清代龙袍，十八世纪，纯以丝织成，饰龙纹。龙袍为宫廷礼服，织造考究，纹样布局讲究规制，是研究清代宫廷服饰与织造工艺的重要实物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/65642.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "大观通宝为北宋徽宗大观年间所铸，钱文传为徽宗以瘦金体御书，笔画挺拔清劲、铁画银钩，是宋代钱币书法艺术的代表，素为历代藏家所珍。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/nmc/detail_27794.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

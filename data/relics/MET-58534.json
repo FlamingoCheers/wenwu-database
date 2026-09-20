@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "2003.66.10"
  },
- "summary": "Axe head。China",
+ "summary": "公元前一千纪青铜斧，长12、宽8.3厘米，斧身饰三角形纹样，属青铜工具或兵器类，反映了早期青铜铸造与纹饰的结合。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/58534.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

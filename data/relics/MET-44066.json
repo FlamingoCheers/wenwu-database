@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.827"
  },
- "summary": "Double vase。China",
+ "summary": "十八世纪水晶双联瓶，高15.9厘米。两瓶相连为一体，须整料设计琢磨，造型别致，是清代流行的陈设器形。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/44066.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

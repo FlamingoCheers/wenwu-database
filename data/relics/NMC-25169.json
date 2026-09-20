@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "周有光撰《汉字改革概论》日文版。周有光为著名语言文字学家，此书系统论述汉字改革的理论与实践，日文译本反映了国外学界对中国文字改革的关注。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/nmc/detail_25169.html",
  "needs_review": true,
  "fetched_at": "2026-09-19",
- "updated_at": "2026-09-19"
+ "updated_at": "2026-09-19",
+ "desc_ai": true
 }

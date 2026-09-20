@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.23"
  },
- "summary": "Rubbing。China",
+ "summary": "唐代禅门高僧义福（638—736）的碑铭拓本。义福卒谥大智禅师，碑文记述其生平道行，为研究唐代禅史的重要资料。二十世纪捶拓，纸本墨拓。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64038.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

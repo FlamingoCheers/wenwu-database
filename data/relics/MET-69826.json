@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.186.27"
  },
- "summary": "Sutra Cover。China",
+ "summary": "17世纪丝织经皮，织造紧密，形制窄长。经皮用于包裹经卷，此件材质单纯用丝，织工细致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/69826.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

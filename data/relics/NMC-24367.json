@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "历史照片。记录小贩携鹅前往市场售卖的情景。家禽贩运是旧时集市常见营生，影像为观察近代民间市集贸易提供了形象资料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/nmc/detail_24367.html",
  "needs_review": true,
  "fetched_at": "2026-09-20",
- "updated_at": "2026-09-20"
+ "updated_at": "2026-09-20",
+ "desc_ai": true
 }

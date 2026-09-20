@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "64.23.4"
  },
- "summary": "Rug。China",
+ "summary": "清末民初（19世纪末至20世纪初）花卉纹栽绒地毯，棉经纬作底、羊毛打结起绒，幅面近二米，花卉纹样端正，是中国手工地毯的常见品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/70375.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

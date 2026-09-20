@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.182a, b"
  },
- "summary": "Water jar。China",
+ "summary": "清代晚期翡翠水盂，高6.7厘米，小巧玲珑。水盂为文房贮水之器，研墨书画时用以润笔添水，常与笔砚同置案头。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/43268.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

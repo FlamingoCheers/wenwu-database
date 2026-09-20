@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.82.2"
  },
- "summary": "Rubbing。China",
+ "summary": "汉代画像砖拓片，二十世纪拓制，纸本墨拓。砖面以龙纹为题，龙形矫健灵动，是汉代画像艺术与传拓技艺的结合。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/40410.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

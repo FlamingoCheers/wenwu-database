@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "54.27.12"
  },
- "summary": "Length。China",
+ "summary": "20世纪中国丝织匹料，长达十四米余，通幅织花鸟纹样。整匹织物供裁衣制物之用，花鸟构图连续，是近代丝绸匹料的常见品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/70086.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

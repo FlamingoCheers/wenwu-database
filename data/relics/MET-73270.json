@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.31.3"
  },
- "summary": "Shadow player。China",
+ "summary": "清代驴皮影人，十九世纪，皮影戏道具。以驴皮镂刻上彩，线绳缀连关节，借灯光投影演出，此件为剧中人物形象，是民间皮影艺术的实物例证。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/73270.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

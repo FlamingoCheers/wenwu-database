@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "29.65"
  },
- "summary": "Relief。China",
+ "summary": "唐代石雕菩萨浮雕，8—9世纪，高16.5厘米。唐代造像体态丰腴、衣纹流畅，此小品浮雕或原为造像碑、龛像的局部，宝相庄严。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/61560.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

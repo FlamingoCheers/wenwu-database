@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "53.166.2"
  },
- "summary": "Chair cover。China",
+ "summary": "十七世纪缂丝椅罩（椅垫套），以丝掺金线织成，饰仙鹤纹样，与椅披之类配套陈设。缂丝为明清高档织物，花纹如雕镂，工艺讲究。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/65649.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

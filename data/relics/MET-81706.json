@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "C.I.43.90.60a, b"
  },
- "summary": "Shoes。China",
+ "summary": "丝、棉质女鞋一双。定年1800—1943年，为传统中式女鞋，以丝绸作面、棉为里衬制成，反映了近代中国女性的鞋履形制与服饰生活。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/81706.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

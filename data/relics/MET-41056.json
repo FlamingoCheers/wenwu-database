@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "40.183"
  },
- "summary": "Seal。China",
+ "summary": "东周铜印，公元前六世纪，径2.2厘米。为早期玺印实物，铜铸小巧，用于钤抑封泥，可窥先秦用印之一斑。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/41056.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

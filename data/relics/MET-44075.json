@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.834a, b"
  },
- "summary": "Figure。China",
+ "summary": "十八世纪水晶鱼形雕件，长17.1厘米。鱼谐音余，寓年年有余，此类雕件多作案头陈设或文房清玩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44075.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

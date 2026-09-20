@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "34.64.2"
  },
- "summary": "Burial crown。China",
+ "summary": "约十七世纪或更早的鎏金银冠，高7.3、宽17.8厘米，冠面饰蟹、鱼等水族形象，属殓葬用冠类器物，可据以考察古代丧葬礼俗。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/60874.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

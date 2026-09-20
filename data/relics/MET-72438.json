@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "2004.419"
  },
- "summary": "Plaque。North China",
+ "summary": "约公元前三世纪中国北方青铜动物搏斗纹饰牌，饰猛兽相噬图像。动物咬斗母题为北方草原系牌饰的典型纹样，此类饰牌多用于腰带、马具，带有浓厚游牧文化色彩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/72438.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

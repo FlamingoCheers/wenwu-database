@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1985.214.81"
  },
- "summary": "Plaque。North China",
+ "summary": "双首蜷身兽形鎏金铜牌饰，东周（公元前5—前4世纪），北方地区制品。青铜鎏金，铸双首蜷身之兽，造型奇诡，为草原动物纹牌饰，多作腰带或马具装饰。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/49488.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1987.318a–g"
  },
- "summary": "Hat。China",
+ "summary": "女式头饰（礼帽）。主体以丝、羽毛、玻璃、金属及石料制成，配金属簪两支与纸、丝附件，十九世纪制品。用料繁复、装饰华美，是清代女性盛装头饰的实物例证。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/88619.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

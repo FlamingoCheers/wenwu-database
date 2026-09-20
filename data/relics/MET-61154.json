@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "24.64.2"
  },
- "summary": "Belt buckle。China",
+ "summary": "公元前3—2世纪青铜带扣，高8.6厘米。带扣为革带扣结之具，此期北方青铜带具铸造发达，多铸纹饰，是研究古代服饰与草原文化交流的重要实物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/61154.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

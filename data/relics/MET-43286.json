@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1974.356.56"
  },
- "summary": "Figurine。China",
+ "summary": "清代玉羊（18世纪），长11.4厘米，作伏卧之姿。羊谐音祥，寓吉祥之意，是玉雕动物的传统题材，多作案头陈设或把玩之物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/43286.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

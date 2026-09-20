@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.33"
  },
- "summary": "Rubbing。China",
+ "summary": "《藏真帖》与《卢公帖》合刻拓本。《藏真帖》传为唐代草书僧怀素自述之作，系草书名帖；两帖合拓，二十世纪捶拓，纸本墨拓，可供临习鉴赏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/64048.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

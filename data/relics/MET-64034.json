@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.19"
  },
- "summary": "Rubbing。China",
+ "summary": "冯宿神道碑拓本。神道碑立于墓前神道，用以记述墓主生平德业，此件为冯宿墓前之碑的二十世纪捶拓，纸本墨拓，可资研究人物事迹与丧葬刻石制度。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,5 +39,6 @@
  "raw_ref": "raw/met/64034.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

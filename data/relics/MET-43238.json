@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "21.175.57a, b"
  },
- "summary": "Dagger。China",
+ "summary": "清代匕首，十八世纪，钢刃配软玉柄，长10.2厘米。钢玉相合，刚柔并济，为随身佩带之器，兼具工艺观赏性。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/43238.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1991.31"
  },
- "summary": "Bowl。China",
+ "summary": "青花瓷碗，二十世纪。胎质细白，以釉下钴蓝绘花卉纹，青色沉入釉下，清雅明快。青花为传统釉下彩工艺，此碗属近代延续烧造的日用瓷器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/44622.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

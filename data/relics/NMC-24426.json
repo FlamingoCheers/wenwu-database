@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "历史照片。为绑匪杨子彬的人物留影。此类照片多系缉匪档案所存，反映了清末民初的社会治安问题与官方缉捕活动。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/nmc/detail_24426.html",
  "needs_review": true,
  "fetched_at": "2026-09-19",
- "updated_at": "2026-09-19"
+ "updated_at": "2026-09-19",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "19.103.1"
  },
- "summary": "Painting。China (?)",
+ "summary": "十五世纪《莲花座度母坐像图》，纸本设色，纵95.9、横62.9厘米，绘菩萨端坐莲台的庄严法相，属佛教题材绘画。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/57556.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

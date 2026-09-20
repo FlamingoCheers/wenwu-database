@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.186.23"
  },
- "summary": "Sutra Cover。China",
+ "summary": "17世纪中国暗花缎经皮，缎纹地上显织禽鸟纹样。暗花缎光泽含蓄，以此包经，实用与观瞻并重。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/69824.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

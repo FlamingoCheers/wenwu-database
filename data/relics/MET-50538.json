@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.186.8"
  },
- "summary": "Sutra cover。China",
+ "summary": "经面，明代十六世纪丝织品。以织物覆裹经卷首尾，护其内页，兼作装饰。织物质地细密，保存至今，为了解明代织造与经籍装具提供了实物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/50538.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

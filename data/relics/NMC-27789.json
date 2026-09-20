@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "开元通宝首创于唐高祖武德四年，确立以“通宝”名钱之制，影响此后千余年。此枚年代标注为元，当属元代仿铸或传世旧钱，方孔圆钱形制，钱文端庄匀称。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -29,7 +29,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/nmc/detail_27789.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

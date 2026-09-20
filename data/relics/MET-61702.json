@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "47.130"
  },
- "summary": "Bust。China",
+ "summary": "石雕佛头，约18世纪，高41.9厘米。佛像顶作肉髻、面相圆润，属晚期造像风格，或原属全身像之残件，后单独供奉收藏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/61702.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.39"
  },
- "summary": "Rubbing。China",
+ "summary": "新译佛典序文刻石拓本。序文为新译大藏经典而作，多述译经缘起与宗旨，二十世纪捶拓，纸本墨拓，是研究佛经翻译与刻经文化的资料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64054.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

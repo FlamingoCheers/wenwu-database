@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "32.23"
  },
- "summary": "Imperial robe。China",
+ "summary": "清代龙袍，十八世纪织造，以丝与金线织就，通体饰龙纹，属宫廷礼仪服饰。此类袍服织造费工、纹样等级森严，是清代服饰制度的实物例证。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/65359.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

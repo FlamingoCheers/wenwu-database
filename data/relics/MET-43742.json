@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.341"
  },
- "summary": "Celt。China",
+ "summary": "刻纹玉锛（清代），青白玉质，带褐黑色斑沁，高7.3厘米。锛为古代木作工具，玉锛多摹古而制，沁色斑驳，古意盎然。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/43742.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1973.291.1"
  },
- "summary": "Coat。China",
+ "summary": "女式外衣。丝与金属制成，定年约1850—1900年，饰花卉纹样。晚清女服常以织绣花卉为饰，此衣是研究近代女性服饰与织绣工艺的实物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/88075.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

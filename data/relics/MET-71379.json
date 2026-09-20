@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.148.388"
  },
- "summary": "Piece。China",
+ "summary": "中国十七世纪织锦残片，复合组织丝织物，幅面较小。残片多为整匹或成衣织物裁存的部分，可用于考察十七世纪中国织锦的组织结构与纹样题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/71379.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

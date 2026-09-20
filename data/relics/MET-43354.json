@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.163"
  },
- "summary": "Bracelet。China",
+ "summary": "玉镯（20世纪），内径7.1厘米。以整段玉料掏琢而成，圆润光洁，佩戴于腕，是传统首饰中最经典的样式之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/43354.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

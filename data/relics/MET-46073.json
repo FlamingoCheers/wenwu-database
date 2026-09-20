@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "61.200.48"
  },
- "summary": "Fishbowl。China",
+ "summary": "花鸟纹瓷缸，二十世纪景德镇窑制品。瓷胎施釉，以釉上多彩绘花鸟、蝴蝶纹饰，色彩丰富。器形硕大，口径近四十厘米，可作养鱼水缸或庭院陈设之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/met/46073.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

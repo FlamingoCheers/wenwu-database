@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "《萝轩变古笺谱》。明天启年间金陵吴发祥辑刻的诗笺图谱，采用饾版、拱花技法套色刷印，是现存最早的彩色套印笺谱之一，在版画史上地位重要。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/nmc/detail_26827.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

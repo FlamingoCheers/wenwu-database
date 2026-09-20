@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.72a, b"
  },
- "summary": "Flower holder。China",
+ "summary": "清代玉花插（19世纪），雕花鸟、龙纹与竹枝等纹样。花插为插花之器，置于案头，将自然意趣与琢玉工艺融为一体。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/43278.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

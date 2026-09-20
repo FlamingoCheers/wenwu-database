@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1993.480.3"
  },
- "summary": "Figure。China",
+ "summary": "二十世纪玻璃仕女立像，高27厘米，以玻璃塑造女性形象，可能作陈设观赏之用，显示了近现代玻璃工艺的造型能力。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/60650.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

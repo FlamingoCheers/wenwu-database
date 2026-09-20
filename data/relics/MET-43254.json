@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.110"
  },
- "summary": "Toggle。China",
+ "summary": "清代软玉吊坠扣（18世纪），雕作龙虾之形，玉质温润，妙趣天成。此类穿绳系坠之器用于系挂随身物件，兼具实用与把玩之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/43254.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

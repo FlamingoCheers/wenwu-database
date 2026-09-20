@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "历史照片。记录火车初通北京城的情景。铁路进入北京是近代交通史上的大事，机车驶抵城区轰动一时，照片见证了北京城近代交通的开端。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/nmc/detail_24308.html",
  "needs_review": true,
  "fetched_at": "2026-09-20",
- "updated_at": "2026-09-20"
+ "updated_at": "2026-09-20",
+ "desc_ai": true
 }

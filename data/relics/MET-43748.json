@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.347"
  },
- "summary": "Bead。China",
+ "summary": "清代翡翠雕珠，高2.8厘米。珠身雕琢纹饰，可穿系为朝珠、佩饰等用。翡翠在清代备受推崇，此珠选料琢磨俱佳。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/43748.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "49.22.2"
  },
- "summary": "Piece。China",
+ "summary": "20世纪中国织金织物残片，丝与金属线交织出花卉纹，幅面近方，纹样华美，或为垫面、椅披一类面料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/69875.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

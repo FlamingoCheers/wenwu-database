@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "历史照片。为民国初年汉口华商赛马公会的影像。赛马是近代通商口岸流行的西式娱乐，汉口华商组建赛马公会，反映了华商自办新式休闲事业的尝试。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -29,7 +29,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/nmc/detail_24353.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-20",
- "updated_at": "2026-09-20"
+ "updated_at": "2026-09-20",
+ "desc_ai": true
 }

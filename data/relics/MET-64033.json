@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.18"
  },
- "summary": "Rubbing。China",
+ "summary": "玄秘塔碑碑阴文字拓本，二十世纪捶拓，纸本墨拓。碑阴刻文与碑阳铭文互为表里，多涉立碑题名诸事，是研读此碑的重要辅助资料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64033.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

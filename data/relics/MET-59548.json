@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "2002.201.154"
  },
- "summary": "Finial。China",
+ "summary": "公元前三世纪镀锡青铜虎首形饰件，高3.8、长5.1厘米，以虎首为造型，或为车马器、杖首类构件，显示战国晚期金属装饰工艺。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/met/59548.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

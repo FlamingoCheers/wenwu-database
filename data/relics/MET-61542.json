@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "24.171.1"
  },
- "summary": "Yoke ornament。China",
+ "summary": "东周青铜鹿形轭饰，公元前5—4世纪，高8.9厘米。轭饰为车轭上的装饰构件，鹿形圆雕灵动传神，是战国车马器中富于生趣的品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/61542.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

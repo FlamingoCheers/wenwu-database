@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.344"
  },
- "summary": "Signet。China",
+ "summary": "清代闪石玉（软玉）小印，高2.2厘米。玉质温润，形体小巧，为文人随身钤印之物，是清代玉制文房用具的常见品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/43745.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

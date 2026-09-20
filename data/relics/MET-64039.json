@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.24"
  },
- "summary": "Rubbing。China",
+ "summary": "大智禅师碑碑阴题记拓本，二十世纪捶拓，纸本墨拓。碑阴题记多为后人题名或补刻，与碑阳铭文互为补充，有助于了解此碑相关的史事与流传。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64039.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

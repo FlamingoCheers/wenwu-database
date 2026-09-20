@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "54.180"
  },
- "summary": "Amulet。China",
+ "summary": "清代（十八世纪）玻璃护符，长约4.4、宽3.3厘米，形制小巧，当为佩带辟邪之用，反映了玻璃材质在吉祥佩饰中的应用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/60642.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

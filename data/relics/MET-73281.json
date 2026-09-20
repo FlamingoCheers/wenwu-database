@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.31.14"
  },
- "summary": "Shadow player。China",
+ "summary": "清代驴皮影人，十九世纪，皮影戏道具，为戴面具的人物形象。面具造型多用于神怪或特定角色，驴皮镂刻彩绘而成，可见影戏脸谱化的表现手法。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/73281.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

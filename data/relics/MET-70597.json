@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1976.64"
  },
- "summary": "Piece。China",
+ "summary": "20世纪中国印花（或彩绘）棉布残片，饰鱼、花卉与枝叶纹样。棉布印彩是民间常用的装饰手法，此片图样活泼，富生活气息。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/70597.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

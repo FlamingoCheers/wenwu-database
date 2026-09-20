@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "历史照片。记录走街串巷售卖编织篾器的小贩。竹篾器具是传统日常生活用品，小贩肩挑叫卖为生，影像反映了旧时手艺人的谋生方式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/nmc/detail_24360.html",
  "needs_review": true,
  "fetched_at": "2026-09-20",
- "updated_at": "2026-09-20"
+ "updated_at": "2026-09-20",
+ "desc_ai": true
 }

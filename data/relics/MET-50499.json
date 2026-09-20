@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1993.480.2a, b"
  },
- "summary": "Teapot。China。Modern",
+ "summary": "宜兴紫砂茶壶，二十世纪。以宜兴紫砂陶土制成，紫砂为江苏宜兴特产，宜茶且透气性好，明清以来为文人茶事所珍。此壶造型简朴，属近代日用茶器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/50499.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

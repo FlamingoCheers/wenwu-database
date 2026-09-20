@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.148.883"
  },
- "summary": "Piece。China",
+ "summary": "中国织锦残片，复合组织丝织物，年代定为十七世纪（存疑）至十九世纪晚期，织蝴蝶枝叶纹。蝶与花叶相配寓意吉祥，此片为织锦纹样断代的参考实例。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/71874.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.850a, b"
  },
- "summary": "Fujiama。China",
+ "summary": "十八世纪水晶山形雕件（题名取富士山形），高6.7厘米，配绿染象牙座。层峦叠嶂如仙境假山，供案头清赏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44103.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "25.186.1"
  },
- "summary": "Mirror。China。Modern",
+ "summary": "仿唐铜镜，19—20世纪制，径9厘米，镜背以银片锤揲出花鸟动物纹饰。唐镜工艺为后世推崇，此为晚期仿古之作，追摹盛唐遗风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,5 +39,6 @@
  "raw_ref": "raw/met/61407.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

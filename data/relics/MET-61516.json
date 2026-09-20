@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "14.58.185"
  },
- "summary": "Figure。China",
+ "summary": "18—19世纪青铜坐像，像坐于莲台之上，高14厘米。莲座为佛教造像典型形制，此类小型铜像应与佛教供奉相关，或用于佛龛案头礼敬。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/61516.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

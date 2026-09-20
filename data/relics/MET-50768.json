@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1984.317"
  },
- "summary": "Ceramics。China",
+ "summary": "高足杯，二十世纪。瓷质，上为碗形杯身，下承细高足，是传统杯式，多用于饮酒。此杯依古器形制仿制，属复制品一类，可作陈列参照之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/50768.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

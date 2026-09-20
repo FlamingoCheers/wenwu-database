@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.148.449"
  },
- "summary": "Piece。China",
+ "summary": "中国十七世纪织锦残片，复合组织丝织物，织花卉枝叶纹，长条状。花叶相配的纹样流行于明末清初服饰镶边与室内织物，此片为典型例证之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/71442.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

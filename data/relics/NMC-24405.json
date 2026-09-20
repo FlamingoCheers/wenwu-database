@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "历史照片。记录晚清法庭审讯的场景。传统公堂审讯有既定的仪式与排场，影像为研究晚清司法制度与审讯形态提供了形象资料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -29,7 +29,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/nmc/detail_24405.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-20",
- "updated_at": "2026-09-20"
+ "updated_at": "2026-09-20",
+ "desc_ai": true
 }

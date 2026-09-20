@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.148.343"
  },
- "summary": "Piece。China",
+ "summary": "中国十七世纪织锦残片，复合组织丝织物，织枝叶纹。枝叶常与花卉组成折枝、缠枝纹样，流行于明末清初服饰与陈设织物，此片为其中局部。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/71334.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

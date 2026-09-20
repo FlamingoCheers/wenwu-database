@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "19.31"
  },
- "summary": "Painting。China (?)",
+ "summary": "明代（十六世纪）《云中罗汉图》，纸本设色，纵160、横67.3厘米，绘罗汉腾云之姿，属佛教人物画题材，笔墨具有明代宗教绘画的特点。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,7 +38,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/54913.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

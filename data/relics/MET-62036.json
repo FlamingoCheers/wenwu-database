@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.100a–c"
  },
- "summary": "Covered vase。China",
+ "summary": "晚清水晶盖瓶，19世纪末，连座通高约27—33厘米。水晶性脆难治，掏膛成器极见功力，通体澄澈，是晚期宝石工艺的代表陈设。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/62036.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "63.59.1"
  },
- "summary": "Seal。China",
+ "summary": "清代玉印，疑为软玉，十九世纪，饰龙纹。印体方正高大，龙纹矫健，为文房重器，兼供赏玩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/41063.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

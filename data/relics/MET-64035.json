@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.20"
  },
- "summary": "Rubbing。China",
+ "summary": "唐代密宗高僧不空（705—774）的碑铭拓本。不空为开元三大士之一，自印度来华，长期主持译经，备受朝廷礼遇。此为二十世纪捶拓，纸本墨拓。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64035.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

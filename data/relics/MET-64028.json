@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.13"
  },
- "summary": "Rubbing。China",
+ "summary": "《多宝塔碑》拓本。原碑立于陕西千福寺，为唐天宝年间颜真卿楷书名碑，历来是楷书临习范本。此为二十世纪捶拓，纸本墨拓，字口清晰。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64028.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

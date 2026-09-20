@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "67.73a, b"
  },
- "summary": "Covered box。China",
+ "summary": "十七世纪漆木长盖盒，长60.3、宽12.1、高4.8厘米，以木为胎髹漆并配黄铜构件，形体修长，或用于贮放卷册、文书等物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/60979.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.180a, b"
  },
- "summary": "Vase。China",
+ "summary": "玉髓瓶（19世纪），质地疑为红玉髓，饰花卉纹。瓶形修长，色质莹润，属清代硬石雕刻的陈设器类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/43394.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

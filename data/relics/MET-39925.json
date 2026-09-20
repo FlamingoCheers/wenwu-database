@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.186.19"
  },
- "summary": "Sutra Cover。China",
+ "summary": "明代丝织经面，十六世纪。以丝织物制成佛经封面装饰，织工细密，体现明代织造技艺与佛教典籍装帧传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/39925.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

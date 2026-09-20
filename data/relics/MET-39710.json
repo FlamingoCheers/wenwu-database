@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "36.153.2"
  },
- "summary": "Rug。China",
+ "summary": "十九世纪地毯，棉经棉纬，丝线起绒，以森纳结（土耳其结）编成。方形小幅，绒头细密，供室内铺设与陈设之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/39710.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

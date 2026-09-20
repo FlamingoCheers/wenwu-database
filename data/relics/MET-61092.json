@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "18.43.11"
  },
- "summary": "Belt buckle。China",
+ "summary": "公元前3—2世纪青铜带扣，高7.6、宽14.3厘米，饰猛兽相斗纹样。动物咬斗是战国至汉代北方草原风格带具的经典题材，此扣用于革带扣系，兼具实用与装饰。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/61092.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "24.80.310"
  },
- "summary": "Cup。China",
+ "summary": "瓷杯，清代十九世纪。白瓷胎，杯高约5.7、口径约11厘米，胎釉细腻，造型规整。此类杯为日常饮茶饮酒之器，是清代广泛使用的瓷器品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/52967.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

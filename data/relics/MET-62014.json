@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "50.145.146"
  },
- "summary": "Ball。China",
+ "summary": "19世纪石英球，径7.5厘米。整料磨制的大颗晶石球较为少见，或为案头清供、健身手球或赏玩之物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/62014.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

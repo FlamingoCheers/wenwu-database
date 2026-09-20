@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.186.28"
  },
- "summary": "Sutra Cover。China",
+ "summary": "17世纪中国龙纹丝织经皮。龙纹尊贵，多见于宫廷与重大宗教织物，以此织锦包经，见出经卷之受重视。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/69827.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

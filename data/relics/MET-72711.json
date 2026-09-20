@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "2004.557.2a–d"
  },
- "summary": "Album leaves。China",
+ "summary": "墨梅图册四开，清道光二十年（1840年）作，水墨洒金纸本，绘梅树花果。水墨写梅为文人画传统题材，洒金纸益显雅致，册页形式便于展玩题咏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/72711.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

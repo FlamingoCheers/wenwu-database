@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "桦皮奶筒。以桦树皮卷制缝合成筒状的盛奶器具，清代制品。桦皮器轻便防潮，是东北鄂伦春等渔猎民族的传统生活用具，适应迁徙游动中的饮食需要。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -29,7 +29,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/nmc/detail_104206.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

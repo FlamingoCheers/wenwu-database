@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.101.3"
  },
- "summary": "Cup。China",
+ "summary": "十八至十九世纪玉杯，通高11.7厘米、通径13.3厘米，器身饰动物纹。玉杯琢磨圆润，宴饮陈设皆宜，为清代玉器中的传统品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44212.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

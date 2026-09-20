@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1970.215"
  },
- "summary": "Bottle vase。China",
+ "summary": "花卉纹瓶，十四世纪。瓷胎，器作小口长身之瓶式，高约二十九厘米，饰花卉枝叶纹样。此类瓶为陈设用器，适逢元明之际，制瓷风格承前启后。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/50548.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

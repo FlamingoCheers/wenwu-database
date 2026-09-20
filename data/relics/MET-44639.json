@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "50.148a, b"
  },
- "summary": "Fragments。China",
+ "summary": "丝织残片，两件，约为清代十八世纪之物。以丝线织成，每幅纵约108、横约42.5厘米。织物虽残，经纬细密，或原为服饰、陈设用料，可见传统织造工艺。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44639.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

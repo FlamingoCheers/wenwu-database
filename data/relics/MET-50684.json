@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "54.27.5"
  },
- "summary": "Headdress。China",
+ "summary": "满族妇女头饰，清代十八世纪晚期。以宝石、仿珍珠与羽毛等缀成，前后两片，高约十八厘米。满族女子盛装配戴头饰，此件珍材华彩，映见清代贵族女性妆饰风尚。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/50684.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

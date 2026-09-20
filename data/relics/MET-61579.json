@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "30.76.96"
  },
- "summary": "Relief。China",
+ "summary": "18世纪泥塑纸浆浮雕，高67.3厘米。以泥与纸浆塑形而成，此类材质多用于建筑装饰或宗教造像构件，体量较大而质地轻便。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/61579.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

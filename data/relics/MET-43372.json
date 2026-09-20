@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.141"
  },
- "summary": "Pendant。China",
+ "summary": "清代玉佩（18世纪），雕人物鞍马题材。纹样取材于日常生活与出行场景，佩于腰间，兼具装饰与吉祥寓意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/43372.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

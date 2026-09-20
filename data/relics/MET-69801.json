@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.133.58"
  },
- "summary": "Piece。China",
+ "summary": "16至17世纪中国织金残片，丝与金属线交织出龙纹。织金工艺华贵，龙纹题材多见于高档服饰与宗教织物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/69801.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

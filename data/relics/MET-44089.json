@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.845"
  },
- "summary": "Paperweight。China",
+ "summary": "十八世纪水晶镇纸，高11.1厘米，亦以犬为饰。犬有守户兴旺的吉祥寓意，器物兼具压纸功能与案头玩赏之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44089.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

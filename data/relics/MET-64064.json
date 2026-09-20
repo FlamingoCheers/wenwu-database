@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.49"
  },
- "summary": "Rubbing。China",
+ "summary": "篆书十八体拓本，以十八种古篆体式书写，集历代书体变化于一石，兼具观赏与习篆示范功能。二十世纪捶拓，纸本墨拓。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64064.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

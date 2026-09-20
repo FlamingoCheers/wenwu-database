@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1982.472.2"
  },
- "summary": "Shadow puppet。China",
+ "summary": "清代（十九世纪）皮影丑角官员，通高68.6厘米，以牛皮雕镂彩绘，形象诙谐，属影戏中的滑稽角色，体现民间戏曲的谐趣传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/60989.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

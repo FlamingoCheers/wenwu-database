@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.79a, b"
  },
- "summary": "Vase。China",
+ "summary": "清代晚期玉瓶（18世纪末），带座高13厘米。瓶身琢治光洁，配底座更显庄重，是案头陈设的清雅之器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/43329.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

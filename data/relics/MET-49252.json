@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "47.81.2"
  },
- "summary": "Album。China",
+ "summary": "《历代帝王像》册，绢本设色，二十开，约成于二十世纪初。册页纵约28、横约22厘米，摹绘历代帝王形象，或依传统帝王图像传摹而成，供观瞻与鉴藏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/49252.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

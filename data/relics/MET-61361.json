@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1993.480.6"
  },
- "summary": "Plate。China",
+ "summary": "锡镶椰壳圆盘，1917年款，径25.1厘米，高7.5厘米。以椰壳入器、锡金属包镶是华南工艺特色，此盘或为陈设或日用之器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/61361.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

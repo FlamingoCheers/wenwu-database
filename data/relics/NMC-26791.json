@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "点眉纹双耳彩陶罐。肩置双耳，器身以彩绘点线构成纹样。彩陶是史前制陶的重要代表，纹饰绘于陶坯经烧成固色，反映了远古先民的审美情趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/nmc/detail_26791.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

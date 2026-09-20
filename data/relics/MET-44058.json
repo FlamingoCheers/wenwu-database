@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.820"
  },
- "summary": "Vase。China",
+ "summary": "十八世纪水晶瓶，高21厘米，器身雕龙纹。水晶质地晶莹而性坚，掏膛琢磨颇费工时，此类瓶多为厅堂书斋陈设之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/44058.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.851"
  },
- "summary": "Stand。China",
+ "summary": "十八世纪水晶座，宽7.3厘米。为承托陈设器物之底座，与清供玩器配套使用，做工规整细洁。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44104.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

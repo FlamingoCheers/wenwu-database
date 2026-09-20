@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.916"
  },
- "summary": "Figure。China",
+ "summary": "十八至十九世纪青金石印度神祇像，高10.2厘米。青金石色蓝如靛，古由西域输入，以之雕造异域神像，可见中外艺术交流的影响。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44178.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

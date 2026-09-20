@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1979.418.1"
  },
- "summary": "Robe。China",
+ "summary": "男式丝袍。以丝与金属线织绣而成，通体饰龙纹，十九世纪制品。此类织金纹袍多作礼服或吉服穿着，体现了清代服饰等级与织绣工艺水平。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/81795.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

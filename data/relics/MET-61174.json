@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "24.185"
  },
- "summary": "Belt buckle。China",
+ "summary": "近现代镀银青铜带扣，19—20世纪，高17.8厘米，饰动物纹。器形硕大，超出实用带具尺度，或兼作陈设赏玩，延续传统带扣的造型意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/61174.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

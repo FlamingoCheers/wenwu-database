@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.186.70"
  },
- "summary": "Sutra Cover。China",
+ "summary": "17世纪经皮，平纹丝地上织入纹纬显花。纹纬织花是传统提花技法，此件用以包覆经卷，织造平实细密。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/69845.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

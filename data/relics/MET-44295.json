@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1995.426"
  },
- "summary": "Mirror。China",
+ "summary": "铜镜，仿东周战国样式，登记为汉代之物。青铜铸制，镜背饰龙纹，表面彩绘为后世添加，或系二十世纪所补。此镜可见战国铜镜纹样传统之深远影响。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44295.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.173a, b"
  },
- "summary": "Covered vase。China",
+ "summary": "玉盖瓶（20世纪），高11.7厘米，器形规整。盖瓶陈设观赏皆宜，延续清代玉雕器皿的传统式样。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/43334.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

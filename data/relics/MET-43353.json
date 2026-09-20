@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.88"
  },
- "summary": "Necklace。China",
+ "summary": "玉项链（20世纪），长60.3厘米，配钻石搭扣。以传统玉石配西式镶钻工艺，体现20世纪初中西风格交融的首饰风尚。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/43353.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

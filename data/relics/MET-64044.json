@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.29a–e"
  },
- "summary": "Rubbings。China",
+ "summary": "唐代草书《千字文》残拓数段。《千字文》为传统识字启蒙名篇，历代书家常以草书挥写。残片存字虽少，犹见笔势连绵飞动之态。二十世纪拓本，纸本墨拓。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64044.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

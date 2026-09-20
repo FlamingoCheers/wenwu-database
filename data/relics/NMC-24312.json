@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "历史照片。为清末北京铁路局办公室外景。照片保存了早期铁路管理机构的建筑形象，是研究清末铁路行政体制与办公建筑的图像资料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -29,7 +29,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/nmc/detail_24312.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-20",
- "updated_at": "2026-09-20"
+ "updated_at": "2026-09-20",
+ "desc_ai": true
 }

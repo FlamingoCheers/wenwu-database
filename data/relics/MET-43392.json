@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.80a, b"
  },
- "summary": "Flower holder。China",
+ "summary": "清代晚期玛瑙花插（19世纪末），带座高12.5厘米。玛瑙纹理天成，琢为花插以插花枝，人工与天然相得益彰。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/43392.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

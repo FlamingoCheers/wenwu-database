@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "81.6.263"
  },
- "summary": "Seal。China",
+ "summary": "清代青花瓷印，18世纪，边长3.5厘米，釉下青花装饰并刻篆书印文。以瓷为印较少见，文人或以之入囊匣，作案头雅玩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/61857.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

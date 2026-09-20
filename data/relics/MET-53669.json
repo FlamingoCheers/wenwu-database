@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.148.132"
  },
- "summary": "Textile。China",
+ "summary": "明代（十六世纪）机织织物残片，长4.8、宽1.9厘米，形制窄长，或为织物边饰残段，是研究明代纺织工艺的小型实物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/53669.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

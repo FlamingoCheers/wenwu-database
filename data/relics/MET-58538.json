@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "2003.66.7"
  },
- "summary": "Knife。China",
+ "summary": "公元前一千纪铜柄铁刃刀，长20.5厘米，柄中空而刃以铁制，是青铜向铁器过渡阶段的代表性器物，见证了金属工艺的演变。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/58538.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "49.22.1"
  },
- "summary": "Piece。China",
+ "summary": "20世纪中国天鹅绒残片，丝质起绒，绒面丰厚。此类绒织物多用于服饰与坐具面料，延续传统起绒织造工艺。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/69874.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

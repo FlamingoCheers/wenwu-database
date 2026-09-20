@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "30.75.19"
  },
- "summary": "Robe of state。China",
+ "summary": "礼服袍，或为十七世纪之物，以丝织成并饰龙纹。此类袍服等级尊贵，多与宫廷或高阶礼服相关，是研究明清之际服饰制度的重要实物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/68521.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

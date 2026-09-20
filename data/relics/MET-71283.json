@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.148.292"
  },
- "summary": "Piece。China",
+ "summary": "中国十七世纪织锦残片，复合组织丝织物，幅面小巧。此类窄小残片常为衣物边饰、绦带或装裱镶边用料，反映当时织锦的广泛使用与再利用习惯。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/71283.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

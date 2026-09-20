@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.10"
  },
- "summary": "Rubbing。China",
+ "summary": "20世纪拓印的《大藏经》序碑拓片，纸本墨拓，228.6×96.5厘米。藏经序文刻石立碑以志流通，拓片保存碑刻书法的章法气象。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64025.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

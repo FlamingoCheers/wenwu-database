@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1974.356.57"
  },
- "summary": "Group。China",
+ "summary": "18世纪钙化玉群羊圆雕，长15.9厘米。羊古通“祥”字，寓吉祥之意；玉料钙化斑驳，或取古玉改琢，群羊姿态生动。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/62050.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

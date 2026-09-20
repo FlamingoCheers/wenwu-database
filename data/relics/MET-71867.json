@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.148.876"
  },
- "summary": "Piece。China",
+ "summary": "中国十七世纪织锦残片，复合组织丝织物，近方形小幅。小片织锦常被再利用作书册封面裱贴或囊袋面料，此片为十七世纪织锦工艺的散存实物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/71867.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

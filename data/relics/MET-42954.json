@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1974.356.58"
  },
- "summary": "Pendant。China",
+ "summary": "清代玉兔佩，十八世纪，长3.8厘米。兔形灵巧，玉质温润，为随身佩挂的小型玉饰。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/42954.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

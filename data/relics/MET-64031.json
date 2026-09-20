@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.16"
  },
- "summary": "Rubbing。China",
+ "summary": "唐代人名题记石柱拓本，二十世纪捶拓，纸本墨拓。石柱所镌人名或与职官题名、功德记名等相关，为研究唐代石刻制度与社会生活提供了文字资料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/64031.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

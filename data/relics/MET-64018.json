@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.3a–d"
  },
- "summary": "Rubbing。China",
+ "summary": "唐玄宗御制序并注《孝经》（世称《石台孝经》）的20世纪拓本，纸本墨拓，四幅各高约3米。原碑隶书立于西安碑林，为唐代隶书名碑。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64018.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

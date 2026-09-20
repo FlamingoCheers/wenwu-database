@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.31.2"
  },
- "summary": "Shadow player。China",
+ "summary": "清代驴皮影人，十九世纪，高约23.5厘米。以驴皮镂刻、彩绘，关节处以线绳缀连，为皮影戏演出道具；此件表现持刀剑的男性武人形象。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/73269.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

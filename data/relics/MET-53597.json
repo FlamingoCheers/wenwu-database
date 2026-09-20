@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "58.79.3"
  },
- "summary": "Album。China",
+ "summary": "花卉图册，清代十九世纪。共十二开，设色绘于通草纸上，题材为花卉与蝴蝶草虫。通草纸质地莹润，着色鲜妍，为十九世纪流行的绘画载体，供观赏与馈赠之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/53597.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.7a, b"
  },
- "summary": "Rubbing。China",
+ "summary": "《峄山碑》刻辞的近世拓本，原碑为宋代（960—1279）重刻，拓片两幅，各高约152—154厘米。峄山碑传为秦相李斯小篆，宋人翻刻存其字形，为习篆要范。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/64022.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

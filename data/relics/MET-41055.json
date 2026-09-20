@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "27.129"
  },
- "summary": "Seal。China。Modern",
+ "summary": "近代蛇纹石玉（鲍文玉）印，长8.1厘米。玉色青碧莹润，形制小巧，为文房钤印之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/41055.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

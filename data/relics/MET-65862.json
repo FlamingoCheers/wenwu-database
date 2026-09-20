@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "96.14.130"
  },
- "summary": "Piece。China (?)",
+ "summary": "清代丝织残片，十八至十九世纪，产地疑为中国，尺寸很小，当为服饰或陈设织物散存的局部，可借以观察当时的丝织质地与织造工艺。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/65862.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

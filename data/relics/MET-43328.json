@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.93"
  },
- "summary": "Vase。China",
+ "summary": "清代玉小瓶（18世纪），高6.8厘米，形制秀巧。小瓶宜置文房案头，作清供观赏之用，亦可插置细枝花材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/43328.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

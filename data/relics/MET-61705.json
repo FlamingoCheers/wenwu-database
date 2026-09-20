@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "48.30.5"
  },
- "summary": "Figure。China",
+ "summary": "清代鎏金铜观音小像，18世纪，高仅4.9厘米。掌中大小、便于随身供养的鎏金小佛像是清代佛教造像的常见品类，铜胎鎏金，精致可喜。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/61705.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

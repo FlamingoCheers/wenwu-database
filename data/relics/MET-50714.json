@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "66.206.9"
  },
- "summary": "Vase。China",
+ "summary": "青釉仿古觚式瓶，二十世纪初景德镇窑制品。造型取古代青铜酒器觚之形，大口细腰，通施淡绿釉。此类仿古瓷供案头陈设与清赏，是清代复古瓷风的延续。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/50714.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.184a, b"
  },
- "summary": "Covered vase。China",
+ "summary": "清代晚期玉盖瓶（19世纪末），高16.5厘米，雕饰龙纹。龙为传统祥瑞题材，瓶体端稳庄重，置于案几颇见气象。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/43330.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

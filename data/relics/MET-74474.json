@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "22.141.6"
  },
- "summary": "Mirror。China",
+ "summary": "仿古风格铜镜。圆形，直径18.7厘米，镜体扁薄。器物追摹古代铜镜的形制意趣，或与汉代镜式相关，大都会博物馆未定年，反映了后世崇古仿古的风尚。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/74474.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

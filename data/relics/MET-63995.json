@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "59.195.1"
  },
- "summary": "Rubbing。China",
+ "summary": "20世纪拓印的明代石刻“老渔翁”拓片，纸本墨拓，连裱88.9×46.4厘米。渔翁垂钓题材寄托隐逸之趣，拓片令石刻图像化身千百、流传观赏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/63995.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

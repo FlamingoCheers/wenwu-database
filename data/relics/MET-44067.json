@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.828"
  },
- "summary": "Double vase。China",
+ "summary": "十八世纪水晶双联瓶，高14.3厘米，饰叶纹。双瓶联体，含成双成对的吉祥之意，为案头陈设雅器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/44067.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

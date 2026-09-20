@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "64.85.2"
  },
- "summary": "Rosary。China",
+ "summary": "清代（十九世纪）朝珠，长67.9厘米，以玻璃珠配丝绳、金属丝等串制，为官员朝服佩挂之物，是清代冠服制度的重要组成。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/60644.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

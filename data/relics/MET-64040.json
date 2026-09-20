@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.25"
  },
- "summary": "Rubbing。China",
+ "summary": "龙禅和尚塔铭拓本，记述寺院住持龙禅的生平行履，二十世纪捶拓，纸本墨拓。此类僧人塔铭是研究佛教人物与寺院传承的第一手石刻文献。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64040.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

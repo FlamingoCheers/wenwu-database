@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1973.110.2a, b"
  },
- "summary": "Skirt。China",
+ "summary": "女裙。以丝、麻类纤维与皮毛制成，十九世纪早期制品，裙饰龙纹。龙纹女裙规格较高，多与礼服配套穿着，可窥见清代女性礼服制度之一斑。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/93922.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "17.38.1"
  },
- "summary": "Seal。China",
+ "summary": "清代玉印，十九世纪，附丝绳。玉质温润，形体方正，为钤印之器，兼作文房鉴藏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/40982.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

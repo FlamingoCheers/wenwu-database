@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1972.37.2"
  },
- "summary": "Panel。China",
+ "summary": "17至18世纪中国缂丝花卉残片，通经断纬，局部织入金属线，纹样工细，是传统缂织装饰织物的一段。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/70525.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

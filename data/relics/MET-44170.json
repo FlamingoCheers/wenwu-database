@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.907"
  },
- "summary": "Vase。China",
+ "summary": "十八世纪浅绿色鲍文玉瓶，高14.6厘米。鲍文玉为似玉的蛇纹石类矿物，色青翠温润近于青玉，琢瓶供陈设之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/44170.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

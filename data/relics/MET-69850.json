@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.186.84"
  },
- "summary": "Sutra Cover。China",
+ "summary": "17世纪织金经皮，窄长形制，丝与金属线交织成料，用于包裹经卷，金线隐现其间。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/69850.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

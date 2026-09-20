@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "47.81.1"
  },
- "summary": "Album。China",
+ "summary": "历代帝王画像册，绢本设色，共二十四开，约绘于二十世纪初。描绘历代帝王形象，属肖像画类，供观览与追慕先王之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/36066.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

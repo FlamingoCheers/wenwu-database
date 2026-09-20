@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.148.129"
  },
- "summary": "Textile。China",
+ "summary": "明代（十六世纪）织物残片，以机织工艺织成，仅约3.8×4.4厘米，形制小巧，或为服饰、经帙类织物的残件，是研究明代纺织工艺的实物资料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/53666.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.94a–c"
  },
- "summary": "Wine pot。China",
+ "summary": "清代玉酒壶（18世纪），高19.7厘米，饰禽鸟纹。玉质酒具用于盛酒斟饮，与杯盏配套，亦常作案头陈设的雅器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/43307.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

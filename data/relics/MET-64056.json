@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.41"
  },
- "summary": "Rubbing。China",
+ "summary": "慎行序并箴诫类刻石拓本，先以序文申述、继以箴言垂诫，劝人谨言慎行、修身立德。二十世纪捶拓，纸本墨拓，兼具书法与教化文献价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/64056.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

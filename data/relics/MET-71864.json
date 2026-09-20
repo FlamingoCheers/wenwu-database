@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.148.873"
  },
- "summary": "Piece。China",
+ "summary": "中国十七世纪织锦残片，复合组织丝织物，长条形，织花卉纹。此类窄幅织料多用于衣缘、绦带或幔帐边饰，反映晚明至清初织锦的生产与使用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/71864.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "CP49"
  },
- "summary": "Print。China",
+ "summary": "清代《芥子园画传》芦荻页，彩色木刻版画，24.4×15.1厘米。芥子园画传为清代著名画谱，套版印刷精雅，为学画者提供山水花木范式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/63354.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "58.64.13"
  },
- "summary": "Seal。China",
+ "summary": "清代象牙印，十八世纪，高4.9厘米。印体修长，象牙莹润，治印工细，供钤用兼作清玩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/41961.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "29.40"
  },
- "summary": "Tripod jar。China",
+ "summary": "三足釉陶罐，二十世纪。陶胎施彩色釉，器下承三足，形制仿古代三足陶器一类。器高约8.6厘米，小巧玲珑，或作案头香插、陈设之用，属近代仿古陶器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/52569.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

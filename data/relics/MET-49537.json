@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1985.214.80"
  },
- "summary": "Plaque。North China",
+ "summary": "虎与羚羊首纹鎏金铜牌饰，公元前3—前1世纪，北方地区制品。青铜鎏金，铸猛虎与羚羊首形象，动静相衬，为北方草原动物纹牌饰，作服饰或马具装饰之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/49537.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

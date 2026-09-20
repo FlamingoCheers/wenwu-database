@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.292"
  },
- "summary": "Axe。China",
+ "summary": "清代玉斧，高20.7厘米。斧形玉器承袭上古玉钺造型，后世多摹古而作，用作陈设赏玩，而非实用之器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/43700.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

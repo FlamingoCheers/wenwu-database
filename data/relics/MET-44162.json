@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.900"
  },
- "summary": "Figure。China",
+ "summary": "十八世纪玉髓玛瑙燕形雕件，长7.6厘米，配象牙座。燕子报春传喜，寓吉祥之意，雕琢生动，供案头陈设赏玩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44162.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

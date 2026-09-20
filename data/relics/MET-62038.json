@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.107a, b"
  },
- "summary": "Flower holder。China",
+ "summary": "19世纪光玉髓（红玛瑙）花插，配木座，或嵌象牙，通高约19厘米。石色红润，凿穴承花，为文人案头清供之属。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/62038.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

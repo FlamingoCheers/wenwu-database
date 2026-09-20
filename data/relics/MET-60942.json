@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "23.180.2"
  },
- "summary": "Dish。China",
+ "summary": "南宋（约1200年）黑漆深盘，高3.2、径16.5厘米，通体素髹黑漆，漆面温润，属宋代一色素髹漆器的典型风格，可作文房或日用器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/60942.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

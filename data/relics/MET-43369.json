@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.161"
  },
- "summary": "Buckle。China",
+ "summary": "玉带扣（18世纪），玉质镶鎏金铜件，饰禽鸟纹。此类带扣以金属为托、嵌玉为饰，坚固而华美，用于束系衣带。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/43369.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

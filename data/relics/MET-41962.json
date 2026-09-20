@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "58.64.14"
  },
- "summary": "Seal。China",
+ "summary": "清代象牙印，十八世纪，钮雕蛙形。蛙钮别致生动，印身小巧，为文房雅玩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/41962.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

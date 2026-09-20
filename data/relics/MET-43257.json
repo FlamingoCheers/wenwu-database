@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.148"
  },
- "summary": "Toggle。China",
+ "summary": "玉坠扣，17世纪（明末清初之际），高2.7厘米，雕工简练。坠扣穿绳系于腰间，用以悬挂随身物品，是实用与把玩兼备的小件玉器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/43257.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

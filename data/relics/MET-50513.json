@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.186.72"
  },
- "summary": "Sutra cover。China",
+ "summary": "龙花卉纹经面，明代十六世纪。织锦锦地上饰龙与花卉，纹样富丽。经面用以包护经册，此件织造精细，是明代佛教经籍装帧织物的实例。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/50513.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

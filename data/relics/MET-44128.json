@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.869"
  },
- "summary": "Double vase。China",
+ "summary": "十八世纪玛瑙双联瓶，高10.8厘米。双瓶联体，巧借玛瑙天然层色，造型别致，供案头陈设。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/44128.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

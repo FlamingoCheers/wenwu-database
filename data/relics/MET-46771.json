@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "27.90.1"
  },
- "summary": "Bowl。China",
+ "summary": "缠枝花卉纹碗，二十世纪景德镇窑青白釉制品。釉色青中泛白，莹润如玉，仿宋代青白瓷风格。器高约7.6、口径约20厘米，可作饮食或陈设之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/46771.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "83.19.4"
  },
- "summary": "Baluster。China",
+ "summary": "17—18世纪大理石望柱，高66厘米，宽20.3厘米。此类石柱为中国传统栏杆构件，用于殿宇台基或桥梁两侧，石质耐久，兼具结构与装饰功能。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/61503.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

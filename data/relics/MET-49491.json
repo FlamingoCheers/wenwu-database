@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1985.214.84"
  },
- "summary": "Plaque。North China",
+ "summary": "兽首相对纹铜牌饰，公元前3—前1世纪，北方地区制品。青铜铸造，牌面铸两兽首相对之形，属北方草原动物纹牌饰，当为腰带或马具上的装饰构件。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/49491.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

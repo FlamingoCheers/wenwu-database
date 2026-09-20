@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.186.62"
  },
- "summary": "Sutra cover。China",
+ "summary": "花卉纹经面，明代十六世纪。以丝织品与金纸相合制成，饰花卉纹样。经面护经兼作装饰，此件织物与金材并用，可见明代佛经装帧的讲究用料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/50544.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

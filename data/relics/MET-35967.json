@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "96.14.1896"
  },
- "summary": "Panel。China",
+ "summary": "皮革彩绘饰板，十八世纪或更早。皮面施彩绘，绘人物、大象与花卉等图像，属中国传统皮革工艺，原图像或与乐舞出行题材相关。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/35967.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

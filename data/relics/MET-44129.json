@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.870"
  },
- "summary": "Vase。China",
+ "summary": "十八世纪玛瑙雕佛手、桃、石榴及灵芝叶组雕，高10.2厘米。佛手寓福、桃寓寿、石榴寓多子，是传统吉祥题材的案头清供。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44129.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

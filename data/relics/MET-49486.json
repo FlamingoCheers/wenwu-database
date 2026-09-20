@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1985.214.77"
  },
- "summary": "Plaque。North China",
+ "summary": "双牦牛纹铜牌饰，汉代（公元前二至前一世纪），北方地区制品。青铜铸成双牦牛相对形象，属北方草原动物纹牌饰传统，当为腰带或马具上的装饰件。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/49486.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

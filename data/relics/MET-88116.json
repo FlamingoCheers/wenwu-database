@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.39"
  },
- "summary": "Underwear。China",
+ "summary": "竹衣。以细小竹环用棉线串织而成的贴身内衣，宽69.9厘米、长4.5米余，为十九世纪制品。竹衣轻薄透气、可隔汗渍，是清代消夏常用的特殊衣物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/88116.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

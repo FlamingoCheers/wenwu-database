@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "19.19.9"
  },
- "summary": "Seal。China",
+ "summary": "二十世纪初玉印，圆形，径7.6厘米。玉质匀净，形制简朴，为文房用印，兼可陈设。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/40994.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

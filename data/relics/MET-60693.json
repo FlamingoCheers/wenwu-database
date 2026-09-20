@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "62.97.20"
  },
- "summary": "Blind。China",
+ "summary": "清代（十八世纪）髹漆竹帘，纵190.5、横105.1厘米，以竹丝编就并施漆饰，色泽沉雅，用作厅堂间隔，是竹制生活器具中的考究品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/60693.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "66.206.10"
  },
- "summary": "Vase。China",
+ "summary": "仿古觚式瓶，清晚期至二十世纪初，景德镇窑制品。器形摹商周青铜觚，喇叭口、细腰，施淡青绿釉，釉色匀净。以瓷仿铜为清代流行的复古陈设风尚。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/50713.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

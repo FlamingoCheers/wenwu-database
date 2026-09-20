@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.133.13a, b"
  },
- "summary": "Piece。China",
+ "summary": "中国17世纪天鹅绒残片两件，丝质起绒织成，绒面丰厚。起绒织物于明清之际渐行，可作服饰镶覆之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/69760.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

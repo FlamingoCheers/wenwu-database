@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "61.240.2"
  },
- "summary": "Piece。China",
+ "summary": "17至18世纪织金织物大幅残片，丝与金属线交织，幅面宽大，金属线隐现光泽，或原属帷幔、袍料一类整幅织物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/70315.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

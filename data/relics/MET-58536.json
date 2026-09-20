@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "2003.66.6"
  },
- "summary": "Blade。China",
+ "summary": "公元前一千纪青铜弧刃刀，长19.8厘米，刃部弯曲，或为切割用具，体现了早期青铜刀类的造型传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/58536.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "44.48.23a–j"
  },
- "summary": "Fragment。China",
+ "summary": "南宋织锦残片五件，十三世纪织造，合装成框，尺寸均小。织锦以提花显纹，残片虽碎，仍是研究宋代织造技术与纹样组织的珍贵标本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/69624.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

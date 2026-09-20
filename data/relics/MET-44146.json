@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.884"
  },
- "summary": "Carving。China",
+ "summary": "十八世纪蓝玛瑙雕件，宽14.9厘米，饰花卉纹。蓝玛瑙较为少见，色泽沉静雅致，雕作花卉供案头清赏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/44146.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

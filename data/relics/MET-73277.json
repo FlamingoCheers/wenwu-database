@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.31.10"
  },
- "summary": "Shadow player。China",
+ "summary": "清代驴皮影人，十九世纪，皮影戏道具，表现女性形象。影人中的旦角造型多饰发髻裙衫，以驴皮镂刻敷彩而成，为十九世纪影戏艺术的实物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/73277.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

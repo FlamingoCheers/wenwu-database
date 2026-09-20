@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.92a–c"
  },
- "summary": "Teapot。China",
+ "summary": "玉壶，清代（十八世纪）。以整玉琢成壶形，下承底座。玉制茶壶多不为日常汲饮，而供案头赏玩陈设，体现清代玉器工艺之精与尚玉之风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44269.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

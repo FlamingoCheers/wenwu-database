@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.148.443"
  },
- "summary": "Piece。China",
+ "summary": "清代十八世纪织锦残片，复合组织丝织物，窄长条形，织龙纹。龙纹织物多与宫廷及官用服饰相关，此片或为袍服镶边之类用料，体现清代织锦的等级传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/71436.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

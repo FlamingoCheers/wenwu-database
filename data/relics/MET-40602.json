@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "X.132.6"
  },
- "summary": "Vase。China",
+ "summary": "清代画珐琅瓶，十九世纪，高10.2厘米。珐琅彩绘花卉纹，色彩明艳，为案头陈设小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/40602.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

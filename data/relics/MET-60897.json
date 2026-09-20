@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1978.428.2"
  },
- "summary": "Hairpin。China",
+ "summary": "清代（十八世纪）发簪，长26厘米，金属簪体上缀琥珀、珍珠，并以羽毛为饰，色彩富丽，属清代大型发饰。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/60897.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "24.80.140"
  },
- "summary": "Vase。China",
+ "summary": "清代软玉瓶（18世纪），高10.8厘米。软玉温润内敛，为中国传统用玉之正宗，此瓶琢工规整，作陈设清供之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/43331.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

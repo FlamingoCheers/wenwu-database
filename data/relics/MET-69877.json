@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "49.22.4"
  },
- "summary": "Piece。China",
+ "summary": "20世纪中国丝织物残片，幅面近方形，织纹规整，为近代丝织实料，用途或涉服饰陈设。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/69877.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

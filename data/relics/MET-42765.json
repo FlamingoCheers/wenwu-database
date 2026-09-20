@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.177"
  },
- "summary": "Pendant。China",
+ "summary": "清代软玉佩，十八世纪，长10.6厘米。和田玉质温润细腻，琢磨圆润，为随身佩饰，寓佩玉修身之意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/42765.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

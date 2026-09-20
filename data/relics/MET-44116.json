@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.860a, b"
  },
- "summary": "Box and cover。China",
+ "summary": "十八世纪茶晶鸟形盖盒，长9.8厘米。茶晶即烟色水晶，琢作鸟形，盒盖相合，既可贮物又作案头玩器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44116.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

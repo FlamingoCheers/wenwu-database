@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "28.68.2"
  },
- "summary": "Yoke ornament。China",
+ "summary": "东周青铜鹿形轭饰，公元前5—4世纪，长9.8厘米。以鹿为饰的车马构件流行于东周贵族车舆，造型矫健，兼见礼制等级与审美趣味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/61546.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

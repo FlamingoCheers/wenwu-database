@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.875"
  },
- "summary": "Water pot。China",
+ "summary": "十八世纪红玛瑙水盂，高4.8厘米。水盂为文房贮水磨墨之具，以玛瑙琢制，小巧莹润，实用与赏玩兼具。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/44135.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

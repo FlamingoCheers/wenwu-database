@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.186.31"
  },
- "summary": "Sutra cover。China",
+ "summary": "经面，明代十六世纪。以丝织锦制成，覆于经卷之外以护经册。织物平整细密，与写经刻经传统相配，是传统经籍装帧的护封部件。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/50504.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

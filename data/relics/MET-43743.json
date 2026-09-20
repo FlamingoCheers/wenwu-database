@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.342"
  },
- "summary": "Signet。China",
+ "summary": "清代软玉图章，高5.6厘米。玉印为文人案头之具，用以钤盖书画，亦是身份与雅趣的象征。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/43743.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

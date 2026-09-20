@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.32"
  },
- "summary": "Rubbing。China",
+ "summary": "《圣母》题刻拓本，二十世纪捶拓，纸本墨拓。圣母信仰在中国民间流传颇广，此类题刻多与祠庙祭祀相关，是研究民间信仰的石刻文字资料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/64047.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

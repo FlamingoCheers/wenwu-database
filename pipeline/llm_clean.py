@@ -6,6 +6,9 @@
   merge A     合并 raw/llm_clean/A_result_*.jsonl -> 校验词表/置信度 -> A_apply.json + A_lowconf.json
   apply A     把 A_apply.json 写回 data/relics/*.json（改 category；low confidence -> needs_review=true）
               附带回滚日志 raw/llm_clean/apply_A_journal.json
+  prep B      扫描全库 summary<20字 -> B_desc_todo.jsonl（MET/NMC 附 raw 事实字段供 LLM 兜底；NPM 标 mode=actions 留给回源）
+  merge B     合并 B_result_*.jsonl {id,summary} -> 长度/质量校验 -> B_apply.json
+  apply B     写回 summary（仅当现有过短），置 desc_ai=true + needs_review=true，日志 apply_B_journal.json
 """
 import json
 import re
@@ -67,17 +70,66 @@ def scan_suspects():
 
 
 def cmd_prep(task):
-    assert task == "A"
+    if task == "A":
+        LC.mkdir(parents=True, exist_ok=True)
+        rows = scan_suspects()
+        with (LC / "A_classify_todo.jsonl").open("w", encoding="utf-8") as w:
+            for row in rows:
+                w.write(json.dumps(row, ensure_ascii=False) + "\n")
+        print(f"A_classify_todo.jsonl: {len(rows)} rows")
+        return
+    assert task == "B"
     LC.mkdir(parents=True, exist_ok=True)
-    rows = scan_suspects()
-    with (LC / "A_classify_todo.jsonl").open("w", encoding="utf-8") as w:
+    rows, skipped_npm = [], 0
+    for f in sorted(RELICS.glob("*.json")):
+        r = json.loads(f.read_text(encoding="utf-8"))
+        s = (r.get("summary") or "").strip()
+        if len(s) >= 20:
+            continue
+        rid = r.get("relic_id", f.stem)
+        pre = rid.split("-")[0]
+        if pre == "NPM":
+            skipped_npm += 1  # 留给 Actions 回源 job
+            continue
+        row = {
+            "id": rid,
+            "name": r.get("name") or "",
+            "category": r.get("category") or "",
+            "dynasty": r.get("dynasty") or "",
+            "material": (r.get("material") or "")[:200],
+            "dimensions": (r.get("dimensions") or "")[:200],
+            "cur_summary": s,
+            "museum": (r.get("collection") or {}).get("museum", ""),
+        }
+        if pre == "MET":
+            rawp = ROOT / "raw" / "met" / f"{rid.split('-')[1]}.json"
+            facts = {}
+            if rawp.exists():
+                d = json.loads(rawp.read_text(encoding="utf-8"))
+                facts = {
+                    "title": d.get("title") or "",
+                    "medium": (d.get("medium") or "").replace("\r\n", "; ")[:200],
+                    "objectDate": d.get("objectDate") or "",
+                    "culture": d.get("culture") or "",
+                    "creditLine": d.get("creditLine") or "",
+                    "classification": d.get("classification") or "",
+                    "tags": [t.get("term") for t in (d.get("tags") or []) if t.get("term")][:8],
+                }
+            row["facts"] = facts
+            row["mode"] = "met"
+        else:
+            row["mode"] = "nmc"
+        rows.append(row)
+    with (LC / "B_desc_todo.jsonl").open("w", encoding="utf-8") as w:
         for row in rows:
             w.write(json.dumps(row, ensure_ascii=False) + "\n")
-    print(f"A_classify_todo.jsonl: {len(rows)} rows")
+    by = {}
+    for row in rows:
+        by[row["mode"]] = by.get(row["mode"], 0) + 1
+    print(f"B_desc_todo.jsonl: {len(rows)} rows {by}（NPM 跳过 {skipped_npm} 件留待回源）")
 
 
-def cmd_merge(task):
-    assert task == "A"
+def merge_a():
     cats = vocab_cats()
     results = {}
     for f in sorted(LC.glob("A_result_*.jsonl")):
@@ -117,6 +169,45 @@ def cmd_merge(task):
         print("  缺失样例:", missing[:8])
 
 
+def merge_b():
+    # ---- B ----
+    results = {}
+    for f in sorted(LC.glob("B_result_*.jsonl")):
+        for line in f.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                d = json.loads(line)
+            except json.JSONDecodeError:
+                print(f"  [warn] 非 JSON 行忽略: {f.name}")
+                continue
+            if d.get("id"):
+                results[d["id"]] = d
+    todo = [json.loads(l) for l in (LC / "B_desc_todo.jsonl").read_text(encoding="utf-8").splitlines() if l.strip()]
+    apply_list, bad = [], []
+    for t in todo:
+        d = results.get(t["id"])
+        if not d:
+            bad.append({"id": t["id"], "why": "missing"})
+            continue
+        txt = (d.get("summary") or "").strip()
+        if len(txt) < 15:
+            bad.append({"id": t["id"], "why": f"too_short:{len(txt)}"})
+            continue
+        if len(txt) > 400:
+            txt = txt[:400]
+        if txt == t.get("cur_summary"):
+            bad.append({"id": t["id"], "why": "unchanged"})
+            continue
+        apply_list.append({"id": t["id"], "summary": txt, "confidence": d.get("confidence", "medium")})
+    (LC / "B_apply.json").write_text(json.dumps(apply_list, ensure_ascii=False, indent=1), encoding="utf-8")
+    (LC / "B_reject.json").write_text(json.dumps(bad, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"结果 {len(results)} / 任务 {len(todo)} | 待应用 {len(apply_list)} | 拒绝 {len(bad)}")
+    if bad:
+        print("  拒绝样例:", bad[:5])
+
+
 def cmd_apply(task):
     assert task == "A"
     apply_list = json.loads((LC / "A_apply.json").read_text(encoding="utf-8"))
@@ -146,6 +237,33 @@ def cmd_apply(task):
     print(f"已改分类 {changed} 件，低置信标 review {review_added} 件，日志 {len(journal)} 条 -> apply_A_journal.json")
 
 
+def cmd_apply_b():
+    apply_list = json.loads((LC / "B_apply.json").read_text(encoding="utf-8"))
+    journal = []
+    changed = 0
+    for row in apply_list:
+        p = RELICS / (row["id"] + ".json")
+        r = json.loads(p.read_text(encoding="utf-8"))
+        if len((r.get("summary") or "").strip()) >= 20:
+            continue  # 已被回源等步骤补全，不覆盖
+        old = r.get("summary")
+        r["summary"] = row["summary"]
+        r["desc_ai"] = True
+        r["needs_review"] = True
+        journal.append({"id": row["id"], "field": "summary", "was": old, "now": row["summary"][:60]})
+        p.write_text(json.dumps(r, ensure_ascii=False, indent=1), encoding="utf-8")
+        changed += 1
+    (LC / "apply_B_journal.json").write_text(json.dumps(journal, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"已补描述 {changed} 件（desc_ai+needs_review），日志 {len(journal)} 条 -> apply_B_journal.json")
+
+
 if __name__ == "__main__":
     cmd, task = sys.argv[1], sys.argv[2]
-    {"prep": cmd_prep, "merge": cmd_merge, "apply": cmd_apply}[cmd](task)
+    if cmd == "apply" and task == "B":
+        cmd_apply_b()
+    elif cmd == "merge" and task == "B":
+        merge_b()
+    elif cmd == "merge" and task == "A":
+        merge_a()
+    else:
+        {"prep": cmd_prep, "apply": cmd_apply}[cmd](task)

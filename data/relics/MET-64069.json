@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.54a, b"
  },
- "summary": "Rubbing。China",
+ "summary": "杜甫《古柏行》诗刻拓本两幅。《古柏行》咏武侯祠前古柏，借物言志，为杜诗名篇，后世多以之入石。二十世纪捶拓，纸本墨拓。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64069.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

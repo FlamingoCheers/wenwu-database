@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.83"
  },
- "summary": "Pendant。China",
+ "summary": "清代翡翠佩（19世纪），高6.4厘米，雕动物题材。翡翠自清代中晚期盛行，翠佩色泽鲜亮，佩戴把玩两宜。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/43343.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.8"
  },
- "summary": "Rubbing。China",
+ "summary": "皇甫诞（卒于604年）碑的20世纪拓片，纸本墨拓，181.5×91.4厘米。此碑为历代楷书名品，拓片再现原碑笔法的严整风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/64023.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

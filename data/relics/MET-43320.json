@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "67.55.92"
  },
- "summary": "Caldron。China",
+ "summary": "清代晚期黄玉髓鼎式小炉，带耳高5.1厘米。器仿古铜鼎造型，以玉石琢治，供案头陈设清赏，属传统仿古玉石器之属。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/43320.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

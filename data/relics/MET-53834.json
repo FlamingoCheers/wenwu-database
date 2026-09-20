@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "26.7.1273"
  },
- "summary": "Bowl。China",
+ "summary": "十三至十四世纪中国玻璃碗，以不透明的蓝色玻璃制成，高7.5、口径16厘米，器形规整，展示了古代玻璃吹制工艺的面貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/53834.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

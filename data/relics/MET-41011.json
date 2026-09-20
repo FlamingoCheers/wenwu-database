@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "19.30.3"
  },
- "summary": "Seal。China",
+ "summary": "清代青灰玉印，二十世纪初，高11.4厘米。玉呈灰绿色，印体硕大，治印工整，为文房钤盖之器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/41011.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

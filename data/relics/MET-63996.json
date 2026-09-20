@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "59.195.2"
  },
- "summary": "Rubbing。China",
+ "summary": "清代石刻观音像的20世纪拓片，纸本墨拓，连裱达190×106.7厘米。巨幅拓片再现石刻造像的线条气韵，观音图像借此广为流传。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/63996.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

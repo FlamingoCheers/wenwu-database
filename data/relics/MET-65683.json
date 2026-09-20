@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "67.179.15"
  },
- "summary": "Purse。China",
+ "summary": "清代荷包，十九世纪，以丝与金线刺绣而成，小巧精致。荷包为随身佩挂的囊袋，可贮香物钱币，兼具实用与装饰，是传统服饰常见佩件。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/65683.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

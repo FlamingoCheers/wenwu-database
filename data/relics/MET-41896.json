@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "42.90.30"
  },
- "summary": "Figure。China",
+ "summary": "清代琥珀雕何仙姑立像，十八世纪，连座高12.1厘米。何仙姑为道教八仙中唯一的女子，此像姿态娴雅，是琥珀雕刻精品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,7 +38,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/41896.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

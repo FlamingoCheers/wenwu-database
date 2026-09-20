@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.148.127"
  },
- "summary": "Textile。China",
+ "summary": "织物残片，明代十六世纪。丝织质地，残片极小，仅约1.9×5.1厘米，或原属服饰、经帙等织物的残留部分，是研究明代织造工艺的小型实物标本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/53664.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

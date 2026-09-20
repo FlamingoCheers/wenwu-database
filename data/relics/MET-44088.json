@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.846"
  },
- "summary": "Paperweight。China",
+ "summary": "十八世纪水晶镇纸，高11.1厘米，取犬为题材。既可压纸，又可供赏，体现清代文房清供实用与意趣并重的特点。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44088.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

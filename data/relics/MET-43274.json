@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.187a, b"
  },
- "summary": "Water coupe。China",
+ "summary": "清代翡翠水盂（19世纪），雕饰花卉纹样。水盂为文房贮水之器，书画时用以添水润毫，以翡翠琢治，尤为珍雅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/43274.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

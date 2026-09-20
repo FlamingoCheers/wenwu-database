@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "2002.201.115"
  },
- "summary": "Plaque。North China",
+ "summary": "汉代（公元前二至一世纪）北方鎏金铜牌饰，高5.7、宽8.9厘米，饰双峰骆驼纹，属北方草原风格牌饰，或为腰带、马具上的饰件。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/59525.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

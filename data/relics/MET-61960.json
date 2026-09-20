@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "17.118.46"
  },
- "summary": "Ritual object。China",
+ "summary": "清代青玉琮，19世纪，高14厘米。琮内圆外方，原为上古祭祀重器，后世好古之风盛行，多有玉琮仿古之作，转为陈设赏玩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/61960.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

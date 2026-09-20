@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.133.18"
  },
- "summary": "Piece。China",
+ "summary": "17至18世纪中国织金织物残片，丝线间织金属线，饰龙纹与枝叶。金线添华彩，龙纹题材多见于宫廷与宗教用织物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/69765.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

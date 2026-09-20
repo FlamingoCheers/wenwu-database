@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "2002.201.185"
  },
- "summary": "Buckle。China",
+ "summary": "汉代金质带扣，高7.3、宽11.7厘米，以石英镶嵌成龙与神兽纹样，做工华丽，属贵族腰间用具，体现汉代金银镶嵌工艺的成就。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/59569.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

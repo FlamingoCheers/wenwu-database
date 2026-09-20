@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "52.126.21"
  },
- "summary": "Woman's robe。China",
+ "summary": "20世纪中国女式袍服，丝质剪绒（天鹅绒）织成。剪绒织物绒毛成花，光泽深沉，为近代服饰中讲究的品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/69972.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

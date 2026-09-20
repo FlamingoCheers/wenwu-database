@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "44.48.1"
  },
- "summary": "Painted cloth。China",
+ "summary": "绢本彩绘画幔，清代十八世纪。以笔墨设色绘于绢面，织、绘相合，属彩绘织物一类。此类绘绢或用于殿堂装饰与民俗陈设，题材多与信仰生活相关。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/51617.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

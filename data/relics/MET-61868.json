@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "2001.457"
  },
- "summary": "Panel。China",
+ "summary": "3—5世纪经锦织物残片，64.1×49.8厘米，织出鹿纹与汉字铭文。此类铭文兽纹锦采用经线显花工艺，常见于汉晋丝路沿线，代表当时织造技艺的高超水平。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/61868.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

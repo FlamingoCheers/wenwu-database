@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.902"
  },
- "summary": "Cup。China",
+ "summary": "十八世纪玉髓杯，高7.9厘米，饰叶纹。玉髓匀净半透，琢成杯盏，可用可赏，为清代石器中的常见品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44164.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

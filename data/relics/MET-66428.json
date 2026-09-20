@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "96.14.704"
  },
- "summary": "Piece。China (?)",
+ "summary": "清代龙纹丝织残片，十八至十九世纪织造，产地存疑。龙纹织物多与宫廷或官式用度相关，残片虽小，犹可见当时提花织造的精细功夫。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/66428.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

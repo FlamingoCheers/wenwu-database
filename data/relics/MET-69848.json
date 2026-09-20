@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.186.79"
  },
- "summary": "Sutra Cover。China",
+ "summary": "17世纪织金经皮，丝夹金属线织造，织物质地紧密，为包裹经卷而制，属寺院织物中的常见门类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/69848.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

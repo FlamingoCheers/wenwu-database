@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.71a, b"
  },
- "summary": "Covered vase。China",
+ "summary": "玉盖瓶（20世纪），高8.3厘米，雕饰动物纹样。盖瓶以子母口相合，纹饰生动，为清代玉雕传统的延续之作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/43337.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.847"
  },
- "summary": "Dish。China",
+ "summary": "十八世纪水晶盘，高12.7厘米、宽14.6厘米。水晶硬而脆，成形琢磨费工，此盘多供陈设或承托清供之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44091.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

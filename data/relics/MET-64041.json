@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.26"
  },
- "summary": "Rubbing。China",
+ "summary": "《大唐御史台精舍碑》拓本。御史台为唐代中央监察机构，碑记台内置佛精舍之事，反映唐代法制与佛教的关联。二十世纪捶拓，纸本墨拓。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64041.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

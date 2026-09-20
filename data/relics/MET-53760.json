@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.186.60"
  },
- "summary": "Sutra cover。China",
+ "summary": "明代（十六世纪）丝质经盖，尺寸约36.2×12.7厘米，系包裹经卷的护套类用品，体现了明代织造工艺与佛教用度文化的结合。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/53760.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

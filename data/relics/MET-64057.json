@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.42"
  },
- "summary": "Rubbing。China",
+ "summary": "道教经典三种合刻拓本。道教经典刻石历代皆有，或用于崇道祈福。此件二十世纪捶拓，纸本墨拓，是研究道教文献与刻经风俗的资料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/64057.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

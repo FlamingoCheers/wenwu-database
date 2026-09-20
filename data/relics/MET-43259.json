@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.193"
  },
- "summary": "Hairpin。China",
+ "summary": "清代玉发簪（19世纪），簪长14厘米，琢工规整。玉簪插髻绾发，兼具固发与装饰之功，是传统头饰中的常见品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/43259.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

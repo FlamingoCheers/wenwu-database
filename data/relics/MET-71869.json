@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.148.878"
  },
- "summary": "Piece。China",
+ "summary": "中国十七世纪织锦残片，复合组织丝织物，织枝叶纹。叶片纹样或为缠枝花卉的组成部分，此类织料多用于服饰与陈设，此片为该时期织锦散件。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/71869.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "历史照片。为绰号“小霸王”的绑匪张世魁的留影。影像连同匪犯绰号一并留存，为了解当时的匪患情形与缉捕记录提供了人物图像。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/nmc/detail_24427.html",
  "needs_review": true,
  "fetched_at": "2026-09-19",
- "updated_at": "2026-09-19"
+ "updated_at": "2026-09-19",
+ "desc_ai": true
 }

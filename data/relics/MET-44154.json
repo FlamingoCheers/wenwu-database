@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.894"
  },
- "summary": "Dish。China",
+ "summary": "十八世纪玉髓玛瑙小盘，宽6厘米。器形迷你精致，质地温润，供承放小件或作案头清赏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44154.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

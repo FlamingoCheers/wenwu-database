@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "63.58"
  },
- "summary": "Rug。China",
+ "summary": "清代地毯，十九世纪织造，以棉线作经纬地子、丝线挽结起绒，幅面阔大，当为厅堂满铺之用，质地厚重，兼具实用与装饰功能。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/65667.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

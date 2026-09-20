@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.866"
  },
- "summary": "Vase。China",
+ "summary": "十八世纪玛瑙瓶，高16.5厘米，饰凤纹。凤为祥瑞之鸟，与玛瑙天然纹理相得益彰，是清代陈设石器中的精致之作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/44126.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

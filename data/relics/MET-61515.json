@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "14.58.178"
  },
- "summary": "Figure。China",
+ "summary": "18—19世纪青铜人马像，高12.1厘米。马在传统文化中象征奋进与材力，人马题材小品多为案头陈设，铸造写意生动。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/61515.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

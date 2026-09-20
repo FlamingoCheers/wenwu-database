@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.148.1177"
  },
- "summary": "Piece。China",
+ "summary": "中国十七世纪织锦残片，复合组织丝织物，窄长条形，织龙纹。龙纹窄料或为袍服缘饰等高等级织物之遗存，体现十七世纪织锦中的龙纹传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/72163.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

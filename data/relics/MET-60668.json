@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "24.80.101a, b"
  },
- "summary": "Figurine。China",
+ "summary": "清代（十九世纪）琥珀圆雕人像，人物抱子而坐，连座高约6.4厘米，题材或寓送子、多子之意，是琥珀雕刻中的吉祥题材作品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/60668.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

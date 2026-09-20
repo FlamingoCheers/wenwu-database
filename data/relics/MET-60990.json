@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1982.472.3"
  },
- "summary": "Shadow puppet。China",
+ "summary": "清代（十九世纪）皮影书生形象，通高68.6厘米，以牛皮刻绘并附竹签操纵杆，衣冠儒雅，是影戏中常见的文人角色。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/60990.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

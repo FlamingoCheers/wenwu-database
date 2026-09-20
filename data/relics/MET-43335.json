@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.174a, b"
  },
- "summary": "Covered vase。China",
+ "summary": "玉盖瓶（20世纪），高11.7厘米，扣盖严合，琢工细致。器形沿袭传统，可作案头清供之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/43335.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

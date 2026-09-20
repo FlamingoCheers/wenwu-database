@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "62.97.26"
  },
- "summary": "Fan。China",
+ "summary": "清代扇，十八世纪，竹为扇骨，缀象牙、螺钿与金属件，饰花鸟纹样。集多种工艺于一器，既供消暑，亦宜陈设赏鉴。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/41964.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "79.2.1333"
  },
- "summary": "Snuff bottle。China",
+ "summary": "清代玻璃鼻烟壶，十八世纪，高4.1厘米。鼻烟壶盛贮鼻烟，为清代流行的随身雅器，此壶玻璃质地，小巧莹润。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/41079.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

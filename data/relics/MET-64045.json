@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.30a–c"
  },
- "summary": "Rubbing。China",
+ "summary": "草书《心经》拓本三段。《般若波罗蜜多心经》为流传最广的佛教短经，历代书写者众。此件以草书出之，笔势连贯，二十世纪捶拓，纸本墨拓。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64045.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

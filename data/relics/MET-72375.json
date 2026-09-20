@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "2004.277"
  },
- "summary": "Plaque。China",
+ "summary": "汉代青铜车马纹饰牌，约公元前二至前一世纪，牌面铸人物、骏马与车舆形象。此类牌饰多作带具或马具装饰，写实表现车马出行，是汉代造型艺术的生动材料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/72375.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.863"
  },
- "summary": "Dish。China",
+ "summary": "玛瑙碟，清代（十八世纪）。以红玉髓与白玛瑙制成，石质莹润，带天然纹理，或饰花卉纹样。清代宫廷崇尚以宝石玛瑙琢磨器皿，此碟即为案头赏玩之器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44250.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

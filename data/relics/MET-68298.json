@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "17.125"
  },
- "summary": "Cushion Cover。China",
+ "summary": "坐垫套，十七世纪织造，棉线经纬为地、羊毛挽结起绒，饰花卉纹样。此类垫套覆于坐垫之外，为室内坐具铺陈织物，厚实耐用而纹饰美观。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/68298.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

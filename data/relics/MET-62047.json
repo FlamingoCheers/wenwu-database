@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.191a–c"
  },
- "summary": "Covered bowl。China",
+ "summary": "18世纪水晶盖碗，高12.1厘米。碗身琢磨圆整，盖碗形制亦见于茶器与供器，以透光美材制成，可为案头清供。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/62047.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

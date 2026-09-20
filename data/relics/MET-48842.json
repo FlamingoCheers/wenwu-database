@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "50.145.322"
  },
- "summary": "Vase。China",
+ "summary": "百花纹瓶，清末民国间（约1920—1940年代）景德镇窑制品。通体以釉上多彩绘繁密花卉，俗称百花锦纹，繁而不乱。器高约十三厘米，宜作案头清供陈设。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/48842.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

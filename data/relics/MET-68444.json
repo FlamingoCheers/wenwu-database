@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "23.211.5"
  },
- "summary": "Rug fragment。China",
+ "summary": "地毯残片，或为十七世纪之物，经线用生丝、纬线用棉，绒结以毛或丝挽成。残片虽小，可据以考察中国古代地毯的组织结构与织造工艺。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/68444.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

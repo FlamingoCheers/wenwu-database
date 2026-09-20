@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "35.140.1"
  },
- "summary": "Headdress。China",
+ "summary": "戏装头饰，清代十八世纪。以玉、琥珀、珊瑚、红玉髓、珍珠、玻璃等珍材，用鎏金丝穿缀而成，高约二十厘米。此类头饰为戏曲演出装扮所用，堆金砌玉，极尽工巧。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/50685.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

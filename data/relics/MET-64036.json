@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.21"
  },
- "summary": "Rubbing。China",
+ "summary": "《道因法师碑》拓本。碑主道因（587—658）为唐初高僧，曾入长安参与译经；碑由欧阳通书丹，楷书险劲，承欧阳询家法。此为二十世纪拓本，纸本墨拓。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64036.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

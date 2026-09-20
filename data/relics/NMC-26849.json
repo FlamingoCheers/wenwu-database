@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "龙泉窑凸花牡丹梅瓶。通体施青釉，以凸印技法饰牡丹纹。龙泉窑在今浙江龙泉，为宋元青瓷名窑，釉色青翠莹润，有如美玉。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/nmc/detail_26849.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

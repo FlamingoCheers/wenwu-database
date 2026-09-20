@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.919"
  },
- "summary": "Vase。China",
+ "summary": "十八世纪青金石瓶，高14.6厘米，饰龙纹与花卉。青金石自古为贵重之材，常用作供器陈设，此瓶雕工考究。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/44180.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

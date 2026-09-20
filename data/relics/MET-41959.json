@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "58.64.11"
  },
- "summary": "Seal。China",
+ "summary": "清代象牙印，十八世纪，钮雕龙纹，印面镌吉祥文字。龙钮生动威严，为象牙印中精工之作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/41959.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

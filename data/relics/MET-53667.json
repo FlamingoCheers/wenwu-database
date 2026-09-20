@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.148.130"
  },
- "summary": "Textile。China",
+ "summary": "明代（十六世纪）织造的条状织物残段，长约11.7、宽2.2厘米，织工细密，或为服饰镶边类残件，可窥见明代织造技艺之一斑。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/53667.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

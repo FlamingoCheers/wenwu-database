@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "53.166.1"
  },
- "summary": "Chair strip。China",
+ "summary": "十七世纪缂丝椅饰，以丝掺金线缂织仙鹤、灯笼等纹样。仙鹤寓高洁长寿，此类织物用以装点座椅，通经断纬、纹样如刻，工艺精巧。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/65648.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

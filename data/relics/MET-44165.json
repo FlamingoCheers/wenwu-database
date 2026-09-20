@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.905"
  },
- "summary": "Ink stand。China",
+ "summary": "十八世纪萤石墨床，宽9.5厘米。墨床为搁置研墨后湿墨的文具，以萤石琢制，色纹变幻，是文房清供中的别致之作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44165.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

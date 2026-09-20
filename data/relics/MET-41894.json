@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "42.90.28"
  },
- "summary": "Figures。China",
+ "summary": "清代琥珀人物雕件，十八世纪。琥珀色润质坚，雕人物形象生动，供案头陈设赏玩，属宝石雕刻类工艺品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/41894.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

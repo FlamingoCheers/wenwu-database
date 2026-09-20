@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.160a–c"
  },
- "summary": "Covered vase。China",
+ "summary": "清代早期玉盖瓶（19世纪初），高达24.9厘米，器形庄重，盖瓶相合。此类大件玉瓶多陈设于厅堂几案，供清供观赏，为清代玉雕陈设器的代表品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/43276.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

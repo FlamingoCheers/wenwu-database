@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.105a, b"
  },
- "summary": "Cup。China",
+ "summary": "清代玉杯连象牙座，十九世纪末。杯以玉琢成，配象牙座承托，杯座相得益彰，为饮具兼陈设之器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/43212.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "50.145.126"
  },
- "summary": "Figurine。China",
+ "summary": "清代玉雕喜鹊，高10.2、长24.1厘米，18世纪或更晚。玉质温润，禽鸟圆雕造型饱满，喜鹊题材取“喜上眉梢”的吉祥寓意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/62011.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

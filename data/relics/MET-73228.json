@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "2006.392"
  },
- "summary": "Sleeve。China",
+ "summary": "中国五至六世纪（约当南北朝）丝质衣袖残件。此件完整保留袖管形制，以丝织成，为研究南北朝时期服装结构与织造工艺提供了珍贵实物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/73228.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

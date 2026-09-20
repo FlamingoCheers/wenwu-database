@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.186.52"
  },
- "summary": "Sutra Cover。China",
+ "summary": "明代丝织经面，十六世纪，织花卉纹样。用作佛经封皮，纹样华美有序，是明代织物与佛教文化结合的实例。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/39926.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

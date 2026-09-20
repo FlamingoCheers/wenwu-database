@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.51"
  },
- "summary": "Rubbing。China",
+ "summary": "游师雄墓志拓本。志文详载墓主游师雄的生平仕历、功业与家世，二十世纪捶拓，纸本墨拓，是研究相关历史人物与墓志制度的石刻资料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64066.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

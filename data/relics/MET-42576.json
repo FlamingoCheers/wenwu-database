@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1988.104.89"
  },
- "summary": "Rank badge。China",
+ "summary": "清代补子，十八世纪或更早，以丝线、捻金线等绣成，饰锦鸡纹。补子缀于官服胸背，以禽纹区分文官品级，为身份等级的标识。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/42576.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

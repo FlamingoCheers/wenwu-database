@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.82a, b"
  },
- "summary": "Relief。China",
+ "summary": "玉山子，清代（十九世纪）。以玉料雕作山形，浮雕山石、树木、屋舍景致，配有底座。山子为清代流行的玉雕陈设，置于案头，咫尺之间可得山林之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44214.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

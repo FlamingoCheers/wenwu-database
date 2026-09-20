@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.167a, b"
  },
- "summary": "Vase。China",
+ "summary": "玉瓶（20世纪），带座通高14厘米，器形端秀。玉瓶多以整料琢成，作陈设清供或插花之用，是传统玉雕器皿的常见样式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/43270.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "91.1.1168"
  },
- "summary": "Bottle。China",
+ "summary": "清代（十九世纪）玻璃瓶，高31.1厘米，以吹制玻璃成型，器身高挑，或作陈设、贮物之用，反映了清代玻璃器业的工艺水平。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/60609.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

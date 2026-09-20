@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "51.14"
  },
- "summary": "Folding fan。China",
+ "summary": "折扇，清代十八世纪。纸本设色，扇面绘花鸟，笔墨清雅。折扇自明以来为文人随身雅玩，书画扇兼具实用与鉴赏之趣，也是传统文人交游往还的常见礼品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/51770.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

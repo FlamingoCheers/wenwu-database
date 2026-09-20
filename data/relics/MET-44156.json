@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.896"
  },
- "summary": "Bottle。China",
+ "summary": "十八世纪玛瑙瓶，高14.9厘米。通体玛瑙琢成，纹理天然流动，可作案头陈设雅器，或兼有贮物之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/44156.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

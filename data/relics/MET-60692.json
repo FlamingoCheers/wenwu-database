@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "62.97.19"
  },
- "summary": "Blind。China",
+ "summary": "清代（十八至十九世纪）大幅竹帘，纵193、横137.2厘米，帘面绘松鹤、花卉、树木等吉祥图像，既作间隔之用，亦具观赏价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/60692.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

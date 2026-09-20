@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.148.445"
  },
- "summary": "Piece。China",
+ "summary": "中国十七世纪织锦残片，复合组织丝织物，幅面较大。此类残件可能出自服装主体或坐褥帘幔等陈设织物，为研究明末清初提花织造提供实物依据。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/71438.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

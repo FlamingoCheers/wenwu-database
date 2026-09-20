@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.44"
  },
- "summary": "Rubbing。China",
+ "summary": "托名黄帝的《阴符经》拓本。此经为道教重要经典，内容论天人相合与机变之道，历代注家甚多。二十世纪捶拓，纸本墨拓，可资道经研究。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/64059.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

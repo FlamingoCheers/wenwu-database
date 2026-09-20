@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.196"
  },
- "summary": "Table screen。China",
+ "summary": "清代软玉插屏（18世纪），屏心雕人物、山树之景，构图如画。插屏为文房案头陈设之器，供人观赏，亦见主人雅趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/43255.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

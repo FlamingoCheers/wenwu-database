@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "金代金币，面錾“天兴七年”纪年文字。金代主要行用铜钱与纸币交钞，金币存世极罕，或用于赏赐、窖藏珍藏而非日常流通，是研究金代货币制度与金银器工艺的珍贵实物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -29,7 +29,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/nmc/detail_27769.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1982.472.1"
  },
- "summary": "Shadow puppet。China",
+ "summary": "清代（十九世纪）皮影武将，通高68.6厘米，以牛皮雕刻彩绘，配竹签操纵，装束威武，属大型影戏人物，用于演出武戏场景。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/60988.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1970.146a, b"
  },
- "summary": "Figure。China",
+ "summary": "大理石弥勒造像，施彩，599年以后所造，高77.5厘米，旁附小型和尚像。弥勒信仰自南北朝至隋唐盛行，造像常系发愿文字，此像年代下限明确。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/61816.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

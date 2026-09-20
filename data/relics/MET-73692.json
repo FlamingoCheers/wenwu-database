@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "2007.208"
  },
- "summary": "Coat。China",
+ "summary": "织绣外衣。以丝为地、金属线绣出吉祥文字，做工考究。大都会博物馆定年为二十世纪三十年代，属中国织绣服装，多用于节庆礼仪场合，寓意纳福迎祥。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/73692.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

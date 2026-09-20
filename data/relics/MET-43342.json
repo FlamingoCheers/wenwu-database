@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.103"
  },
- "summary": "Pendant。China",
+ "summary": "玉佩（20世纪），以玉为主、缀小米珠，雕鸟卉纹样。玉佩穿绳系于腰间襟前，是传统佩饰，兼寓吉祥祈福之意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/43342.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

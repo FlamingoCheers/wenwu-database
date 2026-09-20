@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1992.389"
  },
- "summary": "Seal。China",
+ "summary": "银制官印形摇铃，清末民初（十九世纪末至二十世纪初），配现代丝绳。形仿官印，摇之有声，为婴孩佩挂的吉祥玩器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/41069.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

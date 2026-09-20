@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.48"
  },
- "summary": "Rubbing。China",
+ "summary": "为张仲荀钞本《高僧传》所作序文的刻石拓本。《高僧传》为历代高僧传记名著，序文述钞写流通缘起。二十世纪捶拓，纸本墨拓。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/64063.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

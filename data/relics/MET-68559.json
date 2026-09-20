@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "30.75.71"
  },
- "summary": "Panel。China",
+ "summary": "十七世纪织锦残片，以丝提花织出仙鹤纹样。仙鹤寓长寿高洁，此类织片或为服饰、坐具上的装饰部件，织工细密，纹样雅致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/68559.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

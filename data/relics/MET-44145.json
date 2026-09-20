@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.883"
  },
- "summary": "Double vase。China",
+ "summary": "十八世纪玉髓双联瓶，高11.4厘米，饰叶纹。玉髓质地细腻匀净，双瓶联体造型雅致，供陈设赏玩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/44145.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

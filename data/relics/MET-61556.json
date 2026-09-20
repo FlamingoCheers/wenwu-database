@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "28.205"
  },
- "summary": "Figure。China",
+ "summary": "20世纪木雕观音像，高48.3厘米。观音慈悲济世，为中国民间最熟知的菩萨，木雕造像多供奉于家宅佛堂，以祈平安。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/61556.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

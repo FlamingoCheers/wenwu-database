@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.148.131"
  },
- "summary": "Textile。China",
+ "summary": "明代（十六世纪）刺绣残片，约3.5×7.9厘米，以针线绣出纹样，属织绣小件，为了解明代刺绣针法与用线提供了实物例证。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/53668.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

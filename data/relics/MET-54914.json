@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "19.103.3"
  },
- "summary": "Painting。China (?)",
+ "summary": "明代（十六世纪）《北方多闻天王（毗沙门天王）图》，纸本设色，纵84.5、横42.5厘米，绘佛教护法天王形象，当与信仰供奉或寺观绘画传统相关。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/54914.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

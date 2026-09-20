@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.156"
  },
- "summary": "Pendant。China",
+ "summary": "玉佩（20世纪），缀米珠，雕龙纹。龙为祥瑞之象，玉佩雕龙寓吉祥之意，既作首饰，亦含祈福之心愿。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/43349.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

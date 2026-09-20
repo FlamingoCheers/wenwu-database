@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.31a, b"
  },
- "summary": "Rubbing。China",
+ "summary": "《肚痛帖》拓本。传为唐代草书大家张旭所书，帖文自述腹痛难忍，寥寥数语而笔势纵横跌宕。原石为宋代所刻，此为十九世纪拓本，纸本墨拓。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/64046.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

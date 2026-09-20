@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.909"
  },
- "summary": "Figure。China",
+ "summary": "十八世纪深绿玉髓佛像，高7厘米。以深色玉髓雕佛教尊神，形制小巧，或为佛龛供奉、随身礼敬之物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44171.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

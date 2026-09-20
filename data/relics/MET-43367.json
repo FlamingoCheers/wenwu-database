@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.106a, b"
  },
- "summary": "Belt buckles。China",
+ "summary": "清代玉带扣两件（18世纪），分别长14.3与14.6厘米，雕龙纹。带扣用以束系腰带，扣环相合，是清代玉雕中的实用品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/43367.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

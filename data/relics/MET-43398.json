@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.176"
  },
- "summary": "Blade。China",
+ "summary": "玉圭璧（19—20世纪），上为圆璧、下连方刃，合璧与圭之形。圭璧源自上古礼玉传统，此件为后世摹古之作，供陈设赏玩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/43398.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

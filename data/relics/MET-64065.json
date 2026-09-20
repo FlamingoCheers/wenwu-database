@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.50a, b"
  },
- "summary": "Rubbing。China",
+ "summary": "草书法帖拓本两幅，以草书书写，点画牵连、气脉贯通，颇见书者功力。此件二十世纪捶拓，纸本墨拓，属书法临习与鉴赏类藏品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/64065.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

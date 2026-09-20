@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "50.145.323"
  },
- "summary": "Bowl。China",
+ "summary": "龙纹碗，二十世纪前半期，景德镇窑制品。以釉上多彩绘龙纹，色彩明丽，器高约6厘米，形制小巧。此类彩瓷碗延续传统龙纹彩瓷风格，为日用兼赏玩之器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/met/46803.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

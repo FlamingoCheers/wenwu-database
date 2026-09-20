@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.293"
  },
- "summary": "Hatchet。China",
+ "summary": "软玉斧形器，高11厘米，器身扁薄。玉斧古为兵器与仪仗，后世玉制多作仿古陈设，此器或具仿古之意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/42779.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

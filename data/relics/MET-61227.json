@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "43.110"
  },
- "summary": "Buckle。China",
+ "summary": "公元前3世纪青铜带扣，高约3厘米，铸动物纹。小巧的带扣用于革带扣结，是秦代前后常见的青铜服饰构件，反映出当时的金属细工水平。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/61227.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

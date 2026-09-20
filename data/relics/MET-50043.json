@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "30.85.1"
  },
- "summary": "Vase。China",
+ "summary": "绞胎釉陶瓶，二十世纪。以绞胎工艺制成，将深浅两色陶土揉合拉坯，形成天然木理般的绞纹，外罩琥珀色釉。绞胎为传统陶瓷装饰技法，唐代已见，此瓶为近代仿古之作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/50043.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

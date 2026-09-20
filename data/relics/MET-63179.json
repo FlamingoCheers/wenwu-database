@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "CP4"
  },
- "summary": "Print。China",
+ "summary": "10世纪文殊菩萨木刻版画，纸本墨与设色，32.4×21.6厘米。五代北宋之际雕版印刷臻于成熟，佛教版画随信仰流通，是早期版画的珍贵实例。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,5 +39,6 @@
  "raw_ref": "raw/met/63179.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

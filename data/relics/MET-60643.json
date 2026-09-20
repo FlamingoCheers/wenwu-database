@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "62.30.2"
  },
- "summary": "Necklace。China",
+ "summary": "清代（十八至十九世纪）朝珠一挂，全长66.7厘米，以玻璃珠搭配丝线等串成，为清代服饰制度中的佩挂用物，是身份等级的标志。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/60643.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "50.221.51"
  },
- "summary": "Vase。China",
+ "summary": "龙纹瓶，二十世纪前半期，景德镇窑制品。瓷胎上以釉上粉红彩绘龙纹，色泽娇艳柔丽。彩绘龙纹瓶承清代彩瓷遗风，多作厅堂案头陈设之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/46650.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

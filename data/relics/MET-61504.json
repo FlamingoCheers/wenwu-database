@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "83.19.5a, b"
  },
- "summary": "Baluster。China",
+ "summary": "17—18世纪大理石栏杆望柱，高66厘米。望柱立于台基、桥道之侧以承栏杆，柱身束腰曲线优雅，是中国古建筑石作的常见构件。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/61504.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

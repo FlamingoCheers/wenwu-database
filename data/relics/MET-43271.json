@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.168a, b"
  },
- "summary": "Vase。China",
+ "summary": "清代玉瓶（19世纪），高12.1厘米，器表雕饰禽鸟纹样。玉质瓶器既供陈设观赏，亦可插花清供，可见清代玉雕工艺之精。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/43271.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

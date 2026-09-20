@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "2002.201.24"
  },
- "summary": "Knife。North China",
+ "summary": "东周（公元前五世纪）北方青铜刀，长20.3厘米，柄端铸卧马形钮，带有北方草原青铜文化的风格特征，兼具实用与装饰意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/59438.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

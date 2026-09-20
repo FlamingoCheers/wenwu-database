@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.186.39"
  },
- "summary": "Sutra Cover。China",
+ "summary": "十六世纪明代丝织经封面（经函盖），长36.2厘米，织龙纹与花卉。用于包裹保护经卷，织造精细，是明代丝织工艺与佛教用度结合的实物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/44097.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

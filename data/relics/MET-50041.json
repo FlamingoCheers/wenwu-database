@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1985.214.136"
  },
- "summary": "Mirror model。China",
+ "summary": "陶镜模型，二十世纪。以磨光黑陶制成，施彩绘装饰，仿铜镜形制。铜镜在传统生活中兼具照容与辟邪之意，此件以陶仿镜，属近代仿古工艺品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/50041.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

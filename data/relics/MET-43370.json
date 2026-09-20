@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.162"
  },
- "summary": "Buckle。China",
+ "summary": "清代玉带扣（18世纪），长8.9厘米，铜鎏金托嵌玉。带扣为束腰实用之具，兼具装饰，金属与玉材相映成趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/43370.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

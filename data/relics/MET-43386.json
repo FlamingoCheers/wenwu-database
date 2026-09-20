@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.179a, b"
  },
- "summary": "Vase。China",
+ "summary": "清代红玉髓瓶（19世纪），带座高13厘米，饰花卉纹。红玉髓色泽温润，以之琢瓶，色雅形端，供陈设清赏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/43386.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

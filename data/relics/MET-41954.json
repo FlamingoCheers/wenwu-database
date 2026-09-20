@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "58.64.6"
  },
- "summary": "Seal。China",
+ "summary": "清代象牙印，十八世纪，钮雕动物。形制方正小巧，牙纹致密，属传统文房印具。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/41954.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

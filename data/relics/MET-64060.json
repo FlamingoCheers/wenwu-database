@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.45"
  },
- "summary": "Rubbing。China",
+ "summary": "《千字文》序文拓本。《千字文》相传为南朝梁周兴嗣编次而成，序文多述其编纂与书写缘起。此件二十世纪捶拓，纸本墨拓，可与正文拓本合观。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64060.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

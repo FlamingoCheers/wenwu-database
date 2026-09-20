@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.186.29"
  },
- "summary": "Sutra cover。China",
+ "summary": "龙纹经面，明代十六世纪丝织物。织锦上现龙纹，纹饰威严，原为佛经封面的保护与装饰部件，可见明代织造工艺与经籍装帧传统的结合。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/50511.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

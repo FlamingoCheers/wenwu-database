@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "25.217.2"
  },
- "summary": "Plaque。China",
+ "summary": "铜牌饰，公元前4—前3世纪。青铜铸制，属战国时期的牌饰类器物。此类铜牌多缀于腰带之上，兼具实用与装饰功能，是战国青铜装饰艺术的代表品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/52107.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

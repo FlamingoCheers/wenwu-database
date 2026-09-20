@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "39.65.18a, b"
  },
- "summary": "Bowl on stand。China",
+ "summary": "清代（十九世纪）玻璃碗连木座，通高8.6、径21.3厘米，碗身饰禽鸟纹样，配木质底座，兼具实用与陈设功能。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/60636.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "24.80.347"
  },
- "summary": "Bracelet。China",
+ "summary": "清代手链，十九世纪，以画珐琅珠串联而成，色彩缤纷。为随身佩饰，可见珐琅工艺在首饰制作上的应用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/40819.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "30.75.70"
  },
- "summary": "Panel。China",
+ "summary": "十七世纪刺绣绣片，以丝线绣于丝地之上，图案有人物、飞禽、屋宇与花卉，构图繁密生动。此类绣品可作陈设观赏，见明清刺绣工艺之精。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/68558.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

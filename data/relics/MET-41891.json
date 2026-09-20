@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "67.55.45"
  },
- "summary": "Seal。China",
+ "summary": "清代角质印，十九世纪，长4.8厘米。以动物角琢成，质地莹润有光，形制小巧，为文房钤印之器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/41891.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

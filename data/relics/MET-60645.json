@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "67.55.94"
  },
- "summary": "Bowl。China",
+ "summary": "十九至二十世纪中国玻璃碗，高10.2、径22.5厘米，以吹制玻璃成型，器形圆润，属清末民初的日用玻璃器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/60645.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

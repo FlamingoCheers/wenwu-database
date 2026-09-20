@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "20.148.83"
  },
- "summary": "Piece。China",
+ "summary": "17世纪重组织丝织残片，幅狭小，多重经纬显花，虽残犹可见组织细密，为传统提花织物的实物例证。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/71077.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

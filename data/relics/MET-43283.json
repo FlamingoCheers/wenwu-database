@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.151"
  },
- "summary": "Bowl。China",
+ "summary": "玉碗（20世纪），高5.6厘米、口径10.6厘米。以整玉掏膛而成，壁薄匀称，既可实用，亦多作观赏陈设，为玉雕器皿的经典器形。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/met/43283.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

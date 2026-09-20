@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.86"
  },
- "summary": "Pendant。China",
+ "summary": "玉佩（20世纪），玉质缀小米珠，高5.2厘米。佩饰穿系丝绦随身佩戴，是传统服饰的点缀之物，琢工精细，造型灵巧。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/43345.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

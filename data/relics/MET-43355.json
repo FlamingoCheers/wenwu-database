@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.84"
  },
- "summary": "Bracelet。China",
+ "summary": "清代翡翠手镯（19世纪），径7.9厘米。翡翠镯于晚清广受欢迎，此镯形制圆润，翠质光洁，为典型样式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/43355.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

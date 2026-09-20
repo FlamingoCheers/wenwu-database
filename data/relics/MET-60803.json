@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "15.95.184"
  },
- "summary": "Hair pin。China",
+ "summary": "清代（十八至十九世纪）金簪，长53.3厘米，以金为体并缀天然与仿制宝石，属发间大件首饰，体现清代金银细金工艺的富丽风格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/60803.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

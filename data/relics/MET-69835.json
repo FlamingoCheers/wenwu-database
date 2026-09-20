@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.186.44"
  },
- "summary": "Sutra Cover。China",
+ "summary": "16至17世纪织金经皮，金属线与丝线交织，质地厚重，为包裹经卷所用，时代约当明代晚期至清初。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/69835.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

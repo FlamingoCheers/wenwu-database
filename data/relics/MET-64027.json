@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.12"
  },
- "summary": "Rubbing。China",
+ "summary": "孔庙碑拓本。原碑刻立于北宋初年（960—968年），内容与孔庙之事相关，此为二十世纪捶拓的纸本墨拓，兼具书法临摹与文献史料价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64027.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

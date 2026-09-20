@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.781"
  },
- "summary": "Figure。China",
+ "summary": "十八世纪翡翠蝴蝶饰件，高4.1厘米，以金累丝工艺缀连珍珠，饰蝶与叶片。当为簪饰或服饰上的缀件，是清代金玉细工相结合之作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/44036.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

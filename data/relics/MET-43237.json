@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "21.175.58"
  },
- "summary": "Dagger。China",
+ "summary": "清代软玉匕首，十八世纪，高23.5厘米。通体以软玉琢成，或为仪仗佩饰而非实用兵器，体现以玉为贵的传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/43237.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

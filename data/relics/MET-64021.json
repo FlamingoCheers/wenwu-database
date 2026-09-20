@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.6"
  },
- "summary": "Rubbing。China",
+ "summary": "20世纪拓自西安碑林的清代石碑拓片，纸本墨拓，127.3×37.1厘米。碑林汇聚历代名刻，清代碑石亦多存录其间，拓片供研习书法与文献之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/met/64021.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "24.80.98"
  },
- "summary": "Pendant。China",
+ "summary": "清代（十九世纪）琥珀坠饰，长3.8厘米，小巧莹润，当为佩挂或扇坠、荷包坠类装饰之用，是琥珀材质的小型文玩佩件。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/60665.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

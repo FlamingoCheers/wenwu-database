@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "51.102"
  },
- "summary": "Mirror case。China",
+ "summary": "镜套，清代十八世纪刺绣品。以丝织物刺绣而成，近方形，边长约三十九厘米，用以收纳护持铜镜。镜套绣工讲究，既实用又见闺阁雅意，是传统生活绣品的佳例。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -35,7 +35,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/52474.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

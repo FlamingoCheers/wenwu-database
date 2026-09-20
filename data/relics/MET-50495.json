@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "62.97.46"
  },
- "summary": "Panel。China",
+ "summary": "龙纹花卉织锦片，十七世纪（明末清初）。以丝线织出龙与花卉图案，经纬细密。此类织锦幅面较大，或原为服饰、椅披、挂轴等用料，体现传统提花织造技艺。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/50495.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "62.97.17"
  },
- "summary": "Blind。China",
+ "summary": "清代（十八至十九世纪）竹帘，纵118.1、横121.9厘米，以竹丝编织并施彩绘花卉，用作堂室间隔或装饰，是竹编与绘画结合的实用品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/60690.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

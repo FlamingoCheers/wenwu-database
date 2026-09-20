@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.186.26"
  },
- "summary": "Sutra cover。China",
+ "summary": "明代（十六世纪）丝质经盖（经皮），以织造工艺制成，约36.2×12.7厘米，用于包裹经卷以防尘损，是佛事用织物的典型品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/53757.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

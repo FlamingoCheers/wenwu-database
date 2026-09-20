@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.192"
  },
- "summary": "Hairpin。China",
+ "summary": "清代玉发簪（19世纪），长14厘米，通体光素。素身玉簪最重玉材本身的质地与光泽，是清代寻常可见的玉首饰。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/43262.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

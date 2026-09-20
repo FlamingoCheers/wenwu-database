@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.86.186"
  },
- "summary": "Bowl。China",
+ "summary": "翡翠碗，清代晚期。翡翠即硬玉，色艳质坚，碗身饰神异瑞兽纹样。清末翡翠器盛行，多供宫廷贵胄赏用，此碗雕琢规整，莹润可观。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/44278.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

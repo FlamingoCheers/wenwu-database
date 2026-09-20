@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "02.18.889"
  },
- "summary": "Vase。China",
+ "summary": "十八世纪黄玛瑙瓶，高13厘米，饰植物纹样。黄玛瑙色如蜜蜡，温润喜人，琢成陈设瓶供书斋清赏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/44150.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

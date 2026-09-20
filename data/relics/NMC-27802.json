@@ -14,7 +14,7 @@
   "region": "中国大陆",
   "inventory_no": ""
  },
- "summary": null,
+ "summary": "大元通宝为元代钱币，以武宗至大年间所铸八思巴文当十大钱最为典型，钱文用元朝新制的八思巴文，另见汉文小钱。元代主要行用纸钞，铸钱较少，此钱存世不多。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -29,7 +29,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/nmc/detail_27802.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

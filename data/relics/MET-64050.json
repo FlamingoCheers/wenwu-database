@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "1977.375.35"
  },
- "summary": "Rubbing。China",
+ "summary": "唐邠国公梁守谦碑铭拓本。梁守谦为唐代宦官将领，久掌禁军，铭文详述其生平官历。二十世纪捶拓，纸本墨拓，史料价值较高。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,5 +37,6 @@
  "raw_ref": "raw/met/64050.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

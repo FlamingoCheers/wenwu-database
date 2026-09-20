@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "62.30.1"
  },
- "summary": "Collar。China",
+ "summary": "清代早期（十八世纪初）金地缂丝领饰，以丝线掺金线于金色地子上缂织而成，工艺精细，为传统礼服衣领部件，颇见清代织绣服饰的华贵气象。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/met/64124.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }

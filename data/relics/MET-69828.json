@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "46.186.34"
  },
- "summary": "Sutra Cover。China",
+ "summary": "17世纪花卉纹丝织经皮，幅面稍宽，纹样以花枝为题，织物质地匀整，用于包覆经卷。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/met/69828.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-08",
+ "desc_ai": true
 }
