@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000243N000000011"
  },
- "summary": null,
+ "summary": "《宋人法书》（一）册中一开，为吕公弼书尺牍。吕公弼为北宋重臣。此札为书信墨迹，笔法平实稳重，可见士大夫日常书写的本色与时代书风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1114.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "贈瓷000286N000000000"
  },
- "summary": null,
+ "summary": "元代鐵斑雙耳小罐，罐身小巧，肩置雙繫耳，釉上鐵褐斑點自然暈散，為元代斑彩裝飾的小罐器類。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43340.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

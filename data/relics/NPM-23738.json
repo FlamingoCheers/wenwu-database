@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000071N000000007\n more\n \n 贈帖000071N000000008"
  },
- "summary": null,
+ "summary": "《淳化阁帖》第四册之一，收录唐中书令褚遂良《潭府帖》。淳化阁帖为宋淳化三年敕刻、丛帖之祖，此为摹刻拓本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_23738.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

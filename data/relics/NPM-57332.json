@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉006210N000000000"
  },
- "summary": null,
+ "summary": "玉雕鵝形，鵝姿態閒雅，宋人玉作崇尚寫實生趣，花鳥走獸皆可入玉，此件小品可陳設可繫佩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57332.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

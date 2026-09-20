@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷017432N000000000"
  },
- "summary": null,
+ "summary": "元霍州窑白瓷暗花番莲纹碗，霍州窑以白瓷著称，此碗胎釉细洁，釉下饰番莲暗花，纹饰隐现，格调素净雅洁。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_26408.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

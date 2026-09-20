@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001853N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋钱选《仿李公麟沐象图》，绘洗浴白象之景，仿北宋李公麟传统。洗象题材含祥瑞之意，画风当以线描见长。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14196.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

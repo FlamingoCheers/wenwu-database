@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001241N000000004"
  },
- "summary": null,
+ "summary": "《藝苑藏真》冊（下）之一開，傳為宋代馬遠所繪〈河干虛閣〉。畫寫河岸高閣臨水的景致，構圖簡逸，取邊角小景，虛實相生。馬遠善以精練筆墨寫清曠意境，此開見南宋院體山水的典型風貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_348.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000242N000000003"
  },
- "summary": null,
+ "summary": "《宋代墨宝》册中一开，为苏辙致子璋秘丞尺牍。尺牍即文人往来书信，随手书写而情致自然，兼具书法艺术与交游史料价值，可窥宋代士大夫书风与仪节。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1005.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000245N000000019"
  },
- "summary": null,
+ "summary": "范成为南宋著名诗人，亦工书法。此册页收其尺牍一通，为友朋往来书札，可见其笔墨风采。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1408.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

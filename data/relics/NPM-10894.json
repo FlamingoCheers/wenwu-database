@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003474N000000002"
  },
- "summary": null,
+ "summary": "《宋元明集绘》册中一开，为吴炳《太平鸟红叶》。图写太平鸟栖于红叶枝头，翎毛工细，设色明丽，秋意盎然，是宋代院体花鸟写生小帧的佳构。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_10894.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

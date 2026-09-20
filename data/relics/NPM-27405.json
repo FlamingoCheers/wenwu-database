@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014456N000000000"
  },
- "summary": null,
+ "summary": "宋定窯白瓷印花牡丹蓮花紋盤，盤內滿印花卉紋樣，印範嫺熟，牙白釉面瑩潤，為宋代北方白瓷日用陳設之器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_27405.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

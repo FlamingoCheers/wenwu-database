@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003484N000000002"
  },
- "summary": null,
+ "summary": "本幅选自《集珍挹爽》册，题元代王振鹏作，以仙苑琼楼为题，绘仙境宫苑楼阁，属界画楼阁题材册页。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15927.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

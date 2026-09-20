@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000239N000000006"
  },
- "summary": null,
+ "summary": "《宋诸名家墨宝》册中一开，为苏轼《北游帖》。苏轼为北宋文豪，“宋四家”之首。此札为致友人书信，笔意丰腴流畅，从容不迫，是传世苏书名迹之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1023.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

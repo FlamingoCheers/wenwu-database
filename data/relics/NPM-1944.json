@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000016N000000001\n more\n \n 故帖000016N000000002"
  },
- "summary": null,
+ "summary": "宋拓褚遂良法帖冊，收唐褚遂良楷書《度人經》。褚書為初唐四家之一，婉媚遒勁。此冊楷法精嚴，筆致秀潤，屬道經寫本上石之刻帖。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_1944.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

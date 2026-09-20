@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000170N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十三册所收黄庭坚《诗送四十九侄》刻本，为送别族侄的诗作。行书雄放瑰奇，长撇大捺，尽显山谷家法。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21800.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

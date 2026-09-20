@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003491N000000014"
  },
- "summary": null,
+ "summary": "本幅选自《藝林韞古》册，题元代王振鹏作，以汉宫春晓为题，绘宫苑殿阁与人物活动，属人物界画题材册页。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15908.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

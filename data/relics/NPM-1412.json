@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000094N000000000"
  },
- "summary": null,
+ "summary": "此轴题称林椿所作，绘花枝禽鸟，工笔设色，写生精妙，属南宋院体花鸟画。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1412.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

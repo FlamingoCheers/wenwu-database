@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000150N000000000"
  },
- "summary": null,
+ "summary": "此卷题明代冷谦《群仙图》，属道释人物题材，描绘群仙聚会的场景，人物行止生动，笔致工细，为明代神仙题材绘画作品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1722.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003508N000000001"
  },
- "summary": null,
+ "summary": "《集名人画》册中一开，题宋代赵伯驹作青绿山水。绘峰峦溪谷，青绿设色，笔法细密，承唐人金碧山水遗意，为青绿一格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15269.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

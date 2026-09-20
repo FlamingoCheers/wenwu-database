@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000042N000000000"
  },
- "summary": null,
+ "summary": "《贯经堂米帖》第二册之一，收宋米芾《吾友帖》。米芾尺牍率意天成，此帖运笔八面出锋，经刻帖流传，可供体会其书写意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27960.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

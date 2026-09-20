@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003460N000000009"
  },
- "summary": null,
+ "summary": "《唐宋元集繪》冊之一開，舊題宋趙昌〈鳥語嬌花〉，寫枝頭禽鳥鳴春、嬌花映發的景致，屬花鳥寫生小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15786.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

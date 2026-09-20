@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000089N000000032\n more\n \n 贈帖000089N000000033"
  },
- "summary": null,
+ "summary": "摹刻宋苏迈《题郑天觉画》。苏迈为苏轼长子，此为题识郑天觉画幅之语，品评画境，书法承家学之素。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22540.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004277N000000000"
  },
- "summary": null,
+ "summary": "宋代玉寶相花，作團花綻放之形。寶相花為集眾花之美的理想化紋樣，盛行於唐宋，此件雕琢圓潤，可為佩飾嵌飾之用，附木座。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55661.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

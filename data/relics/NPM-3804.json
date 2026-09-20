@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001116N000000003"
  },
- "summary": null,
+ "summary": "舊題宋馬遠《小品》冊之一「滿月黃昏」，寫月出黃昏、花影朦朧，詩境入畫，意境幽美雋永。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_3804.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

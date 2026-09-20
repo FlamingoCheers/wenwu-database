@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000261N000000009"
  },
- "summary": null,
+ "summary": "元明人題錢譜雜文冊中一開，趙儀書跋語，題詠泉譜感懷之辭，書蹟自然流暢，可補見宋元以來鑑藏古泉之風。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_407.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

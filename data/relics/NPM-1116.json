@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000243N000000013"
  },
- "summary": null,
+ "summary": "《宋人法书》（一）册中一开，为韩绛致从事同年兄尺牍。韩绛为北宋名臣。此札为致“同年”友人的书信，称谓可见科举交谊之风，笔致温雅谨饬。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1116.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

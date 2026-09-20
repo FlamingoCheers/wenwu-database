@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003489N000000001"
  },
- "summary": null,
+ "summary": "《名画荟锦》册中一开，题宋代马远画牛。马远为南宋院体大家，构图多取边角之景，此帧写牛之形态，笔墨劲健，生动有致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15279.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

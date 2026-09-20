@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001114N000000013"
  },
- "summary": null,
+ "summary": "《文姬归汉图》册取东汉蔡琰（文姬）流落匈奴后归汉的故事，分幅描绘归汉途中情景，此幅写辞别时的伤离之情。李唐为两宋之际画院名家，画风影响深远。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_219.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

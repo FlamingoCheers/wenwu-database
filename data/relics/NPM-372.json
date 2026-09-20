@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001244N000000003"
  },
- "summary": null,
+ "summary": "《宋元名繪》冊中一開，舊題五代黃筌《紅葉幽禽圖》，寫禽鳥棲於紅葉枝頭，敷色精麗，屬黃筌工緻寫生一路的花鳥畫傳統。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_372.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

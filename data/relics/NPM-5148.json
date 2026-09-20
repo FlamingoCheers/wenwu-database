@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001270N000000004"
  },
- "summary": null,
+ "summary": "此幅為《集珍壽古》冊中一開，舊題元王振鵬〈飛閣觀潮〉，畫臨江高閣，人物憑欄觀潮，屬樓閣山水冊頁。王振鵬為元代界畫名家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_5148.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

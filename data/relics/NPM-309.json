@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001233N000000011"
  },
- "summary": null,
+ "summary": "《名绘集珍》册之一，题为宋范宽《寒江钓雪》。范宽为北宋山水画大家，善写关中山川，笔势雄浑。此页取寒江独钓诗意，雪景渔舟，意境萧疏冷寂。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_309.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

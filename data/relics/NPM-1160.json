@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000074N000000000"
  },
- "summary": null,
+ "summary": "宋代米芾《尺牍》卷。米芾为北宋四大家之一，此卷为往来书信墨迹，笔势跳宕、八面出锋，沉着痛快，足见其鲜明书风个性。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1160.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

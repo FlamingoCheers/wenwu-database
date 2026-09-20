@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016041N000000000"
  },
- "summary": null,
+ "summary": "元代臨川窯白瓷蒜頭瓶，小口外凸如蒜頭，細長頸，器形纖秀挺拔。器身劃刻雲龍紋，龍遊雲際，姿態矯健，劃線流暢。白釉勻淨，為元代白瓷陳設瓶類。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36236.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

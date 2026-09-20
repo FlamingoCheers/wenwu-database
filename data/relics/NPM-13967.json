@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000117N000000000"
  },
- "summary": null,
+ "summary": "马远山水轴。马远有“马一角”之称，善作边角之景，山石方硬、水墨明洁，此轴为体现其山水典型面目的传世画作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13967.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

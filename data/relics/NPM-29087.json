@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000117N000000000"
  },
- "summary": null,
+ "summary": "此册为《垂裕阁法帖》第八册之一，收宋代蔡襄楷书。蔡襄书学虞世南而上追晋唐，楷书浑厚端庄，与苏轼、黄庭坚、米芾并称“宋四家”。此为刻帖墨拓装册本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29087.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

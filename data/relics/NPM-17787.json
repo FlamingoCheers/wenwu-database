@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001516N000000000"
  },
- "summary": null,
+ "summary": "此为元代王振鹏画手卷第一段。王振鹏以精细工笔著称，长于界画楼台与人物，此卷分段成图，具体画题未详，可从工谨笔致中见元代院体画风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17787.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

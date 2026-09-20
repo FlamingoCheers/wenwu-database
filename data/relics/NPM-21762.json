@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000168N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十一册所收苏轼《赤壁赋》刻本。赋为东坡谪居黄州的名作，楷法沉着精严，与文意相发，为传世东坡书赋名品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21762.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

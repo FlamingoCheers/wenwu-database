@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001116N000000002"
  },
- "summary": null,
+ "summary": "舊題宋馬遠《小品》冊之一「清影自在」，繪花枝清影自適之態，筆簡意遠，留白有致，富南宋院畫的詩意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_3801.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

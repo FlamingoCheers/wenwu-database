@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000904N000000000\n more\n \n 故書000904N000000001\n 故書000904N000000002\n 故書000904N000000003\n 故書000904N000000004\n 故書000904N000000005\n 故書000904N000000006\n 故書000904N000000007\n 故書000904N000000008"
  },
- "summary": null,
+ "summary": "宋代蔡襄、苏轼、黄庭坚、米芾四家书册。「苏黄米蔡」并称宋四家，代表宋代书法的最高成就，四人风格各异，或端庄或豪放，此册汇集四家书迹，极具书法史意义。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_3110.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014600N000000000"
  },
- "summary": null,
+ "summary": "宋官窯灰青葵口碟。碟沿起伏如花瓣，造型似花非花，通體施灰青釉，釉色沉靜溫潤。宋代官窯不尚紋飾，以簡練造型與如玉釉質見長，此碟正體現其靜穆雅潔的宮廷氣息。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_31835.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

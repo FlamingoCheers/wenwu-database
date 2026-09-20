@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購畫001064N000000000"
  },
- "summary": null,
+ "summary": "清代王素所繪〈渡江圖〉單片，描繪人物舟行渡江之景，以水墨寫江天浩渺與行旅意趣，構圖簡遠，筆墨疏朗，為清代人物山水小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35306.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

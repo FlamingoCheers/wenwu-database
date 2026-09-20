@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001100N000000000"
  },
- "summary": null,
+ "summary": "《宋高宗书女孝经马和之补图》上卷。宋高宗书《女孝经》经文，马和之依文补绘图像，图文相配，宣扬女教，属书画合璧长卷。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14902.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

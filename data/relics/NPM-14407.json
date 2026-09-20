@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001235N000000004"
  },
- "summary": null,
+ "summary": "《集古图绘》册之一开，题宋代萧照《山水》，绘山峦林壑景致，属山水题材小品。萧照师法李唐，为南宋院体画家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14407.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

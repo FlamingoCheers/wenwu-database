@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000006N000000000"
  },
- "summary": null,
+ "summary": "《英光堂米帖》冊所收，宋米芾《高郵帖》摹刻本，帖涉高郵地事，屬米氏行蹤書問之蹟，摹刻存其筆意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27148.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

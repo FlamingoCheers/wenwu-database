@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000314N000000000"
  },
- "summary": null,
+ "summary": "宋馬麟《釋迦出山圖》軸。釋迦出山為禪畫常見題材，寫佛成道後出山之相。此軸人物衣紋勁利，面相莊嚴，具南宋院體釋道畫風。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_19361.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

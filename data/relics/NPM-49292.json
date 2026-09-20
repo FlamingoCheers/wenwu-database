@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉001138N000000000"
  },
- "summary": "白玉，雜赭斑。紋飾為仿漢代劍璏紋飾。",
+ "summary": "玉劍璏以白玉琢成，間雜赭斑，器面紋飾倣漢代劍璏樣式。劍璏為附於劍鞘、用以穿帶佩劍的玉具，此件屬倣古玉作，追摹漢玉風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_49292.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

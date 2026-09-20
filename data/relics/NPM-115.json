@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000257N000000001"
  },
- "summary": null,
+ "summary": "《元人法书》册之一开，元代鲜于枢书唐人《水帘洞》诗。鲜于枢为元代书坛大家，与赵孟頫并称，此开录前人诗句，笔力沉雄遒劲。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_115.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

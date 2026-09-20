@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000171N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十四冊之一，摹刻米芾〈淡墨秋山詩帖〉。詩以淡墨秋山為詠，屬自書詩帖刻本，經上石拓印成冊傳世。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21503.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

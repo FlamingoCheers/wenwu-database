@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000115N000000000"
  },
- "summary": null,
+ "summary": "明《垂裕阁法帖》第六册之一，收唐代李邕《缙云帖》。李邕以行书书碑著称，笔力舒展遒劲，对后世影响深远。此为墨拓装册刻帖。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29387.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

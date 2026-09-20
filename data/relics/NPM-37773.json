@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷006563N000000000"
  },
- "summary": null,
+ "summary": "元白瓷劃花靈芝紋瓶，以劃花技法勾勒靈芝紋樣，刀法簡練流暢。靈芝象徵祥瑞長壽，此瓶胎白釉勻，宜作堂前陳設。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_37773.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

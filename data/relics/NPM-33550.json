@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷012906N000000000"
  },
- "summary": null,
+ "summary": "宋哥窯青瓷菊花式盤。盤作菊花式，口沿花瓣層疊，通體施青釉，釉面開片紋理細密交錯，古雅天成。哥窯以開片釉著稱於世，此盤將花卉造型與開片釉色結合，兼具匠心與自然意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_33550.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

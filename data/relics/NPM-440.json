@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001245N000000006"
  },
- "summary": null,
+ "summary": "宋人合璧畫冊中一開，傳林椿〈杏花春鳥〉，寫杏花綻放、禽鳥棲枝的春日小景，設色精細，具南宋院體花鳥畫風。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_440.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

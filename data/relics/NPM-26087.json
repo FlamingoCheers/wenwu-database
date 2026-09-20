@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷017715N000000000"
  },
- "summary": null,
+ "summary": "宋定窑黑釉鹧鸪斑碗，碗形宽大，通体黑釉，釉面点缀鹧鸪羽状斑纹，黑白相映，为定窑黑釉器中难得之作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_26087.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

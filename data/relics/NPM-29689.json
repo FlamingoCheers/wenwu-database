@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000011N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第五册，收北宋米芾草书《入晋帖》刻本。米芾书学晋人、自谓“集古字”，草书笔势迅疾飞扬。墨拓剪裱成册，供临习鉴赏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29689.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

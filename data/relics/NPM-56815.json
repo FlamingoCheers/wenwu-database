@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005588N000000000"
  },
- "summary": null,
+ "summary": "元代玉帶鉤，鉤首雕作螭形，鉤身修長彎曲。帶鉤為束帶之用，兼具玩賞價值，螭首古雅，承古制而見元代琢工。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_56815.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

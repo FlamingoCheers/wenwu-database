@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000242N000000005"
  },
- "summary": null,
+ "summary": "《宋代墨宝》册中一开，为谢克家致泰发知府待制尺牍。尺牍为士大夫往还书信，上款并具官称，格式谨守书仪，是考察宋代尺牍形制与书风的实例。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1007.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

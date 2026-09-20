@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003543N000000007"
  },
- "summary": null,
+ "summary": "《明人书画扇》册之一开，明代夏森《湖石水仙》。扇面绘湖石与水仙相倚，取意清雅，属明清折扇书画中常见的花木小景题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_11473.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

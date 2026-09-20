@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000075N000000000"
  },
- "summary": null,
+ "summary": "此卷为宋薛绍彭杂书。薛绍彭与米芾齐名，世称“米薛”，书法宗法二王，此卷杂书诸体并陈，可见其书学渊源。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1426.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001247N000000004"
  },
- "summary": null,
+ "summary": "《煙雲集繪》第三冊之一开，题宋代赵伯驹《水阁弹棋》，绘临水楼阁中人相对弹棋的闲雅情景，属山水楼阁人物小品。赵伯驹以青绿山水著称。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_14369.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

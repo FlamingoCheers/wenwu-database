@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001123N000000000\n more\n \n 故畫001123N000000A01\n 故畫001123N000000A02\n 故畫001123N000000B01\n 故畫001123N000000B02\n 故畫001123N000000B03\n 故畫001123N000000B04"
  },
- "summary": null,
+ "summary": "明徐賁《獅子林圖》冊，描繪蘇州名園獅子林諸勝，以冊頁形式逐一寫其峰石堂軒，為紀錄園林景致的山水畫作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_3821.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

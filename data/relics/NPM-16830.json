@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故文000548N000000001"
  },
- "summary": null,
+ "summary": "檀木盒，盖面嵌果叶纹玉饰，纹饰取蔬果枝叶之趣，盒作扁长形，为收贮器物之匣盒。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_16830.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

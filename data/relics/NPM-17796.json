@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001516N000000000"
  },
- "summary": null,
+ "summary": "此为元代王振鹏画手卷第十段，为系列末段。全段收束全卷景致，笔法依旧精细，整卷分段合观，可见元代长卷绘画的宏整格局。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17796.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

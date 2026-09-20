@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004206N000000000"
  },
- "summary": null,
+ "summary": "元代獸紐玉印，圓形印身，獸紐雄健。元代玉印承宋制而稍見渾厚氣息，為佩印兩用之器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55592.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

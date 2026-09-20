@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016059N000000000"
  },
- "summary": null,
+ "summary": "定窯牙白劃花蓮花碟，宋代製品。碟形淺坦，口沿微敞，胎薄釉潤。碟心劃刻蓮花紋，花朵舒展，劃線輕快，牙白釉色溫雅如脂，小碟素淨宜人。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36250.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

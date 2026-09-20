@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003462N000000001"
  },
- "summary": null,
+ "summary": "《宋人绘珍片玉》册中一开，为赵伯驹《壶天楼阁》。“壶天”喻仙境。图绘仙山楼阁，青绿设色，工致华美，体现宋代贵族青绿山水的传统面貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_10851.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

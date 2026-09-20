@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000092N000000000"
  },
- "summary": null,
+ "summary": "宋代贾师古《大士像》立轴，绘观音大士尊像，属道释人物画题材。贾师古为南宋画院画家，善画释道人物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_940.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000182N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第二十五册所收元代王蒙《爱厚帖》尺牍刻本。王蒙以山水画称雄，为“元四家”之一，书法承家学渊源，此牍行书秀逸，颇具晋人韵致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21540.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

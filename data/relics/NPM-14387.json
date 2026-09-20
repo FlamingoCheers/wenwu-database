@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001247N000000016"
  },
- "summary": null,
+ "summary": "《煙雲集繪》第三冊之一开，题宋代马逵《棠枝么凤》，绘海棠枝头小鸟栖止之景，属花鸟题材小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_14387.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

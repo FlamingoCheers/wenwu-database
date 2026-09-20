@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000988N000000000"
  },
- "summary": null,
+ "summary": "题北宋王诜《瀛山图》卷，绘瀛海仙山意趣的峰峦水色，属山水长卷。王诜为北宋画家，善作山水。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14434.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

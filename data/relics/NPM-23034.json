@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000099N000000029\n more\n \n 贈帖000099N000000030\n 贈帖000099N000000031\n 贈帖000099N000000032\n 贈帖000099N000000033\n 贈帖000099N000000034"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第二十二册之一，辑赵氏一门法书，附元明人题跋，摹勒上石，见赵氏家传书风与后贤评鉴。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_23034.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000249N000000012"
  },
- "summary": null,
+ "summary": "此册页出自《宋元宝翰》，为仲殊所书《西江月》词。仲殊为北宋僧人词人，词墨合璧，可见宋人以书法写词之风尚。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14334.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

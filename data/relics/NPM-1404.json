@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001236N000000002"
  },
- "summary": null,
+ "summary": "文同为北宋文人画家，以善画墨竹著称，开湖州竹派。此页绘墨竹，寄文人清逸之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1404.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

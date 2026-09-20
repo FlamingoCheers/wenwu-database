@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中書000018N000000000"
  },
- "summary": null,
+ "summary": "此卷为宋蔡襄所书《动静交相养赋》，赋文为唐白居易论养生之作。蔡襄为宋四家之一，书法端庄温雅，卷中笔致沉稳，结构疏密有度，文翰与书艺并美。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1539.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

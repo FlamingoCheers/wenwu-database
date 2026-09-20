@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000991N000000000"
  },
- "summary": null,
+ "summary": "题宋代李唐《江山小景》卷，以小景写江山烟波之胜，属山水画卷。李唐为宋代山水画大家，开南宋院体新风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14436.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

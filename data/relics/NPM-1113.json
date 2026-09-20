@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000243N000000010"
  },
- "summary": null,
+ "summary": "《宋人法书》（一）册中一开，为赵抃致知郡公明大夫尺牍。赵抃为北宋名臣，有“铁面御史”之称。此札为通问书信，笔致沉稳端严，兼具书法与史料价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1113.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

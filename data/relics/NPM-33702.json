@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購拓000198N000000000"
  },
- "summary": null,
+ "summary": "唐褚遂良書〈隨清娛墓誌銘〉墨拓本。誌銘記漢太史司馬遷侍妾隨清娛之事，相傳由褚遂良書寫，字體清勁秀潤，具褚書風範。拓本兼具書法鑑賞與傳說文獻的雙重意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_33702.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

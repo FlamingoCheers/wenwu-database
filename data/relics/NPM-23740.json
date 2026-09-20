@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000071N000000016\n more\n \n 贈帖000071N000000017"
  },
- "summary": null,
+ "summary": "《淳化阁帖》第四册之一，收录唐谏议大夫柳公权《圣慈帖》，帖题具官衔，见丛帖编录旧式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_23740.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

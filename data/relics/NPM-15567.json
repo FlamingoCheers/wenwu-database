@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001239N000000017"
  },
- "summary": null,
+ "summary": "《唐宋元畫集錦》冊之一開，舊題宋錢選〈畫眉清篠〉，繪畫眉鳥棲鳴於清疏竹篠間，屬花鳥竹石小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15567.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

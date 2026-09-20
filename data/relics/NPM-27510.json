@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000058N000000000"
  },
- "summary": null,
+ "summary": "《經訓堂法帖》第四冊所收，宋米芾尺牘摹刻本。元章書蹟為世所寶，此冊摹刻其一，沉着痛快之勢可掬。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27510.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

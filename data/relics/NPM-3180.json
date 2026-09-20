@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000381N000000000"
  },
- "summary": null,
+ "summary": "明代陳汝言〈百丈泉〉軸。百丈泉為山中勝景飛泉，畫以瀑布流水為題，寫崖壑間泉瀑奔瀉之勢，屬傳統山水畫題材，寄寓觀泉滌懷、棲隱山林之思。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_3180.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

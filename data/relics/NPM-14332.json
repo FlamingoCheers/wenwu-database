@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000249N000000008\n more\n \n 故書000249N000000009"
  },
- "summary": null,
+ "summary": "此册页出自《宋元宝翰》，为楼钥呈提举郎中契丈的劄子。楼钥为南宋文学侍从之臣，劄子为致书呈问之体。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14332.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

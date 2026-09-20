@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅000898N000000001"
  },
- "summary": null,
+ "summary": "元代玉雕盖顶，琢花间行龙纹，龙游花丛之间，线条灵动，为器物盖顶装饰，见宋元玉雕纹样遗风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_71832.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

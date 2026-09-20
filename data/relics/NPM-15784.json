@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003460N000000003"
  },
- "summary": null,
+ "summary": "《唐宋元集繪》冊之一開，舊題宋趙昌〈棠上白頭翁〉，繪白頭翁鳥棲於棠花枝頭，屬宋代折枝花鳥寫生小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15784.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

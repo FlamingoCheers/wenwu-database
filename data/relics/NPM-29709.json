@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000012N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第六册，收北宋薛绍彭所书《兰亭序》刻本。薛绍彭与米芾同时齐名，书学二王，临写《兰亭》尤见功力。此帖墨拓装册，可供临习。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29709.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000139N000000000"
  },
- "summary": null,
+ "summary": "此册为《淳化祖帖》第五册之一，辑刻张旭《晚复帖》。淳化阁帖为宋初内府汇刻历代法书的丛帖，被尊为祖帖，此页可见张旭草书的使转笔意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17394.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

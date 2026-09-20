@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001123N000000008"
  },
- "summary": null,
+ "summary": "明徐賁《獅子林圖》冊之一「臥雲室」，繪高閣臥雲、隱然林際，建築與雲樹相融，筆墨簡淡。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_3829.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷012290N000000000"
  },
- "summary": null,
+ "summary": "宋哥窯青瓷葵口碟。碟作葵花口，淺腹，通體施青釉，釉面開片紋理縱橫交錯，為哥窯著名特徵。哥窯名列宋代名窯，此碟形制雅正，釉色古穆，深受歷代鑑賞家珍視。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_32384.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

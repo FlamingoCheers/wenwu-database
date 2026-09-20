@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中書000017N000000000\n more\n \n 中書000017N000000001\n 中書000017N000000002\n 中書000017N000000003\n 中書000017N000000004\n 中書000017N000000005\n 中書000017N000000006"
  },
- "summary": null,
+ "summary": "此册为宋米芾所书《秋风辞》，内容为汉武帝辞赋名篇。米芾为宋四家之一，行书八面出锋、跌宕多姿，此册笔势纵逸，沉着痛快，具典型米书风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1538.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

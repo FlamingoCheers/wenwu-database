@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000048N000000000"
  },
- "summary": null,
+ "summary": "《大觀帖》卷四所收，唐柳公權《伏審帖》摹刻本。柳公權為晚唐書法大家，與顏真卿並稱，此尺牘摹本存其行書意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_26957.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

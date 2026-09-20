@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "贈瓷000438N000000000"
  },
- "summary": null,
+ "summary": "元代磁州窯系黑釉鐵斑碗，黑釉上綴鐵褐斑點，如鷓鴣羽色，斑紋錯落，為北方窯系特色的釉面裝飾。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43468.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

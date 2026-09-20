@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000240N000000005\n more\n \n 故書000240N000000006"
  },
- "summary": null,
+ "summary": "《宋贤书翰》册中一开，为薛绍彭诗帖。此帖为自书诗稿，书风端正平和，深得晋唐规范，与米芾齐名而面貌各异，是北宋文人书法的重要例证。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_1045.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

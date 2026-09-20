@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000047N000000000"
  },
- "summary": null,
+ "summary": "宋代许道宁《关山密雪图》轴。绘关山重重、密雪封山之景，山头留白、寒林萧瑟，雪景气象森严，承北宋寒林雪景传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1277.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

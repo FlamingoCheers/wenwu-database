@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000150N000000006"
  },
- "summary": null,
+ "summary": "《宋吴说尺牍》册中一页，为上问“堂上太宜人”之书札，太宜人为命妇封号，此札属问候尊长之信，可见宋代书仪称谓。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14824.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

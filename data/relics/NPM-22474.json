@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000086N000000021\n more\n \n 贈帖000086N000000022"
  },
- "summary": null,
+ "summary": "摹刻宋赵抃《致知府舍人尺牍》。舍人为翰林学士之别称，此为致知府舍人之书问，行笔质朴端正，为北宋名臣手迹之刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22474.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

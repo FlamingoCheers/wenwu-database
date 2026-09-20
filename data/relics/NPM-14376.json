@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001247N000000011"
  },
- "summary": null,
+ "summary": "《煙雲集繪》第三冊之一开，题宋代李嵩《天中水戏》。天中即端午令节，绘水上戏乐的节令风俗场景，属人物风俗题材小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14376.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

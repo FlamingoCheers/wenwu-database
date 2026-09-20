@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷011257N000000000"
  },
- "summary": null,
+ "summary": "宋代白瓷牡丹紋碗，器壁弧曲，口沿微斂。內面劃刻牡丹盛放之景，花葉相偎，刻線勻細流利，白釉瑩潤，全器樸雅耐看，兼具日用與欣賞價值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35224.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

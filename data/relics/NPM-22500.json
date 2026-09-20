@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000087N000000003\n more\n \n 贈帖000087N000000004"
  },
- "summary": null,
+ "summary": "摹刻宋苏轼《与久上人札》。上人为僧人之敬称，此札书赠释子，笔意萧散，见东坡与方外之交游情味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22500.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

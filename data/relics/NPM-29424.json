@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010133N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷斗笠碗，敞口斜腹，器内印花缠枝牡丹纹，纹饰繁密有序。斗笠碗形轻巧挺拔，胎薄釉润，体现定窑制瓷工艺的精湛。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29424.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000010N000000000"
  },
- "summary": null,
+ "summary": "《平遠山房法帖》第二冊所收，唐顏真卿《祭姪文稿》摹刻本。此稿為顏書第一名蹟，情馳神縱，塗改滿紙而真氣淋漓，歷代摹刻以廣其傳。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27275.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

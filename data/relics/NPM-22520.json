@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000089N000000026"
  },
- "summary": null,
+ "summary": "摹刻宋苏轼书尺牍。东坡尺牍随意挥洒，不经意处最见天真，此札受书之人未详，笔致圆活，具宋人书卷气韵。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_22520.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

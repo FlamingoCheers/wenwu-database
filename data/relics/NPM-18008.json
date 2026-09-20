@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003476N000000012"
  },
- "summary": null,
+ "summary": "《宋元明人合錦貳冊》（上）之一開，傳宋夏珪《梅雪詩廬》。夏珪水墨山水以蒼潤著稱，此開繪雪中梅樹茅廬，筆墨簡淡，意境蕭疏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_18008.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

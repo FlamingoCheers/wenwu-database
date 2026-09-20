@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000166N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第九冊之一，摹刻北宋蔡襄與賓客七兄書。賓客或為官稱，七兄為行第稱謂，帖屬親友問候書翰，經上石拓印成冊。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21444.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

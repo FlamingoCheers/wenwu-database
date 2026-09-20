@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000011N000000020\n more\n \n 故帖000011N000000021\n 故帖000011N000000022"
  },
- "summary": null,
+ "summary": "宋拓《至道御书法帖》第九册。帖名取宋太宗至道年号，所收为御书摹刻，拓本装册传世，足资书史帖学之考证。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22654.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

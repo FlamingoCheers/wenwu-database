@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001255N000000007"
  },
- "summary": null,
+ "summary": "《名贤妙迹》册一页，宋钱选《涛声松韵》。以松涛之声为题，写松林风动之景，寓高士听松之趣，属文人意趣山水小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14705.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

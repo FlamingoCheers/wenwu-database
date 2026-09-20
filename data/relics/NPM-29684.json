@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000011N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第五册，收北宋黄庭坚《沈睿达诗评》刻本，为黄庭坚品评沈睿达诗艺的文字，兼见宋人论艺风尚。墨拓装册，可供赏读。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29684.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

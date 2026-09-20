@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000243N000000020"
  },
- "summary": null,
+ "summary": "《宋人法书》（一）册中一开，为范纯粹书尺牍。范纯粹为范仲淹之子，北宋官员。此札为书信墨迹，书写自然平实，可见名门子弟日常书迹的风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1125.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

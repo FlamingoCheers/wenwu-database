@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000215N000000000"
  },
- "summary": null,
+ "summary": "此卷题宋代钱选《渡海罗汉》，写罗汉渡海神通之状，人物意态闲异，水纹细劲，钱选为宋末元初名家，画风古雅工致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_17582.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

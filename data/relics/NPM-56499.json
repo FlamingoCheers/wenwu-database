@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005257N000000000"
  },
- "summary": null,
+ "summary": "元代玉貓，琢出貓的靈巧之態。貓捕鼠護物，漸入文人清玩，此類小玉件生動可愛，為元代世俗題材玉雕的例證。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_56499.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

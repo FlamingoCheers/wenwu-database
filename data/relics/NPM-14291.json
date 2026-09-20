@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000244N000000001"
  },
- "summary": null,
+ "summary": "此册页出自《宋人法书》（二），为蔡襄致通理当世屯田尺牍。蔡襄为“宋四家”之一，书法端庄温雅，此札为其尺牍名迹。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14291.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

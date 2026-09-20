@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016040N000000000"
  },
- "summary": null,
+ "summary": "定窯葵口碗，宋代製品。口緣作葵花分瓣狀，器內劃刻蓮花紋，花姿生動，莖葉連綿，刀法嫻熟流利，牙白釉勻淨溫潤，紋飾清麗大方，為定窯常見碗式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36235.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

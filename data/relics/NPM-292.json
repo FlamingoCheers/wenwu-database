@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001224N000000015"
  },
- "summary": null,
+ "summary": "此册为《宋高宗书孝经马和之绘图》中〈事君章〉的书法部分，传为宋高宗以小楷书写《孝经》经文。小楷工整典雅，与马和之绘画相配，为南宋宫廷书画合璧之作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_292.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

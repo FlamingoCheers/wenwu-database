@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000093N000000004"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十六册收宋米友仁尺牍。友仁为米芾长子，承其家法，此牍行书疏朗，具家风云致，摹刻传之。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_22833.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉002202N000000000"
  },
- "summary": null,
+ "summary": "玉雕童子立像，姿態活潑天真，雕工圓熟渾樸。童子題材在宋元玉器中甚為流行，寓多子多福的吉祥祝願，此件屬元代玉雕人像小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_50335.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

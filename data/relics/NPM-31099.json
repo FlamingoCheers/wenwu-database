@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈拓000345N000000000"
  },
- "summary": null,
+ "summary": "唐代颜真卿书《右武卫将军臧公神道碑》明拓本，装裱成册。此碑为颜体楷书代表作之一，笔画雄浑，气象森严，神道碑文记述臧将军功业，明拓本可供研习校勘。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_31099.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

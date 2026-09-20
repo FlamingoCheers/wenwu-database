@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003476N000000001"
  },
- "summary": null,
+ "summary": "《宋元明人合錦貳冊》（上）之一開，傳宋李唐《溪山遠眺》。李唐為南北宋之際山水大家，此開繪溪山遠望之景，構圖簡練，筆墨蒼勁。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17999.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

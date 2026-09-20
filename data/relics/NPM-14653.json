@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001291N000000007"
  },
- "summary": null,
+ "summary": "《名画集真》册一页，宋马远《松泉双鸟》。绘松间泉流、双鸟栖息鸣叫，属山水缀以花鸟的小品，笔墨简劲。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14653.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

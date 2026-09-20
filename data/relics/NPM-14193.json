@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001850N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋钱选《得喜图》，取“得喜”吉意入画。钱选为宋末元初名家，人物花鸟清雅古拙，此轴属吉祥题材绘画。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14193.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

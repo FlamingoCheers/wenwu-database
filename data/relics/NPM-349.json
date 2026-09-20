@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001241N000000005"
  },
- "summary": null,
+ "summary": "《藝苑藏真》冊（下）之一開，傳為宋代馬逵所繪〈柳汀放棹〉。畫寫柳岸水汀間扁舟放棹的景致，構圖疏朗，意境閒遠。馬逵出身繪畫世家，此開屬南宋院體山水小品，筆墨清潤有致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_349.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

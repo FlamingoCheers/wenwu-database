@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000090N000000042"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十三册收宋黄庭坚《与庭诲帖》，为致庭诲之尺牍。寻常书问之间，行笔自见筋骨，刻拓具存其大概。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_22753.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

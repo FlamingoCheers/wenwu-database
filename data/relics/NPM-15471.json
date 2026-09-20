@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000255N000000000"
  },
- "summary": null,
+ "summary": "此轴绘伏羲坐像。伏羲为传说中三皇之首，相传始作八卦、教民渔猎，为历代帝王圣贤图绘常见题材。画中伏羲端坐，仪态庄重，绘者与年代待考。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15471.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

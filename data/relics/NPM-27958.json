@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000042N000000000"
  },
- "summary": null,
+ "summary": "《贯经堂米帖》第二册之一，收宋米芾《葛叔忱帖》。米芾行书骏快跌宕，此帖为与友人往还书迹，经摹刻上石，传其笔意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27958.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

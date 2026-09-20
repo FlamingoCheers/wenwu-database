@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000090N000000038\n more\n \n 贈帖000090N000000039"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第十三册收宋黄庭坚《送刘季展诗》，为送别之作。诗书合璧，行体纵横有致，见山谷以意运笔之能。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22728.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000064N000000000"
  },
- "summary": null,
+ "summary": "宋代崔白《竹鸥图》轴。崔白为北宋花鸟画变革大家，此轴写竹丛间鸥鹭之属，禽鸟情态生动，一改黄筌富丽旧格，开宋人写生新风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1175.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000028N000000014\n more\n \n 故帖000028N000000015"
  },
- "summary": null,
+ "summary": "《大观帖》为北宋大观年间内府奉敕摹刻之丛帖，此为宋拓本第四册。此开收唐代柳公权《十六日帖》，以日期为帖名，属尺牍书迹。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17120.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

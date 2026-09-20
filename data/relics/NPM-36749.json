@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷005135N000000000"
  },
- "summary": null,
+ "summary": "宋白瓷劃花回紋盞托，上置盞口、下承托盤，回紋裝飾古雅端莊。胎堅釉潤，製作規整，屬宋代茶器組合中的承托之器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36749.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

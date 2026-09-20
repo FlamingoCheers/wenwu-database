@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000017N000000000"
  },
- "summary": null,
+ "summary": "清乾隆御刻《三希堂法帖》第十七册所收宋杜良臣《致中一哥新恩中除贤弟尺牍》拓本，为贺亲友新除官职的书启。行书俊爽流美，杜氏传世书迹极罕。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21791.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

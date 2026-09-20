@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001501N000000000"
  },
- "summary": null,
+ "summary": "此卷为《万国朝宗图》第五幅，题苏汉臣画、赵孟頫书。画中人服饰奇特，形象各异，体现古画中四方来朝、殊方异俗的图绘传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17514.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

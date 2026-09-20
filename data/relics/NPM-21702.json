@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000174N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十七册所收南宋范成大尺牍刻本。范成大为“中兴四大诗人”之一，书宗黄、米一路，此牍行书俊爽自然，见诗人从容气象。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21702.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

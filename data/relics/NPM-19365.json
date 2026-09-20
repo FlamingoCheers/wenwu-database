@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000319N000000000"
  },
- "summary": null,
+ "summary": "宋夏珪《山居圖》軸。夏珪善水墨，皴法帶水意，構圖多作邊角小景。此軸題為山居，繪山間屋舍林泉，筆墨簡率，具南宋院體山水意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_19365.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

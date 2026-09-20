@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000007N000000000"
  },
- "summary": null,
+ "summary": "清乾隆御刻《三希堂法帖》第七册所收宋高宗书《地黄诗》刻本。高宗书学二王，行笔圆熟流畅，此帖为帝王书法传世名迹之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21562.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

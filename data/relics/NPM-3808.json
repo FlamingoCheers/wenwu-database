@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001116N000000005"
  },
- "summary": null,
+ "summary": "舊題宋馬遠《小品》冊之一「桃實」，寫桃枝結實纍纍，色澤鮮潤可喜，寓長壽之意，屬折枝果木小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_3808.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

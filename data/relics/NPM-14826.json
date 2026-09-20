@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000150N000000008"
  },
- "summary": null,
+ "summary": "《宋吴说尺牍》册中一页，书致“二哥监岳宣教”，上款称谓含职衔，属致亲友之信札，为宋人尺牍法书之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14826.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

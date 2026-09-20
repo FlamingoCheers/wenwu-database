@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001244N000000006"
  },
- "summary": null,
+ "summary": "《宋元名繪》冊中一開，舊題宋易元吉《猿鹿圖》，繪猿猴與鹿出沒林間，取猿鹿諧音寓爵祿之意，見宋人寫生動物畫的野逸之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_378.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

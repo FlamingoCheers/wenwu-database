@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅000552N000000001"
  },
- "summary": null,
+ "summary": "玉頂，琢汀渚鷺鷥紋，鷺立水渚蘆葦間為宋元玉飾常見景致，玉頂用作器物蓋頂，紋樣生動雅緻。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_5828.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

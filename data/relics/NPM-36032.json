@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000067N000000000"
  },
- "summary": null,
+ "summary": "《觀海堂帖》冊之一，錄宋蘇軾梅花詩刻帖拓本。詠梅之作寄寓情志，書筆與詩心相映，摹勒傳其意態，可供書法臨習與詩文欣賞。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_36032.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

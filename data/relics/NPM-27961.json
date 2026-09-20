@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000042N000000000"
  },
- "summary": null,
+ "summary": "《贯经堂米帖》第二册之一，收宋米芾草书《入晋帖》。米芾草书宗法晋人，笔势连绵跳宕，此帖可见其取径魏晋的书学取向。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27961.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

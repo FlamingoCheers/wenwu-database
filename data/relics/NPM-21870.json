@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000008N000000000"
  },
- "summary": null,
+ "summary": "此为宋范仲淹《与秀才帖》尺牍刻本，见《三希堂法帖》第八册。帖为致秀才之书札，叙答问常事，书法端重，名臣手迹赖此传刻。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21870.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

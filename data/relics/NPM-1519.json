@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000034N000000000"
  },
- "summary": null,
+ "summary": "此册为清人所摹《兰亭八柱帖》坎字一册。兰亭八柱汇集历代《兰亭序》摹本临本，以八卦字次编次。册页摹写兰亭书迹，存帖学临池风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1519.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

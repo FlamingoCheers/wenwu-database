@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000173N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十六冊之一，摹刻北宋薛紹彭尺牘，別稱〈元章召飯帖〉。元章即米芾之字，帖名謂米芾召飯事，屬文人交遊書翰刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21303.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

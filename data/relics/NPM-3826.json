@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001123N000000005"
  },
- "summary": null,
+ "summary": "明徐賁《獅子林圖》冊之一「禪窩」，寫園中禪修靜室，環境幽邃，屋宇簡樸，映現獅子林的禪寺淵源。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_3826.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

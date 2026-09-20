@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉000512N000000001"
  },
- "summary": null,
+ "summary": "玉頂雕行龍紋，龍身矯健，穿行雲間，為典型的祥瑞紋飾。此類玉頂原為器物蓋鈕，龍紋題材在元代玉作中頗為常見，雕工雄渾。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_46934.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

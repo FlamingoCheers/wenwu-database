@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000817N000000000"
  },
- "summary": null,
+ "summary": "此軸舊題五代後梁荊浩〈匡廬圖〉，以全景式構圖寫廬山之勝，主峰巍峨，瀑布飛瀉，山間屋宇行旅錯落其間，為北方山水畫派的宏構。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_506.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000170N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十三册所收黄庭坚《苦笋赋》刻本。赋以诙谐笔调称道苦笋之味，行书纵逸雄健，为山谷传世名赋书迹。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21804.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

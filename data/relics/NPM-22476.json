@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000086N000000024\n more\n \n 贈帖000086N000000025"
  },
- "summary": null,
+ "summary": "摹刻宋韩绎《致留守司徒侍中尺牍》。留守司徒侍中为尊显官称，此札书致方面重臣，措辞恭谨，书法端稳，刻入《三希堂法帖》第九册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22476.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

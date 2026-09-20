@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003133N000000003"
  },
- "summary": null,
+ "summary": "《五代后蜀黄筌长春花鸟》册中一开，画题“碧桃翠鸟”。绘碧桃花枝，翠鸟栖止其间，设色妍丽，花鸟相映成趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_6831.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

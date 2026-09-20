@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010134N000000000"
  },
- "summary": null,
+ "summary": "定窑白瓷斗笠碗，器内以印花技法饰缠枝牡丹纹，花叶相续、绵延不断，寓连绵富贵之意。釉色牙白，印纹清晰，为定窑典型装饰风格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29425.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

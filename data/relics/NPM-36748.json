@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷005134N000000000"
  },
- "summary": null,
+ "summary": "宋白瓷盞托，盞杯與託盤連為一體，托面劃回紋為飾，線條簡潔富韻律感。釉色白潤，是宋代茶事中承托茶盞的實用器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36748.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

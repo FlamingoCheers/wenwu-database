@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001233N000000009"
  },
- "summary": null,
+ "summary": "《名绘集珍》为汇辑历代名家画迹的册页，此开传为五代周文矩《按乐图》。周文矩为南唐画院画家，擅人物仕女。图绘奏乐场景，人物娴雅，是册中名迹之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_298.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

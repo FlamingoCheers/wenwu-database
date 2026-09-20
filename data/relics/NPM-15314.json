@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003580N000000004"
  },
- "summary": null,
+ "summary": "《宋元明集绘》册中一开，题宋代许道宁作翠巘精蓝。精蓝指佛寺，许道宁善写峰峦峭拔之景，此帧绘青山间梵宇隐现，笔法简快，气象苍茫。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_15314.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

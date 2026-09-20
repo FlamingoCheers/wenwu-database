@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000010N000000000"
  },
- "summary": null,
+ "summary": "此为《三希堂法帖》第十册所收宋苏轼书渔父破子二首刻帖。内容咏渔父江上闲逸之趣，词句清旷，书迹从容，词意笔意相发。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22064.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

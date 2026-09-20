@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004647N000000000"
  },
- "summary": null,
+ "summary": "元代玉犬，配木座陳設。犬姿生動自然，琢工疏朗，反映宋元以來動物玉雕貼近生活的意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55988.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

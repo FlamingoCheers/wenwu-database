@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000133N000000000"
  },
- "summary": null,
+ "summary": "此卷为《宋四家书》之一，米芾自书《从天竺归隐溪之南冈》诗。米书跌宕多姿、八面出锋，诗题纪其行踪游处，书文相发，为米芾行书代表。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17608.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

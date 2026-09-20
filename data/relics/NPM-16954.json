@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故文001013N000000002"
  },
- "summary": null,
+ "summary": "锦匣为贮存文物之匣盒，以锦为饰，用以保护书画器物，属传统收藏之护持用具。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_16954.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

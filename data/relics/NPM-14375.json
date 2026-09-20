@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001247N000000010"
  },
- "summary": null,
+ "summary": "《煙雲集繪》第三冊之一开，题宋代张茂《莲叶水禽》，绘荷塘莲叶间水禽栖游之景，取夏日池荷意趣，属花鸟小景。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_14375.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000087N000000004\n more\n \n 贈帖000087N000000005"
  },
- "summary": null,
+ "summary": "摹刻宋苏轼《与长官董侯札》。札致董姓长官，词气谦和，行书随意挥运，为东坡尺牍传刻之迹。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22501.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

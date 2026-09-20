@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000169N000000000"
  },
- "summary": null,
+ "summary": "此为《三希堂法帖》第十二册所收宋苏轼致子厚宫使尺牍刻帖。子厚为章惇之字，札中叙旧致意，书迹遒劲丰润，存东坡尺牍风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22226.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

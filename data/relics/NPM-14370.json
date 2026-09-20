@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001247N000000005"
  },
- "summary": null,
+ "summary": "《煙雲集繪》第三冊之一开，题宋代毕良史《溪桥策杖》，写高士扶杖过溪桥的行旅小景，属山水人物题材小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14370.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000135N000000009\n more\n \n 故帖000135N000000010\n 故帖000135N000000011\n 故帖000135N000000012"
  },
- "summary": null,
+ "summary": "此册为《晋唐正书》第四册之一，收唐代褚遂良摹王羲之《兰亭序》。褚摹兰亭笔意遒媚，点画使转存右军风神，历来为《兰亭》传承系统中的重要摹本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17333.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

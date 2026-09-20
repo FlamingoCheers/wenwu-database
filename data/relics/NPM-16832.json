@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故文000550N000000001"
  },
- "summary": null,
+ "summary": "紫檀木盒，整体作钟形，盖面嵌螭龙纹玉饰，器形别致，为院藏文物之附属匣盒。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_16832.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

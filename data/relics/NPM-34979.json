@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000952N000000011"
  },
- "summary": null,
+ "summary": "《宋曹氏遺譜》冊之一開，為宋代虞允文所跋曹氏族譜。跋文記述觀譜感言，表彰曹氏門風。虞允文為南宋名臣，此跋兼具譜牒文獻與名家書蹟的價值，可資考見宋代家族譜系的傳承。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_34979.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

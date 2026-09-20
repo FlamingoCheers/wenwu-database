@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000213N000000000"
  },
- "summary": null,
+ "summary": "御制重刻《淳化阁帖》第十册之一，收录唐柳公权《伏审帖》，重摹宋刻官帖之拓本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_24235.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

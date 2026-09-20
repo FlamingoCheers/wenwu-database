@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "贈瓷000363N000000000"
  },
- "summary": null,
+ "summary": "元代青花小圓碟，碟心繪青花紋樣，發色沈著，形制小巧規整，為元代青花日用器的常見品類。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43406.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

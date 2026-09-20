@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003492N000000009"
  },
- "summary": null,
+ "summary": "《艺苑胪珍》册一页，宋钱选《荷亭消夏》。绘荷池亭榭、消夏纳凉的景致，钱选工花鸟山水，画风清雅，为宋末名家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14691.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

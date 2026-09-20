@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000066N000000000"
  },
- "summary": null,
+ "summary": "《五台胜概》轴，题为马和之作，描绘五台山形胜景致。用笔流畅飘逸，山水与名胜纪游意趣兼具，风格清和萧散。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13898.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

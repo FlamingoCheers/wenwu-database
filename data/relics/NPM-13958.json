@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000108N000000000"
  },
- "summary": null,
+ "summary": "《仙侣观瀑》轴，传马远作。绘仙侣临涧观瀑，取边角构图，瀑布飞泻与人物凝望相映，笔法劲健，意境清幽。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13958.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

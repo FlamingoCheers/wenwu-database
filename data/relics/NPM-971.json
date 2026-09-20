@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000241N000000003"
  },
- "summary": null,
+ "summary": "《宋贤笺牍》册之一，收宋人程元凤所书识语。识语为题记说明性质文字，此页书法端谨，具宋代士大夫笔墨规格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_971.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

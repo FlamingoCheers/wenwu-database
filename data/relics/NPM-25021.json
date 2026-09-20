@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000942N000000003"
  },
- "summary": null,
+ "summary": "《名家集册》之一开，收宋米芾尺牍。米芾行书变化多端，此札为其日常书作，可见尚意书风的挥洒意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_25021.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

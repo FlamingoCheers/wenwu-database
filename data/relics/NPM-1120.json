@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000243N000000015"
  },
- "summary": null,
+ "summary": "《宋人法书》（一）册中一开，为韩绎致留守司徒侍中尺牍。此札为致高官的通问书信，上款具爵秩尊称，措辞谨敬，笔致端稳，格式合于宋人书仪。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1120.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

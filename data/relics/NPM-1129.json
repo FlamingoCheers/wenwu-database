@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001013N000000000"
  },
- "summary": null,
+ "summary": "元代王振鹏《龙池竞渡图》卷。王振鹏以界画著称，此卷绘池中龙舟竞渡，舟楫楼观以界尺引笔，线描细密匀净，为元代龙舟题材界画之作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1129.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

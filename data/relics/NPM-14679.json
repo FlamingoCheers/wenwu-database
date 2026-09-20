@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003481N000000009"
  },
- "summary": null,
+ "summary": "《集古名绘》册一页，五代后蜀黄筌《梅竹双春》。绘梅竹之间双禽栖鸣，寓春意，黄筌以精工艳丽的花鸟画风著称，为西蜀院体代表。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14679.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

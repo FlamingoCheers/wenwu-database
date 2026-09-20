@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000013N000000000"
  },
- "summary": null,
+ "summary": "此为宋黄庭坚《与庭诲帖》刻本，见清乾隆敕刻《三希堂法帖》第十三册，为致庭诲之书札，语涉家常，行书遒劲，具纵横奇崛之致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21931.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

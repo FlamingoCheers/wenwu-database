@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中玉000259N000000001"
  },
- "summary": null,
+ "summary": "元代螭虎啣芝紋玉頂，雕琢螭虎啣靈芝紋，螭龍矯健靈動，玉質溫潤，為爐鼎器物的頂飾，見元代玉雕功力。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_46237.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

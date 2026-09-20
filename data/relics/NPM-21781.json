@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000017N000000000"
  },
- "summary": null,
+ "summary": "清乾隆御刻《三希堂法帖》第十七册所收南宋范成大尺牍拓本。石湖书法师法黄、米而归于自然，此牍行书清逸洒脱，兼具诗人气质。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21781.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

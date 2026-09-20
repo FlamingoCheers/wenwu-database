@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001118N000000006"
  },
- "summary": null,
+ "summary": "宋叶肖岩《西湖十景图》册之一，写雷峰夕照一景，以山水小景状西湖名迹。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_232.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

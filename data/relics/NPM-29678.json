@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000011N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第五册，收北宋蔡襄《澄心堂纸帖》。帖中言及南唐名纸澄心堂纸，行楷端庄温雅。蔡襄位列“宋四家”，此为其名帖刻本，墨拓装册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29678.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

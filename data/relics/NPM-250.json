@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001224N000000002"
  },
- "summary": null,
+ "summary": "《宋高宗书孝经马和之绘图》册之一开，为《孝经·天子章》绘画部分，相传马和之绘图，描绘经义人物场景。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_250.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

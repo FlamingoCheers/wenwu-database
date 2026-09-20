@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001113N000000009"
  },
- "summary": null,
+ "summary": "舊題唐刁光胤《寫生花卉》冊之一，寫水仙倚石、上有積雪，雪中水仙愈見清姿，冷豔高潔，構思別致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_3793.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

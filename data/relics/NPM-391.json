@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000260N000000004"
  },
- "summary": null,
+ "summary": "元鮮于樞臨王獻之《鵝群帖》，收於《元人臨漢晉各帖》冊。鮮于樞行草筆力遒勁，此臨作可見元人師法晉帖的書學風氣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_391.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

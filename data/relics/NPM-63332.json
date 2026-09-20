@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故雜001418N000000000"
  },
- "summary": null,
+ "summary": "瑪瑙雕荷葉式洗，取瑪瑙天然色澤琢磨成荷葉造型，葉面為洗膛，供洗筆盛水之用，下承木座，屬明代巧雕文具。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_63332.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

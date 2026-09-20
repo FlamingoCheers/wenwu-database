@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷006344N000000000"
  },
- "summary": null,
+ "summary": "宋代白瓷印花牡丹花紋盤。盤內模印牡丹花紋，花朵豐美，枝葉舒展，佈局繁密有致。牡丹寓富貴之意，為宋代瓷器常見裝飾題材，此盤紋樣清晰，反映當時白瓷印花工藝的精進。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_31505.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

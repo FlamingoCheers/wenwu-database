@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003459N000000019"
  },
- "summary": null,
+ "summary": "《唐宋元明集绘》册中一开，题宋代马远作山水人物。马远构图善取边角，人称马一角，此帧山取一角、人物点缀其间，笔墨劲爽。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15482.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003136N000000011"
  },
- "summary": null,
+ "summary": "《宋钱选写生图》册中一开，画题“梅雀”。绘梅枝雀鸟，梅雀为传统花鸟题材，清趣盎然。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_6872.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

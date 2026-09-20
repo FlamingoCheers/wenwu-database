@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003476N000000002"
  },
- "summary": null,
+ "summary": "《宋元明人合锦》册上册中一开，旧题唐代杨升作翠岫飞泉。绘青山叠嶂、瀑布奔流之景，设色苍润，与旧传杨升没骨山水一路相类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15116.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

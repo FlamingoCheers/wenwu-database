@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005867N000000000"
  },
- "summary": null,
+ "summary": "玉雕鵝形小品，鵝形豐美寫實，宋人尚自然生趣，花鳥水禽皆可入玉，此件正見其審美意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57008.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

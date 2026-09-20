@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000085N000000025\n more\n \n 贈帖000085N000000026\n 贈帖000085N000000027"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第八册收宋欧阳修《致端明侍读留台执事尺牍》。欧阳修以文章名世，书法神采秀发，此牍行笔从容，摹刻存其风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22642.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

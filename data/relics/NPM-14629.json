@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001289N000000009"
  },
- "summary": null,
+ "summary": "《名绘集珍》册一页，宋李迪《春潮带雨》。以“春潮带雨”为题，写春江水涨、烟雨迷蒙之景，属南宋院体山水小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14629.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

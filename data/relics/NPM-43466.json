@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "贈瓷000436N000000000"
  },
- "summary": null,
+ "summary": "五代青瓷貼花瓜稜式壺，壺身作瓜稜形，飾貼花紋樣，施青釉，造型豐滿勻稱，為五代青瓷壺的精緻樣式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -29,7 +29,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43466.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

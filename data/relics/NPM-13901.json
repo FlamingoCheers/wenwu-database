@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000146N000000000"
  },
- "summary": null,
+ "summary": "《群鱼戏荇》卷，题为刘窠作。绘群鱼游弋于荇藻之间，鱼藻为宋代常见水族题材，笔致生动，颇得水中游动之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13901.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

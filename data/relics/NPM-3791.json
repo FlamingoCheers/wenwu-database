@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001113N000000007"
  },
- "summary": null,
+ "summary": "舊題唐刁光胤《寫生花卉》冊之一，寫綠蕪春嶼、老幹紅英，古木著花、春意蔥蘢，設色麗而不俗。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_3791.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

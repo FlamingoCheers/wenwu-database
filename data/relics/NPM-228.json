@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001118N000000002"
  },
- "summary": null,
+ "summary": "宋叶肖岩《西湖十景图》册之一叶，题《柳浪闻莺》。画柳浪起伏、莺啼其间之湖上春光，与苏堤春晓同列十景，以小幅写杭州湖山胜概。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_228.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

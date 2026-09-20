@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000089N000000030\n more\n \n 贈帖000089N000000031"
  },
- "summary": null,
+ "summary": "摹刻宋苏辙《致定国使君尺牍》。此与同题诸札盖为一时先后所寄，书风一律，沉稳有度，赖刻帖以传。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22537.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

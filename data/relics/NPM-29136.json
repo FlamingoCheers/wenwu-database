@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000117N000000000"
  },
- "summary": null,
+ "summary": "此册为《垂裕阁法帖》第八册之一，收宋代蔡襄草书尺牍刻本。蔡襄位列“宋四家”，尺牍书迹随意自然，最见真性情。墨拓装册，为习草书之范本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29136.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000236N000000002\n more\n \n 故書000236N000000003"
  },
- "summary": null,
+ "summary": "《宋四家真迹》册之一，收苏轼〈次辩才韵诗〉。辩才即杭州高僧元净，苏轼与之为方外之交，此诗步其原韵而成，笔墨畅达。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_981.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

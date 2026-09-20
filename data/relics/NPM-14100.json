@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001430N000000000"
  },
- "summary": null,
+ "summary": "米友仁为米芾之子，承米氏云山家法，以湿笔横点写烟雨迷蒙之景。此卷绘云山缥缈意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14100.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

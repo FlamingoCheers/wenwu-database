@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001239N000000007"
  },
- "summary": null,
+ "summary": "《唐宋元畫集錦》冊之一開，舊題宋張敦禮〈荷亭消夏〉，寫夏日荷塘亭館中納涼消暑的閒適情景，屬庭園人物小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15557.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

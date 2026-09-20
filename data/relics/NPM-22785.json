@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000091N000000020\n more\n \n 贈帖000091N000000021"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第十四册收宋米芾《淡墨秋山诗帖》。诗题淡墨秋山之景，书与诗境相发，行书爽利，米家风调可掬。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22785.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

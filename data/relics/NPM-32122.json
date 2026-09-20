@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014305N000000000"
  },
- "summary": null,
+ "summary": "元代龍泉窯青瓷刻花牡丹紋瓶。瓶體高大，通體施青釉，釉色青翠溫潤，器身刻劃牡丹紋飾，刀法舒展流暢。龍泉窯為著名青瓷窯場，此瓶高大雄偉，可作陳設之用，體現元代龍泉窯的燒造風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_32122.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

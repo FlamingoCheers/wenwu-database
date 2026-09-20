@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000252N000000004"
  },
- "summary": null,
+ "summary": "此頁為〈元趙孟頫鮮于樞墨蹟合冊〉之一開，鮮于樞論張旭、懷素、高閑草書，以草書名家評騭前代草聖，為元代書論重要墨蹟。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_636.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

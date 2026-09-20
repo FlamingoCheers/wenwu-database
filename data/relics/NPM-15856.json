@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003472N000000003"
  },
- "summary": null,
+ "summary": "本幅选自《宋元人真蹟》册，题北宋王诜作，绘秋日山峦景致，层林萧疏，意境清旷，属山水题材册页小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15856.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003480N000000016"
  },
- "summary": null,
+ "summary": "《集古名绘》册一页，五代后蜀黄筌《临江鹭鸶》。绘临江水畔鹭鸶栖立之态，黄筌以精工富艳的花鸟画风著称，写生入妙。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14797.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

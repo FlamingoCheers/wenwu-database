@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000092N000000019\n more\n \n 贈帖000092N000000020"
  },
- "summary": null,
+ "summary": "摹刻宋米芾《王略帖》。王略帖为王羲之法书名迹，米芾平生所宝，此为与之相关之米芾书迹传刻，书法纵逸。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22565.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

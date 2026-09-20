@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷015873N000000000"
  },
- "summary": null,
+ "summary": "南宋青白瓷碗，釉色青白如玉，碗内划花花卉纹，线条舒展流畅。青白瓷烧成后白中闪青，胎体轻薄，纹样在釉下隐现如水印，为宋元时期南方窑场盛行品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_31336.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

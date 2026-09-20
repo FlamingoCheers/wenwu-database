@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001239N000000012"
  },
- "summary": null,
+ "summary": "《唐宋元畫集錦》冊之一開，舊題宋馬世榮〈仙巖猿鹿〉，繪仙山巖壑間猿猴麋鹿棲遊，屬山水結合動物的祥瑞畫題。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15562.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

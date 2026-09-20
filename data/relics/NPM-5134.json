@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001266N000000002"
  },
- "summary": null,
+ "summary": "此幅為《宋元名人花鳥合璧》冊中一開，舊題宋崔白〈竹雀櫻桃〉，畫竹間雀鳥與櫻桃果實，屬宋代花鳥冊頁小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/npm/detail_5134.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000190N000000000"
  },
- "summary": null,
+ "summary": "《御刻墨妙轩法帖》为清代宫廷摹刻之丛帖。此册摹刻唐代孙虔礼（即孙过庭）所书何平叔《景福殿赋》，何平叔即曹魏何晏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_16801.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

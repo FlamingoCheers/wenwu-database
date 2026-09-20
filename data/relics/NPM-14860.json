@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000084N000000000"
  },
- "summary": null,
+ "summary": "宋钱选《秋瓜图》立轴。绘秋日瓜果，属蔬果清供题材，钱选为宋末书画名家，画风精工清雅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14860.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

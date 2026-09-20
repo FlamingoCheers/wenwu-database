@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001249N000000007"
  },
- "summary": null,
+ "summary": "《宋人集绘》册之一开，题宋代马远《高士独坐》，绘高士独坐山间的幽闲情致，属山水人物题材小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/npm/detail_14482.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

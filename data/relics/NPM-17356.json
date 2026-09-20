@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000051N000000000"
  },
- "summary": null,
+ "summary": "此册为北宋《绛帖》第十册拓本之一，刊唐代僧人怀素《右军帖》。帖名与王右军相关，草法娴熟，使转如环，是怀素草书经《绛帖》流传的一例。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_17356.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

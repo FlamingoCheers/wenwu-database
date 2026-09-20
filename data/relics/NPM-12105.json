@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003587N000000025"
  },
- "summary": null,
+ "summary": "《天下名山图》册之一开，题北宋王诜《华林园图》。华林园为历史名园，此开绘园囿景致，属名山图集册中的庭园山水小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/npm/detail_12105.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

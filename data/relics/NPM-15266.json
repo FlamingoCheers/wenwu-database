@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001258N000000009"
  },
- "summary": null,
+ "summary": "《集古图绘》册中一开，题宋代宋迪画牡丹。宋迪以平远山水见长，花卉之作传世罕见，此帧旧题托名，写牡丹一枝，设色秾丽。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15266.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

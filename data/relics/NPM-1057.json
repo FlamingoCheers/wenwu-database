@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000240N000000015"
  },
- "summary": null,
+ "summary": "《宋贤书翰》册中一开，为扬无咎尺牍。扬无咎为南宋初文人，以墨梅名世，亦善书。此札为书信墨迹，笔法清劲，可见其文人书风之一斑。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_1057.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

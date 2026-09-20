@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000090N000000045\n more\n \n 贈帖000090N000000046"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第十三册收宋黄庭坚尺牍一通。山谷尺牍随意挥运而愈见天真，行书之妙具在，摹刻传之，以供研赏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22762.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

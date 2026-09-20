@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003587N000000020"
  },
- "summary": null,
+ "summary": "《天下名山图》册之一开，题北宋范宽《霍童仙界图》。霍童山为道教名胜，此开绘仙山意境，属集册中的名山题材山水小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/npm/detail_12100.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000094N000000010\n more\n \n 贈帖000094N000000011"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第十七册收宋史浩劄子。劄子属臣下奏事之体，史浩为南宋重臣，此迹行笔整秀，摹刻以传。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22806.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000015N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第九册，收元代王蒙《姑苏钱塘怀古六诗并序》刻本。王蒙为元末四大家之一，以山水画名世，亦工诗文书法。此帖诗书合璧，墨拓装册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29652.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

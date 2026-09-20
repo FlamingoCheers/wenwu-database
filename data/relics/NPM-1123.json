@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000243N000000018"
  },
- "summary": null,
+ "summary": "《宋人法书》（一）册中一开，为钱公辅致公默秘校尺牍。钱公辅为北宋文人。“秘校”为秘书省属官之称，上款可见宋人以官职称谓的习俗，笔致清雅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1123.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016697N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷碟，碟心以单枝莲花入画，刀法轻灵。定窑以白瓷著称于世，此类莲纹小碟传世较多，造型与纹饰俱见宋人简约自然的审美取向。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29964.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

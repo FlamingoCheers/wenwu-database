@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001117N000000007"
  },
- "summary": null,
+ "summary": "舊題宋馬麟《畫花卉》冊之一「秋塘曉艷」，繪秋塘曉色中花枝猶艷，秋意與生機並存，構圖清疏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_3819.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

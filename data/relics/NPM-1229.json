@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000043N000000000"
  },
- "summary": null,
+ "summary": "宋代燕文贵《溪山楼观》轴。燕文贵创燕家景致，以精工楼观点缀溪山著称，此轴山峦重叠、殿阁精细，景致繁富而意趣盎然。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1229.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

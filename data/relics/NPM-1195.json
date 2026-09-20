@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000826N000000000"
  },
- "summary": null,
+ "summary": "宋代范宽《谿山行旅图》轴。北宋山水里程碑式名迹：主峰占据画面大半，雨点皴凝重浑厚，山头杂木蓊郁，山下行旅如豆，益显造化之壮伟。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1195.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

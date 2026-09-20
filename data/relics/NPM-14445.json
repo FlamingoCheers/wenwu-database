@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000027N000000000"
  },
- "summary": null,
+ "summary": "题五代后蜀黄筌《长春竹雀》轴，绘翠竹间雀鸟栖集的景致，属花鸟立轴。黄筌花鸟以精细富丽著称。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14445.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

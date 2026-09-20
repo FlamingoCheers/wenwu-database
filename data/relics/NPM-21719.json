@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000174N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十七册所收南宋朱熹《致彦脩少府尺牍》刻本。朱子为理学宗师，书不刻意求工而自见风骨，此牍行书洒脱自然。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21719.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

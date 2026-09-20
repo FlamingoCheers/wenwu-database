@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅001780N000000000"
  },
- "summary": "圓鏡，橋鈕。鏡背紋飾幾為銅鏽所掩。",
+ "summary": "唐代铜铸圆镜，桥形钮，镜背饰四瓣花纹，纹饰几为铜锈所掩。四瓣花纹为唐代铜镜常见装饰题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_7105.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

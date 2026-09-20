@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000091N000000027\n more\n \n 贈帖000091N000000028"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第十四册收宋米芾《盛制帖》。'盛制'为称人制作之美语，帖为酬应书问，行书英迈，刻帖存其形神。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22791.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000005N000000013"
  },
- "summary": null,
+ "summary": "明拓《宝贤堂集古法帖》第五册，收唐褚遂良《山河帖》。丛帖辑刻历代名家书迹以广流传，此帖为褚遂良尺牍刻本，行笔清劲，可见初唐书家的法度与风神。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_30685.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

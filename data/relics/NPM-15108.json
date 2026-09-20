@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003469N000000005"
  },
- "summary": null,
+ "summary": "《宋元名迹》册中一开，题五代南唐徐熙作花鸟。徐熙善写汀花野竹、水鸟渊鱼，画风野逸。此帧花鸟相映，笔墨质朴，具写生意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15108.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

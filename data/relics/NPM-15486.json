@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003459N000000023"
  },
- "summary": null,
+ "summary": "《唐宋元明集绘》册中一开，题元代高克恭作山水。高克恭融合米氏云山与董巨遗法，此帧云烟出没，墨气淋漓，苍润有致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15486.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

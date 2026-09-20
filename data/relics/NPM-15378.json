@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003473N000000010"
  },
- "summary": null,
+ "summary": "《宋元明集绘》册中一开，题元代王蒙作松溪清逸。绘松溪两岸山色清幽，皴法繁密苍润，具文人隐逸意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15378.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

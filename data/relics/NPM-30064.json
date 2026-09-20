@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷000001N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷洗，敞口浅腹，造型简洁，胎白釉润。洗为文房或盥洗用具，此器素面无纹，以釉色与造型取胜，体现宋瓷崇尚简雅的趣味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_30064.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷005901N000000000"
  },
- "summary": null,
+ "summary": "宋定窯白瓷印花番蓮紋盤。盤形寬大規整，通體施牙白釉，盤內模印番蓮紋飾，枝蔓纏繞，佈局繁密有序。定窯印花工藝以模具壓印成形，紋樣精細，此盤為白瓷盤類的精工之品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35166.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

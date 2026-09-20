@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000049N000000000"
  },
- "summary": null,
+ "summary": "宋代赵昌《岁朝图》轴。赵昌为北宋写生花鸟名家，自号写生赵昌，此轴绘瓶插花卉群芳竞艳，取岁朝清供吉祥之意，设色浓丽繁盛。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1227.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

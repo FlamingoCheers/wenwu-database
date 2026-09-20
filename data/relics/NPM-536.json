@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000317N000000000"
  },
- "summary": null,
+ "summary": "此軸為元代陸廣〈五瑞圖〉，「五瑞」泛指祥瑞的草木靈物，寓祈福納祥之意，屬吉祥題材立軸畫作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_536.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

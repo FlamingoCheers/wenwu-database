@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010168N000000000"
  },
- "summary": null,
+ "summary": "宋定窯白瓷盤，盤心劃蓮花紋，運刀如筆、線條輕快。胎質細膩，釉面勻潤，是宋人日常宴飲所用的白瓷食盤。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_37427.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

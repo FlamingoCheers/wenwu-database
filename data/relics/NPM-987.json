@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000236N000000013"
  },
- "summary": null,
+ "summary": "《宋四家真迹》册之一，收米芾论书文字。米芾精于鉴赏、崇尚真趣，于古人书法多所评骘，此页论书之语，可见其书学见解。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_987.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

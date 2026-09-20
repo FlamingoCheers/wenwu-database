@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷012783N000000000"
  },
- "summary": null,
+ "summary": "元代彭窯白瓷劃花花卉紋杯。杯作小巧敞口之形，通體施白釉，飾劃花花卉紋，線條簡練瀟灑。彭窯為元代白瓷窯場，此杯實用與雅致兼具，可見當時日用白瓷的清麗風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_32970.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

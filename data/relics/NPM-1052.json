@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000240N000000011"
  },
- "summary": null,
+ "summary": "《宋贤书翰》册中一开，为汪藻致嘉谟通判朝奉尺牍。汪藻为南宋初文学家。此札为通问书信，笔致清雅安和，兼具书法艺术与文献史料价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1052.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001123N000000003"
  },
- "summary": null,
+ "summary": "明徐賁《獅子林圖》冊之一「吐月峰」，寫峰石如吐月之狀，取象巧妙，墨色清淡，富文人畫想像意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_3824.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

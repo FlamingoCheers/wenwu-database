@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉001282N000000001"
  },
- "summary": null,
+ "summary": "元代玉雕单把杯，一侧设柄，形制小巧，整玉琢成，可作饮器之用，玉质温润。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_71825.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

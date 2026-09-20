@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000251N000000002"
  },
- "summary": null,
+ "summary": "《宋元四家书》册中一开，为范成大书尺牍。石湖此札为与友人通问之作，笔致安和雅正，不以奇取胜而自有书卷清气，是南宋文人书风的代表实例。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1090.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

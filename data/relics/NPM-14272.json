@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫002961N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋郭熙《滕王阁》，绘滕王阁胜景。滕王阁为江南名楼，因王勃序文名世，此轴以山水笔墨写楼阁形胜。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14272.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

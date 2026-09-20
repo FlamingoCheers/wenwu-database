@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001246N000000003"
  },
- "summary": null,
+ "summary": "此幅為《宋元集繪》冊中一開，舊題五代黃筌〈嘉穗珍禽〉，畫稻穗低垂、珍禽棲止，取嘉禾呈祥之意，屬傳統花鳥題材冊頁小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_467.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

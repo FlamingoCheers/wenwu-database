@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000258N000000006"
  },
- "summary": null,
+ "summary": "《元人詩翰》冊之一開，為元代鮮于樞所書七言絕句二首。鮮于樞為元代書法名家，擅行草，筆力遒健。此幅以行草書寫詩句，墨氣酣暢，兼具詩文與法書的鑑賞價值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_337.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

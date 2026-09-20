@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001454N000000000"
  },
- "summary": null,
+ "summary": "此卷舊題宋朱銳〈春社醉歸圖〉，畫春社日後鄉人醉歸情景。春社為古代春季祭祀土地神的節令，此卷屬風俗人物山水長卷。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_531.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

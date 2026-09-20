@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000089N000000028"
  },
- "summary": null,
+ "summary": "摹刻宋苏轼书尺牍之一。风神洒落，笔致天成，刻入《三希堂法帖》第十二册，为东坡尺牍传刻之例。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_22524.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

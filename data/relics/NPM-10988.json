@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003501N000000008"
  },
- "summary": null,
+ "summary": "《诸仙妙绘》册中一开，为贾师古画雀。贾师古为南宋画院画家，师法李公麟。此帧写雀鸟情态，笔墨简练传神，品名“爪畦雀”含义待考。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_10988.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

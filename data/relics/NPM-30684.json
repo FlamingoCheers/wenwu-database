@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000005N000000012\n more\n \n 購帖000005N000000013"
  },
- "summary": null,
+ "summary": "明拓《宝贤堂集古法帖》第五册，收唐褚遂良《潭府帖》。褚遂良为初唐楷书大家，笔致遒媚劲健。宝贤堂法帖为明代辑刻历代法书的丛帖，此页摹刻褚书尺牍，可资研习唐人书法。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_30684.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

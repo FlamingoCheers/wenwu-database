@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000136N000000000"
  },
- "summary": null,
+ "summary": "傳五代南唐周文矩〈仕女圖〉軸。畫以仕女為題，寫婦人姿態，周文矩善畫人物仕女，筆法細勁，設色濃麗。此軸屬傳世人物畫傳統，可見五代南唐人物畫的風格意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_34281.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

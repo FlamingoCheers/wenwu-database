@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000662N000000000"
  },
- "summary": null,
+ "summary": "传唐代周昉《调婴图》卷。周昉以仕女婴孩题材著称，此卷描绘妇人调弄婴孩的日常情态，设色古雅，展现唐代人物画风韵。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_28262.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000015N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第九册，收元代鲜于枢《与澄虚真人书》。鲜于枢为元代书法名家，擅行草，笔法遒劲，与赵孟頫齐名。此帖为致道士的书信刻本，墨拓装册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29638.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

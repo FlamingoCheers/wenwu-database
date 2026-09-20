@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001247N000000006"
  },
- "summary": null,
+ "summary": "《煙雲集繪》第三冊之一开，题宋代李唐《山径休犍》，绘山径间牛只歇息、行人暂驻之景，属山水人物题材小品。李唐为宋代山水画大家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_14371.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

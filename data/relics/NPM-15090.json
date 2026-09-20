@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003459N000000002"
  },
- "summary": null,
+ "summary": "《唐宋元明集绘》册中一开，旧题唐代王维画雪景。绘雪岭寒林，笔意简淡清远，与画史所传王维水墨渲淡一格相合，属托名旧题之迹。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15090.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

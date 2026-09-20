@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003478N000000010"
  },
- "summary": null,
+ "summary": "《宋元明人合璧》册中一开，为宋徽宗《茶花绶鸟》。徽宗赵佶精于花鸟。图写山茶绶鸟，勾线细劲，设色典丽，体现宣和画院精工雅致的院体风范。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_10912.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

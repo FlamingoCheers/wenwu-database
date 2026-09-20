@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000017N000000000"
  },
- "summary": null,
+ "summary": "清乾隆御刻《三希堂法帖》第十七册所收宋赵令畤《致仲仪兵曹尺牍》拓本。行书萧散冲和，承晋唐帖学一脉，为宋宗室书迹的代表。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21779.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

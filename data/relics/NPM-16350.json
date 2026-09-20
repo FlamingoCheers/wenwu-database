@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000161N000000000"
  },
- "summary": null,
+ "summary": "本幅为《三希堂法帖》册第四卷之一开，摹刻唐孙过庭《書譜》。《书谱》为草书理论与书迹名著，此属清代敕刻丛帖拓本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_16350.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

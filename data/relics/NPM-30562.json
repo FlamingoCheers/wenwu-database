@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016826N000000000"
  },
- "summary": null,
+ "summary": "宋代白瓷印花螭纹杯，器形小巧规整，螭纹以印模压成，线条流利。螭纹源自古代玉器、铜器传统，移饰于瓷杯，增添古意，白釉匀净，工艺精良。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_30562.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

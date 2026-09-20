@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000069N000000000"
  },
- "summary": null,
+ "summary": "北宋黃庭堅自書〈松風閣〉詩卷，行書筆力沉雄，長撇大捺，結體奇崛，為其傳世行書代表名蹟。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

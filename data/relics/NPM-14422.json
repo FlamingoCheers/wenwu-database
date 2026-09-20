@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001234N000000001"
  },
- "summary": null,
+ "summary": "《唐宋名绘》册之一开，题五代后梁关仝《两峰插云》，绘双峰耸峙直入云霄之景，属山水题材小品。关仝为五代北方山水画派名家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14422.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

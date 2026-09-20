@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "贈銅000041N000000000"
  },
- "summary": null,
+ "summary": "宋代麻江型铜鼓。麻江型为铜鼓标准器型之一，鼓身分胸、腰、足三段，流行于西南地区，为少数民族传统重器，兼具乐器与权力象征意义。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_9334.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

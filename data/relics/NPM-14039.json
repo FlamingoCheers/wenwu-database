@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001252N000000001"
  },
- "summary": null,
+ "summary": "吴炳为南宋画院花鸟画家，善写生折枝。此页绘秋叶与栖息山禽，为典型的宋人花鸟小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_14039.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

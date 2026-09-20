@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003481N000000012"
  },
- "summary": null,
+ "summary": "《集古名绘》册一页，宋马远《探梅觅句》。写文人寻探梅花、吟咏觅句的雅趣，属南宋院体人物山水小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14682.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000163N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第六册所收宋太宗书《敕蔡行》刻本，为颁赐臣僚蔡行的敕书。太宗雅好翰墨，草法连绵飞动，具帝王书风的宏肆气象。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21724.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

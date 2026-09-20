@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000010N000000000"
  },
- "summary": null,
+ "summary": "此为《三希堂法帖》第十册所收宋苏轼《与久上人札》刻帖。上人为僧人之敬称，此札为苏轼致僧友之信函，书风丰腴跌宕，得苏字神髓。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22055.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

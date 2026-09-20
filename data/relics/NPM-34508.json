@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購書000944N000000000"
  },
- "summary": null,
+ "summary": "民國張人傑書〈蘭亭〉卷。蘭亭序為東晉王羲之傳世名篇，歷代書家競相書寫。此卷以行書書寫蘭亭文意，作成手卷，筆墨間追摹晉人風韻，兼具文學與書法的欣賞價值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_34508.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

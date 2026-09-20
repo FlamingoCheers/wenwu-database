@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001240N000000001"
  },
- "summary": null,
+ "summary": "《藝苑藏真》冊（上）之一開，傳為宋徽宗所繪〈栗蓬秋綻〉。畫以栗蓬為題，寫秋日果實綻露之景，屬宋代寫生花果小品一路，設色細膩入微，體現宮廷院畫精緻寫實的傳統。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_316.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000167N000000000"
  },
- "summary": null,
+ "summary": "此为《三希堂法帖》第十册所收宋苏轼答钱穆父诗刻帖。钱穆父即钱勰，与苏轼同朝唱和，此篇答诗情辞恳至，书法亦雄厚跌宕。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22248.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

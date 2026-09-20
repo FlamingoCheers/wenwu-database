@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000664N000000000"
  },
- "summary": null,
+ "summary": "宋马远《松溪清眺图》轴。马远为南宋院体山水大家，善作边角之景。此轴绘松下溪畔远眺之境，构图简远，笔墨清劲。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_28264.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

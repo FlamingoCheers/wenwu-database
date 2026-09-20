@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000042N000000000"
  },
- "summary": null,
+ "summary": "《长堤归牧》轴，题为祁序作。绘长堤之上牧牛归来的景致，牛群人物点缀堤岸，祁序以画牛知名，此轴属宋代牧牛题材山水。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13944.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

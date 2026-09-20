@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000094N000000026\n more\n \n 贈帖000094N000000027\n 贈帖000094N000000028"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十七册收宋张即之所书诗篇。其书笔力雄劲、结构开张，诗迹摹刻上石，略存樗寮书风之概。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22818.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

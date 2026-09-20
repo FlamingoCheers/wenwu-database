@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001246N000000002"
  },
- "summary": null,
+ "summary": "此幅為《宋元集繪》冊中一開，舊題宋趙令穰〈橙黃橘綠〉，畫名取蘇軾「最是橙黃橘綠時」詩意，描繪秋末柑橘成熟、橙黃橘綠的江南小景，屬冊頁山水小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_466.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

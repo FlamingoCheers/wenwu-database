@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000093N000000016\n more\n \n 贈帖000093N000000017\n 贈帖000093N000000018"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十六册之一，收录北宋蔡卞致四兄相公尺牍，为致兄辈书札，见宋人笔札体式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22852.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

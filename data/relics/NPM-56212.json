@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004934N000000000"
  },
- "summary": null,
+ "summary": "元代玉雕凌霄花與蝴蝶，花葉舒展，蝶舞其間，生意盎然。花蝶組合是宋元玉器常見題材，寓意美好歡悅，可為佩飾小件。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_56212.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

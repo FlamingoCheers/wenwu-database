@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000089N000000028\n more\n \n 贈帖000089N000000029"
  },
- "summary": null,
+ "summary": "摹刻宋苏辙《致定国承议使君尺牍》。承议郎、使君皆为官称敬称，苏辙为苏轼之弟，此札书致定国，笔致沉稳敦厚。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22531.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

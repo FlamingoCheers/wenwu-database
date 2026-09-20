@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "贈銅000255N000000000"
  },
- "summary": null,
+ "summary": "青铜铸菩萨立像，菩萨立姿，法相慈和，铸造规整，年代不详，属佛教造像之属。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -41,5 +41,6 @@
  "raw_ref": "raw/npm/detail_24652.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

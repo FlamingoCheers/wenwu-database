@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001291N000000001"
  },
- "summary": null,
+ "summary": "此页出自《名画集真》册，题“宋高宗蓬窗睡起”，写舟居晓起、凭窗观景的闲适情景，题名与宋高宗相关，属宋代书画小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14647.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005841N000000000"
  },
- "summary": null,
+ "summary": "玉劍璏，為古代劍具之一，嵌貼劍鞘以供穿帶繫劍。此器作長條形，面琢乳丁紋，仿漢代玉劍具風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_56982.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001245N000000007"
  },
- "summary": null,
+ "summary": "宋人合璧畫冊中一開，傳李嵩〈松風高臥〉，畫松風中人高臥閒適之態，筆致細密，見宋人小景之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_441.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

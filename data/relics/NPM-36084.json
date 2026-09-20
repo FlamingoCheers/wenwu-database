@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷011174N000000000"
  },
- "summary": null,
+ "summary": "元代月白青瓷魚耳爐，直口，鼓腹，頸部對飾魚形雙耳，下承圈足。通體施月白釉，釉色淡雅溫潤，如月色清輝。爐為焚香器具，造型古樸端莊，屬青瓷香爐雅器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36084.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

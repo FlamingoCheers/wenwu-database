@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003487N000000001"
  },
- "summary": null,
+ "summary": "本幅选自《名繪輯珍》册，题北宋郭熙作，绘烟雨迷蒙中江上帆影，境界空阔迷蒙，属山水题材册页小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15888.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈拓000344N000000000"
  },
- "summary": null,
+ "summary": "唐代李邕书《岳麓寺碑》康熙拓本，装裱成册。此碑又称《麓山寺碑》，立于长沙岳麓山，为李邕行书代表作，笔势雄健纵逸。康熙拓本保存较好，可资书法研究与考订。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_30835.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

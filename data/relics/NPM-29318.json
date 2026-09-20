@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010717N000000000"
  },
- "summary": null,
+ "summary": "宋代青瓷双耳罐，肩部对称置双耳，釉色青翠温润，造型浑圆古朴。罐为日常储物容器，是宋代青瓷日用器的常见样式，展现宋瓷含蓄典雅之美。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29318.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

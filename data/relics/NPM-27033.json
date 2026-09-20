@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000037N000000000"
  },
- "summary": null,
+ "summary": "《墨妙軒法帖》第一冊所收，唐褚遂良臨王獻之《字學表》摹刻本。初唐大家臨寫晉人名蹟，可見唐人崇晉書學之風。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27033.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

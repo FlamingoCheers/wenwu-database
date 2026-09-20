@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003462N000000009"
  },
- "summary": null,
+ "summary": "《宋人绘珍片玉》册中一开，为李迪《寒梅山雀》。李迪为南宋院体花鸟名家。图写寒梅初绽、山雀栖枝，笔墨精微，设色清雅，小帧而意境完足。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_10859.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

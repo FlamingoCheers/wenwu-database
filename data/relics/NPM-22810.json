@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000091N000000037\n more\n \n 贈帖000091N000000038"
  },
- "summary": null,
+ "summary": "《清和帖》为宋米芾尺牍名迹，清乾隆间收入《三希堂法帖》第十四册摹刻。行书温润遒媚，不激不厉，是米书中平和一路。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22810.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

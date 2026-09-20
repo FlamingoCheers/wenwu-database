@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001117N000000000"
  },
- "summary": null,
+ "summary": "马麟为南宋画院画家马远之子，承家学而工花鸟山水。此册分绘各种花卉，笔墨精丽。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14020.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

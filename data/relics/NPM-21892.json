@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000172N000000000"
  },
- "summary": null,
+ "summary": "此为宋米芾书帖刻本，见《三希堂法帖》第十五册，帖名中有异体部件字。帖为米氏尺牍，行书欹纵多姿，具其典型笔意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21892.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

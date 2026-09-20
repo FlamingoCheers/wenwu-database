@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003485N000000003"
  },
- "summary": null,
+ "summary": "本幅选自《集珍壽古》册，题南宋马和之作，绘山径间樵夫行歌之景，人物萧疏有致，属山水人物题材册页。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15937.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

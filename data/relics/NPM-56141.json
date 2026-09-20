@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004849N000000000"
  },
- "summary": null,
+ "summary": "明代玉魚小件，魚形自然生動。魚諧音「餘」，寓年年有餘，明代吉祥玉雕盛行，此件可佩可玩，生趣盎然。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_56141.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

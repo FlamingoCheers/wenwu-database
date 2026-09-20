@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003137N000000007"
  },
- "summary": null,
+ "summary": "《宋钱选写生图》册中一开，画题“花草蝴蝶”。绘花草与蝴蝶，设色清雅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_6881.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000094N000000013\n more\n \n 贈帖000094N000000014\n 贈帖000094N000000015"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第十七册收宋范成大《致先之司门尺牍》。司门为官称，此属友朋书问，行书萧散有致，刻拓存其韵致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22808.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

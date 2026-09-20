@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000246N000000013"
  },
- "summary": null,
+ "summary": "《宋人法书》第四册中一开，为杨万里呈达孝宫使判府中大札子。杨万里为南宋诗人，书法清劲，此札笔意诚朴，行气自然。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15532.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

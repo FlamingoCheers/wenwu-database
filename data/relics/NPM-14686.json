@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003492N000000004"
  },
- "summary": null,
+ "summary": "《艺苑胪珍》册一页，宋李迪《竹溪雨棹》。写雨中竹溪泛舟之景，李迪为南宋院体画家，善写山水花鸟，画风精谨。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14686.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

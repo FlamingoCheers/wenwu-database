@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000016N000000000"
  },
- "summary": null,
+ "summary": "米友仁为米芾长子，世称小米，承其父家学，书画并工。此为清乾隆敕刻《三希堂法帖》第十六册所收其尺牍刻本，行书有乃父风而更秀润。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21843.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000173N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十六冊之一，摹刻宋代葉夢得致季高貢元親契尺牘。葉夢得為兩宋之際名臣文士，帖屬親友問候書翰，刻拓成冊以傳。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21440.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000115N000000000"
  },
- "summary": null,
+ "summary": "明《垂裕阁法帖》第六册之一，收唐代徐浩《宝林寺诗帖》。徐浩为唐代著名书家，楷书丰腴雄浑，在当时与颜真卿齐名。此为刻帖墨拓装册本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29386.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

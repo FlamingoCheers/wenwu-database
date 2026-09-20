@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000237N000000006"
  },
- "summary": null,
+ "summary": "《宋四家集册》之一，收蔡襄书尺牘。蔡襄字君谟，书法端庄沉着，最得晋唐法度，此札温婉从容、行气疏朗，见宋人尺素之雅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_965.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

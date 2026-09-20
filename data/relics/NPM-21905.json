@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000172N000000000"
  },
- "summary": null,
+ "summary": "此为宋米芾《与通判帖》刻本，见《三希堂法帖》第十五册，系致州郡通判之书札，叙常事问候，行书笔势洒脱，字态欹侧生姿。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21905.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000240N000000018\n more\n \n 故書000240N000000019"
  },
- "summary": null,
+ "summary": "《宋贤书翰》册中一开，为陆游劄子。劄子为奏事或致书所用文书形式。放翁此件笔札精整而富韵致，是研究陆游书法与宋代公文尺牍形制的实物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1061.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

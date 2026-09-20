@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷005132N000000000"
  },
- "summary": null,
+ "summary": "宋白瓷盞托，上承茶盞、下出託盤，托面劃飾回紋一周。胎白釉勻，造型規整穩妥，為宋人點茶飲宴時配套使用的承托用具。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36747.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷013215N000000000"
  },
- "summary": null,
+ "summary": "宋仿官釉八角杯，八稜形杯身，線角挺直，器壁弧曲有致。釉面青潤，隱現開片，造型端莊大方，體現仿官窯瓷器對官窯釉色與造型的追摹。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35404.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000048N000000000"
  },
- "summary": null,
+ "summary": "《大觀帖》為北宋大觀年間內府摹刻之歷代法書叢帖，卷四輯唐人書蹟。此冊收唐褚遂良《潭府帖》，登善書法遒媚勁健，為初唐書壇大家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_26947.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

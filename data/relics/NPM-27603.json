@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000035N000000008\n more\n \n 贈帖000035N000000009"
  },
- "summary": null,
+ "summary": "《晋唐各种小楷帖》册之一，收唐代颜真卿《麻姑山仙坛记》。此记为颜真卿楷书名迹，笔意古雅浑厚，历来为习小楷者所重，此册为刻帖拓本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27603.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

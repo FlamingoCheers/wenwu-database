@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000239N000000015"
  },
- "summary": null,
+ "summary": "《宋诸名家墨宝》册中一开，为蔡京书尺牍。蔡京为北宋末权相，书法姿媚豪健，自成一家。此札为书信墨迹，笔法精熟圆转，是研究其书风的重要材料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1032.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

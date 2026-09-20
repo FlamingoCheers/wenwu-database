@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000952N000000006"
  },
- "summary": null,
+ "summary": "《宋曹氏遺譜》冊之一開，為宋代趙抃所題像贊。趙抃為北宋名臣，此像贊題於曹氏族譜，頌揚譜中先賢德行，兼具譜牒文獻與題贊書法的價值，反映宋人重視族譜的傳統。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_34972.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

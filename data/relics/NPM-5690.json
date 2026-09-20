@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅001737N000000000"
  },
- "summary": null,
+ "summary": "宋代鎏金獸面紋鼎，圓鼎雙耳三足，腹飾獸面紋並施鎏金。宋廷復古，仿商周彝器蔚為風尚，此鼎形制莊嚴，可見宋人摹古銅器之功。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_5690.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

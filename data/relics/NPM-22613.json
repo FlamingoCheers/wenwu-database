@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000080N000000015\n more\n \n 贈帖000080N000000016\n 贈帖000080N000000017\n 贈帖000080N000000018\n 贈帖000080N000000019\n 贈帖000080N000000020"
  },
- "summary": null,
+ "summary": "摹刻唐褚遂良临《兰亭诗序》。兰亭序为东晋王羲之禊饮雅集之名篇，褚遂良临摹传其笔意，此为上石之本，绰约多姿，下真迹一等。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22613.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

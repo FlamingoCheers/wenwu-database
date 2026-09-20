@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷017193N000000000"
  },
- "summary": null,
+ "summary": "鈞窯鼓式洗，器形仿鼓，通體施月白釉，釉色乳濁溫潤，造形渾厚端整，為宋代鈞窯文房洗類的典型樣式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_40664.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000243N000000009"
  },
- "summary": null,
+ "summary": "《宋人法书》（一）册中一开，为沈遘书尺牍。沈遘为北宋文人。此札为书信墨迹，书写自然流畅，是考察北宋士人书风与书仪格式的实例之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1111.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

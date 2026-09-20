@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010137N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷斗笠碗，斜壁敞口，器内印缠枝牡丹纹，枝叶相缠、富丽堂皇。定窑印花工艺精熟，纹样与牙白釉色相映，雅致宜人。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29428.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

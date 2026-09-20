@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷012965N000000000"
  },
- "summary": null,
+ "summary": "宋定窯白瓷盤，盤內劃飾蓮塘鴛鴦紋，刀法流暢，鴛鴦遊憩蓮間，寓意和美。胎白釉潤，為定窯劃花裝飾的常見題材食器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36698.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

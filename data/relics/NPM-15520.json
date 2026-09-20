@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000246N000000001"
  },
- "summary": null,
+ "summary": "《宋人法书》第四册中一开，为翟汝文致宣抚观文仆射相公尺牍。翟汝文为宋代文臣，此牍行书端谨，笔画遒润，具宋人书札体式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15520.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅000275N000000000"
  },
- "summary": "圓鏡，圓鈕。鏡背有銘四字。",
+ "summary": "五代“天汉纪新”铜镜，圆形，圆钮，镜背铸“天汉纪新”四字铭文。纪年明确，兼具铭刻史料价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_7080.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

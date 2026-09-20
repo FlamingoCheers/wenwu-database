@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000058N000000000"
  },
- "summary": null,
+ "summary": "《經訓堂法帖》第四冊所收，宋蘇軾《送安國教授》詩摹刻本，為贈別之作，詩書並美，可見東坡行書豐腴之態。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27507.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷004113N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷盘，盘内以模印技法饰花卉纹，构图繁密。定窑为宋代五大名窑之一，以白瓷著称，印花装饰为其盛期典型工艺，胎白釉润，纹样清晰。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29859.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

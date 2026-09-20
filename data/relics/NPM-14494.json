@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001250N000000004"
  },
- "summary": null,
+ "summary": "《宋人集绘》册之一开，题宋代马远《松壑观泉》，绘松壑之间高士临流观泉的景致，属山水人物题材小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_14494.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

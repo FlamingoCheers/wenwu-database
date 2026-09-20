@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001246N000000020"
  },
- "summary": null,
+ "summary": "此幅為《宋元集繪》冊中一開，舊題宋馬逵〈春叢文蝶〉，畫春花叢中彩蝶翩飛，生機盎然，屬宋人花鳥草蟲冊頁小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_492.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

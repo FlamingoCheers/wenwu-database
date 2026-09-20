@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000086N000000025\n more\n \n 贈帖000086N000000026\n 贈帖000086N000000027"
  },
- "summary": null,
+ "summary": "摹刻宋司马光《致太师尺牍》。司马光以资治通鉴名世，此札书致官居太师之尊长，字迹朴厚端严，如见其人。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22477.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

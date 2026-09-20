@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000246N000000005"
  },
- "summary": null,
+ "summary": "《宋人法书》第四册中一开，为朱熹呈提举中大契丈札子。朱熹书法古雅朴拙，此札行笔从容，点画厚重，兼具文献与书迹价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15524.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

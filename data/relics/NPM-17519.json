@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001501N000000000"
  },
- "summary": null,
+ "summary": "此卷为《万国朝宗图》第十幅，题苏汉臣画、赵孟頫书。作为系列末幅，图绘使臣朝贡之状与诸幅呼应，人物情态端庄，构成完整的职贡图卷。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17519.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

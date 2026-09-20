@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005935N000000000"
  },
- "summary": null,
+ "summary": "玉環，周身琢絞絲紋，如繩索盤繞，環可供繫佩，絞絲工藝講究勻稱流轉，為明代常見仿古玉作技法。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57076.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

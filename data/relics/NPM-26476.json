@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000004N000000000"
  },
- "summary": null,
+ "summary": "《快雪堂帖》第四册之一开，收宋薛绍彭与伯充太尉书摹刻，薛绍彭与米芾齐名，书风冲和而典雅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_26476.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

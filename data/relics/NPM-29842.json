@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000013N000000000"
  },
- "summary": null,
+ "summary": "明代《停云馆法帖》第七册，收宋张即之《祚薄帖》。张即之为南宋书家，以大字楷书著称。停云馆法帖由文徵明父子辑刻，摹勒精善，此帖可见张即之尺牍书法的面貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29842.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

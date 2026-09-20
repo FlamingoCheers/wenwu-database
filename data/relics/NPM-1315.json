@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001536N000000000"
  },
- "summary": null,
+ "summary": "元代王蒙《长江万里图》卷。以长卷铺陈长江沿江山川城郭，烟波浩渺、景物绵延，将万里江势纳于尺素之间，气象宏阔。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1315.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001267N000000005"
  },
- "summary": null,
+ "summary": "《宋元人畫冊》之一開，傳宋易元吉《魚藻圖》。易元吉以寫生動物著稱，此開繪魚群游弋藻間，鱗尾靈動，水藻飄拂，為宋人水族小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/npm/detail_18386.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

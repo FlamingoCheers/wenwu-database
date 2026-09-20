@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001241N000000008"
  },
- "summary": null,
+ "summary": "《藝苑藏真》下冊之一，傳為宋代牟益所繪〈茸坡促織〉，畫茸茸草坡間蟋蟀活動之景，筆致細膩，草蟲生意盎然，屬宋代流行的草蟲題材冊頁小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_352.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

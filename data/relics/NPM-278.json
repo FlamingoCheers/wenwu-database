@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001224N000000011"
  },
- "summary": null,
+ "summary": "《宋高宗书孝经马和之绘图》册之一，此开为「广至德章」经文书法。传为宋高宗所书，笔墨圆润醇雅，与马和之绘图合璧，图文明晰《孝经》义旨。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_278.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

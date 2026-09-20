@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014306N000000000"
  },
- "summary": null,
+ "summary": "宋宿州窯白瓷獸面銜環瓶。瓶體高挺，飾獸面銜環紋樣，取法古銅器裝飾意趣，通體施白釉。宿州窯為北方白瓷窯場，此瓶造型莊重，兼具陳設性質，反映宋代白瓷的仿古風尚。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_32123.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

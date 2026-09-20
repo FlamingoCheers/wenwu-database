@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000078N000000000"
  },
- "summary": null,
+ "summary": "宋代赵伯驹《画海神听讲图》轴。取海神听讲之灵异故事入画，宫阙、海涛与人物相映，属神怪人物题材，画法精工富丽。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1331.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

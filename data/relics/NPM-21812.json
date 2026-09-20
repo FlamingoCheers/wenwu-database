@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000184N000000000"
  },
- "summary": null,
+ "summary": "《急就章》为汉代识字之书，亦为章草典范文本。元代俞和以善书知名，此为其所书《急就章》，见载于清乾隆敕刻《三希堂法帖》第二十七册，可供考察元人章草书写。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21812.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

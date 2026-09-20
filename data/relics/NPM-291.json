@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001224N000000015"
  },
- "summary": null,
+ "summary": "此册为《宋高宗书孝经马和之绘图》中〈事君章〉的图画部分。传南宋高宗书《孝经》经文，马和之配绘插图，图绘君臣相处之义，笔法流畅，为南宋书画合璧名作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_291.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

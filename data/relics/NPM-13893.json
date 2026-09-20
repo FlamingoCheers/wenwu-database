@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000010N000000000"
  },
- "summary": null,
+ "summary": "《茄子图》卷，题为陈居中作。以蔬果为写生题材，属宋代花鸟蔬果画分支，画法工致，具案头清赏意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13893.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

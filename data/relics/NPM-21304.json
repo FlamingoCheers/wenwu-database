@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000014N000000000"
  },
- "summary": null,
+ "summary": "《清乾隆三希堂法帖》第十四冊之一，摹刻北宋米芾〈陳攬帖〉。此帖屬米氏尺牘書翰，經摹勒上石、捶拓成冊，為清代官刻法帖中的米書資料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21304.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

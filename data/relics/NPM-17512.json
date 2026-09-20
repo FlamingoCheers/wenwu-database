@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001501N000000000"
  },
- "summary": null,
+ "summary": "此卷为《万国朝宗图》第三幅，题苏汉臣画、赵孟頫书。画中使臣装束异于中土，人物开相与线条工整，为职贡图题材系列中的一幅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17512.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

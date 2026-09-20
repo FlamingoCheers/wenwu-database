@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000240N000000017"
  },
- "summary": null,
+ "summary": "《宋贤书翰》册中一开，为范成大尺牍。石湖居士此札为致友人书信，行笔温润娴雅，富书卷清气，与其诗名相映，兼具艺术与文献双重价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1060.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

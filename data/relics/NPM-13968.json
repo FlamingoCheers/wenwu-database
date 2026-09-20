@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000126N000000000"
  },
- "summary": null,
+ "summary": "《奚官调马》轴，题为陈居中作。绘奚官驯调马匹的情景，人马动态刻画精审，陈居中善人物鞍马，承唐宋鞍马画传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13968.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

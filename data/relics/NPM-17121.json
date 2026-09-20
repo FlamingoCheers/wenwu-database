@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000028N000000015"
  },
- "summary": null,
+ "summary": "《大观帖》宋拓本第四册之一开，收唐代柳公权《辱问帖》，辱问为书信用语，此帖属尺牍书迹，可见柳书劲健之风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_17121.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

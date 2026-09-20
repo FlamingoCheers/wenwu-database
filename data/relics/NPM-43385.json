@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "贈瓷000336N000000000"
  },
- "summary": null,
+ "summary": "元代褐釉軍持，軍持源自梵語音譯，為僧侶行者貯水淨手之器，設流便於傾注，施褐釉，造型樸實。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43385.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

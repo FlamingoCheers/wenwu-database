@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000234N000000004"
  },
- "summary": null,
+ "summary": "《宋眉山苏氏三世遗翰》册中一开，辑眉山苏氏祖孙三代书迹。本幅为苏辙致“定国承议”尺牍，书信之作，书法自然率意，兼具文献与书法价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_65.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

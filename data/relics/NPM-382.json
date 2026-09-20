@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001244N000000009"
  },
- "summary": null,
+ "summary": "《宋元名繪》冊中一開，舊題宋李迪《禽浴圖》，寫禽鳥嬉水梳羽之態，觀察細微，神態生動，屬宋代寫生花鳥佳作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_382.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

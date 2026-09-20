@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷011546N000000000"
  },
- "summary": null,
+ "summary": "金代白瓷撇口洗。口沿外撇，器形舒展，通體施白釉，釉色勻淨溫潤。洗屬文房或盥洗用器，此器造型端莊大方，素面無紋，展現北方白瓷樸實簡練的製作風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_31465.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

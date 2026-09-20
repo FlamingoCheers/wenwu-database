@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000244N000000020"
  },
- "summary": null,
+ "summary": "此册页出自《宋人法书》（二），为曾布致质夫学士尺牍。曾布为北宋重臣、曾巩之弟，此札兼具史料与书法价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14310.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

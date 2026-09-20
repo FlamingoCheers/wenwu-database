@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000001N000000000"
  },
- "summary": null,
+ "summary": "宋蘇軾尺牘，裝成立軸形式。蘇軾位列宋四家，書風豐腴跌宕、率意天真，此尺牘可見其日常書翰的瀟灑意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_40.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

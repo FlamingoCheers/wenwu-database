@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000242N000000007"
  },
- "summary": null,
+ "summary": "《宋代墨宝》册中一开，为范百禄致完夫吏部侍郎尺牍。此札为致官员的通问书信，措辞谨敬，笔意安和，可借以了解宋代士大夫的交往方式与书写风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1009.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

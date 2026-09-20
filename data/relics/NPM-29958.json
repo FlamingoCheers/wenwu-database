@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016691N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷碟，器施牙白釉，碟内划莲花一朵，线条婉转流畅。划花为定窑标志性装饰技法，以工具在半干胎上剔划成纹，成品素净而富有生趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29958.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001116N000000003"
  },
- "summary": null,
+ "summary": "舊題宋馬遠《小品》冊之一「苔枝輕霧」，繪苔點枝椏隱現輕霧之中，若隱若現，氛圍迷離，小中見大。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_3803.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

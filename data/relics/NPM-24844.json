@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000904N000000004"
  },
- "summary": null,
+ "summary": "《宋蔡苏黄米四家书》册之一开，收苏轼尺牍一件，为与友人往来书信，笔墨自然，具宋人尚意书风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_24844.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

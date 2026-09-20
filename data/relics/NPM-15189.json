@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購拓000240N000000000"
  },
- "summary": null,
+ "summary": "此轴为唐代颜真卿《争座位帖》墨拓本。《争座位帖》为颜真卿行书名迹，书稿斥责越礼之事，笔势雄浑遒劲，此为拓片装裱成轴，供临习鉴赏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15189.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000234N000000008"
  },
- "summary": null,
+ "summary": "《宋眉山苏氏三世遗翰》册中一开，为苏过书赠“远夫”之诗。苏过书迹承家学渊源，诗书并举，兼具文献与书法价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_70.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

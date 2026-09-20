@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000239N000000013"
  },
- "summary": null,
+ "summary": "《宋诸名家墨宝》册中一开，为米友仁书尺牍。米友仁为米芾之子，世称“小米”，书画承其家学。此札为书信墨迹，可借以考察米氏一门书风的传承。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1030.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000011N000000000"
  },
- "summary": null,
+ "summary": "批答为答覆臣僚奏请之文书。此为宋苏轼《安焘批答帖》刻本，收入《三希堂法帖》第十一册，或为其任翰林学士时所拟，书法丰腴醇厚。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21977.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

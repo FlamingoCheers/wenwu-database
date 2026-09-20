@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001234N000000009"
  },
- "summary": null,
+ "summary": "《唐宋名绘》册之一开，题宋代陈居中《平原试马》，绘平野之上人物调试骏马的情景，属人马题材小品。陈居中善画番马人物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_14432.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

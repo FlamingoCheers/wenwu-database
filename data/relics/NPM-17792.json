@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001516N000000000"
  },
- "summary": null,
+ "summary": "此为元代王振鹏画手卷第六段。王振鹏画风精谨，此段场景与前后呼应，墨线细腻，可供一窥元代职业画家的手卷体制。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17792.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

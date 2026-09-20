@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉006030N000000000"
  },
- "summary": null,
+ "summary": "玉如意頭，器面琢獸紋，如意頭端圓潤，獸紋古雅，此件或為如意首端，或單獨作繫飾陳設之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57169.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

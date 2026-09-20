@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000060N000000000"
  },
- "summary": null,
+ "summary": "此轴亦题郭熙山水。郭熙主张“三远”取景，山石如卷云、树枝似蟹爪，此轴笔墨具北宋山水典型特征，气象宏阔。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13949.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

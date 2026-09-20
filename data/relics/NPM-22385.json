@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000102N000000012\n more\n \n 贈帖000102N000000013"
  },
- "summary": null,
+ "summary": "摹刻元鲜于枢所书唐人《水帘洞诗》。以元人笔意书唐人诗篇，字势雄放，刻入《三希堂法帖》第二十五册，见古今诗意与笔意之相映。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22385.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

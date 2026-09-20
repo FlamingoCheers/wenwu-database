@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001254N000000013"
  },
- "summary": null,
+ "summary": "《历代集绘》册之一开，题元代高克恭《风雨归舟》，绘风雨中舟子归航的景致，属山水题材。高克恭善写云山雨意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14524.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

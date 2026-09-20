@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003463N000000004"
  },
- "summary": null,
+ "summary": "《宋人院画》册中一开，为马远山水。马远为南宋院体大家，与夏圭并称“马夏”，善作边角之景。此帧构图简练，笔墨劲健，虚实相生，意境幽远。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_10865.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

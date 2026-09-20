@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001261N000000005"
  },
- "summary": null,
+ "summary": "《历代画幅集册》之一开，题宋代马远《雪景》，绘雪岭寒林、天地清寒的景致，属雪景山水题材小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14562.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

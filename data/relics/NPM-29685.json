@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000011N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第五册，收北宋米芾《致葛君德忱尺牍》（德忱帖）。米芾位列“宋四家”，行书沉着痛快。此帖笔势流畅多变，为其行书名迹刻本，墨拓装册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29685.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

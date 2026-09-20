@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000992N000000000"
  },
- "summary": null,
+ "summary": "此卷舊題南宋畫家李唐所繪〈清溪漁隱〉，畫溪山漁隱景致，舟居漁釣寄寓隱逸之思，屬宋代山水傳統題材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_591.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001233N000000008"
  },
- "summary": null,
+ "summary": "《名绘集珍》册之一，题为宋赵伯驹《松斋迟客》。赵伯驹为南宋宗室画家，擅青绿山水，笔法秀劲。画题写松斋待客情景，斋室人物点景，兼具山水楼阁之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_303.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

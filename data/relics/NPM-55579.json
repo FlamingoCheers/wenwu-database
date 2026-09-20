@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004193N000000000"
  },
- "summary": null,
+ "summary": "宋代龜紐玉印，方形印身，龜形紐伏於其上。龜象長壽，漢制以龜紐為貴，宋人製印尚其古意，此印小而雅潔。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55579.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

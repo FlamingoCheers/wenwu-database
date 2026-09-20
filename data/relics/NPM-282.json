@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001224N000000013"
  },
- "summary": null,
+ "summary": "《宋高宗书孝经马和之绘图》册之一，此开为「谏争章」经文书法。传宋高宗书写《孝经》文字，笔意端雅圆润，与图绘相配以彰经义。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_282.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

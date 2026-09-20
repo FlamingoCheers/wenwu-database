@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000717N000000000"
  },
- "summary": null,
+ "summary": "五代前蜀李昇《袁安卧雪图》卷。袁安卧雪为著名典故，喻高士坚守操节。李昇为前蜀画家，长于山水，此卷以雪景写古人高致，属山水人物故事画题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_30172.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

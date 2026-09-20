@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000191N000000000"
  },
- "summary": null,
+ "summary": "《御刻墨妙轩法帖》为清代宫廷摹刻之丛帖。此册摹刻唐代颜真卿《争座位帖》，为其论仪礼之草稿名迹，行草纵横，气象雄杰。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_16871.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003583N000000004"
  },
- "summary": null,
+ "summary": "本幅选自《元四大家名蹟》册，题元代王蒙作，以云岫为题，绘云气出于山峦之间，意境幽深，属山水册页小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_15915.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

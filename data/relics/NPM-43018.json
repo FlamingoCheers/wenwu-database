@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "購瓷000141N000000000"
  },
- "summary": null,
+ "summary": "陶馬車一組，含陶俑四件，車馬人物俱全，仿現實出行車馬而製，為隨葬明器，可見當時車馬出行之制。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43018.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

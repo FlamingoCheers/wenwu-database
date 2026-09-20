@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000825N000000000"
  },
- "summary": null,
+ "summary": "宋代范宽《秋林飞瀑》轴。绘秋山红树间悬泉飞瀑，山体雄峻、皴笔坚凝，承其峰峦浑厚、势状雄强的北方山水风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1187.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

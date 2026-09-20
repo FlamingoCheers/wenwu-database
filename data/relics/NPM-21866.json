@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000008N000000000"
  },
- "summary": null,
+ "summary": "《土母帖》为北宋李建中传世名迹，行书沉着丰厚，存唐人遗法，历来为习书范本。此为清乾隆敕刻《三希堂法帖》第八册刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21866.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000279N000000000"
  },
- "summary": null,
+ "summary": "此軸為元代王蒙所繪〈谷口春耕圖〉，畫谷口春日農耕景致，屋宇田疇點綴溪山之間，筆墨繁密蒼潤，屬元代文人山水。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_611.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

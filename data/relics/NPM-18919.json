@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈書000578N000000000"
  },
- "summary": null,
+ "summary": "元俞和《臨禊帖》卷。禊帖即王羲之《蘭亭序》，此為俞和臨寫本。俞和以行書名世，用筆圓潤遒勁，臨摹能得形神，屬元代復古書風。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_18919.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

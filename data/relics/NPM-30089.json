@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷000026N000000000"
  },
- "summary": null,
+ "summary": "宋代耀州窑青瓷碗，釉色青中泛黄，温润透亮。耀州窑为宋代北方青瓷名窑，制品种类丰富，碗类为大宗产品，造型敦厚，釉面莹润，兼具日用与观赏之美。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_30089.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000240N000000009"
  },
- "summary": null,
+ "summary": "《宋贤书翰》册中一开，为韩世忠致运使直阁侍史尺牍。韩世忠为南宋中兴名将。此札为致官员书信，名将书迹传世不多，兼具书法与史料价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1049.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

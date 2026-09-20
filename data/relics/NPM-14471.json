@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001248N000000017"
  },
- "summary": null,
+ "summary": "《集古名绘》册之一开，题宋末元初钱选《招凉仕女》，绘仕女执扇消夏的闲雅情态，属仕女题材小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14471.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

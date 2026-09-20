@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014571N000000000"
  },
- "summary": null,
+ "summary": "宋代米黄釉盘，盘心折腰起棱，线条分明。米黄釉色泽柔和温润，含蓄耐看。折腰式样于规整中见变化，为宋代瓷盘的别致样式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29591.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

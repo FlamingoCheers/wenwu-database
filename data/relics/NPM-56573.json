@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005335N000000000"
  },
- "summary": null,
+ "summary": "宋代玉劍首，圓形，為劍柄頂端的飾件。玉劍具興於先秦兩漢，宋人好古，仿製劍飾以供清賞，此件圓整厚重。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_56573.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

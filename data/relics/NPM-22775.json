@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000091N000000002\n more\n \n 贈帖000091N000000003\n 贈帖000091N000000004"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第十四册收宋米芾《知府帖》，为致知府之书问。行书沉着飞动，米家笔法具见，摹刻以广流传。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22775.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

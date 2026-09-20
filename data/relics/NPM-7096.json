@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅000199N000000000"
  },
- "summary": "圓鏡，鈕鏽蝕。鏡背飾八卦紋。",
+ "summary": "宋代八卦纹铜镜，圆形，镜背饰八卦纹。八卦为传统道教文化符号，此镜或具辟邪祈福寓意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_7096.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

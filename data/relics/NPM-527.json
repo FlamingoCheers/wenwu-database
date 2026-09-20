@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001247N000000002"
  },
- "summary": null,
+ "summary": "此幅為《煙雲集繪》冊中一開，舊題宋徽宗〈海鮮貫竹〉，以海產之物與竹枝入畫，題材別致，屬冊頁寫生小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_527.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000066N000000000"
  },
- "summary": null,
+ "summary": "宋代蔡襄《尺牍》卷。蔡襄为北宋书法四家之一，书风端庄温雅。尺牍为往来书信，书札最能见书家自然笔意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_875.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

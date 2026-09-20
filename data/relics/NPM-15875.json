@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003486N000000005"
  },
- "summary": null,
+ "summary": "本幅选自《名繪薈萃》册，题宋人朱羲作，绘乳羝（哺育中的羊只）情状，写实生动，属走兽题材册页小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15875.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

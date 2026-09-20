@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000009N000000000"
  },
- "summary": null,
+ "summary": "《清乾隆三希堂法帖》（九）冊之一開，摹刻宋蔡襄《遠蒙帖》。行書尺牘，筆畫遒細，結體安詳，經御刻摹勒，為蔡書尺牘刻本之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21188.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

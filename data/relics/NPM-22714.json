@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000090N000000013\n more\n \n 贈帖000090N000000014\n 贈帖000090N000000015"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第十三册收宋黄庭坚《致云夫七弟尺牍》，为致家中弟辈之书问。行笔缓疾有度，具宋人尺牍自然之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22714.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000094N000000000"
  },
- "summary": null,
+ "summary": "此册为《快雪堂法帖》之一，刊宋代米芾临王羲之《脩载帖》，属尺牍书迹，临本行笔流畅俊逸，可窥晋帖风神与米氏临古笔法。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17285.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000284N000000000"
  },
- "summary": null,
+ "summary": "元代王蒙《深林叠嶂》轴。王蒙为“元四大家”之一，善画山水。此轴绘深林重嶂之景，笔墨繁密苍郁，具王蒙山水典型风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_676.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001794N000000000"
  },
- "summary": null,
+ "summary": "赵昌为北宋花鸟画家，自号写生赵昌，善设色。此轴绘花鸟，写生传神，承其画风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14152.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

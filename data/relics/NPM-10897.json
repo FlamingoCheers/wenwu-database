@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003474N000000005"
  },
- "summary": null,
+ "summary": "《宋元明集绘》册中一开，为李迪《牧羊图》。图绘牧者与羊群，人物动物情态相映，写实生动，体现南宋院画贴近生活、状物精审的作风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_10897.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000012N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第六册，合收北宋林逋《与瑫兄座主书》《送菱角帖》《三君帖》三种。林逋为北宋隐逸诗人，“梅妻鹤子”传为佳话，书法清劲有逸气。墨拓装册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29703.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

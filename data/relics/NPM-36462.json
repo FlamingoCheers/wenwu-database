@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷015982N000000000"
  },
- "summary": null,
+ "summary": "明代廣窯蓮瓣洗，器身蓮瓣紋層層外鼓，形如蓮花初綻。通體施月白釉，釉色青白如月，柔和靜雅。器內劃刻牡丹紋，花葉舒展流暢。洗為文房用具，造型豐美大方。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36462.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

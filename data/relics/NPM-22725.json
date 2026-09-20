@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000090N000000035\n more\n \n 贈帖000090N000000036"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第十三册收宋黄庭坚《次韵叔父帖》，为次韵酬答之诗书。行书开张跌宕，山谷笔法之妙于刻拓中犹可概见。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22725.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

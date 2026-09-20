@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅000284N000000000"
  },
- "summary": "方鏡。鏡背有銘十六字、二印記。",
+ "summary": "宋代“方正”铜镜，镜作方形，镜背铸铭文并钤印记。文字内容或寓规诫之意，颇具文字镜特色。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_7095.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000259N000000014"
  },
- "summary": null,
+ "summary": "《元人旧迹》册之一，收元张谷书七言绝句三首。三绝句连书成幅，笔致疏朗，存元人书法风调，为汇辑元人旧蹟的册页之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_288.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

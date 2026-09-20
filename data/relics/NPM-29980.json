@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016713N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷盏托，造型秀挺，釉面莹白，划花回纹环饰托面。盏托兴于晋唐而盛于宋，与茶盏合用，此托工艺精致，反映定窑白瓷的制作水准。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29980.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

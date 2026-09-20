@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "購玉000470N000000000"
  },
- "summary": "玉質，嵌入銅件中。玉帶板上琢西域胡人。",
+ "summary": "玉帶板，玉質，原嵌於銅件之中，玉面上琢胡人形象。帶板為腰帶上的裝飾玉片，胡人紋帶板承唐代帶飾傳統，饒具異域風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_52381.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000238N000000010"
  },
- "summary": null,
+ "summary": "《宋十二名家法书》册中一开，为薛绍彭致伯充太尉尺牍。薛绍彭与米芾并称，书法追摹晋人，笔致温润含蓄，此牍见其书风一斑。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15516.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

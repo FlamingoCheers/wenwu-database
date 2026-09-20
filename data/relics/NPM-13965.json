@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000123N000000000"
  },
- "summary": null,
+ "summary": "《归棹图》轴，题为夏珪作。写舟人归棹行于江山之间，夏珪善拖泥带水皴，水墨苍劲，取半边之景，与马远并称“马夏”。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13965.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

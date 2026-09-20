@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷018090N000000000"
  },
- "summary": null,
+ "summary": "青瓷貫耳瓶，頸側對稱飾管狀貫耳，貫耳瓶仿古代銅壺形制，為南宋仿古陳設瓷的典型器類。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_60990.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

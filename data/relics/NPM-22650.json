@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000011N000000010\n more\n \n 故帖000011N000000011\n 故帖000011N000000012"
  },
- "summary": null,
+ "summary": "宋拓《至道御书法帖》第五册。此丛帖取御书摹勒上石，以宋拓本传世，剪裱装册，为宋代刻帖传统之实物见证。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22650.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

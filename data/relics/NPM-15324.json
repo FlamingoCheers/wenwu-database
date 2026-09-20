@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003495N000000001"
  },
- "summary": null,
+ "summary": "《珍图荟帙》册中一开，题宋徽宗作花蝶写生。徽宗工笔花鸟以精妙著称，此帧写花卉蝴蝶，设色细腻，形神兼备，具院体写生格法。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15324.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

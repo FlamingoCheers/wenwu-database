@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000235N000000002"
  },
- "summary": null,
+ "summary": "《宋四家墨宝》册中蔡襄《书尺牍》，为蔡襄手书信札，字势端庄，属宋四家法书册页之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_887.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

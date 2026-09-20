@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004689N000000000"
  },
- "summary": null,
+ "summary": "此件为宋代玉雕象，圆雕象形，玉质温润，造型敦实。象在传统观念中象征太平瑞应，此类玉象多作陈设赏玩之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_17821.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

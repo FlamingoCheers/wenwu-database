@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001241N000000003"
  },
- "summary": null,
+ "summary": "《藝苑藏真》冊（下）之一開，傳為宋代李嵩所繪〈松塢延賓〉。畫寫松林山塢間主人延客相見的情景，屋宇人物點綴山景，具風俗情味。李嵩善畫人物界畫，此開描繪細謹，意境和樂。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_347.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

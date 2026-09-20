@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000087N000000006\n more\n \n 贈帖000087N000000007\n 贈帖000087N000000008\n 贈帖000087N000000009\n 贈帖000087N000000010\n 贈帖000087N000000011"
  },
- "summary": null,
+ "summary": "摹刻宋苏轼《答钱穆父诗》。钱穆父名勰，与东坡同朝唱和，诗为答赠之作，书迹流美，刻入《三希堂法帖》第十册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22502.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000005N000000015"
  },
- "summary": null,
+ "summary": "明拓《宝贤堂集古法帖》第五册，收唐李邕《三数日帖》。李邕以行书入碑闻名，笔力舒展雄健。此帖为其尺牍刻本，摹勒上石使唐人书迹化身千百，利于传播。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_30696.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

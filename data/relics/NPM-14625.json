@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001289N000000005"
  },
- "summary": null,
+ "summary": "《名绘集珍》册一页，题“唐戴嵩乳牛图”。戴嵩以画牛著称，此页绘乳牛情态，属唐代以来畜兽题材中的画牛小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14625.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001472N000000000"
  },
- "summary": null,
+ "summary": "此卷为宋李嵩画瑞应图。瑞应图为图绘祥瑞应兆之事的题材，卷中以人物场景纪祥瑞之应，笔致工谨，具南宋院画风格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15511.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

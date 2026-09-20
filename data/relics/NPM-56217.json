@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004939N000000000"
  },
- "summary": null,
+ "summary": "元代玉劍璏，為劍鞘上的穿帶飾件，面琢螭紋。螭紋蜿蜒有致，器形承古，是宋元文士慕古雅趣的反映。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_56217.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

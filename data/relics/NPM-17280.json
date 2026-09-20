@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000094N000000000"
  },
- "summary": null,
+ "summary": "此册为《快雪堂法帖》之一，刊宋代米芾临王羲之《雨晴帖》。帖名取自书信用语，米芾临作行气连贯、笔意洒脱，是流传晋唐法书的重要刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17280.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

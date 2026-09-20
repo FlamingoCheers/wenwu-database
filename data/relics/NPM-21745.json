@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000165N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第八册所收北宋欧阳修《致元珍学士尺牍》刻本，为致友人元珍的书问。行书自然洒落，笔致温文，可见醉翁学养气度。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21745.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

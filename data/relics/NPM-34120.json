@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈拓000374N000000000"
  },
- "summary": null,
+ "summary": "唐李邕書〈雲麾將軍李思訓碑〉墨拓本，裝裱為軸。此碑為李邕為名將李思訓所撰書的行書碑刻，筆力雄健，跌宕有致，歷來為習行書者所重，是李邕的代表作之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_34120.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

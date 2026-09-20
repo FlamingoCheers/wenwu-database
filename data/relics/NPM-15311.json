@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003580N000000001"
  },
- "summary": null,
+ "summary": "《宋元明集绘》册中一开，题宋代黄居寀作萱花蛱蝶。黄居寀承黄筌家学，花鸟精谨富丽，此帧写萱花蛱蝶，设色工致，生意盎然。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_15311.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

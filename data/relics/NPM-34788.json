@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷005392N000000000"
  },
- "summary": null,
+ "summary": "金代白瓷罐。罐作斂口、豐肩、鼓腹之形，通體施白釉，釉色溫潤，素面無紋。罐為儲物盛器，此器形制飽滿敦實，胎釉堅緻，體現金代北方窯場白瓷樸實實用的風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_34788.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

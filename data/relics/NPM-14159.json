@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001805N000000000"
  },
- "summary": null,
+ "summary": "此轴题称李公麟绘十八罗汉，以白描线条写罗汉情态，庄严生动，属佛教人物题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14159.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

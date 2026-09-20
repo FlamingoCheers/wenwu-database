@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中書000019N000000000"
  },
- "summary": null,
+ "summary": "此卷为宋苏轼所书西湖诗。苏轼为宋四家之首，书法丰腴跌宕、天真烂漫，卷中书咏西湖诗作，笔意酣畅，墨色丰润，诗书相映。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1540.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

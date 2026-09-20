@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000171N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》（十四）冊。清乾隆年間敕刻《三希堂石渠寶笈法帖》，彙摹內府歷代法書名蹟，此為第十四冊拓本，可供臨習賞鑑。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_2074.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

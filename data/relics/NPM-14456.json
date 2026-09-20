@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001248N000000006"
  },
- "summary": null,
+ "summary": "《集古名绘》册之一开，题宋代王诜《杰阁媐春》，绘高阁之上春日游赏的情景，属楼阁人物题材小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_14456.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

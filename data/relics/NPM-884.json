@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫002969N000000000"
  },
- "summary": null,
+ "summary": "元代高克恭《青山白云》立轴，绘青山之间白云缭绕，属山水画题材，具米氏云山遗意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_884.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

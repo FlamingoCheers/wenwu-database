@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000086N000000027\n more\n \n 贈帖000086N000000028\n 贈帖000086N000000029"
  },
- "summary": null,
+ "summary": "摹刻宋苏洵《致提举监丞尺牍》。苏洵为苏轼、苏辙之父，唐宋八大家之一，此札致提举监丞，文笔书迹并见老成之风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22478.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000010N000000022"
  },
- "summary": null,
+ "summary": "此为宋拓《晋唐小楷》册中一开，越州刻本，传为唐褚遂良书《阴符经》。《阴符经》为道教要籍，褚书小楷疏朗有致，为世所重。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_22151.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉006287N000000000"
  },
- "summary": null,
+ "summary": "玉質碗，器表琢刻御製詩文，字跡工整，玉碗琢磨溫潤，兼具實用與鑑賞意趣，屬刻詩玉器傳統。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57397.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

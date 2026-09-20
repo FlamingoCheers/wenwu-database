@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000089N000000029"
  },
- "summary": null,
+ "summary": "摹刻宋苏辙《致定国尺牍》。定国盖即王巩之字，与二苏交谊深厚，此札叙故人书问，书法端劲温粹。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_22535.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001414N000000000"
  },
- "summary": null,
+ "summary": "此卷为宋李公麟画孝经图。李公麟以白描人物著称，此卷依《孝经》章节绘图，人物线描劲细，图文相辅，属经史题材画作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15510.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

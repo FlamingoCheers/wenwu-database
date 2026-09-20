@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000034N000000021\n more\n \n 贈帖000034N000000022"
  },
- "summary": null,
+ "summary": "《秘阁帖》第十册之一，收唐柳公权书《辱问帖》。辱问为书翰谦语，此牍笔法峻拔，气象端正，存柳公权书法的一体面目。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_28126.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

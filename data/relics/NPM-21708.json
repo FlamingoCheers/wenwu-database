@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000174N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十七册所收南宋陆游尺牍刻本。此牍行草随笔挥运，沉着痛快，书迹与文辞并见爱国诗人之性情。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21708.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

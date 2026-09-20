@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000264N000000000"
  },
- "summary": null,
+ "summary": "元代鲜于枢《大书二十字》轴。鲜于枢书法与赵孟頫并峙元代书坛，此轴大字书二十字，笔力沉雄、气势开张，见其大字书写功力。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1318.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001849N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋钱选《端阳景》，写端午节令景物。端阳即端午，此类画作多绘石榴、菖蒲等应节之物，寓辟邪纳吉之意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14192.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

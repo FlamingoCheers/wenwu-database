@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000165N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第八册所收北宋文彦博尺牍刻本。彦博历仕四朝，名重当世，其书不事雕饰，笔札间自然老成，传世墨迹稀如星凤。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21743.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

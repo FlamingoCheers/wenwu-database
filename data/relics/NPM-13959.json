@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000109N000000000"
  },
- "summary": null,
+ "summary": "《月夜拨阮》轴，传马远作。写高士月下弹拨阮咸的情景，人物简练传神，月色空明，琴音与夜色相融，富诗意小品意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13959.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

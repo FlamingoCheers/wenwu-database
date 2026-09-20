@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅000018N000000001"
  },
- "summary": null,
+ "summary": "元代玉頂，透雕花叢間行龍紋樣，層次繁密。玉頂多作帽頂或爐蓋頂鈕之用，龍行花葉之間，是元代玉雕渾厚氣象的代表樣式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_5659.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

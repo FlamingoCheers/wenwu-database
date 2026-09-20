@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000248N000000006\n more\n \n 故書000248N000000007"
  },
- "summary": null,
+ "summary": "此开为《宋人牋牘》册中北宋沈辽所书尺牍，为日常书简墨迹，书风不刻意求工，可见宋人尺牍自然书写之面貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_1146.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

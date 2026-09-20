@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001117N000000002"
  },
- "summary": null,
+ "summary": "舊題宋馬麟《畫花卉》冊之一「上苑韶光」，寫皇家苑囿春光明媚、花木榮發，氣象和豫，屬院體花卉冊頁。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_3814.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

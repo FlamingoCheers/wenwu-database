@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014356N000000000"
  },
- "summary": null,
+ "summary": "宋白瓷印花蓮塘游魚紋碗，碗內模印蓮荷游魚，構圖飽滿，魚水相生意趣盎然。胎白釉潤，為宋代印花白瓷典型食器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_37687.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

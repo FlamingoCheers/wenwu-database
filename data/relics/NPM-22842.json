@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000093N000000006"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十六册收宋薛绍彭《致伯充太尉尺牍》，为致太尉之书问。其书深稳内敛，得晋人法度，摹刻略存形神。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_22842.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000071N000000020\n more\n \n 贈帖000071N000000021"
  },
- "summary": null,
+ "summary": "《淳化阁帖》第四册之一，收录唐李邕《晴热帖》，宋刻官帖摹刻上石之拓本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_23741.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

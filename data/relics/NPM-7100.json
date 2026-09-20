@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅000291N000000000"
  },
- "summary": "圓鏡。鏡背飾海上觀音像，有銘四字。",
+ "summary": "元代“大德元年”铜镜，圆形，镜背饰海上观音像并铸铭文。纪年明确，以佛教题材入镜，较为别致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_7100.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

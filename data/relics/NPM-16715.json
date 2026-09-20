@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000095N000000000"
  },
- "summary": null,
+ "summary": "《快雪堂法帖》丛帖之一。此册摹刻唐代徐浩书《朱巨川告》，告身为任命官员之文书；徐浩为唐代楷书名家，笔法沉着。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_16715.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

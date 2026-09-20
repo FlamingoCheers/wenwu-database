@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000807N000000000"
  },
- "summary": null,
+ "summary": "元倪瓚與王蒙合作山水軸。二人皆「元四家」名家，倪畫簡逸、王畫繁密，一軸之中可玩味兩家筆意的異同。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15546.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

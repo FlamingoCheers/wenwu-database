@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004152N000000000"
  },
- "summary": null,
+ "summary": "宋代仿漢玉印，印文「永昌」，取永續昌盛的吉祥意涵。漢印藝術為宋人效仿，仿古玉印由此風行，此印可見摹古趣味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55541.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "購瓷000135N000000000"
  },
- "summary": null,
+ "summary": "宋代青瓷梅瓶，小口短頸，豐肩修腹，器或帶「豐」字款識，為盛酒之器，造型挺秀典雅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43012.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

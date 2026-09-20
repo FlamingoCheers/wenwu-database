@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001257N000000003"
  },
- "summary": null,
+ "summary": "《纨扇画册》之一开，题宋代李安忠《竹鸠》，绘竹枝上禽鸟栖止的静谧情态，属翎毛题材小品。李安忠善画花鸟走兽。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14535.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

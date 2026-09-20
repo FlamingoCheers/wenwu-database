@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001114N000000010"
  },
- "summary": null,
+ "summary": "旧题宋代李唐《文姬归汉图》册之一帧，题“产子”。描绘东汉蔡文姬没入匈奴、终归汉土的故事，此帧写其在胡地生养子女的情景，人物情态生动。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_216.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

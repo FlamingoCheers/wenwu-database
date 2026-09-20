@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈書000640N000001000"
  },
- "summary": null,
+ "summary": "宋黄庭坚书唐韩伯庸《幽兰赋》双钩本册之一。双钩为勾摹笔迹轮廓以传摹书迹之法，此册存黄庭坚行书笔意，赋文咏幽兰高洁之姿。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27943.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

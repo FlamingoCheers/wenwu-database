@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000832N000000000"
  },
- "summary": null,
+ "summary": "宋代崔白《画枇杷孔雀》轴。绘枇杷树下孔雀，翎毛工细、敷色典丽，于富丽中寓生趣，为北宋花鸟画由工致向写生过渡的面貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1252.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

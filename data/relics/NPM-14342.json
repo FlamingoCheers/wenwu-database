@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000249N000000020"
  },
- "summary": null,
+ "summary": "此册页出自《宋元宝翰》，为欧阳脩致元珍学士尺牍。欧阳修为北宋文坛领袖、唐宋八大家之一，书札手迹尤为名品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14342.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

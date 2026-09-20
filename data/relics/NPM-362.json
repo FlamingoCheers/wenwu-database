@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001243N000000006"
  },
- "summary": null,
+ "summary": "《名繪集珍》冊之一，傳為宋代閻次平所繪〈松磴精廬〉，畫松間石磴蜿蜒，精舍掩映山林，筆墨清勁，意境幽邃，展現宋代山水冊頁的雅致格調。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_362.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

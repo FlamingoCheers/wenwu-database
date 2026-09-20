@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000092N000000001"
  },
- "summary": null,
+ "summary": "清《三希堂法帖》第十五册选页，摹刻宋米芾《始兴公帖》。米芾书学晋人，此帖属书札之体，笔势跌宕，八面生动。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_22557.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

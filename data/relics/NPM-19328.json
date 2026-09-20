@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000310N000000000"
  },
- "summary": null,
+ "summary": "宋李安忠《翔鵓圖》軸。李安忠工花鳥走獸，此軸繪鵓鳩飛翔之態，翎毛蓬鬆生動，構圖簡淨，承南宋院體寫生傳統。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_19328.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

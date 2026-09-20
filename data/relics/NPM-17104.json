@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000028N000000008"
  },
- "summary": null,
+ "summary": "《大观帖》为北宋内府奉敕摹刻之历代法书丛帖，此为宋拓本第四册。此开收唐代褚遂良《山河帖》，属其尺牍书迹之摹刻拓本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_17104.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

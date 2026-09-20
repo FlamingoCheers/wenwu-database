@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉006564N000000000"
  },
- "summary": null,
+ "summary": "玉雕臥犬形佩，犬作伏臥狀，溫馴可親，宋元玉器多作小動物佩飾，此件渾樸可愛。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57636.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

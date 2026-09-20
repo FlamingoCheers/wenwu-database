@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000240N000000022"
  },
- "summary": null,
+ "summary": "《宋贤书翰》册中一开，为陈与义《咏水仙花》诗。陈与义为南北宋之际著名诗人。此件以书法自录咏水仙诗篇，诗书合璧，清雅可喜，殊具文人意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_1064.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

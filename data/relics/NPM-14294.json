@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000244N000000004"
  },
- "summary": null,
+ "summary": "此册页出自《宋人法书》（二），为苏辙致提刑国博执事尺牍。苏辙为苏轼之弟、唐宋八大家之一，书札冲和闲雅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14294.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

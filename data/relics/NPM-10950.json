@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003494N000000001"
  },
- "summary": null,
+ "summary": "《墨林二妙》册中一开，为陈居中《岩栖金殿》。陈居中为南宋院画家，善人物蕃马。图绘岩壑间殿宇掩映，人物屋木相得，颇见经营位置之工。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_10950.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

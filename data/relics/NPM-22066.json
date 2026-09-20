@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000010N000000000"
  },
- "summary": null,
+ "summary": "此为《三希堂法帖》第十册所收宋苏轼致陈季常尺牍刻帖。季常即陈慥，苏轼挚友，札中情辞恳挚，笔意随文而行，自然流畅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22066.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

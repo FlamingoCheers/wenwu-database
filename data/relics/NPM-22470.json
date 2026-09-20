@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000086N000000016\n more\n \n 贈帖000086N000000017\n 贈帖000086N000000018"
  },
- "summary": null,
+ "summary": "摹刻宋蔡襄书尺牍。蔡襄书法端庄温雅，为宋四家之一，此札为友朋往还书问，端谨有度，属丛帖选刻之迹。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22470.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

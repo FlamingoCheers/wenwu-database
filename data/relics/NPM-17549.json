@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000987N000000000"
  },
- "summary": null,
+ "summary": "此卷题宋徽宗《写生翎毛》，描绘禽鸟写生之态。徽宗精于花鸟，重视观察写生，画中翎毛形神兼备、精细入微，代表宋代院体花鸟的写实高度。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_17549.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

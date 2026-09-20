@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003139N000000005"
  },
- "summary": null,
+ "summary": "《宋钱选摹古花蜨图》册中一开，画题“牵牛花”。绘牵牛花，藤蔓萦绕，花姿清丽。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_6897.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

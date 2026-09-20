@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000005N000000013"
  },
- "summary": null,
+ "summary": "明拓《宝贤堂集古法帖》第五册，收唐褚遂良《家侄帖》。褚书秀逸遒媚，世称「褚体」。此册为明拓丛帖之一，摹刻精细，是研究褚遂良书法传本的重要资料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_30686.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

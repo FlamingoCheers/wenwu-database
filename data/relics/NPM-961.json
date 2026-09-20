@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000237N000000003"
  },
- "summary": null,
+ "summary": "《宋四家集册》之一，收黄庭坚书尺牘一件。山谷书以行楷最为知名，结字欹侧多姿、用笔沉着痛快，此札虽寻常问讯，亦具自家风骨。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_961.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

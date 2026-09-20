@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000119N000000000"
  },
- "summary": null,
+ "summary": "《垂裕阁法帖》（十）之一，收宋黄庭坚行书尺牍之二。用笔擒纵自如，结字奇险，与同册各牍合观，可见山谷行书的一贯风神。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29025.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

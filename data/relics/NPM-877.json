@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000067N000000000"
  },
- "summary": null,
+ "summary": "宋代苏轼书《归去来辞》卷，录陶渊明《归去来兮辞》。苏轼为北宋书法四家之一，此卷属宋人法书名迹。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_877.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

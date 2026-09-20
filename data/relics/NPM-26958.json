@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000048N000000000"
  },
- "summary": null,
+ "summary": "《大觀帖》卷四所收，唐柳公權《榮示帖》摹刻本，屬叢帖輯刻之唐賢尺牘，可供書法臨摹與帖學研究之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_26958.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

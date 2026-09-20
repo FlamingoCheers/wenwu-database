@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000010N000000000"
  },
- "summary": null,
+ "summary": "题“唐韩干洗马图”立轴。传为唐代画马名家韩干所作，绘洗马场景，属鞍马畜兽题材传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14891.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

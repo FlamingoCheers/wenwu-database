@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000976N000000000"
  },
- "summary": null,
+ "summary": "此段为传唐代卢鸿《草堂十志图》卷中《涤烦矶》一景。涤烦矶意为涤除烦嚣之矶石，图写水畔幽石景致，以山水寄托隐逸之思，体现唐代隐居题材绘画的文人意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_17153.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000328N000000000"
  },
- "summary": null,
+ "summary": "元王蒙《夏山高隱》軸。王蒙為元四家之一，善解索皴與牛毛皴，構圖繁密。此軸繪夏日山居隱逸之景，林壑幽深，筆墨蒼茫茂密。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_19382.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

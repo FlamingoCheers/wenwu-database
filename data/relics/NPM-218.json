@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001114N000000012"
  },
- "summary": null,
+ "summary": "旧题宋代李唐《文姬归汉图》册之一帧，题“来使”。绘汉使至匈奴迎归蔡文姬的场面，人物鞍马谨严传神，兼写胡汉服饰之异。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_218.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

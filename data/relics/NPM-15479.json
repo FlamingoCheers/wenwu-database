@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003459N000000016"
  },
- "summary": null,
+ "summary": "《唐宋元明集绘》册中一开，题宋代苏汉臣作人物。苏汉臣以婴戏、仕女著称，此帧人物刻画工细，情态传神，具院体画风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15479.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

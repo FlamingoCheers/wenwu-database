@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001839N000000000"
  },
- "summary": null,
+ "summary": "宋马远《松间吟月》立轴。写松间对月吟咏的文人雅趣，构图简远，马远以“马一角”边角山水著称于南宋画坛。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1480.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

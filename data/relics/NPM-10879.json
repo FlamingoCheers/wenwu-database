@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003466N000000005"
  },
- "summary": null,
+ "summary": "《宋元名绘》册中一开，为马麟山水。马麟为马远之子，承其家学。此帧承马夏一路边角布局，笔墨清润，境界幽深，得南宋院体山水精诣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_10879.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

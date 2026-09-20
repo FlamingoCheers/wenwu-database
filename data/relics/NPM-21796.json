@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000017N000000000"
  },
- "summary": null,
+ "summary": "清乾隆御刻《三希堂法帖》第十七册所收宋王升尺牍拓本。行草流便，笔法有晋人遗韵，为两宋之际书家传世书迹之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21796.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000151N000000014\n more\n \n 故帖000151N000000015"
  },
- "summary": null,
+ "summary": "本幅为《宋榻大观帖》册第四卷之一开，摹刻唐柳公权《榮示帖》，属宋拓刻帖，可资考见柳书风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_16264.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

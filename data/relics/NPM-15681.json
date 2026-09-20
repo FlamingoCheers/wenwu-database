@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003480N000000015"
  },
- "summary": null,
+ "summary": "《集古名繪》冊之一開，舊題宋米芾〈雲山圖〉，寫雲煙出沒的山景，屬米氏雲山一系的冊頁山水。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15681.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

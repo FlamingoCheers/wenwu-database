@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001291N000000005"
  },
- "summary": null,
+ "summary": "《名画集真》册一页，宋赵伯驹《江楼卧雪》。绘江畔楼阁雪景，赵伯驹以青绿山水著称，此页属楼阁山水小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14651.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

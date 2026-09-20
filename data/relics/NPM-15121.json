@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003477N000000007"
  },
- "summary": null,
+ "summary": "《宋元明人合锦》册下册中一开，题五代后蜀黄筌作绮石秋容。绘秋日花卉，湖石点缀其间，设色精丽，承黄家富贵格法。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15121.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

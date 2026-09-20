@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000006N000000000"
  },
- "summary": null,
+ "summary": "《英光堂米帖》冊所收，宋米芾《揚家夫人帖》摹刻本，以受書者為稱，屬米氏書問叢帖之一，筆致流便。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27173.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

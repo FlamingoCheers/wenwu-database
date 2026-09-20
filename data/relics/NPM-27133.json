@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000006N000000000"
  },
- "summary": null,
+ "summary": "《英光堂米帖》（上海徐氏本）冊，專輯宋代書法家米芾書蹟之叢帖拓本。英光堂帖為宋代專刻米芾法書之叢帖，此冊為上海徐氏藏本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27133.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

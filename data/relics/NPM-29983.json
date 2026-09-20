@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016716N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷碗，碗内模印菊花纹，纹样清晰，构图满密。定窑印花工艺繁复精致，以印模在胎上压印纹饰后施釉烧成，是定窑盛期的代表性装饰手法。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29983.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

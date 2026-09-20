@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014602N000000000"
  },
- "summary": null,
+ "summary": "宋官窯灰青牡丹花式洗。洗作牡丹花式，花口分瓣豐美，通體施灰青釉，釉質溫潤如玉。洗為文房用具，可盛水洗筆，官窯製品素雅精工，此洗兼具實用功能與賞玩之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_31837.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

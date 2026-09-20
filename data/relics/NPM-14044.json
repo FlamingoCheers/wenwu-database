@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001252N000000006"
  },
- "summary": null,
+ "summary": "此页题称马远所作，绘雪压柳枝、双鸦栖停，以简练笔墨营造清寒意境，为宋人小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/npm/detail_14044.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

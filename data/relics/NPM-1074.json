@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000250N000000002"
  },
- "summary": null,
+ "summary": "《宋元墨宝》册中一开，为僧佛印所书《李白传》。佛印为北宋名僧，与苏轼交善。此件为书写李白传记文字，禅门墨迹颇为难得，兼具书法与文献趣味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1074.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

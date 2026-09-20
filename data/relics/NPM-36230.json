@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016035N000000000"
  },
- "summary": null,
+ "summary": "宋定窯白瓷葵花式碗，口作花式，壁弧足小。內壁劃蓮花紋飾，花葉相依，刀痕細膩流利，釉色牙白溫潤，全器花意清雅，兼具實用與觀賞。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36230.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

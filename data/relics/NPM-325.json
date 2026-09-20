@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001240N000000007"
  },
- "summary": null,
+ "summary": "《藝苑藏真》冊（上）之一開，傳為宋代張敦禮所繪〈閒庭蹴踘〉。蹴踘為古代的球類遊戲，畫寫庭園間人士蹴踘為戲的情景，人物生動，兼具風俗紀實趣味，反映宋代社會的遊藝生活。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_325.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

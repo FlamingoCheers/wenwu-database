@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000242N000000004"
  },
- "summary": null,
+ "summary": "《宋代墨宝》册中一开，为宋庠致宫使少卿尺牍。宋庠为北宋名臣，此札为士大夫通问书信，上款具官职称谓，笔致温雅，兼具书法与文献价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1006.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001992N000000000"
  },
- "summary": null,
+ "summary": "元代王蒙《画山水》轴。王蒙善以牛毛、解索诸皴写江南山水，此轴泛题山水，丘壑繁复、笔墨苍茫，具元末文人画繁密一路面貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1218.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

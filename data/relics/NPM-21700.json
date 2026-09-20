@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000174N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十七册所收宋赵令畤《致仲仪兵曹尺牍》刻本。赵令畤为宋宗室，尝从苏轼游，此牍行书萧散有致，颇具晋人风韵。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21700.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

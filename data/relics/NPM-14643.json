@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001290N000000006"
  },
- "summary": null,
+ "summary": "《墨林拔萃》册一页，宋赵孟坚《岁寒三友图》。以松、竹、梅“岁寒三友”入画，寓坚贞之志，属文人水墨花卉传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14643.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

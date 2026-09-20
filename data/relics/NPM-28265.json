@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000665N000000000"
  },
- "summary": null,
+ "summary": "宋夏圭《溪山高逸图》轴。夏圭与马远并称马夏，善以水墨作半边山水。此轴写溪山幽致，墨色苍润，见南宋山水风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_28265.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

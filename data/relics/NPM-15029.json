@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001242N000000010"
  },
- "summary": null,
+ "summary": "《集古名绘》册一页，五代滕昌祐《画芳实藏甘》。绘果实丰美之景，画题寓甘实内藏之意，滕昌祐为五代花鸟名家，工画花果。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15029.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

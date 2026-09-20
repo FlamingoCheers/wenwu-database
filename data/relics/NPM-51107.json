@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉003005N000000000"
  },
- "summary": "玉質，方形印面，回首鹿鈕。",
+ "summary": "玉印方形，印面未鐫一字，印鈕雕回首臥鹿，姿態安詳可喜。鹿鈕玉印精巧別緻，既是備用的印章坯材，亦為可資賞玩的玉雕小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_51107.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

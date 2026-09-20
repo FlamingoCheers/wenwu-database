@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000172N000000000"
  },
- "summary": null,
+ "summary": "王略帖一名与东晋王羲之《破羌帖》相关。此为宋米芾《王略帖》刻本，收入《三希堂法帖》第十五册，或与之题鉴相关，行书精彩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21897.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000380N000000000"
  },
- "summary": null,
+ "summary": "明代陳汝言〈荊溪圖〉軸。荊溪為江南名水，畫寫溪山景致，水岸蜿蜒，林木掩映，構景平遠清曠，屬文人寫景山水傳統，筆墨蒼潤，具紀遊寫勝的意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_3179.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

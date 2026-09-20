@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000147N000000000"
  },
- "summary": null,
+ "summary": "此卷舊題北宋王詵〈漁村小雪圖〉，繪冬日雪後漁村，山巒覆雪，江岸漁人活動點綴其間，寒意中見生趣，屬雪景山水長卷。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_505.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

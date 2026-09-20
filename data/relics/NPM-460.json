@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000256N000000010"
  },
- "summary": null,
+ "summary": "元人遺墨冊中一開，陳桱致府判相公德常先生尺牘，問候致意的書翰，書風自然，為元末文人交往的墨蹟。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_460.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

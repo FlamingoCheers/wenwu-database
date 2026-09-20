@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003138N000000000\n more\n \n 故畫003138N000000B01"
  },
- "summary": null,
+ "summary": "《宋钱选画花篮图》册。钱选为宋末元初花鸟名家，此册以瓶篮花卉为题，集多种花卉果蔬写生，设色雅丽。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_6883.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014856N000000000"
  },
- "summary": null,
+ "summary": "元代白瓷印花花卉紋葵花式杯。杯作葵花式口，小巧玲瓏，通體施白釉，杯身模印花卉紋飾，紋樣清晰規整。印花工藝製作的紋飾飽滿勻稱，此杯為元代白瓷飲器的常見樣式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_33633.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

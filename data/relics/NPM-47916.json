@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014617N000000001"
  },
- "summary": null,
+ "summary": "玉頂琢螭虎啣芝紋飾，螭虎矯健，靈芝繚繞，皆取祥瑞意涵。此式玉頂為器蓋鈕飾，元代玉作中屬常見的吉祥題材，雕工古樸。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_47916.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

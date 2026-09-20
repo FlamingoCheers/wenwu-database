@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000246N000000019"
  },
- "summary": null,
+ "summary": "《宋人法書（四）》冊之一開，喬行簡所書劄子。劄子為宋人奏事或通問的公私文書，此幅兼具書法鑑賞與文獻價值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15537.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

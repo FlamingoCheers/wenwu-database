@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001501N000000000"
  },
- "summary": null,
+ "summary": "此卷为《万国朝宗图》第一幅，题称宋代苏汉臣绘图、赵孟頫书。图绘外国使臣朝贡形象，人物服饰器用各具异域特征，属传统职贡题材绘画。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17510.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

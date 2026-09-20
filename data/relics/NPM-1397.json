@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000245N000000016"
  },
- "summary": null,
+ "summary": "洪遵书尺牍，《宋人法书》册之一。洪遵为南宋学者名臣，此牍行书自然端稳，属士大夫日常书问，兼具文献参考价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1397.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

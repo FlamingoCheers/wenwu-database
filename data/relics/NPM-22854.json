@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000093N000000020\n more\n \n 贈帖000093N000000021\n 贈帖000093N000000022"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十六册之一，收录两宋之际名臣李纲尺牍，书札摹刻入帖，兼具史料与书法价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22854.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

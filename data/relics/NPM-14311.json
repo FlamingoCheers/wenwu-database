@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000244N000000021"
  },
- "summary": null,
+ "summary": "此册页出自《宋人法书》（二），为曾布致知府安抚资政左丞尺牍。上款官衔繁备，可窥宋人尺牍称谓之体例。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14311.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000315N000000000"
  },
- "summary": null,
+ "summary": "宋馬麟《觀瀑圖》軸。馬麟承馬遠家法，善山水人物。此軸繪山間懸瀑，高士臨流仰觀，構圖偏於一隅，筆墨峭勁，意境清遠。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_19362.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

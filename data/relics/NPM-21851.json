@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000016N000000000"
  },
- "summary": null,
+ "summary": "章惇为北宋后期执政大臣，亦以能书见称。此为其尺牍刻本，见《三希堂法帖》第十六册，札叙常事，笔势峭劲，是宋代政治人物书迹刻帖。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21851.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

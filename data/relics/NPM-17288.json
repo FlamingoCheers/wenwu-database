@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000094N000000000"
  },
- "summary": null,
+ "summary": "此册为《快雪堂法帖》之一，刊宋代米芾临王羲之《诸从帖》。原帖为致诸从兄弟问讯之书，临本字形聚散有致，风神洒落，兼具晋韵与宋人笔意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17288.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

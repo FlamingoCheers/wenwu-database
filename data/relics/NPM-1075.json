@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000250N000000003"
  },
- "summary": null,
+ "summary": "《宋元墨宝》册中一开，为宋端彦书尺牍。尺牍为文人书信，信手写就，自然生动。此札笔致流便，可借以考察宋人日常书写风貌与书仪格式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1075.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

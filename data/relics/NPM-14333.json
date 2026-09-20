@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000249N000000010"
  },
- "summary": null,
+ "summary": "此册页出自《宋元宝翰》，为真德秀致周卿学士尺牍。真德秀为南宋理学名臣，世称西山先生，书札端谨。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14333.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

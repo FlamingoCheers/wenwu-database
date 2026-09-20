@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000246N000000014"
  },
- "summary": null,
+ "summary": "《宋人法书》第四册中一开，为徐梦莘致安国赞善尺牍。徐梦莘为南宋史家，此牍行楷端正，笔致清和，见宋士大夫书风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15533.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

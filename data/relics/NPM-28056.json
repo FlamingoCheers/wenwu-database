@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000041N000000000"
  },
- "summary": null,
+ "summary": "《贯经堂米帖》第一册之一，收宋米芾尺牍之二。尺牍为日常往来书翰，米芾随手挥洒，笔势跳宕多姿，刻帖颇能传其真趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_28056.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

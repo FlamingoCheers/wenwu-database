@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000033N000000016\n more\n \n 贈帖000033N000000017\n 贈帖000033N000000018\n 贈帖000033N000000019\n 贈帖000033N000000020"
  },
- "summary": null,
+ "summary": "《秘阁帖》第九册之一，收唐孙过庭书虞世南《狮子赋》。孙过庭以草书擅名，笔势纵横，此帖以草法书录前贤赋作，为其书迹刻本之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_28101.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

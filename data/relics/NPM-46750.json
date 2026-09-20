@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉002058N000000001"
  },
- "summary": null,
+ "summary": "玉頂取「秋山」為題，屬遼金系統玉作中最具代表性的題材，描寫北地秋日山林間群獸出沒的行獵景象，饒具塞外風情，原為器蓋鈕飾。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_46750.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

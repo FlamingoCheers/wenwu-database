@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001289N000000010"
  },
- "summary": null,
+ "summary": "《名绘集珍》册一页，宋李安忠《野菊秋鹑》。绘野菊丛畔鹌鹑，属秋景花鸟小品，鹌鹑入画常寓平安之意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14630.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

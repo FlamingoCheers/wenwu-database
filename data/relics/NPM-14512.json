@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001254N000000001"
  },
- "summary": null,
+ "summary": "《历代集绘》册之一开，题宋徽宗《独鹤图》，绘孤鹤独立的清雅姿态，属翎毛题材小品。宋徽宗以精工花鸟著称。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14512.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

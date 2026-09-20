@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003492N000000001"
  },
- "summary": null,
+ "summary": "《艺苑胪珍》册一页，宋赵令穰《太液晴帆》。写宫苑太液池上晴日帆影之景，属楼台界画与湖山小景结合之作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14683.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

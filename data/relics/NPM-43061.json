@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "購瓷000187N000000000"
  },
- "summary": null,
+ "summary": "耀州窯青瓷小碗，施青釉，釉面勻淨瑩潤，器形簡素規整，為耀州窯日用飲器類的常見樣式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43061.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

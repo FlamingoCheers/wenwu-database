@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000168N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十一册所收苏轼《黄州寒食帖》刻本。帖为东坡贬谪黄州时所作寒食二诗，行书随情绪起伏跌宕，有“天下第三行书”之誉。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21758.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

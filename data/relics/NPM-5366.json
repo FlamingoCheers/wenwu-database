@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故銅001903N000000000"
  },
- "summary": "八瓣菱花形鏡，半球鈕，重瓣花鈕座。",
+ "summary": "唐代八瓣菱花形銅鏡，半球形鈕，鈕座飾重瓣花紋，鏡背以寶相花為主紋。寶相花為唐代流行的理想化寶花紋樣，此鏡鑄工精美。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_5366.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000197N000000014"
  },
- "summary": null,
+ "summary": "宋拓《大观帖》第四册之一，收录唐柳公权《荣示帖》，书札上石，为临池鉴赏之资。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_23372.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

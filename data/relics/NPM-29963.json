@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016696N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷划花莲纹碟，形制小巧规整，白釉温润。莲花纹样清新，划痕深浅有致，积釉处色深，衬出纹饰层次，是定窑盛期常见的日用器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29963.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

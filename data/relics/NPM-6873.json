@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003136N000000012"
  },
- "summary": null,
+ "summary": "《宋钱选写生图》册中一开，画题“寿带果蔬”。绘寿带鸟与果蔬，花鸟蔬果并陈。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_6873.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

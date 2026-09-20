@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003481N000000002"
  },
- "summary": null,
+ "summary": "《集古名绘》册一页，宋李嵩《楼船出海》。绘楼船扬帆出海之景，舟楫结构谨严，李嵩以界画与风俗题材著称。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14671.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

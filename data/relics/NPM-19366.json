@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000320N000000000"
  },
- "summary": null,
+ "summary": "宋龔開《人物》軸。龔開為宋末元初文人畫家，善人物鞍馬。此軸以人物為題，筆墨古拙，線條勁健，具宋遺民畫家風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_19366.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

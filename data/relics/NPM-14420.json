@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000994N000000000"
  },
- "summary": null,
+ "summary": "题宋代江参《千里江山图》卷。以长卷写连绵千里的江山胜景，笔墨苍润，属山水长卷。江参以善画江南山水著称。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14420.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

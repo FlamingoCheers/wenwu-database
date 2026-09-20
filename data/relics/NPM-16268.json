@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000151N000000016\n more\n \n 故帖000151N000000017"
  },
- "summary": null,
+ "summary": "本幅为《宋榻大观帖》册第四卷之一开，摹刻唐李邕《晴熱帖》。李邕以行书著称，此幅为宋拓刻帖零页。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_16268.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003136N000000003"
  },
- "summary": null,
+ "summary": "《宋钱选写生图》册中一开，画题“白头翁”。绘白头翁禽鸟，写生细腻，或寓祥瑞之意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_6864.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

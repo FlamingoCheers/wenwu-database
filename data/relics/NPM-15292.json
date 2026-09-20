@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003489N000000014"
  },
- "summary": null,
+ "summary": "《名画荟锦》册中一开，题明代徐贲作疏树竹屋。徐贲为明初画家，善山水竹石，此帧绘疏树掩映竹屋，笔墨疏秀，具文人清趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15292.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

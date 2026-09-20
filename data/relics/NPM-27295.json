@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000011N000000000"
  },
- "summary": null,
+ "summary": "《平遠山房法帖》第三冊所收，史浩尺牘摹刻本。史浩為南宋名臣，其書蹟傳世稀少，賴叢帖摹刻以存，可補書史之資。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27295.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000013N000000000"
  },
- "summary": null,
+ "summary": "《苦笋赋》为黄庭坚咏物小赋名作，赋苦笋之味并寄意趣，书法笔致遒媚，为习山谷书者所熟悉。此为《三希堂法帖》第十三册刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21912.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

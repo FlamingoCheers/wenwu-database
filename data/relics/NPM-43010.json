@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "購瓷000133N000000000"
  },
- "summary": null,
+ "summary": "唐三彩打馬球俑，人騎馬上作揮杖擊毬狀，人馬姿態動感十足，施三彩釉，再現唐代馬球運動的風尚。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43010.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

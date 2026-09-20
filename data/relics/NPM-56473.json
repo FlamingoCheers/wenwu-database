@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005221N000000000"
  },
- "summary": null,
+ "summary": "南宋海棠形玉飾件，器面琢獸紋。海棠式曲瓣造型柔美，源於花口的審美傳統，配以獸紋古意，是宋代巧思的寫照。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_56473.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

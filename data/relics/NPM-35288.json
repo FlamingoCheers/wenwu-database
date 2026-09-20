@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016588N000000000"
  },
- "summary": null,
+ "summary": "白瓷嬰兒枕，宋代製品。枕作伏臥孩童背承枕面之形，嬰兒神態憨態可掬，通體白釉，髮眉衣飾以黑彩描繪，造型生動可愛，兼具寢具實用與瓷塑趣味，為宋代嬰戲題材佳作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35288.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

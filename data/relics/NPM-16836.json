@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故文000554N000000001"
  },
- "summary": null,
+ "summary": "紫檀木盒，盖面嵌花鸟纹玉饰，纹饰具自然生趣，盒体较高，为收贮器物之匣盒。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_16836.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

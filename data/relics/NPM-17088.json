@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000193N000000000"
  },
- "summary": null,
+ "summary": "《御刻墨妙轩法帖》为清代宫廷摹刻之丛帖。此册摹刻宋代张即之所书《汪氏报本庵记》，属记文书法名迹；张即之为南宋名家，楷法劲健。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17088.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

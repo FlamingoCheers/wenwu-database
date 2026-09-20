@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000288N000000000"
  },
- "summary": null,
+ "summary": "元代王蒙《秋山草堂图》轴。绘秋山红树间草堂掩映之景，属文人隐居山水题材，笔墨繁密苍润，具王蒙典型风格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_698.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

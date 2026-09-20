@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001116N000000006"
  },
- "summary": null,
+ "summary": "舊題宋馬遠《小品》冊之一「綠閣坐賞」，繪綠蔭樓閣中閒坐賞景，幽居之樂躍然紙上，構圖簡遠。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_3810.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

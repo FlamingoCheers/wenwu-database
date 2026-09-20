@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003462N000000010"
  },
- "summary": null,
+ "summary": "《宋人绘珍片玉》册中一开，为郭熙《雪山行旅》。郭熙为北宋山水大家，倡“三远”之法。图绘雪岭行旅，卷云皴与蟹爪枝法可见其典型风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_10860.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

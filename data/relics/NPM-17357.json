@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000051N000000000"
  },
- "summary": null,
+ "summary": "此册为北宋《绛帖》第十册拓本之一，刊唐代僧人怀素《正素帖》。全帖以草书出之，线条圆劲流走，行笔疾徐相间，为怀素书迹的著名刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_17357.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

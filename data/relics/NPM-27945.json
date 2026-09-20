@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈書000640N000003000"
  },
- "summary": null,
+ "summary": "宋黄庭坚书唐韩伯庸《幽兰赋》双钩本册之三。赋以香草喻君子，黄庭坚行书中宫紧结、长画放纵，双钩本可供考察其用笔形迹。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27945.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

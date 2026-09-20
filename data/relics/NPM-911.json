@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000070N000000000"
  },
- "summary": null,
+ "summary": "宋代黄庭坚书《寒山子庞居士诗》卷，录唐代寒山子与庞居士诗篇，属宋人诗卷法书，笔势舒展。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_911.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

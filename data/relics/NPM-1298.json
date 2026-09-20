@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000985N000000000"
  },
- "summary": null,
+ "summary": "宋代李公麟《画丽人行》卷。取杜甫丽人行诗意，绘丽人春游之盛，人物宛丽、衣纹流利，见李公麟以白描人物著称的画风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1298.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

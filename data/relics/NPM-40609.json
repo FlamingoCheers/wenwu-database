@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷013581N000000000"
  },
- "summary": null,
+ "summary": "宋定窯白瓷葵口碟，口沿起伏如葵花瓣，胎薄質細，白釉勻潤，造型簡潔秀巧，為定窯常見的日用碟類。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_40609.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

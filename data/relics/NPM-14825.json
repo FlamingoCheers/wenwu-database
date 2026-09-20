@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000150N000000007"
  },
- "summary": null,
+ "summary": "《宋吴说尺牍》册中一页，以“再拜”具礼之书札，属吴说尺牍册之一，为宋代文人往来书信墨迹。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14825.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

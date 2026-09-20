@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001254N000000004"
  },
- "summary": null,
+ "summary": "《历代集绘》册之一开，题宋代李公麟《白描人物》，以墨线白描写人物情态，属人物题材。李公麟为宋代白描画大家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14515.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

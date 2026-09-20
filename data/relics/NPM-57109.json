@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005969N000000000"
  },
- "summary": null,
+ "summary": "玉斧形佩，仿古兵器斧鉞之形，斧與福諧音，常寓吉祥之意，器形小巧，屬元代仿古玉佩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57109.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

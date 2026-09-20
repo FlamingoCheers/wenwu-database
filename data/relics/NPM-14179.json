@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001829N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋苏汉臣《古佛像》，绘古佛坐像。道释人物画在宋代延续传统仪轨，此轴佛像庄严古拙，可供考察宋人佛画样式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14179.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

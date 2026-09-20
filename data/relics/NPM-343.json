@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001241N000000001"
  },
- "summary": null,
+ "summary": "《藝苑藏真》冊（下）之一開，傳為宋代林椿所繪〈山茶霽雪〉。畫寫雪後初晴、山茶綻放之景，設色雅潔，對比映襯成趣。林椿善寫花果翎毛，此開體現宋代院體花鳥畫寫生的精妙。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_343.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

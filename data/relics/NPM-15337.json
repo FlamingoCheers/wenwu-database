@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003497N000000003"
  },
- "summary": null,
+ "summary": "《古香片羽》册中一开，题宋代许道宁作山村暮霭。绘暮色苍茫中山村掩映，峰峦简淡，烟霭横生，具平远山水意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15337.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

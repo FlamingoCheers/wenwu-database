@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000246N000000012"
  },
- "summary": null,
+ "summary": "《宋人法书》第四册中一开，为韩元吉致司马朝议尺牍。韩元吉为南宋文士，此牍笔致爽利，字形疏秀，具文人书问雅意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15531.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

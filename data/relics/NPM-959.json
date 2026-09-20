@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000237N000000002"
  },
- "summary": null,
+ "summary": "《宋四家集册》之一，收苏轼致“子厚宫使正议”尺牘。属士大夫往还书问，具敬语称谓，用笔沉着丰润，可见东坡日常挥毫本色。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_959.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001224N000000000\n more\n \n 故畫001224N000000B01\n 故畫001224N000000B02"
  },
- "summary": null,
+ "summary": "宋高宗书《孝经》经文，马和之补绘图像，图文相间成册，书画合璧，为儒家经典之图写。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_237.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

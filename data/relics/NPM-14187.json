@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001843N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋陈居中《无量寿佛像》，绘无量寿佛像。无量寿佛即阿弥陀佛，净土信仰尊崇之，此轴属宋代道释人物画。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14187.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

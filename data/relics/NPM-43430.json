@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "贈瓷000397N000000000"
  },
- "summary": null,
+ "summary": "唐代越窯青瓷缽，通體施青釉，釉色青潤如玉，器形圓整，為越窯盛食器類，體現千峰翠色的釉色之美。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43430.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

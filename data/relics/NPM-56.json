@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001237N000000004"
  },
- "summary": null,
+ "summary": "此為「歷朝畫幅集冊」中一開，題為宋代林椿「花木珍禽」。林椿為南宋畫院名家，善寫花卉翎毛，此頁寫花木間珍禽棲止，屬宋代院體小品一路。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_56.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

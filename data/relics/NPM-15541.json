@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000246N000000023"
  },
- "summary": null,
+ "summary": "《宋人法書（四）》冊之一開，陸偃呈致提舉郎中的劄子，屬宋代公牘類書跡，與尺牘同為宋人書法傳世的重要載體。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15541.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

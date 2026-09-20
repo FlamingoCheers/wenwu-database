@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000087N000000015\n more\n \n 贈帖000087N000000016\n 贈帖000087N000000017\n 贈帖000087N000000018\n 贈帖000087N000000019"
  },
- "summary": null,
+ "summary": "摹刻宋苏轼《与颖师札》。颖师盖为方外之人，此札与之往还，行书圆活，笔随情转，为东坡书问之选刻。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22504.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

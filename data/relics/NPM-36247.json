@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016054N000000000"
  },
- "summary": null,
+ "summary": "定窯蓮瓣杯，宋代製品。器身以蓮花瓣為形，瓣棱分明，如蓮初綻，造型別致秀美。白釉溫潤勻淨，素雅無紋而以形制取勝，為仿蓮花意象的飲器，清雅可喜。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36247.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

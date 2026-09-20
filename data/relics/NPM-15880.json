@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003486N000000010"
  },
- "summary": null,
+ "summary": "本幅选自《名繪薈萃》册，题北宋赵伯驹作，绘渡江场景，舟楫人物与江山景致相合，属山水人物题材册页。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15880.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

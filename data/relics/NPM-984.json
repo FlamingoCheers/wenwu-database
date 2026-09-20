@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000236N000000010"
  },
- "summary": null,
+ "summary": "《宋四家真迹》册之一，收米芾致“景文隰公”尺牘。受书人以字号与职衔相称，属友朋往还书问，米书笔势跳跃、俊爽有神。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_984.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

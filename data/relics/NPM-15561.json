@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001239N000000011"
  },
- "summary": null,
+ "summary": "《唐宋元畫集錦》冊之一開，舊題宋蘇漢臣〈踘場叢戲〉，寫眾人蹴鞠為戲的熱鬧場面，屬宋代風俗畫題材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15561.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

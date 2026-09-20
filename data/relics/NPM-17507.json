@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000599N000000002"
  },
- "summary": null,
+ "summary": "此册为《唐褚遂良临王羲之父子四帖》之一，临王羲之帖。褚遂良深研右军笔法，此临点画流畅、形神兼到，是唐人临晋帖的代表性作品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_17507.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003467N000000009"
  },
- "summary": null,
+ "summary": "《宋元集绘》册中一开，题元代王蒙作松径来宾。绘松径蜿蜒、宾朋来访之景，山石皴笔繁密，人物虽小而情态宛然。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15451.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

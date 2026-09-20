@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005868N000000000"
  },
- "summary": null,
+ "summary": "玉雕人像，人物姿態古樸，屬金代人物玉雕，或供繫佩，或作案頭把玩小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57009.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

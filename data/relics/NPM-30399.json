@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷004299N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷碗，器内划花双凫纹，刀法轻灵，水鸟顾盼之姿跃然釉面。划花装饰以线造型，简练传神，展现定窑工匠高超的运刀技巧与自然意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_30399.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

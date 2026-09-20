@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000976N000000000"
  },
- "summary": null,
+ "summary": "此段为传唐代卢鸿《草堂十志图》卷中《洞元室》一景。洞元室指幽邃玄妙之居室，图绘林壑间的隐居处所，意境清寂，蕴含道家栖隐思想。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_17170.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

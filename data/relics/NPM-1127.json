@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000243N000000021"
  },
- "summary": null,
+ "summary": "此开为《宋人法书》第一册之一，辑北宋吕嘉问所书尺牍。尺牍即文人往来书信，墨迹自然率意，可资考察宋代士大夫的日常书风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1127.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

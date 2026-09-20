@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000011N000000016\n more\n \n 故帖000011N000000017\n 故帖000011N000000018"
  },
- "summary": null,
+ "summary": "宋拓《至道御书法帖》第七册。至道为宋太宗年号，此帖为摹御书之丛刻，宋拓装册，可考见宋代刻帖之规模与拓工。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22652.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

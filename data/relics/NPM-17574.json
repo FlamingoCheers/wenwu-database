@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000213N000000000"
  },
- "summary": null,
+ "summary": "此卷题宋代李公麟《七佛图》，描绘七尊佛像。李公麟以白描人物著称，线条行云流水，佛像庄严静穆，为道释人物画的名目佳作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_17574.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

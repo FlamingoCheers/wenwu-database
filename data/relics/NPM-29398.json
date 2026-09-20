@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010754N000000000"
  },
- "summary": null,
+ "summary": "定窑白瓷笠式碗，碗形如倒置斗笠，轻巧雅致。器内印花云凤纹，凤凰翔舞于云间，布局饱满有序，为定窑印花工艺的代表纹饰。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29398.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

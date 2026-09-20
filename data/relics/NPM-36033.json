@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000067N000000000"
  },
- "summary": null,
+ "summary": "《觀海堂帖》冊之一，收宋蘇軾雨中所賦詩作之刻帖。即景抒懷，詩筆灑落，拓本留存東坡書跡神采，屬法帖冊頁中的蘇書資料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_36033.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

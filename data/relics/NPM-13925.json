@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000402N000000000"
  },
- "summary": null,
+ "summary": "米芾书《鹡鸰颂》卷。《鹡鸰颂》本为唐玄宗颂兄弟之情诗篇，米芾以俊迈行书书之，笔势飞扬，是米书传世的名品题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13925.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

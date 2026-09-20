@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004592N000000000"
  },
- "summary": null,
+ "summary": "宋代玉筆筒，圓筒形制，可納筆於中。以玉治文房，溫雅可觀，此類筆筒為書齋陳設清玩，兼顯主人品味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55933.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

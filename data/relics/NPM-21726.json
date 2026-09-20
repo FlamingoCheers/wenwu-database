@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000163N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第六册所收宋高宗书曹植《洛神赋》刻本。高宗行书温润娴雅，与赋中绮丽意境相发，为帝王书迹名品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21726.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001266N000000007"
  },
- "summary": null,
+ "summary": "此幅為《宋元名人花鳥合璧》冊中一開，舊題宋劉涇〈螃蟹〉，以螃蟹入畫，屬水族寫生冊頁小品，取材別具生活意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/npm/detail_5139.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

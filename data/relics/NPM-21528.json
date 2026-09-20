@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000181N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第二十四册所收元代饶介书七言律诗三首刻本。饶介为元末吴中名士，工书善草，此册笔法流丽遒美，可见元末帖学一脉风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21528.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

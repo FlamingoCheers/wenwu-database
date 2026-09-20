@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003723N000000000"
  },
- "summary": null,
+ "summary": "《货郎图》立轴，题为苏汉臣作。写货郎挑担陈列百货、婴孩争相围观之景，情态生动热闹，是宋代婴戏与市井题材结合的常见作品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13626.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001233N000000005"
  },
- "summary": null,
+ "summary": "《名绘集珍》册之一，题为宋燕文贵《访戴图》。画题取王子猷雪夜访戴逵的典故。燕文贵为北宋初画家，善画山水人物，自成一体，世称「燕家景致」，此页属山水人物小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_300.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

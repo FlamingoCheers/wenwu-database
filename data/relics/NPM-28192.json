@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000067N000000000"
  },
- "summary": null,
+ "summary": "《观海堂帖》册之一，收宋苏轼天竺惠净师以丑石赠行三绝句。诗咏僧人以丑石相赠的雅事，东坡以行书自录，意趣天成。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_28192.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

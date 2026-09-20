@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000599N000000001"
  },
- "summary": null,
+ "summary": "此册为《唐褚遂良临王羲之父子四帖》之一，临王徽之帖。褚遂良为初唐书法名家，临本笔法精严，兼具晋人韵味与唐人法度，可窥二王书风传绪。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_17506.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

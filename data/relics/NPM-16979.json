@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000192N000000000"
  },
- "summary": null,
+ "summary": "《御刻墨妙轩法帖》为清代宫廷摹刻之丛帖。此册摹刻宋代苏轼《黄州谢表》，属表章类文章之书迹，帖名与其黄州时期相关。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_16979.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000067N000000000"
  },
- "summary": null,
+ "summary": "《觀海堂帖》冊之一，錄宋蘇軾為弟蘇轍賀壽之詩刻帖。詩文中見手足情深，墨蹟摹勒上石，傳蘇書丰神，兼具文獻與書藝價值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_36028.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

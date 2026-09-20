@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016062N000000000"
  },
- "summary": null,
+ "summary": "宋定窯白瓷印花盤，盤心印雙螭紋，螭龍盤繞對望，線紋流暢有力，構圖飽滿有致。胎白釉潤，器形規整，展現定窯模印工藝的精細與生動。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36253.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000258N000000010"
  },
- "summary": null,
+ "summary": "《元人詩翰》冊之一開，為元代薛植致雲林徵君（倪瓚）的尺牘。尺牘為友朋往來書札，揮灑自然，書風隨性流露性情。此類文人書翰兼具文獻與書法雙重價值，可資考見元人交遊。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_342.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

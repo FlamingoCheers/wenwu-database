@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001254N000000017"
  },
- "summary": null,
+ "summary": "《历代集绘》册之一开，题明代徐贲《山水》，绘山林幽致，属明初文人山水小品。徐贲为明初画家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14528.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

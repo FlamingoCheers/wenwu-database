@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003496N000000002"
  },
- "summary": null,
+ "summary": "本幅选自《吉光珍壽》册，题北宋李公年作，绘丹嶂映日、晴湖开阔之景，属山水题材册页小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15947.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

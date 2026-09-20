@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003488N000000001"
  },
- "summary": null,
+ "summary": "《名绘集珍》册中一开，题宋代赵伯驹作仙山楼阁。绘云山之间楼阁隐现，青绿设色，工细雅丽，具仙家境界。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15299.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

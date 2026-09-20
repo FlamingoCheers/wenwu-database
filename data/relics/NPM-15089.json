@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003459N000000001"
  },
- "summary": null,
+ "summary": "《唐宋元明集绘》册中一开，旧题唐代杨升作，绘冬景山水，岩壑萧疏，具寒林雪意。旧传杨升善没骨山水，此帧笔墨简淡，存古法遗意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15089.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

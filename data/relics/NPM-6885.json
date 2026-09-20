@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003138N000000002"
  },
- "summary": null,
+ "summary": "《宋钱选画花篮图》册中一开，画题“兰花”。绘兰花，兰为花中君子，笔墨清逸。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_6885.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

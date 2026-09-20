@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003482N000000001"
  },
- "summary": null,
+ "summary": "《集古名繪》冊之一開，舊題宋李唐〈江干蕭寺〉，寫江岸山樹間蕭寺掩映的清寂景致，屬點綴樓閣的山水小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15609.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

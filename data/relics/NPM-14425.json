@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001234N000000004"
  },
- "summary": null,
+ "summary": "《唐宋名绘》册之一开，题宋代高克明《秋林水鸟》，绘秋日林梢水禽栖鸣之景，属花鸟题材小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14425.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

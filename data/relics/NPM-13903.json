@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000214N000000000"
  },
- "summary": null,
+ "summary": "《云山烟树》卷，题为米芾作。横卷形式的水墨云山，以点染写烟树迷蒙、山形隐现，具“米氏云山”烟雨空濛的典型意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13903.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

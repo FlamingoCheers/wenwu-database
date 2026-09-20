@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000252N000000000\n more\n \n 故書000252N000000B01\n 故書000252N000000B02\n 故書000252N000000B03\n 故書000252N000000B04"
  },
- "summary": null,
+ "summary": "此冊合裱元代書家趙孟頫與鮮于樞墨蹟，二人為元代書法代表，趙書秀潤，鮮于書雄放，合冊並觀可見元代書壇風貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_632.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000034N000000021"
  },
- "summary": null,
+ "summary": "《秘阁帖》第十册之一，收唐柳公权书《十六日帖》。帖以日期为名，柳书用笔刚健，点画爽利，此为摹刻流传的尺牍刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_28125.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

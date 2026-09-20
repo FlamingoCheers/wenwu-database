@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000174N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十七册所收南宋范成大《致养正监庙奉议尺牍》刻本，以官衔称呼受书人。行书笔致清遒，是石湖居士传世尺牍之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21704.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

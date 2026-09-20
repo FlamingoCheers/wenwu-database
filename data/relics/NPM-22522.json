@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000089N000000027"
  },
- "summary": null,
+ "summary": "摹刻宋苏轼书尺牍之一。行草相生，笔势起伏，虽为寻常书问，而坡公笔墨性情自见，属丛帖选页。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_22522.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

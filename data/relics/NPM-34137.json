@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷017377N000000000"
  },
- "summary": null,
+ "summary": "宋白瓷碟。敞口淺腹，通體施白釉，釉色白淨溫潤。白瓷為宋代北方窯場的大宗製品，此碟素面無紋，形制簡潔規整，屬日常飲食用器，可見當時白瓷樸實耐用的品格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_34137.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000016N000000003\n more\n \n 故帖000016N000000004"
  },
- "summary": null,
+ "summary": "宋拓褚遂良法帖册之一，传为褚遂良草书《阴符经》，唐人书迹摹勒上石，可供参酌褚书风格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22958.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000011N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第五册，收北宋苏轼《与梦得秘校书》。苏轼为北宋文豪，书法位列“宋四家”。此帖为致友人梦得秘校的尺牍刻本，笔意自然流畅，墨拓装册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29680.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

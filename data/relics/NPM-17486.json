@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001100N000000000"
  },
- "summary": null,
+ "summary": "此段为《宋高宗书女孝经马和之补图》上卷之《孝治章》。经文言孝可化家治国，配图描绘相应情境，书画相辅，是南宋宫廷倡导教化的代表作题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17486.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

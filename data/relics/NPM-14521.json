@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001254N000000010"
  },
- "summary": null,
+ "summary": "《历代集绘》册之一开，题宋代马世昌《银杏翠鸟》，绘银杏枝头翠鸟栖止之景，属花鸟题材小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14521.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

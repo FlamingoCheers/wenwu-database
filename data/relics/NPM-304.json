@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001233N000000003"
  },
- "summary": null,
+ "summary": "《名绘集珍》册之一，题为宋王诜《仙境图》。王诜为北宋画家，山水师法李成，笔致清润。此页写仙山楼阁意境，云烟缥缈，属山水画中的仙境题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_304.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

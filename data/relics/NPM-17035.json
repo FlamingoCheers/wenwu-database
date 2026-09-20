@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000976N000000000"
  },
- "summary": null,
+ "summary": "本卷旧题唐代卢鸿作。卢鸿隐居嵩山，图绘居处十景并系诗文，是为《草堂十志图》。此段绘十景之首「草堂」，写隐居读书讲习之所。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_17035.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

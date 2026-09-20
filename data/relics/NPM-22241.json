@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000169N000000000"
  },
- "summary": null,
+ "summary": "此为《三希堂法帖》第十二册所收宋苏迈题郑天觉画刻帖。苏迈为苏轼长子，题画之作文词典雅，书承家范，是苏氏一门翰墨遗存。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22241.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001246N000000026"
  },
- "summary": null,
+ "summary": "此幅為《宋元集繪》冊中一開，舊題宋許迪〈野蔬草蟲〉，畫田間野蔬與草蟲，取材自然小景，觀察細膩入微，屬宋代院體草蟲冊頁。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_511.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016629N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷盘，器内划花饰双凤纹，线条流畅飘逸。划花为定窑代表性装饰技法，以刀代笔，纹样在牙白釉下若隐若现，雅致精美，为定窑白瓷经典品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29109.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

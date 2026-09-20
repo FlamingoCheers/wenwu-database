@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000086N000000000"
  },
- "summary": null,
+ "summary": "辽代萧瀜《画花鸟》立轴，绘禽鸟花枝之景，属花鸟画题材。萧瀜为辽代画家，此轴可见辽地花鸟画风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_917.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

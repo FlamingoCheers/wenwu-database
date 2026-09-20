@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000239N000000001"
  },
- "summary": null,
+ "summary": "《宋诸名家墨宝》册中一开，为杜衍书尺牍。杜衍为北宋名臣，工书法。此札为书信墨迹，笔致温润端严，是考察北宋士大夫书风与尺牍格式的实物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1016.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

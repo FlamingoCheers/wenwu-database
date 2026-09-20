@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000007N000000000"
  },
- "summary": null,
+ "summary": "此卷旧题北宋李公麟《山庄图》。李公麟号龙眠居士，以白描见长，图绘山庄景致与文人山居生活，为宋代文人山水题材名迹。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_673.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

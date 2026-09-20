@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001837N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋李嵩《岁朝图》。岁朝即岁首元旦，此类画作多写瓶花清供、岁朝欢庆，寓迎新纳福之意，为宋代节令画题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14183.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

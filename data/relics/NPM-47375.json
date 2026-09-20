@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈玉000004N000000004"
  },
- "summary": null,
+ "summary": "此為北宋禪地玉冊玉匱上的嵌片。玉冊為帝王封禪大典中鐫刻祝文的玉質冊書，玉匱為庋藏玉冊的函匣，嵌片即匱身鑲飾的玉構件，見證宋代封禪禮制。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_47375.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

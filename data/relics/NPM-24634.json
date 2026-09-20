@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "贈銅000237N000000000"
  },
- "summary": null,
+ "summary": "唐代佛立像，立姿造像，形制小巧，为供养礼敬之用，属唐式小型造像。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_24634.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

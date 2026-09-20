@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001265N000000003"
  },
- "summary": null,
+ "summary": "《历代名绘》册之一开，题五代黄筌《山茶》，绘山茶花盛放的姿态，属花卉题材小品。黄筌为五代花鸟画大家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14606.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

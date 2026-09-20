@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014362N000000000"
  },
- "summary": null,
+ "summary": "宋白瓷印花碗，主紋為蓮塘游魚，構圖飽滿生動，寓連年有餘之祥。胎細釉白，製工精良，是宋代印花白瓷常見器類。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_37693.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

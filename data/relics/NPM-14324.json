@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000249N000000004"
  },
- "summary": null,
+ "summary": "此册页出自《宋元宝翰》，为张孝祥书尺牍。张孝祥为南宋状元词人，书法遒劲，此札兼具词人与书家墨迹价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14324.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

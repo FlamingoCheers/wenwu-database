@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉009768N000000000"
  },
- "summary": null,
+ "summary": "小型玉璧，圓形中孔，器面樸素無紋。璧為中國古代重要的禮玉，古有「以蒼璧禮天」之制，此類小璧亦可用作佩繫之飾，屬元代玉器中的傳統器型。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_47736.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

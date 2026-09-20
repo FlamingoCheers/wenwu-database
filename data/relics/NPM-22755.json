@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000090N000000042\n more\n \n 贈帖000090N000000043"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第十三册收宋黄庭坚《二士帖》。尺牍小品，以行书出之，笔致跌宕而法度自在，为山谷书迹刻帖之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22755.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

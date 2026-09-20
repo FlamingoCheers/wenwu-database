@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001224N000000014"
  },
- "summary": null,
+ "summary": "《宋高宗书孝经马和之绘图》册之一，此开为「感应章」经文书法。传宋高宗以端雅楷书书经，笔致圆融，与马和之绘图合为图文合璧之作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_289.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001123N000000009"
  },
- "summary": null,
+ "summary": "明徐賁《獅子林圖》冊之一「問梅閤」，寫園中問梅之閣，取「問梅消息」禪意，景致清幽，饒書卷氣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_3830.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

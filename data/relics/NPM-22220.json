@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000169N000000000"
  },
- "summary": null,
+ "summary": "此为《三希堂法帖》第十二册所收宋苏轼书《春帖子词》刻帖。春帖子词为立春时题写迎祥之诗，多咏节令风物，此篇词翰双美。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22220.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000115N000000000"
  },
- "summary": null,
+ "summary": "明《垂裕阁法帖》第六册之一，收唐代柳公权所书《孙绰后序》刻本。柳公权书法骨力清健，与颜真卿并称“颜筋柳骨”。此为墨拓剪裱装册本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29383.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

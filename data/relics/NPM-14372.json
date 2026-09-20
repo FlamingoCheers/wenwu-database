@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001247N000000007"
  },
- "summary": null,
+ "summary": "《煙雲集繪》第三冊之一开，题宋代苏汉臣《杂技戏孩》，绘艺人表演杂技、孩童围观嬉戏的热闹场面，属婴戏人物题材小品。苏汉臣以擅绘婴戏著称。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14372.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

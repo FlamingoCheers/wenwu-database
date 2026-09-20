@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003485N000000005"
  },
- "summary": null,
+ "summary": "本幅选自《集珍壽古》册，题南宋李迪作，绘荷塘水畔白鹭伫立之景，属花鸟题材册页小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15939.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

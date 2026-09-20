@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉006221N000000000"
  },
- "summary": null,
+ "summary": "玉雕飛天，飛天源自佛教藝術，作凌空飛舞的天人形象，裙帶飄舉，唐宋玉器中習見，供佩飾之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57343.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

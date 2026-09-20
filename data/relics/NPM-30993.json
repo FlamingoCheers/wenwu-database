@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000019N000000000"
  },
- "summary": null,
+ "summary": "明代《郁冈斋墨妙帖》第五册，收宋章惇题跋。郁冈斋墨妙帖为明人汇刻历代法书名迹的丛帖，以摹刻精审著称。章惇为北宋名臣，亦工书法，此册保存其题跋书迹刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_30993.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

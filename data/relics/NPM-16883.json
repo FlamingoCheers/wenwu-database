@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故文000540N000000001"
  },
- "summary": null,
+ "summary": "长方形木盒，嵌玉璧为饰，盒体扁厚，为院藏文物之附属匣盒，用以收贮保护器物。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_16883.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

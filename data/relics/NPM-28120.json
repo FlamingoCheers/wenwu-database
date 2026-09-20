@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000034N000000013\n more\n \n 贈帖000034N000000014"
  },
- "summary": null,
+ "summary": "《秘阁帖》第十册之一，收唐李邕书《家口帖》。李邕行书豪挺沉雄，此尺牍刻本虽为小件，亦见其结体宽博、用笔峻拔的面目。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_28120.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

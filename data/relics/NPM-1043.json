@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000240N000000003"
  },
- "summary": null,
+ "summary": "《宋贤书翰》册中一开，为黄庭坚所书药方。以书法写录医药方剂，实用书写中见笔法功力，日常而自然，别具文人生活气息，题材在传世法书中较为少见。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1043.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

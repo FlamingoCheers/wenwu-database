@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003460N000000004"
  },
- "summary": null,
+ "summary": "《唐宋元明集绘》册中一开，题五代南唐徐熙作月下海棠。徐熙花鸟以落墨野逸见长，此帧写海棠于月色之下，清姿幽致，题材别致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15095.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000237N000000002"
  },
- "summary": null,
+ "summary": "《宋四家集册》之一，收黄庭坚〈山预帖〉。帖中言及山预（山药）之事，为日常书问之作。山谷书法中宫紧结、长笔四展，此帖可见其行书面目。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_960.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000089N000000016\n more\n \n 贈帖000089N000000017"
  },
- "summary": null,
+ "summary": "摹刻宋苏轼《致子厚宫使正议尺牍》。子厚为章惇之字，宫使、正议皆官称，此札书致章惇，词翰并具，行书沉着。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22517.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

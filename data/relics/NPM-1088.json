@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000251N000000001"
  },
- "summary": null,
+ "summary": "《宋元四家书》册中一开，为陆游上问台闳尊眷尺牍。此札为向尊长眷属问安之书信，情辞恳切，行笔流畅自然，兼具书法与文献价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1088.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

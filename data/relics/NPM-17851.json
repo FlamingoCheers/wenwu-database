@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004738N000000000"
  },
- "summary": null,
+ "summary": "玉劍璏為古劍鞘上的扣飾，供穿革帶佩掛之用。此件明代所製，器面浮雕乳丁紋，排列規整，玉質溫潤，延續漢代玉具劍的仿古傳統。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_17851.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

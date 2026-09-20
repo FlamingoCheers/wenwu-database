@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000026N000000000"
  },
- "summary": null,
+ "summary": "题五代后蜀黄筌《勘书图》轴，绘文士展卷校书的情景，属人物题材立轴。黄筌为五代绘画大家，兼擅人物花鸟。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14444.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004900N000000000"
  },
- "summary": null,
+ "summary": "此件为元代玉剑璏，扁长造型，面浮雕螭纹，螭虎姿态灵动。玉剑璏用于贯带佩剑，此器可见元人仿古玉作的趣味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_17639.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

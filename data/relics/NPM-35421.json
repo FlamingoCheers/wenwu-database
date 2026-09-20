@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購畫001298N000000000"
  },
- "summary": null,
+ "summary": "清代王素豬冊頁，描繪豬隻憨厚之態，筆墨質樸生動，線條簡練傳神，取材生活趣味，屬清代動物題材冊頁小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35421.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

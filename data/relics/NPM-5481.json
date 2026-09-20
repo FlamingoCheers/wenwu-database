@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故銅000070N000000000"
  },
- "summary": "圓鏡，半球鈕。鏡背滿布菱形四瓣花朵紋。",
+ "summary": "唐代圓形銅鏡，半球鈕，鏡背滿飾菱形四瓣花朵紋，排列規整，繁而不亂。花紋鏡為唐鏡常見品類，此鏡體量較大，鑄紋清晰。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_5481.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

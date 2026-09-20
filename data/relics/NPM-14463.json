@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001248N000000010"
  },
- "summary": null,
+ "summary": "《集古名绘》册之一开，题宋代萧照《关山行旅》，绘关山之间行旅跋涉的情景，属山水行旅题材。萧照师法李唐。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_14463.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

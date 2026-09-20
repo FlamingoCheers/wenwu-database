@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購拓000243N000000000\n more\n \n 購拓000243N000000001\n 購拓000243N000000002"
  },
- "summary": null,
+ "summary": "唐顏真卿書〈元咨碑〉明拓本。碑為顏真卿撰書，記道州刺史元公生平事蹟，書風端莊雄渾，屬顏體楷書成熟風貌。此為明代拓本，傳拓清晰，是研習顏體碑刻的重要資料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_33783.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

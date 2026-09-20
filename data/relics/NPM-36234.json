@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016039N000000000"
  },
- "summary": null,
+ "summary": "定窯劃花芍藥小碗，宋代製品。器形小巧，敞口弧壁，圈足纖秀。內劃芍藥紋，花朵盛放，枝葉舒捲，劃線流暢靈動，白釉溫潤，小碗雅緻可人。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36234.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000172N000000000"
  },
- "summary": null,
+ "summary": "此为宋米芾《戏成呈司谏台坐帖》刻本，收入《三希堂法帖》第十五册。帖谓戏笔成诗呈司谏，见文人雅谑之趣，行书纵逸，兴到笔随。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21902.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

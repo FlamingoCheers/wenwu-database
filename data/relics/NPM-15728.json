@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003142N000000005"
  },
- "summary": null,
+ "summary": "《元王淵畫花卉》冊之一開，舊題元王淵繪〈虎耳草〉，寫虎耳草叢生之態，屬草花寫生冊頁小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -29,7 +29,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15728.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

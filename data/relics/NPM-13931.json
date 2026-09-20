@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000408N000000000"
  },
- "summary": null,
+ "summary": "朱熹自书五言古诗卷，书录自作五言古体诗。行书从容不迫、不事雕饰，与其学者气象相合，可见理学家书风的特质。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13931.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

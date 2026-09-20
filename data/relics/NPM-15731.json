@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003142N000000008"
  },
- "summary": null,
+ "summary": "《元王淵畫花卉》冊之一開，舊題元王淵繪〈花蝶蜻蜓〉，寫花間蝴蝶蜻蜓並見，屬花卉草蟲寫生小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/npm/detail_15731.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

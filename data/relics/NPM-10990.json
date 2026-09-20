@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003501N000000010"
  },
- "summary": null,
+ "summary": "《诸仙妙绘》册中一开，为钱选画水仙。钱选为宋末元初名家，兼擅花鸟。图写水仙丛生，勾花点叶，清劲淡雅，寓高洁之意，为传统水仙题材佳构。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_10990.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

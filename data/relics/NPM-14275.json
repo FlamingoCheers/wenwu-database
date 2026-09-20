@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫002964N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋马远《画雪景》，写雪山寒林之境。马远善作边角小景，雪景虚实相生，为南宋院体山水的代表面目。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14275.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

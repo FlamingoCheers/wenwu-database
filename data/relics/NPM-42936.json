@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "購瓷000047N000000000"
  },
- "summary": null,
+ "summary": "宋代陶模，模面塑蓮花與水波紋樣，為翻製器物紋飾之模具，可見當時模印製作工藝的運用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_42936.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

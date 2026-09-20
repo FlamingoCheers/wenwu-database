@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000182N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第二十五册所收元代鲜于枢书唐人《水帘洞诗》刻本。其草法圆劲流畅，兼有唐贤遗韵，是元人草书的代表刻本之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21536.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

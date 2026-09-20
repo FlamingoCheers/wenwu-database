@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003475N000000005"
  },
- "summary": null,
+ "summary": "《宋元明名畫》冊之一開，舊題元王淵〈菊花竹石〉，繪菊花倚石、翠竹相襯，屬元代花鳥竹石小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15665.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

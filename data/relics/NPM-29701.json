@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000012N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第六册，收北宋钱勰《与完夫国信书》尺牍刻本。钱勰为北宋文人书家，家学渊源，工行书。帖经摹刻上石，墨拓装册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29701.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

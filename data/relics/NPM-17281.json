@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000094N000000000"
  },
- "summary": null,
+ "summary": "此册为《快雪堂法帖》之一，刊宋代米芾临王羲之《春秋帖》。原帖属往来书信体，米芾以己意临之，笔画沉着飞动，此拓本可供考见帖学源流。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_17281.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

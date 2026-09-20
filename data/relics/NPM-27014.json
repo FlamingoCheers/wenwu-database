@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷017458N000000000"
  },
- "summary": null,
+ "summary": "南宋哥窯青瓷葵瓣口碗，碗口作葵花瓣式，弧腹淺圈足，通體青釉，開片疏密相間，形制秀雅，為哥窯釉色典型之作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_27014.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

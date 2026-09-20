@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000095N000000000"
  },
- "summary": null,
+ "summary": "《围炉博古图》立轴，题为张训礼作。写文人围炉鉴赏古器物的情景，兼融风俗与博古意趣，反映宋人雅集清玩的生活情调。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1356.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

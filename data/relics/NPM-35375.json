@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷005079N000000000"
  },
- "summary": null,
+ "summary": "白釉葵口盤，宋代製品。盤口作葵花瓣式，淺壁淺足。盤內劃刻牡丹紋，花朵繁盛，枝葉舒展，刀法流利，白釉溫潤，全器花意盎然，為宋代白瓷盤類的典型裝飾。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35375.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

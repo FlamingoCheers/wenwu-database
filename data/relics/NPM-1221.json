@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000282N000000000"
  },
- "summary": null,
+ "summary": "元代王蒙《幽林清逸》轴。绘幽林深处高士独往之景，林木蓊郁、笔法繁细而气脉清朗，体现元人山水清逸幽远的审美旨趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1221.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

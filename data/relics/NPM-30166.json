@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010537N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷洗，内底模印狮子戏球纹，纹样饱满生动。狮子戏球为宋金瓷器常见的吉祥题材，定窑印花工艺精细，此洗体量较大，兼具实用与陈设功能。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_30166.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

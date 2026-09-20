@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000172N000000000"
  },
- "summary": null,
+ "summary": "此为宋米芾《晋纸帖》刻本，收入清乾隆敕刻《三希堂法帖》第十五册。帖涉晋纸之事，见米氏鉴藏趣味，行书流畅，颇见晋人风韵。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21896.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

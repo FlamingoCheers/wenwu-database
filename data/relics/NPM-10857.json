@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003462N000000007"
  },
- "summary": null,
+ "summary": "《宋人绘珍片玉》册中一开，为易元吉《松冈鹿友》。易元吉以画猿猴走兽著称。图绘松冈间鹿群栖止，写生传神，富有山林野逸之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_10857.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

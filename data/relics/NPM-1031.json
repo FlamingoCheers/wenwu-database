@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000239N000000014"
  },
- "summary": null,
+ "summary": "《宋诸名家墨宝》册中一开，为薛绍彭书尺牍。薛绍彭为北宋书法家，与米芾并称，书宗晋唐。此札笔致温润醇雅，具晋人风韵，是宋人师法古调的实例。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1031.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

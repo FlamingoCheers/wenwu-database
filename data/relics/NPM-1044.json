@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000240N000000004"
  },
- "summary": null,
+ "summary": "《宋贤书翰》册中一开，为米芾尺牍。此札为米南宫书信墨迹，运笔沉着痛快，八面出锋，纵逸洒脱，是米芾行书典型风貌的重要实例。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1044.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

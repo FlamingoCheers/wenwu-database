@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫002920N000000000"
  },
- "summary": null,
+ "summary": "合装轴中苏轼《竹》一幅。以水墨写竹，笔墨简逸，属文人墨戏题材，可见苏轼借竹写意之文人画传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_6572.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

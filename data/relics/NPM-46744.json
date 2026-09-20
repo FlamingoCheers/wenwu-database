@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉000865N000000001"
  },
- "summary": null,
+ "summary": "玉頂以螭虎啣靈芝為紋飾，螭虎與芝草枝蔓相互盤繞，雕琢立體生動。螭虎靈芝皆寓祥瑞，此類圓雕玉頂原為器物蓋鈕之飾，屬元代常見玉作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_46744.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005294N000000000"
  },
- "summary": null,
+ "summary": "元代玉鵝小件，鵝體豐圓，情態安閒。鵝與雁是遼金元玉器習見的水禽題材，與漁獵生活相映，此件可佩可賞。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_56536.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

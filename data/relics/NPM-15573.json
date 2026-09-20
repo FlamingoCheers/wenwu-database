@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001242N000000008"
  },
- "summary": null,
+ "summary": "《集古名繪》冊之一開，舊題宋趙令穰〈雲山春靄〉，寫春靄迷濛中雲山遠岫之景，屬宋人擅長的小景山水一格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_15573.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

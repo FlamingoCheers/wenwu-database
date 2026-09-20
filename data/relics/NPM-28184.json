@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000044N000000000"
  },
- "summary": null,
+ "summary": "《贯经堂米帖》第四册之一，收宋米芾书《明道观壁记》。记述观宇情事，米芾以行书挥写，笔势跌宕，是记文类书迹的刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_28184.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

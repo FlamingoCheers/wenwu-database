@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003488N000000007"
  },
- "summary": null,
+ "summary": "《名绘集珍》册中一开，题元代高克恭作夏山烟雨。高克恭善画云山，融合米氏云烟与董巨笔意，此帧写夏日山间烟雨迷蒙，墨韵苍润。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15305.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

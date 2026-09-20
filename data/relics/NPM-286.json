@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001224N000000014"
  },
- "summary": null,
+ "summary": "《宋高宗书孝经马和之绘图》册之一，此开为「感应章」配图。传马和之依经义绘写天人感应之情事，布景简净，人物生动，与经文相配。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_286.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

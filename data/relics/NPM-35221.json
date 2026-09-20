@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷011254N000000000"
  },
- "summary": null,
+ "summary": "白瓷劃花牡丹紋碗，屬宋代常見器類。侈口，弧壁，圈足。內壁刻劃牡丹花紋，線條婉轉流暢，花朵飽滿，配以勻淨白釉，益顯雅潔宜人。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35221.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000061N000000000"
  },
- "summary": null,
+ "summary": "《宋搨武岡帖》第十冊之一開，收唐顏真卿《鄒游帖》。行書尺牘，筆致遒渾，結體寬舒，與其他顏帖同刻一冊，可資比觀對照。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21158.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

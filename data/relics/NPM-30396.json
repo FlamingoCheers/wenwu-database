@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷004296N000000000"
  },
- "summary": null,
+ "summary": "宋代白瓷碗，碗身作梅花式，花口造型别致。此类花式造型脱胎于金银器工艺，胎白釉润，不事雕饰而以造型取胜，反映宋人清雅的生活品味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_30396.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

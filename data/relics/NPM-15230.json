@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003493N000000010"
  },
- "summary": null,
+ "summary": "《丘壑琳琅》册中一开，题明代冷谦作松泉茅舍。绘松荫茅舍、清泉绕屋之景，笔墨简远，意境幽寂，属文人山水小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15230.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

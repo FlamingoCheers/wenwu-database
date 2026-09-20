@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003481N000000010"
  },
- "summary": null,
+ "summary": "《集古名绘》册一页，宋苏汉臣《市担婴戏》。绘货郎担前孩童嬉戏围观的热闹场景，苏汉臣以婴戏、货郎题材著称，写儿童情态生动。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14680.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

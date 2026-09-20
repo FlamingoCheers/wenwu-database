@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001803N000000000"
  },
- "summary": null,
+ "summary": "宋代李公麟《高会习琴图》轴。绘文人雅集中抚琴之乐，人物清古、衣纹飘逸，属琴棋书画一类文人雅趣题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1322.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

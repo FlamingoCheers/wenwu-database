@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000013N000000000"
  },
- "summary": null,
+ "summary": "此軸為南宋畫院畫家李唐所繪〈炙艾圖〉，描繪村醫為病者灸艾的鄉野場景，人物情態生動，屬宋代風俗畫名跡。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_584.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

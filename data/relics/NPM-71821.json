@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中玉000268N000000001"
  },
- "summary": null,
+ "summary": "元代玉雕盖顶，琢汀渚鹭鸶纹。鹭鸶伫立水滨沙渚，取自然小景入玉，雕工细腻，用作器物盖顶之饰。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_71821.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000407N000000000"
  },
- "summary": null,
+ "summary": "朱熹书卷。朱熹为南宋理学宗师，其书追求古淡平和，笔致沉稳含蓄，此卷墨迹兼具学术人物与书法史的双重意义。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13930.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001244N000000005"
  },
- "summary": null,
+ "summary": "《宋元名繪》冊中一開，舊題宋趙昌《櫻桃山鳥圖》，寫禽鳥啄食枝頭櫻桃，設色鮮潤，可見趙昌以寫生著稱的花鳥畫風致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_377.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

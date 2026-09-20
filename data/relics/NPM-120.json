@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001293N000000002"
  },
- "summary": null,
+ "summary": "《宋元集绘》册之一开，题北宋米芾《林岫烟云》。绘烟云出没之林峦，水墨点染、气韵迷濛，与米氏云山图式相合，属集锦册页中的云山小景。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_120.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

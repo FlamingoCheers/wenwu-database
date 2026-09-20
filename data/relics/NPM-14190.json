@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001846N000000000"
  },
- "summary": null,
+ "summary": "此轴题宋何青年《画麻姑仙像》，绘女仙麻姑形象。麻姑为传说中长寿仙女，麻姑献寿寓意吉祥，画家生平画史记载简略。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14190.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

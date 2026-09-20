@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001246N000000019"
  },
- "summary": null,
+ "summary": "此幅為《宋元集繪》冊中一開，舊題宋樓觀〈霜林嘉實〉，畫經霜林木與累累嘉果，取秋色豐收之意，屬宋代花鳥果蔬題材冊頁。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_491.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

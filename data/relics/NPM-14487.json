@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001249N000000012"
  },
- "summary": null,
+ "summary": "《宋人集绘》册之一开，题宋代苏汉臣《牧羊图》，绘牧人牧羊的场景，属人畜题材小品。苏汉臣为宋代人物画家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/npm/detail_14487.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

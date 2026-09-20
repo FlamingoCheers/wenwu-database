@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003486N000000006"
  },
- "summary": null,
+ "summary": "本幅选自《名繪薈萃》册，题南宋马逵作，绘秋日亭中送别客人情景，人物与秋景相衬，属山水人物题材册页。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15876.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

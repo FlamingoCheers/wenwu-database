@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "贈銅000242N000000000"
  },
- "summary": null,
+ "summary": "唐代佛立像，配独立台座，佛呈立姿，仪态庄重，属佛教供奉造像，可见唐代造像工艺之一般面貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_24639.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

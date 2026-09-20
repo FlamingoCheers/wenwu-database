@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000062N000000000"
  },
- "summary": null,
+ "summary": "《大士十八阿罗汉图》立轴，传为李公麟作。绘观音大士与十八罗汉，属道释人物画题材，人物姿态各异，展现宋代宗教绘画传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_13895.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

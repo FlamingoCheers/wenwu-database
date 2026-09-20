@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000238N000000011"
  },
- "summary": null,
+ "summary": "《宋十二名家法书》册中一开，为刘正夫所书尺牍。刘正夫为北宋人，此牍行书流畅，笔意洒脱，见宋人日常书问风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15517.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

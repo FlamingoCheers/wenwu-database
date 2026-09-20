@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003459N000000022"
  },
- "summary": null,
+ "summary": "《唐宋元明集绘》册中一开，题元代王渊画蜀葵。王渊花鸟兼善水墨与设色，此帧写蜀葵花开，枝叶扶疏，笔致工稳。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15485.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

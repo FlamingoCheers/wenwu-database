@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000067N000000000"
  },
- "summary": null,
+ "summary": "《观海堂帖》册之一，收宋苏轼题熙明张侯永康所居万卷堂诗。诗咏万卷藏书之堂，东坡行书丰腴跌宕，是题赠类书迹刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_28193.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

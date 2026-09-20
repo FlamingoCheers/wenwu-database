@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷007252N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷碗，碗口作葵花瓣式，造型别致。定窑为宋代五大名窑之一，以牙白釉白瓷闻名，葵口、花式造型受金银器工艺影响，是定窑常见的精巧设计。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29925.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

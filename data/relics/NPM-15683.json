@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003480N000000018"
  },
- "summary": null,
+ "summary": "《集古名繪》冊之一開，舊題宋蕭照〈疏樹寒鴉〉，繪寒林疏樹間鴉雀棲鳴，屬蕭疏季節感的花鳥小景。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15683.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

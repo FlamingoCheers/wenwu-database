@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷011830N000000000"
  },
- "summary": null,
+ "summary": "元彭窑白瓷划花双龙戏珠纹碟之四。通体白釉，盘心划作双龙逐珠，运刀如笔，是实用与装饰兼具的日用瓷碟。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_28873.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷006562N000000000"
  },
- "summary": null,
+ "summary": "元代白瓷瓶，器身劃飾靈芝紋，線條舒展流利，靈芝自古寓長壽祥瑞之意。胎白釉潤，可用作陳設或插花之器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_37772.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

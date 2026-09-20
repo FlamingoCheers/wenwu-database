@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉003327N000000000"
  },
- "summary": "玉質，有赭斑。玉劍璏，面琢兩道弦紋。",
+ "summary": "玉劍璏，玉質帶赭斑，器面琢兩道弦紋，簡潔古雅。劍璏為佩劍時固定於劍鞘、供革帶穿繫的玉飾件，此件屬倣古形制的元代玉作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_51395.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

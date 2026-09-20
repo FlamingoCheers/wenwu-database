@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000044N000000000"
  },
- "summary": null,
+ "summary": "《贯经堂米帖》第四册。此册为汇刻宋米芾书迹的法帖之一，内收记、铭、尺牍等多种，摹刻上石以广流传，是研习米书的丛帖资料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_28181.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

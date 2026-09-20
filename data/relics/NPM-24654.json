@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "贈銅000257N000000000"
  },
- "summary": null,
+ "summary": "佛立像一尊，连座保存完整，佛呈立姿，庄严古朴，年代不详，属佛教礼拜供养造像。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -41,5 +41,6 @@
  "raw_ref": "raw/npm/detail_24654.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

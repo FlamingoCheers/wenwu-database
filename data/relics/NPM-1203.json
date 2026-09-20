@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫002006N000000000"
  },
- "summary": null,
+ "summary": "元代王蒙《层峦耸翠》轴。王蒙为元四家之一，以繁密山水著称，此轴层峦叠嶂、林木蓊郁，皴染稠密而不迫塞，苍茫郁勃，为其典型面目。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1203.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

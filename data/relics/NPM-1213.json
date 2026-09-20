@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000846N000000000"
  },
- "summary": null,
+ "summary": "宋代马远《山水人物》轴。马远为南宋院体大家，与夏圭并称马夏，构图多取边角之景，此轴山石方硬劲健、人物点景简练，具马一角本色。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1213.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000048N000000000"
  },
- "summary": null,
+ "summary": "《大觀帖》卷四所收，唐柳公權《十六日帖》摹刻本。帖以日期為名，為柳氏日常書問，摹刻存其筆勢勁挺之致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_26959.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

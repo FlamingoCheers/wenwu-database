@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000114N000000000"
  },
- "summary": null,
+ "summary": "此册为《垂裕阁法帖》第五册，收唐代孙过庭所书三国何晏（字平叔）《景福殿赋》。孙过庭以草书著称，《书谱》为其书论名篇。此为刻帖墨拓本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29178.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

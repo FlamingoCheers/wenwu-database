@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000173N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十六冊之一，摹刻北宋薛紹彭書尺牘。薛紹彭以書法知名於時，與米芾並稱，此帖屬日常書翰，刻拓成冊以傳其筆意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21301.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

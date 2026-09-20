@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000170N000000000"
  },
- "summary": null,
+ "summary": "此为《三希堂法帖》第十三册所收宋黄庭坚致天民知命大主簿尺牍，系致该书札的刻帖本，语多家常，行书笔势开展，为清乾隆敕刻丛帖中宋人法书之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21808.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

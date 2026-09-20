@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000097N000000000"
  },
- "summary": null,
+ "summary": "《快雪堂法帖》为汇刻历代名家法书之丛帖拓本。此册摹刻宋代黄庭坚《惟清道人帖》，属其尺牍书迹；黄庭坚为北宋四大家之一，书风奇崛。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_16609.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

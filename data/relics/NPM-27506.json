@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000058N000000000"
  },
- "summary": null,
+ "summary": "《經訓堂法帖》第四冊所收，宋蘇軾《楚頌帖》摹刻本。東坡手澤經摹勒上石流傳，此帖足資臨習考鑑。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27506.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

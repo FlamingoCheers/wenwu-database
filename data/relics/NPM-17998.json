@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003472N000000012"
  },
- "summary": null,
+ "summary": "《宋元人真蹟》冊之一開，為元王淵所繪《杏花》。王淵以花鳥著稱，此開繪折枝杏花，設色淡雅，寫生精微，承宋人花鳥畫遺意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17998.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

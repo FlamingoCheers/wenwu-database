@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000171N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十四册所收北宋米芾《致彦和国士尺牍》刻本。米芾书学晋唐而自成一家，此牍小字行书自然生动，兼得笔法与情味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21515.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

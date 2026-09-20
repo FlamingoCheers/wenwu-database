@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉003353N000000000"
  },
- "summary": null,
+ "summary": "宋代玉司南佩，形仿漢代司南佩式，為繫掛隨身的佩飾。司南本為古代指南之器，取其辨向不惑的吉意，是宋代仿古玉佩的典型。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55393.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

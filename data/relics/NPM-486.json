@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001246N000000014"
  },
- "summary": null,
+ "summary": "此幅為《宋元集繪》冊中一開，舊題宋李迪〈秋卉草蟲〉，寫秋日花卉間草蟲活動，觀察入微，屬宋代院體草蟲冊頁小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_486.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000064N000000000"
  },
- "summary": null,
+ "summary": "《云山烟树》轴，题为米芾作。以水墨横点晕染表现烟云迷蒙、山树朦胧之景，即世称“米家山水”的独特画格，萧散简远。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13896.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

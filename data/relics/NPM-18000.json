@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003476N000000003"
  },
- "summary": null,
+ "summary": "《宋元明人合錦貳冊》（上）之一開，傳宋趙伯驌《溪亭清夏》。趙氏兄弟以青綠山水見長，此開繪夏日溪畔亭榭，設色雅麗，境界清幽。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_18000.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

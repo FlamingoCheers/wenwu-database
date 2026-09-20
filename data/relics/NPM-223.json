@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001114N000000017"
  },
- "summary": null,
+ "summary": "宋李唐（传）《文姬归汉图》册之一，页题驻足。取蔡文姬离匈奴归汉之故事入画，此页描绘行旅途中驻足歇息的场景，人物鞍马刻画谨严，属宋代历史故事画传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_223.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

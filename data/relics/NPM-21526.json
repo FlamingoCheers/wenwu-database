@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000181N000000000"
  },
- "summary": null,
+ "summary": "元代饶介草书《送孟东野序》，《三希堂法帖》第二十四册所收刻本。所书为唐韩愈名篇，笔势纵逸流转，见元末书家承晋唐草法的风致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21526.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001118N000000001"
  },
- "summary": null,
+ "summary": "此册为宋叶肖岩所绘《西湖十景图》之一叶，题《苏堤春晓》。西湖十景之名成于南宋，此叶写春晓时苏堤烟柳拂湖之景，具小景山水清趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_227.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

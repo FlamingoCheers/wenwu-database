@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000239N000000010"
  },
- "summary": null,
+ "summary": "《宋诸名家墨宝》册中一开，为黄庭坚书尺牍。黄庭坚为北宋诗人、书法家，“宋四家”之一。此札为日常书信，用笔沉劲，结字欹侧有致，可见其书风个性。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1027.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

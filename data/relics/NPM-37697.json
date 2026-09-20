@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014366N000000000"
  },
- "summary": null,
+ "summary": "宋印花白瓷碗，碗內印蓮塘游魚，葉影浮動、魚姿活潑，紋樣清晰。胎白釉潤，工藝規整，屬宋代印花白瓷典型器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_37697.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

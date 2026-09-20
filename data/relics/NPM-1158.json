@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001971N000000000"
  },
- "summary": null,
+ "summary": "元代王渊《寒江芦雁》轴。绘寒江芦荻间雁群栖宿之景，取荒寒萧疏之意，属传统芦雁题材，笔墨简练而情味隽永。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1158.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001108N000000000"
  },
- "summary": null,
+ "summary": "此段为《元人集锦卷》中庄麟所绘《翠雨轩图》。图写轩馆一座，周遭草木垂翠，笔致疏秀，画题点出雨后翠色，是元代文人小景画的清雅格致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_17472.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

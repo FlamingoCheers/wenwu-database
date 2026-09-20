@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000056N000000000"
  },
- "summary": null,
+ "summary": "北宋画家郭熙〈秋山行旅图〉轴。郭熙师法李成，善作卷云皴与蟹爪枝，为北宋山水大家。图写秋日层峦耸峙，行旅人物点缀其间，气象壮阔。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_976.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

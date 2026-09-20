@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "贈銅000192N000000000"
  },
- "summary": null,
+ "summary": "铜铸观音菩萨像，观音为佛教慈悲尊格，民间崇奉素盛，全器含座，供礼敬供养。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -41,5 +41,6 @@
  "raw_ref": "raw/npm/detail_24588.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

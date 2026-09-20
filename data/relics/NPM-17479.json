@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001100N000000000"
  },
- "summary": null,
+ "summary": "此段为《宋高宗书女孝经马和之补图》上卷之《后妃章》。高宗书法圆润醇雅，马和之补绘人物故事，图文相配，宣扬后妃之德，属南宋书画合璧作品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17479.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

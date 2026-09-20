@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000013N000000000"
  },
- "summary": null,
+ "summary": "此为宋黄庭坚《二士帖》刻本，收入《三希堂法帖》第十三册。帖以二士标目，内容为寻常尺牍，行书欹侧取态，笔力沉着。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21932.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

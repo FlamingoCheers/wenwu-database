@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003470N000000001"
  },
- "summary": null,
+ "summary": "本幅为《宋元畫冊》册之一开，题南宋马远作，绘山亭探梅：文人于山间亭畔寻访梅枝，寓赏梅雅意，属山水人物小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15833.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

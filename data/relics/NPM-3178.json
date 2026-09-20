@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000379N000000000"
  },
- "summary": null,
+ "summary": "明代朱芾〈蘆洲聚雁圖〉軸。畫寫蘆葦叢生的洲渚間群雁棲聚之景，屬花鳥與山水結合的題材，意境蕭疏曠遠，饒富秋江詩意，展現文人畫寫意寄情的審美情趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_3178.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

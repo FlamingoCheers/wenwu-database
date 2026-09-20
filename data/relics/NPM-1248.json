@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000827N000000000"
  },
- "summary": null,
+ "summary": "宋代许道宁《雪溪渔父》轴。许道宁为北宋山水名家，长于寒林平远，此轴绘雪溪渔隐之景，枯枝劲挺、雪意荒寒，承李成一路画风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1248.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

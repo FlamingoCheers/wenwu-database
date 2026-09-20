@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001233N000000013"
  },
- "summary": null,
+ "summary": "《名绘集珍》册之一，题为宋夏珪《观瀑图》。夏珪为南宋山水画家，与马远并称「马夏」，善用斧劈皴与边角构图。此页写山间观瀑，水墨苍润，境界清幽。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_312.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

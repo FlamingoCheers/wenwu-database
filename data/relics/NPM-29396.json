@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010752N000000000"
  },
- "summary": null,
+ "summary": "定窑白瓷花口碗，敞口斜壁，器内划花莲花纹，线条灵动自然。釉色牙白如脂，胎薄体轻，是宋代定窑划花白瓷的常见品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29396.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

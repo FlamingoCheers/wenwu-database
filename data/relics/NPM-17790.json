@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001516N000000000"
  },
- "summary": null,
+ "summary": "此为元代王振鹏画手卷第四段，与前后诸段连属为一卷。画面细节丰富、笔法匀细，虽画题未详，仍可赏其元代工笔画的精雅趣味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17790.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

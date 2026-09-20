@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003142N000000001"
  },
- "summary": null,
+ "summary": "《元王淵畫花卉》冊之一開，舊題元王淵繪〈水仙〉，寫水仙叢葉抽花的姿態，屬元代花卉寫生冊頁。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15724.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

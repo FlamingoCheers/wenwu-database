@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000052N000000000"
  },
- "summary": null,
+ "summary": "《宋搨武岡帖》第一冊之一，收唐代張旭〈晚復十五日帖〉。武岡帖為宋代刻叢帖，此冊為宋拓本，存張旭草書帖蹟，可供臨鑒。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21344.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

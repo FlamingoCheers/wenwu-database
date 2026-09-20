@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000245N000000007"
  },
- "summary": null,
+ "summary": "吴说致“大孝宣教”尺牍，《宋人法书》册之一开。吴说以善书称于南宋，此牍行笔流畅自然，具文人书信随手挥写的洒脱意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1372.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

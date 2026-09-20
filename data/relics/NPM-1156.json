@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001969N000000000"
  },
- "summary": null,
+ "summary": "元代王渊《写生》轴。“写生”指对物写照，此轴属花鸟画范畴，观物写形、笔法工稳，延续宋代写生传统而融入元人笔墨意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1156.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

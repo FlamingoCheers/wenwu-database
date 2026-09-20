@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000246N000000016"
  },
- "summary": null,
+ "summary": "《宋人法书》（四）册之一，为南宋书家张即之致“殿元学士”的书信尺牍，张即之以劲健笔力著称，笔势雄强。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14906.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

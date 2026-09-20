@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001115N000000001"
  },
- "summary": null,
+ "summary": "舊題宋李唐《四時山水》冊之一「梅齋罨翠」，繪梅齋掩映於蒼翠之中，筆墨蒼勁沉厚，屬四時景致題材的山水冊頁。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_3795.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

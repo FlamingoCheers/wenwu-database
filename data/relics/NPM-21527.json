@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000181N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第二十四册所收元代饶介草书《梓人传》刻本，录唐柳宗元论用材之文。其草书出于二王而益以纵逸，为元末士大夫书法代表之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21527.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

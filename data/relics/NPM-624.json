@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000255N000000005"
  },
- "summary": null,
+ "summary": "此頁為〈元人翰墨〉冊之一開，收元代趙祐尺牘，受書者題銜記事、經歷、知事、照磨皆元代官職，書札可見元人翰墨往來風貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_624.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

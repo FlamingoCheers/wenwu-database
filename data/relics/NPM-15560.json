@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001239N000000010"
  },
- "summary": null,
+ "summary": "《唐宋元畫集錦》冊之一開，舊題宋李迪〈紫薇戴勝〉，繪戴勝鳥立於紫薇花枝，屬宋代寫生花鳥小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15560.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

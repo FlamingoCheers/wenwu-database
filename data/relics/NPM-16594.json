@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000096N000000000"
  },
- "summary": null,
+ "summary": "本幅为《快雪堂法帖》册第三卷之一开，摹刻宋李建中与司封道兄七绝诗迹。快雪堂法帖为清代汇刻的历代法书丛帖。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_16594.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

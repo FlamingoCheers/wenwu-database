@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000996N000000000"
  },
- "summary": null,
+ "summary": "夏珪为南宋院体山水画家，与马远并称马夏，善水墨渲染、边角取景。此卷题称其真迹，属水墨山水一路。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14017.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

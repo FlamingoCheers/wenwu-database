@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001116N000000000"
  },
- "summary": null,
+ "summary": "《宋马远小品》册，为辑录马远一路画风的册页集，收山水花木等题材小品，可窥南宋院体画风。马远以边角构图著称。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14395.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

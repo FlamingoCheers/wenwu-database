@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000006N000000000"
  },
- "summary": null,
+ "summary": "《英光堂米帖》（上海徐氏本）冊所收，宋米芾《早略帖》摹刻本。元章尺牘信手揮灑，筆勢跳宕，具見其行書本色。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27134.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

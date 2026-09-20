@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005805N000000000"
  },
- "summary": null,
+ "summary": "宋代玉獸墜飾，圓雕小獸，神氣內斂。墜飾輕巧，宜於隨身，是宋代佩玉中貼近生活的一類。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_56949.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

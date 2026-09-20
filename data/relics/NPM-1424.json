@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000151N000000000\n more\n \n 故書000151N000000001\n 故書000151N000000002\n 故書000151N000000A01\n 故書000151N000000B01\n 故書000151N000000B02\n 故書000151N000000B03"
  },
- "summary": null,
+ "summary": "此册为宋朱熹尺牍。朱熹为南宋理学宗师，其书师法晋唐，笔势沉着，书札墨迹向为世所珍，兼具学术与文献价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1424.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000063N000000000"
  },
- "summary": null,
+ "summary": "宋代崔白《芦雁》轴。写芦荻丛中大雁栖飞之态，取景荒寒、情致生动，芦雁自宋以来为花鸟画常见题材，寓江湖之思。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1292.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

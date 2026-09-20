@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000013N000000000"
  },
- "summary": null,
+ "summary": "此为宋黄庭坚《糟姜帖》刻本，见《三希堂法帖》第十三册。帖涉糟姜之事，属日常尺牍，行书沉着老健。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21914.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

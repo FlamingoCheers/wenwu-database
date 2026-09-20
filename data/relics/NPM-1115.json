@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000243N000000012"
  },
- "summary": null,
+ "summary": "《宋人法书》（一）册中一开，为王安石致通判比部尺牍。王安石为北宋政治改革家、文学家。此札为书信墨迹，笔势率意峭拔，一如其人风骨，至为珍贵。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_1115.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

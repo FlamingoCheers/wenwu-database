@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000316N000000000"
  },
- "summary": null,
+ "summary": "宋樓觀《江山雪霽》軸。繪雪後江天山色，山巒覆雪，江面空闊，以留白寫積雪，筆墨簡淡，寒意蕭疏，屬雪景山水傳統題材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_19363.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

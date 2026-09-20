@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000236N000000014"
  },
- "summary": null,
+ "summary": "《宋四家真迹》册之一，收蔡襄书尺牘。君谟作书端严而不失灵动，此札行笔温润、结字安详，虽为短简，亦有法度森严之概。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_983.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

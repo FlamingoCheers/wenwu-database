@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001251N000000006"
  },
- "summary": null,
+ "summary": "此为唐宋名蹟册中一页，宋人绘山水楼观，写山间殿阁掩映之景，属小幅山水作品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14027.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

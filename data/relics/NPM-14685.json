@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003492N000000003"
  },
- "summary": null,
+ "summary": "《艺苑胪珍》册一页，宋赵伯驹《花涧禽声》。绘花木涧水之间禽鸟鸣噪，属青绿山水背景下的花鸟小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14685.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

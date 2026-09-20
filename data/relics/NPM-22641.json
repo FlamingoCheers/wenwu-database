@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000085N000000024\n more\n \n 贈帖000085N000000025"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第八册收宋文彦博尺牍。文彦博历仕北宋数朝，为一代重臣，此牍书迹温雅，见士大夫风致，摹刻传之。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22641.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

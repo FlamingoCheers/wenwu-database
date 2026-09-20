@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000088N000000027\n more\n \n 贈帖000088N000000028\n 贈帖000088N000000029\n 贈帖000088N000000030\n 贈帖000088N000000031\n 贈帖000088N000000032\n 贈帖000088N000000033\n 贈帖000088N000000034\n 贈帖000088N000000035"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十一册之一，收录苏轼自书《赤壁赋》，文为东坡名篇，文书并传，属丛帖拓本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_23022.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

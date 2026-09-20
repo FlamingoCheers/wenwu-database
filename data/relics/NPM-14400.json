@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001000N000000000"
  },
- "summary": null,
+ "summary": "题宋末元初钱选《烟江待渡图》卷。绘烟波浩渺的江面与岸畔伫候渡船的行人，意境清旷，属山水画卷。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14400.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

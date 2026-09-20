@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001240N000000003"
  },
- "summary": null,
+ "summary": "《藝苑藏真》冊（上）之一開，傳為五代黃筌所繪〈蘋婆山鳥〉。畫寫蘋婆枝頭山鳥棲息之景，屬寫生花鳥小品。黃筌一派以精細設色、寫實傳神著稱，此開體現五代宮廷花鳥畫的傳統。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_320.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

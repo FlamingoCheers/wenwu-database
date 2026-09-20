@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000080N000000045\n more\n \n 贈帖000080N000000046\n 贈帖000080N000000047"
  },
- "summary": null,
+ "summary": "摹刻唐颜真卿《湖州帖》。此为颜真卿尺牍之一种，行笔圆劲浑厚，具颜行气象，经由刻帖流传。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22617.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

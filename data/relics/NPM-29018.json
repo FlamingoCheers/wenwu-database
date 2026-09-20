@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000118N000000000"
  },
- "summary": null,
+ "summary": "《垂裕阁法帖》（九）之一，收宋苏轼书《司马温公神道碑》。碑为表彰司马光生平功业的碑版文字，东坡楷法丰腴雄浑，此为刻帖拓本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29018.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

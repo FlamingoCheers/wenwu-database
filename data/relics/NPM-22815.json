@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000091N000000038\n more\n \n 贈帖000091N000000039"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第十四册收宋米芾尺牍一通。米老作书如风樯阵马、沉着痛快，此牍行笔爽利，结字跌宕，摹刻略存其神。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22815.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

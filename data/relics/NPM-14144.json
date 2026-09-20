@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001546N000000000"
  },
- "summary": null,
+ "summary": "此卷为书画合璧之作，宋高宗赵构书兰亭叙，马和之据文意补绘图像，图文相映。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14144.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001415N000000000"
  },
- "summary": null,
+ "summary": "此卷题称李公麟所作万国职贡图，绘四方诸国使臣人物的状貌服饰，属传统职贡题材画卷。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14080.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

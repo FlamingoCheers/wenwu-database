@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003558N000000005"
  },
- "summary": null,
+ "summary": "《名人便面画册》之一开，明代夏森《雨意图》。便面即扇面，此开绘烟雨迷蒙之景，墨气淋漓，属扇面画中常见的山水小景体裁。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_11646.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001289N000000016"
  },
- "summary": null,
+ "summary": "《名绘集珍》册一页，宋陈居中《平原射鹿图》。绘平原上行猎射鹿场景，陈居中以人马题材著称，此页属人马走兽画传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14636.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

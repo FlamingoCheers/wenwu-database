@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014594N000000000"
  },
- "summary": null,
+ "summary": "宋哥窯灰青葵瓣口洗。洗作葵瓣花口，通體施灰青釉，釉面開片紋理為哥窯典型特徵，古雅靜穆。哥窯名列宋代名窯，此洗造型簡練，釉色沉潛，體現宋瓷以釉色與形制取勝的美學。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_31829.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

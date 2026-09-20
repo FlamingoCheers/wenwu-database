@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001246N000000013"
  },
- "summary": null,
+ "summary": "此幅為《宋元集繪》冊中一開，舊題宋韓祐〈螽斯綿瓞〉，畫螽斯與瓜藤，「綿綿瓜瓞」語出《詩經》，寓子孫昌盛綿延，為傳統吉祥花鳥題材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_484.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000998N000000000"
  },
- "summary": null,
+ "summary": "题宋代范安仁《鱼藻图》卷。绘游鱼穿行荇藻之间的水底情景，属鱼藻题材画卷。范安仁以善画鱼著称。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14430.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

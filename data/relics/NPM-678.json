@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000287N000000000"
  },
- "summary": null,
+ "summary": "元代王蒙《东山草堂图》轴。以草堂为题，绘山水间文人居所，层峦叠嶂，笔墨茂密，展现元人隐逸山水画风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_678.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

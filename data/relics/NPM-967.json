@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000237N000000008"
  },
- "summary": null,
+ "summary": "《宋四家集册》之一，收蔡襄书尺牘。蔡书浑厚端庄、淳淡婉美，与苏轼、黄庭坚、米芾并称宋四家，此札信笔写就而法度自具。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_967.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

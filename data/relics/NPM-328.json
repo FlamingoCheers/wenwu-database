@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001240N000000010"
  },
- "summary": null,
+ "summary": "《藝苑藏真》冊（上）之一開，傳為宋代李唐所繪〈坐石看雲〉。畫寫高士坐於石上閒看雲起的情景，山水人物相融，意境高遠。李唐為南宋院體山水開派大家，此開可見其筆墨傳統。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_328.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

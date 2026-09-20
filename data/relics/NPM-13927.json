@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000404N000000000"
  },
- "summary": null,
+ "summary": "米芾书真迹卷，为米氏传世墨迹品类之一。其书八面生姿、沉着飞翥，此卷虽属泛称，仍可略窥其行书真趣与日常书写风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13927.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

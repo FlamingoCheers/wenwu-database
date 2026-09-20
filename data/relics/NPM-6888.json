@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003138N000000005"
  },
- "summary": null,
+ "summary": "《宋钱选画花篮图》册中一开，画题“石竹茉莉栀枝”。绘石竹、茉莉、栀子诸花，集众卉于一幅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_6888.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

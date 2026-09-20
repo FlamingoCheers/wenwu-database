@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001429N000000000"
  },
- "summary": null,
+ "summary": "本卷題為宋代米芾「雲山」，卷後並附米芾自書題跋。米芾以水墨橫點寫江南煙雲變滅之景，世稱「米氏雲山」，此卷書畫合璧，可見其筆墨意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_550.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

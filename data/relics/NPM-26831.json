@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000039N000000000"
  },
- "summary": null,
+ "summary": "《墨妙軒法帖》第三冊所收，宋文彥博《使至帖》摹刻本。文彥博為北宋名臣，其書蹟傳世稀少，賴叢帖摹刻以存，可見宋人尺牘書風。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_26831.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

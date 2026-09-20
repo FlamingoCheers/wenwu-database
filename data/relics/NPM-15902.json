@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003491N000000008"
  },
- "summary": null,
+ "summary": "本幅选自《藝林韞古》册，题南宋萧照作，绘雪中骑者冒寒前行之景，人物鞍马与雪景相映，属山水人物题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15902.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

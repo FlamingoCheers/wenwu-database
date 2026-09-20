@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉003031N000000000"
  },
- "summary": "玉獸鈕方印，印面未刻，印身有璺。",
+ "summary": "玉獸鈕方印，印面未曾鐫刻，印身有裂璺。獸鈕雕琢古樸，雖印文未成，仍可見宋代玉印的形制規模與琢玉工藝面貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_51133.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

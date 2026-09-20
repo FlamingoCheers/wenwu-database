@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000001N000000024\n more\n \n 購帖000001N000000025"
  },
- "summary": null,
+ "summary": "明拓《宝贤堂集古法帖》第一册之一，收题为宋太宗所书〈寄张祜〉七言律诗帖。《宝贤堂集古法帖》为明代晋王府摹刻的丛帖，汇辑历代名家书迹，此为墨拓装册本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29624.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

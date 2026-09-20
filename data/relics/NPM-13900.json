@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000145N000000000"
  },
- "summary": null,
+ "summary": "《寒林蜀道》卷，题为郭熙作。绘蜀道萦回与寒林萧瑟之景，郭熙善卷云皴，笔墨雄壮而富变化，气象苍茫，见北宋山水大家格局。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13900.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

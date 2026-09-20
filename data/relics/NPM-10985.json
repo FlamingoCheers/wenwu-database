@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003501N000000005"
  },
- "summary": null,
+ "summary": "《诸仙妙绘》册中一开，为马麟《寒鸦月夜》。马麟为马远之子。图写月夜寒鸦栖宿，以简淡笔墨渲染夜色清冷，诗意盎然，是南宋院画诗意小景的代表。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_10985.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

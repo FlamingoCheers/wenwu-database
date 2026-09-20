@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中書000045N000000000"
  },
- "summary": null,
+ "summary": "宋蘇軾自書〈中山松醪賦〉卷。中山松醪為酒名，蘇軾以行書錄其自作之賦，為東坡傳世書跡中的名品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1564.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

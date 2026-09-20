@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001481N000000000"
  },
- "summary": null,
+ "summary": "宋末元初画家钱选绘〈时苗留犊图〉卷。题材取三国魏寿春令时苗去官留犊的典故，颂其为官清廉、不苟取一物，人物与牛犊相映成趣，寓劝鉴之意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_95.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

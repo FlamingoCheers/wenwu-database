@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003482N000000003"
  },
- "summary": null,
+ "summary": "《集古名繪》冊之一開，舊題宋馬遠〈竹榭荷風〉，繪竹塢水榭、荷風送爽的夏日小景，屬馬遠一系邊角山水。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15611.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

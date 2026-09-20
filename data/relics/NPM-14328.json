@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000249N000000011"
  },
- "summary": null,
+ "summary": "此册页出自《宋元宝翰》，为赵孟坚致严郎中太丞尺牍。赵孟坚工诗文书画，以墨梅水仙名家，书札亦清雅可喜。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14328.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

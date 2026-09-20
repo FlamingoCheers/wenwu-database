@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001847N000000000"
  },
- "summary": null,
+ "summary": "宋代龚开《天香书屋》轴。龚开为宋末元初文人画家，此轴以天香名书屋，绘斋馆山水之景，笔墨简古，属书斋隐逸题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1336.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

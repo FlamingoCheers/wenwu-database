@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000237N000000004"
  },
- "summary": null,
+ "summary": "《宋四家集册》之一，收米芾〈值雨帖〉。帖名当与遇雨事相关，为米氏友朋书问。米书八面出锋、体势骏迈，尺牘信手之笔尤见天趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_962.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

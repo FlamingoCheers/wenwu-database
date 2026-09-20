@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000149N000000000\n more\n \n 故書000149N000000001\n 故書000149N000000002\n 故書000149N000000003\n 故書000149N000000004\n 故書000149N000000005\n 故書000149N000000006\n 故書000149N000000007\n 故書000149N000000008\n 故書000149N000000009\n 故書000149N000000010\n 故書000149N000000011"
  },
- "summary": null,
+ "summary": "《千字文》册，为宋高宗赵构所书。高宗书法研习二王，字体温雅遒媚，此册为帝王书迹中体现宋代帖学传统的代表。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13906.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

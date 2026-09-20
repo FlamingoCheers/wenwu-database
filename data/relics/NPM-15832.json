@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003469N000000023"
  },
- "summary": null,
+ "summary": "本幅选自《宋元名蹟》册，题元代王渊作，绘鱼藻题材：游鱼穿梭水藻之间，姿态生动，为传统花鸟画常见题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15832.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

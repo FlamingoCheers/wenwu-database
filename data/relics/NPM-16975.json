@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000192N000000000"
  },
- "summary": null,
+ "summary": "《御刻墨妙轩法帖》为清代宫廷摹刻之丛帖。此册摹刻宋代蔡襄《澄心堂纸帖》，为其论及澄心堂名纸之尺牍，蔡襄列宋四家之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_16975.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

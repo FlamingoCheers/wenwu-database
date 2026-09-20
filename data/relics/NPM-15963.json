@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003500N000000007"
  },
- "summary": null,
+ "summary": "本幅选自《雲煙攬勝》册，题北宋郭熙作，绘雪山之中行旅行进之景，气象萧寒，属山水题材册页小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15963.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

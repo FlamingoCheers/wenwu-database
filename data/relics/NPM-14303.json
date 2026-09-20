@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000244N000000013"
  },
- "summary": null,
+ "summary": "此册页出自《宋人法书》（二），为陈瓘致思济使君大夫十三姐县君尺牍。陈瓘为宋直臣，上款兼及眷属，具人情书问之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14303.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

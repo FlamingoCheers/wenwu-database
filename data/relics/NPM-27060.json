@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000038N000000000"
  },
- "summary": null,
+ "summary": "《墨妙軒法帖》第二冊所收，唐顏真卿《爭座位帖》摹刻本。此稿為顏書行草名蹟，忠義之氣躍然紙上，歷代摹刻極盛，為習行草者所宗。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27060.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

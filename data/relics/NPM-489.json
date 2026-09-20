@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001246N000000017"
  },
- "summary": null,
+ "summary": "此幅為《宋元集繪》冊中一開，舊題宋吳炳〈榴開見子〉，畫石榴熟裂露子，「榴開百子」寓多子多福，為吉祥寓意花鳥冊頁。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_489.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

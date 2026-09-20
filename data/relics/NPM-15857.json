@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003472N000000004"
  },
- "summary": null,
+ "summary": "本幅选自《宋元人真蹟》册，题北宋李公麟作，绘文士形象。李公麟以白描人物著称，此幅属人物题材册页小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15857.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

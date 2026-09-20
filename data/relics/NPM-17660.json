@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005196N000000000"
  },
- "summary": null,
+ "summary": "玉剑璏是附于剑鞘用以穿带悬剑的玉饰。此件为元代玉剑璏，形制规整，延续战国秦汉玉具剑的传统形制，属仿古剑饰类玉器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_17660.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

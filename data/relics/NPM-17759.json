@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001550N000000000"
  },
- "summary": null,
+ "summary": "此段为《豳风图》卷第三段，元王振鹏绘图、柯九思书诗。画面描绘《豳风》篇章相关的农桑生活场景，人物活动细致，笔墨工谨。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17759.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

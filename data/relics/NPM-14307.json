@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000244N000000017"
  },
- "summary": null,
+ "summary": "此册页出自《宋人法书》（二），为薛绍彭书尺牍。薛绍彭书法宗晋，笔致温润，与米芾并称，此札可见其书风一斑。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14307.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

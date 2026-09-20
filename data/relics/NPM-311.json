@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001233N000000012"
  },
- "summary": null,
+ "summary": "《名绘集珍》册之一，题为宋李唐《仙岩采药》。李唐为两宋之际山水画大家，开南宋院体画风。此页写仙山采药情境，山岩奇崛，人物点景生动，属山水人物小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_311.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

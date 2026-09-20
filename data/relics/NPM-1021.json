@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000239N000000003\n more\n \n 故書000239N000000004"
  },
- "summary": null,
+ "summary": "《宋诸名家墨宝》册中一开，为欧阳修付书局帖（二）。此帖与前帖同属致书局书翰，涉编书事务，行笔自然平实，兼具书法与宋代文献制度的双重价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_1021.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

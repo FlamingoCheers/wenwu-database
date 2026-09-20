@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000256N000000012"
  },
- "summary": null,
+ "summary": "元人遺墨冊中一開，成廷珪致德常府判相公尺牘，行草書信自然流利，詞意簡雅，可見元人尺牘書藝風貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_462.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

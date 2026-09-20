@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷011861N000000000"
  },
- "summary": null,
+ "summary": "定窯白瓷葵花式碗，宋代製品。口作葵瓣式，弧壁圈足。器內飾蓮花紋，花朵豐盈，枝葉環護，紋樣規整清晰，牙白釉溫潤瑩潔，全器清雅端莊。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36506.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

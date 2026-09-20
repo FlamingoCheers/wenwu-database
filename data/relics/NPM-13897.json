@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000065N000000000"
  },
- "summary": null,
+ "summary": "《仙山楼阁》轴，传为赵伯驹作。绘仙山楼阁景致，青绿设色富丽，界画楼台精整，承唐代青绿山水而具宋代院体的精致气象。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13897.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

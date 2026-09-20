@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016602N000000000"
  },
- "summary": null,
+ "summary": "定窯白瓷蓮花紋碗，器形碩大端整，口緣微斂，弧壁深腹。內壁以劃花技法刻蓮花紋飾，線條流利瀟灑，襯以溫潤牙白釉色，更顯素淨雅潔，為宋代定窯常見碗類。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35301.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

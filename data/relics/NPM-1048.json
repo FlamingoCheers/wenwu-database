@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000240N000000008"
  },
- "summary": null,
+ "summary": "《宋贤书翰》册中一开，为刘焘尺牍。刘焘为北宋人，善书法。此札为书信墨迹，笔致流利自然，是考察北宋士人日常书写风貌的真实存例。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1048.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

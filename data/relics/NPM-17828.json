@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004699N000000000"
  },
- "summary": null,
+ "summary": "此件为环形玉器，题名仿良渚蚩尤玉环，环面纹饰取材良渚文化玉器常见的神人兽面传统，蚩尤之名出自后世的纹饰附会，器形圆整厚重。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_17828.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

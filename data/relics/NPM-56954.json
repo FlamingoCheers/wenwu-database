@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005810N000000000"
  },
- "summary": null,
+ "summary": "金代玉獸墜飾，形體極小，渾樸有味。此類墜飾繫掛便利，獸形的護佑之意與裝飾功能兼具。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_56954.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

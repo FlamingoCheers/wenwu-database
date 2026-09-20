@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉000876N000000001"
  },
- "summary": null,
+ "summary": "玉頂琢螭虎啣芝紋，螭虎伏於蓋頂，口啣靈芝，枝葉繚繞其間，造型靈動。此類玉頂多作爐瓶器蓋的鈕飾，為元代玉雕習見的祥瑞題材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_46747.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

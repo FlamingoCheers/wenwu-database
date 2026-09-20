@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000259N000000005"
  },
- "summary": null,
+ "summary": "《元人旧迹》册之一开，为元人马治书乐府诗三首，以书法录乐府旧题，具元代文人书写风雅之致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_267.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

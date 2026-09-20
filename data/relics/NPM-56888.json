@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005717N000000000"
  },
- "summary": null,
+ "summary": "元代玉犬小件，犬形比例勻稱，神態馴順。犬題材玉雕自宋元以來流行，此件簡約傳神，宜於掌上把玩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_56888.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

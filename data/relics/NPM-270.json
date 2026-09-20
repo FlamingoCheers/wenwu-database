@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001224N000000009"
  },
- "summary": null,
+ "summary": "此冊為宋高宗書《孝經》、馬和之繪圖之書畫合璧作。本頁為〈聖治章〉書法部分，高宗書法早年學黃庭堅，筆致端雅從容。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/npm/detail_270.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

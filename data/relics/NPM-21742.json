@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000165N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第八册所收北宋富弼尺牍刻本。富弼为仁宗朝名相，书迹传世极少，此牍笔意温润，平和简静，弥足珍贵。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21742.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

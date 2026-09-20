@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000010N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第四册，收唐代颜真卿《祭侄文稿》。此稿为颜真卿为殉难侄儿所作祭文草稿，行笔纵横率意、感情激越，素有“天下第二行书”之誉。此为刻帖拓本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29609.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

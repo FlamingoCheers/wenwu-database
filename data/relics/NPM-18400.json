@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001267N000000009"
  },
- "summary": null,
+ "summary": "《宋元人畫冊》之一開，傳宋錢選《果籃》。繪籃中盛時令果品，設色鮮潤，描繪精緻，屬寫生靜物式小品，寓豐足吉祥之意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/npm/detail_18400.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

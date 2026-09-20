@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000235N000000006"
  },
- "summary": null,
+ "summary": "《宋四家墨宝》册中黄庭坚《致云夫七弟尺牍》，为其致家中弟辈之书信。黄庭坚为北宋书法四家之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_898.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

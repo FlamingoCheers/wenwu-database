@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫002111N000000000"
  },
- "summary": null,
+ "summary": "此軸為明初畫家徐賁所繪〈溪山亭子圖〉，畫溪山間水亭小景，筆致清潤，屬元明之際文人山水風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_5784.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

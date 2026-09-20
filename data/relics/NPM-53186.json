@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中玉000426N000000001"
  },
- "summary": "附件 玉頂鏤雕螭與靈芝相盤繞。",
+ "summary": "玉頂鏤雕螭虎與靈芝相互盤繞，作為器物附件的頂飾。鏤雕工藝使紋飾玲瓏透空，螭芝相纏的紋樣寓意祥瑞長壽，屬元代玉雕構件。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_53186.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

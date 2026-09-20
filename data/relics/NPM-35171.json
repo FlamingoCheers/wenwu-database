@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷005906N000000000"
  },
- "summary": null,
+ "summary": "定窯白瓷盤，宋代製品。侈口淺壁，胎質細白，釉色牙白溫潤。盤內以模印技法飾番蓮紋，花葉枝蔓連續展開，構圖繁密有致，為宋代定窯印花裝飾的代表樣式，兼具日用與陳設之美。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35171.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

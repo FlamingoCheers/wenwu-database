@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000024N000000000"
  },
- "summary": null,
+ "summary": "《清乾隆三希堂法帖》第二十四冊之一，摹刻元代饒介所書〈送孟東野序〉。文為唐韓愈名篇，饒介以草書知名，此刻帖存其運筆之妙。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21374.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

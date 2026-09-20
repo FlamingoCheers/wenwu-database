@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000976N000000000"
  },
- "summary": null,
+ "summary": "题“唐卢鸿草堂十志图”卷。传为唐代隐士卢鸿绘其草堂十景，并各系图咏，图文相配，属文人隐逸题材山水名迹。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14732.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

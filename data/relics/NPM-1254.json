@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001955N000000000"
  },
- "summary": null,
+ "summary": "元代赵孟吁《乔木高斋》轴。绘乔木荫蔽下的高斋轩馆，布置简净、笔墨温雅，属文人斋室山水题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1254.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010194N000000000"
  },
- "summary": null,
+ "summary": "白瓷壽字花卉紋杯，屬元代彭窯製品，敞口小足，體態輕盈。杯內飾花卉環繞壽字，構圖勻稱，紋樣細膩，白釉勻淨，寓吉祥長壽之意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35570.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

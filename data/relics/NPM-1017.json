@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000239N000000002"
  },
- "summary": null,
+ "summary": "《宋诸名家墨宝》册中一开，为范仲淹书尺牍。范仲淹为北宋名臣、著名文学家。此札为往来书信墨迹，书写端谨自然，兼具书法艺术与文献史料价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1017.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001224N000000012"
  },
- "summary": null,
+ "summary": "《宋高宗书孝经马和之绘图》册之一，此开为「广扬名章」配图。传马和之绘写经义情景，构图简净，线条温润，与书法部分相配成套。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_279.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

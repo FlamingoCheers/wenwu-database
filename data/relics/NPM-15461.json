@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003459N000000009"
  },
- "summary": null,
+ "summary": "《唐宋元明集绘》册中一开，题宋代范宽作秋景山水。范宽山水雄浑厚重，善写关陕山川真貌，此帧秋山沉雄，皴笔刚健，具北宋气象。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15461.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

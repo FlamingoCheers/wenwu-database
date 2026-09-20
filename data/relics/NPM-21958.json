@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000006N000000000"
  },
- "summary": null,
+ "summary": "宋高宗赵构以擅书著称。此为其所书《千字文》刻帖，收入《三希堂法帖》第六册。《千字文》为历代习书名篇，帝王书迹赖此传拓。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21958.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

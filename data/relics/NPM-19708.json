@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000247N000000002"
  },
- "summary": null,
+ "summary": "《宋人雜書》冊之一開，秦觀書《摩詰輞川圖》跋。秦觀為蘇門四學士之一，書法承東坡一脈。此跋論王維輞川圖，行筆溫雅，具宋人題跋風規。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_19708.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

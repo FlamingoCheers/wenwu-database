@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000007N000000016"
  },
- "summary": null,
+ "summary": "《宋拓晋唐小楷》册中唐褚遂良书《阴符经》一页。此册汇集宋拓晋唐名家小楷，褚书笔致精婉，小字楷法严密，为帖学小楷的习见范本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_21581.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

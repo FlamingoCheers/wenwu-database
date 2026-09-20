@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014556N000000000"
  },
- "summary": null,
+ "summary": "定窑白瓷碗，器内模印莲塘鱼纹，莲叶舒展、游鱼嬉水，寓意连年有余。定窑印花构图饱满、层次分明，与温润白釉相衬，雅趣盎然。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29578.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

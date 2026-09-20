@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅000910N000000000"
  },
- "summary": "罐，全器呈橢圓形，兩側有環耳，平底。",
+ "summary": "宋代铜素罐，器作椭圆形，两侧有环耳，平底。通体素面无纹，造型简朴，为日常盛贮之器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_6674.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

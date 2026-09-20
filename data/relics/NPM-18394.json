@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001267N000000007"
  },
- "summary": null,
+ "summary": "《宋元人畫冊》之一開，傳宋李迪《枇杷幽雀》。繪枇杷果實纍纍，幽雀棲枝，工筆設色，生意盎然，屬南宋院體花鳥小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/npm/detail_18394.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

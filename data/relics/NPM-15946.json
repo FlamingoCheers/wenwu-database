@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003496N000000001"
  },
- "summary": null,
+ "summary": "本幅选自《吉光珍壽》册，题北宋李公麟作，绘应真（罗汉）瑞相，人物法相庄严，属道释人物题材册页。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15946.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

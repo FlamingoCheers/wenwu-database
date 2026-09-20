@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003460N000000007"
  },
- "summary": null,
+ "summary": "《唐宋元明集绘》册中一开，题唐代边鸾作翠禽红蓼。边鸾以花鸟写生著称，此帧写翠禽栖于红蓼之间，设色明丽，花鸟相映成趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15097.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

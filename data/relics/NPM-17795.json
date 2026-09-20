@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001516N000000000"
  },
- "summary": null,
+ "summary": "此为元代王振鹏画手卷第九段。画面延续工细笔调，场景铺陈有序，王振鹏以界画人物名世，此段亦见其严谨的造型功力。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17795.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

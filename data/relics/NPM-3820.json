@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001117N000000008"
  },
- "summary": null,
+ "summary": "舊題宋馬麟《畫花卉》冊之一「桂林爽氣」，寫桂樹成林、秋爽之氣襲人，桂香意入畫境，清雅宜人。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_3820.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

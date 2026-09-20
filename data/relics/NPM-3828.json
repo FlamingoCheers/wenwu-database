@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001123N000000007"
  },
- "summary": null,
+ "summary": "明徐賁《獅子林圖》冊之一「雪夜兀立」，寫雪夜人物兀立之態，寒夜靜穆，意境蕭疏，於園林冊頁中別具一格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_3828.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

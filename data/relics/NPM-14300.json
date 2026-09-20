@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000244N000000010"
  },
- "summary": null,
+ "summary": "此册页出自《宋人法书》（二），为蒋之奇致彦和河州司户尺牍。蒋之奇为宋臣僚，此札可见地方官署往来书问之体。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14300.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈玉000004N000000011"
  },
- "summary": null,
+ "summary": "此為禪地玉冊玉匱嵌片，玉片裁作長方形，為匣函表面的鑲飾構件，琢磨規整。禪地玉冊與玉匱關涉宋代封禪禮儀，嵌片可考見當時玉作的精細工藝。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_47382.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

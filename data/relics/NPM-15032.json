@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001267N000000001"
  },
- "summary": null,
+ "summary": "《宋元人画册》册一页，五代黄筌《竹石翎毛》。绘竹石之间禽鸟栖息，属花鸟写生小品，可见黄筌精谨画风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15032.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

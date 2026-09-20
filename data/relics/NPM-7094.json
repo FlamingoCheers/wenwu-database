@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅000247N000000000"
  },
- "summary": "方鏡，四角作圓弧形、橋鈕。",
+ "summary": "宋代素面方镜，镜体方形，四角作圆弧形，上置桥形钮。素面无纹，方中寓圆，形制别致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_7094.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

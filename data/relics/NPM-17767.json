@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001550N000000000"
  },
- "summary": null,
+ "summary": "此段为《豳风图》卷第七段，题元王振鹏画、柯九思书。全段依《诗经·豳风》文意绘图，人物场景与题书相映，体现元代书画的合作格式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17767.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

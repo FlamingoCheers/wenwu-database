@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010804N000000000"
  },
- "summary": null,
+ "summary": "宋定窯白瓷印花牡丹孔雀紋盤。盤心模印牡丹孔雀紋樣，禽鳥顧盼生姿，花葉佈局飽滿，牙白釉色溫潤宜人。印花裝飾繁複精美，為定窯白瓷的代表裝飾技法，此盤可見其工藝風範。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_32125.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

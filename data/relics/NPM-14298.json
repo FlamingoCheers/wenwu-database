@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000244N000000008"
  },
- "summary": null,
+ "summary": "此册页出自《宋人法书》（二），为裴煜致致政太保太初兄尺牍。“致政”谓退休之官，此札为宋人致前辈尊长的书问。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14298.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

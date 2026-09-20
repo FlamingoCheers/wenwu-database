@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000043N000000000"
  },
- "summary": null,
+ "summary": "《贯经堂米帖》第三册之一，收宋米芾《臈白帖》。帖名取自牍中文字，米芾行草笔势飞扬，刻帖存其天然挥洒之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_28145.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

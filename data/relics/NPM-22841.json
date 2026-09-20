@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000093N000000005"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第十六册收宋薛绍彭尺牍。薛绍彭与米芾同时齐名，书宗晋人，此牍行书温润，具帖学正脉之意，摹刻存之。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_22841.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

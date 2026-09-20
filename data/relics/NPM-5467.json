@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故銅000056N000000000"
  },
- "summary": "八瓣菱花形鏡，半球鈕。鏡背無紋飾。",
+ "summary": "唐代八瓣菱花形銅鏡，半球鈕，鏡背光素不施紋飾。菱花鏡為唐代流行鏡式，素鏡形制簡雅，兼具照容實用與器物之美。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_5467.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

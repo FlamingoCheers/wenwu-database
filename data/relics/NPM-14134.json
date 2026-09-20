@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001477N000000000"
  },
- "summary": null,
+ "summary": "梁楷为南宋画家，善简笔人物。击壤为相传尧时老人所玩游戏，此卷取尧民击壤典故，写太平之乐。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14134.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

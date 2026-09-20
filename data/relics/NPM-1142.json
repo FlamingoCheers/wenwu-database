@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000248N000000003"
  },
- "summary": null,
+ "summary": "此开为《宋人牋牘》册中北宋苏轼致“若虚总管”尺牍，为友朋往来书简，运笔不拘成法而意态自足，可供考察苏轼尺牍书风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1142.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

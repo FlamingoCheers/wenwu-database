@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001838N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋马远《寒岩积雪图》，写寒岩积雪、林木萧疏之景。马远山水善作边角之景，雪景寒林尤见清旷，为南宋院体山水风格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14184.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

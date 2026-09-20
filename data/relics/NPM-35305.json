@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016607N000000000"
  },
- "summary": null,
+ "summary": "哥窯青瓷三足爐，宋代製品。直口，扁圓腹，下承三足。通體施青釉，釉面開片紋路交錯，深淺相映，古樸雅致。爐為焚香用具，此器造型簡練端莊，屬宋代青瓷香爐經典樣式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35305.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

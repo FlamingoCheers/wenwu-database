@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000091N000000019\n more\n \n 贈帖000091N000000020"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十四册收宋米芾《海岱帖》，为其尺牍之一。行书劲健多姿，锋颖随处生发，经摹刻上石，笔意略具。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22783.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

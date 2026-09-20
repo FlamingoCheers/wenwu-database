@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000085N000000027\n more\n \n 贈帖000085N000000028"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第八册收宋欧阳修《致元珍学士尺牍》，属书问往来之牍。笔致清爽自然，赖刻帖以传，可味宋贤翰墨之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22643.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

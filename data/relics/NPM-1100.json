@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000243N000000003"
  },
- "summary": null,
+ "summary": "《宋人法书》（一）册中一开，为叶清臣致资政大谏天休十兄尺牍。叶清臣为北宋名臣。此札为通问书信，上款具官称行第，格式合于宋人书仪，笔致清雅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1100.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

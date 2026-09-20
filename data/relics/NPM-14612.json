@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001265N000000009"
  },
- "summary": null,
+ "summary": "《历代名绘》册之一开，题宋代赵昌《花鸟》，绘花枝禽鸟的写生情态，属花鸟题材小品。赵昌号“写生赵昌”，以设色著称。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14612.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

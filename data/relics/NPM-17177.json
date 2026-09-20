@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000976N000000000"
  },
- "summary": null,
+ "summary": "此段为传唐代卢鸿《草堂十志图》卷中《金碧潭》一景。金碧潭状写澄澈深碧的水潭，光影含映，画境幽静，与草堂诸景同为隐逸山水诗意题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_17177.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

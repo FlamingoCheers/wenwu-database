@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000235N000000007"
  },
- "summary": null,
+ "summary": "《宋四家墨宝》册中黄庭坚《书苦笋赋》，录自作《苦笋赋》，以笋味苦而言食笋之益，属宋人赋体法书。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_899.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000093N000000003\n more\n \n 贈帖000093N000000004"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第十六册收宋王岩叟尺牍。王岩叟为元祐间名臣，此牍行笔朴厚，书迹传世稀，刻帖存之尤可宝。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22832.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

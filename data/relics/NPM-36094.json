@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷011185N000000000"
  },
- "summary": null,
+ "summary": "定窯白瓷劃花水波紋碗，敞口，弧壁深腹，下承圈足。胎白體堅，牙白釉溫潤。器內以細線劃出水波紋，波紋層疊流轉，線條流暢生動，展現定窯劃花工藝的精湛韻律。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -41,5 +41,6 @@
  "raw_ref": "raw/npm/detail_36094.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

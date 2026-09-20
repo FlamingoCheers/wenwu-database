@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000013N000000000"
  },
- "summary": null,
+ "summary": "《平遠山房法帖》第二冊所收，元鮮于樞尺牘摹刻本。鮮于樞與趙孟頫齊名，行草沉雄，此札筆勢遒健，為元人尺牘佳構。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27379.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

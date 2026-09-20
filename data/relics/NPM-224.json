@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001114N000000018"
  },
- "summary": null,
+ "summary": "宋李唐（传）《文姬归汉图》册之一，页题返家。续写文姬自匈奴归汉、重返故园之情节，构图谨严，人物情态细腻，承宋代院体故事画格法。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_224.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

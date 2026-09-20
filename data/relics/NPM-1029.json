@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000239N000000012"
  },
- "summary": null,
+ "summary": "《宋诸名家墨宝》册中一开，为米芾书尺牍。米芾为北宋书法大家，“宋四家”之一，以行书著称。此札信手挥洒，笔势跳宕爽利，尽显其“刷字”本色。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1029.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

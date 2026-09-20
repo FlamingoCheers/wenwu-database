@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000016N000000000"
  },
- "summary": null,
+ "summary": "张孝祥为南宋状元词人，词风豪迈，书法亦知名。此为其尺牍刻本，见清乾隆敕刻《三希堂法帖》第十六册，笔势爽利，有英迈之气。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21923.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000173N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十六冊之一，摹刻北宋張舜民書尺牘。張舜民為宋代文人臣僚，此帖屬日常書翰，刻石傳形，足資考鑒宋人書風。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21309.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

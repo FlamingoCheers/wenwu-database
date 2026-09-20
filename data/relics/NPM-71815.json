@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中玉000151N000000001"
  },
- "summary": null,
+ "summary": "元代玉雕盖顶，琢莲鹤纹。鹤立莲间，构图清雅，寓高洁长寿之意，为器物盖顶装饰件。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_71815.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

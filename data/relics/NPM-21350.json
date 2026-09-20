@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000173N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十六冊之一，摹刻宋代王之望致季思通判學士尺牘。屬友朋問候書翰，經摹勒上石、拓印成冊，存宋人尺牘書法一格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21350.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

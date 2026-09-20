@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉003356N000000000"
  },
- "summary": null,
+ "summary": "元代橢圓形玉盒，蓋面雕螭紋，盒可貯納小物，精巧雅緻。螭紋線條流暢，為宋元仿古玉器常見的紋飾題材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55396.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

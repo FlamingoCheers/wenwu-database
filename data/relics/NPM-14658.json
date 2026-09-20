@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001292N000000002"
  },
- "summary": null,
+ "summary": "《名画琳琅》册一页，宋梁楷《泼墨仙人》。以阔笔泼墨写袒腹仙人醉行之态，笔墨纵逸，形象诙谐，是减笔人物画的代表作品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14658.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

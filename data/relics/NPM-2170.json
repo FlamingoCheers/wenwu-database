@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000269N000000000"
  },
- "summary": null,
+ "summary": "《兰亭八柱帖》以八卦编次，此为“震”字一册。清乾隆间摹刻内府八种兰亭墨迹上石分柱，此册所收为其中一种，笔意各具，同出《兰亭序》一脉。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_2170.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

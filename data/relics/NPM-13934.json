@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000601N000000000\n more\n \n 故書000601N000000001\n 故書000601N000000002\n 故書000601N000000003\n 故書000601N000000004\n 故書000601N000000005\n 故書000601N000000006"
  },
- "summary": null,
+ "summary": "苏轼《凌虚台记》册，书录苏轼早年名篇。记文叙凌虚台之兴废而寓盛衰之慨，行书端庄流利，文墨并佳。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13934.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

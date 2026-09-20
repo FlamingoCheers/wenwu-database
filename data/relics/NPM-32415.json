@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷012328N000000000"
  },
- "summary": null,
+ "summary": "宋青瓷盤。敞口淺腹，通體施青釉，釉色勻淨溫潤。青瓷為宋代瓷器大宗，諸多名窯皆以青釉著稱，此盤素雅無紋，以釉色與形制取勝，體現宋瓷簡約含蓄的審美。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_32415.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004541N000000000"
  },
- "summary": null,
+ "summary": "元代獸紐玉章，尚未鐫刻印文，印身光素。素章留待刻印，獸紐生動，可見玉材本色與雕紐之功，是難得的未用印材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55883.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

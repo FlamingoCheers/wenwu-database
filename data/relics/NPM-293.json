@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001224N000000016"
  },
- "summary": null,
+ "summary": "此册为《宋高宗书孝经马和之绘图》中〈丧亲章〉的图画部分。马和之据《孝经》经义图绘居丧尽哀场景，笔法简逸流畅，与宋高宗书法相配，为南宋书画合璧名作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_293.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

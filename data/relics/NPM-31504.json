@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷006343N000000000"
  },
- "summary": null,
+ "summary": "宋代白瓷印花蓮塘鴛鴦紋盤。盤內模印蓮塘鴛鴦紋，荷葉田田，鴛鴦成雙，寓意和美圓滿。印花紋樣繁而不亂，構圖飽滿有序，屬宋代北方白瓷窯系常見的裝飾題材，可見模印工藝的精湛。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_31504.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

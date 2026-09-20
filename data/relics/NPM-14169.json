@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001817N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋张择端《春山图》。张择端以风俗长卷著称，此轴转写春山景致，山峦林木点染春意，可供考察宋代山水画风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14169.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

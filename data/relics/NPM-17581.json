@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000213N000000000"
  },
- "summary": null,
+ "summary": "此为《宋李公麟七佛图》卷第七段，为系列末尊佛像，白描沉静古雅，与前面诸段合为七佛全图。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_17581.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

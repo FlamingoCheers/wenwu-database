@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000016N000000000"
  },
- "summary": null,
+ "summary": "蔡京为北宋末宰相，以书法知名。此为其致节夫亲契尺牍刻本，收入清乾隆敕刻《三希堂法帖》第十六册，行书姿媚豪健，自成一格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21852.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003494N000000005"
  },
- "summary": null,
+ "summary": "《墨林二妙》册中一开，为陈居中山水作品。画家以南宋院体法写山林意趣，构图别致，笔墨谨细，于尺幅之间精心经营，颇见匠心。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_10954.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

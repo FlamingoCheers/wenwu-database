@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000061N000000000"
  },
- "summary": null,
+ "summary": "《宋搨武岡帖》第十冊之一開，收唐顏真卿《盧八帖》。行書短札，筆畫豐勁，氣息淳厚，與《蔡明遠帖》等同屬顏書尺牘摹刻之本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21160.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

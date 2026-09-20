@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003585N000000014\n more\n \n 故畫003585N000000015\n 故畫003585N000000016"
  },
- "summary": null,
+ "summary": "《天下名山图》册之一开，题北宋苏轼书《石钟山记》。石钟山记为苏轼名篇，此开以书法录其全文，可供与苏轼传世书迹相参照。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_12055.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

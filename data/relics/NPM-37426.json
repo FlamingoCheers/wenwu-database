@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010167N000000000"
  },
- "summary": null,
+ "summary": "宋定窯白瓷葵花式盤，花瓣式盤口與盤內劃蓮花紋相映成趣，刀法疏朗流暢，牙白釉色瑩潤，格調素雅清麗。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_37426.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

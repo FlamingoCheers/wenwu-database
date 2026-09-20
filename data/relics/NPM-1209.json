@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001990N000000000"
  },
- "summary": null,
+ "summary": "元代王蒙《山水》轴。王蒙为元四家中皴法最繁密者，此轴泛题山水，写林壑幽居之景，笔墨郁密苍茫，具其一贯山水风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1209.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

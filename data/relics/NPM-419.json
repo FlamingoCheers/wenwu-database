@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000174N000000000"
  },
- "summary": null,
+ "summary": "元代俞和臨定武本《蘭亭敘》冊，摹寫定武褉帖，點畫精到，深得右軍筆意，可見俞和追摹晉唐名蹟的功力。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_419.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

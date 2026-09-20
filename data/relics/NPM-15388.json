@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003473N000000020"
  },
- "summary": null,
+ "summary": "《宋元明集绘》册中一开，题明代徐贲画山水。绘山峦层叠、林壑幽深，笔墨秀润有法，具元明之际文人山水气韵。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15388.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

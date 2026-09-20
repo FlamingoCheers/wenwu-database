@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000245N000000009"
  },
- "summary": null,
+ "summary": "韩世忠致“总领少卿”尺牍，《宋人法书》册之一。韩世忠为南宋抗金名将，传世书迹稀少，此牍笔法朴拙，别具历史参考价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1388.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

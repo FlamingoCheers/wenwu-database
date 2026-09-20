@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000963N000000000"
  },
- "summary": null,
+ "summary": "五代南唐周文矩《苏李别意》卷。取苏武、李陵诀别故事入画，写人物惜别之情，周文矩以仕女人物画著称，笔法细劲。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14731.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

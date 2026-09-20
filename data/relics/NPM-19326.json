@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000308N000000000"
  },
- "summary": null,
+ "summary": "傳宋徽宗《畫鷹》軸。徽宗朝畫院精於寫生，鷹隼題材狀物精微。此軸繪猛鷹佇立，目光炯炯，羽翼層次分明，見院體工筆本色。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_19326.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

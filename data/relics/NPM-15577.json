@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000007N000000000"
  },
- "summary": null,
+ "summary": "舊題唐李昭道〈曲江圖〉軸。曲江為長安名勝，此軸寫曲江池館樓觀與遊賞之景，屬名勝樓閣題材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15577.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

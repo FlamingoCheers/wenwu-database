@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001386N000000000"
  },
- "summary": null,
+ "summary": "舊題五代南唐徐熙〈花卉草蟲〉卷，寫花卉與草蟲。徐熙為南唐花鳥名家，世稱「徐熙野逸」，與黃筌體並峙。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15580.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

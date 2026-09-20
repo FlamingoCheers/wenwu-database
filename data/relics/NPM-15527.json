@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000246N000000008"
  },
- "summary": null,
+ "summary": "《宋人法书》第四册中一开，为汪藻致太虚判院朝议尺牍。汪藻为南宋初文臣，此牍行书流丽，笔意安和，具文人书札韵味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15527.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

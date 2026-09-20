@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷012907N000000000"
  },
- "summary": null,
+ "summary": "宋定窯白瓷劃花花卉紋梅花式碟。碟作梅花式，花口分瓣，造型清雅，通體施白釉，碟內劃刻花卉紋，線條流暢。定窯白瓷工藝精湛，此碟將花形制器與劃花裝飾巧妙結合，小巧精緻。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_33551.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

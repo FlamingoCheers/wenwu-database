@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001114N000000001"
  },
- "summary": null,
+ "summary": "宋李唐《文姬歸漢圖》冊之一開，題為「被擄」。描寫蔡文姬漢末被擄往匈奴的情節，人物鞍馬與塞外景象刻畫入微，屬歷史故事畫冊頁。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_207.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

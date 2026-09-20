@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000083N000000000"
  },
- "summary": null,
+ "summary": "《雪江图》轴，题为李唐作。写雪后江天寥廓之景，山石以刚劲笔墨出之，寒意萧然，与李唐南渡后山水画风相承。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13955.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

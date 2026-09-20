@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005859N000000000"
  },
- "summary": null,
+ "summary": "玉雕伏虎羅漢，取佛教羅漢伏虎典故，人物與虎相依，構圖小巧完整，為明代玉雕人物題材作品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57000.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

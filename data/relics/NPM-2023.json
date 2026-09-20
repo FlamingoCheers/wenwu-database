@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000104N000000000"
  },
- "summary": null,
+ "summary": "宋米芾《孔子手植檜贊》軸。贊文詠孔廟相傳孔子手植檜樹，米芾以行書書之，筆勢宕逸，八面生姿，具宋四家書法風神。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_2023.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

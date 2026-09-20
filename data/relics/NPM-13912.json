@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000389N000000000"
  },
- "summary": null,
+ "summary": "黄庭坚字迹卷，属传世黄氏墨迹类作品。其书沉着飞动，以纵放的笔势与奇崛的结字著称，此卷可观其用笔使转之妙。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13912.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

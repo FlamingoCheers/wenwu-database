@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003479N000000007"
  },
- "summary": null,
+ "summary": "《列朝名绘合册》中一开，为夏圭《江滨策蹇》。“策蹇”谓骑驴而行。图绘江滨行人骑蹇，笔墨苍劲，水墨淋漓，见“夏半边”截景取势之妙。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_10922.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

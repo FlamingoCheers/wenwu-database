@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000094N000000024\n more\n \n 贈帖000094N000000025\n 贈帖000094N000000026"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第十七册收宋张即之《致殿元学士尺牍》。张即之书以坚劲名世，此尺牍点画斩截，小字亦具风骨，摹刻存之。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22817.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

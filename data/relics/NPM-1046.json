@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000240N000000007"
  },
- "summary": null,
+ "summary": "《宋贤书翰》册中一开，为钱勰致知郡工部尺牍。钱勰为北宋文人，工书法。此札为致地方官员的通问书信，上款具官称，可见宋人书仪与交谊风尚。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1046.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

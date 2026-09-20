@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000240N000000002"
  },
- "summary": null,
+ "summary": "《宋贤书翰》册中一开，为苏轼尺牍。此札为东坡致友人书信，随兴挥毫，姿态横生，不求工而自工，是体会苏轼尚意书风与文人雅趣的极佳范例。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1042.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

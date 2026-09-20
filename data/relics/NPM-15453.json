@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003459N000000004"
  },
- "summary": null,
+ "summary": "《唐宋元明集绘》册中一开，题宋代郭熙作山水。郭熙善写季节变化之景，卷云皴与蟹爪枝自成一家，此帧山石灵动，林木劲挺，气象清旷。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15453.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003464N000000007"
  },
- "summary": null,
+ "summary": "《宋元集繪》冊之一開，舊題宋宋迪〈山水〉，寫平遠溪山之景。宋迪以瀟湘八景畫題著稱，此開屬其名下冊頁。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15798.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000115N000000000"
  },
- "summary": null,
+ "summary": "《对月图》立轴，传为马远作。写高士山间独坐对月，构图简逸，善取边角之景，水墨清润，意境幽远，为南宋山水典型风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1358.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

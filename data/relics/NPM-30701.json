@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000005N000000017"
  },
- "summary": null,
+ "summary": "明拓《宝贤堂集古法帖》第五册，收唐柳公权《十六日帖》。此为柳公权尺牍刻本，明拓丛帖保存原帖风貌，字口清晰者尤为习字者所重，可资临摹与校勘。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_30701.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000084N000000001\n more\n \n 贈帖000084N000000002\n 贈帖000084N000000003"
  },
- "summary": null,
+ "summary": "《三希堂法帖》为清乾隆间内府摹刻历代法书之丛帖，此为第七册，收宋高宗赵构《付岳飞手敕》。敕书属帝王翰墨，笔致端凝，赖刻帖传其风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22629.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

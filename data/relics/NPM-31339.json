@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購書001368N000000000"
  },
- "summary": null,
+ "summary": "民國張人傑行書八言聯，立軸形式。聯語以行書書就，上下聯各八字，筆勢流暢洒脫。書法對聯常懸於廳堂齋室，兼具文學內涵與書法藝術價值，此聯可見作者行書的筆墨意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_31339.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001426N000000000"
  },
- "summary": null,
+ "summary": "赵令穰为北宋宗室画家，善作坡坂汀渚的平远小景。此卷绘秋山红树，秋意盎然。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14097.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

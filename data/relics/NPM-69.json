@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000234N000000007"
  },
- "summary": null,
+ "summary": "《宋眉山苏氏三世遗翰》册中一开，为苏过致“贻孙仙尉”尺牍。苏过为苏轼之子，工文善书，墨迹自然率意，兼具文献价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_69.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001257N000000009"
  },
- "summary": null,
+ "summary": "《纨扇画册》之一开，题明代曹妙清《折枝花卉》，绘折枝花卉的清姿，属花卉题材小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14541.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

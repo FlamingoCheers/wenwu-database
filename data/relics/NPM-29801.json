@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000013N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第七册，收南宋米友仁《投闲帖》。米友仁为米芾之子，世称“小米”，书画承家学而自出己意。此帖为尺牍刻本，墨拓装册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29801.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000245N000000010"
  },
- "summary": null,
+ "summary": "赵鼎书札子，《宋人法书》册之一。赵鼎为南宋初名相，札子为公文进呈书体，此件书写端严整饬，兼具书法与文献价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1390.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

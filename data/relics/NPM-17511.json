@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001501N000000000"
  },
- "summary": null,
+ "summary": "此卷为《万国朝宗图》第二幅，题苏汉臣画、赵孟頫书。图写使臣执礼进贡之状，衣冠形貌与随行器物描写细致，反映万国来朝的传统观念。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17511.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

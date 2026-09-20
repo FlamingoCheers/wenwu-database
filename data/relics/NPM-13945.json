@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000050N000000000"
  },
- "summary": null,
+ "summary": "《四喜图》轴，传为赵昌作。赵昌以花鸟写生著称，此轴绘花鸟景致而寓喜庆之意，设色明丽，可见宋代院体花鸟风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13945.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

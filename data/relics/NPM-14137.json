@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001480N000000000"
  },
- "summary": null,
+ "summary": "钱选为宋末元初画家。此卷取渭水访贤典故，绘文王访姜尚于渭滨的故事场景。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14137.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

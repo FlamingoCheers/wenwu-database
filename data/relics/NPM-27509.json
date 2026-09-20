@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000058N000000000"
  },
- "summary": null,
+ "summary": "《經訓堂法帖》第四冊所收，宋黃庭堅書《梵志詩》摹刻本，以《梵志詩》入書，行楷勁挺，山谷書風躍然。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27509.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

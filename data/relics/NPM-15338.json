@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003497N000000004"
  },
- "summary": null,
+ "summary": "《古香片羽》册中一开，题宋代崔白作翠羽绯桃。崔白花鸟生动自然，突破黄家格法，此帧写禽鸟栖于绯桃花枝，设色明丽，意态活泼。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15338.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

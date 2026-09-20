@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中瓷002581N000000000"
  },
- "summary": null,
+ "summary": "白瓷花式盤，宋代製品。盤作花口分瓣式，器形規整勻稱，通施白釉，釉色瑩潤潔淨，胎骨堅細，可作陳設供器或日用盤皿之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_19929.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

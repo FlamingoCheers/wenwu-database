@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000164N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第七册所收宋高宗真草书嵇康《养生论》刻本。真草二体相间而行，笔法圆劲娴熟，见高宗书学二王的深厚根基。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21728.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

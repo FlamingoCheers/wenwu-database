@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001242N000000011"
  },
- "summary": null,
+ "summary": "《集古名繪》冊之一開，舊題宋馬麟〈竹塢觀泉〉，寫竹林間臨泉觀水之景，屬點景人物的山水小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_15759.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

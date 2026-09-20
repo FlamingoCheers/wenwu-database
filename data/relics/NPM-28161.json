@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000043N000000000"
  },
- "summary": null,
+ "summary": "《贯经堂米帖》第三册之一，收宋米芾《通判帖》。通判为宋代官名，此牍当与宦迹相关，笔势爽健多姿，是米书刻帖之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_28161.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

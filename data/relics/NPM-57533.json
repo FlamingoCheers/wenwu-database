@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉006460N000000000"
  },
- "summary": null,
+ "summary": "玉璧，扁圓形中有孔，素雅溫潤，璧為中國古代重要禮玉，宋人復古崇禮，仿古玉璧於此時復興。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57533.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

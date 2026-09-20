@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000002N000000000"
  },
- "summary": null,
+ "summary": "《快雪堂帖》第二册之一开，收唐柳公权《翰林帖》摹刻，柳书骨力遒劲，与颜真卿并称颜筋柳骨。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_26458.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅001691N000000000"
  },
- "summary": null,
+ "summary": "宋代鎏金獸面紋方鼎，方形鼎身，雙耳四足，器腹飾獸面紋並施鎏金。宋室崇古，仿商周銅器製作精雅，此鼎為宋代仿古禮器的典型品類。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_5680.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000249N000000014"
  },
- "summary": null,
+ "summary": "此册页出自《宋元宝翰》，为元吴志淳书《墨法》四首。以咏墨法之诗入书，诗文与书法相合，属元人法书。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14336.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

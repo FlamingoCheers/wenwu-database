@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014358N000000000"
  },
- "summary": null,
+ "summary": "宋印花白瓷碗，碗心飾蓮塘游魚紋，荷塘景致如畫般展開。胎堅釉潤，工藝精湛，展現宋代白瓷模印裝飾的成熟水準。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_37689.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅000476N000000000"
  },
- "summary": "碟成四瓣花形，下有圈足。",
+ "summary": "唐代铜碟，器成四瓣花形，下承圈足。造型仿花式而制，小巧玲珑，为承置物件之日用器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_6676.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

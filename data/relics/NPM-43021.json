@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "購瓷000144N000000000"
  },
- "summary": null,
+ "summary": "唐代加彩陶俑，作胡人侏儒形象，姿態詼諧生動，敷彩飾面，為唐代人物俑中的特殊題材，富生活趣味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43021.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

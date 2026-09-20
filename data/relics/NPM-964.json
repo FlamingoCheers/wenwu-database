@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000237N000000006"
  },
- "summary": null,
+ "summary": "《宋四家集册》之一，收米芾书尺牘。米芾书画自成一家，行书以沉着飞翥著称，此札点画精到、顾盼生姿，足资研习其笔法。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_964.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

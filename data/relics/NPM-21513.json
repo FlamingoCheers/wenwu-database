@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000171N000000000"
  },
- "summary": null,
+ "summary": "北宋米芾《送提举通直使诗》，清乾隆御刻《三希堂法帖》第十四册所收刻本。米芾为“宋四家”之一，行书俊迈跌宕，此帖足见其笔势沉着痛快之本色。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21513.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

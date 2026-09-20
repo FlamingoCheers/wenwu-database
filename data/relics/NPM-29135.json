@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000117N000000000"
  },
- "summary": null,
+ "summary": "《垂裕阁法帖》丛帖之一册，收宋代蔡襄草书尺牍。尺牍即往还书信，蔡襄草书潇洒自然。原迹摹刻上石，以墨拓剪裱成册，可供临习鉴赏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29135.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

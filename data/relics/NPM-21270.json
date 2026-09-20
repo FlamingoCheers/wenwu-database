@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000009N000000000"
  },
- "summary": null,
+ "summary": "《清乾隆三希堂法帖》（九）冊之一開，摹刻宋曾肇《書尺牘》。曾肇為曾鞏之弟，工於書翰，此行書尺牘筆致溫雅，結體疏朗。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21270.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

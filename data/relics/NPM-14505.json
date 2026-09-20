@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001253N000000005"
  },
- "summary": null,
+ "summary": "《宋元名绘》册之一开，题宋代夏珪《寒溪垂钓》，绘寒溪之上渔翁独钓的清寂景致，属山水渔隐题材小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_14505.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

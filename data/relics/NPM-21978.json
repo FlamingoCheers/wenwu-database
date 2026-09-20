@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000011N000000000"
  },
- "summary": null,
+ "summary": "《洞庭春色》《中山松醪》二赋皆苏轼咏酒之作，借名酒寄寓感慨，书法老健酣足。此为清乾隆敕刻《三希堂法帖》第十一册所收二赋卷刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21978.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

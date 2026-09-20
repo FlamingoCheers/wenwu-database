@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000086N000000039\n more\n \n 贈帖000086N000000040"
  },
- "summary": null,
+ "summary": "摹刻宋陈师锡《致方回监郡宣德执事尺牍》。监郡、宣德郎为官职之称，此札书致方回，书迹清劲有致，为宋代尺牍丛刻之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22488.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

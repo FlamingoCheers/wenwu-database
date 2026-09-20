@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001253N000000010"
  },
- "summary": null,
+ "summary": "《宋元名绘》册之一开，题宋代李迪《狸奴小影》，绘猫儿憨态可掬的姿影，属走兽题材小品。李迪为南宋院体名家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14510.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

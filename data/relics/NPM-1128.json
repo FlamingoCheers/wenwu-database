@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000243N000000022"
  },
- "summary": null,
+ "summary": "此开为《宋人法书》第一册中唐坰致“彦远尊兄”尺牍，属友朋问候书简，内容叙谊致意，可窥宋代文人书仪与书风面貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1128.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

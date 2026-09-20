@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000179N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第二十二册所收元明人题跋赵氏一门法书刻本，汇集诸家品题跋语。题识书迹并美，兼具书法欣赏与鉴藏史料价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21603.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

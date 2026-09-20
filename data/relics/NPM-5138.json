@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001266N000000006"
  },
- "summary": null,
+ "summary": "此幅為《宋元名人花鳥合璧》冊中一開，舊題宋黃居寀〈芍藥〉，畫芍藥花枝，屬折枝花卉冊頁小品，承宋代院體花鳥傳統。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/npm/detail_5138.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

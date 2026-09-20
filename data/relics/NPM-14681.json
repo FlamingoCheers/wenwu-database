@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003481N000000011"
  },
- "summary": null,
+ "summary": "《集古名绘》册一页，宋文同《墨竹》。以浓淡墨色写竹之风致，文同为文人墨竹画的典范，后世“湖州竹派”即祖述之。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14681.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

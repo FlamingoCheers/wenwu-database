@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000086N000000011\n more\n \n 贈帖000086N000000012\n 贈帖000086N000000013\n 贈帖000086N000000014\n 贈帖000086N000000015"
  },
- "summary": null,
+ "summary": "摹刻宋蔡襄《自书谢表并诗》。谢表为臣僚进呈谢恩之文书，并附诗作，蔡襄亲书之，书迹工稳端雅，文翰与书法相辉。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22468.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

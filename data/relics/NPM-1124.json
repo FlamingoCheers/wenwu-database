@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000243N000000019"
  },
- "summary": null,
+ "summary": "《宋人法书》（一）册中一开，为范纯仁致伯康君实尺牍。范纯仁为范仲淹之子，北宋名臣。此札为书信墨迹，笔致温醇端雅，兼具书法与文献价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1124.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

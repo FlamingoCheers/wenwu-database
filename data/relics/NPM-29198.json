@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷011936N000000000"
  },
- "summary": null,
+ "summary": "宋代青瓷碟，口沿作葵花瓣式，起伏有致，釉色青翠温润。仿自然花形为宋瓷常见的造型意趣，体现宋代崇尚雅致自然的审美趣味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29198.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

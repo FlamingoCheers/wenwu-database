@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001855N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋钱选《达摩像》，绘禅宗初祖达摩。达摩面壁、一苇渡江皆画史常见母题，道释人物画多借以表现禅意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14198.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

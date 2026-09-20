@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001854N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋钱选《画观音像》，绘观音大士像。观音为佛教慈悲象征，宋以后观音像流传尤广，此轴属道释人物画。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14197.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

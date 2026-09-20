@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉003715N000000000"
  },
- "summary": null,
+ "summary": "宋代玉嬰，圓雕嬰孩之形，體態稚拙可愛。宋人好以童子入玉，取宜男多子之祥，常為佩飾或案頭小件。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55415.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

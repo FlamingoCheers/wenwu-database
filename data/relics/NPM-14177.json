@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001826N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋李安忠《雪岸寒鸦》，绘雪岸寒鸦栖宿之景。寒鸦雪景寄寓清寒萧瑟之意，李安忠工花鸟走兽，画风精严。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14177.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

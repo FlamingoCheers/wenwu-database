@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷013912N000000000"
  },
- "summary": null,
+ "summary": "宋代湘湖窑青白瓷洗，器内模印花卉纹，釉色青白莹润。湘湖窑属江西青白瓷窑系窑场，制品与景德镇青白瓷风格相近，胎薄体轻，纹饰雅致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_31266.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

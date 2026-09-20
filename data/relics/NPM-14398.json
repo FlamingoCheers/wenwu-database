@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000849N000000000"
  },
- "summary": null,
+ "summary": "题宋代陈居中《文姬归汉图》轴。取东汉蔡文姬自匈奴归汉的故事，绘塞外人物车马行旅情景，属人物故实画。陈居中以善画番马著称。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14398.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉001342N000000001"
  },
- "summary": null,
+ "summary": "宋代木器座一件，形制小巧简朴，为承托器物之用，是收藏陈设中常见的配件。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_26041.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

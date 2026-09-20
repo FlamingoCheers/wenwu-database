@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001392N000000000"
  },
- "summary": null,
+ "summary": "五代后蜀黄筌《茶梅鸂鶒图》卷。绘山茶花畔鸂鶒游憩水际，黄筌以精丽花鸟著称，此卷属写生花鸟传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14847.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

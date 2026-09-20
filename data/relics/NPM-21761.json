@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000168N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十一册所收苏轼《洞庭春色》《中山松醪》二赋刻本。二赋皆咏酒名篇，赋文旷达，行书沉稳遒健，为东坡传世长卷名迹的刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21761.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

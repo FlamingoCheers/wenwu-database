@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000237N000000001"
  },
- "summary": null,
+ "summary": "《宋四家集册》之一，收北宋苏轼所书跋语。苏轼居宋四家之首，诗文书艺兼擅，作书丰腴跌宕、天真烂漫，此页随笔挥洒，可见其题跋墨迹风致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_958.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

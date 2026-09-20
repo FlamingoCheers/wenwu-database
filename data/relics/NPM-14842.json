@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001388N000000000"
  },
- "summary": null,
+ "summary": "五代南唐周文矩《仙姬文会图》卷。绘仙姬雅集文会之景，周文矩以仕女人物著称，笔法细劲，衣纹流转。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14842.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

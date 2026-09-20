@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000034N000000014"
  },
- "summary": null,
+ "summary": "《秘阁帖》第十册之一，收唐李邕书《缙云帖》。李邕行书自成一格，结体欹侧而气骨凛然，此为摹刻存真的法帖拓本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_28121.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

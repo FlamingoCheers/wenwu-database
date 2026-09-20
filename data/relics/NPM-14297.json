@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000244N000000007"
  },
- "summary": null,
+ "summary": "此册页出自《宋人法书》（二），为李之仪书尺牍。李之仪工词善书，与苏轼交游，此札墨迹可见宋人行书尺牍风致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14297.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

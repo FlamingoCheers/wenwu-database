@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001244N000000012"
  },
- "summary": null,
+ "summary": "《宋元名繪》冊中一開，舊題宋夏圭《秋林高士圖》，繪秋林之下高士閒坐，構圖簡練，水墨蒼潤，見南宋山水邊角取景之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_387.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

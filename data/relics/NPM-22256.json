@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000167N000000000"
  },
- "summary": null,
+ "summary": "摹刻宋苏轼《武昌西山赠邓圣求诗》。诗为赠答邓圣求而作，咏武昌西山景致，行书纵逸，为东坡名篇书迹之刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22256.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

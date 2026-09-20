@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000010N000000020\n more\n \n 故帖000010N000000021"
  },
- "summary": null,
+ "summary": "此为宋拓《晋唐小楷》册中一开，越州刻本，传为唐褚遂良小楷《度人经》。《度人经》为道教经典，小字精工，具唐楷法度。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22150.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

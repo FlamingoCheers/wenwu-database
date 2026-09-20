@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000280N000000000"
  },
- "summary": null,
+ "summary": "元代王蒙《桃源春晓图》轴。取陶渊明桃花源意境，绘春晓桃源山水，山重岭复、溪流花发，将理想仙境化为繁密苍浑的文人画境。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1237.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

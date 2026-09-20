@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000060N000000000"
  },
- "summary": null,
+ "summary": "《宋搨武岡帖》第九冊之一開，收唐柳公權《聖慈帖》《伏審帖》《榮示帖》三帖。柳書骨力勁健，與顏體並稱顏筋柳骨，摹刻可見其筋骨風神。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21148.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

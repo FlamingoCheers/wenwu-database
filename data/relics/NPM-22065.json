@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000010N000000000"
  },
- "summary": null,
+ "summary": "此为《三希堂法帖》第十册所收宋苏轼《武昌西山赠邓圣求诗》刻帖。此诗为苏轼咏武昌西山胜景并赠邓圣求之作，诗笔纵横，书亦遒逸。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22065.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

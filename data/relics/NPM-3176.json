@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000377N000000000"
  },
- "summary": null,
+ "summary": "明代徐賁〈蜀山圖〉軸。以蜀山為題寫山川勝景，峰巒秀潤，構景幽深，屬文人山水畫傳統。徐賁活動於元末明初，此軸筆墨清潤謹嚴，可見明初山水畫承續元人的風格脈絡。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_3176.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

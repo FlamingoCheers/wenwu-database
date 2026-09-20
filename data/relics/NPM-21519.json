@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000171N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十四册所收北宋米芾《清和帖》刻本，为致友朋问候之尺牍。行书从容圆熟，温润而不失骏快，是米书传世名品之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21519.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

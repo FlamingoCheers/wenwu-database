@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000005N000000020"
  },
- "summary": null,
+ "summary": "明拓《宝贤堂集古法帖》第五册，收宋李建中《与司封道兄七绝》。李建中为北宋初书家，书风温润丰肥。此帖为其书七言绝句刻本，保存宋人书迹传本，可资研究。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_30708.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

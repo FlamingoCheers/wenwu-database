@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000116N000000000"
  },
- "summary": null,
+ "summary": "《雪景》轴，马远作。绘雪岭寒林、殿宇行人隐现其间，斧劈皴写方硬山石，配以留白雪意，愈显清寒峭拔之致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13963.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

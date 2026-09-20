@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000264N000000000"
  },
- "summary": null,
+ "summary": "元代朱叔重《春塘柳色》立轴，以春日池塘柳色为题，描绘春景山水，属山水画题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_741.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

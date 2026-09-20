@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉002506N000000001"
  },
- "summary": null,
+ "summary": "玉頂雕鴛鴦荷葉紋，取蓮塘雙禽之意趣，象徵佳偶和合、美滿長久。此類玉頂原為器物蓋鈕，元代玉作中蓮池水禽題材甚為常見。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_46926.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

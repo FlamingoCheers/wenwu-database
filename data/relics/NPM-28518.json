@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016942N000000000"
  },
- "summary": null,
+ "summary": "南宋官窑青瓷牡丹花式洗。洗作牡丹花形，花瓣口沿层叠有致，通体施青釉，釉质温润，属宫廷官窑器风格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_28518.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

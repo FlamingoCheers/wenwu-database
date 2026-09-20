@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001816N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋蔡京《环翠图》。蔡京以书法著称，“环翠”意谓翠色环绕，画写林泉佳胜之境，可供考察宋代文人书画之相互浸润。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14168.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

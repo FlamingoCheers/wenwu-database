@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000012N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第六册，合收北宋秦观《与方叔书》《与元礼宣德书》两帖。秦观为“苏门四学士”之一，以词名世。帖为尺牍刻本，墨拓装册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29704.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

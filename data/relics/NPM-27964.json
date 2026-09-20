@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000042N000000000"
  },
- "summary": null,
+ "summary": "《贯经堂米帖》第二册之一，收宋米芾《焚香帖》。帖名取自牍中文句，米芾行草挥洒自如，刻帖存其风神，足供临池取法。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27964.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

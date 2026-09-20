@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001515N000000000"
  },
- "summary": null,
+ "summary": "元代王振鹏《五云楼阁图》卷。以界画名家的王振鹏绘云间楼阁，殿宇层叠、结构谨严，线条细劲，代表元代宫室界画的精诣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1155.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

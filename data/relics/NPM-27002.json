@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000040N000000000"
  },
- "summary": null,
+ "summary": "《墨妙軒法帖》第四冊所收，宋李彭《公闢帖》摹刻本。李彭為北宋詩人，書蹟存世極少，此帖可略見宋人尺牘書風。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27002.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

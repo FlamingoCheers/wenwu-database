@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000001N000000000"
  },
- "summary": null,
+ "summary": "《快雪堂帖》第一册之一开，收宋米芾临王羲之《雨晴帖》摹刻，临本神采流动，见米芾于二王法书用功之深。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_26367.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

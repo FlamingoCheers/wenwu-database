@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000116N000000000"
  },
- "summary": null,
+ "summary": "此册为《垂裕阁法帖》第七册，收传唐代张旭草书《古诗四帖》。张旭世称“草圣”，狂草笔势奔放连绵、气势磅礴。刻帖虽为拓本，犹可见其飞动之势。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29369.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

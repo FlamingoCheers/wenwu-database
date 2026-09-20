@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005263N000000000"
  },
- "summary": null,
+ "summary": "明代小玉管，短柱中通，光素潤澤。玉管可作串飾間隔之用，或為杖頭、墜腳小件，簡淨規矩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_56505.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

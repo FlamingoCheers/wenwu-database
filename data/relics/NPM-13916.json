@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000393N000000000"
  },
- "summary": null,
+ "summary": "黄庭坚书《高松赋》卷，书录咏物赋篇。行书笔力雄健、字势开张，赋文咏高松之贞坚，与山谷劲健书风相映成趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13916.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

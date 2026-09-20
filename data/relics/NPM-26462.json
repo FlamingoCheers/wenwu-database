@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000004N000000000"
  },
- "summary": null,
+ "summary": "《快雪堂帖》第四册之一开，收宋苏轼《天际乌云帖》摹刻拓本，为东坡传世名迹，笔意丰润而流转。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_26462.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

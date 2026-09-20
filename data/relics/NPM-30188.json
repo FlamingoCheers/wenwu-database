@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000719N000000000"
  },
- "summary": null,
+ "summary": "宋郭熙《雪景山水真迹》卷。郭熙为北宋山水画大家，创卷云皴法，主张「三远」构图。此卷以雪景为题，寒林雪岭，境界清旷，代表北宋山水画的宏伟气象。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_30188.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

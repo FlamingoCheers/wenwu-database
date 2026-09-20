@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000162N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第五册所收唐柳公权《蒙诏帖》刻本。柳公权与颜真卿并称“颜筋柳骨”，此帖行书气势遒迈，点画爽利，为柳书行草名迹。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21711.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

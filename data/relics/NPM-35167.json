@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷005902N000000000"
  },
- "summary": null,
+ "summary": "宋定窯白瓷印花番蓮紋盤。敞口淺腹，牙白釉溫潤勻淨，盤心印花番蓮紋，花朵連枝，紋樣繁而不亂。定窯以印花白瓷著稱，此盤製作精整，紋飾富麗，可見宋代定窯的製品風貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35167.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

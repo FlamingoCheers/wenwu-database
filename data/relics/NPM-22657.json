@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000011N000000028\n more\n \n 故帖000011N000000029\n 故帖000011N000000030\n 故帖000011N000000031\n 故帖000011N000000032"
  },
- "summary": null,
+ "summary": "宋拓《至道御书法帖》第十二册。至道为宋太宗年号，全帖摹御书而成，此宋拓剪裱本为整套丛帖之一，纸墨传古。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22657.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

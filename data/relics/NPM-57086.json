@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005945N000000000"
  },
- "summary": null,
+ "summary": "玉質雕花佩，器面琢花卉紋樣，供繫佩之飾，花卉紋自宋元漸盛，紋樣多取吉祥意涵。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57086.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

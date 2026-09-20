@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003465N000000005"
  },
- "summary": null,
+ "summary": "《宋元集繪》冊之一開，舊題宋趙伯駒〈青綠山水〉，以青綠設色寫林巒景致，屬趙伯駒一系青綠山水冊頁。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15805.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

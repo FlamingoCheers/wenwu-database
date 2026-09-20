@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000005N000000000"
  },
- "summary": null,
+ "summary": "舊題唐李昭道〈春山行旅圖〉軸，寫春山疊嶂間行旅人馬迤邐而行，承唐代山水行旅畫題。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15553.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

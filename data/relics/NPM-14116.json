@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001452N000000000"
  },
- "summary": null,
+ "summary": "苏汉臣为宋代婴戏题材名家。此卷以百子欢歌为题，绘群童嬉戏歌舞的热闹场景，寓意人丁兴旺。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14116.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

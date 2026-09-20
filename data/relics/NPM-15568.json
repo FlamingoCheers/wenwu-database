@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001242N000000003"
  },
- "summary": null,
+ "summary": "《集古名繪》冊之一開，舊題宋陳居中〈獵騎帶禽〉，寫獵騎攜所獲飛禽而歸的情景，屬行獵題材人物畫。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_15568.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

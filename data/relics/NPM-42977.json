@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "購瓷000096N000000000"
  },
- "summary": null,
+ "summary": "宋代白瓷蓋罐，蓋罐扣合，胎白釉瑩，線條圓潤端整，為日用盛貯器，具宋代白瓷雅潔風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_42977.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

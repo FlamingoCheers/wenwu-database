@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000166N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第九冊之一，摹刻北宋蔡襄致公謹尺牘。屬友朋往還書翰，刻石拓印成冊，供鑒賞臨寫之資。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21398.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

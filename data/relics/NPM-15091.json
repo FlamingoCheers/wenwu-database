@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003459N000000003"
  },
- "summary": null,
+ "summary": "《唐宋元明集绘》册中一开，题五代戴嵩作牧牛图。戴嵩承唐代韩滉一派，以画牛著称。此帧写牧童水牛，笔意生动，田家风致盎然。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15091.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

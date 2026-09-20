@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000041N000000000"
  },
- "summary": null,
+ "summary": "《贯经堂米帖》第一册之一，收宋米芾临王羲之《辞世帖》。米芾平生用力临摹晋帖，此临本经摹刻传世，可见其追摹右军笔法之功。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_28053.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003138N000000007"
  },
- "summary": null,
+ "summary": "《宋钱选画花篮图》册中一开，画题“桂花”。绘桂花枝叶，碎花簇簇，属花卉写生。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_6890.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000005N000000018\n more\n \n 購帖000005N000000019"
  },
- "summary": null,
+ "summary": "明拓《宝贤堂集古法帖》第五册，收唐张旭《千字文帖》。《千字文》为历代书家常书题材，张旭以草书书之，笔势连绵跌宕，此明拓刻本可供后世研习张旭草法。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_30705.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

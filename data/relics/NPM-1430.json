@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001236N000000011"
  },
- "summary": null,
+ "summary": "此册页出自《历朝名绘》，为明盛著《秋江钓艇》，写秋江空阔、渔艇垂钓之景。渔隐题材寄寓江湖之思，属山水画科。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1430.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉006249N000000000"
  },
- "summary": null,
+ "summary": "玉雕雙鵪鶉，鵪與安諧音，成雙更取平安和順之意，明清玉雕喜作此吉祥題材，刀工細緻寫實。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57370.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000165N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第八册所收北宋李建中《土母帖》刻本。土母帖为李建中传世名迹，行书结构严谨，笔致沉稳，可见宋初书风承唐启宋的面貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21736.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

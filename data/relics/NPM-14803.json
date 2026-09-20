@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000131N000000000"
  },
- "summary": null,
+ "summary": "宋钱选《画荔枝》立轴。以荔枝果实入画，属蔬果题材，钱选工花鸟蔬果，画风精工而带古意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14803.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

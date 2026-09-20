@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000098N000000000"
  },
- "summary": null,
+ "summary": "《快雪堂法帖》丛帖之一。此册收唐代颜真卿《鹿脯帖》，属其尺牍书迹之摹刻拓本；颜真卿书法端庄浑厚，为唐代大家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_16646.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

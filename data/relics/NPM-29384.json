@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000115N000000000"
  },
- "summary": null,
+ "summary": "明《垂裕阁法帖》第六册之一，收唐代颜真卿《瀛洲帖》。颜真卿行草气势沉雄、笔力千钧，此帖为其行书名迹之一，经摹刻上石，墨拓装册流传。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29384.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

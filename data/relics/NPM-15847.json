@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003471N000000003"
  },
- "summary": null,
+ "summary": "本幅选自《宋元拾翠》册，题元代王渊作，绘竹篮盛春日花卉，花枝错落、生意盎然，属花卉题材册页小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15847.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

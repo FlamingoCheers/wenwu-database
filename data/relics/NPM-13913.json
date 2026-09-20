@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000390N000000000"
  },
- "summary": null,
+ "summary": "黄庭坚书李白诗卷，以行草书录李白诗篇。笔势开张、纵横奇崛，长撇大捺极富张力，诗书辉映，是山谷书写唐人诗的典型之作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13913.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

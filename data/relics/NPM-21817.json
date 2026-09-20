@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000170N000000000"
  },
- "summary": null,
+ "summary": "颜真卿《争座位帖》为著名行书刻帖，黄庭坚曾于其后题识，推崇颜书。此为《三希堂法帖》第十三册所收黄氏《争座帖后》题跋刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21817.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

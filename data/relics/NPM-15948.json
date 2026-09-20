@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003496N000000003"
  },
- "summary": null,
+ "summary": "本幅选自《吉光珍壽》册，题南宋马远作，绘茅轩之中烹茶情景，意境闲适，属山水人物题材册页小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15948.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000019N000000000"
  },
- "summary": null,
+ "summary": "元代王渊《莲池禽戏图》卷。绘荷塘中群禽嬉游之景，莲叶田田、水禽姿态各异，属花鸟水禽题材，笔墨精工而生动有致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1171.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

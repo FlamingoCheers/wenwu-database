@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000007N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第一册之一，收传唐代褚遂良楷书《度人经》。《度人经》为道教经典，此帖楷书端正匀净，经摹刻上石流传，墨拓装册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29262.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

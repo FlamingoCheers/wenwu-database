@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000236N000000001"
  },
- "summary": null,
+ "summary": "《宋四家真迹》册之一，收苏轼致知县朝奉尺牘。受书人以官衔相称，属友朋问讯之书，东坡作书肉丰骨劲、姿态横生，此札可见一斑。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_980.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

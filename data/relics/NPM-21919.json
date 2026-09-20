@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000013N000000000"
  },
- "summary": null,
+ "summary": "此为宋黄庭坚《惟清道人帖》刻本，见《三希堂法帖》第十三册，系与僧惟清往还之札，语涉禅门，行书瘦劲婉通，具文人清韵。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21919.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

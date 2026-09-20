@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000376N000000000"
  },
- "summary": null,
+ "summary": "明代冷謙〈白岳圖〉軸。白岳為道教名山，素以奇峰幽壑著稱。畫以立軸寫白岳山川景致，峰巒起伏，佈局開闊，屬文人山水畫傳統，筆墨簡古，寄寓山林幽思。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_3175.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

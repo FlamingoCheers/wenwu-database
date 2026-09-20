@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000133N000000000"
  },
- "summary": null,
+ "summary": "此卷为《宋四家书》之一，蔡襄书《寒蝉赋》。蔡襄书法端严温厚、恪守法度，此卷笔致遒丽，赋文与书迹并美，可见宋人楷行的雅正气格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17609.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

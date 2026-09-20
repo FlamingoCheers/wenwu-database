@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000246N000000003"
  },
- "summary": null,
+ "summary": "《宋人法书》第四册中一开，为胡安国致伯高太博尺牍。胡安国为南宋初经学家，此牍书风严谨，笔致沉厚，见学者气象。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15522.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

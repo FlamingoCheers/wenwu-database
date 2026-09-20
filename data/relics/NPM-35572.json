@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010196N000000000"
  },
- "summary": null,
+ "summary": "彭窯白瓷杯，元代燒製，器壁勻薄，敞口深腹。杯內飾壽字花卉紋，花卉舒展，壽字端莊，白釉瑩潤，全器素雅可愛，屬吉語紋飾瓷杯。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35572.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

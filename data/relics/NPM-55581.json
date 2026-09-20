@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004195N000000000"
  },
- "summary": null,
+ "summary": "宋代玉印，方寸之軀，印紐齊整。玉印堅致溫潤，自古為印材上品，此印可為文房鈐印與案頭清賞兩用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55581.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

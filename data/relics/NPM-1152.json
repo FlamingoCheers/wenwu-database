@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000248N000000012"
  },
- "summary": null,
+ "summary": "此开为《宋人牋牘》册中北宋霍端友所书尺牍，属文人书信墨迹，书法平和不事雕饰，可资考察北宋士大夫日常书风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1152.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉006366N000000000"
  },
- "summary": null,
+ "summary": "以玉圓雕蟹形，甲殼雙螯琢磨入微，姿態寫實生動，為元代動物玉雕小品，可供陳設把玩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57457.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

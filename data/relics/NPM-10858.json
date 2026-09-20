@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003462N000000008"
  },
- "summary": null,
+ "summary": "《宋人绘珍片玉》册中一开，为许道宁《秋江萧寺》。许道宁为北宋山水画家，擅写寒林平远之景。图绘秋江之畔萧寺掩映，峰峦峭拔，气象清旷。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_10858.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

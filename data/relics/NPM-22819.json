@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000094N000000029\n more\n \n 贈帖000094N000000030"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十七册收宋杜良臣《致中一哥新恩中除贤弟尺牍》，受书者以兄弟相称，具亲故往还之亲切。杜良臣书迹传世稀，赖刻帖存之。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22819.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

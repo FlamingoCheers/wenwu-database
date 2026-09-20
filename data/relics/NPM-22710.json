@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000090N000000001\n more\n \n 贈帖000090N000000002\n 贈帖000090N000000003\n 贈帖000090N000000004\n 贈帖000090N000000005"
  },
- "summary": null,
+ "summary": "《三希堂法帖》为清乾隆间敕摹之丛帖，第十三册专收宋黄庭坚书迹。此页为《赠云庵道人歌》，以歌行体赠道友，行书开张，具山谷笔势。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22710.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

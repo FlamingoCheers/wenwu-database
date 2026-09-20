@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001993N000000000"
  },
- "summary": null,
+ "summary": "元代王蒙《松风泉石图》轴。写松风水壑、泉石相激之景，皴染稠密、层叠深厚，动中寓静，属王蒙繁密山水的常见题材样式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1225.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

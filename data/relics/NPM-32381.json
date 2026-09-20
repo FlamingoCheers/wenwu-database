@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷012287N000000000"
  },
- "summary": null,
+ "summary": "宋青瓷渣斗式瓶。渣斗本為盛納渣滓的用器，此器取渣斗造型製為瓶式，上部口沿寬敞，束頸鼓腹，通體施青釉。造型簡潔雅緻，可用於陳設或作花器，別具生活雅趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_32381.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

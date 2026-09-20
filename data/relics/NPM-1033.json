@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000239N000000016"
  },
- "summary": null,
+ "summary": "《宋诸名家墨宝》册中一开，为吴说书尺牍。吴说为两宋之际书法家，以创“游丝书”闻名。此札为书信墨迹，笔致轻灵秀逸，颇见其行草书的独特趣味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1033.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

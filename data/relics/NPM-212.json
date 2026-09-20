@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001114N000000006"
  },
- "summary": null,
+ "summary": "宋李唐《文姬歸漢圖》冊之一開，題為「觀星」。繪胡地觀星情節，人物仰觀天象，構景別致，見故事情節推展，屬歷史故事畫冊頁。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_212.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

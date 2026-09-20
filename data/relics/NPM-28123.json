@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000034N000000016\n more\n \n 贈帖000034N000000017\n 贈帖000034N000000018\n 贈帖000034N000000019\n 贈帖000034N000000020"
  },
- "summary": null,
+ "summary": "《秘阁帖》第十册之一，收唐颜真卿书《祭侄文稿》。此稿为颜真卿悼念殉难侄儿的祭文草稿，悲愤之情贯注笔端，被后世推为行书极则，此为刻帖拓本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_28123.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

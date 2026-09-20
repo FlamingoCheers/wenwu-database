@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000307N000000000"
  },
- "summary": null,
+ "summary": "傳宋徽宗《鷹犬圖》軸。徽宗擅花鳥走獸，畫風精工寫實。此軸繪鷹與犬，翎毛獸毛刻畫細膩，形神俱足，屬院體工筆一路。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_19317.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

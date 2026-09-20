@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷011184N000000000"
  },
- "summary": null,
+ "summary": "宋代湘湖窯青白瓷碗，敞口弧壁，胎薄釉潤。器內模印四季花卉紋，花卉依次羅列，紋樣規整豐富，青白釉色白中閃青，清麗溫婉，為宋青白瓷印花裝飾常品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36093.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

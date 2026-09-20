@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷000006N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷碟，形制浅平，白釉匀净，不施纹饰而以釉质取胜。此类素面小碟为定窑常见日用器，轮廓简洁大方，实用之余亦具雅意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_30069.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

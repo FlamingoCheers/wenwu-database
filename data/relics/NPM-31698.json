@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016538N000000000"
  },
- "summary": null,
+ "summary": "南宋官窯青瓷牡丹花式洗。洗作牡丹花式，花口分瓣，造型端雅，通體施青釉，釉色溫潤如玉。官窯為南宋宮廷窯場，製品胎釉講究，素雅無紋，此洗體現宋代官窯青瓷的極致美學。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_31698.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

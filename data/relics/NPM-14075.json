@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001407N000000000"
  },
- "summary": null,
+ "summary": "此卷题称许道宁所作，绘夏日烟溪景致，溪桥林壑掩映于烟霭之间，笔意简远。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14075.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

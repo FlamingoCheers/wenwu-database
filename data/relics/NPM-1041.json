@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000240N000000001"
  },
- "summary": null,
+ "summary": "《宋贤书翰》册中一开，为蔡襄致彦猷尺牍。蔡襄书风端庄温淳，位居“宋四家”。此札为士大夫通问之作，上款“彦猷”，笔法精严，温雅有致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1041.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001550N000000000"
  },
- "summary": null,
+ "summary": "此段为《豳风图》卷第四段，题元代王振鹏画、柯九思书。图写周代豳地民风农事，书与画互相发明，为元人历史风俗题材作品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17760.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

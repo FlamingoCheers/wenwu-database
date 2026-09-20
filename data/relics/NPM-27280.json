@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000010N000000000"
  },
- "summary": null,
+ "summary": "《平遠山房法帖》第二冊所收，宋米芾《戲成呈司諫台坐帖》摹刻本，「戲成」云云可見遊戲筆墨之趣，行書率意天成。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27280.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

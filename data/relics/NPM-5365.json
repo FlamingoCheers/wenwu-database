@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001294N000000003"
  },
- "summary": null,
+ "summary": "此幅為《名繪萃珍》冊中一開，舊題元王振鵬〈清溪臺榭〉，畫清溪畔臺榭樓閣，屋宇嚴整，屬建築山水冊頁小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_5365.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

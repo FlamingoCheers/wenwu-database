@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003486N000000008"
  },
- "summary": null,
+ "summary": "本幅选自《名繪薈萃》册，题南宋李迪作，绘秋日荷塘水鸟栖止之景，禽鸟神态生动，属花鸟题材册页小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15878.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

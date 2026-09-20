@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷018072N000000000"
  },
- "summary": null,
+ "summary": "白瓷方洗，四方式，器身飾花卉紋，白釉瑩潔，洗為文房洗筆或盥洗用具，屬南宋白瓷小品，下承木座。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_60982.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

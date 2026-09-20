@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001100N000000000"
  },
- "summary": null,
+ "summary": "此段为《宋高宗书女孝经马和之补图》上卷之《邦君章》。经文讲述邦君之妻的德行规范，配图人物场景呼应文意，书画合璧，为南宋教化题材作品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17482.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

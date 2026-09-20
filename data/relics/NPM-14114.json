@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001449N000000000"
  },
- "summary": null,
+ "summary": "李迪为南宋画院花鸟走兽名家。此卷以九鶀为题，属禽鸟题材画卷，承宋人写生传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14114.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

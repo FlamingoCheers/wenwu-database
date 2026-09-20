@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001241N000000007"
  },
- "summary": null,
+ "summary": "《藝苑藏真》冊（下）之一開，傳為宋代魯宗貴所繪〈蜀葵引蝶〉。畫寫蜀葵盛放、蝴蝶翩然而至的小景，設色明麗，生趣盎然。屬宋代院體花鳥畫傳統，於細微處見自然天趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_351.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

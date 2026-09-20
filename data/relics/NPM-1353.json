@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000146N000000002"
  },
- "summary": null,
+ "summary": "《宋林逋手札二帖》册之一开，起首逋奉简三君，为林逋致三君书札，行笔清劲疏朗，可与同册另一帖并观。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1353.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001241N000000010"
  },
- "summary": null,
+ "summary": "《藝苑藏真》下冊之一，傳為宋末元初錢選所繪〈秋芳鳥語〉，寫秋日花卉盛開，禽鳥棲枝鳴噪之景，設色清雅，筆致秀潤，寓秋光鳥語之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_354.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

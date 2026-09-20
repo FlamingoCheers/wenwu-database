@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001244N000000010"
  },
- "summary": null,
+ "summary": "《宋元名繪》冊中一開，舊題宋李迪《清風雙鶴》，繪雙鶴於清風中引領顧盼，姿態優雅傳神，鶴寓清雅長壽之意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_385.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

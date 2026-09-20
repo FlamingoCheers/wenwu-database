@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014712N000000000"
  },
- "summary": null,
+ "summary": "宋定窯牙白劃花蓮花碟。敞口淺碟，牙白釉色勻淨瑩潤，碟心以劃花手法飾蓮花一枝，線條舒展自然。定窯白瓷以胎質堅薄、釉色牙白著稱，此碟形制素雅，可見劃花工藝的嫻熟。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_33155.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

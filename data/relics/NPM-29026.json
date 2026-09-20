@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000119N000000000"
  },
- "summary": null,
+ "summary": "《垂裕阁法帖》（十）之一，收宋米芾书杜甫《戏题王宰画山水图歌》。杜诗咏画家王宰山水之妙，米芾以行书录之，笔势宕逸，诗书双美。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29026.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

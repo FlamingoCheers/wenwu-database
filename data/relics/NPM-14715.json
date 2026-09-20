@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000059N000000000"
  },
- "summary": null,
+ "summary": "唐玄宗李隆基《鹡鸰颂》卷。行书丰腴流丽，颂鹡鸰飞鸣相依之情，以喻兄弟友爱，为唐代帝王书法代表名迹。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14715.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

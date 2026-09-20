@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000130N000000000"
  },
- "summary": null,
+ "summary": "宋代钱选《画卢仝烹茶图》轴。取唐代卢仝七碗茶歌故实，绘文人山斋烹茶情景，笔致古雅，属茶事题材，寓隐逸清趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1334.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

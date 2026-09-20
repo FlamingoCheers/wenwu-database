@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000011N000000000"
  },
- "summary": null,
+ "summary": "《赤壁赋》为苏轼谪居黄州游赤壁所作名篇，抒清风明月之乐与人生哲理。此为清乾隆敕刻《三希堂法帖》第十一册所收刻本，行楷端庄遒媚，与文并传。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21979.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000060N000000000"
  },
- "summary": null,
+ "summary": "《经训堂法帖》第六册之一，收录元代饶介所书《蕉池积雪》诗并记。饶介为元末书家，善行草，笔势流动，此为刻帖拓本，足资临习鉴赏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27583.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016627N000000000"
  },
- "summary": null,
+ "summary": "定窑为宋代著名白瓷窑场，以牙白釉色著称。此盘釉色温润，器形浅坦简雅，胎体轻薄，体现定窑白瓷隽秀典雅的风貌，为宋代日用瓷盘的典型样式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29108.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

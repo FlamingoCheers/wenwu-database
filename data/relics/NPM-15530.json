@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000246N000000011"
  },
- "summary": null,
+ "summary": "《宋人法书》第四册中一开，为康与之致宫使尚书尺牍。康与之工词章，此牍行书婉丽，笔致流转，见宋人酬应书风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15530.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

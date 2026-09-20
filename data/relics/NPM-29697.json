@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000012N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第六册，收北宋司马光《与太师书》。司马光为北宋名臣、《资治通鉴》编纂者，书法端谨有法度。此帖为尺牍刻本，墨拓装册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29697.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

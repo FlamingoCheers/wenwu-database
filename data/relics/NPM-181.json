@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001268N000000011"
  },
- "summary": null,
+ "summary": "《宋元集繪》冊之一開，宋錢選《翎毛》。繪禽鳥棲止之態，工筆設色，形神兼備。錢選為宋末元初大家，花鳥承宣和寫生遺風，格調清雅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -29,7 +29,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_181.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

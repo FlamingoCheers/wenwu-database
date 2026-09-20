@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000068N000000000"
  },
- "summary": null,
+ "summary": "宋代苏轼书《前赤壁赋》卷，录其自作名篇《赤壁赋》，赋写月夜泛舟赤壁之情境。苏轼为北宋书法四家之一，此卷属宋人法书。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_882.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

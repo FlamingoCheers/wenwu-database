@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000006N000000000"
  },
- "summary": null,
+ "summary": "《英光堂米帖》（上海徐氏本）册，附宋岳珂题跋。英光堂帖相传为岳珂辑刻米芾书迹的专帖，为历代辑刻米书的重要丛帖。岳珂题跋考订米书源流，兼具书法与文献价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_30902.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

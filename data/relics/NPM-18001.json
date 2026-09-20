@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003476N000000004"
  },
- "summary": null,
+ "summary": "《宋元明人合錦貳冊》（上）之一開，傳宋馬遠《龍湫觀瀑》。馬遠善取邊角之景，此開繪山澗飛瀑，高士臨流觀泉，構圖簡括，意境幽深。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_18001.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

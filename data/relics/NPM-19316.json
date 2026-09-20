@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000306N000000000"
  },
- "summary": null,
+ "summary": "宋米芾《雲山》軸。米芾創米氏雲山，以橫點積墨寫江南煙雨山景，樹木簡率，雲氣瀰漫，開文人墨戲畫一路，影響後世深遠。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_19316.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

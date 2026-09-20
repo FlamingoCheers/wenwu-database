@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001384N000000000"
  },
- "summary": null,
+ "summary": "舊題五代後梁荊浩所繪畫卷。荊浩為五代北方山水畫宗師，此卷著錄僅稱「畫卷」，未詳所繪內容。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15576.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

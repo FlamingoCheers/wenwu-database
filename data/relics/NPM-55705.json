@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004337N000000000"
  },
- "summary": null,
+ "summary": "元代玉雕雙犬，兩犬相依，體態憨萌。犬為人類忠伴，宋元玉器中犬題材常見，此類小件生動傳神，可供案頭賞玩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55705.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

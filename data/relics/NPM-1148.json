@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000248N000000008"
  },
- "summary": null,
+ "summary": "此开为《宋人牋牘》册中北宋孙觌致“务德知府学士”尺牍，属友朋问候书简，书风平实自然，可窥宋代士人书札面貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1148.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

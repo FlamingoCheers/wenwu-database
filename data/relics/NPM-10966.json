@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003498N000000010"
  },
- "summary": null,
+ "summary": "《韫真集庆》册中一开，为钱选《葡梨菱角》。图写葡萄、梨、菱角等果品，描摹精工，设色清润，是宋末元初文人蔬果写生题材的雅致小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_10966.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

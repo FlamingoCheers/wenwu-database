@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000182N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第二十五册所收元代鲜于枢行草真迹刻本。鲜于枢论书尚气骨，行草笔力遒健沉着，与赵孟頫同为元代书坛巨擘。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21537.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

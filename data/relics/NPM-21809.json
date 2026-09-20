@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000170N000000000"
  },
- "summary": null,
+ "summary": "《松风阁诗帖》为黄庭坚晚年行楷代表作，咏松风阁景致并寄怀旧之思，字势如长枪大戟、中宫紧收，历来为习山谷书者所重。此为清乾隆敕刻《三希堂法帖》第十三册刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21809.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

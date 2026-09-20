@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "購瓷000109N000000000"
  },
- "summary": null,
+ "summary": "唐三彩駱駝，施黃綠褐彩釉，釉彩斑斕，駝姿生動，為唐代明器中常見的駝隊題材，見證絲路交通盛況。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_42990.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

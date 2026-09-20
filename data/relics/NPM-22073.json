@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000025N000000000"
  },
- "summary": null,
+ "summary": "此为清乾隆《三希堂法帖》第二十五册所收元王蒙《爱厚帖》刻帖。王蒙为元末画家、书法家，山水画名重当世，此帖为其尺牍，书法亦见功力。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22073.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

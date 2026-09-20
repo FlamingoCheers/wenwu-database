@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000216N000000000"
  },
- "summary": null,
+ "summary": "舊題宋錢選〈十六應真〉卷。「應真」即羅漢，此卷寫十六羅漢諸般相貌神態，屬道釋人物長卷。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15707.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

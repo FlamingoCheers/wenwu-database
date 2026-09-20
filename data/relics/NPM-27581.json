@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000060N000000000"
  },
- "summary": null,
+ "summary": "《经训堂法帖》第六册之一，收录元代鲜于枢所书七言绝句二首。鲜于枢为元代著名书家，行草豪迈，此册刻帖拓本可见其笔意风神。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27581.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷000025N000000000"
  },
- "summary": null,
+ "summary": "宋代耀州窑青瓷碗。耀州窑在今陕西铜川，以刻花青瓷著称，釉色呈橄榄绿，玻璃质感强，刀工锋利豪放，纹饰生动，是北方青瓷的重要代表窑场。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_30088.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

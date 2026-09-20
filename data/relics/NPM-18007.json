@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003476N000000011"
  },
- "summary": null,
+ "summary": "《宋元明人合錦貳冊》（上）之一開，傳宋燕文貴《雲閣風樓》。燕文貴兼善山水樓觀，此開繪雲霧間層樓傑閣，界畫精整，氣象宏麗。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_18007.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

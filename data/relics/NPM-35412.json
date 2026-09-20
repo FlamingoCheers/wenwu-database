@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購畫001296N000000000"
  },
- "summary": null,
+ "summary": "清代王素花卉草蟲冊頁，寫花卉綻放、草蟲棲息之景，設色清麗，筆墨靈動，昆蟲細節刻劃入微，展現清代花鳥畫的寫生意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35412.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

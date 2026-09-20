@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000002N000000000"
  },
- "summary": null,
+ "summary": "《快雪堂帖》第二册之一开，收宋高宗书《毛诗·国风》并序十二篇摹刻，可览高宗书法之典雅风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_26460.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

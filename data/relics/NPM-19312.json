@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000305N000000000"
  },
- "summary": null,
+ "summary": "宋王詵《煙江疊嶂圖》卷。王詵學李成而兼融唐人設色，此卷繪煙江浩渺、群山疊嶂，江面空闊，山勢層疊，筆墨清潤秀雅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_19312.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

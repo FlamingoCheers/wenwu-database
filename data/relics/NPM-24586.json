@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "贈銅000190N000000000"
  },
- "summary": null,
+ "summary": "佛坐像，像身与台座俱全，通高含座，体量小巧，宜于案头供奉，为供养礼拜之造像。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -41,5 +41,6 @@
  "raw_ref": "raw/npm/detail_24586.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001550N000000000"
  },
- "summary": null,
+ "summary": "此卷为元王振鹏绘图、柯九思书写的《豳风图》。《豳风》出自《诗经》，历代多据以图写农桑风俗，此卷书画合璧，图文相发。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_1418.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

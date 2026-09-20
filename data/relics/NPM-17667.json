@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005222N000000000"
  },
- "summary": null,
+ "summary": "此为明代镂雕花形玉饰件，透雕花卉为形，玲珑剔透，可作佩挂或镶嵌之用，反映明代玉雕盛行花叶纹样的时代风尚。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_17667.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

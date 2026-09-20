@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000234N000000003"
  },
- "summary": null,
+ "summary": "此頁為〈宋眉山蘇氏三世遺翰〉冊之一開，收北宋蘇軾尺牘。蘇軾書法尚意，筆致豐潤跌宕，尺牘尤見自然意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_62.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

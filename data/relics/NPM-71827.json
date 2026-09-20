@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉002933N000000001"
  },
- "summary": null,
+ "summary": "元代玉雕盖顶，琢花间行龙纹。苍龙穿行花丛之间，姿态矫健，为宋元玉雕习见纹样题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_71827.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

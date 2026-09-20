@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000238N000000005"
  },
- "summary": null,
+ "summary": "《宋十二名家法书》册之一，为苏轼致友人陈季常的书信尺牍，行书随手挥洒，情致自然，属苏书传世名札。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14904.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

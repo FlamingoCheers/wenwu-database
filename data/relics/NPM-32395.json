@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷012303N000000000"
  },
- "summary": null,
+ "summary": "宋青瓷葵花式洗。洗作葵花式，口沿呈花瓣起伏狀，造型典雅，通體施青釉，釉質溫潤。洗為文房用具，可盛水洗筆，此器釉色純淨，兼具實用功能與賞玩價值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_32395.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

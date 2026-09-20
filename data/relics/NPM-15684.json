@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003480N000000020"
  },
- "summary": null,
+ "summary": "《集古名繪》冊之一開，舊題宋李迪〈雙鉤畫竹〉，以雙鉤法寫竹枝，屬宋代竹石題材冊頁小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15684.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

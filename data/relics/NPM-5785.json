@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫002112N000000000"
  },
- "summary": null,
+ "summary": "此軸為明初畫家徐賁所作山水，構景幽深，筆墨清潤，屬明代文人山水立軸傳統。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_5785.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

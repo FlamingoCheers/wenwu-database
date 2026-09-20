@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000094N000000030\n more\n \n 贈帖000094N000000031\n 贈帖000094N000000032"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第十七册收宋朱熹《致彦修少府尺牍》。朱子为理学宗师，翰札沉古，端严笃厚之意自见，摹刻以传。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22821.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

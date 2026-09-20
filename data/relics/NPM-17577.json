@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000213N000000000"
  },
- "summary": null,
+ "summary": "此为《宋李公麟七佛图》卷第三段，白描佛像形貌慈肃，墨线细劲匀停，体现李公麟道释人物的白描造诣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_17577.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

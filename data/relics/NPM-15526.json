@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000246N000000007"
  },
- "summary": null,
+ "summary": "《宋人法书》第四册中一开，为张孝祥致姨夫判府留守待制侍郎尺牍。张孝祥为南宋词臣，书法遒劲，此牍笔势豪纵，见其俊迈气格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15526.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

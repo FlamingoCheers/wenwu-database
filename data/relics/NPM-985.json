@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000236N000000011"
  },
- "summary": null,
+ "summary": "《宋四家真迹》册之一，收米芾致“希声吾英友”尺牘，并附七言诗一首。一纸兼有书札与诗咏，笔致轻快流转，为米氏诗书往还之迹。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_985.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

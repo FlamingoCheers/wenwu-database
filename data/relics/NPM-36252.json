@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016061N000000000"
  },
- "summary": null,
+ "summary": "定窯印花雙螭盤，宋代製品。敞口，淺壁，盤心模印雙螭紋，螭龍相向盤曲，姿態矯健靈動，印紋清晰工整，牙白釉溫潤雅潔，為定窯印花盤類小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36252.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

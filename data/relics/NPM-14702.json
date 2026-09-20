@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001255N000000004"
  },
- "summary": null,
+ "summary": "《名贤妙迹》册一页，宋马远《倚云仙杏》。绘杏花倚云绽放，花枝欹斜有致，属折枝花卉小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14702.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003493N000000012"
  },
- "summary": null,
+ "summary": "《丘壑琳琅》册中一开，题元代王振鹏作对瀑观书。王振鹏以界画著称，此帧绘高士坐观飞瀑、展卷读书，楼台人物工致，具书斋雅趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15233.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

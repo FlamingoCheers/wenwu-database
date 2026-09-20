@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000120N000000000"
  },
- "summary": null,
+ "summary": "马麟花鸟轴。马麟为马远之子、南宋院体花鸟名家，善作清润小景，此轴花鸟写生，笔致细腻，承家学而更见秀润。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13964.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

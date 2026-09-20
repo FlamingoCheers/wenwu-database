@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉000241N000000001"
  },
- "summary": null,
+ "summary": "玉頂以鴛鴦荷葉為題，雙禽棲於荷葉之側，紋樣生動，寓夫妻和好、家庭美滿。此類玉頂為器蓋鈕飾，屬元代流行的蓮池禽鳥題材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_46947.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

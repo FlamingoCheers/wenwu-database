@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷011832N000000000"
  },
- "summary": null,
+ "summary": "元彭窑白瓷划花双龙戏珠纹碟之六。器壁浅斜，釉面莹润，龙纹简练生动，此式碟在元代白瓷中颇具代表性。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_28875.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

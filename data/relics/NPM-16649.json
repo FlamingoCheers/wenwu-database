@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000098N000000000"
  },
- "summary": null,
+ "summary": "《快雪堂法帖》丛帖之一。此册摹刻宋代苏轼书《苦雾》七言两句，为书写诗句之书迹，可见其行书丰腴跌宕之风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_16649.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

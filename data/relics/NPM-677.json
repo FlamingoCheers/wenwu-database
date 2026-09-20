@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000281N000000000"
  },
- "summary": null,
+ "summary": "元代王蒙《谿山高逸》轴。绘溪山幽壑之景，山峦层叠，林木掩映，点出高士隐逸主题，笔墨繁密苍润。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_677.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

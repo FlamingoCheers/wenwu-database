@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷012283N000000000"
  },
- "summary": null,
+ "summary": "宋月白釉魚耳簋式爐。爐倣商周青銅簋造型，雙魚形耳對稱而立，通體施月白釉，釉色溫潤淡雅。倣古瓷器常為書齋香事之用，此爐造型古雅，體現宋人慕古的審美情趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_32378.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

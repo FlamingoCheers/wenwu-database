@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000008N000000000"
  },
- "summary": null,
+ "summary": "叶清臣为北宋官员，能文。此为其《近遣帖》尺牍刻本，收入《三希堂法帖》第八册，帖叙遣书问讯之事，书法端秀，是宋人尺牍刻帖之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21867.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

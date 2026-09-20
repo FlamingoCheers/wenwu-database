@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷005659N000000000"
  },
- "summary": null,
+ "summary": "定窯白釉碗，器飾雲龍紋，龍姿矯健，胎堅釉潤，色呈牙白，具元代定窯白瓷的裝飾特色，為大碗類實用器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_40840.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

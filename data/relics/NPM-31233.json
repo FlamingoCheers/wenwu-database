@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010084N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷碗，碗内划花莲花纹，线条流畅自如，如笔写就。定窑为宋代五大名窑之一，白瓷划花装饰素雅清新，莲花纹在牙白釉下若隐若现，别具韵味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_31233.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016033N000000000"
  },
- "summary": null,
+ "summary": "定窯劃花雙鳧碗，宋代製品。敞口弧壁，胎白釉潤。器內劃刻雙鳧紋，野鳧雙雙浮游，姿態悠然，劃線輕快流利，紋樣生動簡練，展現定窯劃花的靈動意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36228.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

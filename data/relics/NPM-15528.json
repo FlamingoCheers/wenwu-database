@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000246N000000009"
  },
- "summary": null,
+ "summary": "《宋人法书》第四册中一开，为胡沂致寿翁节推尺牍。胡沂为宋代臣僚，此牍笔致端稳，行气连贯，见宋人尺牍书写规范。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15528.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

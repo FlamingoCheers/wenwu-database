@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000240N000000013"
  },
- "summary": null,
+ "summary": "《宋贤书翰》册中一开，为吴说尺牍。吴说工书法，以“游丝书”著称。此札笔致轻快妍美，行笔细劲牵连，颇见其独到的书写趣味与时代风尚。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1055.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

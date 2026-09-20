@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010170N000000000"
  },
- "summary": null,
+ "summary": "宋湘湖窯青白瓷碗，釉色青中泛白，瑩潤似玉，器形圓整素淨。湘湖窯屬江南青白瓷窯系，此碗為其日用瓷器的代表。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_37429.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

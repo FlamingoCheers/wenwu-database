@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000169N000000000"
  },
- "summary": null,
+ "summary": "此为《三希堂法帖》第十二册所收宋苏轼尺牍刻帖。尺牍小行书最见苏字真态，笔圆韵胜，虽为刻本，仍具遒媚之致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22231.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

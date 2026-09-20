@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000971N000000000"
  },
- "summary": null,
+ "summary": "此卷为元代王振鹏《宝津竞渡图》。王振鹏以界画著称。图绘宝津楼前龙舟竞渡的盛大场面，殿阁舟桥皆以界画法写就，严整精妙，是元代界画名作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1107.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

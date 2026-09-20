@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001240N000000002"
  },
- "summary": null,
+ "summary": "《藝苑藏真》冊（上）之一開，傳為五代周文矩所繪〈水榭看鳧〉。畫寫臨水榭閣中觀看野鳧的情景，人物與水景相映成趣，描繪精緻，反映五代人物畫的風格傳統與文人閒賞情趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_317.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

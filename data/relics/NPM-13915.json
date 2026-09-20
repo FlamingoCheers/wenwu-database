@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000392N000000000"
  },
- "summary": null,
+ "summary": "黄庭坚书《千字文》卷。黄庭坚草书为宋代翘楚，此卷笔势连绵、点画起伏有致，是考察其草书成就的重要传本品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13915.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

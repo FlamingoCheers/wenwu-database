@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷003479N000000000"
  },
- "summary": null,
+ "summary": "宋米黃釉蓮瓣紋碗。碗身飾蓮瓣紋，通體施米黃釉，色調溫潤柔和。蓮瓣紋承佛教意涵，為瓷器傳統裝飾紋樣，此碗形制端莊，釉色恬淡，別具靜謐古雅之美。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_32590.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

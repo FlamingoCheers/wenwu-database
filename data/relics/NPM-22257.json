@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000167N000000000"
  },
- "summary": null,
+ "summary": "摹刻宋苏轼《致季常尺牍》。季常为陈慥之字，与东坡交谊深厚，此札为友朋书问，行书流便，情见于辞。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22257.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

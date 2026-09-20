@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷018257N000000000"
  },
- "summary": null,
+ "summary": "青瓷紙鎮，鎮為文房壓紙之具，青釉溫潤，造型小巧，屬宋代青瓷文房小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_61135.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

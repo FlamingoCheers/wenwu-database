@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001245N000000002"
  },
- "summary": null,
+ "summary": "宋人合璧畫冊中一開，傳燕文貴〈奇峰萬木〉，畫奇峰聳峙、林木繁茂，山石皴筆勁健，具北宋山水氣象。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_429.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

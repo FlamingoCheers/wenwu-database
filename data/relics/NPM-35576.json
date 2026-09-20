@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010200N000000000"
  },
- "summary": null,
+ "summary": "彭窯白瓷杯，元代製品，敞口深腹，底承小足。杯內飾番蓮紋，花葉婉轉相連，紋樣清晰工整，白釉勻淨溫潤，器形輕巧，宜於日常品飲之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35576.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

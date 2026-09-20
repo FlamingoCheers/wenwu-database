@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故銅000054N000000000"
  },
- "summary": "圓鏡，半球鈕。鏡背飾雙燕頡頏。",
+ "summary": "唐代圓形銅鏡，半球鈕，鏡背飾雙燕展翅頡頏之紋。雙燕成雙，寓春回大地與和美之意，此鏡紋樣簡潔生動，鑄造規整。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_5465.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

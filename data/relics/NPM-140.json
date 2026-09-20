@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000257N000000008"
  },
- "summary": null,
+ "summary": "《元人法书》册中一开，饶介书七言律诗三首。其书笔势遒迈流便，行草相间，篇章与书法相配，见元末吴中文士书风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_140.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅000392N000000000"
  },
- "summary": "方鏡，半球鈕，鏡邊為圓弧形四角。",
+ "summary": "唐代铜铸方镜，半球形钮，镜缘四角圆弧，镜背光素无纹。素镜不施纹饰，以形制简练见意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_7198.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

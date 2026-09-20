@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000007N000000017\n more\n \n 故帖000007N000000018"
  },
- "summary": null,
+ "summary": "《宋拓晋唐小楷》册中唐颜真卿《麻姑山仙坛记》一页。记文述麻姑山道教胜迹，小楷古拙浑穆，宋拓摹印精良，犹存颜书笔意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21582.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

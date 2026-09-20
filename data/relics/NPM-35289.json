@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016589N000000000"
  },
- "summary": null,
+ "summary": "宋白瓷黑彩嬰兒枕，以嬰孩側臥為座，背承枕面，五官衣飾刻劃入微，並施黑彩點描。瓷質堅細，造型靈巧生動，展現宋代嬰戲題材瓷塑的巧思與溫情。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35289.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

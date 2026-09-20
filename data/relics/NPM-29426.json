@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010135N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑斗笠碗，白瓷胎釉，斜壁小足。器内模印缠枝牡丹纹，构图饱满，印模工整。定窑印花题材中牡丹最为常见，深受宋人喜爱。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29426.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

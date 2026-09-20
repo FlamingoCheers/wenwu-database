@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000165N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第八册所收宋叶清臣《近遣帖》刻本。叶清臣为北宋名臣，工于文翰，此牍行书遒丽有法，传世书迹罕见。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21737.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

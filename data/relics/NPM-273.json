@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001224N000000010"
  },
- "summary": null,
+ "summary": "此冊為宋高宗書《孝經》、馬和之繪圖之書畫合璧作。本頁為〈五刑章〉繪圖部分，以人物故實圖寫經義，線描飄逸，具馬和之畫風特點。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_273.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

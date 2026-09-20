@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001289N000000014"
  },
- "summary": null,
+ "summary": "《名绘集珍》册一页，宋马麟《芳春雨霁》。写春雨初霁、花木清润之景，马麟承家学，为南宋院体山水花鸟画家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14634.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

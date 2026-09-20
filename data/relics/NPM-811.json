@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001785N000000000"
  },
- "summary": null,
+ "summary": "五代后蜀黄筌《竹梅寒雀图》立轴。黄筌为五代后蜀宫廷花鸟画家，画风精谨。此轴写竹梅之间寒雀栖息之景，属花鸟画题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_811.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

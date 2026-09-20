@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000167N000000000"
  },
- "summary": null,
+ "summary": "清乾隆间敕编《三希堂法帖》第十册选页，摹刻宋苏轼《次韵秦太虚见戏耳聋诗》。太虚即秦观之字，诗为答友人戏问耳聋而作，行书疏朗畅达，为东坡书迹之石刻传本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22252.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

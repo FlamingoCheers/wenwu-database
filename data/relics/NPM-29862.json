@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷004116N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑印花花卉纹盘，胎质细腻，釉色牙白温润，盘内模印花卉纹样，布局满密而层次分明。定窑印花工艺精湛，此类大盘属宋人宴席常用的盛器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29862.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

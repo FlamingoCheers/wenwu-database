@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000007N000000000"
  },
- "summary": null,
+ "summary": "清乾隆御刻《三希堂法帖》第七册所收宋高宗真草书嵇康《养生论》刻本。真草二体相间，笔法圆熟精能，足见高宗临池功力之深。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21547.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

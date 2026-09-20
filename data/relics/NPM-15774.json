@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001501N000000000"
  },
- "summary": null,
+ "summary": "舊題宋蘇漢臣繪畫、元趙孟頫書題的〈萬國朝宗圖〉卷。畫題取萬國來朝之意，寫四方使節朝貢情事，書畫合璧。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_15774.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

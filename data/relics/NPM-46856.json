@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉003371N000000001"
  },
- "summary": null,
+ "summary": "玉頂以鴛鴦荷葉為飾，荷葉翻卷，雙禽相依，構圖飽滿，寓和合美滿之意。此類圓雕玉頂多作器蓋鈕飾，屬元代蓮池水禽題材玉雕。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_46856.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

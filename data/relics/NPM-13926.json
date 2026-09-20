@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000403N000000000"
  },
- "summary": null,
+ "summary": "米芾临《定武兰亭》卷。定武本为王羲之《兰亭序》著名刻本系统，米芾以己意临摹，行书跳宕自得，反映宋人临古风气。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13926.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

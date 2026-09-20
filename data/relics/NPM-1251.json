@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000828N000000000"
  },
- "summary": null,
+ "summary": "宋代许道宁《乔木图》轴。写乔木参天之景，树身盘曲、枝梢劲利，用笔爽利，属寒林乔松一类题材，可见北宋画树之法度。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1251.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

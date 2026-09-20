@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故絲000226N000000000"
  },
- "summary": null,
+ "summary": "緙絲織人物圖，緙絲以通經斷緯技法織出紋樣，宋人好以緙絲摹繪書畫，此件織人物情態，配色雅緻，兼具有繪畫意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_62053.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

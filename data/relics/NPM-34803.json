@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷005408N000000000"
  },
- "summary": null,
+ "summary": "宋哥窯青瓷洗。器形簡練，通體施青釉，釉面開片紋理交疊，深淺錯落，為哥窯最具辨識度的特徵。洗為文房用器，可作筆洗之用，此器古雅樸厚，釉色靜穆，深具鑑賞韻味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_34803.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

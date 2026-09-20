@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000092N000000015\n more\n \n 贈帖000092N000000016\n 贈帖000092N000000017"
  },
- "summary": null,
+ "summary": "摹刻宋米芾《与伯修帖》。伯修为受书人之字，札叙往还情事，字态欹纵，米芾自谓刷字之趣可见。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22563.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

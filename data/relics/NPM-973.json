@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000241N000000006\n more\n \n 故書000241N000000007\n 故書000241N000000008\n 故書000241N000000009"
  },
- "summary": null,
+ "summary": "《宋贤笺牍》册之一，收宋人叶梦鼎呈舶管朝议劄子。与同册诸劄同属官场往还文书，称谓具官衔职名，书法工谨有度。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_973.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

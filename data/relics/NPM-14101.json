@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001432N000000000"
  },
- "summary": null,
+ "summary": "张择端为北宋画家。此卷清明上河图绘汴京汴河两岸舟车市肆、众人杂沓的繁华景象，为中国风俗画名作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14101.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

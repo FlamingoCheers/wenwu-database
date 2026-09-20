@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000012N000000000"
  },
- "summary": null,
+ "summary": "此为清乾隆《三希堂法帖》第十二册所收宋苏辙致定国使君尺牍刻帖。帖为信札摹刻，文辞谦谨，行楷端秀，是研究苏辙书法之参考资料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22092.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

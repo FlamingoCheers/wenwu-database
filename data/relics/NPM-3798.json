@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001115N000000004"
  },
- "summary": null,
+ "summary": "舊題宋李唐《四時山水》冊之一「江舟釣雪」，寫寒江孤舟、雪中垂釣，天地蒼茫，意境空寂清冷。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_3798.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

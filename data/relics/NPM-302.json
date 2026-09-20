@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001233N000000007"
  },
- "summary": null,
+ "summary": "《名绘集珍》册之一，题为宋赵令穰《柳亭行旅》。赵令穰为宋宗室画家，善作湖乡小景，清丽雅致。此页以柳亭行旅入画，表现旅途行色，属山水人物小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_302.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

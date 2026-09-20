@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "贈瓷000292N000000000"
  },
- "summary": null,
+ "summary": "元代青花雙耳罐，肩置雙繫，器身繪青花紋飾，筆意流暢，青色濃豔，為元代青花瓷的小型罐類。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43346.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

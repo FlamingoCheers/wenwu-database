@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000025N000000000"
  },
- "summary": null,
+ "summary": "此为清乾隆《三希堂法帖》第二十五册所收元鲜于枢书唐人《水帘洞》诗刻帖。帖录唐人咏水帘洞胜境之句，书风遒劲流便，见鲜于枢行草功力。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22069.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

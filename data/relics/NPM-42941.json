@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "購瓷000055N000000000"
  },
- "summary": null,
+ "summary": "北宋耀州窯青瓷碗，碗內飾花卉紋，施橄欖青釉，刀法犀利流暢，紋樣生動，為耀州窯代表性裝飾風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_42941.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

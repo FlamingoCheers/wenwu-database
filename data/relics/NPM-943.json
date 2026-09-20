@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000132N000000000"
  },
- "summary": null,
+ "summary": "《宋四家法书》卷中蔡襄《上资政谏议明公尺牍》，为蔡襄致“明公”之书信。蔡襄为北宋书法四家之一，属宋四家法书卷。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_943.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

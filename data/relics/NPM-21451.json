@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000166N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第九冊之一，摹刻北宋曾肇書尺牘。曾肇為曾鞏之弟，兄弟並以文學知名，此帖屬日常書翰，經上石拓印成冊傳世。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21451.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

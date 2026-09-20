@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉006046N000000000"
  },
- "summary": null,
+ "summary": "玉墜飾，器面琢螭虎紋，螭為傳說中的無角之龍，習見於仿古玉器，此件供繫佩之用，紋樣古樸。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57184.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000008N000000000"
  },
- "summary": null,
+ "summary": "《道服赞》为范仲淹为友人道服所撰之赞，小楷工整清爽，笔笔用力，为北宋名迹。此为清乾隆敕刻《三希堂法帖》第八册所收刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21869.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

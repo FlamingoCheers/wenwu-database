@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016076N000000000"
  },
- "summary": null,
+ "summary": "定窯牙白劃花蓮花葵花式碗，宋代製品。口作葵瓣形，內劃蓮花紋，花姿舒展有致，劃線流暢瀟灑。釉色牙白溫雅如脂，器形秀挺，紋飾簡練清逸。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36264.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

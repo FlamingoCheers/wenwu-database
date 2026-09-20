@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000086N000000005"
  },
- "summary": null,
+ "summary": "摹刻宋蔡襄《致公谨尺牍》。公谨为受书人之称，札中叙寒暄问讯，书风温润端凝，为蔡襄书迹经由刻帖流传者。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_22463.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

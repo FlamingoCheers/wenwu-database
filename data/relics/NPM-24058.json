@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000071N000000009"
  },
- "summary": null,
+ "summary": "《淳化阁帖》第四册之一，收录唐中书令褚遂良《山河帖》，宋刻官帖拓本之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_24058.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

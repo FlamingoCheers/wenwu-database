@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000663N000000000"
  },
- "summary": null,
+ "summary": "宋苏轼《雨竹》轴。苏轼善写墨竹，以枝干寄兴。此轴绘雨中竹影，墨韵淋漓，文人写意之趣盎然。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_28263.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

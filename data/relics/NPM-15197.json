@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003493N000000001"
  },
- "summary": null,
+ "summary": "《丘壑琳琅》册中一开，题宋代赵令穰作风柳渔舟。赵令穰善作清丽小景，此帧写风柳依依、渔舟泛于江湖之间，笔致清润，具小景山水意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15197.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

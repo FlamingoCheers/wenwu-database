@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000001N000000022\n more\n \n 購帖000001N000000023"
  },
- "summary": null,
+ "summary": "明拓《宝贤堂集古法帖》第一册之一，收题为宋太宗的〈重经巴丘〉七言律诗帖。诗帖经摹刻上石，捶拓装裱成册，属明代集古法帖拓本类藏品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29623.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

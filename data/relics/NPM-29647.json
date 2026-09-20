@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000015N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第九册，收元末书家饶介《与士行尉相书》尺牍刻本。饶介以草书著称，笔势飘逸纵逸。此帖摹刻上石，墨拓装册，可供临习。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29647.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

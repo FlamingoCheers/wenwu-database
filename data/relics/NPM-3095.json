@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中文000032N000000000"
  },
- "summary": null,
+ "summary": "宋代「听雨」砚，以雘村石制成，为文房用具。雘村石是制砚石材之一，质地温润细腻。砚为研墨之器，与笔墨纸合称文房四宝，此砚命名雅致，可见宋人文房清趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_3095.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

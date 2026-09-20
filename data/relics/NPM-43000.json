@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "購瓷000120N000000000"
  },
- "summary": null,
+ "summary": "三彩雙獅座，以雙獅馱承座面，施三彩釉，獅姿雄渾，或為承托器物之座，兼具雕塑與裝飾意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43000.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

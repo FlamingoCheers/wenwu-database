@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000015N000000000"
  },
- "summary": null,
+ "summary": "此为清乾隆《三希堂法帖》第十五册所收宋米芾《玉笔格帖》拓本，为米芾尺牍之刻。米芾书法八面生动，此帖虽经摹刻，神采犹存。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22126.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

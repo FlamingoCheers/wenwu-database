@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷011181N000000000"
  },
- "summary": null,
+ "summary": "湘湖窯青白瓷碗，宋代製品。敞口，弧壁，圈足。胎薄體輕，施青白釉，釉色白中泛青，瑩潤如玉，器形簡潔素雅，為宋代青白瓷日用碗類。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36091.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

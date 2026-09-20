@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003580N000000011"
  },
- "summary": null,
+ "summary": "《宋元明集绘》册中一开，题明代徐贲作云壑探幽。绘云山幽壑间士人寻胜，笔墨秀润，构图深远，具文人山水意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_15322.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

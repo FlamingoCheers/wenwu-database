@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "購瓷000101N000000000"
  },
- "summary": null,
+ "summary": "唐三彩印花陶枕，枕面模印花紋，施黃綠彩釉，色澤絢麗交融，為唐代低溫鉛釉工藝的生活用枕。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_42982.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

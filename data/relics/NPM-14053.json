@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001256N000000004"
  },
- "summary": null,
+ "summary": "此页题称赵元长所作，绘梅花枝头山雀栖鸣，写生细腻，属宋人花鸟小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14053.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

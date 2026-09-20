@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000086N000000002\n more\n \n 贈帖000086N000000003\n 贈帖000086N000000004"
  },
- "summary": null,
+ "summary": "摹刻宋蔡襄《陶生帖》。此为蔡襄尺牍之一，书法端劲，点画精严，为宋代名家书迹之传刻本，文物类别属碑帖拓本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22462.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

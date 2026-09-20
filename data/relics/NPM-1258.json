@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000839N000000000"
  },
- "summary": null,
+ "summary": "宋代苏汉臣《画五瑞图》轴。苏汉臣为宋代婴戏画名家，此轴绘孩童扮作神仙嬉戏之景，情态憨趣、设色鲜润，为宋代风俗婴戏题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1258.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉006137N000000000"
  },
- "summary": null,
+ "summary": "玉螭紋嵌件，原為器物鑲嵌之飾，器面琢螭紋，今配象牙座供陳設賞玩，螭紋仿古意趣濃厚。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57262.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

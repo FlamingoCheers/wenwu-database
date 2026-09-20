@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅000277N000000000"
  },
- "summary": "圓鏡，圓鈕。鏡背飾波濤天馬。有銘。",
+ "summary": "宋代“陕西东路”铜镜，圆形，圆钮，镜背饰波涛天马纹并铸铭文。纹饰与铭文兼具，颇具地方特色。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_7082.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

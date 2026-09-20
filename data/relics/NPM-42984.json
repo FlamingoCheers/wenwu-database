@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "購瓷000103N000000000"
  },
- "summary": null,
+ "summary": "三彩花式陶盤，盤口作花瓣式，施黃綠褐三彩釉，釉彩流淌交融，色澤絢麗，為低溫鉛釉陶的常見盤類。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,5 +34,6 @@
  "raw_ref": "raw/npm/detail_42984.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

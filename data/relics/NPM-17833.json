@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004714N000000000"
  },
- "summary": null,
+ "summary": "鏤雕麒麟玉飾件，以玉鏤雕瑞獸麒麟之形，紋樣層次分明，可作佩飾或器物嵌飾。麒麟為傳統祥瑞題材，此件年代不詳，具玉雕佩飾工藝特色。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -41,5 +41,6 @@
  "raw_ref": "raw/npm/detail_17833.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

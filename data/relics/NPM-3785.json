@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001113N000000001"
  },
- "summary": null,
+ "summary": "舊題唐刁光胤《寫生花卉》冊之一，繪桃花盛放、雙蝶翻飛，下襯磐石帶草，設色明麗，見以寫生為旨的花鳥畫精工傳統。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_3785.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

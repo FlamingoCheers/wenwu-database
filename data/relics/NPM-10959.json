@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003498N000000003"
  },
- "summary": null,
+ "summary": "《韫真集庆》册中一开，为马远画花卉。马远以山水名世，亦擅花鸟。此帧写花卉小景，用笔劲利，设色清雅，以山水家法入折枝花鸟，别具一格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_10959.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

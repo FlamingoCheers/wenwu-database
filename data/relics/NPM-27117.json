@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014640N000000000"
  },
- "summary": null,
+ "summary": "定窯白瓷碗，碗內印花鳳凰花卉紋，鳳紋飛舞，襯以花卉，紋飾繁密有序。定窯以牙白釉印花裝飾著稱，為宋代北方名窯。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_27117.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001852N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋钱选《画货郎图》，写货郎担沿街叫卖、孩童围观之景。货郎图为宋代流行的风俗画题材，市井情态跃然。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14195.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

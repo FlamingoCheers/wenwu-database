@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016828N000000000"
  },
- "summary": null,
+ "summary": "宋代白瓷印花螭纹杯，印纹螭龙姿态矫健，与莹白釉色相映成趣。此杯造型简练，装饰得宜，见证宋代瓷器对古代纹样的承袭与化用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_30564.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

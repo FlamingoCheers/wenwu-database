@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000005N000000000"
  },
- "summary": null,
+ "summary": "此为清乾隆《三希堂法帖》第五册所收唐柳公权《蒙诏帖》刻帖。柳公权书法骨力遒劲，与颜真卿并称“颜筋柳骨”，此帖为其传世名迹之刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22048.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

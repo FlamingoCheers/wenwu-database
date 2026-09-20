@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷011440N000000000"
  },
- "summary": null,
+ "summary": "德化窯白瓷三足爐，元代製品。直口，鼓腹，下承三足，爐身飾蟠螭紋，螭龍盤繞姿態矯健。通體施牙白釉，溫潤如脂。爐為焚香之器，造型古雅端莊。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35695.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

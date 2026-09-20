@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003473N000000004"
  },
- "summary": null,
+ "summary": "《宋元明集绘》册中一开，题宋代苏汉臣作林间婴戏。苏汉臣以婴戏画著称，此帧绘孩童林间嬉戏，情态生动，衣纹流畅，天真可掬。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15372.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000098N000000000"
  },
- "summary": null,
+ "summary": "《快雪堂法帖》丛帖之一。此册摹刻宋代米芾所书《九歌》，内容涉屈原楚辞篇章，可见其书写诗文之笔墨意趣，米书八面出锋。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_16637.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

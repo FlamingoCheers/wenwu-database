@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000257N000000007"
  },
- "summary": null,
+ "summary": "《元人法书》册中一开，为元末饶介所书七言绝句。饶介以草书知名，笔势流畅纵逸，此页可见元代文人草书的风采。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_139.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

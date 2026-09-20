@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000118N000000000"
  },
- "summary": null,
+ "summary": "《垂裕阁法帖》（九）之一，收宋苏轼书《赤壁赋》。赋咏赤壁江月之思，为东坡名篇，此以行书自录，笔墨与文情相发，刻帖流传。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29019.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

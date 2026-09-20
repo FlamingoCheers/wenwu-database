@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000098N000000000"
  },
- "summary": null,
+ "summary": "《快雪堂法帖》丛帖之一。此册摹刻宋代张即之《与尊堂书》，属尺牍书迹；张即之为南宋书法名家，以大字著称，小字亦精劲。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_16639.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

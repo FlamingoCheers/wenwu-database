@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005790N000000000"
  },
- "summary": null,
+ "summary": "元代桃形玉洗，全器仿桃實之形，可作文房水洗或陳設之用。桃寓長壽，此洗體量稍大，造型圓熟，雕琢光潤。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_56934.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

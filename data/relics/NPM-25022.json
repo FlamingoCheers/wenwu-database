@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000942N000000003"
  },
- "summary": null,
+ "summary": "《名家集册》之一开，为元鲜于枢临颜真卿《鹿脯帖》。鲜于枢为元初书法名家，此临本可窥其取法唐贤之门径。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_25022.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

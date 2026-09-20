@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000013N000000000"
  },
- "summary": null,
+ "summary": "《平遠山房法帖》第二冊所收，宋蘇軾書《黃庭經》摹刻本。《黃庭經》本為寫經名品，東坡以己意書之，別具豐腴蘊藉之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27369.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

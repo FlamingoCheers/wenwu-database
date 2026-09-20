@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000092N000000025\n more\n \n 贈帖000092N000000026"
  },
- "summary": null,
+ "summary": "摹刻宋米芾《戏成呈司谏台坐帖》。戏成谓率意戏作之句，书以呈司谏台端，行草相发，意态生动。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22576.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

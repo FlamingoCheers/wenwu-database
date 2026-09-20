@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001240N000000006"
  },
- "summary": null,
+ "summary": "《藝苑藏真》冊（上）之一開，傳為宋代易元吉所繪〈喬柯猿挂〉。畫寫喬木之上猿猴攀掛之態，屬走獸題材小品。易元吉以畫猿著稱，此開寫生傳神，體現宋代花鳥走獸畫的精詣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_324.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

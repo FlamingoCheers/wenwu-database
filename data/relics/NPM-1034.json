@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000239N000000017"
  },
- "summary": null,
+ "summary": "《宋诸名家墨宝》册中一开，为虞允文书尺牍。虞允文为南宋名臣。此札为书信墨迹，笔意沉稳谨饬，兼具书法艺术与政治史文献的双重价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1034.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

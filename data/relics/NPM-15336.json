@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003497N000000002"
  },
- "summary": null,
+ "summary": "《古香片羽》册中一开，题宋徽宗作好鸟鸣春。绘春日枝头禽鸟和鸣，翎毛工细，设色典丽，承宣和画院精谨画风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15336.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001290N000000004"
  },
- "summary": null,
+ "summary": "《墨林拔萃》册一页，题“唐张萱明皇合乐图”。以唐明皇合乐奏乐为题，张萱为唐代仕女人物画名家，善写宫廷游乐场景。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14641.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

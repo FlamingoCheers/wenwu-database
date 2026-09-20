@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅001595N000000000"
  },
- "summary": "燈，淺盤，鳥形柄，龜形座。",
+ "summary": "宋代铜鸟镫，上承浅盘，柄作鸟形，下设龟形座。鸟龟相承，造型生动巧妙，为古人照明用具。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_6750.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

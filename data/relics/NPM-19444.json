@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購拓000420N000000000"
  },
- "summary": null,
+ "summary": "《瀧岡阡表》墨拓本。北宋歐陽修撰文，追記其父母生平懿行，情文並至，為傳誦千古的名篇。碑書端嚴遒勁，拓本可供賞讀臨寫。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_19444.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

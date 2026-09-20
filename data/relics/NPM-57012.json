@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005871N000000000"
  },
- "summary": null,
+ "summary": "以玉琢成人形，人物形象簡括，屬南宋玉作人物小品，可供繫佩或案頭賞玩。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57012.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

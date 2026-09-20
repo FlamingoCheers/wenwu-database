@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000091N000000001\n more\n \n 贈帖000091N000000002"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十四册专收宋米芾书迹。此页为《烝徒帖》，尺牍一通。米芾行书八面出锋、运笔迅劲，刻帖传其神采。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22774.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

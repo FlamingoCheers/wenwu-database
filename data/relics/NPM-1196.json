@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000829N000000000"
  },
- "summary": null,
+ "summary": "宋代郭熙《山庄高逸》轴。郭熙为北宋山水大家，创卷云皴与蟹爪枝法，此轴写山庄幽居之景，山石圆浑、枯枝如鹰爪，深具可游可居之意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1196.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

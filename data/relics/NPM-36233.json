@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016038N000000000"
  },
- "summary": null,
+ "summary": "定窯劃花蓮花葵花式碗，屬宋代製品。器口仿葵花瓣形，內劃蓮花紋，構圖疏朗有致，劃線灑脫自如，白釉瑩潤，器形端秀，體現定窯白瓷的清雅品格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36233.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

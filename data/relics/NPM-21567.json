@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000003N000000000"
  },
- "summary": null,
+ "summary": "清乾隆御刻《三希堂法帖》第三册所收唐褚遂良书《倪宽传赞》刻本，录《汉书》称述倪宽之赞文。褚书婉媚遒逸，楷法精严，为其代表书风的刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21567.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉006350N000000000"
  },
- "summary": null,
+ "summary": "玉頂，器面琢鴛鴦荷葉紋，玉頂多用作爐蓋等器物頂飾，紋樣取荷塘水禽景致，生動雅緻。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57444.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

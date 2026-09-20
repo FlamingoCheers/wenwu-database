@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000094N000000020\n more\n \n 贈帖000094N000000021"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第十七册收宋陆游尺牍一通。放翁笔墨自具书卷清气，此牍行笔简约安和，经乾隆间摹刻上石而传。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22813.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

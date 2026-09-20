@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001809N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋徽宗《梨花》，以梨花为题材，写春日花枝盈盈之态，清雅素洁，体现宋代院体花鸟画重视写生、格物精微的传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14163.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001257N000000002"
  },
- "summary": null,
+ "summary": "《纨扇画册》之一开，题宋代马麟《秉烛夜游图》，绘庭院花树下烛火辉映、夜宴游赏的景致，属人物山水小品。马麟为马远之子。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14534.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

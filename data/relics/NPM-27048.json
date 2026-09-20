@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000038N000000000"
  },
- "summary": null,
+ "summary": "《墨妙軒法帖》第二冊，清代摹刻歷代法書之叢帖。此冊輯刻唐宋名家書蹟，摹勒上石，拓墨成冊，以廣書學流傳。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27048.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

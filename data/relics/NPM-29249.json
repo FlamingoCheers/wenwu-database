@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷013033N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷洗，器内划花饰蟠螭纹，蟠螭为传说中的龙属神兽，纹样蜿蜒生动。划花刀法娴熟，釉色牙白温润。洗为盥洗或文房用具。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29249.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001113N000000008"
  },
- "summary": null,
+ "summary": "舊題唐刁光胤《寫生花卉》冊之一，繪秋塘蘋蓼、照影蜻蜓，秋水無波、蜻蜓點水，意境靜謐清雅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_3792.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

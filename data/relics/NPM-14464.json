@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001248N000000011"
  },
- "summary": null,
+ "summary": "《集古名绘》册之一开，题宋代朱锐《雪涧盘车》，绘雪后山涧间车队行进的景象，属盘车题材。朱锐以善画盘车著称。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14464.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

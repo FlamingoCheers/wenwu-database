@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000097N000000000"
  },
- "summary": null,
+ "summary": "《快雪堂法帖》丛帖之一。此册摹刻宋代米芾《张僧繇帖》，帖名涉南朝画家张僧繇，属米芾尺牍书迹之摹刻，米书笔势飞动。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_16615.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

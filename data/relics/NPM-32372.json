@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷012274N000000000"
  },
- "summary": null,
+ "summary": "元代白瓷印花蓮花紋梅瓶。梅瓶小口短頸，豐肩斂腹，為傳統的儲酒器形，亦可陳設。器身飾印花蓮花紋，通體施白釉。此器形制規整，紋飾清雅，反映元代白瓷的製作風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_32372.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

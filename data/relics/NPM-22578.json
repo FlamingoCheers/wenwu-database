@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000092N000000029\n more\n \n 贈帖000092N000000030"
  },
- "summary": null,
+ "summary": "摹刻宋米芾《临右军帖》。右军即王羲之，米芾力学晋人，此为临摹右军书迹之本，笔随形转而气格自运。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22578.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

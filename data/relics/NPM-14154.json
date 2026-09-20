@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001797N000000000"
  },
- "summary": null,
+ "summary": "此轴题称郭熙所作，绘峨眉山雪后初晴之景，寒峰积素，属雪景山水题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14154.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000244N000000006"
  },
- "summary": null,
+ "summary": "此册页出自《宋人法书》（二），为孙甫致子温运判屯田同年侍史尺牍。“同年”谓科举同榜之谊，此札属宋人官场书问。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14296.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

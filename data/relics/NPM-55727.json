@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004385N000000000"
  },
- "summary": null,
+ "summary": "元代玉童子，孩童形象活潑，衣褶簡明。執荷童子之類題材自宋盛行，寄托祈子納福之願，此件片狀造型，可為佩飾。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55727.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

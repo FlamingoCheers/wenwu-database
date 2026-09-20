@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001241N000000006"
  },
- "summary": null,
+ "summary": "《藝苑藏真》冊（下）之一開，傳為宋代馬麟所繪〈臨溪放龜〉。畫寫臨溪放龜入水的情景，寓戒殺放生的善念，構圖簡淨，意涵雋永。馬麟為南宋院體名家，此開筆墨精緻，饒有理趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_350.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

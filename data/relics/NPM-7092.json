@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅000217N000000000"
  },
- "summary": "圓鏡，橋鈕。",
+ "summary": "唐代素面铜镜，圆形，桥形钮，镜背无纹饰。器形小巧，素朴无华，为日常照容用具。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_7092.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

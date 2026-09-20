@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005084N000000000"
  },
- "summary": null,
+ "summary": "元代方形小玉飾，形制規整，邊角利落。此類飾件或作嵌飾、或供穿繫，為服飾器用上的點綴之物，光素簡潔。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_56345.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000239N000000007"
  },
- "summary": null,
+ "summary": "《宋诸名家墨宝》册中一开，为苏轼书尺牍。此札为东坡与友人往还书信，信笔而成，自然率意，不以工拙为念，充分体现其尚意书学的审美旨趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_1024.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

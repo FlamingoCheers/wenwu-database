@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000952N000000004"
  },
- "summary": null,
+ "summary": "《宋曹氏遺譜》冊之一開，為王素所題像贊。像贊為描摹先人形貌並頌其德業的文體，此件題於曹氏族譜之中，兼具家族文獻與書法史料價值，可資考見宋代士族傳家的風尚。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_34970.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

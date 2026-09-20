@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉003591N000000000"
  },
- "summary": "玉作長方片狀，一面四角有牛鼻穿。",
+ "summary": "玉片作長方形，形制規整，一面四角各設牛鼻穿，可繫綴於他物之上。此類穿孔玉片的用途當為嵌飾或綴飾構件，屬宋代玉器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_51618.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

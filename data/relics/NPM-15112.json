@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003473N000000001"
  },
- "summary": null,
+ "summary": "《宋元明集绘》册中一开，题五代黄筌作山水。黄筌以花鸟著称，山水传世极罕，此帧旧题托名，绘峰峦林壑之景，可备一格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15112.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

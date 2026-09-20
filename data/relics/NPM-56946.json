@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005802N000000000"
  },
- "summary": null,
+ "summary": "宋代玉獸墜飾，獸態安詳，琢工圓潤。宋代世俗玉雕興盛，獸形墜飾既為佩飾，亦寄托祥瑞之願。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_56946.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

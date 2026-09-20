@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000420N000000000"
  },
- "summary": null,
+ "summary": "元代饶介书《五言古诗》卷。饶介为元末书法家，此卷书五言古体诗一篇，属元人法书墨迹，可见其书风面貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_727.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

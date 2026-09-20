@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014720N000000000"
  },
- "summary": null,
+ "summary": "南宋廣窯月白匜式洗。洗倣古代青銅匜造型，一側出流，通體施月白釉，釉色乳濁淡雅。廣窯為南方窯場，釉色變化豐富，此洗將古器意趣融入文房用具，造型別致有趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_33163.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

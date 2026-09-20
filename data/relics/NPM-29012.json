@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000117N000000000"
  },
- "summary": null,
+ "summary": "《垂裕阁法帖》（八）之一，收宋蔡襄书《荔枝谱》。蔡襄曾撰《荔枝谱》记闽中荔支品目，书法浑厚端严，此为刻帖拓本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29012.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

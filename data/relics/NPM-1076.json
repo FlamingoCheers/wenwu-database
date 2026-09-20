@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000250N000000004"
  },
- "summary": null,
+ "summary": "《宋元墨宝》册中一开，为朱熹书尺牍。晦翁此札为致友人书信，笔法沉稳老到，不事雕饰，理学家的端凝气象于笔墨之间自然流露。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1076.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

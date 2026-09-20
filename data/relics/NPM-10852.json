@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003462N000000002"
  },
- "summary": null,
+ "summary": "《宋人绘珍片玉》册中一开，为林椿《玉兰鹦鹉》。林椿为南宋院体花鸟画家。图写玉兰枝头鹦鹉，翎毛细腻，敷色鲜润，是典型的宋代折枝花鸟小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_10852.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

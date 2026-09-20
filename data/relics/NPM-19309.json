@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000302N000000000"
  },
- "summary": null,
+ "summary": "五代徐熙《荷花鷺鷥》軸。繪荷塘景致，荷花亭立，鷺鷥佇立水際，物態生動，墨色清潤，承五代江南花鳥畫野逸傳統。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_19309.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

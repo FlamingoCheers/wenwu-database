@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000402N000000004"
  },
- "summary": null,
+ "summary": "元钱选《昆虫》册之一，就题绘蟋蟀，取材草间小虫，状物写生，属元代草虫题材册页。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_24508.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

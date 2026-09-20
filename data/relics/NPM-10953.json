@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003494N000000004"
  },
- "summary": null,
+ "summary": "《墨林二妙》册中一开，为陈居中所绘山水又一帧。院体笔法写景布置妥帖，山石树木刻画细致，册页小景中自有开阔气象，可见画家功力。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_10953.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

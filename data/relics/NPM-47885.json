@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "購銅000218N000000000"
  },
- "summary": null,
+ "summary": "唐代銀匙，匙面鏨刻花葉紋並施鎏金，金銀輝映，工藝精緻。唐代金銀器製作蔚為風尚，此類餐具可見當時金銀細工的華麗風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_47885.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

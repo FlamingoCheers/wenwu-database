@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000246N000000021"
  },
- "summary": null,
+ "summary": "《宋人法書（四）》冊之一開，程元鳳呈致提舉郎中的劄子，屬宋代官場往來文書書跡，可見宋人公牘書法的面貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15539.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

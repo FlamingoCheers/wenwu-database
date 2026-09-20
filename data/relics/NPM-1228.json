@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫002007N000000000"
  },
- "summary": null,
+ "summary": "元代王蒙《东书草堂图》轴。绘草堂隐于山水之间，层岩茂树环护，皴笔繁密苍润，属文人书斋山水题材，寄寓隐居治学之志。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1228.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

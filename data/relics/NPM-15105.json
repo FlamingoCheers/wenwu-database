@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003465N000000001"
  },
- "summary": null,
+ "summary": "《宋元集绘》册中一开，题五代南唐徐熙作花卉。徐熙花鸟注重野逸之趣，此帧写折枝花卉，笔墨简朴自然，存宋元人摹写徐熙花鸟之意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15105.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

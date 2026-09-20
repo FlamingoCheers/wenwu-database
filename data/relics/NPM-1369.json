@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000245N000000004"
  },
- "summary": null,
+ "summary": "蔡京致“节夫亲契”尺牍，《宋人法书》册之一。蔡京书法姿媚豪健、自成一格，此牍行书流畅，可窥北宋晚期士大夫书风与交往情形。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1369.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

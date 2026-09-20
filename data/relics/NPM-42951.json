@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "購瓷000068N000000000"
  },
- "summary": null,
+ "summary": "宋代景德鎮窯白瓷把壺，帶曲柄小流，胎白釉潤，形制玲瓏，為注湯點茶之器，可見宋人飲茶風尚。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_42951.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

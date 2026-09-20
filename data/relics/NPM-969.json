@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000241N000000001"
  },
- "summary": null,
+ "summary": "《宋贤笺牍》册之一，收苏轼致“至孝廷平郭君”尺牘。受书人为郭姓人士，帖具敬语称谓，书风丰腴圆劲，为东坡日常尺素之作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_969.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

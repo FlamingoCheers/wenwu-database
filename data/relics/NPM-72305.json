@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "贈瓷000553N000000000"
  },
- "summary": null,
+ "summary": "西夏灵武窑花卉纹梅瓶。灵武窑位于今宁夏灵武一带，是西夏时期重要瓷窑。梅瓶小口丰肩，器身饰花卉纹，可作储酒之器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_72305.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

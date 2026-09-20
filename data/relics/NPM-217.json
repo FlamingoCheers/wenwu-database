@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001114N000000011"
  },
- "summary": null,
+ "summary": "旧题宋代李唐《文姬归汉图》册之一帧，题“育儿”。写蔡文姬在匈奴抚育幼子的场面，衣冠人物兼具汉胡之制，笔致工稳传神。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_217.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

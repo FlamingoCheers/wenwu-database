@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000240N000000020"
  },
- "summary": null,
+ "summary": "《宋贤书翰》册中一开，为朱熹致教授学士尺牍。朱熹为南宋理学宗师，亦工书。此札为论学通问之作，笔墨从容不迫，可见大儒日常书写之真态。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1062.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

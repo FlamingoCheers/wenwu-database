@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000245N000000003"
  },
- "summary": null,
+ "summary": "曾纡致“久直知县”尺牍，《宋人法书》册之一开。以行书写日常问候书问，笔致流畅，反映两宋士大夫尺牍往还的书风体式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1368.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

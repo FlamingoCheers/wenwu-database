@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷012304N000000000"
  },
- "summary": null,
+ "summary": "宋米黃釉葵花式折腰碗。碗作葵花式口，腹間折腰成棱，造型富於韻律變化，通體施米黃釉，色澤恬淡溫潤，素雅無紋，展現宋代單色釉瓷器含蓄內斂的美感。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_32396.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

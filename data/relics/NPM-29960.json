@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016693N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷小碟，浅腹敞口，通体白釉，碟心划莲花纹。定窑刻划花饰如笔走纸上，莲姿摇曳，此碟宜供点茶佐食之用，亦具陈设雅趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29960.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

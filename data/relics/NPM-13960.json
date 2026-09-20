@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000110N000000000"
  },
- "summary": null,
+ "summary": "《秋浦归渔图》轴，传马远作。绘秋日江浦渔人归棹之景，边角构图虚实相生，人物舟楫点景生动，具南宋院画风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13960.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

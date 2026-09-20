@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅000366N000000000"
  },
- "summary": "圓鏡，半球鈕。鏡背滿布四瓣花紋。",
+ "summary": "唐代铜铸圆镜，半球形钮，镜背满布四瓣花纹。花卉纹饰布局规整，为唐代铜镜常见纹样。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_7172.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

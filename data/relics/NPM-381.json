@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001244N000000008"
  },
- "summary": null,
+ "summary": "《宋元名繪》冊中一開，舊題宋王詵《繡櫳曉鏡圖》，寫閨閣曉妝情景，筆致清潤，兼有人物與庭院景致，屬宋代人物小景畫。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_381.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

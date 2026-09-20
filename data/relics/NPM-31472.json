@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷011553N000000000"
  },
- "summary": null,
+ "summary": "宋代白瓷印花蓮塘游魚紋碗。碗內以模印技法飾蓮塘游魚紋，蓮葉舒展，游魚穿梭其間，生機盎然。印花紋飾佈局飽滿，為宋代北方白瓷流行的裝飾手法，展現當時製瓷工藝的成熟水準。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_31472.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

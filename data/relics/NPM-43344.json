@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "贈瓷000290N000000000"
  },
- "summary": null,
+ "summary": "元代青花菊花紋小杯，杯身繪菊花紋樣，青花發色沈穩，胎白釉潤，可見元代青花瓷清麗的裝飾風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43344.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

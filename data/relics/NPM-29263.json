@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000007N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第一册之一，收唐代颜真卿楷书《麻姑仙坛记》。记叙麻姑仙话传说，颜书小楷浑厚古朴，为颜楷名品，历来为习小楷者所重。墨拓装册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29263.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

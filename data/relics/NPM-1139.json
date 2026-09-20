@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000018N000000000"
  },
- "summary": null,
+ "summary": "元代王振鹏《龙舟图》卷。王振鹏长于界画，此卷绘水面龙舟与殿阁相属，用笔工致、布置繁密，为元代龙舟竞渡题材的界画作品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1139.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

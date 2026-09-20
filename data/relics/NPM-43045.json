@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "購瓷000171N000000000"
  },
- "summary": null,
+ "summary": "唐三彩鋪首，獸面銜環之屬，施三彩釉，紋樣獰重莊嚴，為門扉或器物上的裝飾構件，具護辟之意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43045.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000023N000000000"
  },
- "summary": null,
+ "summary": "《郁冈斋墨妙帖》第九册之一，收唐代褚遂良所书《倪宽传赞》。褚遂良为初唐书法大家，《倪宽传赞》传为其楷书名迹，笔致遒媚，此为刻帖拓本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27924.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

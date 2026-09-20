@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000235N000000010"
  },
- "summary": null,
+ "summary": "《宋四家墨宝》册中黄庭坚《致天民知命大主簿尺牍》，为其致亲友之书信，属宋四家法书册页。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_902.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

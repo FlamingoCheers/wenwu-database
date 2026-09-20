@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈書000640N000004000"
  },
- "summary": null,
+ "summary": "宋黄庭坚书唐韩伯庸《幽兰赋》双钩本册之四，为该套末册。双钩摹法细审笔画轮廓，此册与前三册相续，合观可见黄庭坚行书全貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27946.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

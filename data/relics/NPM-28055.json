@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000041N000000000"
  },
- "summary": null,
+ "summary": "《贯经堂米帖》第一册之一，收宋米芾临王羲之《至洛帖》。米芾以临乱真著称，此帖摹刻上石，存其临古笔意，可供比勘研习。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_28055.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

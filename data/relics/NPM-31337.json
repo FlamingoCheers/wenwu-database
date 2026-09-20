@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷015874N000000000"
  },
- "summary": null,
+ "summary": "宋代龙泉窑青瓷洗，釉色青翠温润，器内划花双螭纹。龙泉窑为南方青瓷名窑，釉层丰厚，色如美玉，洗为文房用具，螭纹古雅，兼具实用与陈设之美。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_31337.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

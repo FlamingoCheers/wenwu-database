@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "購瓷000150N000000000"
  },
- "summary": null,
+ "summary": "宋代青釉穀倉，仿倉廩之形，通施青釉，為隨葬明器，寄寓五穀豐登、倉廩充實的美好祝願。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43027.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001270N000000002"
  },
- "summary": null,
+ "summary": "此幅為《集珍壽古》冊中一開，舊題宋李迪〈春圃雞雛〉，畫春日園圃中雛雞活動，生趣盎然，屬宋代院體花鳥冊頁。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_5146.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

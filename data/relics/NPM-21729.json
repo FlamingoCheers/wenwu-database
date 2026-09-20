@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000164N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第七册所收宋高宗书苏轼《地黄诗》刻本。诗为东坡咏地黄之作，高宗行书圆熟流美，具帖学温雅气质。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21729.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000238N000000001\n more\n \n 故書000238N000000002\n 故書000238N000000003"
  },
- "summary": null,
+ "summary": "《宋十二名家法书》册之一，为宋初书家李建中书谘（书信）。李建中书法温润，此札属宋人尺牍法书。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14903.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

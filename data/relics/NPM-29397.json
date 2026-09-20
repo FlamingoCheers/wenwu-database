@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010753N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷笠式碗，形如斗笠，斜壁小底，器内模印云凤纹，印纹清晰规整。定窑印花装饰繁密精美，与牙白釉色相得益彰。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29397.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

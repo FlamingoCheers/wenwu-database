@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000094N000000000"
  },
- "summary": null,
+ "summary": "《快雪堂法帖》为摹刻历代名家法书之丛帖。此册摹刻唐代褚遂良临王羲之《兰亭序》，兰亭序为天下行书名迹，褚临为其著名摹本之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_16869.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

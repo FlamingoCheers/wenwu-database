@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000042N000000000"
  },
- "summary": null,
+ "summary": "北宋蔡襄自书谢表并诗卷。蔡襄为“宋四家”之一，书风端严温雅。谢表为谢恩之文，自书附诗，兼具文献与书法双重价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_674.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

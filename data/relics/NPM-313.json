@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001233N000000014"
  },
- "summary": null,
+ "summary": "《名绘集珍》册之一，题为宋末元初钱选《珍果图》。钱选为宋末元初画家，工花鸟蔬果，设色清丽。此页写各色珍果，笔致工细，设色雅洁，属蔬果题材小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_313.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

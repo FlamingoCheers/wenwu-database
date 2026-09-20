@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001255N000000002"
  },
- "summary": null,
+ "summary": "《名贤妙迹》册一页，宋刘寀《春溪鱼藻》。绘春溪之中鱼游藻动之态，刘寀以画鱼著称，此页属鱼藻题材小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14699.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

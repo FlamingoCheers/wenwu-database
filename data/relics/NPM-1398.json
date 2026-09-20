@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000245N000000017"
  },
- "summary": null,
+ "summary": "汪应辰致“子东学士”尺牍，《宋人法书》册之一。汪应辰为南宋状元名臣，此牍行书端稳，为平日书问往还之作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1398.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

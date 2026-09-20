@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001446N000000000"
  },
- "summary": null,
+ "summary": "此卷题称李唐所作，绘松壑幽深、流泉泻涧的山水景致，笔墨刚劲，为其一路画风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14113.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003458N000000001"
  },
- "summary": null,
+ "summary": "《唐宋元明四朝合璧》册中一开，旧题唐代阎立本作雪景山水。阎立本以人物画著称，山水一路传世甚罕，此帧描绘寒林雪岭之景，属后人托名旧题之作，可窥早期山水想象。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15086.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

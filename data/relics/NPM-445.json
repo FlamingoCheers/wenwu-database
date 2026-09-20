@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001245N000000008"
  },
- "summary": null,
+ "summary": "宋人合璧畫冊中一開，傳陳居中〈平皋拊馬〉，畫平野間人物撫馬之景，人馬刻畫精細，具陳氏人馬畫風。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_445.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

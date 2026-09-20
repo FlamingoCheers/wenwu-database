@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000010N000000000"
  },
- "summary": null,
+ "summary": "此为《三希堂法帖》第十册所收宋苏轼《东武帖》刻帖，属苏轼尺牍。其书丰腴扁阔、跌宕自然，为苏字典型风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22062.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

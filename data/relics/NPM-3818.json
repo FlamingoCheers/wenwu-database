@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001117N000000006"
  },
- "summary": null,
+ "summary": "舊題宋馬麟《畫花卉》冊之一「瓊葩玉映」，寫花如瓊玉、交相映帶，設色瑩潔，格調高華。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_3818.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

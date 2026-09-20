@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000069N000000000"
  },
- "summary": null,
+ "summary": "宋代王诜《画鹰》轴。王诜为北宋贵胄文人画家，山水师李成而自有清润之致，此轴以猛禽为题，写鹰隼雄鸷之态。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1263.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

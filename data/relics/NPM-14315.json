@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000244N000000025"
  },
- "summary": null,
+ "summary": "此册页出自《宋人法书》（二），为张阁致子昭知县学士尺牍。张阁为宋臣僚，此札为士人书问，可见宋人尺牍格式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14315.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

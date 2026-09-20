@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003465N000000006"
  },
- "summary": null,
+ "summary": "《宋元集繪》冊之一開，舊題宋李唐〈冬景山水〉，寫冬日蕭寒的山林景致，屬季節山水冊頁小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15806.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

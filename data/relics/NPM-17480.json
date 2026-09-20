@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001100N000000000"
  },
- "summary": null,
+ "summary": "此段为《宋高宗书女孝经马和之补图》上卷卷首《开宗明义章》。《女孝经》仿《孝经》体例阐扬女德，此段书经文并配马和之图画，为全卷发端。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17480.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

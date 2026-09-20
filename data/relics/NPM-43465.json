@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "贈瓷000435N000000000"
  },
- "summary": null,
+ "summary": "金代三彩缽，通施低溫三彩釉，黃綠彩交融明豔，器形圓整，為金代三彩器的代表性器類。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43465.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

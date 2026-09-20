@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001802N000000000"
  },
- "summary": null,
+ "summary": "宋代李公麟《为霖图》轴。题名取为霖为雨济世之喻，当写云龙行雨一类意象，寓贤者泽民之志，属寓意人物题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1324.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

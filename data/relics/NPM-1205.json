@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001777N000000000"
  },
- "summary": null,
+ "summary": "五代南唐周文矩《荷亭奕钓仕女图》轴。周文矩以仕女人物著称，此轴绘荷亭间仕女弈棋垂钓之乐，衣纹细劲、设色雅丽，承唐代绮罗人物余绪。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1205.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

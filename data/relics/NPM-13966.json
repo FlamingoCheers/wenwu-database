@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000125N000000000"
  },
- "summary": null,
+ "summary": "《王建宫词图》轴，题为陈居中作。据唐人王建宫词诗意绘图，写宫中生活情态，人物刻画工细，是诗意画与院体人物结合之作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13966.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈玉000004N000000005"
  },
- "summary": null,
+ "summary": "禪地玉冊玉匱嵌片，屬北宋禮制用玉。玉匱為貯放禪地玉冊的函匣，此類嵌片原鑲飾於匱身，與玉冊同為封禪大典相關的重要遺存。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_47376.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

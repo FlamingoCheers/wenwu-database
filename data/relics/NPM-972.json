@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000241N000000004\n more\n \n 故書000241N000000005"
  },
- "summary": null,
+ "summary": "《宋贤笺牍》册之一，收宋人叶梦鼎呈判府监丞郎中劄子。劄子为官员进呈之文书，帖首具受书人官衔称谓，可窥宋代言牍体式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_972.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

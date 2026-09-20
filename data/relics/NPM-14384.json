@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001247N000000015"
  },
- "summary": null,
+ "summary": "《煙雲集繪》第三冊之一开，题宋代马逵《紫琼深艳》，画题以紫琼喻花色艳丽如玉，属花卉题材小品。马逵为南宋画家，马远之兄。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_14384.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

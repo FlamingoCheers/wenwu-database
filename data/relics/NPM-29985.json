@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016718N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷碗，碗内印花莲花纹，花瓣层叠，纹饰规整。印花为定窑成熟期的装饰工艺，一次模印即可成繁密图案，工效与美观兼备，深受时人喜爱。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29985.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

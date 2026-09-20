@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000166N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第九冊之一，摹刻北宋孫甫致子溫運判屯田同年侍史尺牘。上款備列官稱與同年之誼，帖屬僚友書翰，經上石拓印成冊。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21453.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

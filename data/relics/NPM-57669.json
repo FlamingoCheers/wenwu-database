@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉006597N000000000"
  },
- "summary": "玉質，全器琢成一玉劍璏，器表光素無紋。",
+ "summary": "玉質劍璏，為古劍具之一，嵌於鞘上供穿帶佩劍，此件全器光素無紋，形制簡樸，屬明代仿古玉作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57669.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

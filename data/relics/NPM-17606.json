@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000133N000000000"
  },
- "summary": null,
+ "summary": "此卷为《宋四家书》之一，苏轼致主簿曹君尺牍。尺牍为日常往来书信，书风随性自然，用笔沉着痛快，是苏轼行书墨迹的典型样式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17606.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

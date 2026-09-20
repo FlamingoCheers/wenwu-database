@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003477N000000012"
  },
- "summary": null,
+ "summary": "《宋元明人合錦（下）》冊之一開，舊題宋黃居寀〈古木晴鵰〉，繪晴日古木、鵰鳥棲枝，屬宋代院體翎毛小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15585.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

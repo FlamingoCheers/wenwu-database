@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000329N000000000"
  },
- "summary": null,
+ "summary": "元王蒙《山水》軸。王蒙山水以繁密取勝，皴擦點染層層積疊，林巒鬱然深秀。此軸筆法蒼渾，結構茂密，具元人文人畫氣息。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_19383.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

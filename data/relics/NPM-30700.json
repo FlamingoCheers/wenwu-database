@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000005N000000017"
  },
- "summary": null,
+ "summary": "明拓《宝贤堂集古法帖》第五册，收唐柳公权《荣示帖》。丛帖摹刻唐人尺牍，柳公权书法以法度谨严闻名，此帖虽为刻本，仍可见其用笔的方峻骨气。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_30700.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

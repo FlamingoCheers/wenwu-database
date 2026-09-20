@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000013N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第七册，收南宋陆游《与明远帖》。陆游为南宋著名爱国诗人，书法遒劲飘逸。此帖为尺牍刻本，行笔流畅自然，墨拓装册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29832.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

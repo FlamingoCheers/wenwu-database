@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000397N000000000"
  },
- "summary": null,
+ "summary": "黄庭坚书《赠云庵道人歌》卷，为书赠方外之人的歌行作品。行草洒脱自如，文字与道人酬赠相关，见宋代文人与释道往还之雅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_13920.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

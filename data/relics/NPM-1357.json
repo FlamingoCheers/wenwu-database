@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000114N000000000"
  },
- "summary": null,
+ "summary": "《华灯侍宴图》立轴，传马远作。绘宫廷夜宴之景，华灯映照殿宇，山色掩映其间，取边角构图，笔法劲健，具南宋院画典型风格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1357.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

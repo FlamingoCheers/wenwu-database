@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000039N000000000"
  },
- "summary": null,
+ "summary": "《墨妙轩法帖》第三册之一开，收宋蔡襄《澄心堂纸帖》摹刻，澄心堂纸为南唐名纸，书风端雅可喜。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_26830.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

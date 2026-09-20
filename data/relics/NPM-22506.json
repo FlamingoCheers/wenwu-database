@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000087N000000020\n more\n \n 贈帖000087N000000021\n 贈帖000087N000000022"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十册之一，摹刻宋苏轼《次韵秦太虚见戏耳聋诗》。秦太虚即秦观，诗以耳聋自嘲戏答，行书畅达，为东坡书迹之传刻。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22506.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000261N000000031"
  },
- "summary": null,
+ "summary": "元明人題錢譜雜文冊中一開，趙棣書五言律詩一首，以詩題泉譜，書蹟工穩，為冊中元明人題詠雜文之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_416.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003492N000000005"
  },
- "summary": null,
+ "summary": "《艺苑胪珍》册一页，宋马远《桃源对酌》。以桃花源意境为题，写二人对饮之乐，属人物山水小品，构图简远。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14687.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

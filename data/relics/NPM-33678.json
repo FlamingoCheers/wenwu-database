@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010558N000000000"
  },
- "summary": null,
+ "summary": "宋定窯劃花蓮花紋葵口盤。盤作葵花口，通體施白釉，盤內劃刻蓮花紋，刀法灑脫流暢，線條如寫。定窯劃花以犀利靈動見長，此盤釉色牙白溫潤，紋飾疏朗有致，屬定窯經典風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_33678.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

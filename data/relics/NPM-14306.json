@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000244N000000016"
  },
- "summary": null,
+ "summary": "此册页出自《宋人法书》（二），为米芾书尺牍。米芾为“宋四家”之一，书风八面生动，尺牍小字尤为率意天成。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14306.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

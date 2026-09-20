@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000249N000000007"
  },
- "summary": null,
+ "summary": "此册页出自《宋元宝翰》，为朱熹致彦脩少府尺牍。朱子书札笔致沉着，为理学宗师手泽，尤为世重。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14327.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

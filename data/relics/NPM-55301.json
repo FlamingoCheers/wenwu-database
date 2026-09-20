@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉001910N000000000"
  },
- "summary": null,
+ "summary": "元代玉帶頭，為腰帶端部飾件，上雕花卉蝴蝶紋樣。花蝶紋生動繁麗，玉帶具標識身份之用，此類帶飾於元代頗為流行，附木座保存。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55301.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

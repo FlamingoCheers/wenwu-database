@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000091N000000006\n more\n \n 贈帖000091N000000007\n 贈帖000091N000000008\n 贈帖000091N000000009\n 贈帖000091N000000010\n 贈帖000091N000000011\n 贈帖000091N000000012"
  },
- "summary": null,
+ "summary": "《苕溪诗帖》为宋米芾行书代表作，录自咏苕溪诸诗，笔势痛快而气韵沉雄。清乾隆间收入《三希堂法帖》第十四册摹刻传世。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22777.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

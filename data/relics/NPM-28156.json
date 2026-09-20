@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000043N000000000"
  },
- "summary": null,
+ "summary": "《贯经堂米帖》第三册之一，收宋米芾《淮山帖》。帖名或取淮地山水，米芾行草纵横如意，此为摹刻传世的尺牍刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_28156.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

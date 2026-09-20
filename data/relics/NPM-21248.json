@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000009N000000000"
  },
- "summary": null,
+ "summary": "《清乾隆三希堂法帖》（九）冊之一開，摹刻宋蔡襄《與安道侍郎書》。行書尺牘，敘候致問，筆致溫醇，屬御刻法帖摹錄蔡書之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21248.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

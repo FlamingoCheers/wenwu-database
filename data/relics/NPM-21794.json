@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000017N000000000"
  },
- "summary": null,
+ "summary": "清乾隆御刻《三希堂法帖》第十七册所收宋赵孟坚《致岩坚中太丞尺牍》拓本。行书清劲秀逸，见宋宗室文人的风致与书卷气。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21794.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

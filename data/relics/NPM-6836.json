@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003133N000000008"
  },
- "summary": null,
+ "summary": "《五代后蜀黄筌长春花鸟》册中一开，画题“竹枝翎毛”。绘竹枝间禽鸟，竹叶疏密有致，生意盎然。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_6836.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

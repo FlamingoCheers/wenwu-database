@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016829N000000000"
  },
- "summary": null,
+ "summary": "宋代白瓷杯，模印螭龙纹，纹样凸起如浅浮雕，触之可辨。螭纹寓意祥瑞，施于茶酒小杯，实用与观赏并重，胎白釉润，属宋代白瓷中的精致器用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_30565.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

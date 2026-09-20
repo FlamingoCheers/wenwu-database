@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001292N000000001"
  },
- "summary": null,
+ "summary": "《名画琳琅》册一页，宋范宽《群峰雪霁》。写雪后群峰矗立、寒林萧疏之景，范宽为北宋山水大家，以雄浑厚重的画风著称。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14657.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000405N000000000"
  },
- "summary": null,
+ "summary": "薛绍彭临《兰亭叙》卷。薛绍彭与米芾并称，书法宗法二王、端庄温润，此临本可见宋人摹习《兰亭》一脉的承传。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13928.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

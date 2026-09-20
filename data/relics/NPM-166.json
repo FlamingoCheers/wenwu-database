@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001269N000000008"
  },
- "summary": null,
+ "summary": "本幅选自《宋元集繪》册，题北宋许道宁作，绘山楼之上远眺之景，峰峦溪壑相映，属山水题材册页小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_166.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

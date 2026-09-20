@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000243N000000024"
  },
- "summary": null,
+ "summary": "此开为《宋人法书》第一册中北宋张商英所书尺牍，属文人书信墨迹，书写自然不事雕饰，可窥宋代士大夫书风之一斑。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1131.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

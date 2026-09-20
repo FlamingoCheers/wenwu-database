@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "贈銅000256N000000000"
  },
- "summary": null,
+ "summary": "佛立像一尊，配六角形台座，造像立姿庄严，年代不详，风格古朴，为佛教礼拜供奉之像。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -41,5 +41,6 @@
  "raw_ref": "raw/npm/detail_24653.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

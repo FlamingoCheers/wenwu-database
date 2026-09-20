@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000243N000000008"
  },
- "summary": null,
+ "summary": "《宋人法书》（一）册中一开，为张方平书尺牍。张方平为北宋名臣。此札为书信墨迹，笔致从容安雅，是北宋士大夫书迹的真实存例，兼具文献价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_1109.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

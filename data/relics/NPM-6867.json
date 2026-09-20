@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003136N000000006"
  },
- "summary": null,
+ "summary": "《宋钱选写生图》册中一开，画题“碧桃花翎毛”。绘碧桃花与禽鸟，设色妍雅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_6867.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

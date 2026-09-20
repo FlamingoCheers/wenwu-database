@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉006379N000000000"
  },
- "summary": null,
+ "summary": "此件为元代玉鸭，圆雕作鸭形，造型浑朴可爱，玉质温润，此类动物形玉雕可供陈设玩赏，见元代圆雕玉作的生活趣味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_17737.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

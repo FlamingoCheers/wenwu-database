@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000105N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋李嵩《仙筹增庆图》，取海屋添筹之典写祝寿吉意。仙筹添算、寿庆增华，属人物吉祥题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14321.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

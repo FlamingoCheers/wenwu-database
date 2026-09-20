@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷000002N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷洗，器形规整，通施牙白釉，温润如脂。定窑白瓷以精工细作著称，此类浅身小洗或作文房用具，素净之中见工艺之精。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_30065.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

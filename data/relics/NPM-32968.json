@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷012781N000000000"
  },
- "summary": null,
+ "summary": "元代彭窯白瓷劃花番蓮紋杯。敞口小杯，通體施白釉，器身劃刻番蓮紋，刀法輕盈流利。彭窯以燒造白瓷著稱，此杯形制小巧，紋飾清雅，為元代白瓷杯類的典型樣式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_32968.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

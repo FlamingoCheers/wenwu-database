@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005854N000000000"
  },
- "summary": null,
+ "summary": "明代玉質佩飾，形制小巧，可繫掛服飾間以為點綴，玉作承宋元遺風，屬常見佩玉一類。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_56995.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

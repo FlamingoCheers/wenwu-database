@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000133N000000000"
  },
- "summary": null,
+ "summary": "此卷为《宋四家书》之一，苏轼书《南轩梦语》。内容记梦中呓语之事，东坡行书丰腴婉转，信笔而成，墨韵腴润，见其日常书写的自然意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17605.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

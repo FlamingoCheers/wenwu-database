@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001293N000000005"
  },
- "summary": null,
+ "summary": "《宋元集绘》册之一开，题元代高克恭《溪山烟雨》。高克恭善写云山，得米氏云山遗意，此开烟雨溟濛、山影朦胧，墨法浑融温润。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_123.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

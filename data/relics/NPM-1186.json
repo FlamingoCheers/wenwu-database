@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000824N000000000"
  },
- "summary": null,
+ "summary": "宋代范宽《雪山萧寺图》轴。范宽为北宋山水巨匠，长于雪景寒林，此轴主峰巍峨、山头密布丛林，雪色留白衬出古寺萧瑟，气象雄浑肃穆。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1186.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

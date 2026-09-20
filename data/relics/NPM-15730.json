@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003142N000000007"
  },
- "summary": null,
+ "summary": "《元王淵畫花卉》冊之一開，舊題元王淵繪〈牽牛〉，寫牽牛花蔓繞開花之態，屬草花寫生冊頁小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -29,7 +29,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15730.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

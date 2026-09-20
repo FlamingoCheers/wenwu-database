@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000077N000000000"
  },
- "summary": null,
+ "summary": "宋代赵伯驹《停琴摘阮图》轴。绘文人停琴而听阮咸弹奏之景，人物闲雅、场景清幽，属文人音乐雅集题材，设色雅丽精工。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1330.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

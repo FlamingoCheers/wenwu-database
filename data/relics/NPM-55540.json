@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004151N000000000"
  },
- "summary": null,
+ "summary": "仿漢玉印，獸紐，印文「王壽」。漢印方正渾穆，為後世篆刻典範，此印仿漢制而作，屬好古擬古之作，時代不詳。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -41,5 +41,6 @@
  "raw_ref": "raw/npm/detail_55540.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

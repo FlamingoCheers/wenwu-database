@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001550N000000000"
  },
- "summary": null,
+ "summary": "此段为《豳风图》卷第五段，王振鹏以精细笔致描绘豳风诗意中的人物场景，柯九思书经文相配，书画合璧，成系列分段之制。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17764.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

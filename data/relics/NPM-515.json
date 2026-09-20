@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001247N000000001"
  },
- "summary": null,
+ "summary": "此幅為《煙雲集繪》冊中一開，舊題宋徽宗〈翠壑紅橋〉，畫蒼翠山壑間朱橋跨水，山水相映成趣，屬冊頁山水小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_515.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

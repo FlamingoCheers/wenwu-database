@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000014N000000000"
  },
- "summary": null,
+ "summary": "《清乾隆三希堂法帖》第十四冊之一，摹刻北宋米芾書尺牘。米芾為宋代書法大家，尺牘小字尤見意趣，此冊經摹刻上石、拓印流傳。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21340.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷005180N000000001"
  },
- "summary": null,
+ "summary": "玉頂雕螭虎啣芝紋，螭虎與靈芝枝蔓相互纏繞，刀法渾樸有力。螭虎啣芝寓長壽祥瑞，此類玉頂原為器物蓋鈕，元代玉雕中屬常見題材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_47556.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

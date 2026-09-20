@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001270N000000008"
  },
- "summary": null,
+ "summary": "此幅為《集珍壽古》冊中一開，舊題元喬仲常〈閒庭嬰戲〉，畫庭園中孩童嬉戲，情態天真，屬嬰戲題材冊頁小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_5152.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005094N000000000"
  },
- "summary": null,
+ "summary": "元代玉龍紋飾件，圓形小片，上琢龍紋。龍為祥瑞之象，以之琢飾可見鄭重之意，此件或為帽頂、帶飾之類的構件。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_56355.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005869N000000000"
  },
- "summary": null,
+ "summary": "玉雕持荷童子，童子手執荷葉，題材源於蓮花化生童子的佛教故事，宋元以來廣為流行，寓連生貴子之意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57010.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000010N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第四册，收传唐代颜真卿楷书《朱巨川告身》。告身为朝廷任命官员的文书，此帖楷法端严庄重。摹刻上石，墨拓装册，供临习鉴赏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29610.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

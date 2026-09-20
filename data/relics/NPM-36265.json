@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016077N000000000"
  },
- "summary": null,
+ "summary": "定窯牙白印花石榴碗，宋代製品。敞口弧壁，胎白釉潤。器內模印石榴紋，榴花榴實相映，寓多子祥瑞之意，印紋工整細膩，牙白釉溫潤，紋樣吉祥雅緻。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36265.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

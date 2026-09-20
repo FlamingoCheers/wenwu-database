@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001245N000000004"
  },
- "summary": null,
+ "summary": "宋人合璧畫冊中一開，傳趙伯駒〈柳陰待琴〉，畫柳陰下待琴之景，設色精雅，具趙氏青綠山水風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_437.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

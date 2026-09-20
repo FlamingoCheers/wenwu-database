@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000718N000000000"
  },
- "summary": null,
+ "summary": "五代前蜀黄筌《翠竹仙禽图》卷。黄筌为五代花鸟画大家，画风精工富丽，与徐熙并称「黄家富贵」。此卷以翠竹仙禽入画，属传统花鸟画科，设色精雅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_30187.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

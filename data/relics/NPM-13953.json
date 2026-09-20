@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000080N000000000"
  },
- "summary": null,
+ "summary": "《柳溪春舫图》轴，题为马和之作。绘春日柳溪泛舟小景，用笔如兰叶描，线条流利飘逸，画面清和疏朗，具马和之典型画格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13953.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

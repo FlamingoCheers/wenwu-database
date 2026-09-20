@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000033N000000001\n more\n \n 贈帖000033N000000002\n 贈帖000033N000000003\n 贈帖000033N000000004\n 贈帖000033N000000005\n 贈帖000033N000000006"
  },
- "summary": null,
+ "summary": "《秘阁帖》第九册之一，收唐褚遂良临王羲之《黄庭经》。褚遂良临晋帖笔意遒婉，此经为道教名迹，借唐贤临本与刻帖流传。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_28094.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

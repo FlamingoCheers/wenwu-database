@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000091N000000035\n more\n \n 贈帖000091N000000036"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第十四册收宋米芾《值雨帖》，为值雨时所致书问。行书疾徐有致，锋势郁勃，刻帖传其大概。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22804.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

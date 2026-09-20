@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000246N000000017"
  },
- "summary": null,
+ "summary": "《宋人法書（四）》冊之一開，張即之向「尊堂太安人」致意問候的尺牘，太安人為對他人母親的敬稱，屬宋代文人書信書跡。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15535.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

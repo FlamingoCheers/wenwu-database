@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001239N000000001"
  },
- "summary": null,
+ "summary": "《唐宋元画集锦》册一页，题“唐李昭道连昌宫图”。传为唐代李昭道所绘，写连昌宫苑楼台之盛，属青绿界画山水传统。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15018.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

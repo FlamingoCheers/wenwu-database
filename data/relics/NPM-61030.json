@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷018136N000000000"
  },
- "summary": null,
+ "summary": "白瓷水盂，小口鼓腹，為文房貯水之具，供研墨添水所用，白釉素淨，屬宋代文房瓷器小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_61030.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

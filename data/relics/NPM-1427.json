@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001102N000000000"
  },
- "summary": null,
+ "summary": "此卷为元赵淇、周伯琦《相鹤图经》合璧，图写鹤之形相，文为《相鹤经》。相鹤为古人品鉴仙禽之学，书画合装成卷。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_1427.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

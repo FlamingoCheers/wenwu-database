@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014357N000000000"
  },
- "summary": null,
+ "summary": "宋白瓷碗，內壁模印蓮塘游魚紋，蓮葉舒展、游魚靈動，印花清晰規整。器形圓正，釉色白潤，兼具實用與觀賞之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_37688.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

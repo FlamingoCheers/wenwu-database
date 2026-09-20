@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014542N000000000"
  },
- "summary": null,
+ "summary": "定窑白瓷大碗，碗形硕大，器内划花饰莲花纹，刀法流畅洒脱，花瓣舒展自然。牙白釉色温润如脂，划花在釉下若隐若现，体现定窑素雅风格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29565.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

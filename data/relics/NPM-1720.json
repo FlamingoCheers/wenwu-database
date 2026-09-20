@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "中畫000144N000000000"
  },
- "summary": null,
+ "summary": "此卷题宋代燕文贵摹唐代王维（摩诘）《江干雪霁图》，描绘江畔雪后初晴景色，寒林坡岸皆被积雪，水墨清润，意境萧疏，承王维水墨雪景一脉。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_1720.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

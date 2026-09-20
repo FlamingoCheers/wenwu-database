@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000240N000000012"
  },
- "summary": null,
+ "summary": "《宋贤书翰》册中一开，为叶梦得尺牍。叶梦得为两宋之际名臣、学者。此札为书信墨迹，笔意从容平实，是研究宋代士大夫书风与交游的实物资料。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1054.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000245N000000012"
  },
- "summary": null,
+ "summary": "虞允文书札子，《宋人法书》册之一。虞允文为南宋名臣，此札行书端谨从容，属士大夫进呈文书，兼具人物史料与尺牍书风价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1393.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

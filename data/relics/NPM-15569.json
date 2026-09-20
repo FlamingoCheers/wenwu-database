@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001242N000000004"
  },
- "summary": null,
+ "summary": "《集古名繪》冊之一開，舊題宋李唐〈關山行旅〉，寫關山險峻、行旅跋涉之景，屬宋代山水行旅畫題。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_15569.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

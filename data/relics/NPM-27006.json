@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷017450N000000000"
  },
- "summary": null,
+ "summary": "南宋官窯青瓷盤，敞口淺壁，圈足，通施青釉，釉色溫潤靜穆，或帶開片紋理。官窯為宋代宮廷窯場，此類盤供宮中陳設日用之需。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_27006.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

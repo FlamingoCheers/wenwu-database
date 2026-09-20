@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004341N000000000"
  },
- "summary": null,
+ "summary": "元代玉犬小件，犬形簡練，體態自然。犬守戶忠義，入玉甚早，此件附木座，為元代動物玉雕的生動例證。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55709.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

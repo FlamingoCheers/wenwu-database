@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000133N000000000"
  },
- "summary": null,
+ "summary": "此卷集宋代苏、黄、米、蔡四家书迹合装，四家为北宋书法代表，行书风格或丰腴跌宕、或纵横奇崛、或八面出锋、或端庄温厚，合观可见宋人尚意书风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_17604.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

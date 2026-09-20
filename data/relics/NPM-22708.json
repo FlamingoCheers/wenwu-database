@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000009N000000011\n more\n \n 故帖000009N000000012\n 故帖000009N000000013"
  },
- "summary": null,
+ "summary": "《晋唐小楷》为汇刻晋唐名家小楷之丛帖，此为宋拓本第二册，收唐颜真卿《麻姑坛记》。颜体小楷浑厚端庄，经刻拓传形，为楷法研习之范本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22708.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

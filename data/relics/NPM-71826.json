@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉002166N000000001"
  },
- "summary": null,
+ "summary": "元代玉雕盖顶，琢鹿衔灵芝纹。鹿与灵芝皆传统祥瑞意象，寓福寿绵长，纹样立体生动。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_71826.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

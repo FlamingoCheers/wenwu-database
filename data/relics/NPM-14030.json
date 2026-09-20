@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001251N000000009"
  },
- "summary": null,
+ "summary": "赵伯驹为南宋宗室画家，擅青绿山水。此页以西园雅集为题，绘文人雅士会于园林、挥毫品鉴的情景。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_14030.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷017851N000000002"
  },
- "summary": null,
+ "summary": "冊頁為中國書畫常見的裝裱形制，將小幅書畫分葉裝次成冊，便於翻閱庋藏。此件屬北宋冊頁，關於內容與用途的資訊有限，尚待進一步考查。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_47918.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

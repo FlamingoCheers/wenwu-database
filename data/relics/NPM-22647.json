@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000011N000000003\n more\n \n 故帖000011N000000004\n 故帖000011N000000005"
  },
- "summary": null,
+ "summary": "宋拓《至道御书法帖》第二册。至道为宋太宗年号，此帖以御书为摹刻内容，拓本剪裱成册，墨色沉古，可资帖学鉴考。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22647.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

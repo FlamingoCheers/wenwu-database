@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003752N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋李迪《画三顾图》，绘刘备三顾茅庐访诸葛亮故事。历史故事为人物画传统题材，此轴可见宋人叙事画风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14283.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

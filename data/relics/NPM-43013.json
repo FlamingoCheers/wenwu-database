@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "購瓷000136N000000000"
  },
- "summary": null,
+ "summary": "元代徐州窯黑彩大罐，器形高大，飾黑彩紋樣，具北方民窯質樸畫風，為貯盛用器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43013.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

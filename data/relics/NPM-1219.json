@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000106N000000000"
  },
- "summary": null,
+ "summary": "宋代李嵩《听阮图》轴。李嵩为南宋院画名家，人物界面皆工，此轴绘庭园中弹阮聆听之乐，情态闲雅、设色精丽，属文人清赏题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1219.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

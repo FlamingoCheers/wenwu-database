@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003580N000000003"
  },
- "summary": null,
+ "summary": "《宋元明集绘》册中一开，题宋代文同作琅玕挺秀。琅玕喻指翠竹，文同为墨竹大家，主张胸有成竹而后落笔，此帧写竹枝挺秀，笔意劲健。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_15313.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

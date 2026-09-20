@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷011860N000000000"
  },
- "summary": null,
+ "summary": "定窯白瓷葵花式碗，宋代製品。口沿分瓣如花，器內飾雙魚紋，雙魚首尾相逐，游姿生動，寓意吉慶有餘，紋樣細膩清晰，白釉溫潤，為定窯碗類的吉祥題材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36505.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

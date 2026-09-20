@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003486N000000014"
  },
- "summary": null,
+ "summary": "本幅选自《名繪薈萃》册，题元代王渊作，绘荔枝果实，枝叶掩映、果实饱满，属花卉蔬果题材册页小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15884.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

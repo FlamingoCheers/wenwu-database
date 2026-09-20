@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000087N000000000"
  },
- "summary": null,
+ "summary": "宋代李迪《风雨归牧》立轴，写风雨中牧童骑牛归去之景，属人物走兽题材。李迪为南宋画院名家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_918.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001113N000000002"
  },
- "summary": null,
+ "summary": "舊題唐刁光胤《寫生花卉》冊之一，繪枯樹五羊、磐陀流水，羊態安閒，構景蕭疏有致，兼寓吉祥平安之意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_3786.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

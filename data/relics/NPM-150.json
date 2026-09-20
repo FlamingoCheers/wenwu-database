@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001269N000000003"
  },
- "summary": null,
+ "summary": "《宋元集绘》册一页，宋马远《寒香诗思》。以寒梅发兴，写文人赏梅觅句之思，属南宋院体小品，意境清逸。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_150.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

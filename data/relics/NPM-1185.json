@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000071N000000000"
  },
- "summary": null,
+ "summary": "宋代晁补之《老子骑牛图》轴。取老子乘青牛出关典故入画，人物衣纹简劲、意趣古拙，属文人意趣的道释人物题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1185.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001224N000000016"
  },
- "summary": null,
+ "summary": "此册为《宋高宗书孝经马和之绘图》中〈丧亲章〉的书法部分，传为宋高宗小楷书写的《孝经》经文。小楷端凝秀雅，与马和之绘图合为一册，为南宋宫廷书画名迹。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_294.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

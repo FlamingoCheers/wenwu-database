@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001024N000000000"
  },
- "summary": null,
+ "summary": "明陳汝言《喬木山莊圖》卷，以水墨描繪喬木環抱中的山莊景致，屋舍掩映、意境清幽，承襲元末明初文人山水畫傳統。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_3658.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

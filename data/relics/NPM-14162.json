@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001808N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋徽宗《花鸟》，绘花枝禽鸟之态。徽宗朝院体花鸟崇尚写生，勾勒精细、意趣雅逸，此轴可见宋代院体花鸟画的传统风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14162.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

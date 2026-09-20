@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000170N000000000"
  },
- "summary": null,
+ "summary": "清乾隆敕刻《三希堂法帖》第十三册收宋黄庭坚《糟姜帖》。此帖为黄庭坚尺牍，帖名取自所涉糟姜之事，书法为其典型行书面貌，经摹石拓印，赖以流传。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21806.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

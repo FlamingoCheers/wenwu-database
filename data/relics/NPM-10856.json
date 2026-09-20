@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003462N000000006"
  },
- "summary": null,
+ "summary": "《宋人绘珍片玉》册中一开，为黄居寀《含桃绶带》。“含桃”即樱桃，绶带为瑞鸟。图写樱桃与绶鸟相映成趣，属“黄家富贵”一路的精谨设色花鸟。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_10856.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

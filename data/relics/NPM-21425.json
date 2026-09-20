@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000166N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第九冊之一，摹刻北宋蔡襄與安道侍郎書。帖屬致僚友之問候書翰，經摹勒上石、捶拓成冊，存蔡書端勁之態。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21425.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

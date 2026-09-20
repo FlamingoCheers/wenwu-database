@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅000174N000000000"
  },
- "summary": "圓鏡，橋鈕。鏡背梵文幾為銅鏽所掩。",
+ "summary": "元代铜铸圆镜，桥形钮，镜背铸梵文纹样，纹饰几为铜锈所掩。梵文入镜与佛教信仰相关，是元代铜镜中具宗教意涵的品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_7101.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

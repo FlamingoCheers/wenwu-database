@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000240N000000010"
  },
- "summary": null,
+ "summary": "《宋贤书翰》册中一开，为韩彦质致大县宣教尺牍。此札为士大夫往还书信，上款具职衔称谓，措辞谨敬，格式合于宋代书仪，可资考察当时交往常态。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1051.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

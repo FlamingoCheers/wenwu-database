@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "贈銅000195N000000000"
  },
- "summary": null,
+ "summary": "铜铸菩萨半跏像，半跏为一足盘起、一足垂下之坐式，姿态闲适，属佛教造像之一式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_24591.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

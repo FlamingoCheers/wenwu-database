@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000077N000000000"
  },
- "summary": null,
+ "summary": "此卷为宋张即之书《李衎墓志铭》。张即之书法以大字楷书著称，笔力遒劲，此卷墓志书迹可供考察其楷书面目。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1425.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

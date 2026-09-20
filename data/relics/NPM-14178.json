@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001828N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋苏汉臣《戏婴图》，绘孩童嬉戏情态。苏汉臣以婴戏题材著称，笔下小儿天真烂漫，为宋代风俗画名目。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14178.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000977N000000000"
  },
- "summary": null,
+ "summary": "此卷题“唐杨昇画山水”，传为唐代画家杨昇所作，属早期山水画传本，画史所载杨昇作品多与青绿设色传统相关。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14733.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

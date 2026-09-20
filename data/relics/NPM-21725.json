@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000163N000000000"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第六册所收宋高宗书《千字文》刻本。千字文为历代习书范本，高宗书法出入二王，书此笔法圆熟精能，足见功力。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21725.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000056N000000000"
  },
- "summary": null,
+ "summary": "题“唐褚遂良临王献之飞鸟帖”卷。传为褚遂良临写王献之《飞鸟帖》，属唐人临摹晋人法帖传统，可窥二王书迹流传之绪。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14816.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

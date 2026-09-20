@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000316N000000000"
  },
- "summary": null,
+ "summary": "此軸為元代陸廣〈仙山樓觀〉，畫仙山雲表間樓觀隱現，屬山水樓閣題材立軸，取道家仙山瓊閣的想像意象。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_535.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

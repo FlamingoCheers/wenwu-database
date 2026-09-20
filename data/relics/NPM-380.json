@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001244N000000007"
  },
- "summary": null,
+ "summary": "《宋元名繪》冊中一開，舊題宋崔白《四瑞圖》，繪祥瑞禽物薈萃一圖，筆法生動，寓太平嘉瑞之慶，屬宋代寫生花鳥畫。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_380.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

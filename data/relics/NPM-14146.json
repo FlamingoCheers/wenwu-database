@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001548N000000000"
  },
- "summary": null,
+ "summary": "此卷为书画合璧之作，题称李公麟绘九歌图，米芾书楚辞辞句，图文相配，为经典题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14146.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

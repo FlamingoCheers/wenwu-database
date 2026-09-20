@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉003717N000000000"
  },
- "summary": null,
+ "summary": "宋代玉嬰小件，嬰孩體態圓潤，琢工簡淨。童子玉雕盛行於宋元，寄托祈子納福的心願，是宋代世俗玉雕的代表品類。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55416.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

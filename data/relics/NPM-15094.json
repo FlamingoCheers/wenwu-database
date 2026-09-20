@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003460N000000002"
  },
- "summary": null,
+ "summary": "《唐宋元明集绘》册中一开，题五代后蜀黄筌作山禽得子。黄筌以精谨富丽的花鸟画著称，此帧写山禽育雏，翎毛工致，得黄家富贵一格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15094.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

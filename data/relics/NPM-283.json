@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000259N000000011"
  },
- "summary": null,
+ "summary": "《元人旧迹》册之一，收元代祖瑛所书《锦筝鸣》诗。诗题取乐声意象，书迹存元人笔意，为汇辑元人墨迹的册页之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_283.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

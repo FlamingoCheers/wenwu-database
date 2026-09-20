@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001266N000000009"
  },
- "summary": null,
+ "summary": "此幅為《宋元名人花鳥合璧》冊中一開，舊題唐邊鸞〈秋實山禽〉，畫秋日果實與山禽棲聚，屬花鳥冊頁小品。邊鸞為唐代花鳥畫名家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/npm/detail_5141.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

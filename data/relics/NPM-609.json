@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000285N000000000"
  },
- "summary": null,
+ "summary": "此軸為元代王蒙所繪〈具區林屋〉，具區為太湖古稱，畫太湖林屋山水，構景繁密，筆墨蒼潤，屬元代文人山水傳統。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_609.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

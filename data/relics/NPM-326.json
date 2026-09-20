@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001240N000000008"
  },
- "summary": null,
+ "summary": "《藝苑藏真》冊（上）之一開，傳為宋代趙伯驌所繪〈風檐展卷〉。畫寫文士於風檐下展卷讀書的情景，融合屋宇人物與山水景致，筆致精細，意境清雅，體現宋代文人閒適的生活意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_326.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

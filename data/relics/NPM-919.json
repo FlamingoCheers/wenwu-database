@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000107N000000000"
  },
- "summary": null,
+ "summary": "宋代李嵩《画罗汉》立轴，绘罗汉尊像，属道释人物画题材。李嵩为南宋画院名家，人物、界画兼善。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_919.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

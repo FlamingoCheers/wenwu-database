@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000112N000000000"
  },
- "summary": null,
+ "summary": "《秋江渔隐》轴，马远作。绘渔父隐卧船头、秋江空阔的景致，以简驭繁，人物神态安适入眠，为马远诗意小景的代表画题。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13962.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

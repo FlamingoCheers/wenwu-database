@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000150N000000002"
  },
- "summary": null,
+ "summary": "《宋吴说尺牍》册中一页，书札以“顿首上启”起首，为吴说与人往还书信，属宋人尺牍法书，行款具当时书仪之式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14820.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

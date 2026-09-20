@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003459N000000015"
  },
- "summary": null,
+ "summary": "《唐宋元明集绘》册中一开，题宋代李迪画羊。李迪善画走兽翎毛，此帧写羊只形神，皮毛渲染细腻，姿态安详生动。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15478.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

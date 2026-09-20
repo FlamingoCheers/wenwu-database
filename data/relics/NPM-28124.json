@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000034N000000020\n more\n \n 贈帖000034N000000021"
  },
- "summary": null,
+ "summary": "《秘阁帖》第十册之一，收唐柳公权书《奉荣帖》。柳公权楷书骨力遒劲，与颜真卿并称颜筋柳骨，此尺牍刻本可见其行书的端劲之风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_28124.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

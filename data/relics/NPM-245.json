@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000254N000000008"
  },
- "summary": null,
+ "summary": "《元人翰墨》册之一，元杨镒书《送清远渭上人序》，为赠上人之序文，属元人书翰册页。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_245.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

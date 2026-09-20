@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001851N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋钱选《三元送喜》。“三元”寓科举连捷之祥，画作以人物花卉写喜庆之意，属民俗吉祥题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14194.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

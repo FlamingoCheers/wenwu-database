@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000013N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第七册，收南宋张孝祥《泾川官居帖》。张孝祥为南宋词人、书家，状元及第，书迹为时人所重。此帖为居官时所作尺牍刻本，墨拓装册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29836.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

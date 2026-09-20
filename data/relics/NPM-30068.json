@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷000005N000000000"
  },
- "summary": null,
+ "summary": "宋代定窑白瓷碟，敞口浅壁，素面无纹，釉色牙白温润。定窑以精致白瓷著称，此类小碟造型规整，或作日常盛器，简素之中见器用之美。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_30068.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001265N000000011"
  },
- "summary": null,
+ "summary": "《历代名绘》册之一开，题宋代燕肃《山居图》，绘山居幽栖的景致，属山水题材小品。燕肃为北宋文人画家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14614.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

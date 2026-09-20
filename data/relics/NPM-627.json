@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000255N000000007"
  },
- "summary": null,
+ "summary": "此頁為〈元人翰墨〉冊之一開，收元末學者陶宗儀所書〈詩經〉五章，陶氏博雅工書，此件以書法鈔錄經典，見元人書經傳統。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_627.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

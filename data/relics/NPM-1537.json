@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中書000016N000000000"
  },
- "summary": null,
+ "summary": "此轴为宋代黄庭坚书迹。黄庭坚为宋四家之一，行草以中宫紧收、长撇大捺著称。此轴笔势开张跌宕，墨色沉劲，具典型山谷书风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1537.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

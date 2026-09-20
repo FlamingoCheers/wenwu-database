@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000976N000000000"
  },
- "summary": null,
+ "summary": "此段为传唐代卢鸿《草堂十志图》卷中《幂翠庭》一景。幂翠庭谓翠色覆盖的庭院，图中草木葱茏、庭轩掩映，写隐者居游之境，为草堂十景诗意画之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_17154.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

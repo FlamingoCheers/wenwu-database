@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000036N000000000"
  },
- "summary": null,
+ "summary": "兰亭八柱为清乾隆间摹刻八种兰亭书迹之胜事，此帖为其拓本装册，以八卦字编次，此册标'震'字。右军兰亭遗韵，于斯可味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_22686.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

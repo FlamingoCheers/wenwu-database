@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000088N000000000"
  },
- "summary": null,
+ "summary": "此卷為元人趙肅所書其母衛宜人墓誌，誌文記述逝者世系行誼。墓誌書法卷軸既是元人法書，亦兼具傳世文獻價值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_528.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

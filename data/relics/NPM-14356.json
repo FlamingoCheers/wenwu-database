@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001271N000000001"
  },
- "summary": null,
+ "summary": "此册页出自《集珍寿古》，为元王振鹏《仙苑祥云》，绘仙苑楼观、祥云缭绕之境。王振鹏以界画著称，楼台工细入神。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_14356.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000133N000000000"
  },
- "summary": null,
+ "summary": "《三蔬图》轴，题为钱选作。写蔬菜三种，蔬果写生属花鸟画分支，钱选画风古雅工致，于寻常菜蔬中见文人清赏之味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_13970.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

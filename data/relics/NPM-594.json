@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000990N000000000"
  },
- "summary": null,
+ "summary": "此卷舊題北宋張擇端所繪〈清明易簡圖〉，以長卷描寫都城市井商旅、舟車橋梁諸景，屬風俗畫長卷。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_594.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

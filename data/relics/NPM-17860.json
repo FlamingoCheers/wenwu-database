@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004750N000000000"
  },
- "summary": null,
+ "summary": "玉劍璏屬古代玉具劍部件，長方形制，附於劍鞘以便穿帶佩掛。此件為明代製品，形制規整，玉質瑩潤，反映仿古玉劍飾工藝的延續。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_17860.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

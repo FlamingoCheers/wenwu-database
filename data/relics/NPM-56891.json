@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉005720N000000000"
  },
- "summary": null,
+ "summary": "金代玉雕鵝戲荷葉，鵝穿行於荷葉之間，正是「春水玉」的經典圖景。遼金以春水秋山為題的玉器別具塞外風情，此件構圖生動，琢工嫻熟。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_56891.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

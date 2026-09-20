@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000818N000000000"
  },
- "summary": null,
+ "summary": "五代后梁荆浩《渔乐图》轴。荆浩为北方山水画派开创者，此轴绘山水间渔乐之景，皴法谨严、气象雄大，具太行山水的雄峻气质。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1188.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

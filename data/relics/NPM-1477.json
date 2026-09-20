@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000844N000000000"
  },
- "summary": null,
+ "summary": "宋马远《举杯玩月》立轴。写文士月下举杯邀饮之趣，马远为南宋院体山水大家，以边角构图与简劲笔墨著称。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1477.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

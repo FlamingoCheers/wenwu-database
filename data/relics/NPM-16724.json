@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000095N000000000"
  },
- "summary": null,
+ "summary": "《快雪堂法帖》丛帖之一。此册摹刻唐代颜真卿《寒食帖》，帖名涉寒食节令，属尺牍书迹；与苏轼《黄州寒食帖》非同一书。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_16724.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

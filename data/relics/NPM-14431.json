@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001002N000000000"
  },
- "summary": null,
+ "summary": "题宋末元初钱选《画牡丹》卷，绘牡丹盛放、枝叶扶疏之态，属花卉题材画卷。钱选画风清雅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14431.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

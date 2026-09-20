@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001247N000000003"
  },
- "summary": null,
+ "summary": "此册页出自《烟云集绘》第三册，为宋赵伯驹《仙山楼阁》，绘仙山琼阁之境。赵伯驹为青绿山水名家，此页可见其精丽画风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_14368.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

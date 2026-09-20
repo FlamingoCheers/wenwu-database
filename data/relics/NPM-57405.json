@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉006296N000000000"
  },
- "summary": null,
+ "summary": "玉質筆洗作桃實形，桃寓壽慶，器面鐫御製詩文，筆洗為文房洗筆之具，造型別緻，融實用與雅玩於一體。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_57405.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

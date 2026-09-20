@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001247N000000013"
  },
- "summary": null,
+ "summary": "《煙雲集繪》第三冊之一开，题宋代马远《松下繁梅》，绘苍松之下梅花繁盛之景，属花木题材小品。马远为南宋院体山水名家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_14379.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

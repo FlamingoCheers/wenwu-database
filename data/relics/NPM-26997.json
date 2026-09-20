@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000040N000000000"
  },
- "summary": null,
+ "summary": "《墨妙軒法帖》第四冊所收，宋米芾尺牘《制置發運左司學士》摹刻本。米芾行書跌宕多姿，尺牘尤見率意天然之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_26997.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

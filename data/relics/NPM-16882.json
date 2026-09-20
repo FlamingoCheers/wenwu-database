@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故文000539N000000001"
  },
- "summary": null,
+ "summary": "木质盒盖一件，盖上有御制诗，当为某器匣盒之盖，原配何器已无从确考，形制信息有限。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_16882.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

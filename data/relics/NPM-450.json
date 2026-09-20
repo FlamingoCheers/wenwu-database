@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000228N000000000"
  },
- "summary": null,
+ "summary": "元代高克恭〈林巒烟雨圖〉軸，寫林巒煙雨迷濛之景，墨韻蒼茫淋漓，承米氏雲山餘緒，可見其江南山水風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_450.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

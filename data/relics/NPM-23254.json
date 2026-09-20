@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000101N000000030\n more\n \n 贈帖000101N000000031\n 贈帖000101N000000032"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第二十四册之一，收录元饶介书七言律诗三首，摹勒上石拓印成册，见元末书家风致。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_23254.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

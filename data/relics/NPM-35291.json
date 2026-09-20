@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016592N000000000"
  },
- "summary": null,
+ "summary": "白瓷洗，宋代製品。敞口，淺弧壁，下承圈足。胎骨堅薄，通體施白釉，釉色勻淨瑩潤，不施紋飾，以素雅見長，為文房或日用常見器形。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35291.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

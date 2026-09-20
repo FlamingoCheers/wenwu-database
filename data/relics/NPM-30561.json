@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016825N000000000"
  },
- "summary": null,
+ "summary": "宋代白瓷杯，印花螭纹装饰，螭龙蜿蜒灵动，具仿古铜器纹样遗风。此类小杯胎薄体轻，釉面洁白，既供实用，亦堪把玩，体现宋人尚古雅趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_30561.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

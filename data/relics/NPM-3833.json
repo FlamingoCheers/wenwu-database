@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001123N000000012"
  },
- "summary": null,
+ "summary": "明徐賁《獅子林圖》冊之一「冰壺井」，繪園中古井，取「冰壺」清淨之意，井欄石理與草木相映，筆墨簡潔。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_3833.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

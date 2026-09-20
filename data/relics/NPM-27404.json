@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014455N000000000"
  },
- "summary": null,
+ "summary": "宋定窯白瓷印花牡丹蓮花紋盤，形制規整，胎質堅薄，內壁印花紋飾層次分明，展現定窯模印成型之精湛技藝。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_27404.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

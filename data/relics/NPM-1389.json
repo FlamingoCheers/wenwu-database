@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001831N000000000"
  },
- "summary": null,
+ "summary": "《端阳戏婴图》立轴，题为苏焯作。描绘端午时节婴孩嬉戏情景，承宋代婴戏画传统，人物生动，富节令风俗趣味。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1389.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

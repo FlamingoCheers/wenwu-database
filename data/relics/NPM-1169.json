@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001517N000000000"
  },
- "summary": null,
+ "summary": "元代王渊《海棠山鸟》卷。绘春日海棠花枝栖鸟之景，花卉娇丽、禽鸟灵动，属折枝花卉翎毛题材，承宋院体法度而有元人笔意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1169.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

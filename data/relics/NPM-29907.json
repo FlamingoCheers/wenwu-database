@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷007233N000000000"
  },
- "summary": null,
+ "summary": "宋代青白瓷碗，釉色青白淡雅，碗内模印凤凰牡丹纹，寓意富贵吉祥。青白瓷又称影青，胎薄釉润，纹样在釉下隐现，是宋元时期南方窑场的代表性品类。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29907.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

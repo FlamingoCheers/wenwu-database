@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014598N000000000"
  },
- "summary": null,
+ "summary": "宋哥窯月白圓碟。碟作圓形，敞口淺腹，通體施月白釉，釉色恬淡溫潤。哥窯以開片釉著稱，此碟造型簡潔，釉面或現細紋開片，展現宋代名窯瓷器素雅靜謐的氣質。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_31833.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

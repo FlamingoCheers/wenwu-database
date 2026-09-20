@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001775N000000000"
  },
- "summary": null,
+ "summary": "五代后梁关仝《蜀山栈道图》轴。关仝师法荆浩，号称关家山水，此轴写蜀道栈阁盘纡于绝壁之景，山势峭拔、笔墨劲健，具北方山水雄峻之风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1202.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

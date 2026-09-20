@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016079N000000000"
  },
- "summary": null,
+ "summary": "元代定窯瑩白印花花卉碗，敞口，弧壁，圈足。胎質堅細，釉色瑩白明亮。器內模印花卉紋，花葉舒展，紋樣規整豐美，印工細膩，為定窯印花白瓷的延續樣式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36267.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

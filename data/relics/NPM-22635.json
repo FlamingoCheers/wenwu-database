@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000085N000000003\n more\n \n 贈帖000085N000000004\n 贈帖000085N000000005\n 贈帖000085N000000006\n 贈帖000085N000000007"
  },
- "summary": null,
+ "summary": "《土母帖》为宋李建中尺牍名迹，清乾隆间收入《三希堂法帖》第八册摹刻。其行书结体遒媚、笔意温雅，为宋初书风之代表。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22635.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

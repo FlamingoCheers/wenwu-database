@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004597N000000000"
  },
- "summary": null,
+ "summary": "宋代玉辟邪，作傳統瑞獸之形，威而不猛。辟邪之名取驅邪納吉，此類玉獸承漢風遺意，可鎮案頭，亦可隨身佩帶。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55938.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

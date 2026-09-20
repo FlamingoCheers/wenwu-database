@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001239N000000002"
  },
- "summary": null,
+ "summary": "《唐宋元画集锦》册一页，五代徐熙《离支伯赵》。“离支”即荔枝，“伯赵”为伯劳古称，绘荔枝枝头伯劳栖止，属花鸟写生题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15023.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

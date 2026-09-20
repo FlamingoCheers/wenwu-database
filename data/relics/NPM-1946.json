@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000018N000000000"
  },
- "summary": null,
+ "summary": "宋拓《朱巨川告身》冊。告身為唐代任命官職的文書，此件傳為徐浩所書，楷法端厚，結體豐腴，是唐代官文書書跡的著名刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1946.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

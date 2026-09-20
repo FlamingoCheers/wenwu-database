@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000402N000000000"
  },
- "summary": null,
+ "summary": "元钱选作《昆虫》册，分绘诸种虫豸，写生精微，属元代草虫题材册页。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_24502.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

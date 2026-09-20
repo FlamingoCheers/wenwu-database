@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故文000462N000000001"
  },
- "summary": null,
+ "summary": "白玉一件，作薄片状，体量小巧。品名仅记材质，形制纹饰不详，当属素材，用途不明。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_16890.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

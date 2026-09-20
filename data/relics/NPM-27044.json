@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000008N000000000"
  },
- "summary": null,
+ "summary": "《平遠山房法帖》第二冊所收，宋黃庭堅尺牘摹刻本。山谷行書縱橫奇逸，中宮緊結而筆畫開張，尺牘可見其自然書風。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27044.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001240N000000012"
  },
- "summary": null,
+ "summary": "《藝苑藏真》冊（下）之一開，傳為宋代林椿所繪〈秋晴叢菊〉。畫寫秋日晴光下叢菊盛放之景，設色細膩，寫生傳神。林椿以精工花果翎毛著稱，此開屬宋代院體花鳥畫的精緻小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_333.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

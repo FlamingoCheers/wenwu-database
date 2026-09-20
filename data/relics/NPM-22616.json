@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000080N000000039\n more\n \n 贈帖000080N000000040\n 贈帖000080N000000041\n 贈帖000080N000000042\n 贈帖000080N000000043\n 贈帖000080N000000044\n 贈帖000080N000000045"
  },
- "summary": null,
+ "summary": "摹刻唐颜真卿《书朱巨川告身》。告身为朱巨川受官之任书，旧题颜真卿书，楷法端严，为唐代官文书书迹之传刻。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22616.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

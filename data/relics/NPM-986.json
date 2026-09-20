@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000236N000000012"
  },
- "summary": null,
+ "summary": "《宋四家真迹》册之一，收米芾书尺牘。元章行书沉着痛快、随手生变，此札虽简，点画顾盼生姿，可供临池参酌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_986.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

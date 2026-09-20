@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000246N000000024"
  },
- "summary": null,
+ "summary": "《宋人法書（四）》冊之一開，陸秀夫致「義山」的尺牘。陸秀夫為宋末名臣，此札屬宋代文人書信書跡。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15542.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

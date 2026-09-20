@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001245N000000005"
  },
- "summary": null,
+ "summary": "宋人合璧畫冊中一開，傳李唐〈策杖探梅〉，繪老者策杖尋梅之景，筆墨蒼勁，具南宋大家李唐風範。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_438.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

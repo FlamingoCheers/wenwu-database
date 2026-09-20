@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003480N000000012"
  },
- "summary": null,
+ "summary": "《集古名繪》冊之一開，舊題宋李公麟〈羅漢靈獸〉，繪羅漢與靈獸相伴，屬道釋人物一類冊頁小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15678.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003478N000000003"
  },
- "summary": null,
+ "summary": "《宋元明人合璧》册中一开，为马远《秋雁孤舟》。图写秋水寒沙间雁影舟踪，取边角之景而境界空阔，诗意盎然，是马远诗意小景的典型面貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_10905.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001265N000000005"
  },
- "summary": null,
+ "summary": "《历代名绘》册之一开，题宋代黄居寀《草虫》，绘草间虫豸的生动情态，属草虫题材小品。黄居寀为黄筌之子，承家学。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_14608.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

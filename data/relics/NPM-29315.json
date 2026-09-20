@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010714N000000000"
  },
- "summary": null,
+ "summary": "元代白瓷双耳扁壶，壶身模印龙凤纹，肩腹两侧置耳。扁壶器形扁圆，或受便于携行的生活方式影响。印花工艺规整，龙凤纹寓意祥瑞，体现元代制瓷风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29315.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

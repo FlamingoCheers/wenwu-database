@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅001103N000000000"
  },
- "summary": "缽，斂口，深腹，平底。全器素面無紋。",
+ "summary": "唐代铜钵，敛口，深腹，平底。通体素面无纹，器形浑圆简朴，为日常盛贮用器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_6705.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

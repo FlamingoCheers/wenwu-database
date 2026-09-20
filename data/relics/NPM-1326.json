@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000081N000000000"
  },
- "summary": null,
+ "summary": "宋代马和之《闲忙图》轴。马和之活动于南宋高宗朝，笔法飘逸，时称小蚂蟥描，此轴以闲忙为题写闲适情味，意趣萧散。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1326.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

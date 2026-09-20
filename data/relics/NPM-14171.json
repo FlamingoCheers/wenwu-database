@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001820N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋马和之《荷亭纳爽》，写夏日荷塘池亭、文人纳凉消暑之景。马和之用笔飘逸，人物山水古雅别致，为南宋院画名家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14171.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

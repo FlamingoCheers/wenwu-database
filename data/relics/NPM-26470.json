@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000004N000000000"
  },
- "summary": null,
+ "summary": "《快雪堂帖》第四册之一开，收宋苏轼《墨戏帖》摹刻，名以墨戏，可见文人以翰墨自娱的雅趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_26470.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

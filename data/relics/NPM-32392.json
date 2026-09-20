@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷012300N000000000"
  },
- "summary": null,
+ "summary": "宋青瓷葵口碟。碟作葵花式口，造型輕巧，通體施青釉，釉色勻淨溫潤。葵口為宋瓷常見的造型元素，取法自然花卉形態，此碟素雅無紋，展現宋代青瓷尚簡含蓄的美學風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_32392.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

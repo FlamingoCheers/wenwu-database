@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉001931N000000000"
  },
- "summary": null,
+ "summary": "元代玉環，器面雕螭紋。螭為傳說中的無角之龍，是歷代玉器慣見紋飾，宋元好古之風尤尚摹古螭紋，此環附木座，可佩可陳。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55312.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

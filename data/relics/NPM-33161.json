@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014718N000000000"
  },
- "summary": null,
+ "summary": "宋哥窯灰青圓碟。碟作圓形，通體施灰青釉，釉面開片紋理深淺交織，為哥窯標誌性特徵，足端或見鐵足之色。哥窯製品古樸靜穆，此碟造型簡練，釉色沉潛，深具宋瓷鑑賞意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -37,7 +37,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_33161.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

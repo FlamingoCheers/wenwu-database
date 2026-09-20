@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000118N000000000"
  },
- "summary": null,
+ "summary": "《垂裕阁法帖》（九）之一，收宋苏轼临怀素书。怀素为唐代草书大家，东坡以己意临之，笔势收敛而意趣自足，是临古书迹刻本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29021.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

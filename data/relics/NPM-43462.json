@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "贈瓷000431N000000000"
  },
- "summary": null,
+ "summary": "金代雕像磚，磚面模塑人物形象，輪廓簡練，為建築裝飾用磚，可見金代磚雕藝術的樸拙風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43462.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

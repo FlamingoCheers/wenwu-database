@@ -17,7 +17,7 @@
   "region": "中国台湾",
   "inventory_no": "贈瓷000045N000000000"
  },
- "summary": null,
+ "summary": "元代鐵斑雙耳八稜瓶，器身起八稜，肩置雙耳，釉面點綴鐵褐斑痕，暈散自然，頗具潑墨意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -32,7 +32,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43106.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

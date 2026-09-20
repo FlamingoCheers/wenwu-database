@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000094N000000015\n more\n \n 贈帖000094N000000016"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十七册收宋范成大《致养正监庙奉议尺牍》，受书人以官衔相称，属日常书问。行书温雅，摹刻略具其神。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22809.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

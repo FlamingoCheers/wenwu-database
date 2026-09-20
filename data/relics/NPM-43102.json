@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "贈瓷000041N000000000"
  },
- "summary": null,
+ "summary": "元代青白瓷雙耳瓶，頸肩間置雙耳，釉色青白瑩潤，造型挺秀端莊，屬青白釉系統的瓶類陳設器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_43102.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

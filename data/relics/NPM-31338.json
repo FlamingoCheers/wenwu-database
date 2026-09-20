@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷015876N000000000"
  },
- "summary": null,
+ "summary": "定窯白瓷花口洗，宋代製品。洗作花口造型，通體施牙白釉，釉色溫潤潔淨。洗為文房用具，可盛水洗筆。此器形制簡雅，釉質瑩潤，體現定窯白瓷以造型與釉色取勝的製作傳統。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_31338.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

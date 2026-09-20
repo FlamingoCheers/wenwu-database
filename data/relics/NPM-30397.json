@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷004297N000000000"
  },
- "summary": null,
+ "summary": "宋代白瓷梅花式碗，口沿与器身随梅花瓣形起伏，线条优美。造型摹拟自然花卉，别具匠心，白釉匀净莹润，为宋代花式瓷器中的雅致之作。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_30397.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

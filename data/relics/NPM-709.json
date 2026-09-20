@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫002013N000000000"
  },
- "summary": null,
+ "summary": "元代王蒙《花溪渔隐》轴。画溪山花岸间渔人隐居之景，构图繁密，笔墨苍润，为元人隐逸山水题材。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_709.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

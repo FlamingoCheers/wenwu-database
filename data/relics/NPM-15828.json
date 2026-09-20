@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003469N000000019"
  },
- "summary": null,
+ "summary": "《宋元名蹟》冊之一開，舊題宋馬遠〈觀瀑〉，寫高士臨流觀瀑之景，屬點景人物的邊角山水小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_15828.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

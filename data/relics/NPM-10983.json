@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003501N000000003"
  },
- "summary": null,
+ "summary": "《诸仙妙绘》册中一开，为宋徽宗《山茶鸲鹆》。图写山茶花畔鸲鹆栖枝，勾线严谨，设色浓丽，禽鸟情态生动，体现宣和体精工写生的院体作风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_10983.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001267N000000006"
  },
- "summary": null,
+ "summary": "《宋元人畫冊》之一開，傳宋崔白《桃溪鸜鵒》。崔白花鳥善寫自然野趣，此開繪桃溪畔鸜鵒翔鳴，筆法活脫，氣韻生動。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/npm/detail_18391.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

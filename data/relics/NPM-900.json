@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000235N000000008"
  },
- "summary": null,
+ "summary": "《宋四家墨宝》册中黄庭坚《书七言诗》，书七言诗一首，笔势开张，属宋四家法书册页。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_900.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

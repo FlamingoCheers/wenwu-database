@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004035N000000000"
  },
- "summary": null,
+ "summary": "宋代玉印，形制方正，體量小巧。印章以玉為之，堅致古雅，此印可為私印閒章之屬，兼具實用與文玩意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55467.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

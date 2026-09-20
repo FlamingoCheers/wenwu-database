@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001113N000000000\n more\n \n 故畫001113N000000B01"
  },
- "summary": null,
+ "summary": "《写生花卉》册，题唐代刁光胤作，以写生笔法描绘诸般花卉姿态，属花鸟画册页。刁光胤为唐末五代间花鸟画家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14388.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

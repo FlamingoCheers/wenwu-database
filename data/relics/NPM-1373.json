@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000245N000000008"
  },
- "summary": null,
+ "summary": "李纲书尺牍，《宋人法书》册中一开。李纲为两宋之际名臣，此牍以行书书写，笔意沉稳端谨，兼具书法观赏与文献参考价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1373.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

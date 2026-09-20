@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000241N000000010\n more\n \n 故書000241N000000011"
  },
- "summary": null,
+ "summary": "《宋贤笺牍》册之一，收宋人陈存呈提刑节制提领显文右司吏部劄子。受书人称谓具多重官衔，反映宋代官场文书体式，书写工整。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_974.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

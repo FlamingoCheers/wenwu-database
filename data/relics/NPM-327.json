@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001240N000000009"
  },
- "summary": null,
+ "summary": "《藝苑藏真》冊（上）之一開，傳為宋代馬和之所繪〈柳塘鴛戲〉。畫寫柳塘春水間鴛鴦嬉戲之景，筆法清潤，意境柔美。馬和之善以飄逸筆致作畫，此開屬宋代詩意畫小品一路。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,5 +36,6 @@
  "raw_ref": "raw/npm/detail_327.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

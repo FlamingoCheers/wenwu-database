@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000840N000000000"
  },
- "summary": null,
+ "summary": "《摹范宽庐山图》轴，题为江参作。江参善写江南千岩万壑之景，此轴传摹范宽庐山图意，笔墨湿润，可见宋人摹古与师承脉络。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1391.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

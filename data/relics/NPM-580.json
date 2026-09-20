@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001422N000000000"
  },
- "summary": null,
+ "summary": "此卷舊題宋徽宗寫生之作，寫生指對物寫照，徽宗畫院重視觀察寫實，此卷反映宋代寫生繪畫傳統。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_580.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001254N000000002"
  },
- "summary": null,
+ "summary": "《历代集绘》册之一开，题宋代崔白《柳阴戏鹅》，绘柳荫水滨群鹅嬉戏的情景，属翎毛题材小品。崔白为北宋花鸟画大家。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14513.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

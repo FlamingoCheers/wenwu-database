@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000006N000000000"
  },
- "summary": null,
+ "summary": "《洛神赋》为曹植名篇，咏洛水女神，为书家屡写之题材。此为宋高宗所书《洛神赋》刻本，见清乾隆敕刻《三希堂法帖》第六册，书法从容雅正。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21959.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

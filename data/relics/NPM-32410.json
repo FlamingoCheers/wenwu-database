@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷012323N000000000"
  },
- "summary": null,
+ "summary": "五代青瓷盤。敞口淺腹，通體施青釉，釉色青翠溫潤。五代承唐代製瓷傳統，青瓷燒造蔚為主流，此盤素面無紋，造型簡樸端整，可見當時青瓷的溫雅氣質。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_32410.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

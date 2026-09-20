@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000898N000000000"
  },
- "summary": null,
+ "summary": "夏珪山水轴。夏珪与马远并称“马夏”，善以水墨苍劲之笔写半边江山，此轴构图简练、意境悠远，具南宋院体山水风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14011.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

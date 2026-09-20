@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000904N000000005"
  },
- "summary": null,
+ "summary": "《宋蔡苏黄米四家书》册之一开，为苏轼致梦得秘校尺牍，书札率意自然，可见宋人翰墨往还之情谊。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_24845.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

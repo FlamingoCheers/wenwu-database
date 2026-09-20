@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000016N000000000\n more\n \n 故帖000016N000000B01"
  },
- "summary": null,
+ "summary": "宋拓《褚遂良法帖》册，集唐褚遂良书迹摹勒上石之宋代拓本，为研究初唐书法之重要丛帖。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_22957.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故玉004558N000000000"
  },
- "summary": null,
+ "summary": "元代瓦紐玉印，紐作覆瓦式，印文未刻，通體光素。瓦紐承漢印制度，素章溫潤含蓄，兼具印材與古制示範的價值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_55900.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

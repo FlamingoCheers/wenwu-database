@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷014475N000000000"
  },
- "summary": null,
+ "summary": "宋青白瓷劃花花卉紋碗，湘湖窯製品。釉色白中閃青，瑩潤如玉，碗內劃花花卉紋，線條流暢飄逸，屬景德鎮周邊窯場青白瓷系統。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_27423.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

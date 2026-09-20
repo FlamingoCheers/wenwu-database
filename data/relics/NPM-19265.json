@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈畫000301N000000000"
  },
- "summary": null,
+ "summary": "五代徐熙《芰荷》軸。繪水中芰荷叢生，荷葉舒展，墨筆寫意而氣格野逸，即畫史所稱「徐熙野逸」一路，開後世水墨花鳥先聲。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_19265.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

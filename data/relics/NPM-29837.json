@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000013N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第七册，收南宋朱熹《德门庆聚帖》。朱熹为南宋理学集大成者，书法沉着典雅。帖为尺牍刻本，帖名寓家门庆聚之意，墨拓装册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29837.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

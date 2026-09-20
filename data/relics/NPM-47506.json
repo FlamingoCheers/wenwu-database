@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷017447N000000001"
  },
- "summary": null,
+ "summary": "元代青瓷魚耳爐，爐身兩側貼飾魚形雙耳，通體施青釉，釉色溫潤靜穆。魚耳爐為宋元香爐的典型器型，造型古雅，供焚香陳設之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_47506.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

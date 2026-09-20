@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫002970N000000000"
  },
- "summary": null,
+ "summary": "元代王渊《三白图》立轴。王渊为元代花鸟画名家，此轴以“三白”为题，属其画迹之一，见元代绘画风貌。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_747.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

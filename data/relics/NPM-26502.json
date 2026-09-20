@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000005N000000000"
  },
- "summary": null,
+ "summary": "《快雪堂帖》第五册之一开，收宋米芾《宝晋斋帖》摹刻，宝晋斋为米芾庋藏晋人法书之斋名，此帖与之相关。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_26502.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

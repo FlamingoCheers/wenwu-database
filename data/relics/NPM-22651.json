@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000011N000000012\n more\n \n 故帖000011N000000013\n 故帖000011N000000014\n 故帖000011N000000015\n 故帖000011N000000016"
  },
- "summary": null,
+ "summary": "宋拓《至道御书法帖》第六册。帖以宋太宗至道年号为名，摹刻御书墨迹，拓本装册，书迹经刻拓而笔意犹存。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22651.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

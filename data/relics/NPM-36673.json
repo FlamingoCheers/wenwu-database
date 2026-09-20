@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷005434N000000000"
  },
- "summary": null,
+ "summary": "宋定窯白釉梅花式碗，以梅花為造型藍本，花瓣勻停，釉色潔白溫潤，燒製規整，體現宋人取法自然的器物審美。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36673.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

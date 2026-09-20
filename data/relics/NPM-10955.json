@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003494N000000006"
  },
- "summary": null,
+ "summary": "《墨林二妙》册中一开，为陈居中所绘雪景。图写雪后山川，寒林掩映，以留白写积雪之意，清寒之气可掬，承宋人雪景题材的传统作风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_10955.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

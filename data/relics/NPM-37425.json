@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010166N000000000"
  },
- "summary": null,
+ "summary": "宋定窯白瓷葵花式盤，盤口仿花朵分瓣，盤內模印花卉紋，紋樣清晰飽滿。胎薄釉白，屬定窯印花工藝的宴飲食器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_37425.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

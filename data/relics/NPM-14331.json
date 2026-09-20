@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001830N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋苏汉臣《画罗汉》，绘罗汉像。罗汉画重神态刻画，苏汉臣兼擅道释人物，此轴属人物画中佛道一门。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14331.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

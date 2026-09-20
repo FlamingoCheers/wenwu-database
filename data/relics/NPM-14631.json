@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001289N000000011"
  },
- "summary": null,
+ "summary": "《名绘集珍》册一页，宋吴炳《嘉禾草虫》。绘谷穗充实、草虫点缀，寓嘉谷丰成之意，属南宋院体花鸟草虫小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14631.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

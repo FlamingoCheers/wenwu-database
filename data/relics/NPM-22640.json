@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000085N000000022\n more\n \n 贈帖000085N000000023\n 贈帖000085N000000024"
  },
- "summary": null,
+ "summary": "清刻《三希堂法帖》第八册收宋富弼尺牍一通。富弼为北宋名相，此牍行笔简淡，具大臣从容之度，经摹刻上石以传。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22640.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

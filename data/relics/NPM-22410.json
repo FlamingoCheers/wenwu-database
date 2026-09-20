@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000104N000000007\n more\n \n 贈帖000104N000000008\n 贈帖000104N000000009\n 贈帖000104N000000010"
  },
- "summary": null,
+ "summary": "摹刻明俞和《前有尊酒行》。前有尊酒为乐府旧题，诗咏宴饮人生之慨。俞和为元末明初善书之士，此迹清劲流美，刻入丛帖传世。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22410.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

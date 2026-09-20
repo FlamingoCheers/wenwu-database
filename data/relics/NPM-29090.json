@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈拓000309N000000000"
  },
- "summary": null,
+ "summary": "此册为唐柳公权楷书《玄秘塔碑》墨拓剪裱本。碑记大达法师生平事迹，柳体楷书骨力遒劲、法度森严，是柳书代表作，历来为习楷典范。属于碑帖拓本类藏品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29090.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

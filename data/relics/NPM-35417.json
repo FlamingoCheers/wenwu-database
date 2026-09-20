@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購畫001297N000000000"
  },
- "summary": null,
+ "summary": "清代王素所繪貓冊頁，畫貓咪憨態可掬，毛髮以細筆勾寫，神態生動傳神，構圖簡潔，寓吉祥意趣，為清代動物畫小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35417.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

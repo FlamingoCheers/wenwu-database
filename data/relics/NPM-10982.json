@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003501N000000002"
  },
- "summary": null,
+ "summary": "《诸仙妙绘》册中一开，为赵昌画桃。赵昌为北宋花鸟画名家，以写生著称。图写鲜桃圆满，枝叶扶疏，敷色鲜活，可见北宋写生花鸟之精诣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_10982.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

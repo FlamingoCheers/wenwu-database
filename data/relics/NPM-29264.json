@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000009N000000000"
  },
- "summary": null,
+ "summary": "明《停云馆法帖》第三册，收唐代孙过庭《书谱》。《书谱》为书法理论名著，论述书体源流与用笔之道，草书精妙。此为摹刻拓本，剪裱装册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29264.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

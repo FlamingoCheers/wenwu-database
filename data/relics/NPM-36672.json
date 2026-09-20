@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷005433N000000000"
  },
- "summary": null,
+ "summary": "宋定窯白釉梅花式碗，器形仿梅花瓣式，弧壁淺圈足，釉面牙白瑩潤，造型娟秀雅緻，是定窯白瓷中富巧思的仿生造型碗器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_36672.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

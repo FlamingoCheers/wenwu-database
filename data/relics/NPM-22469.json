@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000086N000000015\n more\n \n 贈帖000086N000000016"
  },
- "summary": null,
+ "summary": "摹刻宋蔡襄《远蒙帖》。此为蔡襄尺牍之一，行笔从容有度，书风温雅，刻入《三希堂法帖》第九册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22469.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

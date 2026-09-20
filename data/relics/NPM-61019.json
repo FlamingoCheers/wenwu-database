@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷018125N000000000"
  },
- "summary": null,
+ "summary": "瓷質扁瓶帶蓋，器身扁矮，便於貯攜，連座陳設，屬宋代日用瓷瓶一類。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_61019.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

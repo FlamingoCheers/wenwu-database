@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001238N000000002"
  },
- "summary": null,
+ "summary": "此幅為《名畫薈萃》冊中一開，舊題宋梁楷〈山陰書箑圖〉，「書箑」即在扇上題書，或取山陰題扇典故入畫，屬人物故事冊頁小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_5116.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

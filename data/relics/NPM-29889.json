@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷004143N000000000"
  },
- "summary": null,
+ "summary": "宋代哥窑青瓷碗，釉面开片纹路交错，为哥窑标志性特征。哥窑位列宋代五大名窑，釉色青灰温润，造型简雅含蓄，体现宋代崇尚天然意趣的审美风尚。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_29889.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

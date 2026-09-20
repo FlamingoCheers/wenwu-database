@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000167N000000000"
  },
- "summary": null,
+ "summary": "摹刻宋苏轼《渔父破子二首》。破子为曲词之体，内容咏渔父隐逸生涯，书迹闲逸有致，属《三希堂法帖》第十册之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22255.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

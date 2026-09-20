@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000599N000000003"
  },
- "summary": null,
+ "summary": "此册为《唐褚遂良临王羲之父子四帖》之一，临王献之帖。献之书风纵逸，褚临本于规矩中见洒脱，笔势映带自然，见唐摹晋帖的传承路径。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_17508.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

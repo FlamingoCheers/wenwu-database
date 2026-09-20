@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000094N000000036\n more\n \n 贈帖000094N000000037\n 贈帖000094N000000038"
  },
- "summary": null,
+ "summary": "《三希堂法帖》第十七册收宋王升尺牍。此牍属书问之体，行书流美，映带自然，经摹刻上石，存宋人笔札之风。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22825.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

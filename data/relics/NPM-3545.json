@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故銅002084N000000001"
  },
- "summary": null,
+ "summary": "玉質器頂，元代雕琢。以螭虎啣靈芝為紋，螭虎蜿蜒盤踞，口啣芝草，姿態矯健靈動，玉色溫潤，刀法圓熟。此類玉頂多用為器蓋鈕飾，寓祥瑞之意。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_3545.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

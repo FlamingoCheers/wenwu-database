@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001114N000000007"
  },
- "summary": null,
+ "summary": "《文姬歸漢圖》冊「聽樂」一開，題為宋代李唐作。故事取材東漢蔡琰沒入匈奴後歸漢始末，此開即寫其聽樂情景，屬人物故事畫冊頁。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_213.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

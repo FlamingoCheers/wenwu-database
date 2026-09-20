@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫000841N000000000"
  },
- "summary": null,
+ "summary": "宋代阎次平《四乐图》轴。阎次平为南宋院画家，善画牧牛与人物故实，此轴取四乐之意分写画境，笔致简劲，情味质朴。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1259.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

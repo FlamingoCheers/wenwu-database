@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001813N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋赵令穰《七松图》，以七株松树为题。赵令穰为宋宗室，山水多作江湖小景，风格清丽，此轴可见其松石图写之一斑。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14166.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

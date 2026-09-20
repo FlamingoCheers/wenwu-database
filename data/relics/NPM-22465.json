@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000086N000000007\n more\n \n 贈帖000086N000000008"
  },
- "summary": null,
+ "summary": "摹刻宋蔡襄《致通理当世屯田尺牍》。屯田为屯田员外郎之省称，此札致同朝官友，书法端庄流丽，为《三希堂法帖》第九册之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22465.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

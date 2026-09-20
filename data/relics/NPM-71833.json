@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "中銅000912N000000001"
  },
- "summary": null,
+ "summary": "元代器物木盖，上嵌玉雕顶钮。盖径较大，当配大型器物使用，木玉组合，制作规整。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_71833.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

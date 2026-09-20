@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈銅000084N000000000"
  },
- "summary": null,
+ "summary": "铜铸菩萨趺坐像，像身与台座俱全，铸工齐整，属元代佛教造像，供供养礼拜之用。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_24477.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

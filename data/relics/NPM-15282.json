@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003489N000000004"
  },
- "summary": null,
+ "summary": "《名画荟锦》册中一开，题宋代钱选作竹子文鸟。钱选为宋末元初画家，善花鸟，此帧写文鸟栖于竹枝，设色清雅，工中带拙。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15282.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

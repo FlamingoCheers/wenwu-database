@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故銅002479N000000000"
  },
- "summary": null,
+ "summary": "銅製方壺，仿古銅壺形制，體量小巧，可作文房清供或插花之用，屬宋人仿古銅器風尚下的作品，下承木座。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_62185.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

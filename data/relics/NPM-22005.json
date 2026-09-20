@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000027N000000000"
  },
- "summary": null,
+ "summary": "此为清乾隆《三希堂法帖》第二十七册所收元俞和书《急就章》刻帖。《急就章》为汉代识字字书，历代书家常以章草书写，是习章草之经典范本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_22005.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

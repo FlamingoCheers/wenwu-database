@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購帖000013N000000000"
  },
- "summary": null,
+ "summary": "明代《停云馆法帖》第七册，收宋范成大《外姑生朝帖》。停云馆法帖为明代汇刻历代名家法书的著名丛帖，此册摹刻范成大为岳母祝寿的尺牍，书风温雅，可资研究宋代文人书事。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29840.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

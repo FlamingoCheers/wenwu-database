@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷005402N000000000"
  },
- "summary": null,
+ "summary": "宋定窯白釉印花花果紋碗。碗內以模印技法滿飾花果紋樣，佈局飽滿，層次分明，通體施白釉，色澤溫潤。定窯印花裝飾繁美精緻，此碗紋樣豐富，體現宋代定窯模印工藝的成熟。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_34797.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

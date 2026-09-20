@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈拓000301N000000000"
  },
- "summary": null,
+ "summary": "唐顏真卿書〈爭坐位帖〉墨拓本，裝裱成冊。此帖為顏真卿論坐位禮秩的書信文稿，筆勢縱橫豪宕，為行書名品。墨拓本流傳碑帖字形，是研習顏體行書的重要範本。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_33062.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

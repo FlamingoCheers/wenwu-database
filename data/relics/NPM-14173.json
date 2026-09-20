@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001822N000000000"
  },
- "summary": null,
+ "summary": "此轴旧题宋马和之《画麻姑仙像》，绘女仙麻姑。麻姑为道教传说中长寿仙女，“麻姑献寿”寓意吉祥，此轴属道释人物画。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14173.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "中帖000014N000000000"
  },
- "summary": null,
+ "summary": "《清乾隆三希堂法帖》第十四冊之一，摹刻北宋米芾〈元日帖〉。帖名點明書於元日，屬歲時問候之屬的尺牘，刻石拓印成冊流傳。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_21306.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫002011N000000000"
  },
- "summary": null,
+ "summary": "元代王蒙《林泉清趣》轴。写林泉间幽居清赏之趣，山重水复、草木华滋，皴笔松秀繁密，为元人山水隐逸题材的典型样式。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1215.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000042N000000000"
  },
- "summary": null,
+ "summary": "《贯经堂米帖》第二册之一，收宋米芾《元日帖》。帖为元日所作尺牍，草法纵逸，结字欹侧多姿，为米芾草书代表面目之一。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_27959.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

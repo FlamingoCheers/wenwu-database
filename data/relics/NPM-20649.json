@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故帖000132N000000021\n more\n \n 故帖000132N000000022\n 故帖000132N000000023"
  },
- "summary": null,
+ "summary": "《晉唐正書》（一）冊之一開，題為唐褚遂良書《司馬遷妾隨清娛墓志銘》。楷法溫婉嚴整，相傳為褚書，屬墓志刻帖類名目。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_20649.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

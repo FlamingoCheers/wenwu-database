@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000244N000000012"
  },
- "summary": null,
+ "summary": "此册页出自《宋人法书》（二），为蒲宗孟致知府钤辖子中待制尺牍。尺牍上款兼称文武职衔，可见宋人书启称谓之制。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14302.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

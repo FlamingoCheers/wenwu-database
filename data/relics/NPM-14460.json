@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001248N000000009"
  },
- "summary": null,
+ "summary": "《集古名绘》册之一开，题宋代李唐《大江浮玉》，绘大江中峰峦耸峙、若浮玉般的景致，属山水题材小景。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_14460.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

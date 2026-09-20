@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000146N000000001"
  },
- "summary": null,
+ "summary": "《宋林逋手札二帖》册之一开，起首逋奉白，为林逋致友朋书札之一，字势清瘦劲健，见隐士书风之淡逸气息。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_1351.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

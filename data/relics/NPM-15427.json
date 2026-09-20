@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003467N000000005"
  },
- "summary": null,
+ "summary": "《宋元集绘》册中一开，题宋代李唐作看云坐钓。绘高士闲坐观云、临流垂钓之景，笔墨苍劲简率，具隐逸之趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_15427.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

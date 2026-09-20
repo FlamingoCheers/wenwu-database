@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001240N000000011"
  },
- "summary": null,
+ "summary": "《藝苑藏真》冊（上）之一開，傳為宋代李迪所繪〈穀豐安樂〉。畫題取豐穀安樂之意，屬歲稔年豐的祥瑞題材。李迪善繪花鳥走獸，此開寫實細膩，寓含祝頌太平豐年的美好寄望。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_330.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

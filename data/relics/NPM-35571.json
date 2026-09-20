@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷010195N000000000"
  },
- "summary": null,
+ "summary": "元代彭窯白瓷杯，器形小巧，撇口，斜弧壁，圈足淺小。杯內飾壽字與花卉紋，紋樣清晰，釉色白潤，裝飾雅緻，為日常飲茶酌酒之器。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35571.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

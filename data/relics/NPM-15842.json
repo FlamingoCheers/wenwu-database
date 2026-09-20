@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003470N000000010"
  },
- "summary": null,
+ "summary": "本幅为《宋元畫冊》册之一开，题北宋李唐作，绘溪畔渔翁卧憩之景，人物与山水相融，意境闲适，属山水人物小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15842.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫003468N000000002"
  },
- "summary": null,
+ "summary": "《宋元名画》册中一开，为马远山水。马远人称“马一角”，善以边角小景写大境界。此帧取景一侧，笔墨峭劲，以简驭繁，为南宋院体山水典型。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_10889.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

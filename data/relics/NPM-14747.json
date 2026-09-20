@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001379N000000000"
  },
- "summary": null,
+ "summary": "题“唐阎立本王会图”卷。传为初唐阎立本所绘，写四方部族人物朝会之状，属古代职贡图传统，人物形象各异。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_14747.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

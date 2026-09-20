@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001233N000000010"
  },
- "summary": null,
+ "summary": "《名绘集珍》册之一，题为宋马和之《江声草阁》。马和之为南宋画家，用笔飘逸流动，如「蚂蝗描」。此页写江畔草阁，隔岸涛声入画，意境闲远。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_305.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

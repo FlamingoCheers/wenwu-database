@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000599N000000004"
  },
- "summary": null,
+ "summary": "此册为《唐褚遂良临王羲之父子四帖》之一，临王操之帖。王氏父子书迹赖唐人临本与刻帖流传，此册笔致沉劲古雅，兼有考订与临习双重价值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_17509.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-18",
+ "desc_ai": true
 }

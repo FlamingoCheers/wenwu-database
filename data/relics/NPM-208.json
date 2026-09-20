@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001114N000000002"
  },
- "summary": null,
+ "summary": "宋李唐《文姬歸漢圖》冊之一開，題為「北行」。繪文姬隨胡騎北行途中的行旅情節，車馬人物與塞外風物並呈，線描謹嚴，敷色古雅。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_208.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

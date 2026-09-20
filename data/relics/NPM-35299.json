@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016600N000000000"
  },
- "summary": null,
+ "summary": "定窯白瓷碗，宋代製品，敞口弧壁，釉色牙白溫潤。器內劃刻蓮花紋，花朵綻放，莖葉舒展，劃線流暢瀟灑，構圖疏朗有致，展現宋代定窯白瓷清雅的裝飾風格。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_35299.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

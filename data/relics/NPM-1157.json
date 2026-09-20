@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001970N000000000"
  },
- "summary": null,
+ "summary": "元代王渊《画松石水仙》轴。绘松树、湖石与水仙相伴之景，属树石花卉清供题材，布置清雅、笔墨沉厚，见其兼擅花鸟山水之功。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_1157.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

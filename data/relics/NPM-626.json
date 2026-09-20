@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000255N000000006"
  },
- "summary": null,
+ "summary": "此頁為〈元人翰墨〉冊之一開，收元代趙瑞致敏德學士尺牘，屬友人問候書札，字跡可見元人尺牘書風。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_626.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

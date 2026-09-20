@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷016936N000000000"
  },
- "summary": null,
+ "summary": "宋月白釉圆碟。碟为圆口浅腹，通体施月白釉，釉色淡雅温润，如月色含辉，为宋代单色釉瓷的雅致小品。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_28512.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

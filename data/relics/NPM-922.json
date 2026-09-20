@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000233N000000001"
  },
- "summary": null,
+ "summary": "《苏氏一门法书》册中苏轼《致道源尺牍》，为其致友人“道源”之书信，属苏氏一门法书册页。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_922.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

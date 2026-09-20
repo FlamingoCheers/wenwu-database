@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000249N000000001"
  },
- "summary": null,
+ "summary": "此册页出自《宋元宝翰》，为宋高宗所书七言律诗。高宗赵构工书，师法二王，帝王墨迹与臣僚尺牍同裱一册。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_14319.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

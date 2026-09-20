@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "購拓000250N000000000"
  },
- "summary": null,
+ "summary": "宋夢英書〈夫子廟堂記〉碑墨拓本，裝裱為軸。碑文由唐代程浩撰文，北宋僧人夢英書丹，記孔子廟堂之事。夢英以篆書知名於時，此拓本保存碑刻文字，兼具文獻與書法史料價值。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_34882.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

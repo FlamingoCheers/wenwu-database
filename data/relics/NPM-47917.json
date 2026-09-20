@@ -19,7 +19,7 @@
   "region": "中国台湾",
   "inventory_no": "故瓷015669N000000001"
  },
- "summary": null,
+ "summary": "玉頂雕鹿鶴紋，鹿諧音「祿」，鶴象徵長壽，合為鶴鹿同春、長春不老的吉祥寓意。此類玉頂原為器蓋鈕飾，紋樣寄託傳統祈福心願。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -39,7 +39,8 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/npm/detail_47917.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

@@ -14,7 +14,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001115N000000003"
  },
- "summary": null,
+ "summary": "舊題宋李唐《四時山水》冊之一「巖樹蒸霞」，繪巖間樹色與霞光蒸蔚，氣象蒼茫，見李唐一路剛勁筆法的山水意趣。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -31,5 +31,6 @@
  "raw_ref": "raw/npm/detail_3797.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

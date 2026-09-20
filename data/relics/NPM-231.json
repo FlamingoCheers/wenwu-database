@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001118N000000005"
  },
- "summary": null,
+ "summary": "宋叶肖岩《西湖十景图》册之一，写两峰插云一景，云山高远，属西湖题名景致小景画。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_231.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

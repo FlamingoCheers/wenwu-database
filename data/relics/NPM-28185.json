@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000044N000000000"
  },
- "summary": null,
+ "summary": "《贯经堂米帖》第四册之一，收宋米芾尺牍之一。米芾牍札随兴挥运，笔法八面生动，此为摹刻上石的尺牍书迹，可供临习。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_28185.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

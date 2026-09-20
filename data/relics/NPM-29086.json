@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "贈帖000117N000000000"
  },
- "summary": null,
+ "summary": "《垂裕阁法帖》为摹刻历代名家书迹的丛帖，此册收宋代蔡襄楷书。蔡襄为北宋书法名家，位列“宋四家”，楷书端庄沉稳。刻帖以墨拓装册，供学书者临习鉴赏。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_29086.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

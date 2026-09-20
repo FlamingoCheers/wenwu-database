@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故畫001550N000000000"
  },
- "summary": null,
+ "summary": "此段为元代《豳风图》卷第一段，题王振鹏绘图、柯九思书。《豳风》为《诗经》篇章，图写农桑耕织之景，图文相配，是元代诗书画结合的巨制。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -38,5 +38,6 @@
  "raw_ref": "raw/npm/detail_17757.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }

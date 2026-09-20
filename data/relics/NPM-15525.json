@@ -16,7 +16,7 @@
   "region": "中国台湾",
   "inventory_no": "故書000246N000000006"
  },
- "summary": null,
+ "summary": "《宋人法书》第四册中一开，为楼钥致叔清宣教尺牍。楼钥为南宋文臣，文章书法并称，此牍笔致温雅，结体疏朗。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -33,5 +33,6 @@
  "raw_ref": "raw/npm/detail_15525.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-07",
+ "desc_ai": true
 }
