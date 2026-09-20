@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24264",
+ "name": "杭州的轿子",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "杭州开埠初期，中外客商多用轿子代步。随着商业繁荣，19世纪70年代后，马车和人力车相继兴起，肩舆客运受到很大影响。辛亥革命后，人力轿渐趋衰落。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218729553584935.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24264.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24264.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-20",
+ "updated_at": "2026-09-20"
+}

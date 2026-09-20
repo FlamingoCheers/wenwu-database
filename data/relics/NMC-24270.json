@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24270",
+ "name": "近代的独轮车",
+ "aliases": [],
+ "dynasty": "近代",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "辛亥革命后，上海独轮小车货运的主导地位逐渐被榻车、老虎车所取代，但并未完全退出历史舞台，独轮车数量始终维持在万辆以上，它们在小批量货物运输和乡村中仍然发挥着作用。从照片中，可发现近代独轮车的车轮此时已由硬木改为铁制。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218729673207164.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24270.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24270.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-20",
+ "updated_at": "2026-09-20"
+}
