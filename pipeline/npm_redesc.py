@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 """B2: NPM 回源重提取（零网络，跑在 Actions 缓存之上）
 
-从 raw/npm/detail_*.html 重新解析全部表格字段：
-- 質材  -> relic.material（原为空时）
-- 說明/題跋/銘刻/功能 -> relic.summary（原 summary < 20 字时，拼接后截 300）
+从 raw/npm/detail_*.html 重新解析表格字段：
+- 說明 -> relic.summary（原 summary < 20 字时，截 300）
+- 質材/材質 -> relic.material（原为空时）
+只取「說明」字段：題跋/銘刻等折叠面板会混入 UI 残渣（expand_more 图标文字），
+已验证不可用。含 UI 噪音的解析结果一律拒收。
 不动其他字段。输出统计。
 
 用法:
@@ -23,8 +25,15 @@ import npm_collector as nc  # noqa: E402
 
 RAW = ROOT / "raw" / "npm"
 RELICS = ROOT / "data" / "relics"
-TEXT_KEYS = ["說明", "題跋", "銘刻", "功能"]
+TEXT_KEYS = ["說明"]
 MATERIAL_KEYS = ["質材", "材質"]
+NOISE_RE = re.compile(r"expand_more|expand_less|^\s*$")
+
+
+def clean_text(text):
+    lines = [ln.strip() for ln in (text or "").split("\n")]
+    lines = [ln for ln in lines if ln and not NOISE_RE.search(ln)]
+    return "\n".join(lines).strip()
 
 
 def all_fields(html_text):
@@ -59,8 +68,8 @@ def main():
 
         new_summary = None
         if len((r.get("summary") or "").strip()) < 20:
-            parts = [fields.get(k, "") for k in TEXT_KEYS]
-            parts = [x for x in parts if x]
+            parts = [clean_text(fields.get(k, "")) for k in TEXT_KEYS]
+            parts = [x for x in parts if len(x) >= 10]
             if parts:
                 new_summary = "\n".join(parts)[: args.max_summary]
         new_material = None
