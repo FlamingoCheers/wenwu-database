@@ -79,6 +79,7 @@ def cmd_prep(task):
         print(f"A_classify_todo.jsonl: {len(rows)} rows")
         return
     assert task == "B"
+    npm_only = len(sys.argv) > 3 and sys.argv[3] == "npm"
     LC.mkdir(parents=True, exist_ok=True)
     rows, skipped_npm = [], 0
     for f in sorted(RELICS.glob("*.json")):
@@ -89,7 +90,10 @@ def cmd_prep(task):
         rid = r.get("relic_id", f.stem)
         pre = rid.split("-")[0]
         if pre == "NPM":
-            skipped_npm += 1  # 留给 Actions 回源 job
+            skipped_npm += 1
+            if not npm_only:
+                continue  # 留给 Actions 回源 job
+        elif npm_only:
             continue
         row = {
             "id": rid,
@@ -119,14 +123,20 @@ def cmd_prep(task):
             row["mode"] = "met"
         else:
             row["mode"] = "nmc"
+        if npm_only:
+            row["mode"] = "npm"
         rows.append(row)
-    with (LC / "B_desc_todo.jsonl").open("w", encoding="utf-8") as w:
+    fname = "B_desc_todo_npm.jsonl" if npm_only else "B_desc_todo.jsonl"
+    with (LC / fname).open("w", encoding="utf-8") as w:
         for row in rows:
             w.write(json.dumps(row, ensure_ascii=False) + "\n")
     by = {}
     for row in rows:
         by[row["mode"]] = by.get(row["mode"], 0) + 1
-    print(f"B_desc_todo.jsonl: {len(rows)} rows {by}（NPM 跳过 {skipped_npm} 件留待回源）")
+    if npm_only:
+        print(f"{fname}: {len(rows)} rows {by}")
+    else:
+        print(f"{fname}: {len(rows)} rows {by}（NPM 跳过 {skipped_npm} 件留待回源）")
 
 
 def merge_a():
@@ -169,10 +179,11 @@ def merge_a():
         print("  缺失样例:", missing[:8])
 
 
-def merge_b():
+def merge_b(todo_file="B_desc_todo.jsonl", result_glob="B_result_*.jsonl",
+            apply_file="B_apply.json", reject_file="B_reject.json"):
     # ---- B ----
     results = {}
-    for f in sorted(LC.glob("B_result_*.jsonl")):
+    for f in sorted(LC.glob(result_glob)):
         for line in f.read_text(encoding="utf-8").splitlines():
             line = line.strip()
             if not line:
@@ -184,7 +195,7 @@ def merge_b():
                 continue
             if d.get("id"):
                 results[d["id"]] = d
-    todo = [json.loads(l) for l in (LC / "B_desc_todo.jsonl").read_text(encoding="utf-8").splitlines() if l.strip()]
+    todo = [json.loads(l) for l in (LC / todo_file).read_text(encoding="utf-8").splitlines() if l.strip()]
     apply_list, bad = [], []
     for t in todo:
         d = results.get(t["id"])
@@ -201,8 +212,8 @@ def merge_b():
             bad.append({"id": t["id"], "why": "unchanged"})
             continue
         apply_list.append({"id": t["id"], "summary": txt, "confidence": d.get("confidence", "medium")})
-    (LC / "B_apply.json").write_text(json.dumps(apply_list, ensure_ascii=False, indent=1), encoding="utf-8")
-    (LC / "B_reject.json").write_text(json.dumps(bad, ensure_ascii=False, indent=1), encoding="utf-8")
+    (LC / apply_file).write_text(json.dumps(apply_list, ensure_ascii=False, indent=1), encoding="utf-8")
+    (LC / reject_file).write_text(json.dumps(bad, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"结果 {len(results)} / 任务 {len(todo)} | 待应用 {len(apply_list)} | 拒绝 {len(bad)}")
     if bad:
         print("  拒绝样例:", bad[:5])
@@ -237,8 +248,8 @@ def cmd_apply(task):
     print(f"已改分类 {changed} 件，低置信标 review {review_added} 件，日志 {len(journal)} 条 -> apply_A_journal.json")
 
 
-def cmd_apply_b():
-    apply_list = json.loads((LC / "B_apply.json").read_text(encoding="utf-8"))
+def cmd_apply_b(apply_file="B_apply.json", journal_file="apply_B_journal.json"):
+    apply_list = json.loads((LC / apply_file).read_text(encoding="utf-8"))
     journal = []
     changed = 0
     for row in apply_list:
@@ -253,16 +264,23 @@ def cmd_apply_b():
         journal.append({"id": row["id"], "field": "summary", "was": old, "now": row["summary"][:60]})
         p.write_text(json.dumps(r, ensure_ascii=False, indent=1), encoding="utf-8")
         changed += 1
-    (LC / "apply_B_journal.json").write_text(json.dumps(journal, ensure_ascii=False, indent=1), encoding="utf-8")
+    (LC / journal_file).write_text(json.dumps(journal, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"已补描述 {changed} 件（desc_ai+needs_review），日志 {len(journal)} 条 -> apply_B_journal.json")
 
 
 if __name__ == "__main__":
     cmd, task = sys.argv[1], sys.argv[2]
+    extra = sys.argv[3] if len(sys.argv) > 3 else ""
     if cmd == "apply" and task == "B":
-        cmd_apply_b()
+        if extra == "npm":
+            cmd_apply_b("B2_apply.json", "apply_B2_journal.json")
+        else:
+            cmd_apply_b()
     elif cmd == "merge" and task == "B":
-        merge_b()
+        if extra == "npm":
+            merge_b("B_desc_todo_npm.jsonl", "B2_result_*.jsonl", "B2_apply.json", "B2_reject.json")
+        else:
+            merge_b()
     elif cmd == "merge" and task == "A":
         merge_a()
     else:
