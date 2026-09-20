@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24411",
+ "name": "枭首示众图",
+ "aliases": [],
+ "dynasty": "秦",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "枭首就是斩下人头高悬于木杆上示众，属死刑的一种。这种刑法在秦代已经存在，据《史记·秦始皇本纪》记载：嫪毒作乱失败后，其徒“二十人皆枭首。”隋朝曾一度废除枭首。明清时对强盗罪又施用枭首刑。此刑在宣统二年（1910）颁行的《大清现行刑律》中被废除。但事实上，民国时期仍然在沿用此刑。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218732251297182.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24411.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24411.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-20",
+ "updated_at": "2026-09-20"
+}

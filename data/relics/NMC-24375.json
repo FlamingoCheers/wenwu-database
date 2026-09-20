@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24375",
+ "name": "中国近代自来水厂",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "在外国资本主义经济的不断冲击下，清末民初，中国的一些沿海城市首先走上了近代化的道路。与此相关联，近代公用事业如电灯、自来水等得到一定发展。19世纪80年代，英商在杨树浦建立了上海第一座正规化城市水厂。20世纪初到30年代中期，上海陆续建成自来水厂5座，其中外商企业占较大比重。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218731619118425.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24375.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24375.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-20",
+ "updated_at": "2026-09-20"
+}

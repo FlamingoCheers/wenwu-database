@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24381",
+ "name": "钱庄数钱的情景",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "钱币",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "清代传统铜钱的计算法，一般采用十进制。铜钱一个，称一文，百个称百文，千个称做串，或称一贯，又或叫做一吊，吊以上则有十百千万吊等名目。然各地往往因区域和习惯的不同而另起计算方法。如直隶一带以百文为一吊，东三省方面以一百六十文称为一吊，其余各地则又有以五百文为一吊，四百八十文为一吊等，并无确定的标准。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218731718038238.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24381.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24381.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-20",
+ "updated_at": "2026-09-20"
+}

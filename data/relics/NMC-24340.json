@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24340",
+ "name": "清末检查洋钱的情形",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "钱币",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "清代称外国流入的银铸币为洋钱，也称番钱、番饼。外国银币流入中国，始于明朝万历年间，当时西方人用银币来换购中国的丝、茶和其他土产。在清代流入中国的外国银币中，西班牙本洋和墨西哥鹰洋以数量大、流通广而著名，并一度成为中国市场上重要的流通货币。洋钱流入中国后，因其按枚计值，便于应用，民间使用日益广泛。甚至有先将银两兑换洋钱，再将洋钱兑换制钱使用的情况。洋钱的流入，对中国经济产生了重大影响。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218730990120657.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24340.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24340.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-20",
+ "updated_at": "2026-09-20"
+}
