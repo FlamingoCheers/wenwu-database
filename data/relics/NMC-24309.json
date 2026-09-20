@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24309",
+ "name": "清末民初的北京火车站",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "北京东车站全称为京奉铁路正阳门东车站，位于前门大街东侧，始建于1903年，1906年正式启用。从清末至1958年北京新火车站建成前，前门东车站一直是北京最大的火车站，时间长达半个世纪。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218730407446819.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24309.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24309.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-20",
+ "updated_at": "2026-09-20"
+}

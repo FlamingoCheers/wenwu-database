@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24273",
+ "name": "清末民初的汽车",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "19世纪末汽车在欧洲诞生，并很快成为公路运输的主要交通工具。1902年上海开始出现了外国生产的汽车，但数量很少。小型轿车的乘客主要是外国人和少数达官贵人。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218729723242531.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24273.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24273.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-20",
+ "updated_at": "2026-09-20"
+}

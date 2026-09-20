@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24278",
+ "name": "民国初年的哈埠号拖船",
+ "aliases": [],
+ "dynasty": "近代",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "拖船主要用于内河航运或近海作业，一次可以拖运数量极大的物资；其船体中有一半以上的空间被发动机占用，所以平均动力也超过其他种类的船只。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218729822095133.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24278.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24278.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-20",
+ "updated_at": "2026-09-20"
+}

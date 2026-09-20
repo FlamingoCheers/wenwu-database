@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24288",
+ "name": "京张铁路康庄停车场景象",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "由于京张铁路施工难度大，詹天佑把全线施工分为三段：丰台到南口为第一段，南口到康庄为第二段，康庄至张家口为第三段。图片所摄正是第二段终点康庄。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218730013478992.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24288.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24288.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-20",
+ "updated_at": "2026-09-20"
+}

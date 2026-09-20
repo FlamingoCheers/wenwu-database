@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24277",
+ "name": "天利号轮船",
+ "aliases": [],
+ "dynasty": "近代",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "19世纪蒸气机的应用，开辟了近代运输史的新纪元。19世纪40年代，中国的海上运输出现了由英国制造的蒸汽机船；1872年上海轮船招商局创办后，中国自制的蒸气机船开始航行于海上和内河航线。这是民国初年拍摄的天利号轮船。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218729797052811.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24277.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24277.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-20",
+ "updated_at": "2026-09-20"
+}

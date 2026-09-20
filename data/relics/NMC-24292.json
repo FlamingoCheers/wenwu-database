@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24292",
+ "name": "京张铁路途经居庸关山洞北口",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "宗教造像",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "这是京张铁路修建过程中的难关。其路段包括居庸关、八达岭、五挂头、石佛寺等四个隧道工程，总长1645米，其中居庸关隧道长367米。詹天佑率领工程技术人员克服资金少、设备差等困难，顺利完成了居庸关隧道工程。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218730095540638.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24292.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24292.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-20",
+ "updated_at": "2026-09-20"
+}

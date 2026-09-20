@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24293",
+ "name": "京张铁路青龙桥车站",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "青龙桥站在八达岭南约1.5公里处，是京张铁路线上的一段艰巨工程。为解决青龙桥地段坡大弯急，火车爬不上去、转不回来的难题，詹天佑创造性地运用了折返法，设计了“人”字形线路，成功解决了问题。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218730113335259.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24293.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24293.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-20",
+ "updated_at": "2026-09-20"
+}

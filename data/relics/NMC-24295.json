@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24295",
+ "name": "京张铁路线上的摩格尔机车",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "在京张铁路南口关沟段修建过程中，选用三十分之一的最大坡度，这是山区铁路少有的大坡道线路。为使机车顺利通过，最初采用了摩格尔机车双机牵引。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218730149137998.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24295.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24295.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-20",
+ "updated_at": "2026-09-20"
+}
