@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24082",
+ "name": "清末民初的女扮男装照",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "照片中女子头戴的鸭舌帽是当时女尚男装的流行服饰之一。有人将其和长袍马褂相配，也有人与西服革履一体穿戴。女性头戴鸭舌帽是当时令世人瞩目的时髦装扮。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218726242689717.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24082.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24082.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-21",
+ "updated_at": "2026-09-21"
+}

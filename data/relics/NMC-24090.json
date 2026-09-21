@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24090",
+ "name": "刺绣是妇女所从事的传统手工业之一",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "织绣",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "刺绣，是妇女所从事的传统手工业之一。当时专卖绣品的商店大多设有作坊，雇用年轻妇女或分发到家庭妇女手中做刺绣活计。西方教会也往往在传播宗教的同时培训妇女刺绣缝纫等基本生活技能。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218726380051636.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24090.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24090.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-21",
+ "updated_at": "2026-09-21"
+}

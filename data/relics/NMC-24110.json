@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24110",
+ "name": "清末的一张全家福",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "此照虽未留下任何文字记录，但在当时能够请人摄影、并搭配大型背景幕布的也决非一般家庭，再参照片中夫妇及孩子们的服饰，此照无疑应为清末贵族家庭的合影。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218726732463326.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24110.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24110.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-21",
+ "updated_at": "2026-09-21"
+}
