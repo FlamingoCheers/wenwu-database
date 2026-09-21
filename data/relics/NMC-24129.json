@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24129",
+ "name": "民国年间的全家福",
+ "aliases": [],
+ "dynasty": "近代",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "照片中的家庭形式和规模在民国年间的城市中日趋增多。此时封建的婚姻家庭观念虽然已削弱，但由于整个社会经济基础没有发生根本改变，因而在婚姻家庭关系上出现了封资参半、新旧并存的现象。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218727093056590.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24129.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24129.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-21",
+ "updated_at": "2026-09-21"
+}

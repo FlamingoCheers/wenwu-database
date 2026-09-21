@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24130",
+ "name": "民国时代的家庭合影",
+ "aliases": [],
+ "dynasty": "近代",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "由于社会和经济因素的制约以及家庭观念的变化，民国以后城市中家族式大家庭逐渐减少，3至6人的小家庭日益成为趋势。家庭规模的缩小，也使同居的亲属关系趋于简单化。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218727111780241.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24130.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24130.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-21",
+ "updated_at": "2026-09-21"
+}
