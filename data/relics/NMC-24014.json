@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24014",
+ "name": "民国初年的大学生",
+ "aliases": [],
+ "dynasty": "近代",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "民初颁布的新学制明确了大学以教授高深学术，培养硕学闳材为宗旨。规定大学本科三年或四年，预科三年。大学分文、理、法、商、医、农、工等七科。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218724990601971.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24014.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24014.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-21",
+ "updated_at": "2026-09-21"
+}

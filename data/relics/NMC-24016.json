@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24016",
+ "name": "建于1936年的武汉大学理学院楼",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "武汉大学的前身是清末湖广总督张之洞于1893年创办的自强学堂，历经传承演变，1928年始定名为国立武汉大学，是近代中国第一批国立综合性大学之一。1932年春，学校迁入珞珈山新校舍，并陆续兴建了一批有特色的新建筑，理学院楼就是其中之一。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218725023595511.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24016.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24016.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-21",
+ "updated_at": "2026-09-21"
+}
