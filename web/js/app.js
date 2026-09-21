@@ -46,8 +46,8 @@ function filtered() {
   if (state.dyn !== "全部") list = list.filter(x => x.dyn === state.dyn);
   if (state.cat !== "全部") list = list.filter(x => x.cat === state.cat);
   if (q) { const bl = blobs(); list = list.filter((x, i) => bl[i].includes(q)); }
-  if (state.sort === "year_asc") list = [...list].sort((a, b) => (a.y0 ?? 9e9) - (b.y0 ?? 9e9));
-  if (state.sort === "year_desc") list = [...list].sort((a, b) => (b.y0 ?? -9e9) - (a.y0 ?? -9e9));
+  if (state.sort === "year_asc") list = [...list].sort((a, b) => (a.do - b.do) || ((a.y0 ?? 9e9) - (b.y0 ?? 9e9)));
+  if (state.sort === "year_desc") list = [...list].sort((a, b) => (b.do - a.do) || ((b.y0 ?? -9e9) - (a.y0 ?? -9e9)));
   return list;
 }
 
@@ -106,10 +106,60 @@ function renderPager(pages) {
   el.innerHTML = pages > 1 ? html : "";
 }
 
+/* ---------- 同名钱币聚合视图 ---------- */
+let _prevHash = "";
+function route() {
+  const h = location.hash;
+  let m;
+  if ((m = h.match(/^#coin=(.+)$/))) return showCoin(decodeURIComponent(m[1]));
+  if (h === "#coins") return showCoins();
+  showGrid();
+  if ((m = h.match(/^#r=(.+)$/))) openDetail(decodeURIComponent(m[1]));
+}
+function showGrid() {
+  $("#coinView").hidden = true;
+  $("#listTop").hidden = false;
+}
+function showCoins() {
+  const groups = state.index.coins || [];
+  $("#coinBody").innerHTML = `
+    <h2 class="coin-h">同名钱币聚合</h2>
+    <p class="coin-sub">共 ${groups.length} 种钱币名称被多家博物馆收藏，点击查看各馆详细馆藏。</p>
+    <div class="coin-grid">${groups.map(g => `
+      <a class="coin-card" href="#coin=${encodeURIComponent(g.n)}">
+        <h3>${esc(g.n)}</h3>
+        <div class="mu">${g.c} 件 · ${esc(g.mus.join("、"))}</div>
+      </a>`).join("")}</div>`;
+  $("#listTop").hidden = true;
+  $("#coinView").hidden = false;
+  window.scrollTo({ top: 0 });
+}
+function showCoin(name) {
+  const g = (state.index.coins || []).find(g => g.n === name);
+  if (!g) return showCoins();
+  const rows = g.ids.map(id => state.index.items.find(x => x.id === id)).filter(Boolean);
+  $("#coinBody").innerHTML = `
+    <a class="coin-back" href="#coins">← 返回钱币列表</a>
+    <h2 class="coin-h">${esc(g.n)}</h2>
+    <p class="coin-sub">各馆详细馆藏 · ${g.c} 件</p>
+    <div class="coin-table">${rows.map(x => `
+      <button class="coin-row" data-open="${esc(x.id)}">
+        <span class="n">${esc(x.name)}</span>
+        <span class="mu">${esc(x.mu)}</span>
+        <span class="dy">${esc(x.dyn)}${yearLabel(x) ? " · " + yearLabel(x) : ""}</span>
+        <span class="inv">${esc(x.inv || "")}</span>
+        <span class="go">详情 ›</span>
+      </button>`).join("")}</div>`;
+  $("#listTop").hidden = true;
+  $("#coinView").hidden = false;
+  window.scrollTo({ top: 0 });
+}
+
 /* ---------- 详情弹层 ---------- */
 function openDetail(id) {
   const x = state.index.items.find(i => i.id === id);
   if (!x) return;
+  if (!location.hash.startsWith("#r=")) _prevHash = location.hash;
   const fig = $("#mFig");
   fig.innerHTML = (x.img ? `<img src="${esc(x.img)}" alt="${esc(x.name)}" loading="lazy">`
     : `<span class="nopic">${LOGO_SVG.replace(/"/g, "&quot;")}</span>`)
@@ -135,7 +185,8 @@ function openDetail(id) {
 function closeDetail() {
   $("#detail").classList.remove("open");
   document.body.style.overflow = "";
-  history.replaceState(null, "", location.pathname + location.search);
+  history.replaceState(null, "", _prevHash || location.pathname + location.search);
+  _prevHash = "";
 }
 function filterDyn(d) { closeDetail(); setDyn(d); window.scrollTo({ top: 0, behavior: "smooth" }); }
 
@@ -177,6 +228,8 @@ function bind() {
     if (cat) return setCat(cat.dataset.cat);
     const pg = e.target.closest("[data-pg]");
     if (pg && !pg.disabled) { state.page = +pg.dataset.pg; renderGrid(); $("#listTop").scrollIntoView({ behavior: "smooth" }); return; }
+    const op = e.target.closest("[data-open]");
+    if (op) return openDetail(op.dataset.open);
     const card = e.target.closest(".card[data-id]");
     if (card) return openDetail(card.dataset.id);
   });
@@ -186,10 +239,7 @@ function bind() {
   });
   $("#detail").addEventListener("click", e => { if (e.target.id === "detail") closeDetail(); });
   $("#sort").addEventListener("change", e => { state.sort = e.target.value; state.page = 1; renderGrid(); });
-  window.addEventListener("hashchange", () => {
-    const m = location.hash.match(/^#r=(.+)$/);
-    if (m) openDetail(decodeURIComponent(m[1]));
-  });
+  window.addEventListener("hashchange", route);
 }
 
 /* ---------- 启动 ---------- */
@@ -202,8 +252,7 @@ function bind() {
     $("#muN").textContent = Object.keys(state.index.museums).length.toLocaleString();
     $("#genDate").textContent = state.index.generated;
     renderChips(); renderGrid();
-    const m = location.hash.match(/^#r=(.+)$/);
-    if (m) openDetail(decodeURIComponent(m[1]));
+    route();
   } catch (e) {
     $("#grid").innerHTML = `<div class="status"><p>索引加载失败（${esc(e.message)}）</p><p style="font-size:12.5px;margin-top:6px">请刷新重试；若持续失败请到 GitHub 提交 issue</p></div>`;
   }

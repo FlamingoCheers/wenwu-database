@@ -1,77 +1,69 @@
 # wenwu-database 文物数据库
 
-聚合全球博物馆公开数据的中文文物数据库 + 每日自动选题成文的内容流水线。
+聚合全球博物馆公开数据的**中国文物纯数据库**：一物一条结构化 JSON（朝代、类别、材质、尺寸、来源、授权），配套 SQLite 快照与静态检索前端（支持朝代/类别/关键词检索、年代排序、同名钱币跨馆聚合浏览）。
 
-> **不做单件文物的介绍，而是"文物组合"叙事**——用一组相互关联的文物，还原一种历史生活状态或一个历史事件，进而联系当下、探讨人性。
+**在线检索前端：<https://flamingocheers.github.io/wenwu-database/>**
 
-## 三大交付物
+## 数据规模
 
-| 交付物 | 形态 | 状态 |
-|---|---|---|
-| ① 文物数据库 | 本仓库：结构化 JSON + SQLite 快照 + 图片链接 | 🚧 P0：已入库 5,239 件（Met 2,435 + 克利夫兰 2,804） |
-| ② 检索前端 | 静态站（GitHub Pages），按朝代/类别/主题/馆藏搜索 | 📅 P1 |
-| ③ 内容流水线 | 每日自动：选题Agent → 文物专家Agent → 编辑Agent，产出公众号+小红书推文（人工过目后发布） | 📅 P2–P3 |
+当前 **27,819 件**，覆盖 6 家博物馆。数据由 GitHub Actions 定时增量更新。
 
-当前数据规模：**5,239 件**（大都会艺术博物馆 2,435 + 克利夫兰艺术博物馆 2,804，均 CC0）。分布概览见 `pipeline/build_db.py` 输出或 `raw/_validation_report.json`。
+| 博物馆 | 件数 | 接入方式 | 授权 |
+|---|---|---|---|
+| 台北故宫博物院 | 11,341 | Open Data 专区 | 开放授权（CC0 1.0） |
+| 大都会艺术博物馆 | 10,581 | Open Access API | CC0 |
+| 克利夫兰艺术博物馆 | 2,804 | Open Access API | CC0 |
+| 陕西历史博物馆 | 1,526 | 公开藏品目录 Excel（钱币按名称聚合为"品种"记录） | ©陕西历史博物馆（仅收录信息与来源链接） |
+| 芝加哥艺术馆 | 802 | Open Access API | CC0 |
+| 中国国家博物馆 | 765 | 公开网站采集（严格限速：每 6 小时不超过 100 条） | ©中国国家博物馆（仅收录信息与来源链接） |
+
+分布概览：`pipeline/build_db.py` 输出，或 `raw/_validation_report.json`。
 
 ## 目录结构
 
 ```
 ├── schemas/            # 数据 Schema（JSON Schema）
-├── collectors/         # 各数据源采集器（A类 API；B类 截图+OCR，每馆一个）
-├── pipeline/           # 清洗、去重、打标、质检、构建 SQLite/索引
+├── collectors/         # 各数据源采集器（每馆一个）
+├── pipeline/           # 清洗、去重、打标、质检、构建 SQLite/前端索引
 ├── data/
 │   ├── relics/         # 文物 JSON（一物一文件）
 │   ├── vocab/          # 受控词表：朝代/类别/地区/主题标签
 │   └── museums.json    # 博物馆名录与数据源配置
-├── raw/                # 原始数据（gitignore，可重取）
-├── web/                # 检索前端（P1）
-├── agents/             # Agent 流水线（P2–P3）：选题/文物专家/编辑/总协调
-├── output/articles/    # 每日产出的推文
-├── 工作规划.md          # 完整工作规划（先读这个）
-└── .github/workflows/  # 定时任务：增量采集 / 索引构建 / 每日成稿
+├── raw/                # 原始数据缓存（gitignore，可重取）
+├── web/                # 静态检索前端（GitHub Pages）
+├── 工作规划.md 等       # 规划文档
+└── .github/workflows/  # 定时任务：增量采集 / 前端自动发布
 ```
 
 ## 快速开始
 
 ```bash
-# 1. 采集（大都会博物馆 Open Access，CC0）
-python collectors/met_collector.py --limit 50        # 试跑 50 件
-python collectors/met_collector.py --limit 0         # 全量（亚洲艺术部）
+# 1. 采集（示例）
+python collectors/met_collector.py --limit 50   # 大都会博物馆 Open Access，试跑 50 件
+python collectors/sxhm_collector.py             # 陕西历史博物馆（需先按脚本说明下载目录 Excel）
 
-# 2. 构建 SQLite 快照（供检索/Agent 使用）
-python pipeline/build_db.py
+# 2. 质检 + 构建
+python pipeline/validate.py                     # 全库质检
+python pipeline/build_db.py                     # SQLite 快照
+python pipeline/build_web_index.py              # 前端索引（web/data）
 ```
 
 ## 数据规范
 
 - 每件文物一条 JSON：`data/relics/{relic_id}.json`，Schema 见 `schemas/relic.schema.json`
-- `relic_id` 格式：`{馆代码}-{馆藏号}`，如 `MET-12345`
-- 朝代/类别/地区/主题标签必须归一到 `data/vocab/` 受控词表
+- `relic_id` 格式：`{馆代码}-{馆藏号}`，如 `MET-12345`、`NPM-36115`、`SXHM-H0432026`
+- 朝代/类别/地区/主题标签统一归一到 `data/vocab/` 受控词表
 - 每条记录必带 `source_url` 与授权字段，全程可溯源
 
-## 数据来源与授权
+## 社区贡献：关于分享文物照片
 
-| 类型 | 来源 | 接入方式 | 授权 |
-|---|---|---|---|
-| A | 大都会博物馆、克利夫兰、史密森尼、哈佛等 | Open Access API | CC0 / 开放授权 |
-| A | 台北故宫博物院 | Open Data 专区 | 开放授权 |
-| B | 中国国家博物馆（**试点馆**）、故宫博物院等 | 浏览器实开网页 + 截图 + OCR（不做爬虫，不绕过任何防护） | 图片版权归馆藏机构，credit 标注来源 |
-
-完整数据源清单与采集合规原则见 `工作规划.md` 第 3 节。
-
-## 路线图
-
-- **P0**（当前）：数据库 MVP——Schema/词表定稿、Met 等友好源入库 ≥2,000 件、采集流水线跑通
-- **P1**：检索前端上线（GitHub Pages）
-- **P2**：历史学+考古学 RAG 知识库、文物专家Agent
-- **P3**：选题/编辑/总协调Agent，每日自动产出 1 篇推文（人工过目后发布到公众号+小红书）
-- **P4**：扩源至 ≥50,000 件、文物组合浏览、读者反馈回路
+欢迎大家在自己的仓库或公开网站上分享本数据库尚未收录的文物照片。数据库也很乐意收录大家补充的文物信息——但目前仅以**跳转链接**的形式引用外部图片与出处，不会保存文物图片文件。
 
 ## 合规声明
 
-- A 类来源按官方 Open Access 条款使用；B 类来源仅以"浏览器人工浏览+手动保存"等同方式采集，不破解、不绕过任何技术防护
-- OCR 文字仅作检索与解读素材，成稿一律重新撰写
+- Open Access 来源按各馆官方开放数据条款使用
+- 未提供开放 API 的馆（国博、陕历博等）仅以等同于人工浏览的方式访问公开网页，不破解、不绕过任何技术防护，并对国内站点严格限速
+- 仅收录文物基本信息与指向官方页面的链接，不保存受版权保护的文物影像
 - 历史类内容以博物馆公开学术资料为据，观点仅供参考
 
 ## License
