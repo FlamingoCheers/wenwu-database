@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "X.132.9"
  },
- "summary": "Plate。China",
+ "summary": "画珐琅盘，清代制作。盘面以珐琅彩绘人物纹样，色彩明丽，融汇欧洲画珐琅工艺与中国装饰趣味，是清代中外工艺交流的实物见证。现藏大都会艺术博物馆。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/40773.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-21",
+ "desc_ai": true
 }

@@ -8,7 +8,7 @@
   1800,
   1899
  ],
- "category": "杂器",
+ "category": "雕塑",
  "material": "Marble",
  "dimensions": "H. 8 in. (20.3 cm); W. 4 in. (10.2 cm); D. 4 1/4 in. (10.8 cm)",
  "excavated_from": "",
@@ -17,7 +17,7 @@
   "region": "北美洲",
   "inventory_no": "65.155.69"
  },
- "summary": "Statuette。China",
+ "summary": "大理石坐犬雕像，清代作品。犬端坐凝神，体态圆润，肌肉与神态刻画细腻写实，属清代案头动物陈设雕塑的典型样式。1965 年由 B. 巴鲁克遗赠入藏大都会艺术博物馆。",
  "history": "",
  "interpretation": [],
  "images": [
@@ -34,7 +34,8 @@
  ],
  "related": [],
  "raw_ref": "raw/met/61769.json",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-21",
+ "desc_ai": true
 }

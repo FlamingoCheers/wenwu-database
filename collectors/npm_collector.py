@@ -166,9 +166,20 @@ def build_relic(detail_path, oid, dep, fetched):
     if not d["name_zh"]:
         return None
     begin = end = None
-    m = re.search(r"西元\s*(-?\d+)\s*[-~至]\s*(-?\d+)", d["years"])
+    # 「西元11至12世紀」是世纪区间, 须换算为年份(11世纪=1001-1100), 否则会被当成公元11年推出"汉"
+    m = re.search(r"西元\s*(-?\d+)\s*[-~至]\s*(-?\d+)\s*世紀", d["years"])
     if m:
-        begin, end = int(m.group(1)), int(m.group(2))
+        c1, c2 = int(m.group(1)), int(m.group(2))
+        begin, end = (c1 - 1) * 100 + 1, c2 * 100
+    else:
+        m = re.search(r"西元\s*(-?\d+)\s*世紀", d["years"])
+        if m:
+            c1 = int(m.group(1))
+            begin, end = (c1 - 1) * 100 + 1, c1 * 100
+        else:
+            m = re.search(r"西元\s*(-?\d+)\s*[-~至]\s*(-?\d+)", d["years"])
+            if m:
+                begin, end = int(m.group(1)), int(m.group(2))
     dynasty, conf = du.map_dynasty(d["era"], d["name_zh"], begin=begin, end=end)
     if dynasty == "不详" and begin is not None:
         dynasty, conf = du.map_dynasty(begin=begin, end=end)

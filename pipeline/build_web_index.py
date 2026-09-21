@@ -14,10 +14,13 @@ from datetime import date
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 OUT_DIR = ROOT / "web" / "data"
 
-# 朝代展示顺序（canonical order），数据中的短键直接匹配
-DYN_ORDER = ["新石器时代", "夏", "商", "西周", "春秋", "战国", "秦", "汉", "三国",
-             "两晋", "南北朝", "隋", "唐", "五代十国", "宋", "辽", "西夏", "金",
-             "元", "明", "清", "民国", "现代", "不详"]
+# 朝代展示与排序顺序（canonical order）：按标准中国朝代序列排，跨朝代取起始朝代；
+# 前端年代排序使用该序号（do 字段），不依赖年份/世纪字段
+DYN_ORDER = ["新石器时代", "夏", "商", "西周", "东周", "春秋", "战国", "秦",
+             "汉", "三国", "西晋", "东晋", "南北朝", "隋", "唐", "五代十国",
+             "北宋", "宋", "南宋", "辽", "西夏", "金", "元", "明", "清",
+             "近代", "不详"]
+DYN_RANK = {k: i for i, k in enumerate(DYN_ORDER)}
 MUSEUM_SHORT = {"MET": "Met", "CLE": "CLE"}
 
 
@@ -52,6 +55,7 @@ def build():
             "name": d.get("name") or "",
             "alias": "、".join(aliases),
             "dyn": dyn,
+            "do": DYN_RANK.get(dyn, 999),
             "y0": yr[0],
             "y1": yr[1],
             "cat": cat,
@@ -75,11 +79,22 @@ def build():
         extra = sorted((k, c) for k, c in counts.items() if k not in order)
         return [{"k": k, "c": c} for k, c in known + extra]
 
+    # 同名钱币聚合：category=钱币 按名称精确匹配，仅保留 ≥2 条的组
+    coin_map = {}
+    for it in items:
+        if it["cat"] == "钱币" and it["name"]:
+            coin_map.setdefault(it["name"], []).append(it)
+    coins = [{"n": n, "c": len(lst), "ids": [x["id"] for x in lst],
+              "mus": sorted({x["mu"] for x in lst})}
+             for n, lst in coin_map.items() if len(lst) >= 2]
+    coins.sort(key=lambda g: (-g["c"], g["n"]))
+
     index = {
         "v": 1,
         "generated": str(date.today()),
         "total": len(items),
         "museums": museums,
+        "coins": coins,
         "facets": {
             "dynasties": facet_order(dyn_counts, DYN_ORDER),
             "cats": [{"k": k, "c": c} for k, c in
