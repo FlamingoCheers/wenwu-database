@@ -60,48 +60,47 @@ jobs:
               if hits >= 3: break
           print("list hits:", hits)
           PY
-      - name: Probe robots.txt and one detail page
+      - name: Keyword search pairing check (2 requests)
         run: |
           python - <<'PY'
-          import json, re, time, requests
+          import json, re, time, urllib.request
 
-          S = requests.Session()
-          S.headers.update({
-              "User-Agent": "wenwu-database-research/1.0 (contact: repo owner)",
-              "Accept-Language": "zh-TW,zh;q=0.9",
-          })
+          BASE = "https://digitalarchive.npm.gov.tw"
+          SEARCH_URL = BASE + "/opendata/Pub/Search"
+          UA = {"User-Agent": "wenwu-database-research/1.0 (contact: repo owner)"}
 
-          # 1) robots.txt
-          r = S.get("https://digitalarchive.npm.gov.tw/robots.txt", timeout=30)
-          print("robots.txt status:", r.status_code)
-          print(r.text[:2000])
+          def post_json(url, body):
+              req = urllib.request.Request(
+                  url, data=json.dumps(body, ensure_ascii=False).encode("utf-8"),
+                  headers={**UA, "Content-Type": "application/json",
+                           "Referer": BASE + "/opendata"}, method="POST")
+              with urllib.request.urlopen(req, timeout=60) as r:
+                  return r.read().decode("utf-8", errors="replace")
+
+          body = {"RegisterType": None, "IndexYear": None,
+                  "WestBeginYear": None, "WestEndYear": None,
+                  "YearDisplay": None, "SearchContent": "山居留客",
+                  "RegisterTypeEng": None,
+                  "PageInfo": {"PageIndex": 1, "PageSize": 50, "PageCount": 0}}
+          html = post_json(SEARCH_URL, body)
+          pairs = re.findall(
+              r'href="(/opendata/Pub/Detail/(\d+)\?dep=([A-Z]))&amp;mode=full"', html)
+          alts = re.findall(r'<img[^>]+alt="([^"]{2,40})"', html)
+          print("tile hrefs:", pairs[:10])
+          print("tile alts :", alts[:10])
+          print("pagecount :", re.findall(r"(?:PageCount|共)\D{0,6}(\d+)", html)[:3])
           time.sleep(3)
 
-          # 2) 单个 Detail 页静态 HTML
-          oid = "${{ inputs.oid }}"
-          dep = "${{ inputs.dep }}"
-          url = f"https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/{oid}?dep={dep}&mode=full"
-          r = S.get(url, timeout=30)
-          print("detail status:", r.status_code, "bytes:", len(r.content))
-          r.encoding = "utf-8"
-          html = r.text
-          import pathlib
-          pathlib.Path("raw").mkdir(exist_ok=True)
-          pathlib.Path(f"raw/probe_detail_{oid}.html").write_text(html, encoding="utf-8")
-
-          # 3) 关键线索: canonical / og:url / title / 主题站链接
-          for pat in [r'<link[^>]*rel="canonical"[^>]*>', r'<meta[^>]*og:url[^>]*>',
-                      r"<title>.*?</title>",
-                      r'href="(https?://theme\.npm\.edu\.tw[^"]*)"',
-                      r'href="(https?://digitalarchive\.npm\.gov\.tw/(?!opendata)[^"]*)"']:
-              hits = re.findall(pat, html)[:8]
-              print(pat, "=>", hits)
-          time.sleep(3)
-
-          # 4) opendata 单件 API 对照(同 oid, 第三也是最后一个请求)
-          r = S.get("https://digitalarchive.npm.gov.tw/opendata/OpenDataSearch",
-                    params={"type": "detail", "oid": oid, "dep": dep}, timeout=30)
-          print("api status:", r.status_code, "head:", r.text[:600])
+          if pairs:
+              oid, dep = pairs[0][1], pairs[0][2]
+              url = f"{BASE}/opendata/Pub/Detail/{oid}?dep={dep}&mode=full"
+              req = urllib.request.Request(url, headers=UA)
+              with urllib.request.urlopen(req, timeout=60) as r:
+                  h = r.read().decode("utf-8", errors="replace")
+              m = re.search(r"<title>(.*?)</title>", h, re.S)
+              print("detail title:", m.group(1) if m else "?")
+              row = re.search(r"品名(.{0,160})", h, re.S)
+              print("detail 品名:", re.sub(r"<[^>]+>", " ", row.group(1))[:60] if row else "?")
           PY
       - name: Upload probe html
         if: always()
