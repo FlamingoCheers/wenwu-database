@@ -2,11 +2,11 @@
  "relic_id": "MET-72639",
  "name": "Figure in a Landscape",
  "aliases": [],
- "dynasty": "汉",
+ "dynasty": "清",
  "dynasty_confidence": "medium",
  "year_range": [
-  0,
-  0
+  1644,
+  1911
  ],
  "category": "杂器",
  "material": "Hanging scroll; ink on paper",
@@ -36,5 +36,5 @@
  "raw_ref": "raw/met/72639.json",
  "needs_review": false,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-22"
 }

@@ -2,10 +2,13 @@
  "relic_id": "NMC-24227",
  "name": "送殡队伍中的僧众",
  "aliases": [],
- "dynasty": "春秋",
+ "dynasty": "近代",
  "dynasty_confidence": "low",
- "year_range": null,
- "category": "杂器",
+ "year_range": [
+  1840,
+  1949
+ ],
+ "category": "历史影像",
  "material": null,
  "dimensions": null,
  "excavated_from": "",
@@ -31,5 +34,5 @@
  "raw_ref": "raw/nmc/detail_24227.html",
  "needs_review": false,
  "fetched_at": "2026-09-20",
- "updated_at": "2026-09-20"
+ "updated_at": "2026-09-22"
 }

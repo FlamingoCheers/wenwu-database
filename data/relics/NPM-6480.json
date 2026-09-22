@@ -7,8 +7,8 @@
  "dynasty": "汉",
  "dynasty_confidence": "high",
  "year_range": [
-  618,
-  907
+  -202,
+  220
  ],
  "category": "青铜器",
  "material": null,
@@ -44,5 +44,5 @@
  "raw_ref": "raw/npm/detail_6480.html",
  "needs_review": false,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-22T04:12:22+00:00"
+ "updated_at": "2026-09-22"
 }

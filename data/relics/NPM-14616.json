@@ -4,10 +4,13 @@
  "aliases": [
   "Snowscape"
  ],
- "dynasty": "夏",
+ "dynasty": "近代",
  "dynasty_confidence": "medium",
- "year_range": null,
- "category": "书画",
+ "year_range": [
+  1912,
+  1949
+ ],
+ "category": "历史影像",
  "material": null,
  "dimensions": null,
  "excavated_from": "",

@@ -2,11 +2,11 @@
  "relic_id": "AIC-192727",
  "name": "Oracle Bones (76 total)",
  "aliases": [],
- "dynasty": "汉",
+ "dynasty": "商",
  "dynasty_confidence": "medium",
  "year_range": [
-  -13,
-  -11
+  -1300,
+  -1000
  ],
  "category": "杂器",
  "material": "Segments of turtle plastrons and bones of oxen; polished, burned, and carved with inscriptions",
@@ -38,5 +38,5 @@
  "raw_ref": "raw/aic/page_*.json (id=192727)",
  "needs_review": false,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-22"
 }

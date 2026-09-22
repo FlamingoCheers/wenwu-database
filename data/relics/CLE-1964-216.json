@@ -2,11 +2,11 @@
  "relic_id": "CLE-1964-216",
  "name": "Dancing Figure",
  "aliases": [],
- "dynasty": "汉",
+ "dynasty": "近代",
  "dynasty_confidence": "high",
  "year_range": [
-  1850,
-  1961
+  1840,
+  1949
  ],
  "category": "雕塑",
  "material": "painted plaster of Paris",
@@ -52,5 +52,5 @@
  "raw_ref": "raw/cle/page_2000.json",
  "needs_review": false,
  "fetched_at": "2026-09-04",
- "updated_at": "2026-09-04"
+ "updated_at": "2026-09-22"
 }

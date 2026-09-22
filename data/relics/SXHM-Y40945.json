@@ -2,8 +2,11 @@
  "relic_id": "SXHM-Y40945",
  "name": "宋残铁钱",
  "aliases": [],
- "dynasty": "汉",
- "year_range": null,
+ "dynasty": "北宋",
+ "year_range": [
+  960,
+  1127
+ ],
  "category": "钱币",
  "material": "铁",
  "dimensions": "直径3.9",
@@ -24,5 +27,5 @@
  "raw_ref": "raw/sxhm/499.xlsx",
  "needs_review": false,
  "fetched_at": "2026-09-21",
- "updated_at": "2026-09-21"
+ "updated_at": "2026-09-22"
 }
