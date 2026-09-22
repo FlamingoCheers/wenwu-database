@@ -1,0 +1,76 @@
+name: npm-url-probe
+on:
+  workflow_dispatch:
+    inputs:
+      oid:
+        description: "Detail oid to probe (default 1337)"
+        default: "1337"
+      dep:
+        description: "dep code (U/I/B/A/C)"
+        default: "U"
+
+permissions:
+  contents: read
+
+# 礼貌原则: 手动触发、单线程、仅 2 个请求、间隔 3 秒、只读不推送
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: pip install requests
+      - name: Probe robots.txt and one detail page
+        run: |
+          python - <<'PY'
+          import json, re, time, requests
+
+          S = requests.Session()
+          S.headers.update({
+              "User-Agent": "wenwu-database-research/1.0 (contact: repo owner)",
+              "Accept-Language": "zh-TW,zh;q=0.9",
+          })
+
+          # 1) robots.txt
+          r = S.get("https://digitalarchive.npm.gov.tw/robots.txt", timeout=30)
+          print("robots.txt status:", r.status_code)
+          print(r.text[:2000])
+          time.sleep(3)
+
+          # 2) 单个 Detail 页静态 HTML
+          oid = "${{ inputs.oid }}"
+          dep = "${{ inputs.dep }}"
+          url = f"https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/{oid}?dep={dep}&mode=full"
+          r = S.get(url, timeout=30)
+          print("detail status:", r.status_code, "bytes:", len(r.content))
+          r.encoding = "utf-8"
+          html = r.text
+          import pathlib
+          pathlib.Path("raw").mkdir(exist_ok=True)
+          pathlib.Path(f"raw/probe_detail_{oid}.html").write_text(html, encoding="utf-8")
+
+          # 3) 关键线索: canonical / og:url / title / 主题站链接
+          for pat in [r'<link[^>]*rel="canonical"[^>]*>', r'<meta[^>]*og:url[^>]*>',
+                      r"<title>.*?</title>",
+                      r'href="(https?://theme\.npm\.edu\.tw[^"]*)"',
+                      r'href="(https?://digitalarchive\.npm\.gov\.tw/(?!opendata)[^"]*)"']:
+              hits = re.findall(pat, html)[:8]
+              print(pat, "=>", hits)
+          time.sleep(3)
+
+          # 4) opendata 单件 API 对照(同 oid, 第三也是最后一个请求)
+          r = S.get("https://digitalarchive.npm.gov.tw/opendata/OpenDataSearch",
+                    params={"type": "detail", "oid": oid, "dep": dep}, timeout=30)
+          print("api status:", r.status_code, "head:", r.text[:600])
+          PY
+      - name: Upload probe html
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: probe-html
+          path: raw/probe_detail_*.html
+          retention-days: 7
