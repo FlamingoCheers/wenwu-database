@@ -1,0 +1,108 @@
+name: npm-repair-dep
+
+on:
+  workflow_dispatch:
+    inputs:
+      sleep:
+        description: "seconds between requests (politeness)"
+        default: "3"
+      max_requests:
+        description: "hard safety cap on total list requests"
+        default: "2200"
+
+permissions:
+  contents: read
+
+# 礼貌原则: 手动触发、单线程、仅列表页、每请求间隔 sleep 秒、不抓详情页
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Re-pair oid->dep from year-axis listings
+        run: |
+          python - <<'PY'
+          import json, re, time, urllib.request, pathlib, sys
+          sys.path.insert(0, ".")
+          from collectors.npm_collector import DYN_AXIS, SEARCH_URL, UA, DETAIL_RE
+
+          SLEEP = float("${{ inputs.sleep }}")
+          MAX_REQ = int("${{ inputs.max_requests }}")
+          out = pathlib.Path("raw/npm_repair"); out.mkdir(parents=True, exist_ok=True)
+          pairs = {}
+          n_req = 0
+
+          def post_page(lo, hi, label, page):
+              global n_req
+              body = {"RegisterType": None, "IndexYear": None,
+                      "WestBeginYear": lo, "WestEndYear": hi,
+                      "YearDisplay": f"{lo}~{hi}~{label}", "SearchContent": None,
+                      "RegisterTypeEng": None,
+                      "PageInfo": {"PageIndex": page, "PageSize": 50, "PageCount": 0}}
+              req = urllib.request.Request(
+                  SEARCH_URL, data=json.dumps(body, ensure_ascii=False).encode("utf-8"),
+                  headers={**UA, "Content-Type": "application/json",
+                           "Referer": BASE + "/opendata"}, method="POST")
+              last = None
+              for i in range(3):
+                  n_req += 1
+                  try:
+                      with urllib.request.urlopen(req, timeout=60) as r:
+                          return r.read().decode("utf-8", errors="replace")
+                  except Exception as e:
+                      last = e
+                      print(f"  attempt {i+1} failed: {type(e).__name__}: {e}", flush=True)
+                      time.sleep(10)
+              raise last
+
+          BASE = "https://digitalarchive.npm.gov.tw"
+          total_pages = 0
+          for label, lo, hi in DYN_AXIS:
+              page, page_count = 1, None
+              added = 0
+              while True:
+                  if n_req >= MAX_REQ:
+                      print(f"!! hit max_requests={MAX_REQ}, stopping safely", flush=True)
+                      break
+                  html = post_page(lo, hi, label, page)
+                  m = re.search(r"PageCount['\"]?\s*[:=]\s*(\d+)", html)
+                  pc = int(m.group(1)) if m else None
+                  found = DETAIL_RE.findall(html)
+                  if not found:
+                      break
+                  new = 0
+                  for href, oid, dep in found:
+                      if oid not in pairs:
+                          pairs[oid] = dep
+                          new += 1
+                  added += new
+                  total_pages += 1
+                  if page % 10 == 0:
+                      print(f"[{label}] page {page}/{pc} +{new} (total {len(pairs)}, req {n_req})", flush=True)
+                  if pc and page >= pc:
+                      break
+                  page += 1
+                  time.sleep(SLEEP)
+              print(f"== axis {label}: +{added} new pairs, pages so far {total_pages}, req {n_req}", flush=True)
+              if n_req >= MAX_REQ:
+                  break
+              time.sleep(SLEEP)
+
+          (out / "pairs.json").write_text(
+              json.dumps(pairs, ensure_ascii=False, indent=0, sort_keys=True),
+              encoding="utf-8")
+          import collections
+          print("TOTAL unique oids:", len(pairs))
+          print("dep distribution:", dict(collections.Counter(pairs.values())))
+          print("total list requests:", n_req)
+          PY
+      - name: Upload pairs.json
+        uses: actions/upload-artifact@v4
+        with:
+          name: npm-pairs
+          path: raw/npm_repair/pairs.json
+          retention-days: 30
