@@ -60,16 +60,15 @@ jobs:
               if hits >= 3: break
           print("list hits:", hits)
           PY
-      - name: List page 1 + verify 5 stored detail titles (6 requests)
+      - name: Multi-page dep letter scan (3 requests)
         run: |
           python - <<'PY'
-          import json, re, time, urllib.request, pathlib, glob
+          import json, re, time, urllib.request, pathlib, collections
 
           BASE = "https://digitalarchive.npm.gov.tw"
           SEARCH_URL = BASE + "/opendata/Pub/Search"
           UA = {"User-Agent": "wenwu-database-research/1.0 (contact: repo owner)"}
           out = pathlib.Path("raw/npm_probe"); out.mkdir(parents=True, exist_ok=True)
-          norm = lambda s: re.sub(r"\s+", "", s or "")
 
           def post_page(p, attempts=3):
               body = {"RegisterType": None, "IndexYear": None,
@@ -92,41 +91,22 @@ jobs:
                       time.sleep(5)
               raise last
 
-          stored = {}
-          for f in glob.glob("data/relics/NPM-*.json"):
-              m = re.search(r"Detail/(\d+)\?dep=([A-Z])",
-                            pathlib.Path(f).read_text(encoding="utf-8"))
-              if m: stored[m.group(1)] = m.group(2)
-          print("stored NPM records:", len(stored))
-
-          html = post_page(1)
-          (out / "song_p1.html").write_text(html, encoding="utf-8")
           DETAIL_RE = re.compile(
               r'href="(?:/opendata/Pub/Detail/(\d+)\?dep=([A-Z]))&amp;mode=full"')
-          uniq = []
-          for oid, dep in DETAIL_RE.findall(html):
-              if (oid, dep) not in uniq: uniq.append((oid, dep))
-          sample = uniq[:5]
-          print("sample:", sample)
+          CAPTION_RE = re.compile(r'<img[^>]+alt="([^"]{2,40})"')
 
-          ok = 0
-          for oid, dep in sample:
-              url = f"{BASE}/opendata/Pub/Detail/{oid}?dep={dep}&mode=full"
-              req = urllib.request.Request(url, headers=UA)
-              with urllib.request.urlopen(req, timeout=60) as r:
-                  h = r.read().decode("utf-8", errors="replace")
-              (out / f"detail_{oid}.html").write_text(h, encoding="utf-8")
-              m = re.search(r"<title>(.*?)</title>", h, re.S)
-              title = m.group(1) if m else ""
-              rec = json.load(open(f"data/relics/NPM-{oid}.json", encoding="utf-8"))
-              name = rec.get("name_zh") or rec.get("name") or rec.get("title") or ""
-              match = bool(norm(name)[:10]) and norm(name)[:10] in norm(title)
-              print(f"{oid}/{dep}: match={match}")
-              print(f"  stored: {name[:44]}")
-              print(f"  title : {norm(title)[:60]}")
-              ok += bool(match)
+          for p in (2, 25, 60):
+              html = post_page(p)
+              (out / f"song_p{p}.html").write_text(html, encoding="utf-8")
+              pairs = DETAIL_RE.findall(html)
+              deps = collections.Counter(d for _, d in pairs)
+              print(f"page {p}: items={len(pairs)} deps={dict(deps)}")
+              if pairs:
+                  print("  first3:", pairs[:3])
+                  print("  alts  :", CAPTION_RE.findall(html)[:6])
+              else:
+                  print("  (empty page - likely beyond page count)")
               time.sleep(3)
-          print(f"SUMMARY: {ok}/{len(sample)} stored detail URLs still render correct object")
           PY
       - name: Upload probe html
         if: always()
