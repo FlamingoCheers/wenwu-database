@@ -55,7 +55,7 @@ function filtered() {
 function renderChips() {
   const f = state.index.facets;
   const top = (arr, n) => arr.slice(0, n);
-  $("#dynChips").innerHTML = [{ k: "全部", c: state.index.total }, ...top(f.dynasties, 10)]
+  $("#dynChips").innerHTML = [{ k: "全部", c: state.index.total }, ...f.dynasties]
     .map(o => `<button class="chip${o.k === state.dyn ? " on" : ""}" data-dyn="${esc(o.k)}">${esc(o.k)}<span class="c">${o.c}</span></button>`).join("");
   $("#catChips").innerHTML = [{ k: "全部", c: state.index.total }, ...top(f.cats, 10)]
     .map(o => `<button class="chip${o.k === state.cat ? " on" : ""}" data-cat="${esc(o.k)}">${esc(o.k)}<span class="c">${o.c}</span></button>`).join("");
