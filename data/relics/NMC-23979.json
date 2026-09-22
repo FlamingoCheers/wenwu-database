@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-23979",
+ "name": "清末翰林群像",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "通过科举考试的“乡试、会试、殿试”层层选拔出来的优秀进士进入翰林院任职或通过特诏举行的制科考试被皇帝授予翰林官者，方可称为“翰林”。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218724349380533.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_23979.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_23979.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-22",
+ "updated_at": "2026-09-22"
+}

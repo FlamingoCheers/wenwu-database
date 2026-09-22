@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-24008",
+ "name": "北京协和医学校",
+ "aliases": [],
+ "dynasty": "近代",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "1906年（光绪三十二年）先由英国伦敦教会医学会创办，以后又有美国长老会、美以美会和英格兰教会加入办理。这是第一个由英美医务界在中国合办的医学学校。1915年（民国四年）美国洛克菲勒基金会驻华医社接办并改组了学校，更名为私立北平协和医学院，即协和医科大学前身。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218724883967709.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24008.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_24008.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-22",
+ "updated_at": "2026-09-22"
+}
