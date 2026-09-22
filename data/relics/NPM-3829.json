@@ -2,9 +2,12 @@
  "relic_id": "NPM-3829",
  "name": "明徐賁獅子林圖　冊　臥雲室",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1368,
+  1644
+ ],
  "category": "书画",
  "material": null,
  "dimensions": null,
@@ -38,6 +41,6 @@
  "raw_ref": "raw/npm/detail_3829.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07",
+ "updated_at": "2026-09-22T03:58:10+00:00",
  "desc_ai": true
 }

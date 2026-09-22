@@ -2,8 +2,8 @@
  "relic_id": "NMC-24353",
  "name": "民国初年汉口华商赛马公会",
  "aliases": [],
- "dynasty": "商",
- "dynasty_confidence": "low",
+ "dynasty": "近代",
+ "dynasty_confidence": "high",
  "year_range": null,
  "category": "历史影像",
  "material": null,
@@ -33,6 +33,6 @@
  "raw_ref": "raw/nmc/detail_24353.html",
  "needs_review": true,
  "fetched_at": "2026-09-20",
- "updated_at": "2026-09-20",
+ "updated_at": "2026-09-22T03:58:10+00:00",
  "desc_ai": true
 }

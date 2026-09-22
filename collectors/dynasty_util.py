@@ -157,12 +157,21 @@ def map_dynasty(*texts, begin=None, end=None):
     for pattern, key in DYNASTY_MAP:
         if pattern.search(joined):
             return key, "high"
-    # 中文两级: 短字段(年代栏/名称)可用单字朝代词, 长文本仅认带后缀复合词
+    # 中文两级: 短字段(年代栏/名称)可用单字朝代词, 长文本仅认带后缀复合词。
+    # 按文本中最早出现位置取胜(而非词表顺序), 避免品名内画家名(夏珪/李唐/唐寅/沈周/金农)
+    # 抢在句首朝代字之前命中; 同位置时更长词/复合词(WEAK)优先。
     short = len(joined) <= 12
-    for table in ([CH_DYN_STRONG, CH_DYN_WEAK] if short else [CH_DYN_WEAK]):
+    tables = [CH_DYN_STRONG, CH_DYN_WEAK] if short else [CH_DYN_WEAK]
+    best = None  # (start, -matchlen, -table_rank, key)
+    for rank, table in enumerate(tables):
         for pattern, key in table:
-            if pattern.search(joined):
-                return key, "medium"
+            m = pattern.search(joined)
+            if m:
+                cand = (m.start(), -(m.end() - m.start()), -rank, key)
+                if best is None or cand < best:
+                    best = cand
+    if best:
+        return best[3], "medium"
     for token, resolver in DYNASTY_AMBIGUOUS.items():
         if re.search(rf"\b{token}\b", joined, re.I) and begin is not None:
             return resolver(begin), "medium"

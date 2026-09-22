@@ -2,8 +2,8 @@
  "relic_id": "NMC-24419",
  "name": "1900年的联锁枷",
  "aliases": [],
- "dynasty": "汉",
- "dynasty_confidence": "low",
+ "dynasty": "近代",
+ "dynasty_confidence": "high",
  "year_range": null,
  "category": "杂器",
  "material": null,
@@ -33,5 +33,5 @@
  "raw_ref": "raw/nmc/detail_24419.html",
  "needs_review": false,
  "fetched_at": "2026-09-19",
- "updated_at": "2026-09-19"
+ "updated_at": "2026-09-22T03:58:10+00:00"
 }

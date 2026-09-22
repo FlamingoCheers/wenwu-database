@@ -2,9 +2,12 @@
  "relic_id": "NPM-17717",
  "name": "宋徽宗寫生翎毛　卷　寫生翎毛（一）",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "宋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  960,
+  1279
+ ],
  "category": "书画",
  "material": null,
  "dimensions": null,
@@ -39,6 +42,6 @@
  "raw_ref": "raw/npm/detail_17717.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07",
+ "updated_at": "2026-09-22T03:58:10+00:00",
  "desc_ai": true
 }
