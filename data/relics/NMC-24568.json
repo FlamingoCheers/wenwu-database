@@ -2,9 +2,12 @@
  "relic_id": "NMC-24568",
  "name": "玉猪",
  "aliases": [],
- "dynasty": "商",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -202,
+  220
+ ],
  "category": "玉器",
  "material": null,
  "dimensions": null,
@@ -35,5 +38,5 @@
  "raw_ref": "raw/nmc/detail_24568.html",
  "needs_review": false,
  "fetched_at": "2026-09-19",
- "updated_at": "2026-09-19"
+ "updated_at": "2026-09-22T04:12:22+00:00"
 }

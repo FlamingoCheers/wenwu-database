@@ -4,8 +4,8 @@
  "aliases": [
   "Coin with inscription \"Mingdao yuanbao\""
  ],
- "dynasty": "元",
- "dynasty_confidence": "medium",
+ "dynasty": "北宋",
+ "dynasty_confidence": "high",
  "year_range": [
   960,
   1127
@@ -43,5 +43,5 @@
  "raw_ref": "raw/npm/detail_10486.html",
  "needs_review": false,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-22T04:12:22+00:00"
 }
