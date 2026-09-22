@@ -69,7 +69,7 @@ jobs:
           SEARCH_URL = BASE + "/opendata/Pub/Search"
           UA = {"User-Agent": "wenwu-database-research/1.0 (contact: repo owner)"}
 
-          def post_page(p):
+          def post_page(p, attempts=3):
               body = {"RegisterType": None, "IndexYear": None,
                       "WestBeginYear": 960, "WestEndYear": 1279,
                       "YearDisplay": "960~1279~宋", "SearchContent": None,
@@ -79,8 +79,16 @@ jobs:
                   SEARCH_URL, data=json.dumps(body, ensure_ascii=False).encode("utf-8"),
                   headers={**UA, "Content-Type": "application/json",
                            "Referer": BASE + "/opendata"}, method="POST")
-              with urllib.request.urlopen(req, timeout=60) as r:
-                  return r.read().decode("utf-8", errors="replace")
+              last = None
+              for i in range(attempts):
+                  try:
+                      with urllib.request.urlopen(req, timeout=60) as r:
+                          return r.read().decode("utf-8", errors="replace")
+                  except Exception as e:
+                      last = e
+                      print(f"  attempt {i+1} failed: {type(e).__name__}: {e}")
+                      time.sleep(5)
+              raise last
 
           DETAIL_RE = re.compile(
               r'href="(/opendata/Pub/Detail/(\d+)\?dep=([A-Z]))&amp;mode=full"')
@@ -95,7 +103,7 @@ jobs:
               if m: stored[m.group(1)] = m.group(2)
           print("stored NPM records:", len(stored))
 
-          for p in (1, 2):
+          for p in (1,):
               html = post_page(p)
               (out / f"song_p{p}.html").write_text(html, encoding="utf-8")
               pairs = DETAIL_RE.findall(html)
