@@ -60,47 +60,58 @@ jobs:
               if hits >= 3: break
           print("list hits:", hits)
           PY
-      - name: Keyword search pairing check (2 requests)
+      - name: Song-axis list probe (2 requests, saves artifact)
         run: |
           python - <<'PY'
-          import json, re, time, urllib.request
+          import json, re, time, urllib.request, pathlib, glob
 
           BASE = "https://digitalarchive.npm.gov.tw"
           SEARCH_URL = BASE + "/opendata/Pub/Search"
           UA = {"User-Agent": "wenwu-database-research/1.0 (contact: repo owner)"}
 
-          def post_json(url, body):
+          def post_page(p):
+              body = {"RegisterType": None, "IndexYear": None,
+                      "WestBeginYear": 960, "WestEndYear": 1279,
+                      "YearDisplay": "960~1279~宋", "SearchContent": None,
+                      "RegisterTypeEng": None,
+                      "PageInfo": {"PageIndex": p, "PageSize": 50, "PageCount": 0}}
               req = urllib.request.Request(
-                  url, data=json.dumps(body, ensure_ascii=False).encode("utf-8"),
+                  SEARCH_URL, data=json.dumps(body, ensure_ascii=False).encode("utf-8"),
                   headers={**UA, "Content-Type": "application/json",
                            "Referer": BASE + "/opendata"}, method="POST")
               with urllib.request.urlopen(req, timeout=60) as r:
                   return r.read().decode("utf-8", errors="replace")
 
-          body = {"RegisterType": None, "IndexYear": None,
-                  "WestBeginYear": None, "WestEndYear": None,
-                  "YearDisplay": None, "SearchContent": "山居留客",
-                  "RegisterTypeEng": None,
-                  "PageInfo": {"PageIndex": 1, "PageSize": 50, "PageCount": 0}}
-          html = post_json(SEARCH_URL, body)
-          pairs = re.findall(
-              r'href="(/opendata/Pub/Detail/(\d+)\?dep=([A-Z]))&amp;mode=full"', html)
-          alts = re.findall(r'<img[^>]+alt="([^"]{2,40})"', html)
-          print("tile hrefs:", pairs[:10])
-          print("tile alts :", alts[:10])
-          print("pagecount :", re.findall(r"(?:PageCount|共)\D{0,6}(\d+)", html)[:3])
-          time.sleep(3)
+          DETAIL_RE = re.compile(
+              r'href="(/opendata/Pub/Detail/(\d+)\?dep=([A-Z]))&amp;mode=full"')
+          CAPTION_RE = re.compile(r'<img[^>]+alt="([^"]{2,40})"')
+          out = pathlib.Path("raw/npm_probe"); out.mkdir(parents=True, exist_ok=True)
 
-          if pairs:
-              oid, dep = pairs[0][1], pairs[0][2]
-              url = f"{BASE}/opendata/Pub/Detail/{oid}?dep={dep}&mode=full"
-              req = urllib.request.Request(url, headers=UA)
-              with urllib.request.urlopen(req, timeout=60) as r:
-                  h = r.read().decode("utf-8", errors="replace")
-              m = re.search(r"<title>(.*?)</title>", h, re.S)
-              print("detail title:", m.group(1) if m else "?")
-              row = re.search(r"品名(.{0,160})", h, re.S)
-              print("detail 品名:", re.sub(r"<[^>]+>", " ", row.group(1))[:60] if row else "?")
+          # 库内存储映射 oid->dep（来自 NPM-*.json 的 source_url）
+          stored = {}
+          for f in glob.glob("data/relics/NPM-*.json"):
+              m = re.search(r"Detail/(\d+)\?dep=([A-Z])",
+                            pathlib.Path(f).read_text(encoding="utf-8"))
+              if m: stored[m.group(1)] = m.group(2)
+          print("stored NPM records:", len(stored))
+
+          for p in (1, 2):
+              html = post_page(p)
+              (out / f"song_p{p}.html").write_text(html, encoding="utf-8")
+              pairs = DETAIL_RE.findall(html)
+              uniq = {}
+              for _, oid, dep in pairs:
+                  uniq.setdefault(oid, dep)
+              same = sum(1 for o, d in uniq.items() if stored.get(o) == d)
+              diff = [(o, stored.get(o), d) for o, d in uniq.items()
+                      if o in stored and stored.get(o) != d]
+              print(f"page {p}: hrefs={len(pairs)} uniq={len(uniq)} "
+                    f"same_dep={same} shifted={len(diff)}")
+              print("  first5:", list(uniq.items())[:5])
+              print("  shifted sample:", diff[:5])
+              print("  has 1337:", uniq.get("1337"))
+              print("  alts:", CAPTION_RE.findall(html)[:5])
+              if p == 1: time.sleep(3)
           PY
       - name: Upload probe html
         if: always()
