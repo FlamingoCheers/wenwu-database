@@ -24,6 +24,42 @@ jobs:
           python-version: "3.11"
       - name: Install deps
         run: pip install requests
+      - name: Restore npm raw cache (no requests)
+        uses: actions/cache/restore@v4
+        with:
+          path: raw/npm
+          key: npm-raw-notexist
+          restore-keys: |
+            npm-raw-
+      - name: Inspect cached crawl (offline)
+        run: |
+          python - <<'PY'
+          import pathlib, re
+          d = pathlib.Path("raw/npm")
+          if not d.exists():
+              print("no cache restored"); raise SystemExit
+          f = d / "detail_1337.html"
+          if f.exists():
+              h = f.read_text(encoding="utf-8", errors="replace")
+              m = re.search(r"<title>(.*?)</title>", h, re.S)
+              print("cached detail_1337 title:", m.group(1) if m else "?")
+              m = re.search(r"品名(.{0,120})", h, re.S)
+              print("cached 品名 context:", re.sub(r"<[^>]+>", "", m.group(1))[:80] if m else "?")
+          else:
+              print("detail_1337.html not in cache")
+          hits = 0
+          for f in sorted(d.glob("list_*.html")):
+              t = f.read_text(encoding="utf-8", errors="replace")
+              for m in re.finditer(r"山居留客", t):
+                  s = max(0, m.start() - 400)
+                  ctx = t[s:m.start() + 100]
+                  mm = re.findall(r'href="(/opendata/Pub/Detail/(\d+)\?dep=([A-Z]))[^"]*"', ctx)
+                  print(f.parent, f.name, "hit ->", mm[-1] if mm else "no href in ctx")
+                  hits += 1
+                  if hits >= 3: break
+              if hits >= 3: break
+          print("list hits:", hits)
+          PY
       - name: Probe robots.txt and one detail page
         run: |
           python - <<'PY'
