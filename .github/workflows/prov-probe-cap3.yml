@@ -1,0 +1,31 @@
+# Capital probe round 3: browser XHR capture via playwright (dispatch only).
+name: prov-probe-cap3
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install playwright
+        run: pip install playwright && playwright install chromium
+
+      - name: Capture XHR
+        run: python pipeline/prov_probe_cap3.py
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: prov-probe4
+          path: raw/probe4/
+          retention-days: 7
