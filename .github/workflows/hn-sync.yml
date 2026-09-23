@@ -1,0 +1,79 @@
+# HN (河南博物院 chnmus.net) rate-limited sync: static detail pages from a
+# pre-harvested item list (data/meta/hn_lists.json, built once via playwright).
+# Domestic-museum rate policy: max 100 items per 6 hours (polite crawling).
+# Cron offset 40min past the hour to avoid the nmc-sync slot (20min).
+name: hn-sync
+
+on:
+  schedule:
+    - cron: "40 */6 * * *"   # 00:40/06:40/12:40/18:40 UTC = 08:40/14:40/20:40/02:40 Beijing
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Max items this run (hard-capped at 100 by rate policy)"
+        required: false
+        default: "100"
+      sleep:
+        description: "Seconds between fetches"
+        required: false
+        default: "2"
+
+permissions:
+  contents: write
+
+jobs:
+  hn:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Cache HN raw (resume across runs)
+        uses: actions/cache@v4
+        with:
+          path: raw/hn
+          key: hn-raw-${{ github.run_id }}
+          restore-keys: |
+            hn-raw-
+
+      - name: Crawl HN (rate-limited)
+        run: |
+          LIMIT=${{ github.event.inputs.limit || 100 }}
+          if [ "$LIMIT" -gt 100 ]; then
+            echo "rate policy: capping $LIMIT -> 100 items per run"
+            LIMIT=100
+          fi
+          python pipeline/hn_collector.py \
+            --limit "$LIMIT" \
+            --sleep ${{ github.event.inputs.sleep || 2 }}
+
+      - name: Validate
+        run: python pipeline/validate.py
+
+      - name: Build SQLite snapshot
+        run: python pipeline/build_db.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "wenwu-bot"
+          git config user.email "bot@wenwu.local"
+          git add data/relics
+          if git diff --cached --quiet; then
+            echo "no new HN data"
+          else
+            git commit -m "data: HN batch (+<=100 rate-limited) $(date -u +%F)"
+            ok=0
+            for i in 1 2 3; do
+              if git pull --rebase origin master && git push; then ok=1; break; fi
+              echo "push attempt $i failed, retrying after rebase"
+              sleep 20
+            done
+            if [ "$ok" != "1" ]; then
+              echo "::error::push failed after 3 rebase retries"
+              exit 1
+            fi
+          fi

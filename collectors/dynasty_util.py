@@ -30,7 +30,8 @@ DYNASTY_MAP = [
 CH_DYN_STRONG = [
     (re.compile(r"旧石器|新石器|仰韶|龙山|良渚|红山|马家窑|齐家|二里头"), "新石器时代"),
     (re.compile(r"西夏"), "西夏"),
-    (re.compile(r"[东西]周"), "东周"),
+    (re.compile(r"西周"), "西周"),
+    (re.compile(r"东周"), "东周"),
     (re.compile(r"(?<!西)夏"), "夏"),
     (re.compile(r"商"), "商"),
     (re.compile(r"(?<![东西])周"), "东周"),
@@ -39,12 +40,16 @@ CH_DYN_STRONG = [
     (re.compile(r"秦"), "秦"),
     (re.compile(r"(?<!字)汉"), "汉"),
     (re.compile(r"三国"), "三国"),
+    (re.compile(r"西晋"), "西晋"),
+    (re.compile(r"东晋"), "东晋"),
     (re.compile(r"(?<![东西])晋"), "东晋"),
     (re.compile(r"南北朝|北魏|东魏|西魏|北齐|北周"), "南北朝"),
     (re.compile(r"隋"), "隋"),
     (re.compile(r"唐"), "唐"),
     (re.compile(r"五代"), "五代十国"),
     (re.compile(r"辽"), "辽"),
+    (re.compile(r"北宋"), "北宋"),
+    (re.compile(r"南宋"), "南宋"),
     (re.compile(r"(?<![南北])宋"), "宋"),
     (re.compile(r"(?<!鎏|黄|错|贴|紫)金"), "金"),
     (re.compile(r"(?<!公|纪|美|日|多|单|综)元"), "元"),
@@ -159,15 +164,16 @@ def map_dynasty(*texts, begin=None, end=None):
             return key, "high"
     # 中文两级: 短字段(年代栏/名称)可用单字朝代词, 长文本仅认带后缀复合词。
     # 按文本中最早出现位置取胜(而非词表顺序), 避免品名内画家名(夏珪/李唐/唐寅/沈周/金农)
-    # 抢在句首朝代字之前命中; 同位置时更长词/复合词(WEAK)优先。
+    # 抢在句首朝代字之前命中; 同位置时更长匹配优先, 仍同长则 STRONG 细分词表优先
+    # (否则 WEAK 的"西周|东周|周代"行会把"西周晚期"压成东周)。
     short = len(joined) <= 12
     tables = [CH_DYN_STRONG, CH_DYN_WEAK] if short else [CH_DYN_WEAK]
-    best = None  # (start, -matchlen, -table_rank, key)
+    best = None  # (start, -matchlen, table_rank, key)
     for rank, table in enumerate(tables):
         for pattern, key in table:
             m = pattern.search(joined)
             if m:
-                cand = (m.start(), -(m.end() - m.start()), -rank, key)
+                cand = (m.start(), -(m.end() - m.start()), rank, key)
                 if best is None or cand < best:
                     best = cand
     if best:
