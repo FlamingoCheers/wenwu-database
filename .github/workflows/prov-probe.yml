@@ -1,0 +1,29 @@
+# Provincial museum one-shot probe (dispatch only, few polite requests per site).
+name: prov-probe
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Probe museums
+        run: python pipeline/prov_probe_actions.py
+
+      - name: Upload probe artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: prov-probe2
+          path: raw/probe2/
+          retention-days: 7
