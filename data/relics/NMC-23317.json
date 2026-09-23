@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-23317",
+ "name": "仿贝铜币（圣朱）",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "面文旧释“有土之本”、“洛一朱”、“汝六朱”等，均不确。近有学者认为面文只有两字，即“□朱”,根据字书可以释读为“轻朱”,即小铜贝的意思。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218713922497258.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_23317.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_23317.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-23",
+ "updated_at": "2026-09-23"
+}

@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-23728",
+ "name": "宣统三年二十文大清铜币（五十枚换银币一元）",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "红铜质。币面文“宣统三年”，中为币值“二十文”，下镌与银元的兑换比例“五十枚换银币壹元”；背小型珠圈飞龙，四周以“大清铜币”四字环绕。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218720592676828.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_23728.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_23728.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-23",
+ "updated_at": "2026-09-23"
+}

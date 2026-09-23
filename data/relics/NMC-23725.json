@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-23725",
+ "name": "大清铜币（二文）",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "大清铜币二文圆孔铜元造于光绪三十一年至三十二年（1905～1906年），户部造，为试铸币，未正式发行。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218720552222914.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_23725.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_23725.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-23",
+ "updated_at": "2026-09-23"
+}

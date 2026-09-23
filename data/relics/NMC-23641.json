@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-23641",
+ "name": "小银锭",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "钱币",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "这件小银锭直径3.3厘米，厚1厘米，重42.25克。馒头形，边缘较薄，内底有螺旋纹。无铭文。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218719312392220.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_23641.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_23641.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-23",
+ "updated_at": "2026-09-23"
+}

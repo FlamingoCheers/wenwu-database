@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-23448",
+ "name": "皇宋通宝（折二篆书）",
+ "aliases": [],
+ "dynasty": "北宋",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "钱币",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "北宋皇宋通宝铜钱有小平钱、折二钱，小平钱一般直径2.27～2.6厘米，重2～5.9克。面文“皇宋通宝”，对读，楷、隶、篆三种书体。有30多种版别。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218716085602609.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_23448.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_23448.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-23",
+ "updated_at": "2026-09-23"
+}

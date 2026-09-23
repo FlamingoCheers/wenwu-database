@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-23306",
+ "name": "圜钱（垣）",
+ "aliases": [],
+ "dynasty": "战国",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "《史记•秦本纪》记载：“（秦昭襄王）十五年，大良造白起攻魏，取垣，复与之。”表明垣地属魏，战国晚期被秦国攻取，后来又还给了魏国。垣，在今山西垣曲东南。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218713764477601.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_23306.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_23306.html",
+ "needs_review": false,
+ "fetched_at": "2026-09-23",
+ "updated_at": "2026-09-23"
+}

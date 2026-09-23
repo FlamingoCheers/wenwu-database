@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-23601",
+ "name": "大德通宝",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "钱币",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "大德通宝钱铸于大德年间（1297～1307年），青铜质，有小平钱、折二钱、折三钱，直径、重量为：小平钱2.4厘米左右，3.4克左右；折二钱2.7厘米左右，6.3克左右；折三钱3厘米，9.4克左右。汉文钱有小平、折二、折三钱，楷书，对读；蒙文钱只有折三钱，对读。小平钱有大、小样，折三钱有钱文连缘离郭、离缘连郭等版式。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218718692835337.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_23601.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_23601.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-23",
+ "updated_at": "2026-09-23"
+}

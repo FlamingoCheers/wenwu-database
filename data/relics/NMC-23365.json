@@ -1,0 +1,35 @@
+{
+ "relic_id": "NMC-23365",
+ "name": "五铢",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "category": "青铜器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "collection": {
+  "museum": "中国国家博物馆",
+  "region": "中国大陆",
+  "inventory_no": ""
+ },
+ "summary": "南朝梁武帝天监元年（502年）开始铸造一种面背均有内外郭的五铢钱，青铜质。一般直径2.25～2.3厘米，重2.5～3.6克。面文“五铢”，篆书，顺读。有多种版别：面上下有星纹、面上下及背上星纹、面左右星纹、无星纹等，面有二星纹的到梁末称为两柱钱。",
+ "history": "",
+ "interpretation": [],
+ "images": [
+  {
+   "url": "https://www.chnmuseum.cn/zp/zpml/P020181218714623619220.jpg",
+   "license": "©中国国家博物馆",
+   "credit": "中国国家博物馆"
+  }
+ ],
+ "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_23365.shtml",
+ "license": "©中国国家博物馆",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/nmc/detail_23365.html",
+ "needs_review": true,
+ "fetched_at": "2026-09-23",
+ "updated_at": "2026-09-23"
+}
