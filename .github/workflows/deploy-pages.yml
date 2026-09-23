@@ -11,7 +11,7 @@ on:
   # GITHUB_TOKEN 提交不会触发 push 事件（防递归），数据更新全走 Actions
   # bot 提交，所以必须用 workflow_run 兜底，否则站点会一直停在手动推送的版本
   workflow_run:
-    workflows: [update-data, npm-sync, nmc-sync]
+    workflows: [update-data, npm-sync, nmc-sync, hn-sync]
     types: [completed]
     branches: [master]
   workflow_dispatch:
