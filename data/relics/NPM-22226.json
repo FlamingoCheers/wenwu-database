@@ -4,9 +4,12 @@
  "aliases": [
   "Modelbooks of the Three Rarities Hall, Vol. 12: Letter to Zihou, Supervisor for Proper Cultivation (gong shi zheng yi)"
  ],
- "dynasty": "不详",
+ "dynasty": "宋",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  960,
+  1279
+ ],
  "category": "书画",
  "material": null,
  "dimensions": null,
@@ -41,6 +44,6 @@
  "raw_ref": "raw/npm/detail_22226.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-22",
+ "updated_at": "2026-09-23",
  "desc_ai": true
 }

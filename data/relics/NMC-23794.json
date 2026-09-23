@@ -2,9 +2,12 @@
  "relic_id": "NMC-23794",
  "name": "斗彩婴戏纹杯",
  "aliases": [],
- "dynasty": "唐",
+ "dynasty": "明",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  1368,
+  1644
+ ],
  "category": "瓷器",
  "material": null,
  "dimensions": null,
@@ -31,5 +34,5 @@
  "raw_ref": "raw/nmc/detail_23794.html",
  "needs_review": false,
  "fetched_at": "2026-09-22",
- "updated_at": "2026-09-22"
+ "updated_at": "2026-09-23"
 }

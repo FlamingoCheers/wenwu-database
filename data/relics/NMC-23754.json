@@ -2,9 +2,12 @@
  "relic_id": "NMC-23754",
  "name": "青花缠枝花卉纹玉壶春瓶",
  "aliases": [],
- "dynasty": "宋",
+ "dynasty": "元",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  1271,
+  1368
+ ],
  "category": "瓷器",
  "material": null,
  "dimensions": null,
@@ -31,5 +34,5 @@
  "raw_ref": "raw/nmc/detail_23754.html",
  "needs_review": false,
  "fetched_at": "2026-09-22",
- "updated_at": "2026-09-22"
+ "updated_at": "2026-09-23"
 }

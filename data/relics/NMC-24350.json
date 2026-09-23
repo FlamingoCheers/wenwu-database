@@ -2,10 +2,13 @@
  "relic_id": "NMC-24350",
  "name": "前门大街上贩卖的老北京玩艺儿——“空竹”",
  "aliases": [],
- "dynasty": "三国",
+ "dynasty": "清",
  "dynasty_confidence": "low",
- "year_range": null,
- "category": "杂器",
+ "year_range": [
+  1644,
+  1911
+ ],
+ "category": "历史影像",
  "material": null,
  "dimensions": null,
  "excavated_from": "",
@@ -33,5 +36,5 @@
  "raw_ref": "raw/nmc/detail_24350.html",
  "needs_review": false,
  "fetched_at": "2026-09-20",
- "updated_at": "2026-09-20"
+ "updated_at": "2026-09-23"
 }

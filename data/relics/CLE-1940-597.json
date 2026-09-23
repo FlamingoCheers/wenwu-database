@@ -2,7 +2,7 @@
  "relic_id": "CLE-1940-597",
  "name": "Velvet",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "dynasty_confidence": "low",
  "year_range": [
   1600,
@@ -42,5 +42,5 @@
  "raw_ref": "raw/cle/page_1000.json",
  "needs_review": true,
  "fetched_at": "2026-09-04",
- "updated_at": "2026-09-04"
+ "updated_at": "2026-09-23"
 }

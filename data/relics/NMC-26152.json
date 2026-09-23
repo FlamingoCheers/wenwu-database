@@ -2,9 +2,12 @@
  "relic_id": "NMC-26152",
  "name": "“明瓒诗后题卷”局部",
  "aliases": [],
- "dynasty": "唐",
+ "dynasty": "宋",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  960,
+  1279
+ ],
  "category": "书画",
  "material": null,
  "dimensions": null,
@@ -37,5 +40,5 @@
  "raw_ref": "raw/nmc/detail_26152.html",
  "needs_review": false,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-23"
 }

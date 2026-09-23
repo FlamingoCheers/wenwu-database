@@ -2,11 +2,11 @@
  "relic_id": "NPM-14432",
  "name": "唐宋名繢　冊　宋陳居中平原試馬",
  "aliases": [],
- "dynasty": "唐",
+ "dynasty": "宋",
  "dynasty_confidence": "high",
  "year_range": [
-  618,
-  907
+  960,
+  1279
  ],
  "category": "书画",
  "material": null,
@@ -41,6 +41,6 @@
  "raw_ref": "raw/npm/detail_14432.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-22",
+ "updated_at": "2026-09-23",
  "desc_ai": true
 }

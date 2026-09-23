@@ -4,9 +4,12 @@
  "aliases": [
   "Modelbook of the Lively Snowfall Hall (Kuaixue Tang), (Two): Farewell Modelbook (Fengci Tie)"
  ],
- "dynasty": "不详",
+ "dynasty": "唐",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  618,
+  907
+ ],
  "category": "书画",
  "material": null,
  "dimensions": null,
@@ -41,6 +44,6 @@
  "raw_ref": "raw/npm/detail_16721.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-22",
+ "updated_at": "2026-09-23",
  "desc_ai": true
 }

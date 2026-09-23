@@ -2,8 +2,11 @@
  "relic_id": "SXHM-8614（黑）之3",
  "name": "战国铜圜钱",
  "aliases": [],
- "dynasty": "东周",
- "year_range": null,
+ "dynasty": "战国",
+ "year_range": [
+  -475,
+  -221
+ ],
  "category": "钱币",
  "material": "铜",
  "dimensions": "直径3.8",
@@ -24,5 +27,5 @@
  "raw_ref": "raw/sxhm/499.xlsx",
  "needs_review": false,
  "fetched_at": "2026-09-21",
- "updated_at": "2026-09-21"
+ "updated_at": "2026-09-23"
 }

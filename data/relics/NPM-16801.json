@@ -4,9 +4,12 @@
  "aliases": [
   "Imperial Engraved Modelbooks of the Studio of Wonderful Ink, Vol. 1: Transcription of He Pingshu's Ode on Jingfu Palace"
  ],
- "dynasty": "不详",
+ "dynasty": "唐",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  618,
+  907
+ ],
  "category": "书画",
  "material": null,
  "dimensions": null,
@@ -40,6 +43,6 @@
  "raw_ref": "raw/npm/detail_16801.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-22",
+ "updated_at": "2026-09-23",
  "desc_ai": true
 }

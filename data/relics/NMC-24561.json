@@ -2,9 +2,12 @@
  "relic_id": "NMC-24561",
  "name": "龙纹玉璧",
  "aliases": [],
- "dynasty": "新石器时代",
+ "dynasty": "汉",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  -202,
+  220
+ ],
  "category": "玉器",
  "material": null,
  "dimensions": null,
@@ -37,5 +40,5 @@
  "raw_ref": "raw/nmc/detail_24561.html",
  "needs_review": false,
  "fetched_at": "2026-09-19",
- "updated_at": "2026-09-19"
+ "updated_at": "2026-09-23"
 }

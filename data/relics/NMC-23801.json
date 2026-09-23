@@ -2,9 +2,12 @@
  "relic_id": "NMC-23801",
  "name": "青花双狮戏球纹鼓式坐墩",
  "aliases": [],
- "dynasty": "宋",
+ "dynasty": "明",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  1368,
+  1644
+ ],
  "category": "瓷器",
  "material": null,
  "dimensions": null,
@@ -31,5 +34,5 @@
  "raw_ref": "raw/nmc/detail_23801.html",
  "needs_review": false,
  "fetched_at": "2026-09-22",
- "updated_at": "2026-09-22"
+ "updated_at": "2026-09-23"
 }

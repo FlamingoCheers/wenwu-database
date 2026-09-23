@@ -2,9 +2,12 @@
  "relic_id": "NPM-3801",
  "name": "宋馬遠小品　冊　清影自在",
  "aliases": [],
- "dynasty": "宋",
+ "dynasty": "清",
  "dynasty_confidence": "medium",
- "year_range": null,
+ "year_range": [
+  1644,
+  1911
+ ],
  "category": "书画",
  "material": null,
  "dimensions": null,
@@ -38,6 +41,6 @@
  "raw_ref": "raw/npm/detail_3801.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-22",
+ "updated_at": "2026-09-23",
  "desc_ai": true
 }

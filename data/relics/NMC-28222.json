@@ -2,9 +2,12 @@
  "relic_id": "NMC-28222",
  "name": "玉梳",
  "aliases": [],
- "dynasty": "新石器时代",
+ "dynasty": "商",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  -1600,
+  -1046
+ ],
  "category": "玉器",
  "material": null,
  "dimensions": null,
@@ -36,5 +39,5 @@
  "raw_ref": "raw/nmc/detail_28222.html",
  "needs_review": false,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-23"
 }

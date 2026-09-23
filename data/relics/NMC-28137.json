@@ -2,9 +2,12 @@
  "relic_id": "NMC-28137",
  "name": "飞天",
  "aliases": [],
- "dynasty": "唐",
+ "dynasty": "宋",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  960,
+  1279
+ ],
  "category": "杂器",
  "material": null,
  "dimensions": null,
@@ -33,5 +36,5 @@
  "raw_ref": "raw/nmc/detail_28137.html",
  "needs_review": false,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-23"
 }

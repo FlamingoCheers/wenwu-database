@@ -2,7 +2,7 @@
  "relic_id": "MET-44337",
  "name": "Dog",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "南北朝",
  "dynasty_confidence": "low",
  "year_range": [
   400,
@@ -38,5 +38,5 @@
  "raw_ref": "raw/met/44337.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08"
+ "updated_at": "2026-09-23"
 }

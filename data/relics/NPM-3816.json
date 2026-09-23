@@ -2,11 +2,11 @@
  "relic_id": "NPM-3816",
  "name": "宋馬麟畫花卉　冊　清和池沼",
  "aliases": [],
- "dynasty": "宋",
+ "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  960,
-  1279
+  1644,
+  1911
  ],
  "category": "书画",
  "material": null,
@@ -41,6 +41,6 @@
  "raw_ref": "raw/npm/detail_3816.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-22",
+ "updated_at": "2026-09-23",
  "desc_ai": true
 }

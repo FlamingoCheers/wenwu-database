@@ -2,9 +2,12 @@
  "relic_id": "NMC-26047",
  "name": "茶臼",
  "aliases": [],
- "dynasty": "唐",
+ "dynasty": "五代十国",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  907,
+  979
+ ],
  "category": "宗教造像",
  "material": null,
  "dimensions": null,
@@ -37,5 +40,5 @@
  "raw_ref": "raw/nmc/detail_26047.html",
  "needs_review": false,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-23"
 }

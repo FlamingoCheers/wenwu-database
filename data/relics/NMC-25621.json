@@ -2,9 +2,12 @@
  "relic_id": "NMC-25621",
  "name": "仿宋官窑兽耳瓶",
  "aliases": [],
- "dynasty": "隋",
+ "dynasty": "清",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  1644,
+  1911
+ ],
  "category": "瓷器",
  "material": null,
  "dimensions": null,
@@ -33,5 +36,5 @@
  "raw_ref": "raw/nmc/detail_25621.html",
  "needs_review": false,
  "fetched_at": "2026-09-19",
- "updated_at": "2026-09-19"
+ "updated_at": "2026-09-23"
 }

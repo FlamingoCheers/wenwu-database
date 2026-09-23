@@ -2,9 +2,12 @@
  "relic_id": "NMC-26106",
  "name": "定窑划花萱草葵瓣口碗",
  "aliases": [],
- "dynasty": "唐",
+ "dynasty": "宋",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  960,
+  1279
+ ],
  "category": "瓷器",
  "material": null,
  "dimensions": null,
@@ -37,5 +40,5 @@
  "raw_ref": "raw/nmc/detail_26106.html",
  "needs_review": false,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-23"
 }

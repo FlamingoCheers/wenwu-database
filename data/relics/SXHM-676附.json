@@ -4,8 +4,11 @@
  "aliases": [
   "“安阳”平首布"
  ],
- "dynasty": "东周",
- "year_range": null,
+ "dynasty": "战国",
+ "year_range": [
+  -475,
+  -221
+ ],
  "category": "钱币",
  "material": null,
  "dimensions": "长4.7",
@@ -26,5 +29,5 @@
  "raw_ref": "raw/sxhm/499.xlsx",
  "needs_review": false,
  "fetched_at": "2026-09-21",
- "updated_at": "2026-09-21"
+ "updated_at": "2026-09-23"
 }

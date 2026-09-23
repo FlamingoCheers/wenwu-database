@@ -4,9 +4,12 @@
  "aliases": [
   "Modelbooks of the Three Rarities Hall, (Twenty-Two)： Yuan and Ming Dynasties Authors' Colophon to the Calligraphy Album by the Zhao Family"
  ],
- "dynasty": "不详",
+ "dynasty": "元",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  1271,
+  1368
+ ],
  "category": "书画",
  "material": null,
  "dimensions": null,
@@ -41,6 +44,6 @@
  "raw_ref": "raw/npm/detail_23034.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-22",
+ "updated_at": "2026-09-23",
  "desc_ai": true
 }
