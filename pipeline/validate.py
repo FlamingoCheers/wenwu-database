@@ -41,7 +41,9 @@ def validate(path, dynasties, categories, regions):
             errors.append(f"images[{i}] 缺 license/credit（来源标注是硬要求）")
     if not r.get("images"):
         # SXHM 品种记录来自馆方公开目录，无图属已知情况，放行（仍计入 no_image 统计）
-        if not str(r.get("relic_id", "")).startswith("SXHM"):
+        # HN 河南博物院详情页仅照片轮播（未授权直链），同样无图放行
+        rid = str(r.get("relic_id", ""))
+        if not (rid.startswith("SXHM") or rid.startswith("HN")):
             errors.append("无图片")
     if r.get("year_range") and len(r["year_range"]) != 2:
         errors.append("year_range 长度异常")
