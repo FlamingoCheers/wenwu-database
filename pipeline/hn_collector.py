@@ -14,6 +14,8 @@ LISTS = ROOT / "data/meta/hn_lists.json"
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 BASE = "https://www.chnmus.net"
 TODAY = time.strftime("%Y-%m-%d")
+# 联合特展的合作馆介绍页（国博/故宫/上博…）不是藏品，直接跳过
+INST_RE = re.compile(r"(博物馆|博物院|纪念馆|美术馆)$|(国家博物馆|故宫博物院)$")
 
 sys.path.insert(0, str(ROOT / "collectors"))
 from dynasty_util import map_dynasty, map_tags  # noqa: E402
@@ -100,6 +102,10 @@ def main():
         name = dname or name
         if not name:
             print(f"SKIP {oid}: no name")
+            continue
+        if INST_RE.search(name.strip()):
+            print(f"SKIP {oid}: institution page | {name}")
+            skipped += 1
             continue
         dyn, conf = map_dynasty(era, name)
         desc_keys = ("说明", "介绍", "描述", "注")
