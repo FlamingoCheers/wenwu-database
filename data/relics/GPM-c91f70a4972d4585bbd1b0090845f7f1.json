@@ -2,8 +2,11 @@
  "relic_id": "GPM-c91f70a4972d4585bbd1b0090845f7f1",
  "name": "嘉靖款剔彩货郎图圆盘",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "明",
+ "year_range": [
+  1368,
+  1644
+ ],
  "category": "漆器",
  "material": null,
  "dimensions": null,
@@ -22,7 +25,7 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-24",
- "updated_at": "2026-09-24"
+ "updated_at": "2026-09-25"
 }

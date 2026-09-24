@@ -2,8 +2,11 @@
  "relic_id": "GPM-a5200a64bf16466d8094f202d097cc22",
  "name": "成化款德化窑白釉铺首耳炉",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "明",
+ "year_range": [
+  1368,
+  1644
+ ],
  "category": "瓷器",
  "material": null,
  "dimensions": null,
@@ -22,7 +25,7 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-24",
- "updated_at": "2026-09-24"
+ "updated_at": "2026-09-25"
 }

@@ -2,8 +2,11 @@
  "relic_id": "GPM-d3af8ce3cd0c4417a0135046299857d7",
  "name": "宋元集册第二本-李升货郎图页",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "元",
+ "year_range": [
+  1271,
+  1368
+ ],
  "category": "书画",
  "material": null,
  "dimensions": null,
@@ -22,7 +25,7 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-24",
- "updated_at": "2026-09-24"
+ "updated_at": "2026-09-25"
 }

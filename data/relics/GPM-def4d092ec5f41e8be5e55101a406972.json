@@ -2,8 +2,11 @@
  "relic_id": "GPM-def4d092ec5f41e8be5e55101a406972",
  "name": "钧窑天蓝釉海棠式花盆托",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "宋",
+ "year_range": [
+  960,
+  1279
+ ],
  "category": "瓷器",
  "material": null,
  "dimensions": null,
@@ -22,7 +25,7 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-24",
- "updated_at": "2026-09-24"
+ "updated_at": "2026-09-25"
 }

@@ -2,8 +2,11 @@
  "relic_id": "GPM-880d94d6f52a48e9b3709a0401354105",
  "name": "耀州窑青釉印花双鱼纹洗",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "宋",
+ "year_range": [
+  960,
+  1279
+ ],
  "category": "瓷器",
  "material": null,
  "dimensions": null,
@@ -22,7 +25,7 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-24",
- "updated_at": "2026-09-24"
+ "updated_at": "2026-09-25"
 }

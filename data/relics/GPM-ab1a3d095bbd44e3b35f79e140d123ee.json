@@ -2,8 +2,11 @@
  "relic_id": "GPM-ab1a3d095bbd44e3b35f79e140d123ee",
  "name": "焦秉贞画历朝贤后故事册",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1644,
+  1911
+ ],
  "category": "书画",
  "material": null,
  "dimensions": null,
@@ -22,7 +25,7 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-24",
- "updated_at": "2026-09-24"
+ "updated_at": "2026-09-25"
 }

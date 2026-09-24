@@ -2,8 +2,11 @@
  "relic_id": "GPM-0bb81dd515ae4b0a92bbb4ec13a2b5b8",
  "name": "紫檀嵌玉乾隆御临兰亭八柱帖册页-第八册",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1644,
+  1911
+ ],
  "category": "雕塑",
  "material": null,
  "dimensions": null,
@@ -22,7 +25,7 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-24",
- "updated_at": "2026-09-24"
+ "updated_at": "2026-09-25"
 }

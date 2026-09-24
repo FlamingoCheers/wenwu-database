@@ -2,8 +2,11 @@
  "relic_id": "GPM-8a92c63af1cf4b2a95bd3ad0446ee8e8",
  "name": "耀州窑青釉刻水波菊瓣纹小执壶",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "宋",
+ "year_range": [
+  960,
+  1279
+ ],
  "category": "瓷器",
  "material": null,
  "dimensions": null,
@@ -22,7 +25,7 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-24",
- "updated_at": "2026-09-24"
+ "updated_at": "2026-09-25"
 }

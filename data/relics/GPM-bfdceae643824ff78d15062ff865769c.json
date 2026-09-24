@@ -2,8 +2,11 @@
  "relic_id": "GPM-bfdceae643824ff78d15062ff865769c",
  "name": "李希乔款竹雕溪山行旅图笔筒",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1644,
+  1911
+ ],
  "category": "雕塑",
  "material": null,
  "dimensions": null,
@@ -22,7 +25,7 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-24",
- "updated_at": "2026-09-24"
+ "updated_at": "2026-09-25"
 }

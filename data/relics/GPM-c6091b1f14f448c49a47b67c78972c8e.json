@@ -2,8 +2,11 @@
  "relic_id": "GPM-c6091b1f14f448c49a47b67c78972c8e",
  "name": "金廷标画弘历吴下故迹册",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1644,
+  1911
+ ],
  "category": "书画",
  "material": null,
  "dimensions": null,
@@ -22,7 +25,7 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-24",
- "updated_at": "2026-09-24"
+ "updated_at": "2026-09-25"
 }

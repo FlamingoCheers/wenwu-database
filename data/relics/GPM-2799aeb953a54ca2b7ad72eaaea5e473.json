@@ -2,8 +2,11 @@
  "relic_id": "GPM-2799aeb953a54ca2b7ad72eaaea5e473",
  "name": "任颐花鸟图屏-棕榈鸡图屏",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1644,
+  1911
+ ],
  "category": "书画",
  "material": null,
  "dimensions": null,
@@ -22,7 +25,7 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-24",
- "updated_at": "2026-09-24"
+ "updated_at": "2026-09-25"
 }

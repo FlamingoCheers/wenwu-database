@@ -2,8 +2,11 @@
  "relic_id": "GPM-4f3f1dc194b5468bafd4b3385abdd4d4",
  "name": "定窑白釉刻“徐六师记”铭皮囊壶",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "宋",
+ "year_range": [
+  960,
+  1279
+ ],
  "category": "瓷器",
  "material": null,
  "dimensions": null,
@@ -22,7 +25,7 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-24",
- "updated_at": "2026-09-24"
+ "updated_at": "2026-09-25"
 }
