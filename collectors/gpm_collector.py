@@ -92,7 +92,10 @@ def main():
     empty_marks = []
     from playwright.sync_api import sync_playwright
     with sync_playwright() as p:
-        b = p.chromium.launch(channel="msedge", headless=True)
+        try:
+            b = p.chromium.launch(channel="msedge", headless=True)
+        except Exception:
+            b = p.chromium.launch(headless=True)
         pg = b.new_page(viewport={"width": 1440, "height": 900})
         for kw in kws:
             if kw in state:
