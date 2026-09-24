@@ -1,0 +1,48 @@
+{
+ "relic_id": "SMI-fsg_F1919.13a-c",
+ "name": "Dagger-axe (ge 戈)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -2000,
+  -1400
+ ],
+ "category": "玉器",
+ "material": "Jade (nephrite) | H x W x D: 10.2 x 67.1 x 0.6 cm (4 x 26 7/16 x 1/4 in)",
+ "dimensions": "Jade (nephrite) | H x W x D: 10.2 x 67.1 x 0.6 cm (4 x 26 7/16 x 1/4 in)",
+ "excavated_from": "",
+ "summary": "ca. 2000-ca. 1400 BCE ， Erlitou culture or early Shang dynasty。Jade (nephrite) | H x W x D: 10.2 x 67.1 x 0.6 cm (4 x 26 7/16 x 1/4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1919.13a-c"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1919.13a-c_001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1919.13a-c_002",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1919.13a-c/",
+ "license": "CC0",
+ "tags": [
+  "战争",
+  "兵器",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "SMI-fsg_F1916.271",
+ "name": "Dagger-axe (ge)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1500,
+  -1050
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x W x D: 2.6 × 22.2 × 6.3 cm (1 × 8 3/4 × 2 1/2 in)",
+ "dimensions": "Bronze | H x W x D: 2.6 × 22.2 × 6.3 cm (1 × 8 3/4 × 2 1/2 in)",
+ "excavated_from": "",
+ "summary": "ca. 1500-1050 BCE ， Late Shang dynasty。Bronze | H x W x D: 2.6 × 22.2 × 6.3 cm (1 × 8 3/4 × 2 1/2 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1916.271"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7728_11",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1916.271/",
+ "license": "CC0",
+ "tags": [
+  "战争",
+  "兵器"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

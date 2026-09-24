@@ -1,0 +1,42 @@
+{
+ "relic_id": "SMI-fsg_FSC-B-525",
+ "name": "Fragment of Mirror. Lion and grape design",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "杂器",
+ "material": "H x W x D (overall): 9.6 x 3.2 x 1.3 cm (3 3/4 x 1 1/4 x 1/2 in)",
+ "dimensions": "H x W x D (overall): 9.6 x 3.2 x 1.3 cm (3 3/4 x 1 1/4 x 1/2 in)",
+ "excavated_from": "",
+ "summary": "618-907 ， Tang dynasty。H x W x D (overall): 9.6 x 3.2 x 1.3 cm (3 3/4 x 1 1/4 x 1/2 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "FSC-B-525"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8514_04",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/FSC-B-525/",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

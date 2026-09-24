@@ -1,0 +1,46 @@
+{
+ "relic_id": "SMI-fsg_F1910.15",
+ "name": "Jar",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -100,
+  -1
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with wood-ash glaze | H x W: 22.9 x 19.1 cm (9 x 7 1/2 in)",
+ "dimensions": "Stoneware with wood-ash glaze | H x W: 22.9 x 19.1 cm (9 x 7 1/2 in)",
+ "excavated_from": "",
+ "summary": "1st century BCE ， Western Han dynasty。Stoneware with wood-ash glaze | H x W: 22.9 x 19.1 cm (9 x 7 1/2 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1910.15"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-6972_06",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-6972_07",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1910.15/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

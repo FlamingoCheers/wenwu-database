@@ -1,0 +1,42 @@
+{
+ "relic_id": "SMI-fsg_F1924.1",
+ "name": "Lunette",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  701,
+  800
+ ],
+ "category": "雕塑",
+ "material": "Stone | H x W x D: 74.6 x 165.5 x 25 cm (29 3/8 x 65 3/16 x 9 13/16 in)",
+ "dimensions": "Stone | H x W x D: 74.6 x 165.5 x 25 cm (29 3/8 x 65 3/16 x 9 13/16 in)",
+ "excavated_from": "",
+ "summary": "middle 8th century ， Tang dynasty。Stone | H x W x D: 74.6 x 165.5 x 25 cm (29 3/8 x 65 3/16 x 9 13/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1924.1"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7996_01",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1924.1/",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

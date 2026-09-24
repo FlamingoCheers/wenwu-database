@@ -1,0 +1,46 @@
+{
+ "relic_id": "SMI-fsg_FSC-P-4209",
+ "name": "Sherd, undecorated",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1600,
+  -1050
+ ],
+ "category": "杂器",
+ "material": "H x W (overall): 3.7 x 2.5 cm (1 7/16 x 1 in)",
+ "dimensions": "H x W (overall): 3.7 x 2.5 cm (1 7/16 x 1 in)",
+ "excavated_from": "",
+ "summary": "ca. 1600 - ca. 1050 BCE ， Shang dynasty。H x W (overall): 3.7 x 2.5 cm (1 7/16 x 1 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "FSC-P-4209"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-FSC-P-4209_1",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-FSC-P-4209_2",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/FSC-P-4209/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

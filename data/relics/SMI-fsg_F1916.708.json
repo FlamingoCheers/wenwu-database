@@ -1,0 +1,40 @@
+{
+ "relic_id": "SMI-fsg_F1916.708",
+ "name": "Base for standard",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -220,
+  -206
+ ],
+ "category": "青铜器",
+ "material": "Bronze, gilding | Diam: 16.1 cm (6 5/16 in)",
+ "dimensions": "Bronze, gilding | Diam: 16.1 cm (6 5/16 in)",
+ "excavated_from": "",
+ "summary": "206 BCE-220 CE ， Han dynasty。Bronze, gilding | Diam: 16.1 cm (6 5/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1916.708"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7775_20",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1916.708/",
+ "license": "CC0",
+ "tags": [
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

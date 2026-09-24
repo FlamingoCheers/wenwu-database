@@ -1,0 +1,43 @@
+{
+ "relic_id": "SMI-fsg_F1912.44",
+ "name": "Disk (bi 璧)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1600,
+  -1050
+ ],
+ "category": "玉器",
+ "material": "Jade (nephrite) | Diam x D: 7.9 x 0.8 cm (3 1/8 x 5/16 in) | Diam (hole): 2.3 cm (7/8 in)",
+ "dimensions": "Jade (nephrite) | Diam x D: 7.9 x 0.8 cm (3 1/8 x 5/16 in) | Diam (hole): 2.3 cm (7/8 in)",
+ "excavated_from": "",
+ "summary": "ca. 1600-1050 BCE ， Probably Shang dynasty。Jade (nephrite) | Diam x D: 7.9 x 0.8 cm (3 1/8 x 5/16 in) | Diam (hole): 2.3 cm (7/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1912.44"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1912.44_001-000001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1912.44_002-000001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1912.44/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

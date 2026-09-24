@@ -1,0 +1,48 @@
+{
+ "relic_id": "SMI-fsg_F1911.133",
+ "name": "Standing Buddha",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "high",
+ "year_range": [
+  550,
+  577
+ ],
+ "category": "青铜器",
+ "material": "Bronze with gilding | H x W: 24.7 x 9.2 cm (9 3/4 x 3 5/8 in)",
+ "dimensions": "Bronze with gilding | H x W: 24.7 x 9.2 cm (9 3/4 x 3 5/8 in)",
+ "excavated_from": "",
+ "summary": "ca. 550-577 ， Period of Division, Possbly Northern Qi dynasty。Bronze with gilding | H x W: 24.7 x 9.2 cm (9 3/4 x 3 5/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1911.133"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7606_28",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7606_29",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1911.133/",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "植物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

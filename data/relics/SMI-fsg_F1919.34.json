@@ -1,0 +1,43 @@
+{
+ "relic_id": "SMI-fsg_F1919.34",
+ "name": "Disk (bi 璧)",
+ "aliases": [],
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -3300,
+  -2350
+ ],
+ "category": "玉器",
+ "material": "Jade (nephrite) | Diam x D: 11.6 × 0.7 cm (4 9/16 × 1/4 in) | Diam (hole): 5.9 cm (2 5/16 in)",
+ "dimensions": "Jade (nephrite) | Diam x D: 11.6 × 0.7 cm (4 9/16 × 1/4 in) | Diam (hole): 5.9 cm (2 5/16 in)",
+ "excavated_from": "",
+ "summary": "ca. 3300-ca. 2350 BCE ， Late Neolithic period。Jade (nephrite) | Diam x D: 11.6 × 0.7 cm (4 9/16 × 1/4 in) | Diam (hole): 5.9 cm (2 5/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1919.34"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1919.34_001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1919.34_002",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1919.34/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

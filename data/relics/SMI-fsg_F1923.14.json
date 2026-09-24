@@ -1,0 +1,48 @@
+{
+ "relic_id": "SMI-fsg_F1923.14",
+ "name": "Buddhist stele",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "low",
+ "year_range": [
+  564,
+  663
+ ],
+ "category": "碑帖拓本",
+ "material": "Limestone | H x W x D (overall): 125.8 x 64.1 x 11.9 cm (49 1/2 x 25 1/4 x 4 11/16 in)",
+ "dimensions": "Limestone | H x W x D (overall): 125.8 x 64.1 x 11.9 cm (49 1/2 x 25 1/4 x 4 11/16 in)",
+ "excavated_from": "",
+ "summary": "Dated 564 C. E. ， Period of Division。Limestone | H x W x D (overall): 125.8 x 64.1 x 11.9 cm (49 1/2 x 25 1/4 x 4 11/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1923.14"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-5952_09",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-5952_10",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1923.14/",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

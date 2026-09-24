@@ -1,0 +1,43 @@
+{
+ "relic_id": "SMI-fsg_F1923.16",
+ "name": "Pottery vessel of the type li",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -770,
+  -221
+ ],
+ "category": "瓷器",
+ "material": "Earthenware | H x Diam: 26.1 x 17.3 cm (10 1/4 x 6 13/16 in)",
+ "dimensions": "Earthenware | H x Diam: 26.1 x 17.3 cm (10 1/4 x 6 13/16 in)",
+ "excavated_from": "",
+ "summary": "770-221 BCE ， Eastern Zhou dynasty。Earthenware | H x Diam: 26.1 x 17.3 cm (10 1/4 x 6 13/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1923.16"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7531_27",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1923.16/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

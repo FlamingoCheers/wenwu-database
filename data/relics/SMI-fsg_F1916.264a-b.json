@@ -1,0 +1,53 @@
+{
+ "relic_id": "SMI-fsg_F1916.264a-b",
+ "name": "Garment hook (daigou)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -300,
+  -201
+ ],
+ "category": "青铜器",
+ "material": "Bronze, inlaid with gold and silver | H x W: 17.4 x 1.6 cm (6 7/8 x 5/8 in)",
+ "dimensions": "Bronze, inlaid with gold and silver | H x W: 17.4 x 1.6 cm (6 7/8 x 5/8 in)",
+ "excavated_from": "",
+ "summary": "3rd century BCE ， Eastern Zhou to Western Han dynasty。Bronze, inlaid with gold and silver | H x W: 17.4 x 1.6 cm (6 7/8 x 5/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1916.264a-b"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1916.264a-b_001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1916.264a-b_002",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1916.264a-b_003",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1916.264a-b_004",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1916.264a-b/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

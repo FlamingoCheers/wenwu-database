@@ -1,0 +1,45 @@
+{
+ "relic_id": "SMI-fsg_F1913.9a-b",
+ "name": "Girdle buckle",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "玉器",
+ "material": "Jade | H x W x D: 6 x 3.4 x 2.5 cm (2 3/8 x 1 5/16 x 1 in)",
+ "dimensions": "Jade | H x W x D: 6 x 3.4 x 2.5 cm (2 3/8 x 1 5/16 x 1 in)",
+ "excavated_from": "",
+ "summary": "1736-1795 ， Qing dynasty。Jade | H x W x D: 6 x 3.4 x 2.5 cm (2 3/8 x 1 5/16 x 1 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1913.9a-b"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7534_02",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7534_04",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1913.9a-b/",
+ "license": "CC0",
+ "tags": [
+  "妆饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

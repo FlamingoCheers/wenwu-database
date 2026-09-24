@@ -1,0 +1,38 @@
+{
+ "relic_id": "SMI-fsg_F1916.333",
+ "name": "Ornament possibly with a reclining animal",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -220,
+  -206
+ ],
+ "category": "杂器",
+ "material": "Lead | H x W: 1.4 x 3.3 cm (9/16 x 1 5/16 in)",
+ "dimensions": "Lead | H x W: 1.4 x 3.3 cm (9/16 x 1 5/16 in)",
+ "excavated_from": "",
+ "summary": "206 BCE-220 CE ， Possibly Han dynasty。Lead | H x W: 1.4 x 3.3 cm (9/16 x 1 5/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1916.333"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7690_26",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1916.333/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

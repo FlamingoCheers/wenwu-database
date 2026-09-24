@@ -1,0 +1,51 @@
+{
+ "relic_id": "SMI-fsg_F1911.77a-c",
+ "name": "Ritual bronze implement (shao)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1100,
+  -1001
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x W: 5.1 x 9.5 cm (2 x 3 3/4 in)",
+ "dimensions": "Bronze | H x W: 5.1 x 9.5 cm (2 x 3 3/4 in)",
+ "excavated_from": "",
+ "summary": "ca. 11th century BCE ， Shang dynasty。Bronze | H x W: 5.1 x 9.5 cm (2 x 3 3/4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1911.77a-c"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7372_18",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7372_17",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7372_19",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1911.77a-c/",
+ "license": "CC0",
+ "tags": [
+  "礼制",
+  "祭祀"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

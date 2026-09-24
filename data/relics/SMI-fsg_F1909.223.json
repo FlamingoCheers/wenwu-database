@@ -1,0 +1,63 @@
+{
+ "relic_id": "SMI-fsg_F1909.223",
+ "name": "Imperial palaces",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1601,
+  1700
+ ],
+ "category": "书画",
+ "material": "Ink, color, and gold on silk | H x W (image): 30.7 x 255.5 cm (12 1/16 x 100 9/16 in)",
+ "dimensions": "Ink, color, and gold on silk | H x W (image): 30.7 x 255.5 cm (12 1/16 x 100 9/16 in)",
+ "excavated_from": "",
+ "summary": "17th century ， Ming or Qing dynasty。Ink, color, and gold on silk | H x W (image): 30.7 x 255.5 cm (12 1/16 x 100 9/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1909.223"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7463_02",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7463_01",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7463_03",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7463_04",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7463_05",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7463_06",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1909.223/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

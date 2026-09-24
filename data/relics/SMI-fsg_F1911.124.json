@@ -1,0 +1,46 @@
+{
+ "relic_id": "SMI-fsg_F1911.124",
+ "name": "Bodhisattva Avalokiteshvara (Guanyin)",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  700,
+  750
+ ],
+ "category": "青铜器",
+ "material": "Bronze with gilding | H x W x D: 15 × 5.3 × 4.9 cm (5 15/16 × 2 1/16 × 1 15/16 in)",
+ "dimensions": "Bronze with gilding | H x W x D: 15 × 5.3 × 4.9 cm (5 15/16 × 2 1/16 × 1 15/16 in)",
+ "excavated_from": "",
+ "summary": "700-750 CE ， Tang dynasty。Bronze with gilding | H x W x D: 15 × 5.3 × 4.9 cm (5 15/16 × 2 1/16 × 1 15/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1911.124"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-6742_01",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-6742_02",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1911.124/",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

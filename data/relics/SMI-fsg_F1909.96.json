@@ -1,0 +1,41 @@
+{
+ "relic_id": "SMI-fsg_F1909.96",
+ "name": "Small stupa",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "high",
+ "year_range": [
+  557,
+  581
+ ],
+ "category": "雕塑",
+ "material": "Stone | H x W x D (overall): 28.9 x 13.4 x 14 cm (11 3/8 x 5 1/4 x 5 1/2 in)",
+ "dimensions": "Stone | H x W x D (overall): 28.9 x 13.4 x 14 cm (11 3/8 x 5 1/4 x 5 1/2 in)",
+ "excavated_from": "",
+ "summary": "557-581 ， Period of Division, Northern Zhou dynasty。Stone | H x W x D (overall): 28.9 x 13.4 x 14 cm (11 3/8 x 5 1/4 x 5 1/2 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1909.96"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-6665_01",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1909.96/",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

@@ -1,0 +1,57 @@
+{
+ "relic_id": "SMI-fsg_F1909.258a-b",
+ "name": "Ritual vessel",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1100,
+  -1001
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x W x D (overall): 29.1 x 20.3 x 14 cm (11 7/16 x 8 x 5 1/2 in)",
+ "dimensions": "Bronze | H x W x D (overall): 29.1 x 20.3 x 14 cm (11 7/16 x 8 x 5 1/2 in)",
+ "excavated_from": "",
+ "summary": "ca. late 11th century-early 10th century BCE ， Western Zhou dynasty。Bronze | H x W x D (overall): 29.1 x 20.3 x 14 cm (11 7/16 x 8 x 5 1/2 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1909.258a-b"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8222_15",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8222_18-000001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8222_17-000001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8222_16-000001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1909.258a-b/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "礼制",
+  "祭祀"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

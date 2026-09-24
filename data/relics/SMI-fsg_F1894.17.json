@@ -1,0 +1,47 @@
+{
+ "relic_id": "SMI-fsg_F1894.17",
+ "name": "Ritual grain server (gui)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1200,
+  -1050
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x Diam: 17.8 × 24.8 cm (7 × 9 3/4 in)",
+ "dimensions": "Bronze | H x Diam: 17.8 × 24.8 cm (7 × 9 3/4 in)",
+ "excavated_from": "",
+ "summary": "ca. 1200-1050 BCE ， Late Shang dynasty, middle to late Anyang period。Bronze | H x Diam: 17.8 × 24.8 cm (7 × 9 3/4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1894.17"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8148_04",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8148_05",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1894.17/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "礼制",
+  "祭祀"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

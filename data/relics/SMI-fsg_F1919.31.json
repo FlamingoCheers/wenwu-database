@@ -1,0 +1,43 @@
+{
+ "relic_id": "SMI-fsg_F1919.31",
+ "name": "Disk (bi 璧)",
+ "aliases": [],
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -2000,
+  -1000
+ ],
+ "category": "玉器",
+ "material": "Jade (serpentine) | Diam x D: 30 x 1.5 cm (11 13/16 x 5/8 in) | Diam (hole): 6.6 cm (2 9/16 in)",
+ "dimensions": "Jade (serpentine) | Diam x D: 30 x 1.5 cm (11 13/16 x 5/8 in) | Diam (hole): 6.6 cm (2 9/16 in)",
+ "excavated_from": "",
+ "summary": "ca. 2000-1000 BCE ， Late Neolithic period。Jade (serpentine) | Diam x D: 30 x 1.5 cm (11 13/16 x 5/8 in) | Diam (hole): 6.6 cm (2 9/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1919.31"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1919.31_001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1919.31_002",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1919.31/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

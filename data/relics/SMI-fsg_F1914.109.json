@@ -1,0 +1,50 @@
+{
+ "relic_id": "SMI-fsg_F1914.109",
+ "name": "Pottery: Unidentified form",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -300,
+  -201
+ ],
+ "category": "瓷器",
+ "material": "Pottery | H x W x D: 47.1 x 158.2 x 17.2 cm (18 9/16 x 62 5/16 x 6 3/4 in)",
+ "dimensions": "Pottery | H x W x D: 47.1 x 158.2 x 17.2 cm (18 9/16 x 62 5/16 x 6 3/4 in)",
+ "excavated_from": "",
+ "summary": "3rd century BCE ， Han dynasty or earlier。Pottery | H x W x D: 47.1 x 158.2 x 17.2 cm (18 9/16 x 62 5/16 x 6 3/4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1914.109"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7395_19",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7395_20",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7395_21",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1914.109/",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

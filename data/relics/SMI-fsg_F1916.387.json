@@ -1,0 +1,38 @@
+{
+ "relic_id": "SMI-fsg_F1916.387",
+ "name": "Bracelet",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1600,
+  -1050
+ ],
+ "category": "玉器",
+ "material": "Jade (nephrite, heated) | H x Diam: 2.3 × 8.2 cm (7/8 × 3 1/4 in) | Diam (hole): 6.6 cm (2 5/8 in)",
+ "dimensions": "Jade (nephrite, heated) | H x Diam: 2.3 × 8.2 cm (7/8 × 3 1/4 in) | Diam (hole): 6.6 cm (2 5/8 in)",
+ "excavated_from": "",
+ "summary": "ca. 1600-1050 BCE ， Shang dynasty。Jade (nephrite, heated) | H x Diam: 2.3 × 8.2 cm (7/8 × 3 1/4 in) | Diam (hole): 6.6 cm (2 5/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1916.387"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-5789_03",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1916.387/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

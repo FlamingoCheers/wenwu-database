@@ -1,0 +1,42 @@
+{
+ "relic_id": "SMI-fsg_F1911.538",
+ "name": "Five hundred luohans",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1601,
+  1700
+ ],
+ "category": "书画",
+ "material": "Ink and color on paper | H x W (image): 94.6 x 181 cm (37 1/4 x 71 1/4 in)",
+ "dimensions": "Ink and color on paper | H x W (image): 94.6 x 181 cm (37 1/4 x 71 1/4 in)",
+ "excavated_from": "",
+ "summary": "16th-17th century ， Ming dynasty。Ink and color on paper | H x W (image): 94.6 x 181 cm (37 1/4 x 71 1/4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1911.538"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8151_07",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1911.538/",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

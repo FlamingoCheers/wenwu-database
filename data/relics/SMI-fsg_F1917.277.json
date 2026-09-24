@@ -1,0 +1,43 @@
+{
+ "relic_id": "SMI-fsg_F1917.277",
+ "name": "Belt plaque",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -206,
+  -9
+ ],
+ "category": "青铜器",
+ "material": "Glass and gilt bronze | H x W x D: 4.8 × 9.7 × 0.7 cm (1 7/8 × 3 13/16 × 1/4 in)",
+ "dimensions": "Glass and gilt bronze | H x W x D: 4.8 × 9.7 × 0.7 cm (1 7/8 × 3 13/16 × 1/4 in)",
+ "excavated_from": "",
+ "summary": "206 BCE-9 CE ， Western Han dynasty。Glass and gilt bronze | H x W x D: 4.8 × 9.7 × 0.7 cm (1 7/8 × 3 13/16 × 1/4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1917.277"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1917.277_001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1917.277_002",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1917.277/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

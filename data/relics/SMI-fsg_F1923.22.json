@@ -1,0 +1,44 @@
+{
+ "relic_id": "SMI-fsg_F1923.22",
+ "name": "Funerary tile decorated with impressed motifs",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -50,
+  49
+ ],
+ "category": "瓷器",
+ "material": "Unglazed earthenware | H x W x D: 58 × 145.3 × 14.8 cm (22 13/16 × 57 3/16 × 5 13/16 in)",
+ "dimensions": "Unglazed earthenware | H x W x D: 58 × 145.3 × 14.8 cm (22 13/16 × 57 3/16 × 5 13/16 in)",
+ "excavated_from": "",
+ "summary": "50 BCE-50 CE ， Han dynasty。Unglazed earthenware | H x W x D: 58 × 145.3 × 14.8 cm (22 13/16 × 57 3/16 × 5 13/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1923.22"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7757_14",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1923.22/",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器",
+  "玺印封泥",
+  "文字书写",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

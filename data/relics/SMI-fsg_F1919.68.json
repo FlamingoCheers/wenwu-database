@@ -1,0 +1,40 @@
+{
+ "relic_id": "SMI-fsg_F1919.68",
+ "name": "Deer-shaped ornament",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -220,
+  -206
+ ],
+ "category": "青铜器",
+ "material": "Bronze with shell, gilding and turquoise inlay | H x W: 5.2 x 10 cm (2 1/16 x 3 15/16 in)",
+ "dimensions": "Bronze with shell, gilding and turquoise inlay | H x W: 5.2 x 10 cm (2 1/16 x 3 15/16 in)",
+ "excavated_from": "",
+ "summary": "206 BCE-220 CE ， Han dynasty。Bronze with shell, gilding and turquoise inlay | H x W: 5.2 x 10 cm (2 1/16 x 3 15/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1919.68"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7603_23",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1919.68/",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

@@ -1,0 +1,41 @@
+{
+ "relic_id": "SMI-fsg_F1909.245b",
+ "name": "Winter landscape",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "书画",
+ "material": "Ink on silk | H x W (image): 22.4 x 22.8 cm (8 13/16 x 9 in)",
+ "dimensions": "Ink on silk | H x W (image): 22.4 x 22.8 cm (8 13/16 x 9 in)",
+ "excavated_from": "",
+ "summary": "1368-1644 ， Ming dynasty。Ink on silk | H x W (image): 22.4 x 22.8 cm (8 13/16 x 9 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1909.245b"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-5921_03",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1909.245b/",
+ "license": "CC0",
+ "tags": [
+  "山水",
+  "出行"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

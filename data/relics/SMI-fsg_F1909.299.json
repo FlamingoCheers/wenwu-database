@@ -1,0 +1,53 @@
+{
+ "relic_id": "SMI-fsg_F1909.299",
+ "name": "Green-glazed hu-shaped jar",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -100,
+  -1
+ ],
+ "category": "瓷器",
+ "material": "Stoneware with applied and accidental wood-ash glazes | H x W: 27.7 x 20.7 cm (10 7/8 x 8 1/8 in) | Zhejiang green-glazed ware",
+ "dimensions": "Stoneware with applied and accidental wood-ash glazes | H x W: 27.7 x 20.7 cm (10 7/8 x 8 1/8 in) | Zhejiang green-glazed ware",
+ "excavated_from": "",
+ "summary": "1st century BCE-early 1st century CE ， Western Han dynasty。Stoneware with applied and accidental wood-ash glazes | H x W: 27.7 x 20.7 cm (10 7/8 x 8 1/8 in) | Zhejiang green-glazed ware",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1909.299"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1909.299_001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1909.299_002",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-3264-17h",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1909.299/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

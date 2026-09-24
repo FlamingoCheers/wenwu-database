@@ -1,0 +1,43 @@
+{
+ "relic_id": "SMI-fsg_F1911.163t",
+ "name": "Dragonfly and lotus plants",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1601,
+  1700
+ ],
+ "category": "织绣",
+ "material": "Silk tapestry (kesi): woven silk threads | H x W (image): 41.9 x 64.8 cm (16 1/2 x 25 1/2 in)",
+ "dimensions": "Silk tapestry (kesi): woven silk threads | H x W (image): 41.9 x 64.8 cm (16 1/2 x 25 1/2 in)",
+ "excavated_from": "",
+ "summary": "16th--early 17th century ， Ming dynasty。Silk tapestry (kesi): woven silk threads | H x W (image): 41.9 x 64.8 cm (16 1/2 x 25 1/2 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1911.163t"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7271_22",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1911.163t/",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物",
+  "植物",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

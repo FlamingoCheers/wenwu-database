@@ -1,0 +1,43 @@
+{
+ "relic_id": "SMI-fsg_F1917.391",
+ "name": "Bracelet",
+ "aliases": [],
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -3,
+  96
+ ],
+ "category": "玉器",
+ "material": "Jade (nephrite) | H x Diam: 1.1 x 7.1 cm (7/16 x 2 13/16 in) | Diam (hole): 5.2 cm (2 1/16 in)",
+ "dimensions": "Jade (nephrite) | H x Diam: 1.1 x 7.1 cm (7/16 x 2 13/16 in) | Diam (hole): 5.2 cm (2 1/16 in)",
+ "excavated_from": "",
+ "summary": "late 3rd millenium BCE ， Late Neolithic period。Jade (nephrite) | H x Diam: 1.1 x 7.1 cm (7/16 x 2 13/16 in) | Diam (hole): 5.2 cm (2 1/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1917.391"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1917.391_001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1917.391_002",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1917.391/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

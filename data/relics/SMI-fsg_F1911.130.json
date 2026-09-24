@@ -1,0 +1,48 @@
+{
+ "relic_id": "SMI-fsg_F1911.130",
+ "name": "Buddhas of the Past and Present",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "high",
+ "year_range": [
+  475,
+  534
+ ],
+ "category": "青铜器",
+ "material": "Bronze, gilt | H x W x D: 13.8 x 13.4 x 6.1 cm (5 7/16 x 5 1/4 x 2 3/8 in)",
+ "dimensions": "Bronze, gilt | H x W x D: 13.8 x 13.4 x 6.1 cm (5 7/16 x 5 1/4 x 2 3/8 in)",
+ "excavated_from": "",
+ "summary": "ca. 475-534 C. E. ， Northern Wei dynasty。Bronze, gilt | H x W x D: 13.8 x 13.4 x 6.1 cm (5 7/16 x 5 1/4 x 2 3/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1911.130"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-5951_01",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-5951_02",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1911.130/",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

@@ -1,0 +1,47 @@
+{
+ "relic_id": "SMI-fsg_F1909.168",
+ "name": "Zhongli Quan seeking the Dao 鍾離訪道圖",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1301,
+  1400
+ ],
+ "category": "书画",
+ "material": "Ink and color on silk | H x W (image): 147 x 74.8 cm (57 7/8 x 29 7/16 in)",
+ "dimensions": "Ink and color on silk | H x W (image): 147 x 74.8 cm (57 7/8 x 29 7/16 in)",
+ "excavated_from": "",
+ "summary": "13th-14th century ， Jin or Yuan dynasty。Ink and color on silk | H x W (image): 147 x 74.8 cm (57 7/8 x 29 7/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1909.168"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8277_01",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8277_05",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1909.168/",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

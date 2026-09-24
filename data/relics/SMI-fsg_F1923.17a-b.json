@@ -1,0 +1,41 @@
+{
+ "relic_id": "SMI-fsg_F1923.17a-b",
+ "name": "Vessel of type ting, with lid",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -770,
+  -221
+ ],
+ "category": "瓷器",
+ "material": "Unglazed earthenware | H x W: 19.8 x 19 cm (7 13/16 x 7 1/2 in)",
+ "dimensions": "Unglazed earthenware | H x W: 19.8 x 19 cm (7 13/16 x 7 1/2 in)",
+ "excavated_from": "",
+ "summary": "770-221 BCE ， Eastern Zhou dynasty。Unglazed earthenware | H x W: 19.8 x 19 cm (7 13/16 x 7 1/2 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1923.17a-b"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7531_28",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1923.17a-b/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

@@ -1,0 +1,51 @@
+{
+ "relic_id": "SMI-fsg_F1917.112",
+ "name": "Fisher folk moored under trees",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1601,
+  1700
+ ],
+ "category": "书画",
+ "material": "Ink and color on paper | H x W (image): 101.9 x 47.6 cm (40 1/8 x 18 3/4 in)",
+ "dimensions": "Ink and color on paper | H x W (image): 101.9 x 47.6 cm (40 1/8 x 18 3/4 in)",
+ "excavated_from": "",
+ "summary": "16th-17th century ， Ming dynasty。Ink and color on paper | H x W (image): 101.9 x 47.6 cm (40 1/8 x 18 3/4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1917.112"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1917.112_001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1917.112_002",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1917.112_003",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1917.112/",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "出行"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

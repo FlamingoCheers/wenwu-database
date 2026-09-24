@@ -1,0 +1,50 @@
+{
+ "relic_id": "SMI-fsg_F1948.1",
+ "name": "Ritual wine container (hu) with masks (taotie) and dragons",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1200,
+  -1101
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x W x D: 38.1 × 27.8 × 23 cm (15 × 10 15/16 × 9 1/16 in)",
+ "dimensions": "Bronze | H x W x D: 38.1 × 27.8 × 23 cm (15 × 10 15/16 × 9 1/16 in)",
+ "excavated_from": "",
+ "summary": "ca. 1200 BCE ， Late Shang dynasty, early Anyang period。Bronze | H x W x D: 38.1 × 27.8 × 23 cm (15 × 10 15/16 × 9 1/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1948.1"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1948.1_001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1948.1_002",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1948.1/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "祭祀",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

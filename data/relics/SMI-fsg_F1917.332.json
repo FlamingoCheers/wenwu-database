@@ -1,0 +1,47 @@
+{
+ "relic_id": "SMI-fsg_F1917.332",
+ "name": "Xin Pi tugging the emperor's robe 辛毗引裾圖",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1301,
+  1400
+ ],
+ "category": "书画",
+ "material": "Ink and color on silk | H x W (image): 106.1 x 49.7 cm (41 3/4 x 19 9/16 in)",
+ "dimensions": "Ink and color on silk | H x W (image): 106.1 x 49.7 cm (41 3/4 x 19 9/16 in)",
+ "excavated_from": "",
+ "summary": "14th century ， Yuan or early Ming dynasty。Ink and color on silk | H x W (image): 106.1 x 49.7 cm (41 3/4 x 19 9/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1917.332"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8042_27",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8042_28",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1917.332/",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "服饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

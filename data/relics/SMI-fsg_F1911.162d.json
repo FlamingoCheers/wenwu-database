@@ -1,0 +1,41 @@
+{
+ "relic_id": "SMI-fsg_F1911.162d",
+ "name": "Scholar arriving at a riverside pavilion",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1401,
+  1500
+ ],
+ "category": "书画",
+ "material": "Ink and color on silk | H x W (image): 25.6 x 20.6 cm (10 1/16 x 8 1/8 in)",
+ "dimensions": "Ink and color on silk | H x W (image): 25.6 x 20.6 cm (10 1/16 x 8 1/8 in)",
+ "excavated_from": "",
+ "summary": "15th century ， Ming dynasty。Ink and color on silk | H x W (image): 25.6 x 20.6 cm (10 1/16 x 8 1/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1911.162d"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-6371_04",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1911.162d/",
+ "license": "CC0",
+ "tags": [
+  "山水",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

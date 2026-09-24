@@ -1,0 +1,42 @@
+{
+ "relic_id": "SMI-fsg_F1917.473",
+ "name": "Ornament in the shape of a coin",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1801,
+  1900
+ ],
+ "category": "玉器",
+ "material": "Jade (nephrite) | Diam x D: 2.7 x 0.4 cm (1 1/16 x 3/16 in)",
+ "dimensions": "Jade (nephrite) | Diam x D: 2.7 x 0.4 cm (1 1/16 x 3/16 in)",
+ "excavated_from": "",
+ "summary": "17th-19th century ， Joseon period or Qing dynasty。Jade (nephrite) | Diam x D: 2.7 x 0.4 cm (1 1/16 x 3/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1917.473"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7534_38",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1917.473/",
+ "license": "CC0",
+ "tags": [
+  "货币金融",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

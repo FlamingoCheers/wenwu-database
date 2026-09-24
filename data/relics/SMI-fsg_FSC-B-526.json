@@ -1,0 +1,42 @@
+{
+ "relic_id": "SMI-fsg_FSC-B-526",
+ "name": "Fragment of Mirror. Quatrefoil and molded cloud design",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -475,
+  -221
+ ],
+ "category": "杂器",
+ "material": "Diam (approx.): 15.3 cm (6 in)",
+ "dimensions": "Diam (approx.): 15.3 cm (6 in)",
+ "excavated_from": "",
+ "summary": "475-221 BCE ， Warring States period。Diam (approx.): 15.3 cm (6 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "FSC-B-526"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8514_05",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/FSC-B-526/",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

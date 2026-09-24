@@ -1,0 +1,40 @@
+{
+ "relic_id": "SMI-fsg_FSC-W-23",
+ "name": "Comb",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -300,
+  -201
+ ],
+ "category": "杂器",
+ "material": "H x W (overall): 7 x 2.7 cm (2 3/4 x 1 1/16 in)",
+ "dimensions": "H x W (overall): 7 x 2.7 cm (2 3/4 x 1 1/16 in)",
+ "excavated_from": "",
+ "summary": "5th-3rd century BCE ， Warring States period。H x W (overall): 7 x 2.7 cm (2 3/4 x 1 1/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "FSC-W-23"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-FSC-W-23",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/FSC-W-23/",
+ "license": "CC0",
+ "tags": [
+  "妆饰"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

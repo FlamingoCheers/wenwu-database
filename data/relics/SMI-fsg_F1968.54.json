@@ -1,0 +1,47 @@
+{
+ "relic_id": "SMI-fsg_F1968.54",
+ "name": "Buddhist stele",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "high",
+ "year_range": [
+  520,
+  619
+ ],
+ "category": "碑帖拓本",
+ "material": "Stone | H x W x D: 99.6 x 81.2 x 27.7 cm (39 3/16 x 31 15/16 x 10 7/8 in)",
+ "dimensions": "Stone | H x W x D: 99.6 x 81.2 x 27.7 cm (39 3/16 x 31 15/16 x 10 7/8 in)",
+ "excavated_from": "",
+ "summary": "ca. 520s ， Period of Division, Northern Wei dynasty。Stone | H x W x D: 99.6 x 81.2 x 27.7 cm (39 3/16 x 31 15/16 x 10 7/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1968.54"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8086_19",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8086_20",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1968.54/",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

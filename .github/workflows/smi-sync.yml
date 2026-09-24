@@ -1,0 +1,68 @@
+name: smi-sync
+
+on:
+  schedule:
+    - cron: "0 15 2 * *" # 每月2日 15:00 UTC（北京 23:00）
+  workflow_dispatch:
+    inputs:
+      sleep:
+        description: "请求间隔秒"
+        default: "0.7"
+      limit:
+        description: "本次最多写入条数（0=不限）"
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: smi-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Restore SI raw cache
+        uses: actions/cache@v4
+        with:
+          path: raw/smi
+          key: smi-raw-${{ github.run_id }}
+          restore-keys: smi-raw-
+
+      - name: Collect
+        env:
+          SI_API_KEY: ${{ secrets.SI_API_KEY }}
+        run: |
+          python -X utf8 collectors/smi_collector.py \
+            --query "National Museum of Asian Art" \
+            --sleep "${{ github.event.inputs.sleep || '0.7' }}" \
+            --limit "${{ github.event.inputs.limit || '0' }}"
+
+      - name: Validate & build
+        run: |
+          python -X utf8 pipeline/validate.py
+          python -X utf8 pipeline/build_db.py
+          python -X utf8 pipeline/build_web_index.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "wenwu-bot"
+          git config user.email "wenwu-bot@users.noreply.github.com"
+          git add data/relics
+          if git diff --cached --quiet; then
+            echo "no new records"
+            exit 0
+          fi
+          git commit -m "data: SMI monthly sync $(date -u +%F)"
+          for i in 1 2 3; do
+            git pull --rebase origin master && git push origin master && break
+            echo "retry $i"; sleep 10
+          done

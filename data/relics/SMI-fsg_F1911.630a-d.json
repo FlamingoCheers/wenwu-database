@@ -1,0 +1,45 @@
+{
+ "relic_id": "SMI-fsg_F1911.630a-d",
+ "name": "Ritual vessel (huo) in the form of a bird",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -300,
+  -201
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x W: 28.3 x 29.9 cm (11 1/8 x 11 3/4 in)",
+ "dimensions": "Bronze | H x W: 28.3 x 29.9 cm (11 1/8 x 11 3/4 in)",
+ "excavated_from": "",
+ "summary": "3rd century BCE ， Eastern Zhou or Western Han dynasty, Warring States period。Bronze | H x W: 28.3 x 29.9 cm (11 1/8 x 11 3/4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1911.630a-d"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7357_01",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1911.630a-d/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "祭祀",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

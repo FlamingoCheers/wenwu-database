@@ -1,0 +1,38 @@
+{
+ "relic_id": "SMI-fsg_F1916.117",
+ "name": "Crossbow fitting",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -770,
+  -221
+ ],
+ "category": "青铜器",
+ "material": "Bronze with gold inlay | H x W x D: 4.6 x 5.6 x 3.5 cm (1 13/16 x 2 3/16 x 1 3/8 in)",
+ "dimensions": "Bronze with gold inlay | H x W x D: 4.6 x 5.6 x 3.5 cm (1 13/16 x 2 3/16 x 1 3/8 in)",
+ "excavated_from": "",
+ "summary": "770-221 BCE ， Eastern Zhou dynasty, Warring States period。Bronze with gold inlay | H x W x D: 4.6 x 5.6 x 3.5 cm (1 13/16 x 2 3/16 x 1 3/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1916.117"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7728_08",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1916.117/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

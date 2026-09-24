@@ -1,0 +1,52 @@
+{
+ "relic_id": "SMI-fsg_F1913.42a-e",
+ "name": "Standing Bodhisattva Guanyin (Sanskrit Avalokiteshvara)",
+ "aliases": [],
+ "dynasty": "隋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  581,
+  618
+ ],
+ "category": "青铜器",
+ "material": "Bronze with gilding | H x W x D: 35.8 x 11.3 x 10.1 cm (14 1/8 x 4 7/16 x 4 in)",
+ "dimensions": "Bronze with gilding | H x W x D: 35.8 x 11.3 x 10.1 cm (14 1/8 x 4 7/16 x 4 in)",
+ "excavated_from": "",
+ "summary": "581-618 ， Sui dynasty。Bronze with gilding | H x W x D: 35.8 x 11.3 x 10.1 cm (14 1/8 x 4 7/16 x 4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1913.42a-e"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7926_10",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7926_11",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7926_12",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1913.42a-e/",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

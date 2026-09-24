@@ -1,0 +1,38 @@
+{
+ "relic_id": "SMI-fsg_FSC-O-36",
+ "name": "Bone fragments",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1600,
+  -1050
+ ],
+ "category": "杂器",
+ "material": "Bone | H x W (overall): 1.2 x 0.7 cm (1/2 x 1/4 in)",
+ "dimensions": "Bone | H x W (overall): 1.2 x 0.7 cm (1/2 x 1/4 in)",
+ "excavated_from": "",
+ "summary": "ca. 1600 - ca. 1050 BCE ， Shang dynasty。Bone | H x W (overall): 1.2 x 0.7 cm (1/2 x 1/4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "FSC-O-36"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-FSC-O-36",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/FSC-O-36/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

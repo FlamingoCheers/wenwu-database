@@ -1,0 +1,55 @@
+{
+ "relic_id": "SMI-fsg_F1911.226",
+ "name": "Fish and water weeds",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "书画",
+ "material": "Ink and color on silk | H x W (image): 25.5 x 104.2 cm (10 1/16 x 41 in)",
+ "dimensions": "Ink and color on silk | H x W (image): 25.5 x 104.2 cm (10 1/16 x 41 in)",
+ "excavated_from": "",
+ "summary": "1368-1644 ， Ming dynasty。Ink and color on silk | H x W (image): 25.5 x 104.2 cm (10 1/16 x 41 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1911.226"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8236_09",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8236_10",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8236_11",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1911.226_Stitched",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1911.226/",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

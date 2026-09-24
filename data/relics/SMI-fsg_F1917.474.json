@@ -1,0 +1,38 @@
+{
+ "relic_id": "SMI-fsg_F1917.474",
+ "name": "Disk",
+ "aliases": [],
+ "dynasty": "五代十国",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1001,
+  1100
+ ],
+ "category": "杂器",
+ "material": "Talc | Diam x D: 4 x 1.1 cm (1 9/16 x 7/16 in)",
+ "dimensions": "Talc | Diam x D: 4 x 1.1 cm (1 9/16 x 7/16 in)",
+ "excavated_from": "",
+ "summary": "10th-11th century ， Goryeo period or Five Dynasties-Northern Song period。Talc | Diam x D: 4 x 1.1 cm (1 9/16 x 7/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1917.474"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7624_36",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1917.474/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

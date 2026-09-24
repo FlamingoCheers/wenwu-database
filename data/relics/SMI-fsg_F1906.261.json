@@ -1,0 +1,43 @@
+{
+ "relic_id": "SMI-fsg_F1906.261",
+ "name": "Portrait of Bodhidharma 達摩圖像",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1301,
+  1400
+ ],
+ "category": "书画",
+ "material": "Ink on silk | H x W (image): 90.7 x 49.3 cm (35 11/16 x 19 7/16 in)",
+ "dimensions": "Ink on silk | H x W (image): 90.7 x 49.3 cm (35 11/16 x 19 7/16 in)",
+ "excavated_from": "",
+ "summary": "14th century ， Yuan dynasty。Ink on silk | H x W (image): 90.7 x 49.3 cm (35 11/16 x 19 7/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1906.261"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7997_01",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7997_03",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1906.261/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

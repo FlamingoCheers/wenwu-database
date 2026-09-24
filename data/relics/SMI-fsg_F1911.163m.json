@@ -1,0 +1,38 @@
+{
+ "relic_id": "SMI-fsg_F1911.163m",
+ "name": "Hibiscus",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1347,
+  1446
+ ],
+ "category": "书画",
+ "material": "Ink on paper | H x W (image): 38.6 × 57.8 cm (15 3/16 × 22 3/4 in)",
+ "dimensions": "Ink on paper | H x W (image): 38.6 × 57.8 cm (15 3/16 × 22 3/4 in)",
+ "excavated_from": "",
+ "summary": "1347 ， Yuan dynasty。Ink on paper | H x W (image): 38.6 × 57.8 cm (15 3/16 × 22 3/4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1911.163m"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7271_15",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1911.163m/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

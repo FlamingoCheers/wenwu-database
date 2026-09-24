@@ -1,0 +1,50 @@
+{
+ "relic_id": "SMI-fsg_F1915.136a-c",
+ "name": "Square lidded ritual wine container with lid (fangyi)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1200,
+  -1050
+ ],
+ "category": "书画",
+ "material": "Bronze | H x W: 21.8 × 15.2 × 9.8 cm (8 9/16 × 6 × 3 7/8 in)",
+ "dimensions": "Bronze | H x W: 21.8 × 15.2 × 9.8 cm (8 9/16 × 6 × 3 7/8 in)",
+ "excavated_from": "",
+ "summary": "ca. 1200-1050 BCE ， Late Shang dynasty, middle to late Anyang period。Bronze | H x W: 21.8 × 15.2 × 9.8 cm (8 9/16 × 6 × 3 7/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1915.136a-c"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1915.136a-c_001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1915.136a-c_002",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1915.136a-c/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "祭祀",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

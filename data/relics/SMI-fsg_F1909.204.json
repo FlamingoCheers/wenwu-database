@@ -1,0 +1,60 @@
+{
+ "relic_id": "SMI-fsg_F1909.204",
+ "name": "Landscape in blue and green",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1701,
+  1800
+ ],
+ "category": "书画",
+ "material": "Ink and color on silk | H x W (image): 34.5 x 265.1 cm (13 9/16 x 104 3/8 in)",
+ "dimensions": "Ink and color on silk | H x W (image): 34.5 x 265.1 cm (13 9/16 x 104 3/8 in)",
+ "excavated_from": "",
+ "summary": "17th-18th century ， Ming or Qing dynasty。Ink and color on silk | H x W (image): 34.5 x 265.1 cm (13 9/16 x 104 3/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1909.204"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7479_14",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7479_15",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7479_16",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7479_17",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7479_18",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1909.204/",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

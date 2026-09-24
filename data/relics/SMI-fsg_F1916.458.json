@@ -1,0 +1,41 @@
+{
+ "relic_id": "SMI-fsg_F1916.458",
+ "name": "A standing deer",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -220,
+  -206
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x W: 8.3 x 6.8 cm (3 1/4 x 2 11/16 in)",
+ "dimensions": "Bronze | H x W: 8.3 x 6.8 cm (3 1/4 x 2 11/16 in)",
+ "excavated_from": "",
+ "summary": "206 BCE-220 CE ， Han dynasty。Bronze | H x W: 8.3 x 6.8 cm (3 1/4 x 2 11/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1916.458"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7706_17",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1916.458/",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

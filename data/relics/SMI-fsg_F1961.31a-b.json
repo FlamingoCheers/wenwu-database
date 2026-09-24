@@ -1,0 +1,47 @@
+{
+ "relic_id": "SMI-fsg_F1961.31a-b",
+ "name": "Ritual vessel (yi) with cover",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -600,
+  -501
+ ],
+ "category": "青铜器",
+ "material": "Bronze with semi-precious stone inlay | H x W x D (overall): 20.5 x 17.7 x 32 cm (8 1/16 x 6 15/16 x 12 5/8 in)",
+ "dimensions": "Bronze with semi-precious stone inlay | H x W x D (overall): 20.5 x 17.7 x 32 cm (8 1/16 x 6 15/16 x 12 5/8 in)",
+ "excavated_from": "",
+ "summary": "6th century BCE ， Eastern Zhou dynasty。Bronze with semi-precious stone inlay | H x W x D (overall): 20.5 x 17.7 x 32 cm (8 1/16 x 6 15/16 x 12 5/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1961.31a-b"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7694_22",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7694_23",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1961.31a-b/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "礼制",
+  "祭祀"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

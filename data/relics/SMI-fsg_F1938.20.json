@@ -1,0 +1,59 @@
+{
+ "relic_id": "SMI-fsg_F1938.20",
+ "name": "Ritual grain server (gui) with square base and masks, dragons, and birds",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1000,
+  -901
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x W x D: 28.1 x 34 x 24.4 cm (11 1/16 x 13 3/8 x 9 5/8 in)",
+ "dimensions": "Bronze | H x W x D: 28.1 x 34 x 24.4 cm (11 1/16 x 13 3/8 x 9 5/8 in)",
+ "excavated_from": "",
+ "summary": "ca. late 11th-early 10th century BCE ， Early Western Zhou dynasty。Bronze | H x W x D: 28.1 x 34 x 24.4 cm (11 1/16 x 13 3/8 x 9 5/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1938.20"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7493_25",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7493_26",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7493_27",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7493_28",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1938.20/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "礼制",
+  "祭祀",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

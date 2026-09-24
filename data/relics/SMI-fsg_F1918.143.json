@@ -1,0 +1,41 @@
+{
+ "relic_id": "SMI-fsg_F1918.143",
+ "name": "Circular tile with design of dragon",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -220,
+  -206
+ ],
+ "category": "瓷器",
+ "material": "Unglazed pottery | Diam x D: 14.8 x 2.9 cm (5 13/16 x 1 1/8 in)",
+ "dimensions": "Unglazed pottery | Diam x D: 14.8 x 2.9 cm (5 13/16 x 1 1/8 in)",
+ "excavated_from": "",
+ "summary": "206 BCE-220 CE ， Han dynasty。Unglazed pottery | Diam x D: 14.8 x 2.9 cm (5 13/16 x 1 1/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1918.143"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7531_25",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1918.143/",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

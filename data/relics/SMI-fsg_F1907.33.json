@@ -1,0 +1,50 @@
+{
+ "relic_id": "SMI-fsg_F1907.33",
+ "name": "Ritual vessel (lei) with dragons",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -800,
+  -701
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x Diam: 35 × 42.3 cm (13 13/16 × 16 11/16 in)",
+ "dimensions": "Bronze | H x Diam: 35 × 42.3 cm (13 13/16 × 16 11/16 in)",
+ "excavated_from": "",
+ "summary": "ca. 8th century BCE ， Eastern Zhou dynasty, Spring and Autumn period。Bronze | H x Diam: 35 × 42.3 cm (13 13/16 × 16 11/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1907.33"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8101_19",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8101_20",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1907.33/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "祭祀",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

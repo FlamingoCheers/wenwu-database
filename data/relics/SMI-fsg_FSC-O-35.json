@@ -1,0 +1,45 @@
+{
+ "relic_id": "SMI-fsg_FSC-O-35",
+ "name": "Oracle bone fragment, inscribed",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1250,
+  -1050
+ ],
+ "category": "甲骨",
+ "material": "Bone | H x W x D: 1.9 × 2.2 × 0.7 cm (3/4 × 7/8 × 1/4 in)",
+ "dimensions": "Bone | H x W x D: 1.9 × 2.2 × 0.7 cm (3/4 × 7/8 × 1/4 in)",
+ "excavated_from": "",
+ "summary": "ca. 1250 - ca. 1050 BCE ， Late Shang dynasty, Anyang period。Bone | H x W x D: 1.9 × 2.2 × 0.7 cm (3/4 × 7/8 × 1/4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "FSC-O-35"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-FSC-O-35_2",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-FSC-O-35_1",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/FSC-O-35/",
+ "license": "CC0",
+ "tags": [
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

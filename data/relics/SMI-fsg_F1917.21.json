@@ -1,0 +1,46 @@
+{
+ "relic_id": "SMI-fsg_F1917.21",
+ "name": "Dragon plaque",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "玉器",
+ "material": "Jade | H x W x D: 16.3 x 16.3 x 0.9 cm (6 7/16 x 6 7/16 x 3/8 in)",
+ "dimensions": "Jade | H x W x D: 16.3 x 16.3 x 0.9 cm (6 7/16 x 6 7/16 x 3/8 in)",
+ "excavated_from": "",
+ "summary": "1736-1795 ， Qing dynasty。Jade | H x W x D: 16.3 x 16.3 x 0.9 cm (6 7/16 x 6 7/16 x 3/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1917.21"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7630_23",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7630_24",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1917.21/",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

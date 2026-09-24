@@ -1,0 +1,41 @@
+{
+ "relic_id": "SMI-fsg_F1930.98",
+ "name": "Jar",
+ "aliases": [],
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -2000,
+  -1901
+ ],
+ "category": "瓷器",
+ "material": "Earthenware with iron pigments | H x W: 29.7 x 26 cm (11 11/16 x 10 1/4 in) | Gansu ware",
+ "dimensions": "Earthenware with iron pigments | H x W: 29.7 x 26 cm (11 11/16 x 10 1/4 in) | Gansu ware",
+ "excavated_from": "",
+ "summary": "2000 BCE ， Neolithic period。Earthenware with iron pigments | H x W: 29.7 x 26 cm (11 11/16 x 10 1/4 in) | Gansu ware",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1930.98"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8223_16",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1930.98/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

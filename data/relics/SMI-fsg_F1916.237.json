@@ -1,0 +1,41 @@
+{
+ "relic_id": "SMI-fsg_F1916.237",
+ "name": "Head of a Luohan",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  700,
+  750
+ ],
+ "category": "宗教造像",
+ "material": "Stone | H x W x D: 19.6 x 13.3 x 13 cm (7 11/16 x 5 1/4 x 5 1/8 in)",
+ "dimensions": "Stone | H x W x D: 19.6 x 13.3 x 13 cm (7 11/16 x 5 1/4 x 5 1/8 in)",
+ "excavated_from": "",
+ "summary": "ca. 700-750 ， Tang dynasty。Stone | H x W x D: 19.6 x 13.3 x 13 cm (7 11/16 x 5 1/4 x 5 1/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1916.237"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-6665_04",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1916.237/",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

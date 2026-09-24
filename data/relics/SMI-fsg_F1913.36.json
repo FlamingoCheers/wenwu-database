@@ -1,0 +1,47 @@
+{
+ "relic_id": "SMI-fsg_F1913.36",
+ "name": "Small soapstone tablet, with pierced relief of Manjusri on lion",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "low",
+ "year_range": [
+  543,
+  642
+ ],
+ "category": "雕塑",
+ "material": "Stone | H x W x D (overall): 20.5 x 12.1 x 4.5 cm (8 1/16 x 4 3/4 x 1 3/4 in)",
+ "dimensions": "Stone | H x W x D (overall): 20.5 x 12.1 x 4.5 cm (8 1/16 x 4 3/4 x 1 3/4 in)",
+ "excavated_from": "",
+ "summary": "dated 543 ， Period of Division。Stone | H x W x D (overall): 20.5 x 12.1 x 4.5 cm (8 1/16 x 4 3/4 x 1 3/4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1913.36"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7423_33",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7423_34",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1913.36/",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "植物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

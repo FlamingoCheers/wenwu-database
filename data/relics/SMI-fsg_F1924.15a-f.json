@@ -1,0 +1,46 @@
+{
+ "relic_id": "SMI-fsg_F1924.15a-f",
+ "name": "Sword",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -400,
+  -301
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x W: 52.4 x 4.8 cm (20 5/8 x 1 7/8 in)",
+ "dimensions": "Bronze | H x W: 52.4 x 4.8 cm (20 5/8 x 1 7/8 in)",
+ "excavated_from": "",
+ "summary": "ca. 5th-4th century BCE ， Eastern Zhou dynasty, Warring States period。Bronze | H x W: 52.4 x 4.8 cm (20 5/8 x 1 7/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1924.15a-f"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7926_21",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7926_22",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1924.15a-f/",
+ "license": "CC0",
+ "tags": [
+  "战争",
+  "兵器"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

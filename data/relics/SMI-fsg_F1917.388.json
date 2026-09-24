@@ -1,0 +1,43 @@
+{
+ "relic_id": "SMI-fsg_F1917.388",
+ "name": "Bracelet",
+ "aliases": [],
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -5000,
+  -2000
+ ],
+ "category": "玉器",
+ "material": "Jade (nephrite) | H x W: 2.1 x 7.9 cm (13/16 x 3 1/8 in)",
+ "dimensions": "Jade (nephrite) | H x W: 2.1 x 7.9 cm (13/16 x 3 1/8 in)",
+ "excavated_from": "",
+ "summary": "ca. 5000-2000 BCE ， Neolithic period。Jade (nephrite) | H x W: 2.1 x 7.9 cm (13/16 x 3 1/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1917.388"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8235_16",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8235_17",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1917.388/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

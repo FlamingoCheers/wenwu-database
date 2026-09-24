@@ -1,0 +1,42 @@
+{
+ "relic_id": "SMI-fsg_F1917.267",
+ "name": "Finial in the form of a bird head",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -500,
+  -401
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x W: 5.9 x 6.2 cm (2 5/16 x 2 7/16 in)",
+ "dimensions": "Bronze | H x W: 5.9 x 6.2 cm (2 5/16 x 2 7/16 in)",
+ "excavated_from": "",
+ "summary": "Possibly 6th-5th century BCE ， Eastern Zhou dynasty。Bronze | H x W: 5.9 x 6.2 cm (2 5/16 x 2 7/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1917.267"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7729_21",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1917.267/",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

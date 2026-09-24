@@ -1,0 +1,48 @@
+{
+ "relic_id": "SMI-fsg_F1913.74",
+ "name": "Standing Buddha (fragment)",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "high",
+ "year_range": [
+  538,
+  637
+ ],
+ "category": "宗教造像",
+ "material": "Marble | H x W x D: 65.4 × 35 × 19.5 cm (25 3/4 × 13 3/4 × 7 11/16 in)",
+ "dimensions": "Marble | H x W x D: 65.4 × 35 × 19.5 cm (25 3/4 × 13 3/4 × 7 11/16 in)",
+ "excavated_from": "",
+ "summary": "Dated 538 CE ， Period of Division, Eastern Wei dynasty。Marble | H x W x D: 65.4 × 35 × 19.5 cm (25 3/4 × 13 3/4 × 7 11/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1913.74"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7756_15",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7756_16",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1913.74/",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "植物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

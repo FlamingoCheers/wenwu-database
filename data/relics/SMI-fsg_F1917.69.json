@@ -1,0 +1,43 @@
+{
+ "relic_id": "SMI-fsg_F1917.69",
+ "name": "Tube (cong 琮)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1600,
+  -771
+ ],
+ "category": "玉器",
+ "material": "Jade (nephrite) | H x W x D: 3.6 × 6 × 5.8 cm (1 7/16 × 2 3/8 × 2 5/16 in) | Diam (hole): 4.6 cm (1 13/16 in)",
+ "dimensions": "Jade (nephrite) | H x W x D: 3.6 × 6 × 5.8 cm (1 7/16 × 2 3/8 × 2 5/16 in) | Diam (hole): 4.6 cm (1 13/16 in)",
+ "excavated_from": "",
+ "summary": "ca. 1600-ca. 771 BCE ， Shang or Western Zhou dynasty, Anyang period。Jade (nephrite) | H x W x D: 3.6 × 6 × 5.8 cm (1 7/16 × 2 3/8 × 2 5/16 in) | Diam (hole): 4.6 cm (1 13/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1917.69"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1917.69_001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1917.69_002",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1917.69/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

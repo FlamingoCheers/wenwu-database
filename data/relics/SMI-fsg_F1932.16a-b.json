@@ -1,0 +1,50 @@
+{
+ "relic_id": "SMI-fsg_F1932.16a-b",
+ "name": "Terminal chock from a chariot",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -400,
+  -301
+ ],
+ "category": "青铜器",
+ "material": "Bronze with gold and silver inlay | H x W x D: 25.6 x 4.3 x 7.7 cm (10 1/16 x 1 11/16 x 3 1/16 in)",
+ "dimensions": "Bronze with gold and silver inlay | H x W x D: 25.6 x 4.3 x 7.7 cm (10 1/16 x 1 11/16 x 3 1/16 in)",
+ "excavated_from": "",
+ "summary": "5th-4th century BCE ， Eastern Zhou dynasty, Warring States period。Bronze with gold and silver inlay | H x W x D: 25.6 x 4.3 x 7.7 cm (10 1/16 x 1 11/16 x 3 1/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1932.16a-b"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1932.16a-b_002",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1932.16a-b_003",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1932.16a-b_004",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1932.16a-b/",
+ "license": "CC0",
+ "tags": [
+  "出行"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

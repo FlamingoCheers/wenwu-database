@@ -1,0 +1,53 @@
+{
+ "relic_id": "SMI-fsg_F1909.231",
+ "name": "A hunting scene",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1701,
+  1800
+ ],
+ "category": "书画",
+ "material": "Ink and color on silk | H x W (image): 34.9 x 231.8 cm (13 3/4 x 91 1/4 in)",
+ "dimensions": "Ink and color on silk | H x W (image): 34.9 x 231.8 cm (13 3/4 x 91 1/4 in)",
+ "excavated_from": "",
+ "summary": "18th century ， Qing dynasty。Ink and color on silk | H x W (image): 34.9 x 231.8 cm (13 3/4 x 91 1/4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1909.231"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-5918_03",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-5918_01",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-5918_02",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-5918_04",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1909.231/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

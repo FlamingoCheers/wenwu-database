@@ -1,0 +1,43 @@
+{
+ "relic_id": "SMI-fsg_F1917.383",
+ "name": "Arc-shaped pendant (huang 璜)",
+ "aliases": [],
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -3500,
+  -2700
+ ],
+ "category": "玉器",
+ "material": "Jade (nephrite) | H x W x D: 3.3 x 9.5 x 0.8 cm (1 5/16 x 3 3/4 x 5/16 in)",
+ "dimensions": "Jade (nephrite) | H x W x D: 3.3 x 9.5 x 0.8 cm (1 5/16 x 3 3/4 x 5/16 in)",
+ "excavated_from": "",
+ "summary": "ca. 3500-2700 BCE ， Late Neolithic period。Jade (nephrite) | H x W x D: 3.3 x 9.5 x 0.8 cm (1 5/16 x 3 3/4 x 5/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1917.383"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1917.383_001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1917.383_002",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1917.383/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

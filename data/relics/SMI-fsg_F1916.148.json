@@ -1,0 +1,50 @@
+{
+ "relic_id": "SMI-fsg_F1916.148",
+ "name": "Ancestor tablet",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -1050,
+  -950
+ ],
+ "category": "玉器",
+ "material": "Jade (nephrite) | H x W x D: 8.3 × 2 × 0.3 cm (3 1/4 × 13/16 × 1/8 in)",
+ "dimensions": "Jade (nephrite) | H x W x D: 8.3 × 2 × 0.3 cm (3 1/4 × 13/16 × 1/8 in)",
+ "excavated_from": "",
+ "summary": "ca. 1050-ca. 950 BCE ， Western Zhou dynasty。Jade (nephrite) | H x W x D: 8.3 × 2 × 0.3 cm (3 1/4 × 13/16 × 1/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1916.148"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1916.148_001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1916.148_002",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1916.148_003",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1916.148/",
+ "license": "CC0",
+ "tags": [
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

@@ -1,0 +1,38 @@
+{
+ "relic_id": "SMI-fsg_F1915.182",
+ "name": "Garment hook (daigou)",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -400,
+  -301
+ ],
+ "category": "青铜器",
+ "material": "Bronze with silver(?), gold, and turquoise inlay | H x W: 18.2 x 2.7 cm (7 3/16 x 1 1/16 in)",
+ "dimensions": "Bronze with silver(?), gold, and turquoise inlay | H x W: 18.2 x 2.7 cm (7 3/16 x 1 1/16 in)",
+ "excavated_from": "",
+ "summary": "mid-4th century BCE ， Eastern Zhou dynasty, Warring States period。Bronze with silver(?), gold, and turquoise inlay | H x W: 18.2 x 2.7 cm (7 3/16 x 1 1/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1915.182"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7690_12",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1915.182/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

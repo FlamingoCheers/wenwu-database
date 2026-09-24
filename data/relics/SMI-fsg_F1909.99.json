@@ -1,0 +1,42 @@
+{
+ "relic_id": "SMI-fsg_F1909.99",
+ "name": "Plinth with four repeat images of Buddhist triads",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  550,
+  577
+ ],
+ "category": "瓷器",
+ "material": "Pottery | H x W x D: 8.9 x 34.9 x 13.8 cm (3 1/2 x 13 3/4 x 5 7/16 in)",
+ "dimensions": "Pottery | H x W x D: 8.9 x 34.9 x 13.8 cm (3 1/2 x 13 3/4 x 5 7/16 in)",
+ "excavated_from": "",
+ "summary": "550-577 ， Period of Division。Pottery | H x W x D: 8.9 x 34.9 x 13.8 cm (3 1/2 x 13 3/4 x 5 7/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1909.99"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7259_04",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1909.99/",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

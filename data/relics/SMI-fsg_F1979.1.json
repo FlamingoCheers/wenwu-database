@@ -1,0 +1,43 @@
+{
+ "relic_id": "SMI-fsg_F1979.1",
+ "name": "Knife (dao)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1300,
+  -1201
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x W x D: 13.6 x 2.1 x 0.4 cm (5 3/8 x 13/16 x 3/16 in)",
+ "dimensions": "Bronze | H x W x D: 13.6 x 2.1 x 0.4 cm (5 3/8 x 13/16 x 3/16 in)",
+ "excavated_from": "",
+ "summary": "ca. 14th-13th century BCE ， Shang dynasty。Bronze | H x W x D: 13.6 x 2.1 x 0.4 cm (5 3/8 x 13/16 x 3/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1979.1"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7767_18",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7767_19",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1979.1/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

@@ -1,0 +1,46 @@
+{
+ "relic_id": "SMI-fsg_S1987.282",
+ "name": "One of a set of bells (bo) with felines and dragons",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -550,
+  -500
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x W x D: 20.5 x 12.8 x 10.4 cm (8 1/16 x 5 1/16 x 4 1/8 in)",
+ "dimensions": "Bronze | H x W x D: 20.5 x 12.8 x 10.4 cm (8 1/16 x 5 1/16 x 4 1/8 in)",
+ "excavated_from": "",
+ "summary": "ca. 550-500 BCE ， Eastern Zhou dynasty, late Spring and Autumn period。Bronze | H x W x D: 20.5 x 12.8 x 10.4 cm (8 1/16 x 5 1/16 x 4 1/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "S1987.282"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-S1987.282_001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-S1987.282_002",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/S1987.282/",
+ "license": "CC0",
+ "tags": [
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

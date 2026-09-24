@@ -1,0 +1,40 @@
+{
+ "relic_id": "SMI-fsg_F1916.213a-b",
+ "name": "Figure of a monk",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  618,
+  907
+ ],
+ "category": "青铜器",
+ "material": "Cast solid bronze, gilded | H x W: 6.1 x 1.4 cm (2 3/8 x 9/16 in)",
+ "dimensions": "Cast solid bronze, gilded | H x W: 6.1 x 1.4 cm (2 3/8 x 9/16 in)",
+ "excavated_from": "",
+ "summary": "618-907 ， Tang dynasty。Cast solid bronze, gilded | H x W: 6.1 x 1.4 cm (2 3/8 x 9/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1916.213a-b"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7631_18",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1916.213a-b/",
+ "license": "CC0",
+ "tags": [
+  "日常生活"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

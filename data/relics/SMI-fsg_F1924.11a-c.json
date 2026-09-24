@@ -1,0 +1,41 @@
+{
+ "relic_id": "SMI-fsg_F1924.11a-c",
+ "name": "Vessel (kuei) and cover with stand",
+ "aliases": [],
+ "dynasty": "西周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -900,
+  -801
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x W: 27.2 x 40.4 cm (10 11/16 x 15 7/8 in)",
+ "dimensions": "Bronze | H x W: 27.2 x 40.4 cm (10 11/16 x 15 7/8 in)",
+ "excavated_from": "",
+ "summary": "9th century BCE ， Western Zhou dynasty。Bronze | H x W: 27.2 x 40.4 cm (10 11/16 x 15 7/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1924.11a-c"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8324_24",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1924.11a-c/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

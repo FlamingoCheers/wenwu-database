@@ -1,0 +1,43 @@
+{
+ "relic_id": "SMI-fsg_F1916.235",
+ "name": "Standing Bodhisattva",
+ "aliases": [],
+ "dynasty": "隋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  581,
+  600
+ ],
+ "category": "宗教造像",
+ "material": "Limestone with traces of pigment and gilding | H x W x D: 81.6 x 33 x 13.5 cm (32 1/8 x 13 x 5 5/16 in)",
+ "dimensions": "Limestone with traces of pigment and gilding | H x W x D: 81.6 x 33 x 13.5 cm (32 1/8 x 13 x 5 5/16 in)",
+ "excavated_from": "",
+ "summary": "581-600 ， Early Sui dynasty。Limestone with traces of pigment and gilding | H x W x D: 81.6 x 33 x 13.5 cm (32 1/8 x 13 x 5 5/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1916.235"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7259_37",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1916.235/",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "动物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

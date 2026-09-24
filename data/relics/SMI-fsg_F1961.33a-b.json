@@ -1,0 +1,60 @@
+{
+ "relic_id": "SMI-fsg_F1961.33a-b",
+ "name": "Ritual wine ewer (gong) with masks (taotie), dragons, and real animals",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1100,
+  -1050
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x W x D: 32.2 × 32.2 × 15.7 cm (12 11/16 × 12 11/16 × 6 3/16 in)",
+ "dimensions": "Bronze | H x W x D: 32.2 × 32.2 × 15.7 cm (12 11/16 × 12 11/16 × 6 3/16 in)",
+ "excavated_from": "",
+ "summary": "ca. 1100-1050 BCE ， Probably late Shang dynasty, late Anyang period。Bronze | H x W x D: 32.2 × 32.2 × 15.7 cm (12 11/16 × 12 11/16 × 6 3/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1961.33a-b"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1961.33a-b_001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1961.33a-b_003",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1961.33a-b_002",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1961.33a-b_004",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1961.33a-b/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "酒文化",
+  "礼制",
+  "祭祀",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

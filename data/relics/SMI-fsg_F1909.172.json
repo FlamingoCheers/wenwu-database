@@ -1,0 +1,51 @@
+{
+ "relic_id": "SMI-fsg_F1909.172",
+ "name": "Landscape: a dappled horse and a horseman",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1501,
+  1600
+ ],
+ "category": "书画",
+ "material": "Ink and color on paper | H x W (image): 67.4 × 29.8 cm (26 9/16 × 11 3/4 in)",
+ "dimensions": "Ink and color on paper | H x W (image): 67.4 × 29.8 cm (26 9/16 × 11 3/4 in)",
+ "excavated_from": "",
+ "summary": "16th century? ， Ming dynasty。Ink and color on paper | H x W (image): 67.4 × 29.8 cm (26 9/16 × 11 3/4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1909.172"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1909.172_001-000001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1909.172_002-000002",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1909.172_003-000002",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1909.172/",
+ "license": "CC0",
+ "tags": [
+  "山水",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

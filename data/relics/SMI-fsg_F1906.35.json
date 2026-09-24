@@ -1,0 +1,53 @@
+{
+ "relic_id": "SMI-fsg_F1906.35",
+ "name": "Tomb jar",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  201,
+  300
+ ],
+ "category": "瓷器",
+ "material": "Earthenware with copper-green lead-silicate glaze | H x Diam: 50.7 × 34.1 cm (19 15/16 × 13 7/16 in)",
+ "dimensions": "Earthenware with copper-green lead-silicate glaze | H x Diam: 50.7 × 34.1 cm (19 15/16 × 13 7/16 in)",
+ "excavated_from": "",
+ "summary": "early 1st-early 3rd century ， Eastern Han dynasty。Earthenware with copper-green lead-silicate glaze | H x Diam: 50.7 × 34.1 cm (19 15/16 × 13 7/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1906.35"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7347_22",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7347_23",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7347_24",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1906.35/",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器",
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

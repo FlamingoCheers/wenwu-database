@@ -1,0 +1,43 @@
+{
+ "relic_id": "SMI-fsg_F1916.302",
+ "name": "Ornament in the form of a standing horse",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "low",
+ "year_range": [
+  220,
+  589
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x W: 5.3 x 5.8 cm (2 1/16 x 2 5/16 in)",
+ "dimensions": "Bronze | H x W: 5.3 x 5.8 cm (2 1/16 x 2 5/16 in)",
+ "excavated_from": "",
+ "summary": "220-589 ， Period of Division。Bronze | H x W: 5.3 x 5.8 cm (2 1/16 x 2 5/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1916.302"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7706_06",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1916.302/",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

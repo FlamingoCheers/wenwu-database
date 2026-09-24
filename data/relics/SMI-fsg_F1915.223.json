@@ -1,0 +1,42 @@
+{
+ "relic_id": "SMI-fsg_F1915.223",
+ "name": "Orament in the form of a monkey riding a horse",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "low",
+ "year_range": [
+  220,
+  589
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x W: 4.9 x 5.5 cm (1 15/16 x 2 3/16 in)",
+ "dimensions": "Bronze | H x W: 4.9 x 5.5 cm (1 15/16 x 2 3/16 in)",
+ "excavated_from": "",
+ "summary": "220-589 ， Period of Division。Bronze | H x W: 4.9 x 5.5 cm (1 15/16 x 2 3/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1915.223"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7705_27",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1915.223/",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

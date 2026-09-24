@@ -1,0 +1,44 @@
+{
+ "relic_id": "SMI-fsg_F1910.12",
+ "name": "Seated Buddha with figures",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "high",
+ "year_range": [
+  386,
+  535
+ ],
+ "category": "宗教造像",
+ "material": "Marble | H x W x D (overall): 18.5 x 12.4 x 9.5 cm (7 5/16 x 4 7/8 x 3 3/4 in)",
+ "dimensions": "Marble | H x W x D (overall): 18.5 x 12.4 x 9.5 cm (7 5/16 x 4 7/8 x 3 3/4 in)",
+ "excavated_from": "",
+ "summary": "possibly 386-535 ， Period of Division, Possibly Northern Wei dynasty。Marble | H x W x D (overall): 18.5 x 12.4 x 9.5 cm (7 5/16 x 4 7/8 x 3 3/4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1910.12"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7755_23",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1910.12/",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "玺印封泥",
+  "文字书写",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

@@ -1,0 +1,54 @@
+{
+ "relic_id": "SMI-fsg_F1912.82",
+ "name": "Buddhist tablet in the form of a miniature shrine",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  520,
+  619
+ ],
+ "category": "雕塑",
+ "material": "Stone | H x W x D (overall): 30.9 x 15.9 x 7.6 cm (12 3/16 x 6 1/4 x 3 in)",
+ "dimensions": "Stone | H x W x D (overall): 30.9 x 15.9 x 7.6 cm (12 3/16 x 6 1/4 x 3 in)",
+ "excavated_from": "",
+ "summary": "ca. 520 ， Period of Division。Stone | H x W x D (overall): 30.9 x 15.9 x 7.6 cm (12 3/16 x 6 1/4 x 3 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1912.82"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7423_30",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7423_31",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7423_32",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1912.82/",
+ "license": "CC0",
+ "tags": [
+  "佛教",
+  "神话宗教",
+  "酒文化",
+  "礼制",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

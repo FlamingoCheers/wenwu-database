@@ -1,0 +1,45 @@
+{
+ "relic_id": "SMI-fsg_F1950.10",
+ "name": "Gilt bronze plaque with animals in a landscape",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -200,
+  -101
+ ],
+ "category": "玉器",
+ "material": "Gilt bronze inlaid with jade, turquoise, carnelian, and silver | H x Diam: 2.8 x 9.5 cm (1 1/8 x 3 3/4 in)",
+ "dimensions": "Gilt bronze inlaid with jade, turquoise, carnelian, and silver | H x Diam: 2.8 x 9.5 cm (1 1/8 x 3 3/4 in)",
+ "excavated_from": "",
+ "summary": "ca. 2nd century BCE ， Early Western Han dynasty。Gilt bronze inlaid with jade, turquoise, carnelian, and silver | H x Diam: 2.8 x 9.5 cm (1 1/8 x 3 3/4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1950.10"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7405_36",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7405_37",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1950.10/",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

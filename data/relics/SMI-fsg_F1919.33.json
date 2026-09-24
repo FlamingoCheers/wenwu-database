@@ -1,0 +1,38 @@
+{
+ "relic_id": "SMI-fsg_F1919.33",
+ "name": "Disk (bi)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1600,
+  -1050
+ ],
+ "category": "玉器",
+ "material": "Jade | Diam x D: 11.2 x 0.8 cm (4 7/16 x 5/16 in)",
+ "dimensions": "Jade | Diam x D: 11.2 x 0.8 cm (4 7/16 x 5/16 in)",
+ "excavated_from": "",
+ "summary": "ca. 1600-1050 BCE ， Shang dynasty。Jade | Diam x D: 11.2 x 0.8 cm (4 7/16 x 5/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1919.33"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-6024_03",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1919.33/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

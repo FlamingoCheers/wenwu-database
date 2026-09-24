@@ -1,0 +1,41 @@
+{
+ "relic_id": "SMI-fsg_S1987.15",
+ "name": "Incense Burner",
+ "aliases": [],
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  701,
+  800
+ ],
+ "category": "青铜器",
+ "material": "Gilded bronze | H x W x D: 13.3 x 27.2 x 25.8 cm (5 1/4 x 10 11/16 x 10 3/16 in)",
+ "dimensions": "Gilded bronze | H x W x D: 13.3 x 27.2 x 25.8 cm (5 1/4 x 10 11/16 x 10 3/16 in)",
+ "excavated_from": "",
+ "summary": "7th-8th century ， Tang dynasty。Gilded bronze | H x W x D: 13.3 x 27.2 x 25.8 cm (5 1/4 x 10 11/16 x 10 3/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "S1987.15"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-6205_12",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/S1987.15/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "香文化"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

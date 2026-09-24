@@ -1,0 +1,44 @@
+{
+ "relic_id": "SMI-fsg_F1913.104",
+ "name": "Lamp in the form of a bird standing on a tortoise",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -220,
+  -206
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x W: 10.6 x 6.5 cm (4 3/16 x 2 9/16 in)",
+ "dimensions": "Bronze | H x W: 10.6 x 6.5 cm (4 3/16 x 2 9/16 in)",
+ "excavated_from": "",
+ "summary": "206 BCE-220 CE ， Han dynasty。Bronze | H x W: 10.6 x 6.5 cm (4 3/16 x 2 9/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1913.104"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7726_12",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1913.104/",
+ "license": "CC0",
+ "tags": [
+  "酒文化",
+  "礼制",
+  "动物",
+  "照明",
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

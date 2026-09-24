@@ -1,0 +1,41 @@
+{
+ "relic_id": "SMI-fsg_F1911.67",
+ "name": "Pitch-pot",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x W: 55.4 x 24.1 cm (21 13/16 x 9 1/2 in)",
+ "dimensions": "Bronze | H x W: 55.4 x 24.1 cm (21 13/16 x 9 1/2 in)",
+ "excavated_from": "",
+ "summary": "1368-1644 ， Ming dynasty。Bronze | H x W: 55.4 x 24.1 cm (21 13/16 x 9 1/2 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1911.67"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7652_12",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1911.67/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

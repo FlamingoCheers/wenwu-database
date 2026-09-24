@@ -1,0 +1,46 @@
+{
+ "relic_id": "SMI-fsg_FSC-P-4208",
+ "name": "Vessel (fragment)",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1300,
+  -1200
+ ],
+ "category": "瓷器",
+ "material": "Unglazed white pottery | H x W (overall): 2.8 x 3.5 cm (1 1/8 x 1 3/8 in)",
+ "dimensions": "Unglazed white pottery | H x W (overall): 2.8 x 3.5 cm (1 1/8 x 1 3/8 in)",
+ "excavated_from": "",
+ "summary": "ca. 1300-1200 BCE ， Late Shang dynasty, Early Anyang period。Unglazed white pottery | H x W (overall): 2.8 x 3.5 cm (1 1/8 x 1 3/8 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "FSC-P-4208"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-FSC-P-4208_1",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-FSC-P-4208_2",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/FSC-P-4208/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

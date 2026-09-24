@@ -1,0 +1,45 @@
+{
+ "relic_id": "SMI-fsg_F1915.36f",
+ "name": "Landscape",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1601,
+  1700
+ ],
+ "category": "书画",
+ "material": "Ink and color on paper | H x W (album mount): 73 x 59.6 cm (28 3/4 x 23 7/16 in)",
+ "dimensions": "Ink and color on paper | H x W (album mount): 73 x 59.6 cm (28 3/4 x 23 7/16 in)",
+ "excavated_from": "",
+ "summary": "17th century ， Late Ming or early Qing dynasty。Ink and color on paper | H x W (album mount): 73 x 59.6 cm (28 3/4 x 23 7/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1915.36f"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8257_06",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-6048_06",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1915.36f/",
+ "license": "CC0",
+ "tags": [
+  "山水"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

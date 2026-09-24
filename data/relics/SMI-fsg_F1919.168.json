@@ -1,0 +1,43 @@
+{
+ "relic_id": "SMI-fsg_F1919.168",
+ "name": "The Immortal Liu Hai",
+ "aliases": [],
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1601,
+  1700
+ ],
+ "category": "织绣",
+ "material": "Ink on silk | H x W (image): 146.8 x 82 cm (57 13/16 x 32 5/16 in)",
+ "dimensions": "Ink on silk | H x W (image): 146.8 x 82 cm (57 13/16 x 32 5/16 in)",
+ "excavated_from": "",
+ "summary": "16th-17th century ， Ming dynasty。Ink on silk | H x W (image): 146.8 x 82 cm (57 13/16 x 32 5/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1919.168"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-5124_07",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1919.168/",
+ "license": "CC0",
+ "tags": [
+  "道教",
+  "神话宗教",
+  "酒文化",
+  "礼制"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

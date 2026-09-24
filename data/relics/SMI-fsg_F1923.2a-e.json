@@ -1,0 +1,46 @@
+{
+ "relic_id": "SMI-fsg_F1923.2a-e",
+ "name": "Box with lid (lian)",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -100,
+  -1
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x W: 18 x 18.4 cm (7 1/16 x 7 1/4 in)",
+ "dimensions": "Bronze | H x W: 18 x 18.4 cm (7 1/16 x 7 1/4 in)",
+ "excavated_from": "",
+ "summary": "100 BCE-100 CE ， Han dynasty。Bronze | H x W: 18 x 18.4 cm (7 1/16 x 7 1/4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1923.2a-e"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7373_11",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7373_12",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1923.2a-e/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

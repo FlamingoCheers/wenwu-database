@@ -1,0 +1,41 @@
+{
+ "relic_id": "SMI-fsg_F1929.4",
+ "name": "Mirror",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  220,
+  589
+ ],
+ "category": "青铜器",
+ "material": "Bronze, gold, silver, lacquer | Diam x D: 27.2 x 1.7 cm (10 11/16 x 11/16 in)",
+ "dimensions": "Bronze, gold, silver, lacquer | Diam x D: 27.2 x 1.7 cm (10 11/16 x 11/16 in)",
+ "excavated_from": "",
+ "summary": "220-589 ， Period of Division。Bronze, gold, silver, lacquer | Diam x D: 27.2 x 1.7 cm (10 11/16 x 11/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1929.4"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-5300_03",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1929.4/",
+ "license": "CC0",
+ "tags": [
+  "铜镜",
+  "日常生活"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

@@ -1,0 +1,52 @@
+{
+ "relic_id": "SMI-fsg_F1923.20a-c",
+ "name": "Funerary model of a gate",
+ "aliases": [],
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -100,
+  -1
+ ],
+ "category": "瓷器",
+ "material": "Unglazed earthenware | H x W x D (assembled): 77 × 92.5 × 25.5 cm (30 5/16 × 36 7/16 × 10 1/16 in)",
+ "dimensions": "Unglazed earthenware | H x W x D (assembled): 77 × 92.5 × 25.5 cm (30 5/16 × 36 7/16 × 10 1/16 in)",
+ "excavated_from": "",
+ "summary": "100 BCE-100 CE ， Han dynasty。Unglazed earthenware | H x W x D (assembled): 77 × 92.5 × 25.5 cm (30 5/16 × 36 7/16 × 10 1/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1923.20a-c"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8536_18",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8536_19",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-8536_20",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1923.20a-c/",
+ "license": "CC0",
+ "tags": [
+  "丧葬",
+  "明器",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

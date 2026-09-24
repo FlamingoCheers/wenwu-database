@@ -1,0 +1,40 @@
+{
+ "relic_id": "SMI-fsg_FSC-L-26",
+ "name": "Fragments from a decorated box",
+ "aliases": [],
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -475,
+  -221
+ ],
+ "category": "漆器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": "",
+ "summary": "475-221 BCE ， Warring States period。Lacquer",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "FSC-L-26"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-FSC-L-26",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/FSC-L-26/",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": true,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

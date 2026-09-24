@@ -1,0 +1,40 @@
+{
+ "relic_id": "SMI-fsg_FSC-O-29",
+ "name": "Oracle bone, inscribed",
+ "aliases": [],
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1600,
+  -1050
+ ],
+ "category": "甲骨",
+ "material": "Bone | H x W x D: 4.8 × 2 × 0.2 cm (1 7/8 × 13/16 × 1/16 in)",
+ "dimensions": "Bone | H x W x D: 4.8 × 2 × 0.2 cm (1 7/8 × 13/16 × 1/16 in)",
+ "excavated_from": "",
+ "summary": "ca. 1600 - ca. 1050 BCE ， Shang dynasty。Bone | H x W x D: 4.8 × 2 × 0.2 cm (1 7/8 × 13/16 × 1/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "FSC-O-29"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-FSC-O-29_1",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/FSC-O-29/",
+ "license": "CC0",
+ "tags": [
+  "家具"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

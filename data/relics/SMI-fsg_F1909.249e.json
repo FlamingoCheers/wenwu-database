@@ -1,0 +1,41 @@
+{
+ "relic_id": "SMI-fsg_F1909.249e",
+ "name": "Red Blossom",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1701,
+  1800
+ ],
+ "category": "书画",
+ "material": "Ink and color on silk | H x W: 23.4 x 21.7 cm (9 3/16 x 8 9/16 in)",
+ "dimensions": "Ink and color on silk | H x W: 23.4 x 21.7 cm (9 3/16 x 8 9/16 in)",
+ "excavated_from": "",
+ "summary": "18th century ， Qing dynasty。Ink and color on silk | H x W: 23.4 x 21.7 cm (9 3/16 x 8 9/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1909.249e"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-5374_05",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1909.249e/",
+ "license": "CC0",
+ "tags": [
+  "动物",
+  "植物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

@@ -1,0 +1,43 @@
+{
+ "relic_id": "SMI-fsg_F1917.95",
+ "name": "Five-tier tube (cong 琮) with masks",
+ "aliases": [],
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -3300,
+  -2250
+ ],
+ "category": "玉器",
+ "material": "Jade (nephrite) | H x W x D: 14.5 x 6.7 x 7 cm (5 11/16 x 2 5/8 x 2 3/4 in) | Diam (hole): 5.7 cm (2 1/4 in)",
+ "dimensions": "Jade (nephrite) | H x W x D: 14.5 x 6.7 x 7 cm (5 11/16 x 2 5/8 x 2 3/4 in) | Diam (hole): 5.7 cm (2 1/4 in)",
+ "excavated_from": "",
+ "summary": "ca. 3300-2250 BCE ， Late Neolithic period。Jade (nephrite) | H x W x D: 14.5 x 6.7 x 7 cm (5 11/16 x 2 5/8 x 2 3/4 in) | Diam (hole): 5.7 cm (2 1/4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1917.95"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1917.95_001",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1917.95_002",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1917.95/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

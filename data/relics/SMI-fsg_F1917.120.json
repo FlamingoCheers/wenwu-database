@@ -1,0 +1,41 @@
+{
+ "relic_id": "SMI-fsg_F1917.120",
+ "name": "Visiting a friend by boat",
+ "aliases": [],
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1601,
+  1700
+ ],
+ "category": "书画",
+ "material": "Ink and color on silk | H x W (image): 125.4 × 62.2 cm (49 3/8 × 24 1/2 in)",
+ "dimensions": "Ink and color on silk | H x W (image): 125.4 × 62.2 cm (49 3/8 × 24 1/2 in)",
+ "excavated_from": "",
+ "summary": "17th century ， Qing dynasty。Ink and color on silk | H x W (image): 125.4 × 62.2 cm (49 3/8 × 24 1/2 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1917.120"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-5734_03",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1917.120/",
+ "license": "CC0",
+ "tags": [
+  "山水",
+  "出行"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

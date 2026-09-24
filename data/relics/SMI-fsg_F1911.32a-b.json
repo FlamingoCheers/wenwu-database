@@ -1,0 +1,40 @@
+{
+ "relic_id": "SMI-fsg_F1911.32a-b",
+ "name": "Crouching tiger",
+ "aliases": [],
+ "dynasty": "三国",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  220,
+  266
+ ],
+ "category": "玉器",
+ "material": "Jade (?) | H x W: 3.4 x 8.3 cm (1 5/16 x 3 1/4 in)",
+ "dimensions": "Jade (?) | H x W: 3.4 x 8.3 cm (1 5/16 x 3 1/4 in)",
+ "excavated_from": "",
+ "summary": "220-266 ， Period of Division。Jade (?) | H x W: 3.4 x 8.3 cm (1 5/16 x 3 1/4 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1911.32a-b"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7533_02",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1911.32a-b/",
+ "license": "CC0",
+ "tags": [
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

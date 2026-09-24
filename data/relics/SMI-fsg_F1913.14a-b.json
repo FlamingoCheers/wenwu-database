@@ -1,0 +1,44 @@
+{
+ "relic_id": "SMI-fsg_F1913.14a-b",
+ "name": "Ritual serving vessel with lid (fu) and dragons",
+ "aliases": [],
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  -600,
+  -501
+ ],
+ "category": "青铜器",
+ "material": "Bronze | H x W x D: 16.5 x 27.2 x 20.5 cm (6 1/2 x 10 11/16 x 8 1/16 in)",
+ "dimensions": "Bronze | H x W x D: 16.5 x 27.2 x 20.5 cm (6 1/2 x 10 11/16 x 8 1/16 in)",
+ "excavated_from": "",
+ "summary": "6th century BCE ， Eastern Zhou dynasty, Spring and Autumn period。Bronze | H x W x D: 16.5 x 27.2 x 20.5 cm (6 1/2 x 10 11/16 x 8 1/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1913.14a-b"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7357_02",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1913.14a-b/",
+ "license": "CC0",
+ "tags": [
+  "食器",
+  "礼制",
+  "祭祀",
+  "祥瑞纹样",
+  "动物"
+ ],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}

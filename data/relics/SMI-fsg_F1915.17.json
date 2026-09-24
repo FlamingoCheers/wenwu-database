@@ -1,0 +1,43 @@
+{
+ "relic_id": "SMI-fsg_F1915.17",
+ "name": "Eggplant",
+ "aliases": [],
+ "dynasty": "元",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1301,
+  1400
+ ],
+ "category": "书画",
+ "material": "Ink and color on paper | H x W (image): 28.5 x 58.3 cm (11 1/4 x 22 15/16 in)",
+ "dimensions": "Ink and color on paper | H x W (image): 28.5 x 58.3 cm (11 1/4 x 22 15/16 in)",
+ "excavated_from": "",
+ "summary": "14th century ， Yuan or Ming dynasty。Ink and color on paper | H x W (image): 28.5 x 58.3 cm (11 1/4 x 22 15/16 in)",
+ "history": "",
+ "interpretation": [],
+ "collection": {
+  "museum": "史密森尼国家亚洲艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "F1915.17"
+ },
+ "images": [
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7472_16",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  },
+  {
+   "url": "https://ids.si.edu/ids/deliveryService?id=FS-7472_17",
+   "license": "CC0",
+   "credit": "National Museum of Asian Art, Smithsonian Institution"
+  }
+ ],
+ "source_url": "https://asia.si.edu/object/F1915.17/",
+ "license": "CC0",
+ "tags": [],
+ "related": [],
+ "raw_ref": "raw/smi/search_*.json",
+ "needs_review": false,
+ "fetched_at": "2026-09-24",
+ "updated_at": "2026-09-24"
+}
