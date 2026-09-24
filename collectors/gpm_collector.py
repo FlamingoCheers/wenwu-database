@@ -1,4 +1,4 @@
-import io
+﻿import io
 import json
 import os
 import re
@@ -11,8 +11,11 @@ from collectors.dynasty_util import map_dynasty, map_category  # noqa: E402
 from pipeline.dedup_cross import norm  # noqa: E402
 
 BASE = "https://digicol.dpm.org.cn"
-RE_DIR = r"E:\codingProject\52-文物数据库\data\relics"
-KW_FILE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "meta", "gpm_keywords.json")
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+RE_DIR = os.path.join(ROOT, "data", "relics")
+KW_FILE = os.path.join(ROOT, "data", "meta", "gpm_keywords.json")
+STATE_FILE = os.path.join(ROOT, "raw", "_gpm_kw_done.json")
+SKIP_FILE = os.path.join(ROOT, "raw", "_gpm_skipped.json")
 
 CAT_MAP = {"绘画": "书画", "法书": "书画", "书法": "书画", "碑帖": "碑帖拓本", "陶瓷": "瓷器",
            "玉器": "玉器", "青铜器": "青铜器", "金银器": "金银器", "珐琅": "杂器", "漆器": "漆器",
@@ -84,7 +87,7 @@ def main():
             seen_ids.add(fn[4:-5])
     skipped = []
     made = 0
-    state_path = r"E:\codingProject\52-文物数据库\raw\_gpm_kw_done.json"
+    state_path = STATE_FILE
     state = {}
     if os.path.exists(state_path):
         state = json.load(open(state_path, encoding="utf-8"))
@@ -163,7 +166,7 @@ def main():
             json.dump(state, open(state_path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
             time.sleep(4.0)
         b.close()
-    json.dump(skipped, open(r"E:\codingProject\52-文物数据库\raw\_gpm_skipped.json", "w", encoding="utf-8"),
+    json.dump(skipped, open(SKIP_FILE, "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)
     print("DONE made=%d skipped=%d" % (made, len(skipped)))
 
