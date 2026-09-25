@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O22892",
+ "name": "Bottle",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1765,
+  1795
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Height 31.5 cm; Width 25.5 cm",
+ "excavated_from": null,
+ "summary": "A Chinese scholar commissioned this vase. In an inscription on the base he declared that his thatched cottage was an agreeable dwelling place. While Chinese porcelains bearing reign period marks are common, objects with owner's marks, such as this piece, are much rarer.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.97-1912"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AW2000/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AW1998/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O22892",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

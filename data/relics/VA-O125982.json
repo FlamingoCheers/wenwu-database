@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O125982",
+ "name": "Box",
+ "aliases": [],
+ "dynasty": "宋",
+ "year_range": [
+  1150,
+  1250
+ ],
+ "category": "杂器",
+ "material": "lacquer; fabric",
+ "dimensions": "Height 16.4 cm; Height 16.4 cm",
+ "excavated_from": null,
+ "summary": "This tiered box was used for storing jewellery, hairpins, combs and other dressing accessories. It could have been used by either a man or a woman.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.151-1983"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2021MX6404/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2021MX6402/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BJ1659/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O125982",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

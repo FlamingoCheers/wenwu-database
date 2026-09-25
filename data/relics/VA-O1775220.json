@@ -1,0 +1,44 @@
+{
+ "relic_id": "VA-O1775220",
+ "name": "Shirt",
+ "aliases": [],
+ "dynasty": "不详",
+ "year_range": null,
+ "category": "杂器",
+ "material": "cotton; ramie; paint; plastic",
+ "dimensions": "Length 88.8 cm; Width 55 cm; Length 59.3 cm",
+ "excavated_from": null,
+ "summary": "Shirt designed by David Bowie for the <i>Outside</i> tour, 1995",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "S.455-2024"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2026PM0806/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2024NX8852/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2024NX8853/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O1775220",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": true,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-25"
+}

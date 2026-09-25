@@ -1,0 +1,44 @@
+{
+ "relic_id": "VA-O1261396",
+ "name": "Teddy bear",
+ "aliases": [],
+ "dynasty": "不详",
+ "year_range": null,
+ "category": "杂器",
+ "material": "nylon plush; polyester",
+ "dimensions": "Height 18 cm",
+ "excavated_from": null,
+ "summary": "This is an example of a bear used to commemorate a particular event. The Commonwealth Games of 2002 were held in Manchester. The Roman numerals XVII on the bear's foot indicate that this was the 17th Games held.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "B.128-2012"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2016JH4327/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2016JH4328/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2013GT4956/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O1261396",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": true,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-25"
+}

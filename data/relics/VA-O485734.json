@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O485734",
+ "name": "Robe",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1821,
+  1850
+ ],
+ "category": "织绣",
+ "material": "silk textile; gold thread; silver thread",
+ "dimensions": "Length 138.43 cm; Width 182.9 cm; Length 54.5 in",
+ "excavated_from": null,
+ "summary": "Woman's dragon robe, woven silk; embroidered with silver and gold threads; lined with silk, China, Qing dynasty, Daoguang period (1821-50)",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "T.10-1967"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BE6326/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2012FR8685/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O485734",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

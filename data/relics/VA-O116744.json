@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O116744",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1730,
+  1750
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Diameter 19.5 cm",
+ "excavated_from": null,
+ "summary": "This Chinese dish is decorated with an interior scene showing a young woman and her sons surrounded by various household objects. This design became extremely popular not only in China but also in the West. At the height of a fashion known as 'chinoiserie' many dishes and plates made in Europe were ",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.1430-1910"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AT3853/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010CT5067/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2009CT0896/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O116744",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

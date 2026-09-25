@@ -1,0 +1,37 @@
+{
+ "relic_id": "VA-O190172",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1800,
+  1880
+ ],
+ "category": "瓷器",
+ "material": "porcelain; slip",
+ "dimensions": "Height 17.5 cm; Diameter 10.2 cm",
+ "excavated_from": null,
+ "summary": "Vase, porcelain with relief decoration modelled in slip, China, Qing dynasty",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.562-1910"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017KB8457/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O190172",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O116729",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1700,
+  1750
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Diameter 26.5 cm",
+ "excavated_from": null,
+ "summary": "The special feature on this dish with its attractive turquoise glaze is the openwork round the rim. This suggests that it was a container for fruit rather than meat or vegetables, which might have leaked through the pierced decoration.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.455-1910"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010ED0489/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AT6500/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O116729",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O33524",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1403,
+  1424
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Diameter 38.4 cm",
+ "excavated_from": null,
+ "summary": "This dish is a fine example of blue-and-white porcelain from the early 15th century. At that time the Yongle Emperor sent seven expeditions from China to south-east Asia and the Middle East, led by the eunuch admiral Zheng He. Historians believe that large dishes of this type were given as diplomati",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "1712-1876"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AY5402/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AY5405/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O33524",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

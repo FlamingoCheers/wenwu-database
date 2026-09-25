@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O180855",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "辽",
+ "year_range": [
+  907,
+  1125
+ ],
+ "category": "瓷器",
+ "material": "earthenware; slip",
+ "dimensions": "Diameter 26 cm",
+ "excavated_from": null,
+ "summary": "Dish, earthenware with decoration incised through a slip under a green glaze, China, Liao dynasty (907-1125)",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.43-1915"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BT3045/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EA8385/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O180855",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

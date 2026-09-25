@@ -1,0 +1,37 @@
+{
+ "relic_id": "VA-O495987",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1644,
+  1911
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Height 22.4 cm; Diameter 11.3 cm",
+ "excavated_from": null,
+ "summary": "Porcelain vase with coffee-brown glaze, decorated in overglaze enamels; China (Jingdezhen), Qing dynasty",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "CIRC.616-1931"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2009CC4752/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O495987",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

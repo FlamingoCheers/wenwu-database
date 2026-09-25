@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O97314",
+ "name": "Figurine",
+ "aliases": [],
+ "dynasty": "唐",
+ "year_range": [
+  501,
+  600
+ ],
+ "category": "雕塑",
+ "material": "Earthenware; Lead glaze",
+ "dimensions": "Height 84 cm; Width 12 cm; Depth 8 cm",
+ "excavated_from": null,
+ "summary": "This glazed earthenware figure is of a state official wearing a green robe. It was made using moulds and the lead glaze common in China from the late 6th century. The wide-sleeved belted over-robe was a typical dress of the time. His hat has a depiction of a small bird, probably an indication that h",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.160-1974"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BB4153/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BT2345/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BT2344/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O97314",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

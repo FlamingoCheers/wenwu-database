@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O437194",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "元",
+ "year_range": [
+  1300,
+  1368
+ ],
+ "category": "瓷器",
+ "material": "porcelain; celadon",
+ "dimensions": "Diameter 7.9 cm; Height 3.5 cm",
+ "excavated_from": null,
+ "summary": "Bowl, porcelain with applied relief under celadon glaze; excavated in the Philippines, made in China, Yuan dynasty",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.46-1975"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EA6877/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EA6876/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O437194",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

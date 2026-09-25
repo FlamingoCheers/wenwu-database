@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O94182",
+ "name": "Stemcup",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1403,
+  1424
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Height 10.5 cm; Diameter 15.5 cm",
+ "excavated_from": null,
+ "summary": "This red porcelain stemcup is a rare example of a cup decorated with a red glaze, derived from the red oxide of copper. It dates to the beginning of the Yongle reign period (1403-1424). This type of cup is called <i>quanbei</i>, literally 'urging cup', which refers to the fact that the drinker would",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "168-1905"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2007BM7265/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2011EM6813/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2007BP0948/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O94182",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

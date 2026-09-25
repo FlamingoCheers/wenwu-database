@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O485724",
+ "name": "Robe",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1801,
+  1900
+ ],
+ "category": "织绣",
+ "material": "silk textile; gold paper; silk thread",
+ "dimensions": "Length 108.6 cm; Width 144.8 cm; Length 43 in; Width 57 in",
+ "excavated_from": null,
+ "summary": "Lady's robe, gauze-weave silk; embroidering in silk threads; trimmed with damask-weave silk; backed with gold paper, China, late 19th century",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "T.54-1970"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2019MK0665/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2019MK0666/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O485724",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

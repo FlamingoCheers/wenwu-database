@@ -1,0 +1,34 @@
+{
+ "relic_id": "VA-O75887",
+ "name": "Painting",
+ "aliases": [],
+ "dynasty": "不详",
+ "year_range": null,
+ "category": "书画",
+ "material": "watercolour; ink; paper",
+ "dimensions": "Height 32.9 cm; Width 21.3 cm; Length 39.2 cm; Height 22.5 cm",
+ "excavated_from": null,
+ "summary": "This painting is from an album that contains 200 pictures showing Chinese men and women engaged in various occupations. Accompanying each picture is a brief description in Chinese that explains what the picture illustrates. In this case a man is preparing opium for smoking by boiling it. The first o",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "D.1561-1900"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AM2934/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O75887",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": true,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-26"
+}

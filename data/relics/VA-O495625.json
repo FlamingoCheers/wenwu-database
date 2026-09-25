@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O495625",
+ "name": "Ewer",
+ "aliases": [],
+ "dynasty": "唐",
+ "year_range": [
+  850,
+  906
+ ],
+ "category": "瓷器",
+ "material": "stoneware; slip",
+ "dimensions": "Height 30.2 cm; Diameter 18.4 cm",
+ "excavated_from": null,
+ "summary": "White ware. Ewer, stoneware with a clear glaze over a white slip, China, Tang dynasty,  850-906",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.1000-1922"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010CT5918/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017KC7862/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O495625",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O102828",
+ "name": "Box",
+ "aliases": [],
+ "dynasty": "元",
+ "year_range": [
+  1750,
+  1800
+ ],
+ "category": "杂器",
+ "material": "nephrite",
+ "dimensions": "Length 7.6 cm",
+ "excavated_from": null,
+ "summary": "This oblong jade box reputedly came from the Yuanming Yuan. This was the imperial summer palace that was plundered and destroyed by British and French troops during the Second Opium War in 1860. This provenance cannot be verified, but the design and workmanship of the box seem rather modest compared",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "1545-1882"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2020MR7089/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BF8424/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O102828",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

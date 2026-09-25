@@ -1,0 +1,37 @@
+{
+ "relic_id": "VA-O40489",
+ "name": "Table",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1550,
+  1600
+ ],
+ "category": "竹木牙角",
+ "material": "wood",
+ "dimensions": "Height 25 cm; Length 70.5 cm; Depth 49 cm",
+ "excavated_from": null,
+ "summary": "This low table is generally referred to as 'kang table', because it was used on a 'kang', a hollow brick platform built into a room and heated by a fire underneath it. The kang served primarily as a bed but other activities, for instance taking tea and conversing, took place on it as well.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.68-1983"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AP0412/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O40489",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

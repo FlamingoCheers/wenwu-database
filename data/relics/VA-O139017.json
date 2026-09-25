@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O139017",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "宋",
+ "year_range": [
+  1250,
+  1300
+ ],
+ "category": "杂器",
+ "material": null,
+ "dimensions": "Height 13.4 cm; Diameter 8.6 cm",
+ "excavated_from": null,
+ "summary": "This vase was made during the Song dynasty (960-1279), the classical period in the history of Chinese ceramics. Kilns appeared in all parts of China, each kiln with its own specialized products. Centuries later they were much sought after by collectors. A systematic classification of the different w",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.102-1967"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2007BN4103/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2007BN4102/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2007BN4101/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O139017",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

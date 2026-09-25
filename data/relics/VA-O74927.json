@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O74927",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1701,
+  1800
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Height 9.5 cm; Diameter 19.1 cm",
+ "excavated_from": null,
+ "summary": "Bowl, porcelain, with figures seated at a table, with butterflies and insects, Chinese, mid 18th century",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.381-1926"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010ED8378/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017JX8671/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O74927",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

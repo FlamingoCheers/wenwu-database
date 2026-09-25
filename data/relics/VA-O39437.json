@@ -1,0 +1,44 @@
+{
+ "relic_id": "VA-O39437",
+ "name": "Bracelet",
+ "aliases": [],
+ "dynasty": "新石器时代",
+ "year_range": null,
+ "category": "杂器",
+ "material": "jade",
+ "dimensions": "Height 3.3 cm; Diameter 7.6 cm",
+ "excavated_from": null,
+ "summary": "This bracelet was made in China in about 2500 BC, long before writing was invented. It might have been worn as an ornament or as an amulet to protect against evil or danger.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "A.57-1936"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2020MR6976/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2020MR6992/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AT6143/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O39437",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-25"
+}

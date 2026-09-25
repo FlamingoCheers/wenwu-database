@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O498008",
+ "name": "Buckle",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1801,
+  1900
+ ],
+ "category": "杂器",
+ "material": "iron",
+ "dimensions": "Measurements converted from register.",
+ "excavated_from": null,
+ "summary": "Buckle, from horse-trappings, iron with silver overlay, Korea or China, 19th century",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "M.301-1928"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2011ET6730/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2019MC1096/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O498008",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

@@ -1,0 +1,39 @@
+{
+ "relic_id": "VA-O1806964",
+ "name": "Sculpture",
+ "aliases": [],
+ "dynasty": "不详",
+ "year_range": null,
+ "category": "雕塑",
+ "material": "porcelain",
+ "dimensions": "Height 28 cm; Length 21 cm; Width 15 cm",
+ "excavated_from": null,
+ "summary": "Yao Yongkang was widely recognised as a master of studio ceramics, celebrated for originating a unique artistic language that blends Jingdezhen’s figurine tradition with the fluid expressiveness of Chinese freehand painting. He was known for his spirited, expressive figures sculpted from clay sheets",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.93-2025"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2025PH1250/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2025PH1251/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O1806964",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": true,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-25"
+}

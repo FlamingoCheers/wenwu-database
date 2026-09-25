@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O116734",
+ "name": "Teapot",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1680,
+  1722
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Height 11.5 cm",
+ "excavated_from": null,
+ "summary": "The Kangxi period (1662-1722) was a golden age for enamelled porcelain. All sorts of shapes and colours emerged from the skilful hands of potters in Jingdezhen, the porcelain city in Jiangxi province. The predominant colour of this vase is green, which inspired the French art historian Albert Jacque",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.1096&A-1910"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AT8987/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017JU1165/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O116734",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

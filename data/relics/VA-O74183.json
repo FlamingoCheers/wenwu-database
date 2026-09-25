@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O74183",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1752,
+  1760
+ ],
+ "category": "瓷器",
+ "material": "soft paste porcelain",
+ "dimensions": "Height 17.8 cm; Width 8.3 cm",
+ "excavated_from": null,
+ "summary": "\"Soft-paste\" porcelain vase with squirrels and grapevine in relief, Chinese, mid 18th century, overdecorated in London, possibly in the workshop of James Giles, 1752-1760",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "2891-1901"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2009CR4813/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2009CR4811/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017JY0252/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O74183",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

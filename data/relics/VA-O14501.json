@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O14501",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "宋",
+ "year_range": [
+  950,
+  1100
+ ],
+ "category": "青铜器",
+ "material": "gold",
+ "dimensions": "Diameter 14.6 cm",
+ "excavated_from": null,
+ "summary": "This dish is a splendid example of craftsmanship from the period of the Song dynasty (960-1279), and shows the luxury and prosperity enjoyed by a certain sector of society. Gold was used only in the imperial courts or in the homes of the wealthiest urban residents.\r\nWe do not know what was served in",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "M.29-1935"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BF5300/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2018KY6243/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O14501",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

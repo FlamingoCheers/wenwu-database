@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O109645",
+ "name": "Jar",
+ "aliases": [],
+ "dynasty": "宋",
+ "year_range": [
+  1000,
+  1150
+ ],
+ "category": "瓷器",
+ "material": "stoneware",
+ "dimensions": "Height 11.8 cm",
+ "excavated_from": null,
+ "summary": "This lidded jar is an example of Ding ware, made in Hebei province in China during the Northern Song dynasty (960-1127). Ding wares were among the earliest true porcelains to be made made in China, and indeed in the world. The term porcelain refers to ceramics made from a mixture containing a clay c",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "CIRC.38&A-1934"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BB5048/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BC5490/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O109645",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O176997",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1662,
+  1722
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Height 17.8 cm; Diameter 20.6 cm",
+ "excavated_from": null,
+ "summary": "Bowl, porcelain painted in underglaze blue with peonies and birds, China, Qing dynasty, probably Kangxi period (with Chenghua mark)",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "106-1883"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EC0514/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EC0513/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O176997",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

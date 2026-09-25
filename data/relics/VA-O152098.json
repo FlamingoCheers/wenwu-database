@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O152098",
+ "name": "Mirror",
+ "aliases": [],
+ "dynasty": "宋",
+ "year_range": [
+  1000,
+  1250
+ ],
+ "category": "杂器",
+ "material": "bronze",
+ "dimensions": "Diameter 17.3 cm",
+ "excavated_from": null,
+ "summary": "Mirrors in China were associated with Daoist mysticism as well as being a functional object in the house. Many mirrors are decorated with mystical scenes of Daoism. This mirror shows the mythical journey of the 8th-century emperor Ming Huang to the Palace of the Moon Goddess.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.83-1982"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EJ2006/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EJ2005/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2014HB4421/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O152098",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

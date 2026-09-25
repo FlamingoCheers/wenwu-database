@@ -1,0 +1,37 @@
+{
+ "relic_id": "VA-O229960",
+ "name": "Figure",
+ "aliases": [],
+ "dynasty": "汉",
+ "year_range": [
+  1,
+  100
+ ],
+ "category": "陶器",
+ "material": "earthenware; pigment",
+ "dimensions": "Height 61 cm; Width 10 cm",
+ "excavated_from": null,
+ "summary": "This earthenware figure once had detachable wooden arms and clothes made of fabric, both of which have now deteriorated. It represents another type of Chinese burial figures which is slightly less ambitious than the terra cotta armies of the First Emperor.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.44-2008"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EA5647/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O229960",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

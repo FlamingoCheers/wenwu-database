@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O1223458",
+ "name": "Panel",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1644,
+  1911
+ ],
+ "category": "织绣",
+ "material": "silk textile; linen; gold thread",
+ "dimensions": "Width 12.25 in; Length 58 in",
+ "excavated_from": null,
+ "summary": "Panel, tapestry-weave silk (<i>kesi</i>) and gold threads; bound with silk and backed with linen, China, Qing dynasty (1644-1911), 17th century-18th century",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "T.195C-1962"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2023NK3435/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2023NK3436/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2023NK3437/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O1223458",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

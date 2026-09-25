@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O36986",
+ "name": "Mechanical panda",
+ "aliases": [],
+ "dynasty": "不详",
+ "year_range": [
+  1975,
+  1979
+ ],
+ "category": "杂器",
+ "material": "Tinplate",
+ "dimensions": "Height 4.75 in; Width 3.5 in",
+ "excavated_from": null,
+ "summary": "Lithographed tinplate clockwork drumming panda made in China in the 1970s",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "B.148-1996"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AA5349/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2012FK3101/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2012FK3102/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O36986",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": true,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

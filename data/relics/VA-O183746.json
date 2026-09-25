@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O183746",
+ "name": "Jar",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1450,
+  1550
+ ],
+ "category": "瓷器",
+ "material": "porcelain; glaze; slip",
+ "dimensions": "Height 29.2 cm; Diameter 34.9 cm",
+ "excavated_from": null,
+ "summary": "Fahua ware. Jar, porcelain with designs outlined in trailed slip and filled with coloured glazes, China, Ming dynasty",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "27-1883"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EB1509/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017JX6139/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O183746",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

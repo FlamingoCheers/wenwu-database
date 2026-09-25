@@ -1,0 +1,44 @@
+{
+ "relic_id": "VA-O152011",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "汉",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": "Height 36.5 cm",
+ "excavated_from": null,
+ "summary": "This earthenware vase was a funerary object. It would have contained grains or alcohol and was buried with the deceased. The hunting scene that decorates the vase depicts a favourite pastime of the nobles at that time.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.1479-1924"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EJ2039/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EJ2037/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2018KV7927/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O152011",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-25"
+}

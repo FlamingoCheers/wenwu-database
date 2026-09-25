@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O485804",
+ "name": "Robe",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1800,
+  1850
+ ],
+ "category": "织绣",
+ "material": "silk textile; silk thread; gold thread",
+ "dimensions": "Length 160 cm; Width 76.2 cm",
+ "excavated_from": null,
+ "summary": "Dragon robe, woven silk; embroidery in coloured silks and gold thread, China, Qing dynasty, 1800-1850",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "T.188-1948"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2012FE7977/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017JT7090/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O485804",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O494322",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1730,
+  1780
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Height 22 cm",
+ "excavated_from": null,
+ "summary": "This vase features the portrait of the Protestant theologian John Calvin, enclosed in a medallion and with his name Ioannes Calvinus written at the bottom. While the portrait of the German theologian Luther appears in several examples of Chinese export porcelain, the French reformer Calvin is rarely",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.47-1951"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EB2367/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EB2366/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BV0938/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O494322",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

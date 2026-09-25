@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O494861",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1500,
+  1600
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Height 13.3 cm; Diameter 14.3 cm",
+ "excavated_from": null,
+ "summary": "Vase, porcelain with incised lotus design and painted in coloured glazes; China (Jingdezhen), Ming dynasty, 1500-1600",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.130-1911"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EA9542/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AW2153/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O494861",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

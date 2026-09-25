@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O181027",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1573,
+  1620
+ ],
+ "category": "瓷器",
+ "material": "porcelain; cobalt blue",
+ "dimensions": "Height 6.4 cm; Diameter 31.1 cm",
+ "excavated_from": null,
+ "summary": "This dish was made in Jingdezhen during the reign of the Wanli emperor (1573-1620). It is an example of Kraak style porcelain. Kraak style dishes of this type are characterised by radiating decorative panels, placed around a large central design. In this instance the central figure is that of a drag",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.230-1926"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BT2707/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EE1691/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2011EY2901/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O181027",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

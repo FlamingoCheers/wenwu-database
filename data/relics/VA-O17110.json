@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O17110",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "元",
+ "year_range": [
+  1320,
+  1350
+ ],
+ "category": "杂器",
+ "material": "porcelain",
+ "dimensions": "Height 35.6 cm; Diameter 22 cm",
+ "excavated_from": null,
+ "summary": "The Yuan (1271-1368) is the dynasty when China was ruled by Mongol emperors. Kilns became bigger to take advantage of economy of scale and were managed by competent entrepreneurs. Some kilns active in the preceding decades ceased production, but the Longquan, Jun and Cizhou kilns continued their suc",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.8-1952"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2011EY2648/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2011EY2655/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AP1697/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O17110",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

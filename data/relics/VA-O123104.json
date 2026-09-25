@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O123104",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "不详",
+ "year_range": [
+  1301,
+  1400
+ ],
+ "category": "瓷器",
+ "material": "porcelain; cobalt blue",
+ "dimensions": "Height 13 cm; Diameter 46 cm; Diameter 23 cm",
+ "excavated_from": null,
+ "summary": "After 1300, Chinese potters at Jingdezhen began to decorate the local white porcelain in cobalt blue. They perfected the painting technique, so that the blue did not run during firing. Smaller items have Chinese shapes and may have been made for the home market. But large dishes such as this one wer",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.10-1954"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BG6482/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2012FN9303/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2012FN9304/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O123104",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": true,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O14487",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1426,
+  1435
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Diameter 28 cm",
+ "excavated_from": null,
+ "summary": "This dish is an important example of Chinese blue and white porcelain produced in Jingdezhen in the early 15th century. The dish bears the mark of the Chinese emperor Xuande (1426-35) and was bought in Persia.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "1633-1876"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AT9508/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BF3682/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017JV7254/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O14487",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

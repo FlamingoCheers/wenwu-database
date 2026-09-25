@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O493857",
+ "name": "Mirror",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1750,
+  1820
+ ],
+ "category": "青铜器",
+ "material": "copper; ivory",
+ "dimensions": "Length 27.8 cm; Width 12.2 cm",
+ "excavated_from": null,
+ "summary": "Mirror with handle, glass set in enamelled copper and ivory frame, China, Qing dynasty, Qianlong-Daoguang reign period, 1750-1820",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.54-1970"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EJ2102/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EH2057/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O493857",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

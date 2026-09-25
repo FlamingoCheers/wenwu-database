@@ -1,0 +1,44 @@
+{
+ "relic_id": "VA-O181112",
+ "name": "Ewer",
+ "aliases": [],
+ "dynasty": "唐",
+ "year_range": null,
+ "category": "瓷器",
+ "material": "stoneware; glaze; slip",
+ "dimensions": "Height 14.0 cm; Diameter 11.4 cm",
+ "excavated_from": null,
+ "summary": "The ewer with a short spout was used in the preparation of brick tea in China.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.413-1928"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BT0600/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BE8301/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017KA8577/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O181112",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-25"
+}

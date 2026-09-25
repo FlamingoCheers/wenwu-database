@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O75993",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "宋",
+ "year_range": [
+  1200,
+  1400
+ ],
+ "category": "漆器",
+ "material": "lacquer; wood",
+ "dimensions": "Diameter 21.4 cm",
+ "excavated_from": null,
+ "summary": "This dish is an example of the usually plain lacquered wares produced in China during the sophisticated Song dynasty (960-1279). Lacquer is a waterproof varnish made from the sap of the tree <i>Rhus vernicifera</i>. The Chinese began to use it to provide a protective coating for wooden and bamboo bo",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.8:1, 2-1974"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2021MX2551/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AL5011/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O75993",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

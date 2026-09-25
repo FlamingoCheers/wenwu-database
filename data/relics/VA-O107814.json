@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O107814",
+ "name": "Man's jacket",
+ "aliases": [],
+ "dynasty": "近代",
+ "year_range": [
+  1920,
+  1940
+ ],
+ "category": "织绣",
+ "material": "silk (textile)",
+ "dimensions": "Length 54 cm; Width 163 cm; Height 4 cm",
+ "excavated_from": null,
+ "summary": "Man's jacket, black figured silk, China, 1920-1940",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.24-1995"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AP3589/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2019MH6106/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2019MH6107/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O107814",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

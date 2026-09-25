@@ -1,0 +1,39 @@
+{
+ "relic_id": "VA-O1782166",
+ "name": "Apron",
+ "aliases": [],
+ "dynasty": "不详",
+ "year_range": null,
+ "category": "杂器",
+ "material": "cotton; printing ink; metal; polyester",
+ "dimensions": "Length 119.5 cm; Width 81 cm",
+ "excavated_from": null,
+ "summary": "Merchandise apron printed with lightning bolt design, made for the 'David Bowie Is' exhibition, ACMI, Melbourne, 2015",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "LOAN:AMERICASFOUNDATION.1443-2024"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2026PR8785/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2026PL6586/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O1782166",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": true,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-25"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O123822",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1800,
+  1850
+ ],
+ "category": "杂器",
+ "material": "glass",
+ "dimensions": "Height 16 cm; Diameter 8.5 cm",
+ "excavated_from": null,
+ "summary": "Vase, opaque glass with specks imitating tortoise shell",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.293-1911"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2020MT0916/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BK0726/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O123822",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

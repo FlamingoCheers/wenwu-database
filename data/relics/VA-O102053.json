@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O102053",
+ "name": "The Paradises",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1790,
+  1800
+ ],
+ "category": "雕塑",
+ "material": "wood; ivory; mother-of-pearl; copper",
+ "dimensions": null,
+ "excavated_from": null,
+ "summary": "A model of a mountain scene with buildings, foliage and figures,carved in wood, ivory and mother-of-pearl, made in China, about 1790",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "9349(IS)"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AF1392/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AF1443/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AF1438/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O102053",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

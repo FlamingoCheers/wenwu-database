@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O216155",
+ "name": "Sleeveless jacket",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1900,
+  1910
+ ],
+ "category": "织绣",
+ "material": "silk textile",
+ "dimensions": "Length 59 cm; Width 42 cm",
+ "excavated_from": null,
+ "summary": "This vest, from the late Qing Dynasty (1875 - 1911) would have been worn as a overjacket, over a robe for a woman.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.405-2007"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EE5835/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EE5829/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O216155",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

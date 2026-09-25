@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O33582",
+ "name": "Jar",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1610,
+  1630
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Diameter 28.0 cm; Height 32.4 cm",
+ "excavated_from": null,
+ "summary": "Jar painted with figures, Jingdezhen, 1610-1630.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "1738-1876"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EB1474/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017JV8353/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O33582",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

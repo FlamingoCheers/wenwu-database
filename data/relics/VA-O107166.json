@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O107166",
+ "name": "Panel",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1800,
+  1900
+ ],
+ "category": "织绣",
+ "material": "silk (textile)",
+ "dimensions": "Length 22 in; Length 46 in; Width 53 in",
+ "excavated_from": null,
+ "summary": "Panel or wall hanging of tapestry weave (<i>kesi</i>) silk, China, 1800-1900",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "T.140-1956"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BA1708/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2023NK2116/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2023NK2117/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O107166",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

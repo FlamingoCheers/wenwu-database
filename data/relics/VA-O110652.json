@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O110652",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "杂器",
+ "material": "jade",
+ "dimensions": "Height 2.75 in; Diameter 6 in",
+ "excavated_from": null,
+ "summary": "Pale green plain bowl",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "5527-1901"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2020MR7620/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2015HV7027/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2015HV6995/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O110652",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

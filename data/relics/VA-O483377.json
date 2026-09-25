@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O483377",
+ "name": "Suit of armour",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1801,
+  1900
+ ],
+ "category": "织绣",
+ "material": "silk (textile); metal; feathers; metal thread",
+ "dimensions": "Length 72.4 cm; Width 205.7 cm; Length 76.2 cm; Width 121.9 cm",
+ "excavated_from": null,
+ "summary": "Suit of armour, silk brocade and metal, China, 19th century (Qing dynasty)",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "562-1907"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2012FN1454/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2012FN1453/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2019LX7417/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O483377",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

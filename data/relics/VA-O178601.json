@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O178601",
+ "name": "Cup",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1750,
+  1800
+ ],
+ "category": "杂器",
+ "material": null,
+ "dimensions": "Height 6.4 cm",
+ "excavated_from": null,
+ "summary": "Cup, porcelain with filigree silver stand (<i>zarf</i>), painted design with Arabic inscriptions quoting the Qur'an (surah 112-114), porcelain from China, 1750-1800; silverwork probably Turkey, 1800-1875.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "1006&A-1884"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BV1375/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BV1382/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BV1381/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O178601",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

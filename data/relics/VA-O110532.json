@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O110532",
+ "name": "Cup",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1801,
+  1900
+ ],
+ "category": "竹木牙角",
+ "material": "wood",
+ "dimensions": "Height 16 in; Width 16 in; Diameter 2.75 in; Height 1.87 in",
+ "excavated_from": null,
+ "summary": "Cup, hemispherical with short foot and strapwork handles, pale green jade; on wooden stand; 19th century, China",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "5552A-1901"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2020MR7216/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2015HV7030/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O110532",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O110363",
+ "name": "Pendant",
+ "aliases": [],
+ "dynasty": "商",
+ "year_range": [
+  1101,
+  1200
+ ],
+ "category": "杂器",
+ "material": "jade",
+ "dimensions": "Width 3 cm; Height 6 cm",
+ "excavated_from": null,
+ "summary": "Shang flat-slab owl pendant with round head and spreaded wings",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.72-1977"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2020MR7061/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2015HV6985/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2015HV6982/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O110363",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

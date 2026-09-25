@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O110195",
+ "name": "Toggle",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1701,
+  1800
+ ],
+ "category": "杂器",
+ "material": "nephrite",
+ "dimensions": "Length 3.5 cm",
+ "excavated_from": null,
+ "summary": "This small carving of a mandarin duck would have been worn by a woman. Since male and female mandarin ducks are inseparable, the bird had become a symbol of marital happiness in China. The motif expressed a woman’s wish to retain her husband's affection forever and have him always by her side.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "1514-1902"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2020MR7161/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BB9334/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O110195",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

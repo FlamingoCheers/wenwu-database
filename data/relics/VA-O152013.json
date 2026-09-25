@@ -1,0 +1,44 @@
+{
+ "relic_id": "VA-O152013",
+ "name": "Figurine",
+ "aliases": [],
+ "dynasty": "汉",
+ "year_range": null,
+ "category": "雕塑",
+ "material": "earthenware; lead glaze",
+ "dimensions": "Length 29.2 cm",
+ "excavated_from": null,
+ "summary": "In the Han dynasty (206BC-AD220) grave goods included replicas of domestic and wild animals made from pottery but in reduced size, such as this figure of a rhinoceros. The grave goods would allow the deceased to continue a similar life style in the underworld.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.877-1936"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EJ2009/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EJ2008/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2018KV2484/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O152013",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-25"
+}

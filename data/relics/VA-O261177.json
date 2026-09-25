@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O261177",
+ "name": "Dress fabric",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1700,
+  1749
+ ],
+ "category": "织绣",
+ "material": null,
+ "dimensions": "Length 43.75 in; Length 111 cm; Width 72.4 cm",
+ "excavated_from": null,
+ "summary": "Dress fabric, silk damask, China, 1700-1749",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "T.102-1980"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2019MD7639/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2019MD7640/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2019MF3018/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O261177",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

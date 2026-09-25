@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O16092",
+ "name": "Censer",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1600,
+  1644
+ ],
+ "category": "青铜器",
+ "material": "Copper",
+ "dimensions": "Diameter 9.5 cm",
+ "excavated_from": null,
+ "summary": "Censer by Hu Wenming (fl.1583-1613), carved copper, Ming Dynasty (1368-1644), 1600-1644",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "M.2699-1931"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2019MB4402/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2013GT7029/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AU7703/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O16092",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

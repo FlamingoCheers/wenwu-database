@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O483392",
+ "name": "Box",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1403,
+  1424
+ ],
+ "category": "漆器",
+ "material": "lacquer; wood",
+ "dimensions": "Diameter 19 cm; Height 6.5 cm",
+ "excavated_from": null,
+ "summary": "Box, carved and lacquered wood, China, Ming dynasty, ca. 1403-1424",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "W.34-1953"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2021MX2531/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2013GP9804/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2018KP0025/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O483392",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

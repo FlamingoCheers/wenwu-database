@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O116746",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "玻璃器",
+ "material": "glass",
+ "dimensions": "Height 17.3 cm; Diameter 11.4 cm",
+ "excavated_from": null,
+ "summary": "The technique used in the manufacture of this vase is known as 'layer cut glass’. One layer of glass, usually of a different colour, is cast on top of another. Then part of the top layer is cut away to form decorative patterns as well as to reveal the layer beneath. In this case the design consists ",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.1525-1910"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AF4665/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017KA5863/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017KM6027/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O116746",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

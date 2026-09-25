@@ -1,0 +1,37 @@
+{
+ "relic_id": "VA-O101937",
+ "name": "Painting",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1913,
+  1919
+ ],
+ "category": "书画",
+ "material": null,
+ "dimensions": "Height 115 cm; Width 58 cm; Height 146.5 cm; Width 74 cm",
+ "excavated_from": null,
+ "summary": "This painting was probably once hung in a temple in China.  There is strong evidence to suggest that Sir Francis Henry May, Governor of Hong Kong 1913-1919, bought it to the UK. It is an example of 'foreign religions iconography' that interested the Christian clergy in the late 19th and early 20th c",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.55-2003"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2013GM0690/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O101937",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

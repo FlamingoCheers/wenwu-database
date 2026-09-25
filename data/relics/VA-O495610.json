@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O495610",
+ "name": "Panel",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1644,
+  1911
+ ],
+ "category": "织绣",
+ "material": "silk textile",
+ "dimensions": "Length 13.25 in; Width 9.25 in",
+ "excavated_from": null,
+ "summary": "Panel of tapestry weave (<i>kesi</i>) silk, China, Qing dynasty, 1644-1911",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "T.745-1950"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2018KY1160/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2023NK2802/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2023NK2803/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O495610",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

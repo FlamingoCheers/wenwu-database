@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O486460",
+ "name": "Panel",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1850,
+  1900
+ ],
+ "category": "织绣",
+ "material": "silk (textile); silk thread; gold thread",
+ "dimensions": "Height 7 in; Width 3 in",
+ "excavated_from": null,
+ "summary": "Two panels, woven silk with embroidery in silks and gold thread, China, Qing dynasty, 1850-1900",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "T.54:1, 2-1926"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2018KY3125/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2018KY3307/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O486460",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

@@ -1,0 +1,44 @@
+{
+ "relic_id": "VA-O18883",
+ "name": "Vessel",
+ "aliases": [],
+ "dynasty": "不详",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": null,
+ "excavated_from": null,
+ "summary": "This type of bronze vase, called a <i>fanghu</i> in Chinese, is an elegant example of a decorative technique popular in China at the end of the Zhou dynasty, around the 4th-3rd centuries BC. In this example, the purple-grey patterns are silver inlays which have tarnished, while the golden patterns a",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "M.1154:1, 2-1926"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EH2166/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EH2165/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017KB4644/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O18883",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": true,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-25"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O110381",
+ "name": "Cylinder",
+ "aliases": [],
+ "dynasty": "汉",
+ "year_range": [
+  201,
+  300
+ ],
+ "category": "杂器",
+ "material": "jade",
+ "dimensions": "Height 6.6 cm; Diameter 4.2 cm",
+ "excavated_from": null,
+ "summary": "E. Han cylindrical tube with animal mask",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "A.43-1938"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2020MR7012/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2015HV6983/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O110381",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

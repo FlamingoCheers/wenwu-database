@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O77064",
+ "name": "Salt",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1701,
+  1800
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Height 5.4 cm; Diameter 8.57 cm",
+ "excavated_from": null,
+ "summary": "Stemcup, porcelain decorated with a two figures holding a bird and opening a bird-cage; made in China, Qing dynasty, early 18th century; overdecorated in Holland about 1740.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.91-1963"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2011ER3265/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2011ER3266/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O77064",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

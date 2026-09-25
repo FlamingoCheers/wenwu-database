@@ -1,0 +1,37 @@
+{
+ "relic_id": "VA-O69530",
+ "name": "Figure",
+ "aliases": [],
+ "dynasty": "唐",
+ "year_range": [
+  701,
+  800
+ ],
+ "category": "陶器",
+ "material": "ceramic",
+ "dimensions": "Height 73 cm",
+ "excavated_from": null,
+ "summary": "A Sogdian merchant is shown riding a double-humped camel. These camels were used for long-distance transportation along the routes of the Silk Road. Large and resilient, they were able to withstand the harsh conditions of the desert. The Chinese used the double-humped Bactrian camel for transporting",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.880-1936"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AP5324/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O69530",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

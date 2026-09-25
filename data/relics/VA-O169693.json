@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O169693",
+ "name": "Panel",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1650,
+  1750
+ ],
+ "category": "织绣",
+ "material": "silk textile",
+ "dimensions": "Length 29.85 cm; Width 22.25 cm",
+ "excavated_from": null,
+ "summary": "The <i>kesi</i> tapestry technique uses very fine silk threads, and colours are only woven on where the pattern requires, resulting in small gaps between woven patterns, giving the appearance of cut designs. This allows weavers a high degree of control over the pattern woven, and the technique was u",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "T.83-1948"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EH2117/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EH2150/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2012FE7983/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O169693",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

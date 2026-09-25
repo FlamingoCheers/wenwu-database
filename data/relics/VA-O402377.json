@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O402377",
+ "name": "Painting",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1801,
+  1900
+ ],
+ "category": "书画",
+ "material": "paper; watercolour",
+ "dimensions": "Height 37.4 cm; Width 26.2 cm",
+ "excavated_from": null,
+ "summary": "Painting, watercolours on paper, China, 19th century",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "D.1293-1889"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2023NM0609/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2013GJ7051/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O402377",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

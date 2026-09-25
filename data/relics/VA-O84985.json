@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O84985",
+ "name": "Luohan",
+ "aliases": [],
+ "dynasty": "不详",
+ "year_range": [
+  1300,
+  1400
+ ],
+ "category": "雕塑",
+ "material": "wood",
+ "dimensions": "Height 98 cm; Width 82 cm; Depth 43 cm; Weight 48 kg",
+ "excavated_from": null,
+ "summary": "This wooden sculpture represents a Luohan, the name for a monk who acts as a guardian of Buddhism and is believed to have attained enlightenment through merit and virtue. The Luohan was a member of the Buddhist pantheon in China, and the earliest representations can be traced to the 4th century AD. ",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "A.29-1931"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AP7564/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2015HP3925/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2015HP3786/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O84985",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": true,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

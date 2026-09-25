@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O180985",
+ "name": "Jar",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1620,
+  1630
+ ],
+ "category": "瓷器",
+ "material": "porcelain; cobalt oxide",
+ "dimensions": "Height 9.8 cm; Diameter 10.5 cm",
+ "excavated_from": null,
+ "summary": "This globular shaped jar was made at workshops in Jingdezhen in Southern China during the mid 17th century. It would originally have had a short neck with a dish mouth, but this has been ground down, probably because it sustained damage at some point. The fact that care was taken to do this suggests",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.544-1921"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BV1419/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BV1418/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O180985",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

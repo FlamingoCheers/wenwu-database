@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O144482",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1875,
+  1908
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Height 21.8 cm",
+ "excavated_from": null,
+ "summary": "Porcelain vase painted in overglaze polychrome enamels, Jingdezhen, China, Qing dynasty, Guangxu period (1875-1908)",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.427-1926"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BT2431/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BT2432/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O144482",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

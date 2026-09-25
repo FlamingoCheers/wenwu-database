@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O33601",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1655,
+  1665
+ ],
+ "category": "杂器",
+ "material": "Porcelain",
+ "dimensions": "Diameter 38.1 cm; Height 9 cm",
+ "excavated_from": null,
+ "summary": "This dish is painted with three horses galloping over waves which are strewn with prunus blossoms. The decorative pattern is fanciful rather than true to reality. It is commonly found on Chinese porcelains made in the period 1650-1700.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "1653-1876"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BT2711/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AL3770/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O33601",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

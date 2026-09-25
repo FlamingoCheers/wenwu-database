@@ -1,0 +1,37 @@
+{
+ "relic_id": "VA-O188141",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1701,
+  1800
+ ],
+ "category": "瓷器",
+ "material": "porcelain; celadon",
+ "dimensions": "Height 7.3 cm; Diameter 18.7 cm",
+ "excavated_from": null,
+ "summary": "The relationship between glaze and body is crucial to produce a well-fitting glaze. As it melts, the glaze expands. It then contracts as the kiln cools. This contraction should match, or be slightly less than, that of the body. If the glaze contracts more or faster than the body, cracks appear ('cra",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.428-1910"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2009CC4837/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O188141",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O123805",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "杂器",
+ "material": "glass",
+ "dimensions": "Height 6.7 cm; Diameter 12.5 cm",
+ "excavated_from": null,
+ "summary": "Opaque yellow bowl, Qianlong mark",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.42-1953"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2020MT0924/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BK0717/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BK0733/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O123805",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O35229",
+ "name": "Basin",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1650,
+  1720
+ ],
+ "category": "青铜器",
+ "material": "Paktong",
+ "dimensions": "Diameter 44.9 cm; Height 10 cm",
+ "excavated_from": null,
+ "summary": "This basin is made of paktong, literally 'white brass'. The material has a high zinc content and was commonly used to make domestic objects like basins and locks. Basins like this were used as wash basins. It would have been placed on a wooden stand and used for daily personal ablutions.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.19-1982"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2012FP3823/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2012FP3822/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2012FP3824/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O35229",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

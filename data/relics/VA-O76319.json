@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O76319",
+ "name": "Tile",
+ "aliases": [],
+ "dynasty": "宋",
+ "year_range": [
+  1700,
+  1800
+ ],
+ "category": "瓷器",
+ "material": "stoneware; lead glaze",
+ "dimensions": "Height 35 cm; Width 28.5 cm",
+ "excavated_from": null,
+ "summary": "Although members of the imperial family were the most prestigious client for tiles, the largest customers by far were the numerous temple complexes all over China. At least as early as the Song dynasty (960-1279), Buddhist and Daoist temples were using glazed tiles on all their exterior surfaces. He",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.119-1910"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AT4417/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EC2248/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AH2020/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O76319",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

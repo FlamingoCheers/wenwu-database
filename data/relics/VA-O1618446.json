@@ -1,0 +1,44 @@
+{
+ "relic_id": "VA-O1618446",
+ "name": "Book",
+ "aliases": [],
+ "dynasty": "不详",
+ "year_range": null,
+ "category": "杂器",
+ "material": "printing ink; paper (fiber product)",
+ "dimensions": "Height 27 cm",
+ "excavated_from": null,
+ "summary": "Book, Feng Hsueh-Feng, Fables. Published in Peking by Foreign Languages Press, 1953. Translated by Gladys Yang, illustrated with woodcuts by Huang Yung-yu. NAL Pressmark: Ren Fables.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "38041803198506"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2021NA4537/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2021NA4539/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2021NA4540/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O1618446",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": true,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-25"
+}

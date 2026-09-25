@@ -1,0 +1,37 @@
+{
+ "relic_id": "VA-O495063",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "year_range": [
+  501,
+  600
+ ],
+ "category": "瓷器",
+ "material": "earthenware",
+ "dimensions": "Height 45.7 cm; Diameter 24.8 cm",
+ "excavated_from": null,
+ "summary": "Vase, reddish earthenware with iridescent green glaze; China, Six Dynasties, 6th century",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "CIRC.175-1932"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EA8348/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O495063",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

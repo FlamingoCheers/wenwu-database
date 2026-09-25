@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O491984",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1680,
+  1750
+ ],
+ "category": "青铜器",
+ "material": "bamboo; metal; ivory",
+ "dimensions": "Height 10.5 cm; Width 6.7 cm",
+ "excavated_from": null,
+ "summary": "Vase, bamboo veneer on a metal core, China, Qing dynasty, 1680-1750",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.14-1976"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2021MX4507/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2014HG6574/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O491984",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

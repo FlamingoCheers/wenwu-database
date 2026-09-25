@@ -1,0 +1,37 @@
+{
+ "relic_id": "VA-O1756541",
+ "name": "Painting",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1801,
+  1900
+ ],
+ "category": "书画",
+ "material": "paper; watercolours",
+ "dimensions": "Length 23.9 cm; Width 16.2 cm",
+ "excavated_from": null,
+ "summary": "Painting, one of twelve drawings, watercolours on paper, China, 19th century",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "8001:1"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2023NM0557/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O1756541",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

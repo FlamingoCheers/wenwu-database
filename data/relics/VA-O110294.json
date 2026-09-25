@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O110294",
+ "name": "Water dropper&Stand",
+ "aliases": [],
+ "dynasty": "宋",
+ "year_range": [
+  1201,
+  1300
+ ],
+ "category": "杂器",
+ "material": "Jade; Wood",
+ "dimensions": "Width 10.5 cm",
+ "excavated_from": null,
+ "summary": "This water dropper was a writing accessory. Each time a Chinese scholar performed a writing task he would produce ink by grinding an ink cake, adding a small amount of water until the ink reached the desired density.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "1623&A-1882"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BC0197/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2012FF9045/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O110294",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

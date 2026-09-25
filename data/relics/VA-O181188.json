@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O181188",
+ "name": "Box",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1501,
+  1600
+ ],
+ "category": "漆器",
+ "material": "lacquer",
+ "dimensions": "Diameter 7.9 cm",
+ "excavated_from": null,
+ "summary": "This box was made of successive layers of lacquer applied to a wooden core, and subsequently carved with fine details. This technique was completely established by the 15th century, during the early Ming dynasty (1368-1644). Small carved boxes of this type represent a popular item during the 16th ce",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.33&A-1974"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2021MX6390/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2013GP9495/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O181188",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

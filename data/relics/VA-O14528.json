@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O14528",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1426,
+  1435
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Diameter 27 cm",
+ "excavated_from": null,
+ "summary": "This bowl is an example of the good quality blue and white porcelain produced during the reign of the Ming emperor Xuande (1425-35). The decoration, consisting of two dragons flying among clouds, was painted in cobalt blue on the plain porcelain body before the application of a transparent glaze.\r\n\r",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.310-1951"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BF5203/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2018KU9453/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O14528",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O181707",
+ "name": "Flask",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1723,
+  1735
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Height 26.4 cm; Width 11.1 cm; Length 17.9 cm",
+ "excavated_from": null,
+ "summary": "Flask, porcelain painted in overglaze enamels and gilding, China, Qing dynasty",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "CIRC.354-1931"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BV1368/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BV1333/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017JW2935/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O181707",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

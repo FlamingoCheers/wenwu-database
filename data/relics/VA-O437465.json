@@ -1,0 +1,37 @@
+{
+ "relic_id": "VA-O437465",
+ "name": "Tile",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1368,
+  1644
+ ],
+ "category": "瓷器",
+ "material": "earthenware",
+ "dimensions": "Taken from the register",
+ "excavated_from": null,
+ "summary": "Tile, glazed earthenware, China, Ming dynasty, 1368-1644",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.380-1912"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2019MK6831/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O437465",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

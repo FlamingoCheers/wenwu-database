@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O399063",
+ "name": "Painting",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1880,
+  1910
+ ],
+ "category": "书画",
+ "material": "watercolour; ink; paper",
+ "dimensions": "Length 39.2 cm; Height 22.5 cm",
+ "excavated_from": null,
+ "summary": "Painting, watercolours and ink on paper, Zhou Peichun Workshop (active ca. 1880-1910), Beijing, China, 1885",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "D.1703-1900"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2023NM7045/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2023NM4082/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O399063",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

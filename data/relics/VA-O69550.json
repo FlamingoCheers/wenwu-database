@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O69550",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1635,
+  1655
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Diameter 47.5 cm",
+ "excavated_from": null,
+ "summary": "This large dish was produced at the Jingdezhen kilns in southern China, and represents a typical example of the export ware known as <i>kraak</i>. This was the first porcelain to be mass-produced for export from the second half of the 16th century until about 1650. The term <i>kraak</i> is Dutch, an",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.457-1918"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BF8836/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017KE6895/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017KE6979/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O69550",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

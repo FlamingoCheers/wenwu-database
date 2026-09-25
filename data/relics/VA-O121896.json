@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O121896",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "杂器",
+ "material": "glass",
+ "dimensions": "122-1883 and 122A-1883 have similar dimensions",
+ "excavated_from": null,
+ "summary": "Bowl, opaque light blue glass, Qianlong mark",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "122-1883"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2020MT1218/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2020MT1275/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BK0714/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O121896",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

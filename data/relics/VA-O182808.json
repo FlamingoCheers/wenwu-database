@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O182808",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1723,
+  1735
+ ],
+ "category": "瓷器",
+ "material": "porcelain; glaze",
+ "dimensions": "Height 33.7 cm; Diameter 22.9 cm; Weight 2.64 kg",
+ "excavated_from": null,
+ "summary": "Vase, porcelain with black glaze, China, Qing dynasty, Yongzheng mark and period (1723-1735)",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "6878-1860"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EA0007/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010DY9911/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O182808",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

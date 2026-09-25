@@ -1,0 +1,37 @@
+{
+ "relic_id": "VA-O180943",
+ "name": "Cup",
+ "aliases": [],
+ "dynasty": "宋",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "瓷器",
+ "material": "porcelain; glaze",
+ "dimensions": "Height 4.4 cm; Diameter 8.9 cm",
+ "excavated_from": null,
+ "summary": "High-fired ceramics from China were prized in Korea, where many have been excavated from tombs. Later Korea began to produce green-glazed and white-glazed wares of its own.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.620-1918"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BR9648/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O180943",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

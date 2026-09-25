@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O107186",
+ "name": "Bedcover",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1720,
+  1790
+ ],
+ "category": "织绣",
+ "material": "silk (textile)",
+ "dimensions": "Width 274 cm; Length 256.5 cm",
+ "excavated_from": null,
+ "summary": "Bedcover, satin weave silk embroidered with coloured silks and metal thread, China, Qing dynasty, 1720-1790.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "T.93-1949"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BA1682/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BA1681/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BA1680/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O107186",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

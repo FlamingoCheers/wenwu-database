@@ -1,0 +1,37 @@
+{
+ "relic_id": "VA-O15616",
+ "name": "Painting",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1820,
+  1840
+ ],
+ "category": "书画",
+ "material": "watercolor; paper",
+ "dimensions": "Height 43.5 cm; Width 54.5 cm",
+ "excavated_from": null,
+ "summary": "This painting is from an album that contains 50 pictures showing Chinese domestic interiors and garden scenes. They were produced to satisfy the curiosity of westerners who wanted to know more about China. Two ladies chat on a bed while a little girl turns for the door.  The embroidery on the hems o",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "D.21-1903"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2023NL5402/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O15616",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

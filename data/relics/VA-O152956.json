@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O152956",
+ "name": "Figure",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1426,
+  1435
+ ],
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Height 20.3 cm",
+ "excavated_from": null,
+ "summary": "This figure is one of a number made under Imperial command in the early 15th century and given as diplomatic gifts to leading Tibetan religious figures. During the reigns of Yongle and Xuande a number of Tibetan hierarchs were invited to the Chinese court to conduct religious ceremonies or to create",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "275&A-1898"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2009CB5380/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2009CB5387/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2009CB5373/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O152956",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

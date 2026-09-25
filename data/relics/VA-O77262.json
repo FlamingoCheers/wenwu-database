@@ -1,0 +1,37 @@
+{
+ "relic_id": "VA-O77262",
+ "name": "Teapot",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1701,
+  1800
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Height 6.4 cm; Diameter 9.5 cm",
+ "excavated_from": null,
+ "summary": "Teapot, porcelain with transfer-printed decoration of a shepherd seated by a tree watching his sheep, Chinese, mid 18th century; transfer-printed decoration possibly added in Birmingham about 1750-55.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.122-1977"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010ED8680/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O77262",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

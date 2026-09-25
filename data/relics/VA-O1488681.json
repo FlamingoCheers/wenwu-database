@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O1488681",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1662,
+  1722
+ ],
+ "category": "瓷器",
+ "material": "porcelain; gilt bronze",
+ "dimensions": "Height 6.625 in; Diameter 5.125 in",
+ "excavated_from": null,
+ "summary": "Vase, porcelain with celadon glaze and mounts, China, Qing dynasty, Kangxi reign (1662-1722), one of a pair",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "812A-1882"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010DR7587/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2019LT4322/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O1488681",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

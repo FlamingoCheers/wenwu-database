@@ -1,0 +1,44 @@
+{
+ "relic_id": "VA-O88962",
+ "name": "Hogwarts Express",
+ "aliases": [],
+ "dynasty": "不详",
+ "year_range": null,
+ "category": "杂器",
+ "material": "metal; plastic; polythene",
+ "dimensions": "Height 105 mm; Width 1300 mm; Depth 660 mm",
+ "excavated_from": null,
+ "summary": "Hogwart's Express is from J. K. Rowling's book, Harry Potter and the Philosopher's Stone. It is a passenger train that runs from platform nine and three quarters at Kings Cross Station to Hogsmeade station near Hogwarts. The train is pulled by a scarlet steam locomotive. There is no dining service b",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "B.33:1 to 12-2003"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AF3220/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AF3216/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AF3208/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O88962",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": true,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-26"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O22885",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1573,
+  1582
+ ],
+ "category": "瓷器",
+ "material": "porcelain; cobalt oxide",
+ "dimensions": "Height 3.8 cm; Diameter 17.6 cm",
+ "excavated_from": null,
+ "summary": "Cer, China, Ming, blue and white",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.103-1928"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EA9711/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017KA4012/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O22885",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

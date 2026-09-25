@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O125729",
+ "name": "Handscroll",
+ "aliases": [],
+ "dynasty": "不详",
+ "year_range": [
+  1901,
+  2000
+ ],
+ "category": "杂器",
+ "material": null,
+ "dimensions": "Height 39.50 cm; Height 32.50 cm; Width 843.00 cm; Width 303.00 cm",
+ "excavated_from": null,
+ "summary": "Pap, China, paintings and drawings. Handscroll, scnes of winter, ink and colour on silk, spurious signature of Li Di (11th-12th c.) and date (1097), probably early 20th century.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "E.4200-1909"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2012FM4422/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2018KY2269/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O125729",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": true,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

@@ -1,0 +1,39 @@
+{
+ "relic_id": "VA-O136464",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "唐",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": "Height 39.1 cm",
+ "excavated_from": null,
+ "summary": "In the Tang dynasty (618-907) daily utensils were usually made of stoneware and goods for burial were made of earthenware. The shape of this vase shows strong influence from metalware from China's western neighbours.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.85-1939"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BT2792/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2018KV7607/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O136464",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

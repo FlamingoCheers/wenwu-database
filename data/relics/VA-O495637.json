@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O495637",
+ "name": "An apsara",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "year_range": [
+  501,
+  600
+ ],
+ "category": "雕塑",
+ "material": "stone",
+ "dimensions": "Height 64.5 cm; Width 64 cm; Height 94 cm; Length 104 cm",
+ "excavated_from": null,
+ "summary": "Relief of an apsara, carved stone, China, Northern Wei dynasty, 6th century",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "A.55-1938"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2014HG7323/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017JU6499/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O495637",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

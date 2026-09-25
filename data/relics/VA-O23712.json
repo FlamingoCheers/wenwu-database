@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O23712",
+ "name": "Colt",
+ "aliases": [],
+ "dynasty": "不详",
+ "year_range": [
+  1895,
+  1953
+ ],
+ "category": "书画",
+ "material": "paper",
+ "dimensions": "Height 144.7 cm; Width 55.9 cm",
+ "excavated_from": null,
+ "summary": "Xu Beihong (1895-1953) was an important early pioneer in the introduction of Western art to China and in the adaptation of it to Chinese character. As one of the most acclaimed painters and educators in modern China, he influenced the development of 20th-century Chinese painting. \r\n\r\nXu was born in ",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "E.493-1947"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AM7752/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017JT9069/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O23712",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": true,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

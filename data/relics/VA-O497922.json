@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O497922",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "不详",
+ "year_range": [
+  1601,
+  1700
+ ],
+ "category": "杂器",
+ "material": "copper; cloisonne enamel",
+ "dimensions": "Height 8.9 in; Diameter 5.1 in",
+ "excavated_from": null,
+ "summary": "Vase, cloisonne enamel on copper, China, 17th century",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "M.759-1910"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2019MA9343/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2019MA9344/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O497922",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": true,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O483193",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1644,
+  1661
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Height 16.8 cm; Diameter 3.7 cm; Diameter 5.4 cm",
+ "excavated_from": null,
+ "summary": "Vase, porcelain painted in overglaze enamels; China (Jingdezhen), Qing dynasty, Shunzhi period (1644-1661)",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.70-1996"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010DE8096/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EA0217/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EA0156/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O483193",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O22909",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1662,
+  1680
+ ],
+ "category": "瓷器",
+ "material": "porcelain; enamel",
+ "dimensions": "Height 6.1 cm; Diameter 11.1 cm",
+ "excavated_from": null,
+ "summary": "This bowl is painted in green, yellow, aubergine purple and white enamels. The palette is known as the 'austere three colours' due to the absence of red. The decoration consists of items from the 'babao' (Eight Precious) and 'bajixiang' (Eight Auspicious) groups. These include the pearl, books, pict",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.1064-1910"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AW2039/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010DE8212/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010DE7914/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O22909",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

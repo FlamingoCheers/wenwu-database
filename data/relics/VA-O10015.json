@@ -1,0 +1,34 @@
+{
+ "relic_id": "VA-O10015",
+ "name": "Painting",
+ "aliases": [],
+ "dynasty": "不详",
+ "year_range": null,
+ "category": "书画",
+ "material": "watercolour; paper",
+ "dimensions": "Width 27.8 cm; Height 20.2 cm",
+ "excavated_from": null,
+ "summary": "Watercolour painting of a cat watching a butterfly, by Lin Xu, China, dated 1854",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "7785:7"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BF5596/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O10015",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": true,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-25"
+}

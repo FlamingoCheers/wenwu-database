@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O85394",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "宋",
+ "year_range": [
+  1115,
+  1200
+ ],
+ "category": "瓷器",
+ "material": "stoneware",
+ "dimensions": "Height 24.5 cm; Diameter 21 cm",
+ "excavated_from": null,
+ "summary": "This vase was made some time between 960 and 1279, the classical period in the history of Chinese ceramics. Kilns appeared in all parts of China, each kiln with its own specialized products. Centuries later they were much sought after by collectors. A systematic classification of the different wares",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.32-1935"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AP8006/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AF3577/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017JV9205/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O85394",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

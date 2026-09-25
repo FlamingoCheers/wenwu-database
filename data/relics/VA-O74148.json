@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O74148",
+ "name": "Cup",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1662,
+  1720
+ ],
+ "category": "瓷器",
+ "material": "Porcelain",
+ "dimensions": null,
+ "excavated_from": null,
+ "summary": "Cup and saucer, painted in underglaze blue with pattern of lakes, birds and flowering stems, with brown glaze, China, 1662-1722. Glaze engraved in Germany, ca. 1700-725.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "307-1895"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2019LY5543/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2019LY5542/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2011EP9299/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O74148",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O180510",
+ "name": "Teapot and lid",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1662,
+  1722
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Height 11.4 cm; Diameter 8.9 cm",
+ "excavated_from": null,
+ "summary": "This ewer could have been either a teapot or a wine pot. It was cleverly modelled to look like a bundle of bamboo canes.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.1060&A-1910"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BT0601/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2018KV8001/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O180510",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

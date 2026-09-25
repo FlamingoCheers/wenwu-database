@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O109642",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "宋",
+ "year_range": [
+  960,
+  1127
+ ],
+ "category": "瓷器",
+ "material": "stoneware",
+ "dimensions": null,
+ "excavated_from": null,
+ "summary": "This bowl and stand are examples of Ding ware, made in the Hebei province of China during the Northern Song dynasty (960-1127). Ding wares were of the earliest true porcelains made in China, and the world. The term porcelain is applied to ceramics made from a mixture containing a clay called kaolin ",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.603&A-1918"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BB5193/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BB5188/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O109642",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

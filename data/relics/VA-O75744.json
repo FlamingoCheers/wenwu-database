@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O75744",
+ "name": "Vessel",
+ "aliases": [],
+ "dynasty": "宋",
+ "year_range": [
+  960,
+  1279
+ ],
+ "category": "青铜器",
+ "material": "bronze; gold; silver",
+ "dimensions": "Height 16.5 cm",
+ "excavated_from": null,
+ "summary": "This ewer shaped like a goose displays an elaborate inlaying technique, in which gold and silver wires and gold and silver sheets were inserted into pre-chiselled depressions on the surface of the bronze. It is a Song dynasty copy of the flamboyant style of decoration that was at its height many cen",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "M.731:1-1910"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2011EV2124/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AX3999/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AH0968/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O75744",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

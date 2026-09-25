@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O39450",
+ "name": "Axe head",
+ "aliases": [],
+ "dynasty": "不详",
+ "year_range": [
+  1890,
+  1920
+ ],
+ "category": "杂器",
+ "material": "jade",
+ "dimensions": "Height 18.9 cm; Width 11.7 cm",
+ "excavated_from": null,
+ "summary": "维多利亚与艾尔伯特博物馆藏中国文物：Axe head，1890-1920，Axe head。藏品号 A.63-1936。材质：jade。",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "A.63-1936"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2020MR6982/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2015HV6920/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O39450",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": true,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

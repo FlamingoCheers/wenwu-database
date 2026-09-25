@@ -1,0 +1,66 @@
+name: va-sync
+
+on:
+  workflow_dispatch:
+    inputs:
+      sleep:
+        description: "seconds between detail requests per worker"
+        default: "0.2"
+      limit:
+        description: "max new objects this run (0 = all)"
+        default: "0"
+  schedule:
+    # 每月 5 日 UTC 17:00（北京 6 日 01:00），与其他源错开
+    - cron: "0 17 5 * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: va-sync
+  cancel-in-progress: false
+
+jobs:
+  va:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Restore V&A raw cache
+        uses: actions/cache@v4
+        with:
+          path: raw/va
+          key: va-raw-${{ github.run_id }}
+          restore-keys: va-raw-
+
+      - name: Collect V&A Chinese objects
+        env:
+          VA_SLEEP: ${{ github.event.inputs.sleep || '0.2' }}
+          VA_LIMIT: ${{ github.event.inputs.limit || '0' }}
+        run: |
+          python collectors/va_collector.py --workers 6 --sleep "$VA_SLEEP" --limit "$VA_LIMIT"
+
+      - name: Validate / build
+        run: |
+          python pipeline/validate.py
+          python pipeline/build_db.py
+          python pipeline/build_web_index.py
+
+      - name: Commit data
+        run: |
+          git config user.name "wenwu-bot"
+          git config user.email "wenwu-bot@users.noreply.github.com"
+          git add data/relics
+          if git diff --cached --quiet; then
+            echo "no new relics"; exit 0
+          fi
+          git commit -m "data: V&A monthly sync $(date -u +%F)"
+          for i in 1 2 3; do
+            git pull --rebase origin master && git push origin master && break
+            sleep $((i * 10))
+          done

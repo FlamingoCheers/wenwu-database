@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O110250",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "杂器",
+ "material": "nephrite",
+ "dimensions": "Height 25.7 cm",
+ "excavated_from": null,
+ "summary": "The scene of quails on a riverbank carved on this lidded vase is as charming as a painting. The craftsman who made the vase demonstrated that he was capable of achieving a high level of naturalism with a carving knife, in the same way as a painter achieved with brush and paper.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.1920-1910"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BD4927/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BC0905/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O110250",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

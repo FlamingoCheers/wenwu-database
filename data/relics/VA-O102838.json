@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O102838",
+ "name": "Cup",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1601,
+  1700
+ ],
+ "category": "杂器",
+ "material": "jade",
+ "dimensions": "Height 4 cm; Width 11 cm",
+ "excavated_from": null,
+ "summary": "Chinese scholars in the 17th century and later liked to use ancient objects as writing accessories. This jade cup was made with such a scholar in mind. The stone had been artificially stained to acquire an 'antique' look. The wooden lid and stand indicate that it was used as a water dropper. Each ti",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.1885 to B-1910"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2020MR7116/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BF9196/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O102838",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

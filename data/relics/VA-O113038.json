@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O113038",
+ "name": "Jar",
+ "aliases": [],
+ "dynasty": "宋",
+ "year_range": [
+  1050,
+  1150
+ ],
+ "category": "瓷器",
+ "material": "stoneware",
+ "dimensions": "Height 5.7 cm",
+ "excavated_from": null,
+ "summary": "Cizhou is a term used to describe a variety of ceramics made in northern China during the Song dynasty (960-1279). Cizhou wares were popular wares, made for everyday use, and so were much more free-spirited in form and surface design than the wares made at the imperial kilns for the very elite, whic",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.32-1985"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EF5865/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BB5194/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O113038",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O486899",
+ "name": "Panel",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1644,
+  1910
+ ],
+ "category": "织绣",
+ "material": "silk; metallic thread; peacock feather",
+ "dimensions": "Length 603 mm; Width 404 mm",
+ "excavated_from": null,
+ "summary": "This panel was originally part of a larger hanging. It is woven with fine silk and gilded paper thread using a technique known as <i>kesi</i>. This is a very fine version of the tapestry technique seen in European hangings and Middle-Eastern kelims. Here peacock feathers have been introduced for the",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "T.237-1910"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2012FV4843/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2012FV4842/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BD7514/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O486899",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

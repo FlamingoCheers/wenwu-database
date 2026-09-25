@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O144317",
+ "name": "Bowl",
+ "aliases": [],
+ "dynasty": "宋",
+ "year_range": [
+  1736,
+  1795
+ ],
+ "category": "杂器",
+ "material": null,
+ "dimensions": "Diameter 16.5 cm",
+ "excavated_from": null,
+ "summary": "This bowl imitates a Song dynasty (13th century) type which was much sought after by Chinese collectors.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "167-1905"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EH2061/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017KC2642/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O144317",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

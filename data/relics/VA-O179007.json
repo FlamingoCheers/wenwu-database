@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O179007",
+ "name": "Cup and saucer",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1701,
+  1800
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": null,
+ "excavated_from": null,
+ "summary": "In the 18th century Europeans greatly admired the white and resistant body of Chinese porcelain, available at low cost, but in addition to traditional shapes and designs, they also ordered tableware and household objects made in imitation of western items or with specific decorative motifs, includin",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "645&A-1907"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BT8747/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017KC3269/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O179007",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

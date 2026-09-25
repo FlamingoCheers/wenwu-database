@@ -1,0 +1,44 @@
+{
+ "relic_id": "VA-O116738",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "不详",
+ "year_range": null,
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Diameter 21 cm",
+ "excavated_from": null,
+ "summary": "This dish is one of four similarly decorated dishes, all of them painted with figures from the popular Chinese novel 'Water Margin', a story about brave and good-doing bandits comparable to Robin Hood. A distinct feature of the decoration is the absence of any complementary pattern in the background",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.1197-1910"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2009CC9015/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AL7710/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AT0797/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O116738",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": true,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-25"
+}

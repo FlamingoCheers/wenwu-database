@@ -1,0 +1,44 @@
+{
+ "relic_id": "VA-O152025",
+ "name": "Figurine",
+ "aliases": [],
+ "dynasty": "南北朝",
+ "year_range": null,
+ "category": "杂器",
+ "material": null,
+ "dimensions": "Height 24.1 cm",
+ "excavated_from": null,
+ "summary": "Chinese grave goods in ancient times included replicas of men and women engaged in work or leisurely recreations, made from pottery but in reduced size. The grave goods would allow the deceased to continue a similar life style in the underworld.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.866-1936"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2013GR0417/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BE8247/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BE8300/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O152025",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-25"
+}

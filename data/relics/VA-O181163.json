@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O181163",
+ "name": "Bottle",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1501,
+  1600
+ ],
+ "category": "瓷器",
+ "material": "stoneware; glaze; slip",
+ "dimensions": "Height 22.6 cm",
+ "excavated_from": null,
+ "summary": "Trailing or piping thick tube-like slip has been a near universal technique of decorating pottery. In China this type of ware is known as 'fahua'. Defining the decorative areas with raised slip, the Chinese potter was able to prevent glazes from running and blending during firing.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.52-1935"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2009CC4712/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2018KU9424/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O181163",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

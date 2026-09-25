@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O485685",
+ "name": "Robe",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1851,
+  1861
+ ],
+ "category": "织绣",
+ "material": "silk textile; silk thread",
+ "dimensions": "Length 142.24 cm; Width 66.04 cm",
+ "excavated_from": null,
+ "summary": "Dragon robe, satin-weave silk; embroidering in silk threads, China, Qing dynasty (1644-1911), Xianfeng period (1851-1861)",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "T.222-1948"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2012FE8008/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017JT7070/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O485685",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

@@ -1,0 +1,37 @@
+{
+ "relic_id": "VA-O37611",
+ "name": "Paperweight",
+ "aliases": [],
+ "dynasty": "不详",
+ "year_range": [
+  1200,
+  1300
+ ],
+ "category": "雕塑",
+ "material": "jade",
+ "dimensions": "Length 6.4 cm",
+ "excavated_from": null,
+ "summary": "The function of small sculptures made from jade is not clear. They were probably used as paperweights.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.4-1985"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BC1440/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O37611",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": true,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

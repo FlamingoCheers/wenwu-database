@@ -1,0 +1,34 @@
+{
+ "relic_id": "VA-O110305",
+ "name": "Figurine",
+ "aliases": [],
+ "dynasty": "唐",
+ "year_range": null,
+ "category": "雕塑",
+ "material": "jade",
+ "dimensions": "Length 9.8 cm",
+ "excavated_from": null,
+ "summary": "The function of small sculptures made from jade is not clear. They were probably used as paperweights.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "A.28-1935"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BC1437/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O110305",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-25"
+}

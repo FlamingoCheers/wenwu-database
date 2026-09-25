@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O1490386",
+ "name": "Book",
+ "aliases": [],
+ "dynasty": "不详",
+ "year_range": [
+  1966,
+  1976
+ ],
+ "category": "杂器",
+ "material": "plastic; paper; ink",
+ "dimensions": "Height 10.3 cm; Width 9.3 cm",
+ "excavated_from": null,
+ "summary": "Little red book of Mao's poetry | 毛主席诗词, 1966-1976, Pap, China",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.283-2020"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2021MW1802/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2021MW1818/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2021MW1813/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O1490386",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": true,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

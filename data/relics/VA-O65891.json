@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O65891",
+ "name": "Weiqi boxes",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1701,
+  1800
+ ],
+ "category": "杂器",
+ "material": "wood",
+ "dimensions": "Height 9 cm",
+ "excavated_from": null,
+ "summary": "Weiqi is a board game that has been played in China and other East Asian countries for more than 2000 years. It is better known by its Japanese name of 'go'. Using the black or white pieces each player tries to encircle as much territory as possible, but at the same time must ensure that their piece",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.26-1999"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2021MX4545/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2021MX4546/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O65891",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

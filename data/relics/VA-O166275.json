@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O166275",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1750,
+  1850
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Height 29.5 cm; Diameter 22 cm",
+ "excavated_from": null,
+ "summary": "The kilns of Jingdezhen in southern China developed a large range of coloured glazes and unusual surface effects during the 1700s. Some were revivals of ancient techniques, others were original colour combinations, obtained by testing new colouring materials and varying the firing conditions in the ",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "6879-1860"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BV1787/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BV1786/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2008BV1742/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O166275",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

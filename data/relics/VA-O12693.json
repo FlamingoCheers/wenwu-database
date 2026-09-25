@@ -1,0 +1,39 @@
+{
+ "relic_id": "VA-O12693",
+ "name": "Vessel",
+ "aliases": [],
+ "dynasty": "商",
+ "year_range": null,
+ "category": "青铜器",
+ "material": "bronze",
+ "dimensions": "Height 26 cm",
+ "excavated_from": null,
+ "summary": "The distinctive three-lobed shape of this bronze vessel, in Chinese called a <i>li</i>, derives from a ceramic type produced since the Neolithic period (ca. 5000-1700 BC). In the Bronze Age the <i>li</i> had handles along the rim and was used as a ritual vessel. The surface of this example is decora",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "M.3-1935"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BF5258/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017JV9611/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O12693",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-25"
+}

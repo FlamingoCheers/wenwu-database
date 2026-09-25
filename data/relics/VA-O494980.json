@@ -1,0 +1,37 @@
+{
+ "relic_id": "VA-O494980",
+ "name": "Flask",
+ "aliases": [],
+ "dynasty": "宋",
+ "year_range": [
+  1115,
+  1234
+ ],
+ "category": "瓷器",
+ "material": "stoneware",
+ "dimensions": "Height 20.3 cm; Diameter 17.1 cm",
+ "excavated_from": null,
+ "summary": "Black ware. Flask, stoneware with brown glaze; China, Jin dynasty",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "CIRC.50-1930"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2010EB0408/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O494980",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

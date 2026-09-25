@@ -1,0 +1,44 @@
+{
+ "relic_id": "VA-O24426",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "元",
+ "year_range": null,
+ "category": "杂器",
+ "material": "porcelain; enamel",
+ "dimensions": "Height 14.0 cm; Width 8.2 cm",
+ "excavated_from": null,
+ "summary": "Yuan Shikai, the first president of the Chinese Republic, declared himself emperor on 13 December 1915. This porcelain vase was produced to commemorate the occasion, though his reign, under the title 'Hongxian', lasted a mere 83 days.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.567A-1925"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2013GM2450/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BF9758/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006BG5498/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O24426",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

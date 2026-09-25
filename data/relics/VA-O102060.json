@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O102060",
+ "name": "The Paradises",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1790,
+  1800
+ ],
+ "category": "雕塑",
+ "material": "wood; ivory; mother of pearl; copper",
+ "dimensions": "Height 880 mm; Width 830 mm; Depth 705 mm; Weight 98 kg",
+ "excavated_from": null,
+ "summary": "Model mountain scene, wood, ivory and mother of pearl on wooden stand, China, ca. 1790-1800",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "9346(IS)"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AF1437/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AF1440/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AF1435/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O102060",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

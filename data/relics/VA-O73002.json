@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O73002",
+ "name": "Flask",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1403,
+  1424
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Height 44.8 cm",
+ "excavated_from": null,
+ "summary": "This flask is one of the early products from the imperial kiln in Jingdezhen. The dragon motif is finely painted and the flask beautifully potted.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.4-1974"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AT9711/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AH0875/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O73002",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

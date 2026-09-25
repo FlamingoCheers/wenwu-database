@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O461409",
+ "name": "Water Village",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1750,
+  1800
+ ],
+ "category": "书画",
+ "material": "ink; paper; colour",
+ "dimensions": "Height 86 cm; Length 48.2 cm; Height 243.5 cm; Length 65.5 cm",
+ "excavated_from": null,
+ "summary": "Few paintings by the artist Zhu Zhao (active second half of the 18th century) have survived today. Another work, an album of landscapes, is known in the collection of Osaka City Museum of Fine Arts in Japan. Zhu Zhao was a native of Jinan, the capital of Shandong province and well-known for his poet",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.25-1971"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2014GX1309/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2014GX1206/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2014GX1517/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O461409",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

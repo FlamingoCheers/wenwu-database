@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O110364",
+ "name": "Pendant",
+ "aliases": [],
+ "dynasty": "北宋",
+ "year_range": [
+  1001,
+  1100
+ ],
+ "category": "雕塑",
+ "material": "Jade",
+ "dimensions": "Length 4.1 cm; Width 7 mm; Thickness 9 mm",
+ "excavated_from": null,
+ "summary": "Pendant, in the form of a silkworm, carved jade, China, Western Zhou (ca.1046-771 BCE), 1100BCE-900BCE",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "FE.106-1974"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2020MR7096/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2015HV6982/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O110364",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

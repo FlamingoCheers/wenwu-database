@@ -1,0 +1,42 @@
+{
+ "relic_id": "VA-O49908",
+ "name": "Vase",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1645,
+  1655
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Height 40.5 cm; Diameter 13.5 cm",
+ "excavated_from": null,
+ "summary": "This slender vase is a rare example of porcelain painted in fine lines without any use of washes. The scene showing a warrior receiving a guest in his tent is taken from the popular novel <i>Romance of the Three Kingdoms</i>. This type of vase decorated the interiors of Chinese homes.",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "CIRC.116-1938"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2006AL3772/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2017JU6073/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O49908",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

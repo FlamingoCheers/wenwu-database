@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O69526",
+ "name": "Tankard",
+ "aliases": [],
+ "dynasty": "明",
+ "year_range": [
+  1630,
+  1645
+ ],
+ "category": "杂器",
+ "material": null,
+ "dimensions": "Height 23.5 cm; Width 16.5 cm; Diameter 9.8 cm; Diameter 7.8 cm",
+ "excavated_from": null,
+ "summary": "This tankard was originally a lidded jar. Dutch merchants probably brought it to Europe from where they shipped it to England for sale on the London market. The addition of elaborate silver gilt mounts and a handle transformed it into a lidded tankard. In Europe, by the mid-seventeenth century, it h",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "C.577-1910"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2011FA0971/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2011FA0970/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2011FA0972/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O69526",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-26",
+ "updated_at": "2026-09-28"
+}

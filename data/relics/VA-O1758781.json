@@ -1,0 +1,37 @@
+{
+ "relic_id": "VA-O1758781",
+ "name": "Painting",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1801,
+  1900
+ ],
+ "category": "书画",
+ "material": "watercolours; pith",
+ "dimensions": "Length 27.8 cm; Height 17 cm",
+ "excavated_from": null,
+ "summary": "Painting, watercolours on pith paper, China, 19th century",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "E.843:13-1973"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2023NM7875/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O1758781",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}

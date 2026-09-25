@@ -1,0 +1,47 @@
+{
+ "relic_id": "VA-O126061",
+ "name": "Dish",
+ "aliases": [],
+ "dynasty": "清",
+ "year_range": [
+  1821,
+  1850
+ ],
+ "category": "瓷器",
+ "material": "porcelain",
+ "dimensions": "Diameter 7.1 in",
+ "excavated_from": null,
+ "summary": "During the Qing dynasty Buddhism played a central role in the religious and political activities of the court. Huge fortunes were invested to construct Buddhist temples and monasteries in Beijing and across the empire, and to perform religious rituals to facilitate state affairs or to pray for the i",
+ "history": null,
+ "interpretation": null,
+ "collection": {
+  "museum": "维多利亚与艾尔伯特博物馆",
+  "region": "欧洲",
+  "inventory_no": "799-1883"
+ },
+ "images": [
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2009CC9017/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2009CC7119/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  },
+  {
+   "url": "https://framemark.vam.ac.uk/collections/2009CC4786/full/!800,800/0/default.jpg",
+   "license": "V&A Open Access API",
+   "credit": "© Victoria and Albert Museum, London"
+  }
+ ],
+ "source_url": "https://collections.vam.ac.uk/item/O126061",
+ "license": "V&A Open Access API",
+ "tags": [],
+ "related": [],
+ "raw_ref": null,
+ "needs_review": false,
+ "fetched_at": "2026-09-25",
+ "updated_at": "2026-09-28"
+}
