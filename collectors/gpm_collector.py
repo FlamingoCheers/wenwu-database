@@ -38,13 +38,18 @@ def harvest_keyword(pg, kw, sleep):
     url = BASE + "/list?k=" + urllib.parse.quote(kw)
     pg.goto(url, timeout=60000)
     try:
-        pg.wait_for_selector(".waterfall-item .img-container", timeout=20000)
+        pg.wait_for_selector(".waterfall-item .img-container", timeout=25000)
     except Exception:
-        return []
+        # flaky/slow render: reload once before giving up
+        try:
+            pg.reload(timeout=60000)
+            pg.wait_for_selector(".waterfall-item .img-container", timeout=25000)
+        except Exception:
+            return []
     out = {}
     pages = 0
     while True:
-        pg.wait_for_timeout(2500)
+        pg.wait_for_timeout(3000)
         cards = pg.evaluate(JS_CARDS)
         before = len(out)
         for c in cards:
@@ -157,14 +162,14 @@ def main():
             else:
                 empty_marks.append(kw)
                 empty_streak += 1
-                if empty_streak >= 6:
+                if empty_streak >= 10:
                     for k in empty_marks:
                         state.pop(k, None)
                     json.dump(state, open(state_path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-                    print("ABORT: %d consecutive empty results, likely rate-limited. State saved." % empty_streak, flush=True)
+                    print("ABORT: %d consecutive empty results. State saved." % empty_streak, flush=True)
                     break
             json.dump(state, open(state_path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-            time.sleep(4.0)
+            time.sleep(6.0)
         b.close()
     json.dump(skipped, open(SKIP_FILE, "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)
