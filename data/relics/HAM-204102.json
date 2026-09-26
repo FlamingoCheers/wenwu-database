@@ -1,0 +1,28 @@
+{
+ "relic_id": "HAM-204102",
+ "name": "Ritual Food Vessel (Gui) with Four Handles and 'Taotie' Decor",
+ "category": "青铜器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "era_text": null,
+ "dimensions": "10.48 x 25.08 x 16.51 cm (4 1/8 x 9 7/8 x 6 1/2 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；Cast bronze",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/URN-3:HUAM:828641?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204102",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1944.57.17"
+ },
+ "material": "Cast bronze"
+}

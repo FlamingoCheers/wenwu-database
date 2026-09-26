@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-205192",
+ "name": "Large Chisel-Like Jade Tablet",
+ "category": "玉器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -770,
+  -770
+ ],
+ "era_text": "770 BCE - 221 BCE (?)",
+ "dimensions": "25.7 x 10.5 x 0.8 cm (10 1/8 x 4 1/8 x 5/16 in.)\r\nunspecified: 511 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；770 BCE - 221 BCE (?)；Brown nephrite with light brown markings",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS60318_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/205192",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.22"
+ },
+ "material": "Brown nephrite with light brown markings"
+}

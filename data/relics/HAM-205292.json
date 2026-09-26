@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-205292",
+ "name": "Ornamental Jade Plaque (one of a pair)",
+ "category": "玉器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -6,
+  -6
+ ],
+ "era_text": "6th cent. BCE - 5th cent. BCE",
+ "dimensions": "4.1 x 2.9 x 0.5 cm (1 5/8 x 1 1/8 x 3/16 in.)\r\nunspecified: 12 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；6th cent. BCE - 5th cent. BCE；Strongly calcified, warm ivory nephrite",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:763554?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/205292",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.183.B"
+ },
+ "material": "Strongly calcified, warm ivory nephrite"
+}

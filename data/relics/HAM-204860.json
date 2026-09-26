@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-204860",
+ "name": "Fluted Jade Ring",
+ "category": "玉器",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -2500,
+  -2500
+ ],
+ "era_text": "c. 2500 BCE - c. 2000 BCE",
+ "dimensions": "H. 5.4 x Diam. 6 x Thickness of ring 0.6 cm (2 1/8 x 2 3/8 x 1/4 in.)\r\nWeight 120 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；c. 2500 BCE - c. 2000 BCE；Translucent, deep celadon-green and opaque, bone-colored nephrite",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:50932_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204860",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.497"
+ },
+ "material": "Translucent, deep celadon-green and opaque, bone-colored nephrite"
+}

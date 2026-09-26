@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-182445",
+ "name": "Tripod cauldron (li)",
+ "category": "瓷器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -2000,
+  -1500
+ ],
+ "era_text": "c. 2000-1500 BCE",
+ "dimensions": "H. 17.3 x W. 14.4 cm (6 13/16 x 5 11/16 in.)",
+ "summary": "Tripod cauldron with hollow, conical legs, short neck, and wide, and flared mouth with rounded lip; the sides embellished with three round bosses evenly spaced around the widest part of the shoulders and positioned between the legs; medium gray earthenware with yellowish chalky patina. Lower Xiajiadian culture. From northeastern China; Inner Mongolia.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00091_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/182445",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.112"
+ },
+ "material": "Gray earthenware"
+}

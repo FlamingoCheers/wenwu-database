@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-204525",
+ "name": "Jade 'Cong'",
+ "category": "玉器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -1100,
+  -771
+ ],
+ "era_text": "c. 1100 - 771 BCE",
+ "dimensions": "H. 13.2 x W. 6.3 x D. 6.3 cm (5 3/16 x 2 1/2 x 2 1/2 in.)\r\nWeight 1092 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；c. 1100 - 771 BCE；Sea-green translucent nephrite with brownish clouds and dark brown veins",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS49508_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204525",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.503"
+ },
+ "material": "Sea-green translucent nephrite with brownish clouds and dark brown veins"
+}

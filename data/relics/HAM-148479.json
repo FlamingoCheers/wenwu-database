@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-148479",
+ "name": "Basin",
+ "category": "瓷器",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -3300,
+  -2650
+ ],
+ "era_text": "Majiayao phase, c. 3300-2650 BCE",
+ "dimensions": "H. 11 x Diam. 30.5 cm (4 5/16 x 12 in.)",
+ "summary": "Circular basin with everted rim, slightly rounded sides, and lower body tapering inward to a flat base; buff earthenware lightly burnished and decorated with geometric designs painted in dark brown slip before firing; painted designs include concentric circles radiating outward from a single dot at the center with additional dots at regular intervals (on the interior), curved arcs and diagonal lines (on top of the rim), and wavy lines with feather-like flourishes (on the exterior). Majiayao cult",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00024_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/148479",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.17"
+ },
+ "material": "Earthenware with slip-painted decoration"
+}

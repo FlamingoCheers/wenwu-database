@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-205014",
+ "name": "Jade 'Huang' Segment",
+ "category": "玉器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -11,
+  -11
+ ],
+ "era_text": "c. 11th cent. BCE - 771 BCE",
+ "dimensions": "10.3 x 2.7 x 0.3 cm (4 1/16 x 1 1/16 x 1/8 in.)\r\nunspecified: 22 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；c. 11th cent. BCE - 771 BCE；Evenly dark brown, faintly translucent nephrite",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS49666_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/205014",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.351"
+ },
+ "material": "Evenly dark brown, faintly translucent nephrite"
+}

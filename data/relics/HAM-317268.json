@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-317268",
+ "name": "Long-Stemmed Cup with Flaring Lip",
+ "category": "青铜器",
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  8,
+  8
+ ],
+ "era_text": "8th century",
+ "dimensions": "H. 27.1 x Diam. 16.5 cm (10 11/16 x 6 1/2 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；8th century；Hammered and turned Bronze",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:INV143669_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/317268",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.169.3"
+ },
+ "material": "Hammered and turned Bronze"
+}

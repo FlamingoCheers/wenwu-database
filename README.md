@@ -6,18 +6,20 @@
 
 ## 数据规模
 
-当前 **30,676 件**，覆盖 9 家博物馆。数据由 GitHub Actions 定时增量更新。
+当前 **50,792 件**，覆盖 11 家博物馆。数据由 GitHub Actions 定时增量更新。
 
 | 博物馆 | 件数 | 接入方式 | 授权 |
 |---|---|---|---|
 | 台北故宫博物院 | 11,302 | Open Data 专区 | 开放授权（CC0 1.0） |
 | 大都会艺术博物馆 | 10,581 | Open Access API | CC0 |
+| 维多利亚与艾尔伯特博物馆 | 14,700+ | Research API（含图检索） | V&A Open Access API |
 | 克利夫兰艺术博物馆 | 2,804 | Open Access API | CC0 |
 | 陕西历史博物馆 | 1,515 | 公开藏品目录 Excel（钱币按名称聚合为"品种"记录）+ 精品页 | ©陕西历史博物馆（仅收录信息与来源链接） |
 | 史密森尼国家亚洲艺术博物馆 | 1,639 | Open Access API | CC0 |
 | 中国国家博物馆 | 1,294 | 公开网站采集（严格限速：每 6 小时不超过 100 条） | ©中国国家博物馆（仅收录信息与来源链接） |
 | 故宫博物院（北京） | 621+ | 数字文物库搜索卡片（playwright 渲染，不逆向接口；精选关键词） | ©故宫博物院（仅收录信息与来源链接） |
 | 芝加哥艺术馆 | 802 | Open Access API | CC0 |
+| 哈佛艺术博物馆 | 5,392 | 官方 API（`culture:Chinese` 全召回，含图） | 哈佛开放影像（©President and Fellows of Harvard College） |
 | 河南博物院 | 17+ | 公开详情页静态采集（每 6 小时不超过 100 条） | ©河南博物院（仅收录信息与来源链接） |
 
 分布概览：`pipeline/build_db.py` 输出，或 `raw/_validation_report.json`。
@@ -86,7 +88,7 @@ python pipeline/build_web_index.py              # 前端索引（web/data）
 | 菲茨威廉博物馆（剑桥） | <https://fitzmuseum.cam.ac.uk/objects> | 官方 API（api.fitzmuseum.cam.ac.uk）已退役，新站仅 HTML 页面，无公开批量接口 |
 | 宾夕法尼亚大学博物馆 | <https://www.penn.museum/collections/> | 旧 API（api.penn.museum）已下线，站内检索无公开 JSON 接口 |
 | 普林斯顿大学艺术博物馆 | <https://artmuseum.princeton.edu/search/collections> | 检索页有 Cloudflare 人机验证，未提供公开 API |
-| 巴黎赛努奇博物馆 | <https://www.cernuschi.paris.fr> | 属巴黎博物馆联盟，其 GraphQL API 需免费注册账号获取令牌后使用：<https://apicollections.parismusees.paris.fr> |
+| 巴黎赛努奇博物馆 | <https://www.cernuschi.paris.fr> | 属巴黎博物馆联盟。实测：注册 token 可通过鉴权（Bearer），但其 GraphQL 仅支持"持久查询"（queryId）且站内与文档均不公开任何 queryId，裸查询一律 403，暂无合规接入路径：<https://apicollections.parismusees.paris.fr> |
 | 香港故宫文化博物馆 | <https://www.hkpm.org.hk> | 藏品以北京故宫借展为主，官网无逐件藏品数据页 |
 | 台北故宫博物院（完整目录） | <https://theme.npm.edu.tw/opendata> | 开放数据专区另有整包元数据下载；本库当前经数字典藏检索接入 1.1 万件（见 FAQ） |
 
@@ -113,7 +115,7 @@ python pipeline/build_web_index.py              # 前端索引（web/data）
 | 数字敦煌 | <https://www.e-dunhuang.com> | 敦煌研究院官方高清洞窟与壁画影像库 |
 | 中华珍宝馆 | <https://ltfc.net> | 民间聚合的中国书画高清扫描，无 API，仅网页浏览 |
 | 书格 | <https://new.shuge.org> | 公版古籍书画影像，公益项目 |
-| Europeana | <https://www.europeana.eu> | 欧洲文化聚合器（含各国博物馆中国藏品，开放授权可过滤） |
+| Europeana | <https://www.europeana.eu> | 欧洲文化聚合器（含各国博物馆中国藏品，开放授权可过滤）；其 API 注册入口一度失效，需 key 后可接入 |
 | DPLA | <https://dp.la> | 美国数字公共图书馆聚合器 |
 | Google Arts & Culture | <https://artsandculture.google.com> | 跨馆超高清影像，无公开 API |
 

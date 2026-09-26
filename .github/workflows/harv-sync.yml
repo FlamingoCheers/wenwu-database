@@ -1,0 +1,50 @@
+name: harv-sync
+
+on:
+  schedule:
+    - cron: "0 19 8 * *" # 每月 8 日 19:00 UTC
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "limit (0=all)"
+        default: "0"
+      sleep:
+        description: "sleep seconds between API pages"
+        default: "0.3"
+
+permissions:
+  contents: write
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - uses: actions/cache@v4
+        with:
+          path: raw/harv
+          key: harv-raw-${{ github.run_id }}
+          restore-keys: harv-raw-
+      - name: Harvest Harvard
+        env:
+          HARVARD_API_KEY: ${{ secrets.HARVARD_API_KEY }}
+        run: |
+          python -X utf8 collectors/harv_collector.py --limit "${{ github.event.inputs.limit || '0' }}" --sleep "${{ github.event.inputs.sleep || '0.3' }}"
+      - name: Validate & build
+        run: |
+          python -X utf8 pipeline/validate.py
+          python -X utf8 pipeline/build_db.py
+          python -X utf8 pipeline/build_web_index.py
+      - name: Commit & push
+        run: |
+          git config user.name wenwu-bot
+          git config user.email bot@wenwu.local
+          git add data/relics 2>/dev/null || true
+          git commit -m "data: Harvard Art Museums sync $(date -u +%F)" || echo "no changes"
+          for i in 1 2 3; do
+            git pull --rebase origin master && git push origin master && break
+            sleep 15
+          done

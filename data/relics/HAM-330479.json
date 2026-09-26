@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-330479",
+ "name": "Waves",
+ "category": "书画",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1967,
+  1967
+ ],
+ "era_text": "1967",
+ "dimensions": "painting proper: 57.7 x 89.5 cm (22 11/16 x 35 1/4 in.)\r\nmounting: 69.7 x 112.7 cm (27 7/16 x 44 3/8 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；1967；Horizontal wall scroll; ink and color on fibrous paper; with artist's signature and seal",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:799982?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/330479",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2018.359"
+ },
+ "material": "Horizontal wall scroll; ink and color on fibrous paper; with artist's signature and seal"
+}

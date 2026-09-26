@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-204602",
+ "name": "Large Glass Disk",
+ "category": "玻璃器",
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -3,
+  -3
+ ],
+ "era_text": "3rd cent. BCE - 1st cent. BCE",
+ "dimensions": "Diam. 17.4 × Thickness 0.7 cm (6 7/8 × 1/4 in.)\r\n473 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；3rd cent. BCE - 1st cent. BCE；Light green glass, with a brittle, creamy brown surface layer",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:795788?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204602",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.586"
+ },
+ "material": "Light green glass, with a brittle, creamy brown surface layer"
+}

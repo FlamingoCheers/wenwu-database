@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-214334",
+ "name": "Imperial Robe with Dragon Decor",
+ "category": "青铜器",
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  17,
+  17
+ ],
+ "era_text": "17th-20th century",
+ "dimensions": "129.5 x 220.5 cm (51 x 86 13/16 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；17th-20th century；Golden beige silk damask",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP06480_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/214334",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1960.169.44"
+ },
+ "material": "Golden beige silk damask"
+}

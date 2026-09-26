@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-191329",
+ "name": "Jar with spout",
+ "category": "瓷器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -5,
+  -5
+ ],
+ "era_text": "5th-3rd century BCE",
+ "dimensions": "H. 23.8 x W. (across spout) 38.2 x Diam. 34.3 cm (9 3/8 x 15 1/16 x 13 1/2 in.)",
+ "summary": "Large ovoid jar with curved spout at shoulder, with impressed basket-weave decor covering the body, two applique scrolls at the shoulder, and a braided applique at the spout; light gray stoneware with stamped and applique decoration.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00120_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/191329",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.133"
+ },
+ "material": "Gray stoneware"
+}

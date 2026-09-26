@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-146761",
+ "name": "Rounded bowl",
+ "category": "瓷器",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -5000,
+  -4000
+ ],
+ "era_text": "Banpo phase, c. 5000-4000 BCE",
+ "dimensions": "H. 8.3 x Diam. 15 cm (3 1/4 x 5 7/8 in.)",
+ "summary": "Deep hemispherical bowl with lower portion tapering inward to a slightly flattened convex base; red earthenware lightly burnished and decorated on the exterior around the lip with a wide band painted in a light-colored slip before firing; whitish encrustations from burial. Early Yangshao culture, Banpo type. From the middle Yellow River valley region, Shaanxi province.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00010_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/146761",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.6"
+ },
+ "material": "Earthenware with traces of slip-painted decoration"
+}

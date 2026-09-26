@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-178618",
+ "name": "Cocoon shaped jar",
+ "category": "瓷器",
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -2,
+  -2
+ ],
+ "era_text": "2nd-1st century BCE",
+ "dimensions": "H. 23.8 x W. 27 x D. 18 cm (9 3/8 x 10 5/8 x 7 1/16 in.)",
+ "summary": "Oblong horizontal vessel with body resembling the shape of a silkworm cocoon; short cylindrical neck and everted mouth rim at top center; elliptical body resting on circular, slightly splayed pedestal foot; medium gray earthenware with geometric designs cold-painted in unfired white, green, orange, and dark red pigments.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00255_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/178618",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.177"
+ },
+ "material": "Gray earthenware with cold-painted pigments"
+}

@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-202578",
+ "name": "Landscape",
+ "category": "书画",
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  17,
+  17
+ ],
+ "era_text": "17th-18th century",
+ "dimensions": "painting proper: H. 61 × W. 39.2 cm (24 × 15 7/16 in.)\r\noverall mounting, including roller ends and suspension cord: H. 197.2 × W. 47 cm (77 5/8 × 18 1/2 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；17th-18th century；Hanging scroll; ink on paper",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS41020_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/202578",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1968.27"
+ },
+ "material": "Hanging scroll; ink on paper"
+}

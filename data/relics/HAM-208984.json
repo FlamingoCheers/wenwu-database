@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-208984",
+ "name": "Woodblock for Illustrated Sutra",
+ "category": "竹木牙角",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  17,
+  17
+ ],
+ "era_text": "17th century",
+ "dimensions": "H. 19.05 x W. 46.99 cm (7 1/2 x 18 1/2 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；17th century；Wood",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:822544?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/208984",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1931.160"
+ },
+ "material": "Wood"
+}

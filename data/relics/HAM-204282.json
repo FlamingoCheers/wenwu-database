@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-204282",
+ "name": "Large Gold Buckle with Inlaid Jade Fragments",
+ "category": "玉器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -4,
+  -4
+ ],
+ "era_text": "4th cent. BCE - 3rd cent. BCE",
+ "dimensions": "22.2 x 5.4 x 6 cm (8 3/4 x 2 1/8 x 2 3/8 in.)\r\nunspecified: 376 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；4th cent. BCE - 3rd cent. BCE；Gold with light gray nephrite and dark glass (?) inlays",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/URN-3:HUAM:827776?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204282",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.52.61"
+ },
+ "material": "Gold with light gray nephrite and dark glass (?) inlays"
+}

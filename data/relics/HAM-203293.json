@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-203293",
+ "name": "Section from a Tomb Furnishing in the Form of a Three-Storied Watchtower (Top Roof)",
+ "category": "瓷器",
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1,
+  1
+ ],
+ "era_text": "1st-2nd century CE",
+ "dimensions": null,
+ "summary": "哈佛艺术博物馆著录：Chinese；1st-2nd century CE；Lead-glazed funerary ware: molded brick-red earthenware with much degraded lead-fluxed emerald-green glaze",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP08664_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/203293",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1959.14.6"
+ },
+ "material": "Lead-glazed funerary ware: molded brick-red earthenware with much degraded lead-fluxed emerald-green glaze"
+}

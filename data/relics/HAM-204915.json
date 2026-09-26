@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-204915",
+ "name": "Primitive Jade Bird Silhouette",
+ "category": "玉器",
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  19,
+  19
+ ],
+ "era_text": "late 19th - early 20th century",
+ "dimensions": "H. 6.2 x W. 4 x D. 0.3 cm (2 7/16 x 1 9/16 x 1/8 in.)\r\nWeight 13 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；late 19th - early 20th century；Translucent pale green nephrite",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS49928_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204915",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.209"
+ },
+ "material": "Translucent pale green nephrite"
+}

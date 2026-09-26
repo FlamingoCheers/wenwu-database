@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-182607",
+ "name": "Covered pedestal dish",
+ "category": "瓷器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -4,
+  -4
+ ],
+ "era_text": "4th century BCE",
+ "dimensions": "H. 27 x Diam. 21.1 cm (10 5/8 x 8 5/16 in.)",
+ "summary": "Deep bowl with wide mouth raised on a tall stem supported on a broad circular concave foot with neatly molded upturned edge, the lower sides of the bowl with concave grooves and the well-fitted domed cover similarly grooved, the large circular platform finial also grooved and raised on a reel-shaped stem, the dark gray pottery burnished to a smooth black surface and showing scattered remains of earth encrustation and staining from burial. One of a pair with 2006.170.144.A-B.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00112_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/182607",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.143.A-B"
+ },
+ "material": "Gray stoneware with blackened surface"
+}

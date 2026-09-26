@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-197027",
+ "name": "Tall, wide-mouthed jar",
+ "category": "瓷器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -5,
+  -5
+ ],
+ "era_text": "5th century BCE",
+ "dimensions": "H. 45.2 x Diam. 33.5 cm (17 13/16 x 13 3/16 in.)",
+ "summary": "Tall, wide-mouthed jar with short neck and broad shoulders; body tapers inward to a flat base; light gray earthenware with basket-weave decoration impressed over the entire body.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:61373_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/197027",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.135"
+ },
+ "material": "Gray stoneware"
+}

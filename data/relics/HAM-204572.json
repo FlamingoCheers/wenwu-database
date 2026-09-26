@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-204572",
+ "name": "Jade Brush Cap (with brush handle)",
+ "category": "玉器",
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1368,
+  1911
+ ],
+ "era_text": "1368 - 1911",
+ "dimensions": "10 x 1.9 cm (3 15/16 x 3/4 in.)\r\nunspecified: 55 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；1368 - 1911；Light gray-green, partly discolored nephrite",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS49653_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204572",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.475.B"
+ },
+ "material": "Light gray-green, partly discolored nephrite"
+}

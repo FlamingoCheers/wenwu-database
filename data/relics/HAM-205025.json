@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-205025",
+ "name": "Elongated Jade Bird Figure",
+ "category": "玉器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -10,
+  -10
+ ],
+ "era_text": "10th-9th century BCE",
+ "dimensions": "W. 2.2 x L. 10.7 x Thickness 0.3 cm (7/8 x 4 3/16 x 1/8 in.)\r\nWeight 13 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；10th-9th century BCE；Clouded pale green and bluish green nephrite",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:51457_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/205025",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.205"
+ },
+ "material": "Clouded pale green and bluish green nephrite"
+}

@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-99888",
+ "name": "Pedestal dish (dou)",
+ "category": "瓷器",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -3900,
+  -3300
+ ],
+ "era_text": "3900-3300 BCE",
+ "dimensions": "H. 11.2 x Diam. 18.7 cm (4 7/16 x 7 3/8 in.)",
+ "summary": "Circular dish raised on a flared circular pedestal that widens toward the foot, the pedestal perforated with three circular apertures; medium gray earthenware, the interior with black skin, the exterior with a rust-brown skin. Songze culture. From the lower Yangzi River region; Jiangsu or Zhejiang province.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00065_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/99888",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.118"
+ },
+ "material": "Earthenware"
+}

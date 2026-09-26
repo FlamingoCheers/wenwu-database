@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-190162",
+ "name": "Wide-mouthed Jar",
+ "category": "瓷器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -6,
+  -6
+ ],
+ "era_text": "6th-5th century BCE",
+ "dimensions": "H. 10 x Diam. 15.5 cm (3 15/16 x 6 1/8 in.)",
+ "summary": "Small wide-mouthed jar with short neck and two striated loop handles; three small feet on base; light-gray earthenware with blackened surface and bands of geometric decoration impressed around the waist and neck of jar.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00116_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/190162",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.132"
+ },
+ "material": "Gray stoneware with blackened surface"
+}

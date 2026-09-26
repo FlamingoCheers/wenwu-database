@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-148472",
+ "name": "Small covered jar",
+ "category": "瓷器",
+ "dynasty": "隋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  600,
+  600
+ ],
+ "era_text": "circa 600",
+ "dimensions": "with cover: H. 7.4 x Diam. 10 cm (2 15/16 x 3 15/16 in.)",
+ "summary": "Small compressed globular jar with flat lid, the jar with short straight neck, six double-loop handles encircling the shoulder at the base of the neck, and resting on a short footring with straight sides, the lid with matching double-loop handle on top; stylized floral decoration on the body of the jar and on top of the lid; light gray stoneware with caramel-hued brown glaze over stamped and incised decoration. From Changsha, Hunan province.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:771791?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/148472",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.250.A-B"
+ },
+ "material": "Stoneware with brown glaze"
+}

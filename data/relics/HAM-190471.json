@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-190471",
+ "name": "Goose-head vessel",
+ "category": "青铜器",
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -3,
+  -3
+ ],
+ "era_text": "3rd-1st century BCE",
+ "dimensions": "H. 33 x Diam. 18.3 cm (13 x 7 3/16 in.)",
+ "summary": "Compressed spherical vessel surmounted by a long tubular neck that curves downward at the top, terminating into a head of a goose; a circular aperture appears at the highest point behind the head, at the bend of the neck; slightly splayed footring encircles a countersunk base; cast bronze with green patina. Bronze vessels of this form gained currency by the Qin dynasty (late 3rd century BCE) and persisted into the Han dynasty (206 BCE–220 CE).",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00137_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/190471",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.163"
+ },
+ "material": "Cast bronze"
+}

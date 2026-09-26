@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-201687",
+ "name": "Scholar's Rock",
+ "category": "雕塑",
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  18,
+  18
+ ],
+ "era_text": "probably 18th century",
+ "dimensions": "rock: H. 66 x W. 35 cm (26 x 13 3/4 in.)\r\nrock with base: H. 76.9 x W. 35 x D. 20.5 cm (30 1/4 x 13 3/4 x 8 1/16 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；probably 18th century；Ying stone: black limestone with veins of white calcite. From Yingde, Guangdong province.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:DDC253262_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/201687",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1981.206"
+ },
+ "material": "Ying stone: black limestone with veins of white calcite. From Yingde, Guangdong province."
+}

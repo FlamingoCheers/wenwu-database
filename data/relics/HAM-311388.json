@@ -1,0 +1,27 @@
+{
+ "relic_id": "HAM-311388",
+ "name": "Hairy tortoise",
+ "category": "书画",
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": null,
+ "era_text": null,
+ "dimensions": "30.16 x 23.5 cm (11 7/8 x 9 1/4 in.)\r\nframed: 52.71 x 45.09 x 1.59 cm (20 3/4 x 17 3/4 x 5/8 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；Ink and color on silk",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS34216_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/311388",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1923.148.11"
+ },
+ "material": "Ink and color on silk"
+}

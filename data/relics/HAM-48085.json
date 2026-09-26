@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-48085",
+ "name": "Leaf from an Album: England and China",
+ "category": "书画",
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  19,
+  19
+ ],
+ "era_text": "19th to early 20th century",
+ "dimensions": "26 x 16 cm (10 1/4 x 6 5/16 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；19th to early 20th century；Album leaf; ink and color on paper",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:783091?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/48085",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.888.4"
+ },
+ "material": "Album leaf; ink and color on paper"
+}

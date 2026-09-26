@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-359639",
+ "name": "On the Suzhou River",
+ "category": "书画",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1958,
+  1958
+ ],
+ "era_text": "1958",
+ "dimensions": "image: H. 36.5 × W. 22.8 cm (14 3/8 × 9 in.)\r\npaper: H. 42.4 × W. 27.4 cm (16 11/16 × 10 13/16 in.)",
+ "summary": "Boat scene on the Suzhou River in Shanghai",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:785215?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/359639",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2017.196"
+ },
+ "material": "Woodblock print; ink and color on paper"
+}

@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-204768",
+ "name": "Jade Tiger in Bird's Eye View",
+ "category": "玉器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -11,
+  -11
+ ],
+ "era_text": "probably 11th cent. BCE - 771 BCE",
+ "dimensions": "6.2 x 1.7 x 0.8 cm (2 7/16 x 11/16 x 5/16 in.)\r\nunspecified: 15 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；probably 11th cent. BCE - 771 BCE；Light bluish green translucent nephrite with tan markings",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS49683_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204768",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.287"
+ },
+ "material": "Light bluish green translucent nephrite with tan markings"
+}

@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-209681",
+ "name": "Tea Contest",
+ "category": "书画",
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1761,
+  1761
+ ],
+ "era_text": "c. 1761",
+ "dimensions": "painting proper: H. 24.7 × W. 21.2 cm (9 3/4 × 8 3/8 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；c. 1761；painting: ink and color on silk; calligraphy: ink on paper",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP10408_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/209681",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1923.149.3"
+ },
+ "material": "painting: ink and color on silk; calligraphy: ink on paper"
+}

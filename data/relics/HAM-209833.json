@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-209833",
+ "name": "Winter Landscape",
+ "category": "书画",
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  19,
+  19
+ ],
+ "era_text": "probably 19th century",
+ "dimensions": "68.3 x 41.2 cm (26 7/8 x 16 1/4 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；probably 19th century；Hanging scroll; ink and light color on silk",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS31637_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/209833",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1923.176"
+ },
+ "material": "Hanging scroll; ink and light color on silk"
+}

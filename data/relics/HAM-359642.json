@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-359642",
+ "name": "Riverbank",
+ "category": "书画",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1962,
+  1962
+ ],
+ "era_text": "1962",
+ "dimensions": "image: H. 33.9 × W. 36.3 cm (13 3/8 × 14 5/16 in.)\r\npaper: H. 39.4 × W. 41.4 cm (15 1/2 × 16 5/16 in.)",
+ "summary": "Boats along a riverbank",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:785196?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/359642",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2017.199"
+ },
+ "material": "Woodblock print; ink on paper"
+}

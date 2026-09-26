@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-205552",
+ "name": "Small Cup (one of two)",
+ "category": "青铜器",
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  9,
+  9
+ ],
+ "era_text": "late Tang to Song period, 9th-13th century",
+ "dimensions": "H. 2.2 x Diam. 3.2 cm (7/8 x 1 1/4 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；late Tang to Song period, 9th-13th century；Transparent amber glass over lead core, the lead possibly covered with gold foil",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS38075_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/205552",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1941.251.A"
+ },
+ "material": "Transparent amber glass over lead core, the lead possibly covered with gold foil"
+}

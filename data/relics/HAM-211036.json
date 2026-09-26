@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-211036",
+ "name": "Landscape of the Wu Region",
+ "category": "书画",
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1626,
+  1626
+ ],
+ "era_text": "1626",
+ "dimensions": "painting proper: H. 21.2 x W. 276.7 cm (8 3/8 x 108 15/16 in.)\r\nmounting: H. 25.4 cm (10 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；1626；Handscroll; ink on paper",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:INV004012_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/211036",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.832"
+ },
+ "material": "Handscroll; ink on paper"
+}

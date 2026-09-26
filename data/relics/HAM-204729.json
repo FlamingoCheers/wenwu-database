@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-204729",
+ "name": "Jade Cicada in the Round",
+ "category": "玉器",
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -3,
+  -3
+ ],
+ "era_text": "3rd century BCE",
+ "dimensions": "H. 3.4 x W. 1.8 x D. 1.3 cm (1 5/16 x 11/16 x 1/2 in.)\r\nWeight 10 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；3rd century BCE；Light olive-green and yellowish brown nephrite",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:70976_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204729",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.281"
+ },
+ "material": "Light olive-green and yellowish brown nephrite"
+}

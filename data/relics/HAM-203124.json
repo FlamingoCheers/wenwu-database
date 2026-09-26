@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-203124",
+ "name": "Dish with Qilin Decor",
+ "category": "瓷器",
+ "dynasty": "元",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1279,
+  1368
+ ],
+ "era_text": "1279-1368",
+ "dimensions": "H. 3.2 cm x Diam. 18.1 cm (1 1/4 x 7 1/8 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；1279-1368；Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP08802_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/203124",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1961.70"
+ },
+ "material": "Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue"
+}

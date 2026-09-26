@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-149463",
+ "name": "Ovoid jar",
+ "category": "瓷器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -4,
+  -4
+ ],
+ "era_text": "4th century BCE",
+ "dimensions": "H. 12 x W. (across handles) 15 x Diam. 14.5 cm (4 3/4 x 5 7/8 x 5 11/16 in.)",
+ "summary": "Bulbous, bronze-form vessel of ovoid form with two pierced lug handles on shoulders, three small conical feet on the flat base, and horizontal fluted decor encircling the body; medium gray earthenware with darkened surface.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00114_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/149463",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.147"
+ },
+ "material": "Gray earthenware"
+}

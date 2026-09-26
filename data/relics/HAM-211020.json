@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-211020",
+ "name": "Finding of a Dalai Lama",
+ "category": "书画",
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  19,
+  19
+ ],
+ "era_text": "19th century",
+ "dimensions": "Album overall: 42.3 x 39 x 2.2 cm (16 5/8 x 15 3/8 x 7/8 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；19th century；Album of eight leaves; ink, color and gold on paper",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:761720?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/211020",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.863"
+ },
+ "material": "Album of eight leaves; ink, color and gold on paper"
+}

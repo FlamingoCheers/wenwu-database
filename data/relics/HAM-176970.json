@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-176970",
+ "name": "Dish-mouthed vessel",
+ "category": "青铜器",
+ "dynasty": "隋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  6,
+  6
+ ],
+ "era_text": "6th - 7th century",
+ "dimensions": "H. 5.8 x Diam. 6.2 cm (2 5/16 x 2 7/16 in.)",
+ "summary": "Compressed pear-shaped container with dish-shaped mouth, cylindrical neck, and body widening toward the base, which rests on a raised circular foot; base is flat.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00153_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/176970",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.259"
+ },
+ "material": "Silvered bronze"
+}

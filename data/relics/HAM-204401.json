@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-204401",
+ "name": "Standing Buddhist Monk Holding a Vase",
+ "category": "青铜器",
+ "dynasty": "唐",
+ "dynasty_confidence": "high",
+ "year_range": [
+  8,
+  8
+ ],
+ "era_text": "8th century",
+ "dimensions": "H. 9 x W. 3.4 x D. 3 cm (3 9/16 x 1 5/16 x 1 3/16 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；8th century；Gilt bronze",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP03842_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204401",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.53.90"
+ },
+ "material": "Gilt bronze"
+}

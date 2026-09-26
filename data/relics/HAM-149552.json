@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-149552",
+ "name": "Wide-mouthed jar",
+ "category": "瓷器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -2000,
+  -1600
+ ],
+ "era_text": "c. 2000-1600 BCE",
+ "dimensions": "H. 20.3 x W. (across handles) 22 x Diam. 22.5 cm (8 x 8 11/16 x 8 7/8 in.)",
+ "summary": "Globular jar with indented neck, broad body, lower portion tapering inward to a small, flat base, and with two strap handles attached from rim to shoulders; buff earthenware with crosshatched decoration painted in black slip on neck and body. Siba culture. From the upper Yellow River valley region, probably Gansu province.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00041_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/149552",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.45"
+ },
+ "material": "Earthenware with bichrome slip-painted decoration "
+}

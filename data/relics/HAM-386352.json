@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-386352",
+ "name": "Untitled I",
+ "category": "瓷器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  2021,
+  2021
+ ],
+ "era_text": "2021",
+ "dimensions": "H. 25.4 × Dia. 10.2 cm (10 × 4 in.)",
+ "summary": "The tall neck-like vessel bulges slightly at the center, where it is split and has nodules in a variety of sizes spilling out from the fissure. The unglazed surface is a terracotta red that darkens at the upper edge.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:816615?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/386352",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2025.8"
+ },
+ "material": "Wood-fired stoneware"
+}

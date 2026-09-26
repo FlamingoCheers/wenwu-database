@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-206580",
+ "name": "Journey to Mount Tai",
+ "category": "书画",
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  16,
+  16
+ ],
+ "era_text": "first half 16th century",
+ "dimensions": "H. 198.7 x W. 108.5 cm (78 1/4 x 42 11/16 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；first half 16th century；Hanging scroll mounted on a panel and framed; ink and slight color on silk",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:758085?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/206580",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1923.198"
+ },
+ "material": "Hanging scroll mounted on a panel and framed; ink and slight color on silk"
+}

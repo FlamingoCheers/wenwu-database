@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-21116",
+ "name": "Mount Huang",
+ "category": "书画",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  2004,
+  2004
+ ],
+ "era_text": "2004",
+ "dimensions": "painting proper: 178.8 x 100 cm (70 3/8 x 39 3/8 in.)\r\nmounting: 274.32 x 128.27 cm (108 x 50 1/2 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；2004；Hanging scroll; ink and light color on paper; with signature reading \"Li Huayi\"; with artist's square red relief seal reading \"Hua Yi\"",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:78369_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/21116",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2005.86"
+ },
+ "material": "Hanging scroll; ink and light color on paper; with signature reading \"Li Huayi\"; with artist's square red relief seal reading \"Hua Yi\""
+}

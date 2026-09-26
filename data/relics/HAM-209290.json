@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-209290",
+ "name": "Catfish",
+ "category": "书画",
+ "dynasty": "元",
+ "dynasty_confidence": "high",
+ "year_range": [
+  13,
+  13
+ ],
+ "era_text": "13th-14th century",
+ "dimensions": "H. 20.5 x W. 16.6 cm (8 1/16 x 6 9/16 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；13th-14th century；Album leaf; ink on silk",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:huam:DDC112862_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/209290",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1929.238"
+ },
+ "material": "Album leaf; ink on silk"
+}

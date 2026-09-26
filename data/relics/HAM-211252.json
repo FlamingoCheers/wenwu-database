@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-211252",
+ "name": "Legendary Beauties through the Ages",
+ "category": "书画",
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  18,
+  18
+ ],
+ "era_text": "18th century",
+ "dimensions": "painting proper: H. 29.7 cm (11 11/16 in.)\r\nwith mounting: H. 34.6 cm (13 5/8 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；18th century；Handscroll; ink and color on silk",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:758574?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/211252",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.886"
+ },
+ "material": "Handscroll; ink and color on silk"
+}

@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-203904",
+ "name": "FOOTED CUP",
+ "category": "竹木牙角",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  17,
+  17
+ ],
+ "era_text": "17th century",
+ "dimensions": "max.: H. 10.2 × Dia. 10.3 cm (4 × 4 1/16 in.)\r\nfoot max.: Dia. 4.4 cm (1 3/4 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；17th century；Carved rhinoceros horn",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS45766_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/203904",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1950.125.55"
+ },
+ "material": "Carved rhinoceros horn"
+}

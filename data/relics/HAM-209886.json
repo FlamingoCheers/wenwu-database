@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-209886",
+ "name": "Bamboo",
+ "category": "书画",
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  14,
+  14
+ ],
+ "era_text": "14th-15th century",
+ "dimensions": "26.6 x 23.5 cm (10 1/2 x 9 1/4 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；14th-15th century；Album leaf; ink on silk",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS33881_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/209886",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1919.262"
+ },
+ "material": "Album leaf; ink on silk"
+}

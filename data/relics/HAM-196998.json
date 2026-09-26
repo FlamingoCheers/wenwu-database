@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-196998",
+ "name": "Tripod cooking vessel (li)",
+ "category": "瓷器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -2000,
+  -1500
+ ],
+ "era_text": "c. 2000-1500 BCE",
+ "dimensions": "H. 25.8 x W. 11.5 x Diam. 16.3 cm (10 3/16 x 4 1/2 x 6 7/16 in.)",
+ "summary": "Elongated tripod vessel of cylindrical form raised on three short conical feet and with wide, flared mouth; medium gray earthenware burnished to a smooth black surface. Vessels of this shape are unique to Lower Xiajiadian culture, whose type site of Xiajiadian is in Dadianzi, near Chifeng, eastern Inner Mongolia, northeastern China.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00093_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/196998",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.111"
+ },
+ "material": "Gray earthenware"
+}

@@ -1,0 +1,28 @@
+{
+ "relic_id": "HAM-214816",
+ "name": "Textile",
+ "category": "织绣",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "era_text": null,
+ "dimensions": "112.1 x 77.7 cm (44 1/8 x 30 9/16 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARPST10302_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/214816",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1936.150.53"
+ },
+ "material": ""
+}

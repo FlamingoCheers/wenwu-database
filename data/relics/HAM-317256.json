@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-317256",
+ "name": "Wide-mouthed Jar",
+ "category": "瓷器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -4,
+  -4
+ ],
+ "era_text": "4th century BCE",
+ "dimensions": "H. 11.7 x Diam. 16 cm (4 5/8 x 6 5/16 in.)",
+ "summary": "Small globular, wide-mouthed jar with very short rim and two pairs of loop handles placed bilaterally on the jar’s shoulders; light gray stoneware with fabric-weave decoration on the body.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:INV143659_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/317256",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.139"
+ },
+ "material": "Gray stoneware with impressed decoration"
+}

@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-315534",
+ "name": "Landscape",
+ "category": "书画",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1972,
+  1972
+ ],
+ "era_text": "1972 (renzi year)",
+ "dimensions": "H. 54.6 x W. 70.3 cm (21 1/2 x 27 11/16 in.)\r\nframe: H. 81.3 x W. 95.9 cm (32 x 37 3/4 in.)",
+ "summary": "Painted by Wang Jiqian ( better known in the West as C. C. Wang; 1907-2003), this wall scroll represents a mountain landscape. The tall mountain that rises along the painting's central, vertical axis dominates the composition. A deep valley flanks the central mountain on either side; the valleys separate the central peak from the subsidiary mountains that appear at left and right, and they afford views of the mist-obscured mountains and waterfalls that occupy the distant background. The landscap",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:768957?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/315534",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2010.456"
+ },
+ "material": "Ink on paper; with dated signature of the artist reading \"Renzi wuyue Wang Jiqian\""
+}

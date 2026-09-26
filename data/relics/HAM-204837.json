@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-204837",
+ "name": "Jade 'Cong'",
+ "category": "玉器",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -3300,
+  -3300
+ ],
+ "era_text": "c. 3300 - c. 2000 BCE (?)",
+ "dimensions": "H. 8.5 x W. 7.1 x D. 7.1 cm (3 3/8 x 2 13/16 x 2 13/16 in.)\r\nWeight 664 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；c. 3300 - c. 2000 BCE (?)；Mottled olive-green and deep russet nephrite",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS38271_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204837",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.509"
+ },
+ "material": "Mottled olive-green and deep russet nephrite"
+}

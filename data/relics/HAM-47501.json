@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-47501",
+ "name": "Page from an album of Rice and Silk Culture",
+ "category": "书画",
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1644,
+  1911
+ ],
+ "era_text": "Qing dynasty, 1644-1911",
+ "dimensions": "33.5 x 31.9 x 4.4 cm (13 3/16 x 12 9/16 x 1 3/4 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；Qing dynasty, 1644-1911；Album of fourteen leaves; ink and color on silk",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:INV004860_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/47501",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1985.852.5"
+ },
+ "material": "Album of fourteen leaves; ink and color on silk"
+}

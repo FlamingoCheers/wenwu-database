@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-388077",
+ "name": "Study for Vermicular Calligraphy I",
+ "category": "书画",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  2023,
+  2023
+ ],
+ "era_text": "2023",
+ "dimensions": "91.4 x 53.3 cm (36 x 21 in.)",
+ "summary": "An asymmetrical rubbing of the inner bark of a dead tree occupies the center of a vertically oriented white page. The woodgrain texture is interrupted by meandering white lines created by boring insects.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:814596?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/388077",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2025.228"
+ },
+ "material": "Ink rubbing on Xuan paper"
+}

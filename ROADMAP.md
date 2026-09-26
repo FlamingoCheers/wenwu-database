@@ -55,7 +55,7 @@
 | 2.9 | 北京故宫精品子集 | `gpm_collector.py`（playwright 渲染 `/list?k=` 搜索卡片，不逆向加密接口；精选关键词表 `data/meta/gpm_keywords.json` 174 词；与 NPM 规范化名称比对只收台北没有的；©图不入库 `images=[]` 仅存跳转链接） | 🔄 已入 623 件 + 朝代推断 159 件；digicol 为动态限速（当日多次重试会续触发；Actions 海外出口不可达）→ **隔天单次运行** `python collectors/gpm_collector.py` 幂等续跑余下约 115 词；2026-09-29 单次续跑仍 10 连空（冷却期长于预期）→ **改为每 3 天单次重试一次** |
 | 2.5 | 图片本地化策略 | — | ⬜ |
 | 2.10 | 国际无 key 源批次接入 | 2026-09-26 全部实测放弃：耶鲁（api.artgallery.yale.edu 已退役；LUX 平台 YUAG 记录 0/60 带图且多为图书馆噪音）、菲茨威廉（api.fitzmuseum.cam.ac.uk 已退役，新站仅 HTML）、宾大（api.penn.museum 死、站内路径全 404）、普林斯顿（Cloudflare 拦截且无 API） | ⛔ 放弃（证据齐备） |
-| 2.11 | 需注册 key/账号的源（等用户） | 哈佛艺术博物馆 API、Europeana、巴黎赛努奇（GraphQL 需免费注册账号拿 token） | ⏸ |
+| 2.11 | 需注册 key/账号的源 | 用户提供哈佛 key + 巴黎 token（2026-09-29）：哈佛 API 实测 ES 字段语法 `q=culture:Chinese&hasimage=1` 全召回 5,396 → `harv_collector.py`（单阶段全字段、era_text 年份回填、collection 标准化）+ `harv-sync.yml`（月更）→ ✅ 5,392 件；巴黎赛努奇：token 鉴权通过（Bearer）但仅支持持久查询（queryId），站内 SPA/文档不暴露任何 queryId → ⛔ 放弃；Europeana 注册入口失效 → ⛔ | ✅ 哈佛 5,392；赛努奇/Europeana ⛔ |
 
 ---
 
@@ -63,7 +63,7 @@
 
 | # | 任务 | 状态 |
 |---|------|------|
-| 3.1 | needs_review 复核工作流（当前 9,635 条，主要为 desc_ai 待人工确认） | ⬜ |
+| 3.1 | needs_review 复核工作流（当前 11,066 条，主要为 desc_ai 待人工确认 + HAM 不详 1,431） | ⬜ |
 | 3.2 | 质量看板 / 数据统计页 | ⬜ |
 | 3.3 | Met 周更修复（熔断待查） | ⏸ |
 
@@ -71,6 +71,6 @@
 
 ## 执行节奏建议
 
-1. **当前**：2.10 五馆自主接入（耶鲁→普林斯顿→菲茨威廉→宾大→赛努奇）→ 2.9 GPM 隔天单次续跑（余 ~115 词）
-2. **下一步**：2.11（等 key）→ 3.1 needs_review 复核 → 3.3 Met 周更修复
+1. **当前**：2.11 完成（哈佛 ✅）→ 2.9 GPM 每 3 天单次重试 → 2.2 NPM 余朝代批次
+2. **下一步**：3.1 needs_review 复核（11,066 条）→ 3.3 Met 周更修复
 3. **穿插**：2.5 图片本地化策略

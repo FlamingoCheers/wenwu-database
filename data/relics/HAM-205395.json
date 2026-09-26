@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-205395",
+ "name": "Circular Dish",
+ "category": "瓷器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  12,
+  12
+ ],
+ "era_text": "12th-early 13th century",
+ "dimensions": "max.: H. 4.4 × Diam. 18.1 cm (1 3/4 × 7 1/8 in.)\r\nfoot: Diam. 6.2 cm (2 7/16 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；12th-early 13th century；Jun ware: light gray stoneware with robin's-egg blue glaze",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP08765_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/205395",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1942.185.73"
+ },
+ "material": "Jun ware: light gray stoneware with robin's-egg blue glaze"
+}

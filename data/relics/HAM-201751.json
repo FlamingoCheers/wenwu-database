@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-201751",
+ "name": "Portrait of Lu Zhi",
+ "category": "书画",
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  18,
+  18
+ ],
+ "era_text": "mid 18th to early 19th century",
+ "dimensions": "painting proper: H. 65.5 × W. 30 cm (25 13/16 × 11 13/16 in.)\r\noverall mounting including roller ends and suspension cord: H. 246.1 × W. 59.7 cm (96 7/8 × 23 1/2 in.)\r\n",
+ "summary": "哈佛艺术博物馆著录：Chinese；mid 18th to early 19th century；Hanging scroll; ink and color on paper",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:817234?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/201751",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1984.261"
+ },
+ "material": "Hanging scroll; ink and color on paper"
+}

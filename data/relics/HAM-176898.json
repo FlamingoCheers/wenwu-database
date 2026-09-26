@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-176898",
+ "name": "Large Cup with Vertical Sides",
+ "category": "瓷器",
+ "dynasty": "隋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  581,
+  618
+ ],
+ "era_text": "581-618",
+ "dimensions": "H. 9.8 x Diam. 12.5 cm (3 7/8 x 4 15/16 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；581-618；Probably Xing ware: white stoneware with pale celadon glaze. Probably from the Xing kilns at Neiqiu, Hebei province",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:787768?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/176898",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2000.255"
+ },
+ "material": "Probably Xing ware: white stoneware with pale celadon glaze. Probably from the Xing kilns at Neiqiu, Hebei province"
+}

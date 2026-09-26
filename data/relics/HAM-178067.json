@@ -1,0 +1,28 @@
+{
+ "relic_id": "HAM-178067",
+ "name": "One half of a copper coin from Khadduck",
+ "category": "钱币",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "era_text": null,
+ "dimensions": "1.1 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；Copper",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:huam:COIN19327_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/178067",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1970.122.1"
+ },
+ "material": "Copper"
+}

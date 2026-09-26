@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-204390",
+ "name": "Small Garment Hook in the Form of an Ox Head",
+ "category": "青铜器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -8,
+  -8
+ ],
+ "era_text": "8th cent. BCE - 3rd cent. BCE",
+ "dimensions": "3.8 x 2.1 x 1.8 cm (1 1/2 x 13/16 x 11/16 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；8th cent. BCE - 3rd cent. BCE；Cast bronze",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:49235_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204390",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.52.63"
+ },
+ "material": "Cast bronze"
+}

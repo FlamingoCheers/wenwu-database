@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-205411",
+ "name": "Small 'Meiping' Bottle",
+ "category": "瓷器",
+ "dynasty": "元",
+ "dynasty_confidence": "high",
+ "year_range": [
+  12,
+  12
+ ],
+ "era_text": "12th-14th century",
+ "dimensions": "max.: H. 13 × Diam. 7.2 cm (5 1/8 × 2 13/16 in.)\r\nmouth: Diam. 1.9 cm (3/4 in.)\r\nbase: Diam. 4.1 cm (1 5/8 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；12th-14th century；\"Soft Jun\" ware: light gray stoneware with thick, crackled robin's-egg blue glaze",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP08761_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/205411",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1942.185.77"
+ },
+ "material": "\"Soft Jun\" ware: light gray stoneware with thick, crackled robin's-egg blue glaze"
+}

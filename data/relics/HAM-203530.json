@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-203530",
+ "name": "Maitreya's Paradise",
+ "category": "书画",
+ "dynasty": "五代十国",
+ "dynasty_confidence": "high",
+ "year_range": [
+  945,
+  945
+ ],
+ "era_text": "945 CE",
+ "dimensions": "H. 175 x W. 115 cm (68 7/8 x 45 1/4 in.)\r\n",
+ "summary": "哈佛艺术博物馆著录：Chinese；945 CE；Ink and color on ramie.  Reportedly retrieved from Dunhuang, Gansu province.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:DDC109357_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/203530",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.54.1"
+ },
+ "material": "Ink and color on ramie.  Reportedly retrieved from Dunhuang, Gansu province."
+}

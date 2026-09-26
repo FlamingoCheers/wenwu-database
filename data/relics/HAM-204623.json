@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-204623",
+ "name": "Cheekpieces for a Horse's Harness (One of Four)",
+ "category": "青铜器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -11,
+  -11
+ ],
+ "era_text": "11th-10th century BCE",
+ "dimensions": "Diam. 9.6 x Thickness 2.7 cm (3 3/4 x 1 1/16 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；11th-10th century BCE；Cast bronze",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:51077_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204623",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.52.27.A"
+ },
+ "material": "Cast bronze"
+}

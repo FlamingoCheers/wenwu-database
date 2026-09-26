@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-204036",
+ "name": "Miniature \"Zhi\" or \"Zun\" Form Vessel",
+ "category": "青铜器",
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  14,
+  14
+ ],
+ "era_text": "late 14th-mid 17th century",
+ "dimensions": null,
+ "summary": "哈佛艺术博物馆著录：Chinese；late 14th-mid 17th century；Cast bronze",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP09229_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204036",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.55.9"
+ },
+ "material": "Cast bronze"
+}

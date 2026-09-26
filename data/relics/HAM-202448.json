@@ -1,0 +1,28 @@
+{
+ "relic_id": "HAM-202448",
+ "name": "Pointed Fragment from Object of Unknown Type",
+ "category": "青铜器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "era_text": "date unknown",
+ "dimensions": "L. 2.5 cm (1 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；date unknown；Metal, probably iron, possibly bronze",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP09252_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/202448",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1978.561"
+ },
+ "material": "Metal, probably iron, possibly bronze"
+}

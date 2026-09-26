@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-201668",
+ "name": "Adze with polished surface and striations",
+ "category": "杂器",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -3,
+  -3
+ ],
+ "era_text": "3rd millennium BCE",
+ "dimensions": "8.8 x 4.2 x 2.9 cm (3 7/16 x 1 5/8 x 1 1/8 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；3rd millennium BCE；Stone",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP13937_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/201668",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1984.144"
+ },
+ "material": "Stone"
+}

@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-176366",
+ "name": "Granary jar",
+ "category": "瓷器",
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -1,
+  -1
+ ],
+ "era_text": "1st century BCE-1st century CE",
+ "dimensions": "H. 34.2 x Diam. 24.6 cm (13 7/16 x 9 11/16 in.)",
+ "summary": "Oblong vessel in the shape of a miniature granary with circular opening at the top, domed shoulders, and sides tapering inward to a flat base elevated on three short cabriole legs; four evenly spaced pairs of notched bands raised in relief encircle the body; a row of small concentric circles impressed between the upper two bands; gray earthenware with incised and impressed decoration, lightly burnished surfaces.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00129_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/176366",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.165"
+ },
+ "material": "Gray stoneware with incised and impressed decoration"
+}

@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-201943",
+ "name": "Fragment of Adze with thick trough",
+ "category": "杂器",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -3,
+  -3
+ ],
+ "era_text": "3rd millennium BCE",
+ "dimensions": "6.7 x 4 x 3.8 cm (2 5/8 x 1 9/16 x 1 1/2 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；3rd millennium BCE；Stone",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP13932_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/201943",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1984.148"
+ },
+ "material": "Stone"
+}

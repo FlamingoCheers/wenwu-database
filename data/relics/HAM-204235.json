@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-204235",
+ "name": "Stone Chime (?)",
+ "category": "杂器",
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  19,
+  19
+ ],
+ "era_text": "late 19th cent. - early 20th cent.",
+ "dimensions": "18.3 x 4.2 x 1 cm (7 3/16 x 1 5/8 x 3/8 in.)\r\nunspecified: 178 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；late 19th cent. - early 20th cent.；Light brown and russet, dimly translucent stone",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS49313_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204235",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.605"
+ },
+ "material": "Light brown and russet, dimly translucent stone"
+}

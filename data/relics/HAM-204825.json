@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-204825",
+ "name": "Jade Collared Disk",
+ "category": "玉器",
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -12,
+  -12
+ ],
+ "era_text": "12th cent. BCE - 11th cent. BCE",
+ "dimensions": "0.3 x 1.3 x 9.6 cm (1/8 x 1/2 x 3 3/4 in.)\r\nunspecified: 54 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；12th cent. BCE - 11th cent. BCE；Greenish black stone with light gray streaks on one side",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:763725?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204825",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.534"
+ },
+ "material": "Greenish black stone with light gray streaks on one side"
+}

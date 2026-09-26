@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-352483",
+ "name": "Roundel: Bear",
+ "category": "青铜器",
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -300,
+  -100
+ ],
+ "era_text": "300-100 BCE",
+ "dimensions": "3.3 x 3.5 cm (1 5/16 x 1 3/8 in.)",
+ "summary": "Horse harness ornament in the shape of a roundel with the depiction of a bear with protruding tongue; the paws are arranged below the frontal head and the animal's muzzle forms the roundel's center. The rounded ears are typical for representations of bears of the Western Han period. The mercury gilding suggests manufacture in China rather than among the tribes to the north, where the bear motif originated. The roundel is framed by a hatched border. It is hollow below and attached to a square, ca",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:761872?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/352483",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2016.200"
+ },
+ "material": "Leaded bronze, mercury gilded"
+}

@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-174785",
+ "name": "Tripod ewer (gui)",
+ "category": "瓷器",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -4300,
+  -2600
+ ],
+ "era_text": "Possibly Dawenkou culture, c. 4300-2600 BCE",
+ "dimensions": "H. 16.5 x W. 10.4 x D. 9.2 cm (6 1/2 x 4 1/8 x 3 5/8 in.)",
+ "summary": "Gui-type tripod ewer with three pouched, hollow legs resting on small pointed tips, single strap handle, and trefoil spout; gray earthenware. Neolithic culture uncertain, possibly Dawenkou. From the middle or lower Yellow River valley regions.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00062_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/174785",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.90"
+ },
+ "material": "Earthenware"
+}

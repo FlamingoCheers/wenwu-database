@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-54471",
+ "name": "Jar",
+ "category": "瓷器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -9,
+  -9
+ ],
+ "era_text": "9th-8th century BCE",
+ "dimensions": "H. 22.2 x Diam. 19.2 cm (8 3/4 x 7 9/16 in.)",
+ "summary": "Jar with articulated lip, straight sides, and flat base; light gray stoneware with thin olive-green ash glaze over incised and applique decoration. From Jiangsu or Zhejiang province.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP09331_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/54471",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.129"
+ },
+ "material": "Proto-porcelain: stoneware with thin ash glaze"
+}

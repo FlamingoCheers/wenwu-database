@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-189163",
+ "name": "Ladle",
+ "category": "瓷器",
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1,
+  1
+ ],
+ "era_text": "early 1st-early 3rd century CE",
+ "dimensions": "H. 12.5 x L. 15.2 x W. 6.6 cm (4 15/16 x 6 x 2 5/8 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；early 1st-early 3rd century CE；Gray earthenware with traces of cold painted pigment",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00237_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/189163",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.189"
+ },
+ "material": "Gray earthenware with traces of cold painted pigment"
+}

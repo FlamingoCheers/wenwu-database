@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-209768",
+ "name": "The Guardian of the Valley",
+ "category": "书画",
+ "dynasty": "元",
+ "dynasty_confidence": "high",
+ "year_range": [
+  14,
+  14
+ ],
+ "era_text": "first quarter 14th century",
+ "dimensions": "painting proper: H. 169.9 x W. 96.9 cm (66 7/8 x 38 1/8 in.)\r\nmounting, including cord and roller ends: H. 249.6 x W. 124.8 cm (98 1/4 x 49 1/8 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；first quarter 14th century；Hanging scroll; ink on silk; with artist signature and seals",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:755713?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/209768",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1923.211"
+ },
+ "material": "Hanging scroll; ink on silk; with artist signature and seals"
+}

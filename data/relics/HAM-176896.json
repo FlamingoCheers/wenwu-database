@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-176896",
+ "name": "Footed cup",
+ "category": "瓷器",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -2600,
+  -2000
+ ],
+ "era_text": "c. 2600-2000 BCE",
+ "dimensions": "H. 11.2 x W. 10.3 (across handles) x Diam. 10.1 cm (4 7/16 x 4 1/16 x 4 in.)",
+ "summary": "Small cup raised on a short circular pedestal foot with one vertically oriented loop handle and a smaller horizontally oriented loop handle on the opposite side; lightly burnished blackened earthenware with incised crosshatched decoration and applique handles. Longshan culture; from Shandong province.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00068_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/176896",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.96"
+ },
+ "material": "Black earthenware"
+}

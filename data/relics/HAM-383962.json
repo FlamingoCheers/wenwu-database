@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-383962",
+ "name": "Golden Lion",
+ "category": "书画",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1986,
+  1986
+ ],
+ "era_text": "1986",
+ "dimensions": "image: H. 19 × W. 13 cm (7 1/2 × 5 1/8 in.)\r\npaper: H. 32 × W. 23 cm (12 5/8 × 9 1/16 in.)",
+ "summary": "The coarsely cut woodblock print in black ink is enclosed within vertically oriented rectangle. The print depicts a figure looking up to a big cat, on which another smaller figure is riding. There is a head of a donkey to the right of the main figure. Chinese characters occupy lower half of the print. \r\n",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:802331?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/383962",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2024.104"
+ },
+ "material": "Woodblock print; ink on pi zhi bast paper"
+}

@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-205278",
+ "name": "Trapezoidal Jade Knife",
+ "category": "玉器",
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -2000,
+  -2000
+ ],
+ "era_text": "Neolithic or Shang period, c. 2000 - c. 1600 BCE",
+ "dimensions": "H. 42.2 x  W. 6 x Thickness 0.8 cm (16 5/8 x 2 3/8 x 5/16 in.)\r\nWeight 428 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；Neolithic or Shang period, c. 2000 - c. 1600 BCE；Light brown, highly translucent stone with dark brown markings",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:51559_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/205278",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.50"
+ },
+ "material": "Light brown, highly translucent stone with dark brown markings"
+}

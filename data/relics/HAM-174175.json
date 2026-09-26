@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-174175",
+ "name": "Double-handled jar",
+ "category": "瓷器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -1300,
+  -500
+ ],
+ "era_text": "c. 1300-500 BCE",
+ "dimensions": "H. 40 x Diam. 33.2 cm (15 3/4 x 13 1/16 in.)",
+ "summary": "Large jar with curved, “saddle-shaped” mouth with oval cross-section, broad shoulders, sides tapering inward to a small, flat base, and two strap handles attached from rim to top of shoulders; red earthenware with dark gray irregular markings from firing. Siwa culture. From the upper Yellow River valley region; Gansu of Shaanxi province.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:771861?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/174175",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.69"
+ },
+ "material": "Earthenware"
+}

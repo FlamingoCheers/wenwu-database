@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-204082",
+ "name": "Covered Circular Box (One of a Pair)",
+ "category": "青铜器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -475,
+  -475
+ ],
+ "era_text": "475 BCE - 221 BCE",
+ "dimensions": "7 x 9.2 cm (2 3/4 x 3 5/8 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；475 BCE - 221 BCE；Silver with parcel gilding; with inscription incised on base and cover",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:71085_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204082",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.52.76.A"
+ },
+ "material": "Silver with parcel gilding; with inscription incised on base and cover"
+}

@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-203256",
+ "name": "Fighting Mynah Birds",
+ "category": "书画",
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  14,
+  14
+ ],
+ "era_text": "14th-17th century",
+ "dimensions": "H. 36.8 x W. 48.9 cm (14 1/2 x 19 1/4 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；14th-17th century；Ink and color on silk",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS44191_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/203256",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1952.27"
+ },
+ "material": "Ink and color on silk"
+}

@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-203262",
+ "name": "Scholars in a Mountain Landscape",
+ "category": "书画",
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1,
+  1
+ ],
+ "era_text": "1st half 16th century",
+ "dimensions": "160 x 99.1 cm (63 x 39 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；1st half 16th century；Hanging scroll; ink and light colors on silk, with a spurious signature reading \"Hsia Kuei\"",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS80777_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/203262",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1958.7"
+ },
+ "material": "Hanging scroll; ink and light colors on silk, with a spurious signature reading \"Hsia Kuei\""
+}

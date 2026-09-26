@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-182460",
+ "name": "Stem cup",
+ "category": "瓷器",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -4300,
+  -2600
+ ],
+ "era_text": "c. 4300-2600 BCE",
+ "dimensions": "H. 23.4 x Diam. 8.8 cm (9 3/16 x 3 7/16 in.)",
+ "summary": "Waisted cup with flared lip supported on an elongated hollow stem perforated with alternating columns of circular and triangular openings; thinly potted, lightly burnished blackened earthenware. Dawenkou culture. From the middle and lower Yellow River valley regions; Shandong, northern Jiangsu, northern Anhui, and eastern Henan provinces.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:771805?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/182460",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.85"
+ },
+ "material": "Black earthenware"
+}

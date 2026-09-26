@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-204605",
+ "name": "Jade Mace Head (?)",
+ "category": "玉器",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -7000,
+  -7000
+ ],
+ "era_text": "c. 7000 BCE",
+ "dimensions": "H. 16.5 x W. 11 x D. 3.8 cm (6 1/2 x 4 5/16 x 1 1/2 in.)\r\nWeight 630 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；c. 7000 BCE；Serpentine",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:763617?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204605",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.635"
+ },
+ "material": "Serpentine"
+}

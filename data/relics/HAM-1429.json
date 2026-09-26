@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-1429",
+ "name": "What a Glorious Land!",
+ "category": "书画",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  2005,
+  2005
+ ],
+ "era_text": "2005",
+ "dimensions": "entire painting, including title: H. 17 x W. 300 cm (6 11/16 x 118 1/8 in.)\r\nmounting: H. 17.78 cm (7 in.)",
+ "summary": "This handscroll depicts a range of tree-covered mountains shrouded in mist. A title written by the artist precedes the painting; the title is a line from a 1936 poem by Mao Zedong and reads \"Jiangshan ruci dou jiao\". It can be translated as \"What a Glorious Land!\", though it is also translated as \"This land, so rich in beauty.\"",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:79762_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/1429",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.13"
+ },
+ "material": "Handscroll; ink on paper; with signature in clerical script (lishu) reading \"Li Junyi ling wu\" (Li Junyi '05); with colophon by Liu Guosong (b. 1932) dated 2006"
+}

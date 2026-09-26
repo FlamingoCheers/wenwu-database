@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-198023",
+ "name": "Globular jar",
+ "category": "瓷器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -5,
+  -5
+ ],
+ "era_text": "5th-3rd century BCE",
+ "dimensions": "H. 37.9 x Diam. 41 cm (14 15/16 x 16 1/8 in.)",
+ "summary": "Large globular jar with short neck, broad shoulders, and lower portion tapering inward to a flat circular base; two bands of crosshatched decor encircle the shoulders and midsection; light gray earthenware with impressed decoration and lightly burnished surfaces.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00126_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/198023",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.142"
+ },
+ "material": "Gray earthenware"
+}

@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-209785",
+ "name": "Narcissus, Plum Blossom, Bamboo, and Bird",
+ "category": "书画",
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1880,
+  1880
+ ],
+ "era_text": "1880",
+ "dimensions": "painting proper: 29.9 x 32.5 cm (11 3/4 x 12 13/16 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；1880；Album leaf; ink and color on paper",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:794545?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/209785",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1923.150.14"
+ },
+ "material": "Album leaf; ink and color on paper"
+}

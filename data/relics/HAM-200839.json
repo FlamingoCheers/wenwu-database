@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-200839",
+ "name": "Scholar's Knife (Xiao)",
+ "category": "杂器",
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -4,
+  -4
+ ],
+ "era_text": "late Zhou to Han dynasty, 4th century BCE-2nd century CE",
+ "dimensions": "L. 19.8 x W. 1.4 cm (7 13/16 x 9/16 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；late Zhou to Han dynasty, 4th century BCE-2nd century CE；Copper alloy",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS13382_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/200839",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1987.138"
+ },
+ "material": "Copper alloy"
+}

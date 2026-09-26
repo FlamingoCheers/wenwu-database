@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-201793",
+ "name": "Two Orchids",
+ "category": "书画",
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  18,
+  18
+ ],
+ "era_text": "late 18th-early 19th century",
+ "dimensions": "97.8 x 37.7 cm (38 1/2 x 14 13/16 in.)\r\nmounting: 185.4 x 61 cm (73 x 24 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；late 18th-early 19th century；Hanging scroll; ink on paper; with signature reading 'Banqiao' and with seals reading 'Zheng Xie zhi yin' and 'Er shi nian qian jiu Ban Qiao'",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS12676?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/201793",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1991.188"
+ },
+ "material": "Hanging scroll; ink on paper; with signature reading 'Banqiao' and with seals reading 'Zheng Xie zhi yin' and 'Er shi nian qian jiu Ban Qiao'"
+}

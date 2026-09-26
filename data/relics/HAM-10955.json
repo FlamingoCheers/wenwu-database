@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-10955",
+ "name": "Ornamental Stationery of the Ten Bamboo Studio (\"Shih-chu-chai chien-p'u\")",
+ "category": "书画",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1952,
+  1952
+ ],
+ "era_text": "1952",
+ "dimensions": "31.12 x 22.23 cm (12 1/4 x 8 3/4 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；1952；Ink on paper",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:INV026869_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/10955",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1984.544.2"
+ },
+ "material": "Ink on paper"
+}

@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-206667",
+ "name": "Scholar in a Lakeside Pavilion",
+ "category": "书画",
+ "dynasty": "明",
+ "dynasty_confidence": "high",
+ "year_range": [
+  15,
+  15
+ ],
+ "era_text": "15th-16th century",
+ "dimensions": "25.1 cm (9 7/8 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；15th-16th century；Album leaf; ink and light colors on silk",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS35287_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/206667",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1936.111"
+ },
+ "material": "Album leaf; ink and light colors on silk"
+}

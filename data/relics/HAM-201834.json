@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-201834",
+ "name": "Fragment of a Circular Dish",
+ "category": "瓷器",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -3,
+  -3
+ ],
+ "era_text": "3rd millennium BCE",
+ "dimensions": "4.3 x 18.1 cm (1 11/16 x 7 1/8 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；3rd millennium BCE；Gray earthenware",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP14028_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/201834",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1984.57"
+ },
+ "material": "Gray earthenware"
+}

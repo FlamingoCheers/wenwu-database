@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-204855",
+ "name": "Jade 'Huan' Disk",
+ "category": "玉器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -770,
+  -770
+ ],
+ "era_text": "770 BCE - 221 BCE (?)",
+ "dimensions": "0.2 x 10.2 cm (1/16 x 4 in.)\r\nunspecified: 36 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；770 BCE - 221 BCE (?)；Translucent light gray stone with brown markings",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS49536_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204855",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.522"
+ },
+ "material": "Translucent light gray stone with brown markings"
+}

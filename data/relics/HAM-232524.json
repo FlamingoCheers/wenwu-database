@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-232524",
+ "name": "Pair of Enamel Cufflinks",
+ "category": "青铜器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  19,
+  19
+ ],
+ "era_text": "19th century",
+ "dimensions": "2.86 cm diam. (1 1/8 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；19th century；Cloisonné plaque, gold-mounted",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS33204_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/232524",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1895.631.A-B"
+ },
+ "material": "Cloisonné plaque, gold-mounted"
+}

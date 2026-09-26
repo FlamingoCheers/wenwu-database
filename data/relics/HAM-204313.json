@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-204313",
+ "name": "Pigment Container",
+ "category": "青铜器",
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -14,
+  -14
+ ],
+ "era_text": "14th-11th century BCE",
+ "dimensions": "H. 16.4 x W. 14.3 x D. 19.8 cm (6 7/16 x 5 5/8 x 7 13/16 in.)\r\nWeight 1550.72 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；14th-11th century BCE；Cast bronze; with an inscription cast behind the animal's neck",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:51208_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204313",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.52.97"
+ },
+ "material": "Cast bronze; with an inscription cast behind the animal's neck"
+}

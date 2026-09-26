@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-204870",
+ "name": "Jade 'Bi' Disk",
+ "category": "玉器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -11,
+  -11
+ ],
+ "era_text": "11th cent. BCE - 771 BCE",
+ "dimensions": "0.9 x 11.2 cm (3/8 x 4 7/16 in.)\r\nunspecified: 205 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；11th cent. BCE - 771 BCE；Strongly translucent, apple-green nephrite with brown streaks and with opaque, light brown areas where calcification has taken place",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:51454_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204870",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.515"
+ },
+ "material": "Strongly translucent, apple-green nephrite with brown streaks and with opaque, light brown areas where calcification has taken place"
+}

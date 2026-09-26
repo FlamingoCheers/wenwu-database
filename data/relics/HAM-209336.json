@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-209336",
+ "name": "Female Donor (forgery)",
+ "category": "书画",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  702,
+  702
+ ],
+ "era_text": "702",
+ "dimensions": null,
+ "summary": "哈佛艺术博物馆著录：Chinese；702；ink and colors on paper",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:INV017378_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/209336",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1932.18"
+ },
+ "material": "ink and colors on paper"
+}

@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-176360",
+ "name": "Large dome shaped vessel",
+ "category": "瓷器",
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  2,
+  2
+ ],
+ "era_text": "2nd-3rd century CE",
+ "dimensions": "H. 22.7 x Diam. 31.5 cm (8 15/16 x 12 3/8 in.)",
+ "summary": "Dome-shaped vessel with flared mouth, short cylindrical neck, and broad flat base; incised decoration of two fish between linear borders made up of multiple short arcs lined up in a chain, and with two large characters reading “Da Ji” (great good fortune) cut in the same technique on the side opposite the fish; the mouth rim bordered with same pattern of short arcs lines; gray earthenware with incised decoration.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00132_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/176360",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.181"
+ },
+ "material": "Gray earthenware with incised decoration"
+}

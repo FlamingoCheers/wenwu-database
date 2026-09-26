@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-54633",
+ "name": "Foliate Cupstand",
+ "category": "青铜器",
+ "dynasty": "宋",
+ "dynasty_confidence": "high",
+ "year_range": [
+  12,
+  12
+ ],
+ "era_text": "12th-13th century",
+ "dimensions": "H. 5.5 × Diam. 14.7 cm (2 3/16 × 5 13/16 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；12th-13th century；Brass (or possibly gilt bronze)",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:INV013126_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/54633",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2004.162.2"
+ },
+ "material": "Brass (or possibly gilt bronze)"
+}

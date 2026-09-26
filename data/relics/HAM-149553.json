@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-149553",
+ "name": "Pouring vessel",
+ "category": "瓷器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -2000,
+  -1600
+ ],
+ "era_text": "c. 2000-1600 BCE",
+ "dimensions": "H. 27.8 x W. (across vessel and lower handle) 23.6 x Diam. 20.2 cm (10 15/16 x 9 5/16 x 7 15/16 in.)",
+ "summary": "Ovoid vessel with cylindrical neck, sloping shoulders, wide body, and lower portion tapering inward to a small, flat base; one strap handle attached to rim and shoulder, one lug handle on opposite side at waist; buff earthenware with geometric decoration painted in black and burgundy slips on neck and upper body. Siba culture. From the upper Yellow River valley region, probably Gansu province.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00040_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/149553",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.46"
+ },
+ "material": "Earthenware with bichrome slip-painted decoration"
+}

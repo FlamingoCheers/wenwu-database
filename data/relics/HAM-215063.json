@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-215063",
+ "name": "Roundel with Dragon and Phoenix Decor",
+ "category": "织绣",
+ "dynasty": "清",
+ "dynasty_confidence": "high",
+ "year_range": [
+  19,
+  19
+ ],
+ "era_text": "19th century",
+ "dimensions": null,
+ "summary": "哈佛艺术博物馆著录：Chinese；19th century；Embroidered silk",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP06523_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/215063",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1919.240"
+ },
+ "material": "Embroidered silk"
+}

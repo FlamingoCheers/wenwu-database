@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-174788",
+ "name": "Tripod cauldron (ding)",
+ "category": "瓷器",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -4300,
+  -2600
+ ],
+ "era_text": "c. 4300-2600 BCE",
+ "dimensions": "max dimensions: H. 13.7 x Diam. 12.2 cm (5 3/8 x 4 13/16 in.)",
+ "summary": "Small cauldron with flared mouth, crimped waist, and three flat legs; red earthenware. Dawenkou culture. From the middle and lower Yellow River valley regions; Shandong, northern Jiangsu, northern Anhui, and eastern Henan provinces.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00088_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/174788",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.73"
+ },
+ "material": "Earthenware"
+}

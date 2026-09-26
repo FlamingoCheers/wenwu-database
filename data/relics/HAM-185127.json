@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-185127",
+ "name": "Ovoid Jar",
+ "category": "瓷器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -4,
+  -4
+ ],
+ "era_text": "4th century BCE",
+ "dimensions": "H. 33.6 x Diam. 24.7 cm (13 1/4 x 9 3/4 in.)",
+ "summary": "Tall jar of elongated ovoid form with constricted neck and slightly flared mouth, the sides tapering inward to a flat base; medium gray earthenware with impressed decoration.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00111_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/185127",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.150"
+ },
+ "material": "Gray earthenware"
+}

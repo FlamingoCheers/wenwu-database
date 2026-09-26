@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-206204",
+ "name": "Copy of an Eighth-century Wall Painting Fragment from Tun-huang Representing a Bodhisattva",
+ "category": "书画",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1933,
+  1933
+ ],
+ "era_text": "1933",
+ "dimensions": "H. 41 x W. 32.1 cm (16 1/8 x 12 5/8 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；1933；simulated wall-painting fragment: pigments on specially prepared cardboard",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:INV016044_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/206204",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1938.74"
+ },
+ "material": "simulated wall-painting fragment: pigments on specially prepared cardboard"
+}

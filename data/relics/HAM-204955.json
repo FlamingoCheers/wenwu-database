@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-204955",
+ "name": "Slender Jade Axe",
+ "category": "玉器",
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -2000,
+  -2000
+ ],
+ "era_text": "c. 2000 BCE - c. 1400 BCE",
+ "dimensions": "H. 13.7 x W. 5.6 x Thickness 0.9 cm (5 3/8 x 2 3/16 x 3/8 in.)\r\nWeight 151 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；c. 2000 BCE - c. 1400 BCE；Fine-grained, buff and dark ocher-colored stone",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:51413_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/204955",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.90"
+ },
+ "material": "Fine-grained, buff and dark ocher-colored stone"
+}

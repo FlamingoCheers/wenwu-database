@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-178617",
+ "name": "Covered Bowl",
+ "category": "瓷器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -7,
+  -7
+ ],
+ "era_text": "7th-5th century BCE",
+ "dimensions": "H. 5 x W. (across handle) 11.5 x Diam. 11.1 cm (1 15/16 x 4 1/2 x 4 3/8 in.)",
+ "summary": "Small compressed bowl with three tab-handles evenly spaced around the shoulder; body tapers slightly inward to flat base; separate cover is slightly domed with small knob handle at the center; light gray stoneware with impressed fabric-weave decoration on the bowl’s body; traces of natural kiln gloss on top of cover.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00104_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/178617",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.138.A-B"
+ },
+ "material": "Stoneware with impressed decoration"
+}

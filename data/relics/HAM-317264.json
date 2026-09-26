@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-317264",
+ "name": "Jar with brown dots",
+ "category": "瓷器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  4,
+  4
+ ],
+ "era_text": "4th century",
+ "dimensions": "H. 8.2 x Diam. 11.9 cm (3 1/4 x 4 11/16 in.)",
+ "summary": "Small jar with rounded sides, short neck, rolled mouth rim, four squared lug handles evenly spaced around the shoulder; gray stoneware with olive-green glaze; iron-brown touched on over the glaze in irregularly shaped dots of different sizes around the body, on the lug handles, between the lug handles, and around the rim; glaze stops short of the foot. From the Yue kilns in the Shaoxing area of northeastern Zhejiang province.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:INV143657_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/317264",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.219"
+ },
+ "material": "Yue ware: stoneware with celadon glaze and overglaze decoration"
+}

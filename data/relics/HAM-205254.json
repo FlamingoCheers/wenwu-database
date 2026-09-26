@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-205254",
+ "name": "Jade Scepter",
+ "category": "玉器",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -2000,
+  -2000
+ ],
+ "era_text": "Longshan or Erlitou culture, c. 2000 BCE - c. 1700 BCE",
+ "dimensions": "L. 37.2 x H. 6.2 x Thickness 0.7 cm (14 5/8 x 2 7/16 x 1/4 in.)\r\nunspecified: 302 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；Longshan or Erlitou culture, c. 2000 BCE - c. 1700 BCE；Black nephrite",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:huam:DDC114233_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/205254",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.43"
+ },
+ "material": "Black nephrite"
+}

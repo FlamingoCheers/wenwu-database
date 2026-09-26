@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-176956",
+ "name": "Flat backed jar",
+ "category": "瓷器",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -4300,
+  -2600
+ ],
+ "era_text": "c. 4300-2600 BCE",
+ "dimensions": "H. 22.8 x W. 222.5 x D. 18.4 cm (9 x 87 5/8 x 7 1/4 in.)",
+ "summary": "Jar with flared mouth, short, cylindrical neck, ovoid body flattened on one side, two loop handles on the shoulders, bordering the flattened back, pointed tab on the front, and flat base; medium gray earthenware with applique elements. Dawenkou culture. From the middle and lower Yellow River valley regions; Shandong, northern Jiangsu, northern Anhui, and eastern Henan provinces.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00087_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/176956",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.80"
+ },
+ "material": "Earthenware"
+}

@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-348902",
+ "name": "258 Fake",
+ "category": "历史影像",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  2011,
+  2011
+ ],
+ "era_text": "2011",
+ "dimensions": "Dimensions vary with installation",
+ "summary": "哈佛艺术博物馆著录：Chinese；2011；7677 photographs (2003-2011), 12 monitors",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:757318?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/348902",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2014.9"
+ },
+ "material": "7677 photographs (2003-2011), 12 monitors"
+}

@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-205022",
+ "name": "Jade Crested Bird",
+ "category": "玉器",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  -1100,
+  -771
+ ],
+ "era_text": "c. 1100 - 771 BCE",
+ "dimensions": "H. 3.4 x W. 4.6 x D. 0.3 cm (1 5/16 x 1 13/16 x 1/8 in.)\r\nWeight 6 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；c. 1100 - 771 BCE；Translucent light gray nephrite with minute black speckles",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS60103_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/205022",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.177"
+ },
+ "material": "Translucent light gray nephrite with minute black speckles"
+}

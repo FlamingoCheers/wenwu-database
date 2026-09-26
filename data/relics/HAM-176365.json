@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-176365",
+ "name": "Wide-bodied jar",
+ "category": "瓷器",
+ "dynasty": "汉",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -3,
+  -3
+ ],
+ "era_text": "3rd-1st century BCE",
+ "dimensions": "H. 42.2 x Diam. 38.2 cm (16 5/8 x 15 1/16 in.)",
+ "summary": "Wide-bodied jar with slightly flared mouth, waisted cylindrical neck, broad shoulders, and lower portion tapering inward to a splayed circular pedestal foot; raised ridges encircling the neck and foot; incised horizontal lines encircling the body; gray stoneware with blacked surface, the jar decorated with cold-painted red pigment in imitation of lacquerware.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00130_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/176365",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.169"
+ },
+ "material": "Gray earthenware with cold-painted pigment"
+}

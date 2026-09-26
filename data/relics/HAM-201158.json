@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-201158",
+ "name": "A HAMLET IN THE MOUNTAINS, AFTER A YUAN ARTIST",
+ "category": "书画",
+ "dynasty": "元",
+ "dynasty_confidence": "high",
+ "year_range": [
+  1610,
+  1610
+ ],
+ "era_text": "1610",
+ "dimensions": "H. 17 x W. 52 cm (6 11/16 x 20 1/2 in.)",
+ "summary": "哈佛艺术博物馆著录：Chinese；1610；Ink on paper",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS15781_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/201158",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1984.773"
+ },
+ "material": "Ink on paper"
+}

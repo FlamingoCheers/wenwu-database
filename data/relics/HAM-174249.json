@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-174249",
+ "name": "Wide-mouthed jar",
+ "category": "瓷器",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -3300,
+  -2200
+ ],
+ "era_text": "c. 3300-2200 BCE",
+ "dimensions": "H. 9.5 x W. (across handles) 11.4 x Diam. 10 cm (3 3/4 x 4 1/2 x 3 15/16 in.)",
+ "summary": "Small wide-mouthed jar with globular body, short neck, flared mouth rim, circular pedestal base, and two lug handles at the shoulders; medium gray earthenware with lightly burnished and darkened surface. Liangzhu culture. From the lower Yangzi River region; Jiangsu or Zhejiang province.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00061_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/174249",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.117"
+ },
+ "material": "Gray earthenware"
+}

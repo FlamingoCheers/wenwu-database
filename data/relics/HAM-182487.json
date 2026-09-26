@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-182487",
+ "name": "Tripod jar",
+ "category": "瓷器",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -6500,
+  -5000
+ ],
+ "era_text": "c. 6500-5000 BCE",
+ "dimensions": "H. 20.1 x W. (across handles) 15.4 x Diam. 13.6 cm (7 15/16 x 6 1/16 x 5 3/8 in.)",
+ "summary": "Ovoid jar with slightly flared neck and mouth, two loop handles at the shoulders, and three small, conical feet; red earthenware with dark gray irregular markings from firing. Peiligang culture. From the middle Yellow River valley region: Henan province.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:CARP00029_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/182487",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2006.170.72"
+ },
+ "material": "Earthenware"
+}

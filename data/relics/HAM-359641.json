@@ -1,0 +1,31 @@
+{
+ "relic_id": "HAM-359641",
+ "name": "Mountainscape",
+ "category": "书画",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": [
+  1959,
+  1959
+ ],
+ "era_text": "1959",
+ "dimensions": "image: H. 40.5 × W. 24 cm (15 15/16 × 9 7/16 in.)\r\npaper: H. 45.4 × W. 28.3 cm (17 7/8 × 11 1/8 in.)",
+ "summary": "A terraced field on a mountain",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:785219?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/359641",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2017.198"
+ },
+ "material": "Woodblock print; ink and color on paper"
+}

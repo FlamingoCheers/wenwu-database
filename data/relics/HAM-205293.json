@@ -1,0 +1,30 @@
+{
+ "relic_id": "HAM-205293",
+ "name": "Jade Praying Mantis",
+ "category": "玉器",
+ "dynasty": "商",
+ "dynasty_confidence": "high",
+ "year_range": [
+  -16,
+  -16
+ ],
+ "era_text": "16th cent. BCE - 8th cent. BCE",
+ "dimensions": "4.5 x 1 x 0.4 cm (1 3/4 x 3/8 x 3/16 in.)\r\nunspecified: 3 g",
+ "summary": "哈佛艺术博物馆著录：Chinese；16th cent. BCE - 8th cent. BCE；Translucent light green nephrite, partly decomposed, turning warm, opaque white",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS49900_dynmc?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/205293",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "1943.50.184"
+ },
+ "material": "Translucent light green nephrite, partly decomposed, turning warm, opaque white"
+}

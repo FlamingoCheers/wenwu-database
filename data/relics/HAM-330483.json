@@ -1,0 +1,28 @@
+{
+ "relic_id": "HAM-330483",
+ "name": "Flying Waterfall",
+ "category": "书画",
+ "dynasty": "不详",
+ "dynasty_confidence": "low",
+ "year_range": null,
+ "era_text": "Undated",
+ "dimensions": "painting proper: 120.1 x 59.5 cm (47 5/16 x 23 7/16 in.)\r\nmounting: 136 x 69.9 cm (53 9/16 x 27 1/2 in.)",
+ "summary": "A landscape painting executed in ink and light blue color on paper in vertical scroll format.  Inscribed with a title and signed in the upper right corner.",
+ "images": [
+  {
+   "url": "https://nrs.harvard.edu/urn-3:HUAM:769908?width=800",
+   "license": "Harvard Art Museums 开放影像",
+   "credit": "© President and Fellows of Harvard College"
+  }
+ ],
+ "source_url": "https://harvardartmuseums.org/collections/object/330483",
+ "license": "Harvard Art Museums 开放影像",
+ "fetched_at": "2026-09-26",
+ "needs_review": true,
+ "collection": {
+  "museum": "哈佛艺术博物馆",
+  "region": "北美洲",
+  "inventory_no": "2016.233"
+ },
+ "material": "Vertical wall scroll; ink and color on paper"
+}
