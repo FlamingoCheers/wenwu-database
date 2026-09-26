@@ -1,0 +1,29 @@
+name: probe-intl2
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Probe round 2
+        run: |
+          set +e
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) wenwu-database/1.0 (open data aggregator)"
+          p() { echo "=== $1 ==="; curl -s -m 25 -A "$UA" -w "\n[HTTP %{http_code}]" "$2" | head -c ${3:-600}; echo; sleep 1; }
+          p fitz-data-obj  "https://data.fitzmuseum.cam.ac.uk/id/object/52418" "500"
+          p fitz-data-api  "https://data.fitzmuseum.cam.ac.uk/api/v1/objects?_rows=2" "400"
+          p fitz-site      "https://fitzmuseum.cam.ac.uk/objects?q=china" "300"
+          p penn-obj-srch  "https://www.penn.museum/collections/objects/search?q=china" "400"
+          p penn-srch-json "https://www.penn.museum/collections/search?q=china&format=json" "300"
+          p penn-api-v1    "https://www.penn.museum/collections/api/v1/objects?q=china" "300"
+          p penn-oai       "https://www.penn.museum/oai?verb=Identify" "300"
+          p princ-api-v2   "https://artmuseum.princeton.edu/api/v2/objects?size=2" "300"
+          p princ-coll-api "https://artmuseum.princeton.edu/api/collections?search=china" "300"
+          p princ-json-r   "https://artmuseum.princeton.edu/search/collections/json?all=true" "300"
+          p lux-sanity     "https://lux.collections.yale.edu/api/search/item?q=%7B%22text%22%3A%22qing%20dynasty%22%2C%22_lang%22%3A%22en%22%7D&page=1&pageLength=2" "400"
