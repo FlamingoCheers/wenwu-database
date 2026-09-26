@@ -2,9 +2,12 @@
  "relic_id": "NMC-27794",
  "name": "大观通宝",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
  "category": "钱币",
  "material": null,
  "dimensions": null,
@@ -33,6 +36,6 @@
  "raw_ref": "raw/nmc/detail_27794.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18",
+ "updated_at": "2026-09-26",
  "desc_ai": true
 }

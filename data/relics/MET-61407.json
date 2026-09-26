@@ -2,8 +2,8 @@
  "relic_id": "MET-61407",
  "name": "Mirror in the style of the Tang dynasty (618-907)",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
  "year_range": [
   1800,
   1999
@@ -39,6 +39,6 @@
  "raw_ref": "raw/met/61407.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08",
+ "updated_at": "2026-09-26",
  "desc_ai": true
 }

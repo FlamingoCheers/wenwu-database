@@ -2,8 +2,11 @@
  "relic_id": "VA-O1650680",
  "name": "Blue-Green Curtain",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "明",
+ "year_range": [
+  1368,
+  1644
+ ],
  "category": "瓷器",
  "material": "earthenware",
  "dimensions": "Length 560 mm; Width 560 mm; Thickness 50 mm; Weight 10 kg",
@@ -28,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-25"
+ "updated_at": "2026-09-26",
+ "dynasty_confidence": "medium"
 }

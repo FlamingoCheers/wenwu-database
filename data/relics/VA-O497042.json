@@ -2,8 +2,11 @@
  "relic_id": "VA-O497042",
  "name": "Lid",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "东周",
+ "year_range": [
+  -771,
+  -256
+ ],
  "category": "瓷器",
  "material": "earthenware",
  "dimensions": "Taken from the register",
@@ -28,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26",
+ "dynasty_confidence": "medium"
 }

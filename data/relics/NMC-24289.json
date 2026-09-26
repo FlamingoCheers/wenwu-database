@@ -2,9 +2,12 @@
  "relic_id": "NMC-24289",
  "name": "京张铁路在康庄段的水塔和火车房",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1644,
+  1911
+ ],
  "category": "历史影像",
  "material": null,
  "dimensions": null,
@@ -34,6 +37,6 @@
  "raw_ref": "raw/nmc/detail_24289.html",
  "needs_review": true,
  "fetched_at": "2026-09-20",
- "updated_at": "2026-09-20",
+ "updated_at": "2026-09-26",
  "desc_ai": true
 }

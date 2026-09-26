@@ -2,8 +2,8 @@
  "relic_id": "MET-63179",
  "name": "Bodhisattva Manjushri (Wenshu)",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "五代十国",
+ "dynasty_confidence": "medium",
  "year_range": [
   900,
   999
@@ -39,6 +39,6 @@
  "raw_ref": "raw/met/63179.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08",
+ "updated_at": "2026-09-26",
  "desc_ai": true
 }

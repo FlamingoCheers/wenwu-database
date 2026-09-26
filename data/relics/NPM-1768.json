@@ -4,9 +4,12 @@
  "aliases": [
   "White-glazed dish with impressed design of children and melons Ting ware"
  ],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1279
+ ],
  "category": "瓷器",
  "material": null,
  "dimensions": "高5.5公分 口徑19.5公分",
@@ -42,7 +45,7 @@
  ],
  "related": [],
  "raw_ref": "raw/npm/detail_1768.html",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-26"
 }

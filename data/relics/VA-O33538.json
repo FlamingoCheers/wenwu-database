@@ -2,8 +2,11 @@
  "relic_id": "VA-O33538",
  "name": "Bottle",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "明",
+ "year_range": [
+  1368,
+  1644
+ ],
  "category": "瓷器",
  "material": "porcelain; metal",
  "dimensions": "Diameter 13.8 cm; Height 24.8 cm",
@@ -38,7 +41,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-25"
+ "updated_at": "2026-09-26",
+ "dynasty_confidence": "medium"
 }

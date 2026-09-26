@@ -4,9 +4,12 @@
  "aliases": [
   "Dish with incised chi-dragon decoration in white glaze"
  ],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
  "category": "瓷器",
  "material": null,
  "dimensions": "高1.6公分 口徑17.0公分 底徑12.5公分",
@@ -38,7 +41,7 @@
  ],
  "related": [],
  "raw_ref": "raw/npm/detail_27625.html",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-26"
 }

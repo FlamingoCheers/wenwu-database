@@ -2,8 +2,8 @@
  "relic_id": "HAM-210297",
  "name": "Jade Cylindrical Ring, Possibly a Bracelet, with Stylized Lotus-Blossom Decor",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
  "year_range": [
   12,
   12
@@ -21,11 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/210297",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": true,
+ "needs_review": false,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1919.124"
  },
- "material": "Variegated grayish nephrite with brown markings"
+ "material": "Variegated grayish nephrite with brown markings",
+ "updated_at": "2026-09-26"
 }

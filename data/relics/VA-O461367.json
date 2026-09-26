@@ -2,8 +2,11 @@
  "relic_id": "VA-O461367",
  "name": "Tripod",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "西周",
+ "year_range": [
+  -1046,
+  -771
+ ],
  "category": "瓷器",
  "material": "earthenware",
  "dimensions": "Diameter 14.6 cm; Height 15.2 cm",
@@ -28,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26",
+ "dynasty_confidence": "medium"
 }

@@ -2,9 +2,12 @@
  "relic_id": "NMC-25385",
  "name": "青花八仙葫芦瓶",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1368,
+  1644
+ ],
  "category": "瓷器",
  "material": null,
  "dimensions": null,
@@ -35,7 +38,7 @@
  ],
  "related": [],
  "raw_ref": "raw/nmc/detail_25385.html",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-19",
- "updated_at": "2026-09-19"
+ "updated_at": "2026-09-26"
 }

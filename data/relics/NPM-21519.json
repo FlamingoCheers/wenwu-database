@@ -4,9 +4,12 @@
  "aliases": [
   "Modelbooks of the Three Rarities Hall, Vol. 14: Clear and Warm Summer Modelbook (Qinghe Tie)"
  ],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
  "category": "书画",
  "material": null,
  "dimensions": null,
@@ -41,6 +44,6 @@
  "raw_ref": "raw/npm/detail_21519.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-22",
+ "updated_at": "2026-09-26",
  "desc_ai": true
 }

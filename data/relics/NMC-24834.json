@@ -2,9 +2,12 @@
  "relic_id": "NMC-24834",
  "name": "宣统三年六月十三日山西巡抚为谘请派员赴德国参观研究万国博览会事致山西大学堂监督胡钧照会",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1644,
+  1911
+ ],
  "category": "杂器",
  "material": null,
  "dimensions": null,
@@ -34,7 +37,7 @@
  ],
  "related": [],
  "raw_ref": "raw/nmc/detail_24834.html",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-19",
- "updated_at": "2026-09-19"
+ "updated_at": "2026-09-26"
 }

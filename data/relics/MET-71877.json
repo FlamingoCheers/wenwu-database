@@ -2,8 +2,8 @@
  "relic_id": "MET-71877",
  "name": "Piece",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
  "year_range": [
   1600,
   1699
@@ -38,6 +38,6 @@
  "raw_ref": "raw/met/71877.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08",
+ "updated_at": "2026-09-26",
  "desc_ai": true
 }

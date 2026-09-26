@@ -3,7 +3,10 @@
  "name": "Jar",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1945,
+  1945
+ ],
  "category": "瓷器",
  "material": "porcelain",
  "dimensions": "Height 19.0 cm; Diameter 19.0 cm; Diameter 24.5 cm; Diameter 14.2 cm",
@@ -28,7 +31,7 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-26",
  "updated_at": "2026-09-26"
 }

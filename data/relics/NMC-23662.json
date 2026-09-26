@@ -2,9 +2,12 @@
  "relic_id": "NMC-23662",
  "name": "咸丰通宝雕母钱（宝直小平）",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1644,
+  1911
+ ],
  "category": "钱币",
  "material": null,
  "dimensions": null,
@@ -29,7 +32,7 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/nmc/detail_23662.html",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-23",
- "updated_at": "2026-09-23"
+ "updated_at": "2026-09-26"
 }

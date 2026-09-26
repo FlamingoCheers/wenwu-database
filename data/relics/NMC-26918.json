@@ -2,9 +2,12 @@
  "relic_id": "NMC-26918",
  "name": "陈淮“天书焕彩”五色墨",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1644,
+  1911
+ ],
  "category": "宗教造像",
  "material": null,
  "dimensions": null,
@@ -35,7 +38,7 @@
  ],
  "related": [],
  "raw_ref": "raw/nmc/detail_26918.html",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18"
+ "updated_at": "2026-09-26"
 }

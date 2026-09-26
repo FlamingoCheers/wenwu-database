@@ -3,7 +3,10 @@
  "name": "Dish",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1595,
+  1595
+ ],
  "category": "杂器",
  "material": "lacquer",
  "dimensions": "Diameter 21.6 cm",
@@ -38,7 +41,7 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-26",
  "updated_at": "2026-09-26"
 }

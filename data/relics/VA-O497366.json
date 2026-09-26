@@ -2,8 +2,11 @@
  "relic_id": "VA-O497366",
  "name": "Plaque",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "金",
+ "year_range": [
+  1115,
+  1234
+ ],
  "category": "杂器",
  "material": "gold; bronze",
  "dimensions": "Height 5 cm; Width 4.5 cm",
@@ -38,7 +41,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26",
+ "dynasty_confidence": "medium"
 }

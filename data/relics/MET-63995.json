@@ -2,8 +2,8 @@
  "relic_id": "MET-63995",
  "name": "Rubbing of an old fisherman from a Ming dynasty stone carving",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
  "year_range": [
   1900,
   1959
@@ -36,6 +36,6 @@
  "raw_ref": "raw/met/63995.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08",
+ "updated_at": "2026-09-26",
  "desc_ai": true
 }

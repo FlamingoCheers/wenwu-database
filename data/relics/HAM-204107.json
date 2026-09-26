@@ -21,11 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/204107",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": true,
+ "needs_review": false,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1944.57.8.A-B"
  },
- "material": "Cast bronze; with integrally cast inscriptions on vessel floor and interior of cover"
+ "material": "Cast bronze; with integrally cast inscriptions on vessel floor and interior of cover",
+ "updated_at": "2026-09-26"
 }

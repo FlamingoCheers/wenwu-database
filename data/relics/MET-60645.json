@@ -2,8 +2,8 @@
  "relic_id": "MET-60645",
  "name": "Bowl",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
  "year_range": [
   1800,
   1999
@@ -36,6 +36,6 @@
  "raw_ref": "raw/met/60645.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08",
+ "updated_at": "2026-09-26",
  "desc_ai": true
 }

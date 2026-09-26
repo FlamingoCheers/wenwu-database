@@ -2,9 +2,12 @@
  "relic_id": "NMC-27801",
  "name": "泰和重宝",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "金",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1115,
+  1234
+ ],
  "category": "钱币",
  "material": null,
  "dimensions": null,
@@ -35,6 +38,6 @@
  "raw_ref": "raw/nmc/detail_27801.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18",
+ "updated_at": "2026-09-26",
  "desc_ai": true
 }

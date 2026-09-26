@@ -4,9 +4,12 @@
  "aliases": [
   "Foliate rimmed dish with incised design of plantain, rocks and insects, Ding ware"
  ],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
  "category": "瓷器",
  "material": null,
  "dimensions": "高4.0公分 口徑23.5公分 底徑16.4公分",
@@ -38,7 +41,7 @@
  ],
  "related": [],
  "raw_ref": "raw/npm/detail_29572.html",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-26"
 }

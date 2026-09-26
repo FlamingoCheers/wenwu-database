@@ -3,7 +3,10 @@
  "name": "Plate",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1985,
+  1985
+ ],
  "category": "瓷器",
  "material": "porcelain; enamel",
  "dimensions": "Diameter 26.5 cm; Diameter 16.6 cm",
@@ -28,7 +31,7 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-26",
  "updated_at": "2026-09-26"
 }

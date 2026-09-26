@@ -21,11 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/205167",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": true,
+ "needs_review": false,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1943.50.120"
  },
- "material": "Highly translucent, deep green nephrite with dark speckles"
+ "material": "Highly translucent, deep green nephrite with dark speckles",
+ "updated_at": "2026-09-26"
 }

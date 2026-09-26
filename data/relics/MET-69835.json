@@ -2,8 +2,8 @@
  "relic_id": "MET-69835",
  "name": "Sutra Cover",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "明",
+ "dynasty_confidence": "medium",
  "year_range": [
   1500,
   1699
@@ -36,6 +36,6 @@
  "raw_ref": "raw/met/69835.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08",
+ "updated_at": "2026-09-26",
  "desc_ai": true
 }

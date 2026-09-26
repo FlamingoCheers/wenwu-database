@@ -3,7 +3,10 @@
  "name": "Painting",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1854,
+  1854
+ ],
  "category": "书画",
  "material": "watercolour; paper",
  "dimensions": "Width 27.8 cm; Height 20.2 cm",
@@ -28,7 +31,7 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-25"
+ "updated_at": "2026-09-26"
 }

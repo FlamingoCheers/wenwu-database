@@ -2,8 +2,8 @@
  "relic_id": "MET-64031",
  "name": "Tang Stone Pillar Inscribed with Names",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "唐",
+ "dynasty_confidence": "medium",
  "year_range": [
   1900,
   1999
@@ -36,6 +36,6 @@
  "raw_ref": "raw/met/64031.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08",
+ "updated_at": "2026-09-26",
  "desc_ai": true
 }

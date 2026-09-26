@@ -4,9 +4,12 @@
  "aliases": [
   "Celadon bowl with incised cloud and crane pattern filled in black and white clay, Korea"
  ],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
  "category": "瓷器",
  "material": null,
  "dimensions": "高6.4公分 口徑16.4公分 底徑4.2公分",
@@ -39,7 +42,7 @@
  ],
  "related": [],
  "raw_ref": "raw/npm/detail_36104.html",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-07"
+ "updated_at": "2026-09-26"
 }
