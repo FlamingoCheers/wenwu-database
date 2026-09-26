@@ -82,6 +82,11 @@ python pipeline/build_web_index.py              # 前端索引（web/data）
 | 纳尔逊-阿特金斯艺术博物馆 | <https://art.nelson-atkins.org> | 中国书画、石刻重镇；无公开 API |
 | 吉美博物馆 (Musée Guimet) | <https://www.guimet.fr> / <https://Collections.guimet.fr> | 法国国立亚洲艺术博物馆；无公开 API |
 | 东京国立博物馆 | <https://colbase.nich.go.jp> / <https://www.tnm.jp> | 日本最大博物馆，含大量中国文物；COLR/COLBASE 联合检索，无公开 API |
+| 耶鲁大学美术馆 | <https://artgallery.yale.edu/collections> | 旧公开 API（api.artgallery.yale.edu）已退役；新 LUX 平台（lux.collections.yale.edu）藏品记录基本不含影像（实测 0/60 带图），暂无可用批量路径 |
+| 菲茨威廉博物馆（剑桥） | <https://fitzmuseum.cam.ac.uk/objects> | 官方 API（api.fitzmuseum.cam.ac.uk）已退役，新站仅 HTML 页面，无公开批量接口 |
+| 宾夕法尼亚大学博物馆 | <https://www.penn.museum/collections/> | 旧 API（api.penn.museum）已下线，站内检索无公开 JSON 接口 |
+| 普林斯顿大学艺术博物馆 | <https://artmuseum.princeton.edu/search/collections> | 检索页有 Cloudflare 人机验证，未提供公开 API |
+| 巴黎赛努奇博物馆 | <https://www.cernuschi.paris.fr> | 属巴黎博物馆联盟，其 GraphQL API 需免费注册账号获取令牌后使用：<https://apicollections.parismusees.paris.fr> |
 | 香港故宫文化博物馆 | <https://www.hkpm.org.hk> | 藏品以北京故宫借展为主，官网无逐件藏品数据页 |
 | 台北故宫博物院（完整目录） | <https://theme.npm.edu.tw/opendata> | 开放数据专区另有整包元数据下载；本库当前经数字典藏检索接入 1.1 万件（见 FAQ） |
 

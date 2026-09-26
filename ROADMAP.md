@@ -54,8 +54,8 @@
 | 2.4 | 跨馆去重（同名聚合） | 规范化名称（繁→简、去标点空格）分组，跨馆同名聚合成"同名文物"页（扩展 P4 钱币聚合为全类目） | 🔄 进行中 |
 | 2.9 | 北京故宫精品子集 | `gpm_collector.py`（playwright 渲染 `/list?k=` 搜索卡片，不逆向加密接口；精选关键词表 `data/meta/gpm_keywords.json` 174 词；与 NPM 规范化名称比对只收台北没有的；©图不入库 `images=[]` 仅存跳转链接） | 🔄 已入 623 件 + 朝代推断 159 件；digicol 为动态限速（当日多次重试会续触发；Actions 海外出口不可达）→ **隔天单次运行** `python collectors/gpm_collector.py` 幂等续跑余下约 115 词 |
 | 2.5 | 图片本地化策略 | — | ⬜ |
-| 2.10 | 国际无 key 源批次接入 | 耶鲁大学美术馆 / 普林斯顿大学艺术博物馆 / 菲茨威廉博物馆（剑桥）/ 宾夕法尼亚大学博物馆 / 巴黎赛努奇博物馆——均为开放 API 无需注册；逐馆：探针→采集器→全量→validate→commit；各馆独立月更 workflow | 🔄 自主执行中（用户 2026-09-28 授权："你直接自己把无key的都做好"） |
-| 2.11 | 需注册 key 的源（等用户） | 哈佛艺术博物馆 API、Europeana——已给用户注册入口，key 到手即接 | ⏸ |
+| 2.10 | 国际无 key 源批次接入 | 2026-09-26 全部实测放弃：耶鲁（api.artgallery.yale.edu 已退役；LUX 平台 YUAG 记录 0/60 带图且多为图书馆噪音）、菲茨威廉（api.fitzmuseum.cam.ac.uk 已退役，新站仅 HTML）、宾大（api.penn.museum 死、站内路径全 404）、普林斯顿（Cloudflare 拦截且无 API） | ⛔ 放弃（证据齐备） |
+| 2.11 | 需注册 key/账号的源（等用户） | 哈佛艺术博物馆 API、Europeana、巴黎赛努奇（GraphQL 需免费注册账号拿 token） | ⏸ |
 
 ---
 
