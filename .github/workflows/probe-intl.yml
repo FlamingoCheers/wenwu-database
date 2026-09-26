@@ -1,0 +1,28 @@
+name: probe-intl
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Probe keyless international APIs
+        run: |
+          set +e
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) wenwu-database/1.0 (open data aggregator)"
+          p() { echo "=== $1 ==="; curl -s -m 25 -A "$UA" -w "\n[HTTP %{http_code}]" "$2" | head -c ${3:-700}; echo; sleep 1; }
+          p yale-doc   "https://api.artgallery.yale.edu/documentation"
+          p yale-obj   "https://api.artgallery.yale.edu/api/objects?culture=China&size=2"
+          p yale-obj2  "https://api.artgallery.yale.edu/api/objects?q=china&size=2"
+          p fitz-doc   "https://api.fitzmuseum.cam.ac.uk/"
+          p fitz-obj   "https://api.fitzmuseum.cam.ac.uk/api/v1/objects?_rows=2&q=china"
+          p penn-doc   "https://www.penn.museum/collections/objects/api/"
+          p penn-q     "https://www.penn.museum/collections/search/collectionsJSON.php?q=china"
+          p penn-alt   "https://api.penn.museum/"
+          p princ-j    "https://artmuseum.princeton.edu/search/collections?all=true&type=json&size=2"
+          p princ-oa   "https://artmuseum.princeton.edu/open-access"
