@@ -52,7 +52,7 @@
 | 2.8 | 其他省级馆探查 | Actions 实测：山西/浙江/湖北/天津/辽宁/南京（海外 IP 屏蔽）、湖南（新库超时+国宝栏仅照片无文字）、上海（无公开列表接口）、首都（ugi 令牌门禁 API） | ⏸ 按授权放弃，馆方开放后再评估 |
 | 2.3 | 香港故宫 / 史密森尼 | 香港故宫：sitemap 全查无逐件藏品页/API（藏品为北京故宫借展）→ 放弃；故宫数字文物库：列表接口加密混淆（list.js）→ 按不逆向原则放弃；史密森尼：Open Access API（`smi_collector.py`，NMAA 全集 4,719 行 china 过滤）+ `smi-sync.yml`（月更） | ✅ SMI 1,639 件（CC0，含图） |
 | 2.4 | 跨馆去重（同名聚合） | 规范化名称（繁→简、去标点空格）分组，跨馆同名聚合成"同名文物"页（扩展 P4 钱币聚合为全类目） | 🔄 进行中 |
-| 2.9 | 北京故宫精品子集 | `gpm_collector.py`（playwright 渲染 `/list?k=` 搜索卡片，不逆向加密接口；精选关键词表 `data/meta/gpm_keywords.json` 174 词；与 NPM 规范化名称比对只收台北没有的；©图不入库 `images=[]` 仅存跳转链接） | 🔄 已入 623 件 + 朝代推断 159 件；digicol 为动态限速（当日多次重试会续触发；Actions 海外出口不可达）→ **隔天单次运行** `python collectors/gpm_collector.py` 幂等续跑余下约 115 词 |
+| 2.9 | 北京故宫精品子集 | `gpm_collector.py`（playwright 渲染 `/list?k=` 搜索卡片，不逆向加密接口；精选关键词表 `data/meta/gpm_keywords.json` 174 词；与 NPM 规范化名称比对只收台北没有的；©图不入库 `images=[]` 仅存跳转链接） | 🔄 已入 623 件 + 朝代推断 159 件；digicol 为动态限速（当日多次重试会续触发；Actions 海外出口不可达）→ **隔天单次运行** `python collectors/gpm_collector.py` 幂等续跑余下约 115 词；2026-09-29 单次续跑仍 10 连空（冷却期长于预期）→ **改为每 3 天单次重试一次** |
 | 2.5 | 图片本地化策略 | — | ⬜ |
 | 2.10 | 国际无 key 源批次接入 | 2026-09-26 全部实测放弃：耶鲁（api.artgallery.yale.edu 已退役；LUX 平台 YUAG 记录 0/60 带图且多为图书馆噪音）、菲茨威廉（api.fitzmuseum.cam.ac.uk 已退役，新站仅 HTML）、宾大（api.penn.museum 死、站内路径全 404）、普林斯顿（Cloudflare 拦截且无 API） | ⛔ 放弃（证据齐备） |
 | 2.11 | 需注册 key/账号的源（等用户） | 哈佛艺术博物馆 API、Europeana、巴黎赛努奇（GraphQL 需免费注册账号拿 token） | ⏸ |
