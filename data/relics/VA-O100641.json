@@ -2,10 +2,10 @@
  "relic_id": "VA-O100641",
  "name": "Picture",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "year_range": [
-  1750,
-  1920
+  1900,
+  1900
  ],
  "category": "织绣",
  "material": "silk (textile)",
@@ -41,7 +41,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:09:55",
+ "dynasty_confidence": "low"
 }

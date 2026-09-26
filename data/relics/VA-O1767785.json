@@ -2,8 +2,11 @@
  "relic_id": "VA-O1767785",
  "name": "Fire screen",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1810,
+  1819
+ ],
  "category": "书画",
  "material": "silk; bamboo; mahogany",
  "dimensions": "Height 134 cm; Width 79 cm; Thickness 3 cm; Width 10 cm",
@@ -38,7 +41,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:54:23",
+ "dynasty_confidence": "low"
 }

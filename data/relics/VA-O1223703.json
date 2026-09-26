@@ -2,10 +2,10 @@
  "relic_id": "VA-O1223703",
  "name": "Curtain",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "year_range": [
   1870,
-  1930
+  1870
  ],
  "category": "织绣",
  "material": "silk textile; gilt thread",
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:09:56",
+ "dynasty_confidence": "low"
 }

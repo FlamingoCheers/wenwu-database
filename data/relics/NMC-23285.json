@@ -2,9 +2,12 @@
  "relic_id": "NMC-23285",
  "name": "桥足布（陕一釿）",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "战国",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  -475,
+  -221
+ ],
  "category": "钱币",
  "material": null,
  "dimensions": null,
@@ -29,7 +32,7 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/nmc/detail_23285.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-23",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:29:48"
 }

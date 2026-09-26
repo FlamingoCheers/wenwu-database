@@ -3,7 +3,10 @@
  "name": "Wedding dress",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1993,
+  1993
+ ],
  "category": "织绣",
  "material": "silk (textile); beads; ribbons",
  "dimensions": null,
@@ -30,5 +33,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:15"
 }

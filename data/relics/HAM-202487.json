@@ -2,11 +2,11 @@
  "relic_id": "HAM-202487",
  "name": "Octagonal Pillow with Decoration of Butterflies and Chrysanthemum Sprays",
  "category": "瓷器",
- "dynasty": "不详",
+ "dynasty": "南宋",
  "dynasty_confidence": "low",
  "year_range": [
-  12,
-  12
+  1201,
+  1240
  ],
  "era_text": "late 12th-early 13th century",
  "dimensions": "H. 11.2 x W. 23.1 x D. 17.3 cm (4 7/16 x 9 1/8 x 6 13/16 in.)",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/202487",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1975.44"
  },
  "material": "Cizhou ware: light gray stoneware with clear glaze over decoration painted in iron-brown slip on a white slip ground. Possibly from the Guantai kilns, near Handan, Hebei province.",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:05"
 }

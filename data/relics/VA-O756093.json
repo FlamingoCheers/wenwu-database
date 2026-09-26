@@ -2,8 +2,11 @@
  "relic_id": "VA-O756093",
  "name": "Minqua's house, and entrance to China Street, Canton",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1830,
+  1830
+ ],
  "category": "杂器",
  "material": "paper; ink",
  "dimensions": "Dimensions taken from <u>Victoria & Albert Museum Department of Prints and Drawings and Department of Paintings, Accessions 1928. </u> London: HMSO, 1929 ",
@@ -28,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:06",
+ "dynasty_confidence": "low"
 }

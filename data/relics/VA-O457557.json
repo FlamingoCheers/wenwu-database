@@ -2,10 +2,10 @@
  "relic_id": "VA-O457557",
  "name": "Fan case",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "year_range": [
   1880,
-  1930
+  1880
  ],
  "category": "织绣",
  "material": "Satin; velvet",
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:02",
+ "dynasty_confidence": "low"
 }

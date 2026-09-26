@@ -2,8 +2,8 @@
  "relic_id": "MET-73365",
  "name": "Pendant in the shape of a silk worm",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
  "year_range": [
   -1049,
   -850
@@ -37,5 +37,5 @@
  "raw_ref": "raw/met/73365.json",
  "needs_review": false,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:44:24"
 }

@@ -2,8 +2,8 @@
  "relic_id": "NMC-24290",
  "name": "京张铁路门头沟车站",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "近代",
+ "dynasty_confidence": "medium",
  "year_range": null,
  "category": "历史影像",
  "material": null,
@@ -34,6 +34,6 @@
  "raw_ref": "raw/nmc/detail_24290.html",
  "needs_review": true,
  "fetched_at": "2026-09-20",
- "updated_at": "2026-09-20",
+ "updated_at": "2026-09-26T21:49:10",
  "desc_ai": true
 }

@@ -2,8 +2,8 @@
  "relic_id": "MET-39916",
  "name": "Frontispiece and Colophons to the Album \"Five Old Men of Suiyang\"",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "宋",
+ "dynasty_confidence": "medium",
  "year_range": [
   1000,
   1911
@@ -37,5 +37,5 @@
  "raw_ref": "raw/met/39916.json",
  "needs_review": false,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:07"
 }

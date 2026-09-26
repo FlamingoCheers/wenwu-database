@@ -2,11 +2,11 @@
  "relic_id": "HAM-200497",
  "name": "'Li' Ritual Food Vessel in the Form of a Square Stove and Cauldron",
  "category": "青铜器",
- "dynasty": "不详",
+ "dynasty": "唐",
  "dynasty_confidence": "low",
  "year_range": [
-  -10,
-  -10
+  701,
+  800
  ],
  "era_text": "10th-8th century BCE",
  "dimensions": "H. 17.9 x W. 15 x D. 12.3 cm (7 1/16 x 5 7/8 x 4 13/16 in.)",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/200497",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1944.57.18"
  },
  "material": "Cast bronze with gray-green patina; with a five-character dedicatory inscription cast on vessel floor",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:05"
 }

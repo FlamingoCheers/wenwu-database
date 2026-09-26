@@ -2,8 +2,11 @@
  "relic_id": "VA-O39558",
  "name": "Blade (ge)",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "金",
+ "year_range": [
+  1200,
+  1200
+ ],
  "category": "杂器",
  "material": "jade",
  "dimensions": "Length 25.5 cm; Width 7 cm",
@@ -33,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:01",
+ "dynasty_confidence": "low"
 }

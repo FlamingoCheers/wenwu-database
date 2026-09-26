@@ -2,10 +2,10 @@
  "relic_id": "VA-O437199",
  "name": "Bowl",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "元",
  "year_range": [
-  1600,
-  1700
+  1201,
+  1400
  ],
  "category": "瓷器",
  "material": "stoneware; celadon",
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:15",
+ "dynasty_confidence": "low"
 }

@@ -2,9 +2,12 @@
  "relic_id": "NMC-24429",
  "name": "押解绑架“人票”的土匪途经北平南新华街",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "近代",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  1928,
+  1949
+ ],
  "category": "杂器",
  "material": null,
  "dimensions": null,
@@ -31,7 +34,7 @@
  ],
  "related": [],
  "raw_ref": "raw/nmc/detail_24429.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-19",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:29:48"
 }

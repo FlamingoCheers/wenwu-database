@@ -2,8 +2,8 @@
  "relic_id": "HAM-315442",
  "name": "Lobed Circular Mirror with Scrolling Peony Decor",
  "category": "书画",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
  "year_range": [
   1115,
   1234
@@ -28,5 +28,5 @@
   "inventory_no": "2010.441"
  },
  "material": "Cast brass",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:07"
 }

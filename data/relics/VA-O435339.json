@@ -2,8 +2,11 @@
  "relic_id": "VA-O435339",
  "name": "Using a Longer Thread on the Day of the Winter Solstice",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1841,
+  1841
+ ],
  "category": "书画",
  "material": "paper; ink; colour",
  "dimensions": "Height 27.5 cm; Width 28 cm",
@@ -33,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:02",
+ "dynasty_confidence": "low"
 }

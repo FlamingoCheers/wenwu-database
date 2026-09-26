@@ -2,10 +2,10 @@
  "relic_id": "VA-O497929",
  "name": "Vase",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "明",
  "year_range": [
-  1800,
-  1980
+  1501,
+  1600
  ],
  "category": "青铜器",
  "material": "Copper; Enamel",
@@ -41,7 +41,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:16",
+ "dynasty_confidence": "low"
 }

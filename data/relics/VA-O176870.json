@@ -3,7 +3,10 @@
  "name": "Raphael",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1980,
+  1989
+ ],
  "category": "杂器",
  "material": "plastic; cardboard",
  "dimensions": "Height 30.5 cm; Height 12 cm; Width 19 cm",
@@ -30,5 +33,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:12"
 }

@@ -2,9 +2,12 @@
  "relic_id": "NMC-24391",
  "name": "1913年开设的中国银行天津分行",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1644,
+  1911
+ ],
  "category": "历史影像",
  "material": null,
  "dimensions": null,
@@ -33,6 +36,6 @@
  "raw_ref": "raw/nmc/detail_24391.html",
  "needs_review": true,
  "fetched_at": "2026-09-20",
- "updated_at": "2026-09-20",
+ "updated_at": "2026-09-26T21:49:10",
  "desc_ai": true
 }

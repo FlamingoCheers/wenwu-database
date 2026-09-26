@@ -2,8 +2,8 @@
  "relic_id": "MET-61282",
  "name": "Wine container  (lei)",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "商",
+ "dynasty_confidence": "medium",
  "year_range": [
   -1199,
   -900
@@ -37,5 +37,5 @@
  "raw_ref": "raw/met/61282.json",
  "needs_review": false,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:09"
 }

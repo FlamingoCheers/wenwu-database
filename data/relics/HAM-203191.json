@@ -2,11 +2,11 @@
  "relic_id": "HAM-203191",
  "name": "Circular Dish with Everted Rim",
  "category": "瓷器",
- "dynasty": "不详",
+ "dynasty": "南宋",
  "dynasty_confidence": "low",
  "year_range": [
-  12,
-  12
+  1201,
+  1240
  ],
  "era_text": "12th-early 13th century",
  "dimensions": "max.: H. 4.4 × Diam. 18.2 cm (1 3/4 × 7 3/16 in.)\r\nfoot: Diam. 6.2 cm (2 7/16 in.)",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/203191",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1961.157"
  },
  "material": "Green Jun ware: light gray stoneware with celadon glaze",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:05"
 }

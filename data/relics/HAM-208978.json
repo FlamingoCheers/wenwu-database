@@ -2,9 +2,12 @@
  "relic_id": "HAM-208978",
  "name": "T'ANG BUDDHIST. PANEL A.D.715",
  "category": "书画",
- "dynasty": "不详",
+ "dynasty": "唐",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  715,
+  715
+ ],
  "era_text": null,
  "dimensions": "42.545 x 19.685 cm (16 3/4 x 7 3/4 in)",
  "summary": "哈佛艺术博物馆著录：Chinese",
@@ -18,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/208978",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1931.10"
  },
  "material": "",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:29:48"
 }

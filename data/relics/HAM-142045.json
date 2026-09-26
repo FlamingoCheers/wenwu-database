@@ -2,11 +2,11 @@
  "relic_id": "HAM-142045",
  "name": "Ceramic Sherd from a Circular Bowl with Scrolling Floral Décor: Generally rectangular fragment including portions of the side wall, and unglazed lip and elements of the decoration",
  "category": "书画",
- "dynasty": "不详",
+ "dynasty": "南宋",
  "dynasty_confidence": "low",
  "year_range": [
-  12,
-  12
+  1201,
+  1240
  ],
  "era_text": "12th-early 13th century",
  "dimensions": "9.2 x 6.7 cm (3 5/8 x 2 5/8 in.)",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/142045",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "2002.69.8"
  },
  "material": "Ding ware: porcelaneous white stoneware with pale yellow glaze over mold-impressed decoration",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:05"
 }

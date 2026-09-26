@@ -2,8 +2,11 @@
  "relic_id": "VA-O756564",
  "name": "The 'hong merchant' Mowqua",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1812,
+  1812
+ ],
  "category": "杂器",
  "material": "paper; ink; pencil",
  "dimensions": "Height 11.8 cm; Width 9.4 cm",
@@ -28,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:06",
+ "dynasty_confidence": "low"
 }

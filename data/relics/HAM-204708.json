@@ -2,7 +2,7 @@
  "relic_id": "HAM-204708",
  "name": "Jade Dragon Configuration (one of a pair)",
  "category": "玉器",
- "dynasty": "不详",
+ "dynasty": "战国",
  "dynasty_confidence": "low",
  "year_range": [
   -475,
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/204708",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1943.50.449.B"
  },
  "material": "Translucent celadon-green nephrite with tan and dark brown markings",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:29:48"
 }

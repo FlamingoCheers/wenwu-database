@@ -2,8 +2,11 @@
  "relic_id": "VA-O756399",
  "name": "Hands folded on the back of a chair",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1843,
+  1843
+ ],
  "category": "杂器",
  "material": "paper; ink; pencil",
  "dimensions": "Height 11.6 cm; Width 19.5 cm",
@@ -28,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:06",
+ "dynasty_confidence": "low"
 }

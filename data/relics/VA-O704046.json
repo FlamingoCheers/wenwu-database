@@ -2,8 +2,11 @@
  "relic_id": "VA-O704046",
  "name": " A Tanka family by a beached boat below the fort of S. Francesco, Macau",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1839,
+  1839
+ ],
  "category": "杂器",
  "material": "pencil",
  "dimensions": "Height 19.8 cm; Width 27.5 cm",
@@ -28,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:05",
+ "dynasty_confidence": "low"
 }

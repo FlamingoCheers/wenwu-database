@@ -3,7 +3,10 @@
  "name": "Sukki",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1998,
+  1998
+ ],
  "category": "杂器",
  "material": "synthetic",
  "dimensions": "Height 22 cm; Width 19 cm",
@@ -30,5 +33,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:10"
 }

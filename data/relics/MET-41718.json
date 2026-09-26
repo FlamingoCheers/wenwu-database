@@ -2,8 +2,8 @@
  "relic_id": "MET-41718",
  "name": "Snuff Bottle with Flowers and Rocks",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "近代",
+ "dynasty_confidence": "medium",
  "year_range": [
   1912,
   1949
@@ -37,5 +37,5 @@
  "raw_ref": "raw/met/41718.json",
  "needs_review": false,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:07"
 }

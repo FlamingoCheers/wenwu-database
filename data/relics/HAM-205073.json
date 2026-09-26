@@ -2,11 +2,11 @@
  "relic_id": "HAM-205073",
  "name": "Long-Necked, Pear-Shaped Bottle with Decoration of Two Stylized Birds in Flight",
  "category": "瓷器",
- "dynasty": "不详",
+ "dynasty": "南宋",
  "dynasty_confidence": "low",
  "year_range": [
-  12,
-  12
+  1201,
+  1300
  ],
  "era_text": "late 12th-first half 13th century",
  "dimensions": "30.5 x 16 cm (12 x 6 5/16 in.)",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/205073",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1942.185.452"
  },
  "material": "Northern black ware of Cizhou type: light gray stoneware with dark brown glaze, the russet decoration painted in overglaze iron oxide",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:06"
 }

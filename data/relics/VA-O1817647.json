@@ -2,8 +2,11 @@
  "relic_id": "VA-O1817647",
  "name": "Interior of the North Fort after its Capture",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1860,
+  1860
+ ],
  "category": "杂器",
  "material": "paper; card stock",
  "dimensions": "Height 9.4 cm; Width 47.6 cm; Height 22.6 cm; Width 35.4 cm",
@@ -38,7 +41,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:00",
+ "dynasty_confidence": "low"
 }

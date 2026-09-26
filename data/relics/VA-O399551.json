@@ -2,8 +2,11 @@
  "relic_id": "VA-O399551",
  "name": "Painting",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1795,
+  1795
+ ],
  "category": "书画",
  "material": "watercolour; paper",
  "dimensions": "Album length 19.6cm, album width 12.2cm, album height 1.5cm.",
@@ -28,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:01",
+ "dynasty_confidence": "low"
 }

@@ -2,10 +2,10 @@
  "relic_id": "VA-O33618",
  "name": "Cup",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "year_range": [
-  1600,
-  1799
+  1701,
+  1800
  ],
  "category": "瓷器",
  "material": "porcelain; enamel (paint)",
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:14",
+ "dynasty_confidence": "low"
 }

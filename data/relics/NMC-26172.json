@@ -2,9 +2,12 @@
  "relic_id": "NMC-26172",
  "name": "伊簋铭文",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "西周",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  -851,
+  -851
+ ],
  "category": "青铜器",
  "material": null,
  "dimensions": null,
@@ -32,7 +35,7 @@
  ],
  "related": [],
  "raw_ref": "raw/nmc/detail_26172.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:29:48"
 }

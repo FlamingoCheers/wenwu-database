@@ -3,7 +3,10 @@
  "name": "Merchandise",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  2004,
+  2004
+ ],
  "category": "杂器",
  "material": "cotton; plastic",
  "dimensions": "Height 77 cm; Width 49.1 cm; Length 63.5 cm",
@@ -40,5 +43,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:12"
 }

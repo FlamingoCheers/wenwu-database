@@ -2,11 +2,11 @@
  "relic_id": "HAM-204391",
  "name": "Small 'Pou' Jar with Openwork Decoration of Interlaced Dragons and with Two Serpentine Handles",
  "category": "青铜器",
- "dynasty": "不详",
+ "dynasty": "东晋",
  "dynasty_confidence": "low",
  "year_range": [
-  -5,
-  -5
+  301,
+  400
  ],
  "era_text": "5th-4th century BCE",
  "dimensions": "H. 9.7 x W. 12.4 x Diam 9.9 cm (3 13/16 x 4 7/8 x 3 7/8 in.)",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/204391",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1943.52.70"
  },
  "material": "Bronze with openwork decoration and with inlays of turquoise and malachite. Reportedly unearthed in 1911 in the vicinity of Xi'an, Shaanxi province",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:06"
 }

@@ -3,7 +3,10 @@
  "name": "Cup",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1983,
+  1983
+ ],
  "category": "瓷器",
  "material": "porcelain; enamel paint",
  "dimensions": "Height 3.5 cm; Diameter 5 cm",
@@ -30,5 +33,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:12"
 }

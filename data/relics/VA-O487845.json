@@ -2,8 +2,11 @@
  "relic_id": "VA-O487845",
  "name": "BOX & COVER ",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "明",
+ "year_range": [
+  1600,
+  1600
+ ],
  "category": "漆器",
  "material": "lacquer",
  "dimensions": "Diameter 20 cm",
@@ -38,7 +41,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:03",
+ "dynasty_confidence": "low"
 }

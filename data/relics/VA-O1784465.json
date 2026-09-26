@@ -3,7 +3,10 @@
  "name": "Model",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1999,
+  1999
+ ],
  "category": "杂器",
  "material": "metal; plastic; rubber; printing ink; cardboard",
  "dimensions": "Length 15.5 cm; Depth 7.5 cm; Height 6.5 cm",
@@ -30,5 +33,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:12"
 }

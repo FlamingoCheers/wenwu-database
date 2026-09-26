@@ -2,11 +2,11 @@
  "relic_id": "HAM-199690",
  "name": "Oblong Jade Pendant (one of a pair)",
  "category": "玉器",
- "dynasty": "不详",
+ "dynasty": "南北朝",
  "dynasty_confidence": "low",
  "year_range": [
-  -5,
-  -5
+  401,
+  500
  ],
  "era_text": "5th century BCE",
  "dimensions": "H. 11.8 x W. 1.7 x Thickness 1 cm (4 5/8 x 11/16 x 3/8 in.)\r\nWeight 43 g",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/199690",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1943.50.123"
  },
  "material": "Evenly light gray-green nephrite",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:05"
 }

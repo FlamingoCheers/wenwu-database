@@ -2,10 +2,10 @@
  "relic_id": "VA-O1300044",
  "name": "Spoon",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "year_range": [
-  1890,
-  1930
+  1801,
+  2000
  ],
  "category": "瓷器",
  "material": "porcelain; porcelain enamel",
@@ -41,7 +41,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:13",
+ "dynasty_confidence": "low"
 }

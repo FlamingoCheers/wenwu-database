@@ -2,9 +2,12 @@
  "relic_id": "NMC-24263",
  "name": "1895年中国南方的轿子与抬轿夫",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  1895,
+  1895
+ ],
  "category": "杂器",
  "material": null,
  "dimensions": null,
@@ -29,7 +32,7 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/nmc/detail_24263.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-20",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:09:48"
 }

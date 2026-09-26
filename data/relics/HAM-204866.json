@@ -2,11 +2,11 @@
  "relic_id": "HAM-204866",
  "name": "Jade 'Cong'",
  "category": "玉器",
- "dynasty": "不详",
+ "dynasty": "北宋",
  "dynasty_confidence": "low",
  "year_range": [
-  -11,
-  -11
+  1001,
+  1100
  ],
  "era_text": "c. 11th cent. BCE - 771 BCE",
  "dimensions": "5.5 x 6 x 6 cm (2 3/16 x 2 3/8 x 2 3/8 in.)\r\nunspecified: 193 g",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/204866",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1943.50.500"
  },
  "material": "Pale green, highly translucent nephrite with specks and areas of dark brown",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:06"
 }

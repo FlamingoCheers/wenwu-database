@@ -2,7 +2,7 @@
  "relic_id": "NMC-24001",
  "name": "教会学校的穷学生",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "近代",
  "dynasty_confidence": "low",
  "year_range": null,
  "category": "杂器",
@@ -29,7 +29,7 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/nmc/detail_24001.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-22",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:29:48"
 }

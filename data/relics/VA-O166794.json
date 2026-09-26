@@ -3,7 +3,10 @@
  "name": "Cherish the great revolutionary ideals,intrepid climb the world high peaks: a group of smiling mountaineers",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1966,
+  1966
+ ],
  "category": "杂器",
  "material": "paper (fiber product)",
  "dimensions": "Height 106 cm; Width 76 cm",
@@ -30,5 +33,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:11"
 }

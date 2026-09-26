@@ -3,7 +3,10 @@
  "name": "Studies of two Chinese blacksmiths working beneath a sunshade, and of a Chinese man in wet-weather dress",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1921,
+  1921
+ ],
  "category": "杂器",
  "material": "paper; ink; pencil",
  "dimensions": "Height 18 cm; Width 22.2 cm",
@@ -30,5 +33,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:15"
 }

@@ -2,7 +2,7 @@
  "relic_id": "VA-O76040",
  "name": "Snuff bottle",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "year_range": [
   1601,
   1700
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:16",
+ "dynasty_confidence": "low"
 }

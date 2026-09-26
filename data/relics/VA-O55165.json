@@ -2,8 +2,11 @@
  "relic_id": "VA-O55165",
  "name": "Mirror",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1670,
+  1679
+ ],
  "category": "杂器",
  "material": "pine; lacquer; oak",
  "dimensions": "Measured on 15/9/2010 by LC, however no dimensions entered on CMS (shaire 2024). Weighed Feb 2025",
@@ -38,7 +41,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:54:27",
+ "dynasty_confidence": "low"
 }

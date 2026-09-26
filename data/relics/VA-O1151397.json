@@ -2,8 +2,11 @@
  "relic_id": "VA-O1151397",
  "name": "Silk skein",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1840,
+  1849
+ ],
  "category": "织绣",
  "material": "Silk thread",
  "dimensions": "Height 14 cm",
@@ -38,7 +41,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:54:22",
+ "dynasty_confidence": "low"
 }

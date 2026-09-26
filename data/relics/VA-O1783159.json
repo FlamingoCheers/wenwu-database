@@ -3,7 +3,10 @@
  "name": "Top Boy cast and crew coat",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  2004,
+  2004
+ ],
  "category": "杂器",
  "material": "polyester; cotton; polyurethane",
  "dimensions": "Width 1650 mm; Width 650 mm; Height 670 mm; Length 420 mm",
@@ -40,5 +43,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:12"
 }

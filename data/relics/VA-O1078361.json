@@ -2,8 +2,11 @@
  "relic_id": "VA-O1078361",
  "name": "Studies of Tanka boats with figures, Macau",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1825,
+  1825
+ ],
  "category": "杂器",
  "material": "pen and ink; pencil",
  "dimensions": "Height 26.8 cm; Width 19.5 cm",
@@ -28,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:09:56",
+ "dynasty_confidence": "low"
 }

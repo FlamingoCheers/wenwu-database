@@ -3,7 +3,10 @@
  "name": "Electronic Organizer",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1995,
+  1995
+ ],
  "category": "杂器",
  "material": "plastic; paper; cardboard; printing ink; metal; wire",
  "dimensions": "Length 13.2 cm; Width 8.3 cm; Length 18.2 cm; Width 12.7 cm",
@@ -40,5 +43,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:12"
 }

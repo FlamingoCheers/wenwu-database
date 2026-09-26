@@ -3,7 +3,10 @@
  "name": "Effects Pedal",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  2012,
+  2012
+ ],
  "category": "杂器",
  "material": "metal; plastic; electronic components; printing ink; cardboard; paper; adhesive",
  "dimensions": "Height 5 cm; Width 6.9 cm; Length 12.6 cm; Length 7.5 cm",
@@ -40,5 +43,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:12"
 }

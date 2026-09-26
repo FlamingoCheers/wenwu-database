@@ -2,11 +2,11 @@
  "relic_id": "HAM-204361",
  "name": "Ritual Bell (Bo zhong) with Decoration of Interlaced Dragons, Coiled-Snake Bosses, and with Openwork Handle in the Form of Confronting Felines atop Snakes",
  "category": "青铜器",
- "dynasty": "不详",
+ "dynasty": "南北朝",
  "dynasty_confidence": "low",
  "year_range": [
-  -6,
-  -6
+  501,
+  600
  ],
  "era_text": "6th cent. BCE - 5th cent. BCE",
  "dimensions": "sight: 66.04 x 46.36 x 36.83 cm (26 x 18 1/4 x 14 1/2 in.)",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/204361",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1943.52.181"
  },
  "material": "Cast bronze",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:06"
 }

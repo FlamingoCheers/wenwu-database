@@ -5,8 +5,8 @@
  "dynasty": "不详",
  "dynasty_confidence": "low",
  "year_range": [
-  -1600,
-  -600
+  1600,
+  600
  ],
  "era_text": "c. 1600-600 BCE",
  "dimensions": "H. 34.2 x W. (across handles) 35.6 x Diam. 29.5 cm (13 7/16 x 14 x 11 5/8 in.)",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/147442",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "2006.170.67"
  },
  "material": "Earthenware with slip-painted decoration",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:02"
 }

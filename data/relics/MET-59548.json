@@ -2,8 +2,8 @@
  "relic_id": "MET-59548",
  "name": "Finial in the Shape of a Tiger's Head",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "medium",
  "year_range": [
   -299,
   -200
@@ -38,6 +38,6 @@
  "raw_ref": "raw/met/59548.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08",
+ "updated_at": "2026-09-26T21:49:09",
  "desc_ai": true
 }

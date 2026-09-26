@@ -4,7 +4,10 @@
  "category": "玉器",
  "dynasty": "不详",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  1950,
+  1950
+ ],
  "era_text": null,
  "dimensions": "max.: H. 5 × W. 10.1 × D. 8.5 cm (1 15/16 × 4 × 3 3/8 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese",
@@ -18,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/198858",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1950.125.47.E"
  },
  "material": "",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:03"
 }

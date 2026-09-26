@@ -2,8 +2,11 @@
  "relic_id": "VA-O334503",
  "name": "Cup",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1740,
+  1740
+ ],
  "category": "瓷器",
  "material": "hard paste porcelain",
  "dimensions": "Height 6.4 cm; Diameter 6 cm",
@@ -28,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:00",
+ "dynasty_confidence": "low"
 }

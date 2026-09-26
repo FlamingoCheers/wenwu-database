@@ -3,7 +3,10 @@
  "name": "Tom",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  2016,
+  2016
+ ],
  "category": "杂器",
  "material": "polyester; synthetic; synthetic fibre; card; plastic",
  "dimensions": "Height 34 cm; Width 21 cm; Depth 14 cm",
@@ -35,5 +38,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:11"
 }

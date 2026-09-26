@@ -2,10 +2,10 @@
  "relic_id": "VA-O1465729",
  "name": "Fan belonging to Julia Neilson",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "year_range": [
   1868,
-  1957
+  1868
  ],
  "category": "杂器",
  "material": "wood; lacquer; gold paint; paper; paint; metal; wood; satin",
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:09:57",
+ "dynasty_confidence": "low"
 }

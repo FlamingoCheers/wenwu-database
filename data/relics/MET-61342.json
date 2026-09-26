@@ -2,8 +2,8 @@
  "relic_id": "MET-61342",
  "name": "Bird-head finial",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "东周",
+ "dynasty_confidence": "medium",
  "year_range": [
   -500,
   -200
@@ -36,5 +36,5 @@
  "raw_ref": "raw/met/61342.json",
  "needs_review": false,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:44:24"
 }

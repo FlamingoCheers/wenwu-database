@@ -2,8 +2,11 @@
  "relic_id": "VA-O496363",
  "name": "Dish",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1911,
+  1911
+ ],
  "category": "瓷器",
  "material": "porcelain",
  "dimensions": "Taken from the register",
@@ -28,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:04",
+ "dynasty_confidence": "low"
 }

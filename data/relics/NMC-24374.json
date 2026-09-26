@@ -2,9 +2,12 @@
  "relic_id": "NMC-24374",
  "name": "1924年启新洋灰公司上海栈房开工时的纪念照",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  1889,
+  1889
+ ],
  "category": "杂器",
  "material": null,
  "dimensions": null,
@@ -31,7 +34,7 @@
  ],
  "related": [],
  "raw_ref": "raw/nmc/detail_24374.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-20",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:09:48"
 }

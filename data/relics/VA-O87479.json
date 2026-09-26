@@ -2,8 +2,11 @@
  "relic_id": "VA-O87479",
  "name": "The Virgin of the Immaculate Conception (Tota Pulchra); with St John the Baptist, St Francis of Assisi, St John the Evangelist and St Anthony of Padua",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1601,
+  1800
+ ],
  "category": "雕塑",
  "material": "ivory",
  "dimensions": "Height 14.6 cm; Width 18 cm; Width 8.8 cm; Width 4.4 cm",
@@ -38,7 +41,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:16",
+ "dynasty_confidence": "low"
 }

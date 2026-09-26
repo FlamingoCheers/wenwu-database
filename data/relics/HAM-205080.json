@@ -2,11 +2,11 @@
  "relic_id": "HAM-205080",
  "name": "Small Bowl with Indented Lip and Silver Oil-Spot Decoration",
  "category": "瓷器",
- "dynasty": "不详",
+ "dynasty": "宋",
  "dynasty_confidence": "low",
  "year_range": [
-  12,
-  12
+  1101,
+  1200
  ],
  "era_text": "probably 12th century",
  "dimensions": "H. 4.8 x Diam. 9.2 cm (1 7/8 x 3 5/8 in.)",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/205080",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1942.185.416"
  },
  "material": "Northern black ware of Cizhou type: light gray stoneware with dark brown glaze, the markings in overglaze iron oxide, the lowest portion of the exterior dressed with black slip. From the Xiaoyu cun kilns at Huairen, Shanxi province.",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:06"
 }

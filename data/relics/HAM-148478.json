@@ -2,11 +2,11 @@
  "relic_id": "HAM-148478",
  "name": "Bottle with Lobed “Garlic Head” Mouth",
  "category": "瓷器",
- "dynasty": "不详",
+ "dynasty": "三国",
  "dynasty_confidence": "low",
  "year_range": [
-  -4,
-  -4
+  201,
+  300
  ],
  "era_text": "4th-3rd century BCE",
  "dimensions": "H. 34.7 x Diam. 22.7 cm (13 11/16 x 8 15/16 in.)",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/148478",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "2006.170.145"
  },
  "material": "Gray earthenware",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:05"
 }

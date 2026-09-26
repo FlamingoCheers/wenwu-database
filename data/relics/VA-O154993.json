@@ -2,10 +2,10 @@
  "relic_id": "VA-O154993",
  "name": "Snuff bottle",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "year_range": [
-  1930,
-  1970
+  1601,
+  1700
  ],
  "category": "玻璃器",
  "material": "glass; agate; enamel",
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:14",
+ "dynasty_confidence": "low"
 }

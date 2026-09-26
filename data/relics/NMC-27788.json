@@ -2,9 +2,12 @@
  "relic_id": "NMC-27788",
  "name": "永通万国",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  420,
+  589
+ ],
  "category": "杂器",
  "material": null,
  "dimensions": null,
@@ -35,6 +38,6 @@
  "raw_ref": "raw/nmc/detail_27788.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18",
+ "updated_at": "2026-09-26T21:49:10",
  "desc_ai": true
 }

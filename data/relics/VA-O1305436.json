@@ -3,7 +3,10 @@
  "name": "iPhone 6",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  2014,
+  2014
+ ],
  "category": "杂器",
  "material": "aluminium; plastic",
  "dimensions": "Width 6.7 cm; Length 13.8 cm; Depth 0.69 cm; Volume/capacity 129 g",
@@ -40,5 +43,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:10"
 }

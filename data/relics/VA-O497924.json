@@ -2,8 +2,11 @@
  "relic_id": "VA-O497924",
  "name": "Bowl and cover",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1650,
+  1650
+ ],
  "category": "杂器",
  "material": "copper; cloisonne enamel",
  "dimensions": "Height 5 in; Diameter 5 in",
@@ -33,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:05",
+ "dynasty_confidence": "low"
 }

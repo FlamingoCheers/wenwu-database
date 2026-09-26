@@ -2,8 +2,8 @@
  "relic_id": "MET-51966",
  "name": "Tile",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "汉",
+ "dynasty_confidence": "medium",
  "year_range": [
   -221,
   220
@@ -34,5 +34,5 @@
  "raw_ref": "raw/met/51966.json",
  "needs_review": false,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:09"
 }

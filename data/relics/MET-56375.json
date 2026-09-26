@@ -2,8 +2,8 @@
  "relic_id": "MET-56375",
  "name": "Folding chair with two birds among flowers",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
  "year_range": [
   1271,
   1399
@@ -38,5 +38,5 @@
  "raw_ref": "raw/met/56375.json",
  "needs_review": false,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:09"
 }

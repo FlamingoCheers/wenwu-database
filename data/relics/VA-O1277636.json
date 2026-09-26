@@ -3,7 +3,10 @@
  "name": "LeapPad Learning System",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1999,
+  1999
+ ],
  "category": "杂器",
  "material": "plastic; electronic components; paper",
  "dimensions": "Height 180 mm; Width 130 mm; Depth 20 mm",
@@ -35,5 +38,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:10"
 }

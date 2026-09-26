@@ -3,7 +3,10 @@
  "name": "Tommy",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1994,
+  1994
+ ],
  "category": "杂器",
  "material": "thread; ribbon; synthetic fabric; plastic",
  "dimensions": "Height 11 cm; Width 5 cm",
@@ -30,5 +33,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:10"
 }

@@ -2,9 +2,12 @@
  "relic_id": "NMC-25468",
  "name": "军用“国姓瓶”",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "南北朝",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  420,
+  589
+ ],
  "category": "陶器",
  "material": null,
  "dimensions": null,
@@ -35,5 +38,5 @@
  "raw_ref": "raw/nmc/detail_25468.html",
  "needs_review": false,
  "fetched_at": "2026-09-19",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:07"
 }

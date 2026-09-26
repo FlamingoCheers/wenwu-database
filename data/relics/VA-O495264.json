@@ -2,10 +2,10 @@
  "relic_id": "VA-O495264",
  "name": "Ewer and Lid",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "year_range": [
-  1500,
-  1699
+  1601,
+  1700
  ],
  "category": "瓷器",
  "material": "earthenware",
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:15",
+ "dynasty_confidence": "low"
 }

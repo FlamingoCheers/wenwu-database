@@ -2,10 +2,10 @@
  "relic_id": "VA-O492450",
  "name": "Figure",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "year_range": [
   1900,
-  1922
+  1900
  ],
  "category": "雕塑",
  "material": "ink",
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:03",
+ "dynasty_confidence": "low"
 }

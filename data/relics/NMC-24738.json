@@ -2,9 +2,12 @@
  "relic_id": "NMC-24738",
  "name": "后金崇德六年十一月朝鲜国备边司堂上朴平安监司郑平安兵使李关于边民金军山李守还等情况的申报",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1644,
+  1911
+ ],
  "category": "杂器",
  "material": null,
  "dimensions": null,
@@ -33,5 +36,5 @@
  "raw_ref": "raw/nmc/detail_24738.html",
  "needs_review": false,
  "fetched_at": "2026-09-19",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:07"
 }

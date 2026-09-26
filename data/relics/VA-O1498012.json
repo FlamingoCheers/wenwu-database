@@ -2,8 +2,11 @@
  "relic_id": "VA-O1498012",
  "name": "Lan Yue  攬月",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "商",
+ "year_range": [
+  -1600,
+  -1046
+ ],
  "category": "织绣",
  "material": "leather; bamboo",
  "dimensions": "Height 28 cm; Width 23 cm; Depth 11 cm",
@@ -40,5 +43,6 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:13",
+ "dynasty_confidence": "medium"
 }

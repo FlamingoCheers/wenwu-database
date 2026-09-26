@@ -2,11 +2,11 @@
  "relic_id": "HAM-206188",
  "name": "Spherical Jar with Cord-Marked Decor",
  "category": "瓷器",
- "dynasty": "不详",
+ "dynasty": "南北朝",
  "dynasty_confidence": "low",
  "year_range": [
-  -8,
-  -8
+  401,
+  500
  ],
  "era_text": "8th-5th century BCE",
  "dimensions": "H. 24.5 x Diam. 23 cm (9 5/8 x 9 1/16 in.)",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/206188",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1937.184"
  },
  "material": "Medium gray earthenware with decoration applied with a cord-wrapped paddle; with impressed seal at shoulder",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:07"
 }

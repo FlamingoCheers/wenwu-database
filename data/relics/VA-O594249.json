@@ -2,8 +2,11 @@
  "relic_id": "VA-O594249",
  "name": "The Blue Moon",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1904,
+  1904
+ ],
  "category": "杂器",
  "material": "printing ink",
  "dimensions": "Dimensions taken from <u>Victoria and Albert Museum Department of Prints and Drawings and Department of Paintings, Accessions 1951</u> London: HMSO, 1962.\r\n\r\n",
@@ -28,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:05",
+ "dynasty_confidence": "low"
 }

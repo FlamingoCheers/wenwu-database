@@ -2,9 +2,12 @@
  "relic_id": "NMC-24739",
  "name": "后金崇德年朝鲜国送金国礼品单",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "清",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  1644,
+  1911
+ ],
  "category": "文房用具",
  "material": null,
  "dimensions": null,
@@ -35,5 +38,5 @@
  "raw_ref": "raw/nmc/detail_24739.html",
  "needs_review": false,
  "fetched_at": "2026-09-19",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:07"
 }

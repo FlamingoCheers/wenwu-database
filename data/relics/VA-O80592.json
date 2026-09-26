@@ -3,7 +3,10 @@
  "name": "Cushion cover",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1920,
+  1929
+ ],
  "category": "织绣",
  "material": "silk textile; silk thread",
  "dimensions": null,
@@ -30,5 +33,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:15"
 }

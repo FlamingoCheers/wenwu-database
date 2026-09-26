@@ -2,10 +2,10 @@
  "relic_id": "VA-O495224",
  "name": "Jar",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "year_range": [
   1900,
-  1915
+  1900
  ],
  "category": "瓷器",
  "material": "porcelain",
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:04",
+ "dynasty_confidence": "low"
 }

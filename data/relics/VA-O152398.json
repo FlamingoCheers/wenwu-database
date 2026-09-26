@@ -3,7 +3,10 @@
  "name": "Fan",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1934,
+  1934
+ ],
  "category": "织绣",
  "material": "feather; bone",
  "dimensions": "Height 36 cm",
@@ -30,5 +33,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:11"
 }

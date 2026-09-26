@@ -2,9 +2,12 @@
  "relic_id": "NMC-27722",
  "name": "景德镇窑青花双凤纹玉壶春瓶",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "北宋",
+ "dynasty_confidence": "medium",
+ "year_range": [
+  960,
+  1127
+ ],
  "category": "瓷器",
  "material": null,
  "dimensions": null,
@@ -34,6 +37,6 @@
  "raw_ref": "raw/nmc/detail_27722.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18",
+ "updated_at": "2026-09-26T22:36:07",
  "desc_ai": true
 }

@@ -2,7 +2,7 @@
  "relic_id": "VA-O703974",
  "name": "The steps of the church of S. Lourenço, Macau, with a sketch of columns,",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "year_range": [
   1836,
   1836
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:05",
+ "dynasty_confidence": "low"
 }

@@ -2,8 +2,11 @@
  "relic_id": "VA-O16818",
  "name": "Hong Kong Harbour",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1850,
+  1850
+ ],
  "category": "书画",
  "material": "paper; watercolour (paint)",
  "dimensions": "Height 13.1 cm; Width 9.6 cm",
@@ -33,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:09:59",
+ "dynasty_confidence": "low"
 }

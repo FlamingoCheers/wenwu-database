@@ -2,8 +2,11 @@
  "relic_id": "VA-O703954",
  "name": " Tanka boats at sea, with other drawings",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1835,
+  1835
+ ],
  "category": "杂器",
  "material": null,
  "dimensions": "Height 18.3 cm; Width 26.5 cm",
@@ -33,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:05",
+ "dynasty_confidence": "low"
 }

@@ -2,9 +2,12 @@
  "relic_id": "NMC-25817",
  "name": "汉口民军炮队之攻击",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  1911,
+  1911
+ ],
  "category": "杂器",
  "material": null,
  "dimensions": null,
@@ -32,7 +35,7 @@
  ],
  "related": [],
  "raw_ref": "raw/nmc/detail_25817.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-19",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:09:48"
 }

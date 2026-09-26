@@ -2,8 +2,11 @@
  "relic_id": "VA-O704058",
  "name": "Drawing, Tanka boats off the coast, Macau",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1839,
+  1839
+ ],
  "category": "杂器",
  "material": "pencil; pen and ink",
  "dimensions": "Height 27.2 cm; Width 19.5 cm",
@@ -28,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:05",
+ "dynasty_confidence": "low"
 }

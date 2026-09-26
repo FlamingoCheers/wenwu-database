@@ -2,8 +2,11 @@
  "relic_id": "VA-O704049",
  "name": "Macau: the Praya Grande with the Governor's House and fort of S. Pedro",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1825,
+  1825
+ ],
  "category": "杂器",
  "material": "pencil",
  "dimensions": "Height 19.6 cm; Width 33 cm",
@@ -28,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:05",
+ "dynasty_confidence": "low"
 }

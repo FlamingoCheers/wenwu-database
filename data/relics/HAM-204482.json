@@ -5,8 +5,8 @@
  "dynasty": "不详",
  "dynasty_confidence": "low",
  "year_range": [
-  -1100,
-  -771
+  1100,
+  771
  ],
  "era_text": "c. 1100-771 BCE",
  "dimensions": "H. 5.5 x W. 3.4 x D. 3.2 cm (2 3/16 x 1 5/16 x 1 1/4 in.)\r\nWeight 88 g",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/204482",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1943.50.307"
  },
  "material": "Translucent olive-green, partly discolored nephrite with traces of red pigment",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:03"
 }

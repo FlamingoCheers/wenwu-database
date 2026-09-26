@@ -2,8 +2,11 @@
  "relic_id": "VA-O756622",
  "name": "Three studies of Chinese barbers",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1832,
+  1832
+ ],
  "category": "杂器",
  "material": "paper; ink; pencil",
  "dimensions": "Height 9.2 cm; Width 12.5 cm",
@@ -28,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:06",
+ "dynasty_confidence": "low"
 }

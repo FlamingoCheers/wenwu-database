@@ -3,7 +3,10 @@
  "name": "Costume",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1983,
+  1983
+ ],
  "category": "杂器",
  "material": "synthetic silk; satin; rayon; cotton; wadding; metal; cord; plastic",
  "dimensions": "Length 124 cm; Width 41 cm; Length 48 cm; Width 81 cm",
@@ -40,5 +43,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:12"
 }

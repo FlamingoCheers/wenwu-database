@@ -2,10 +2,10 @@
  "relic_id": "VA-O1114037",
  "name": "Fan belonging to actress Ethel Griffies",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "近代",
  "year_range": [
-  1878,
-  1975
+  1920,
+  1929
  ],
  "category": "杂器",
  "material": "ivory; ribbon; metal",
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:29:48",
+ "dynasty_confidence": "low"
 }

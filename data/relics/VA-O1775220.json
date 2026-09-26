@@ -3,7 +3,10 @@
  "name": "Shirt",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1995,
+  1995
+ ],
  "category": "杂器",
  "material": "cotton; ramie; paint; plastic",
  "dimensions": "Length 88.8 cm; Width 55 cm; Length 59.3 cm",
@@ -40,5 +43,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:12"
 }

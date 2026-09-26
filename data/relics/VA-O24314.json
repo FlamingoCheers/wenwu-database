@@ -3,7 +3,10 @@
  "name": "Vase",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1980,
+  1980
+ ],
  "category": "瓷器",
  "material": "porcelain",
  "dimensions": "Height 8.2 cm; Diameter 3.3 cm",
@@ -30,5 +33,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:12"
 }

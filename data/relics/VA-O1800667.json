@@ -3,7 +3,10 @@
  "name": "Cap",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1995,
+  1995
+ ],
  "category": "杂器",
  "material": "cotton; synthetic fabric; thread; plastic; metal",
  "dimensions": "Height 11 cm; Diameter 21 cm; Width 18.2 cm; Depth 7.4 cm",
@@ -40,5 +43,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:12"
 }

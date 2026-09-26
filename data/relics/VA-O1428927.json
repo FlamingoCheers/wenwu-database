@@ -2,8 +2,11 @@
  "relic_id": "VA-O1428927",
  "name": "Old Gate, Canton",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "近代",
+ "year_range": [
+  1914,
+  1914
+ ],
  "category": "杂器",
  "material": "glass",
  "dimensions": "Height 82 mm; Width 102 mm; Depth 3 mm",
@@ -28,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:29:48",
+ "dynasty_confidence": "low"
 }

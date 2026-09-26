@@ -2,10 +2,10 @@
  "relic_id": "VA-O125729",
  "name": "Handscroll",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "year_range": [
   1901,
-  2000
+  1940
  ],
  "category": "杂器",
  "material": null,
@@ -36,7 +36,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:13",
+ "dynasty_confidence": "low"
 }

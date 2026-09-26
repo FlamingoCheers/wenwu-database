@@ -2,8 +2,11 @@
  "relic_id": "VA-O1670445",
  "name": "Jacket",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "近代",
+ "year_range": [
+  1970,
+  1979
+ ],
  "category": "杂器",
  "material": "silk (textile)",
  "dimensions": "Circumference 90 cm; Circumference 98 cm; Length 57 cm; Length 53 cm",
@@ -38,7 +41,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:29:48",
+ "dynasty_confidence": "low"
 }

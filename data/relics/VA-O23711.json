@@ -2,9 +2,9 @@
  "relic_id": "VA-O23711",
  "name": "Cupboard",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "year_range": [
-  1920,
+  1901,
   1940
  ],
  "category": "竹木牙角",
@@ -31,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:14",
+ "dynasty_confidence": "low"
 }

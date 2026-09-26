@@ -2,9 +2,12 @@
  "relic_id": "NMC-24416",
  "name": "美国人詹姆斯·理查顿在上海街头拍摄的“站笼”照片",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  1900,
+  1900
+ ],
  "category": "历史影像",
  "material": null,
  "dimensions": null,
@@ -31,7 +34,7 @@
  ],
  "related": [],
  "raw_ref": "raw/nmc/detail_24416.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-19",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:09:48"
 }

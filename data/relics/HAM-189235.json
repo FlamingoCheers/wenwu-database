@@ -2,11 +2,11 @@
  "relic_id": "HAM-189235",
  "name": "Ovoid jar",
  "category": "瓷器",
- "dynasty": "不详",
+ "dynasty": "东晋",
  "dynasty_confidence": "low",
  "year_range": [
-  3,
-  3
+  301,
+  340
  ],
  "era_text": "3rd-early 4th century",
  "dimensions": "H. 34 x Diam. 41.3 cm (13 3/8 x 16 1/4 in.)",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/189235",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "2006.170.217"
  },
  "material": "Yue ware: stoneware with celadon glaze",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:05"
 }

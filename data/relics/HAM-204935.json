@@ -2,11 +2,11 @@
  "relic_id": "HAM-204935",
  "name": "Bird with Long Tail (one of two)",
  "category": "玉器",
- "dynasty": "不详",
+ "dynasty": "北宋",
  "dynasty_confidence": "low",
  "year_range": [
-  -11,
-  -11
+  1001,
+  1100
  ],
  "era_text": "c. 11th cent. BCE - 771 BCE",
  "dimensions": "3.2 x 6.5 x 0.4 cm (1 1/4 x 2 9/16 x 3/16 in.)\r\nunspecified: 10 g",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/204935",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1943.50.181.B"
  },
  "material": "Greenish buff, much calcified nephrite",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:06"
 }

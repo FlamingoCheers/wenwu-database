@@ -6,7 +6,10 @@
  ],
  "dynasty": "不详",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  701,
+  800
+ ],
  "category": "宗教造像",
  "material": null,
  "dimensions": "高13公分 像高10.7公分 最寬3.4公分",
@@ -44,5 +47,5 @@
  "raw_ref": "raw/npm/detail_47046.html",
  "needs_review": false,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:29:48"
 }

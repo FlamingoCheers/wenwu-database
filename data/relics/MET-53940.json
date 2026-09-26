@@ -2,8 +2,8 @@
  "relic_id": "MET-53940",
  "name": "Cup with flowering plum and crescent moon",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "元",
+ "dynasty_confidence": "medium",
  "year_range": [
   1200,
   1399
@@ -37,5 +37,5 @@
  "raw_ref": "raw/met/53940.json",
  "needs_review": false,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:09"
 }

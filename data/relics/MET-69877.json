@@ -2,8 +2,8 @@
  "relic_id": "MET-69877",
  "name": "Piece",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "近代",
+ "dynasty_confidence": "medium",
  "year_range": [
   1900,
   1999
@@ -34,6 +34,6 @@
  "raw_ref": "raw/met/69877.json",
  "needs_review": true,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-08",
+ "updated_at": "2026-09-26T21:49:10",
  "desc_ai": true
 }

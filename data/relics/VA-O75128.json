@@ -3,7 +3,10 @@
  "name": "The Night Before the Harvest",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1964,
+  1964
+ ],
  "category": "杂器",
  "material": "paper",
  "dimensions": "Height 15.7 cm; Width 12.2 cm",
@@ -30,5 +33,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:14"
 }

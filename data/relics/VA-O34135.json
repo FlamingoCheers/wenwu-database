@@ -3,7 +3,10 @@
  "name": "Curious George",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1970,
+  1979
+ ],
  "category": "杂器",
  "material": "Tin; Plastic; Cloth; Cardboard",
  "dimensions": "Height 14 cm; Width 13 cm; Depth 13 cm",
@@ -35,5 +38,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:12"
 }

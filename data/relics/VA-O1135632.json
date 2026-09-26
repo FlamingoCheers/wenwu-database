@@ -3,7 +3,10 @@
  "name": "Trainer",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  2004,
+  2004
+ ],
  "category": "织绣",
  "material": null,
  "dimensions": "Length 27 cm; Width 10 cm",
@@ -40,5 +43,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:10"
 }

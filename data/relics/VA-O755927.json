@@ -2,8 +2,11 @@
  "relic_id": "VA-O755927",
  "name": "Two sketches of a stag, and (on the reverse) a harpsichord",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1837,
+  1837
+ ],
  "category": "杂器",
  "material": "paper",
  "dimensions": "Height 15 cm; Width 23.7 cm",
@@ -28,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:05",
+ "dynasty_confidence": "low"
 }

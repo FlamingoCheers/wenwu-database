@@ -2,8 +2,11 @@
  "relic_id": "VA-O1370113",
  "name": "Poo-Ta-La, or Great Temple of Fo, near Zhehol in China",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1790,
+  1799
+ ],
  "category": "书画",
  "material": "watercolour; paper",
  "dimensions": "Height 236 mm; Width 253 mm",
@@ -28,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:54:22",
+ "dynasty_confidence": "low"
 }

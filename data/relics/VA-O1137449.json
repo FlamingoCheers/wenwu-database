@@ -3,7 +3,10 @@
  "name": "Star Wars Jabba Glob",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1977,
+  1977
+ ],
  "category": "杂器",
  "material": "plastic; card",
  "dimensions": "Height 100 mm; Width 200 mm; Depth 100 mm",
@@ -35,5 +38,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:10"
 }

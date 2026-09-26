@@ -2,11 +2,11 @@
  "relic_id": "HAM-205394",
  "name": "Rubbing of a Chinese Bronze Vessel",
  "category": "书画",
- "dynasty": "不详",
+ "dynasty": "清",
  "dynasty_confidence": "low",
  "year_range": [
-  19,
-  19
+  1901,
+  1940
  ],
  "era_text": "late 19th-early 20th century?",
  "dimensions": "painting proper: 124.8 × 124.3 cm (49 1/8 × 48 15/16 in.)\r\nwith mounting: 221 × 130.2 cm (87 × 51 1/4 in.)",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/205394",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1941.317"
  },
  "material": "Rubbing mounted as a hanging scroll; ink on paper",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:06"
 }

@@ -2,8 +2,8 @@
  "relic_id": "MET-75245",
  "name": "Pendant in the shape of a bird",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "medium",
  "year_range": [
   -2000,
   -1500
@@ -38,5 +38,5 @@
  "raw_ref": "raw/met/75245.json",
  "needs_review": false,
  "fetched_at": "2026-09-08",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:10"
 }

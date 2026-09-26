@@ -2,11 +2,11 @@
  "relic_id": "HAM-205532",
  "name": "Large Bowl with Five Large Silver Splashes Against a Ground of Silver Oil Spots",
  "category": "瓷器",
- "dynasty": "不详",
+ "dynasty": "宋",
  "dynasty_confidence": "low",
  "year_range": [
-  12,
-  12
+  1101,
+  1300
  ],
  "era_text": "12th-13th century",
  "dimensions": "9.1 x 19.4 cm (3 9/16 x 7 5/8 in.)",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/205532",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": false,
+ "needs_review": true,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1942.185.403"
  },
  "material": "Northern black ware of Cizhou type: light gray stoneware with dark brown glaze, the markings in overglaze iron oxide. Probably from the kilns at Zibo, Shandong province.",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T21:49:06"
 }

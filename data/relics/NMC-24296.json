@@ -2,9 +2,12 @@
  "relic_id": "NMC-24296",
  "name": "适应山区线路的北英机车",
  "aliases": [],
- "dynasty": "不详",
+ "dynasty": "清",
  "dynasty_confidence": "low",
- "year_range": null,
+ "year_range": [
+  1908,
+  1908
+ ],
  "category": "历史影像",
  "material": null,
  "dimensions": null,
@@ -32,7 +35,7 @@
  ],
  "related": [],
  "raw_ref": "raw/nmc/detail_24296.html",
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-20",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:09:48"
 }

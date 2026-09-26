@@ -3,7 +3,10 @@
  "name": "Shadow puppet",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  2000,
+  2000
+ ],
  "category": "杂器",
  "material": "hide; twine",
  "dimensions": "Height 31 cm; Width 26 cm; Width 4 cm",
@@ -35,5 +38,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:14"
 }

@@ -2,8 +2,11 @@
  "relic_id": "VA-O407883",
  "name": "Painting",
  "aliases": [],
- "dynasty": "不详",
- "year_range": null,
+ "dynasty": "清",
+ "year_range": [
+  1790,
+  1790
+ ],
  "category": "书画",
  "material": "paper; Watercolour (paint); ink",
  "dimensions": "Height 31.3 cm; Width 26.9 cm",
@@ -28,7 +31,8 @@
  "tags": [],
  "related": [],
  "raw_ref": null,
- "needs_review": false,
+ "needs_review": true,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:10:01",
+ "dynasty_confidence": "low"
 }

@@ -3,7 +3,10 @@
  "name": "A turbaned figure holding a horse",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1940,
+  1940
+ ],
  "category": "杂器",
  "material": "paper",
  "dimensions": "Height 15.5 cm; Width 22.7 cm",
@@ -30,5 +33,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-26",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:15"
 }

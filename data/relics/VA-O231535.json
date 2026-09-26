@@ -3,7 +3,10 @@
  "name": "PlayStation",
  "aliases": [],
  "dynasty": "不详",
- "year_range": null,
+ "year_range": [
+  1994,
+  1994
+ ],
  "category": "杂器",
  "material": "plastic; electronic components",
  "dimensions": "Weight 1.55 kg; Height 50 mm; Width 268 mm; Depth 183 mm",
@@ -40,5 +43,5 @@
  "raw_ref": null,
  "needs_review": false,
  "fetched_at": "2026-09-25",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-26T22:36:12"
 }
