@@ -2,13 +2,13 @@
  "relic_id": "NMC-24053",
  "name": "宁波女子师范学校的学生正在上课",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "近代",
+ "dynasty_confidence": "manual",
  "year_range": [
   1932,
   1932
  ],
- "category": "杂器",
+ "category": "历史影像",
  "material": null,
  "dimensions": null,
  "excavated_from": "",
@@ -32,7 +32,7 @@
  "tags": [],
  "related": [],
  "raw_ref": "raw/nmc/detail_24053.html",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-21",
- "updated_at": "2026-09-26T22:36:06"
+ "updated_at": "2026-09-27"
 }

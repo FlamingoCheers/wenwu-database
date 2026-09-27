@@ -2,8 +2,8 @@
  "relic_id": "NMC-24324",
  "name": "1917年汉粤川铁路线上的岳州停车场及机车房",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "近代",
+ "dynasty_confidence": "manual",
  "year_range": [
   1918,
   1918
@@ -35,7 +35,7 @@
  ],
  "related": [],
  "raw_ref": "raw/nmc/detail_24324.html",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-20",
- "updated_at": "2026-09-26T22:36:06"
+ "updated_at": "2026-09-27"
 }

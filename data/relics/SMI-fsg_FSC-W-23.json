@@ -2,11 +2,11 @@
  "relic_id": "SMI-fsg_FSC-W-23",
  "name": "Comb",
  "aliases": [],
- "dynasty": "三国",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "manual",
  "year_range": [
-  201,
-  300
+  -475,
+  -221
  ],
  "category": "杂器",
  "material": "H x W (overall): 7 x 2.7 cm (2 3/4 x 1 1/16 in)",
@@ -34,7 +34,7 @@
  ],
  "related": [],
  "raw_ref": "raw/smi/search_*.json",
- "needs_review": true,
+ "needs_review": false,
  "fetched_at": "2026-09-24",
- "updated_at": "2026-09-26T21:49:13"
+ "updated_at": "2026-09-27"
 }

@@ -2,9 +2,12 @@
  "relic_id": "NMC-26809",
  "name": "粉白地暗花双龙戏球纹宣纸",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "清",
+ "dynasty_confidence": "manual",
+ "year_range": [
+  1644,
+  1911
+ ],
  "category": "杂器",
  "material": null,
  "dimensions": null,
@@ -35,6 +38,6 @@
  "raw_ref": "raw/nmc/detail_26809.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18",
+ "updated_at": "2026-09-27",
  "desc_ai": true
 }

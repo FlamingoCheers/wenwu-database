@@ -2,10 +2,13 @@
  "relic_id": "NMC-27769",
  "name": "“天兴七年”金币",
  "aliases": [],
- "dynasty": "金",
- "dynasty_confidence": "low",
- "year_range": null,
- "category": "杂器",
+ "dynasty": "南北朝",
+ "dynasty_confidence": "manual",
+ "year_range": [
+  420,
+  589
+ ],
+ "category": "钱币",
  "material": null,
  "dimensions": null,
  "excavated_from": "",
@@ -33,6 +36,6 @@
  "raw_ref": "raw/nmc/detail_27769.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18",
+ "updated_at": "2026-09-27",
  "desc_ai": true
 }

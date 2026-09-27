@@ -2,9 +2,12 @@
  "relic_id": "NMC-24427",
  "name": "绰号为“小霸王”的绑匪张世魁",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "清",
+ "dynasty_confidence": "manual",
+ "year_range": [
+  1644,
+  1911
+ ],
  "category": "历史影像",
  "material": null,
  "dimensions": null,
@@ -33,6 +36,6 @@
  "raw_ref": "raw/nmc/detail_24427.html",
  "needs_review": true,
  "fetched_at": "2026-09-19",
- "updated_at": "2026-09-19",
+ "updated_at": "2026-09-27",
  "desc_ai": true
 }

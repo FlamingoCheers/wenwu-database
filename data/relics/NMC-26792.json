@@ -2,9 +2,12 @@
  "relic_id": "NMC-26792",
  "name": "四系彩陶碟形器",
  "aliases": [],
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "manual",
+ "year_range": [
+  -10000,
+  -2070
+ ],
  "category": "陶器",
  "material": null,
  "dimensions": null,
@@ -31,6 +34,6 @@
  "raw_ref": "raw/nmc/detail_26792.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-18",
+ "updated_at": "2026-09-27",
  "desc_ai": true
 }
