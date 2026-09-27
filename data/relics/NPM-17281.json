@@ -4,11 +4,11 @@
  "aliases": [
   "Modelbook of the Lively Snowfall Hall (Kuaixue Tang), (One): Copy of Wang Xizhi's Spring and Autumn Modelbook (Chunqiu Tie)"
  ],
- "dynasty": "宋",
- "dynasty_confidence": "medium",
+ "dynasty": "清",
+ "dynasty_confidence": "inferred",
  "year_range": [
-  960,
-  1279
+  1644,
+  1911
  ],
  "category": "书画",
  "material": null,
@@ -44,6 +44,6 @@
  "raw_ref": "raw/npm/detail_17281.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-22",
+ "updated_at": "2026-09-27",
  "desc_ai": true
 }

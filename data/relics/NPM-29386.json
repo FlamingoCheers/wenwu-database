@@ -4,11 +4,11 @@
  "aliases": [
   "Modelbooks of the Legacy to Future Generations Pavilion, (Six), (Infinite Time, (Zhou))： Poem on Baolin Temple Modelbook (Baolin Si Shi Tie)"
  ],
- "dynasty": "唐",
- "dynasty_confidence": "medium",
+ "dynasty": "清",
+ "dynasty_confidence": "inferred",
  "year_range": [
-  618,
-  907
+  1644,
+  1911
  ],
  "category": "书画",
  "material": null,
@@ -44,6 +44,6 @@
  "raw_ref": "raw/npm/detail_29386.html",
  "needs_review": true,
  "fetched_at": "2026-09-18",
- "updated_at": "2026-09-26",
+ "updated_at": "2026-09-27",
  "desc_ai": true
 }

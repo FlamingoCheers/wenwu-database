@@ -4,11 +4,11 @@
  "aliases": [
   "Modelbooks of the Three Rarities Hall, Vol. 14: Inkstone Modelbook (Xiangshi Tie)"
  ],
- "dynasty": "北宋",
- "dynasty_confidence": "medium",
+ "dynasty": "清",
+ "dynasty_confidence": "inferred",
  "year_range": [
-  960,
-  1127
+  1747,
+  1750
  ],
  "category": "书画",
  "material": null,
@@ -44,6 +44,6 @@
  "raw_ref": "raw/npm/detail_21516.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-26",
+ "updated_at": "2026-09-27",
  "desc_ai": true
 }

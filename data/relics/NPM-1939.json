@@ -5,8 +5,11 @@
   "Song Rubbing of the Imperial Zhidao Calligraphy Modelbook"
  ],
  "dynasty": "宋",
- "dynasty_confidence": "medium",
- "year_range": null,
+ "dynasty_confidence": "inferred",
+ "year_range": [
+  960,
+  1279
+ ],
  "category": "书画",
  "material": null,
  "dimensions": null,
@@ -41,6 +44,6 @@
  "raw_ref": "raw/npm/detail_1939.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-22",
+ "updated_at": "2026-09-27",
  "desc_ai": true
 }

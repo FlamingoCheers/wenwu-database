@@ -4,11 +4,11 @@
  "aliases": [
   "Ming Rubbings of Modelbooks from the Stopping Cloud Mansion (Tingyun Guan), (Volume Nine)： Letter to Chengxu, the Taoist Master (Chengxu Zhenren)"
  ],
- "dynasty": "元",
- "dynasty_confidence": "high",
+ "dynasty": "明",
+ "dynasty_confidence": "inferred",
  "year_range": [
-  1271,
-  1368
+  1368,
+  1644
  ],
  "category": "书画",
  "material": null,
@@ -44,6 +44,6 @@
  "raw_ref": "raw/npm/detail_29638.html",
  "needs_review": true,
  "fetched_at": "2026-09-07",
- "updated_at": "2026-09-23",
+ "updated_at": "2026-09-27",
  "desc_ai": true
 }
