@@ -40,3 +40,9 @@ wenwu_gh_token.txt
 
 # ±¾»úÍÆËÍ¸¨Öú½Å±¾£¨²»Èë¿â£©
 push-with-token.ps1
+
+# æœ¬åœ°ä¼šè¯è®°å¿†ï¼ˆä¸å…¥åº“ï¼‰
+.workbuddy/
+# æœ¬åœ°ä¸´æ—¶å¤æ ¸å·¥å…·
+review.html
+pipeline/build_review_html.py
