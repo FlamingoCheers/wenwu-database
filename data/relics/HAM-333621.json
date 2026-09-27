@@ -2,11 +2,11 @@
  "relic_id": "HAM-333621",
  "name": "Small Pear-Shaped Vase with Ribbed Walls and Mock-Ring Handles",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th century",
  "dimensions": "H. 16.5 cm (6 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2009.101"
  },
- "material": "Longquan celadon ware; molded light gray stoneware with applique handles and celadon glaze. From the kilns at Longquan, Zhejiang province."
+ "material": "Longquan celadon ware; molded light gray stoneware with applique handles and celadon glaze. From the kilns at Longquan, Zhejiang province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

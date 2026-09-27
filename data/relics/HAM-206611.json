@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: H. 24.5 x W. 40.2 cm (9 5/8 x 15 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.36.61"
  },
- "material": "Woodblock print; ink, color and silver on paper; with silver foils on some figures' faces; a fraction at bottom is not color printed, possibly it was originally folded in; with printed inscription on the carriage reading: \"Yu Huang Shang Di\" (\"The Jade Emperor\"), on the left red banner reading: \"Tiandi Sanjie Shifang Zhenzai\"(\"True Rulers of Heaven, Earth, The Three Realms and Ten Directions\"), and on the right blue banner reading: \"Shang Yuan Ci Fu Tianguan\" (\"The Daoist Heavenly Official Who Grants Forturne\"). Probably from Beijing."
+ "material": "Woodblock print; ink, color and silver on paper; with silver foils on some figures' faces; a fraction at bottom is not color printed, possibly it was originally folded in; with printed inscription on the carriage reading: \"Yu Huang Shang Di\" (\"The Jade Emperor\"), on the left red banner reading: \"Tiandi Sanjie Shifang Zhenzai\"(\"True Rulers of Heaven, Earth, The Three Realms and Ten Directions\"), and on the right blue banner reading: \"Shang Yuan Ci Fu Tianguan\" (\"The Daoist Heavenly Official Who Grants Forturne\"). Probably from Beijing.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

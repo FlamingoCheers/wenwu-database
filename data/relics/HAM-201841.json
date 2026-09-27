@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1722,
-  1735
+  1644,
+  1911
  ],
  "era_text": "Yongzheng period, 1722-1735",
  "dimensions": "H. 4.8 x Diam. 5.9 cm (1 7/8 x 2 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1983.51.2"
  },
- "material": "Enameled ware: porcelain with decoration in overglaze sepia enamel; with underglaze cobalt blue mark reading \"Da Qing Yongzheng nian zhi\" on the base"
+ "material": "Enameled ware: porcelain with decoration in overglaze sepia enamel; with underglaze cobalt blue mark reading \"Da Qing Yongzheng nian zhi\" on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

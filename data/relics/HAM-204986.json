@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th cent. BCE - 8th cent. BCE",
  "dimensions": "5.5 x 1.6 x 0.6 cm (2 3/16 x 5/8 x 1/4 in.)\r\nunspecified: 11 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.340"
  },
- "material": "Light grayish brown and cream-colored nephrite, slightly calcified and barely translucent"
+ "material": "Light grayish brown and cream-colored nephrite, slightly calcified and barely translucent",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

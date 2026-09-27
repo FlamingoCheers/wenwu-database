@@ -2,11 +2,11 @@
  "relic_id": "HAM-201753",
  "name": "Small Circular Dish with Flaring Walls and Notched Rim",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "H. 2.5 x Diam. 14.6 cm (1 x 5 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.279"
  },
- "material": "Ding ware: porcelaneous white stoneware with ivory-hued glaze over incised and carved decoration. From the Ding kilns at Quyang, Hebei province."
+ "material": "Ding ware: porcelaneous white stoneware with ivory-hued glaze over incised and carved decoration. From the Ding kilns at Quyang, Hebei province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

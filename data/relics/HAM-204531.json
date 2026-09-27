@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -12,
-  -12
+  -1600,
+  -1050
  ],
  "era_text": "12th-11th century BCE",
  "dimensions": "W. 0.7 x L. 6.7 x Thickness 1.2 cm (1/4 x 2 5/8 x 1/2 in.)\r\nWeight 8 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.619.A"
  },
- "material": "Cream-colored nephrite with gray markings"
+ "material": "Cream-colored nephrite with gray markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

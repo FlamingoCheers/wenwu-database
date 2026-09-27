@@ -5,8 +5,8 @@
  "dynasty": "新石器时代",
  "dynasty_confidence": "high",
  "year_range": [
-  -3,
-  -3
+  -3300,
+  -2200
  ],
  "era_text": "3rd millennium BCE",
  "dimensions": "8 x 11.8 cm (3 1/8 x 4 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.180"
  },
- "material": "Gray earthenware"
+ "material": "Gray earthenware",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-54482",
  "name": "Covered 'Ding' Tripod Vessel with Flaring Handles and Decoration of Animals Sporting Amidst Mountains and Clouds",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  101,
+  200
  ],
  "era_text": "1st-2nd century CE",
  "dimensions": "H. 19.2 x W. 24.4 x Diam. 20.5 cm (7 9/16 x 9 5/8 x 8 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.146.A-B"
  },
- "material": "Lead-glazed funerary ware: molded brick-red earthenware with lead-fluxed, emerald-green glaze over molded decoration"
+ "material": "Lead-glazed funerary ware: molded brick-red earthenware with lead-fluxed, emerald-green glaze over molded decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

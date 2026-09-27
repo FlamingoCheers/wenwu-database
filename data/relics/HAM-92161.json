@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1857,
-  1857
+  1644,
+  1911
  ],
  "era_text": "c. 1857 - c. 1874",
  "dimensions": "Book closed: 9 × 24.5 × 35 cm (3 9/16 × 9 5/8 × 13 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1978.484"
  },
- "material": "Album of albumen silver prints"
+ "material": "Album of albumen silver prints",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

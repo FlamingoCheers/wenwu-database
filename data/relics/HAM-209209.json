@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  14,
-  14
+  1368,
+  1644
  ],
  "era_text": "late 14th-early 15th century",
  "dimensions": "H. 30.8 x W. 54.9 cm (12 1/8 x 21 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.155.A"
  },
- "material": "Section of a handscroll mounted as an album leaf; ink on paper with signature reading \"Mengduan\""
+ "material": "Section of a handscroll mounted as an album leaf; ink on paper with signature reading \"Mengduan\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "宋",
  "dynasty_confidence": "high",
  "year_range": [
-  11,
-  11
+  960,
+  1279
  ],
  "era_text": "11th-13th century",
  "dimensions": "25.1 x 16.5 cm (9 7/8 x 6 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2001.122"
  },
- "material": "Simulated jiaotai ware; light gray stoneware with pale yellow glaze over appliqué thin layers of brown and white clays laminated to simulate marbling"
+ "material": "Simulated jiaotai ware; light gray stoneware with pale yellow glaze over appliqué thin layers of brown and white clays laminated to simulate marbling",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

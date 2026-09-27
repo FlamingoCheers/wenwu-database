@@ -2,11 +2,11 @@
  "relic_id": "HAM-201473",
  "name": "Jar with Chrysanthemum-Petal Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "13.1 x 15.5 cm (5 3/16 x 6 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1991.269"
  },
- "material": "Cizhou ware: light gray stoneware with clear glaze over white-slip-coated applique decoration"
+ "material": "Cizhou ware: light gray stoneware with clear glaze over white-slip-coated applique decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

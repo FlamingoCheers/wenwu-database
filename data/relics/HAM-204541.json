@@ -2,8 +2,8 @@
  "relic_id": "HAM-204541",
  "name": "Serrate Jade Disk",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "春秋",
+ "dynasty_confidence": "source",
  "year_range": [
   -770,
   -476
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.568"
  },
  "material": "Originally translucent, soft green nephrite now partially calcified to an opaque ivory color",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

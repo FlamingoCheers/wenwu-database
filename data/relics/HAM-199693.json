@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -12,
-  -12
+  -1600,
+  -1050
  ],
  "era_text": "12th-11th century BCE",
  "dimensions": "H. 27.9 x Diam. 16.3 cm (11 x 6 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1954.120"
  },
- "material": "Cast bronze with patina and encrustation"
+ "material": "Cast bronze with patina and encrustation",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

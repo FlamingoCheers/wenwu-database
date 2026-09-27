@@ -2,8 +2,8 @@
  "relic_id": "HAM-209775",
  "name": "Yuan An Sleeps Amid the Snow",
  "category": "书画",
- "dynasty": "元",
- "dynasty_confidence": "high",
+ "dynasty": "清",
+ "dynasty_confidence": "source",
  "year_range": [
   1644,
   1911
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.151"
  },
- "material": "Handscroll; ink on silk"
+ "material": "Handscroll; ink on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

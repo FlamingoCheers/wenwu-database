@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "8th century",
  "dimensions": "H. 6.03 x Diam. 8.26 cm (2 3/8 x 3 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.390"
  },
- "material": "Monochrome lead-glazed ware: white earthenware with lead-fluxed emerald-green glaze (now much degraded)"
+ "material": "Monochrome lead-glazed ware: white earthenware with lead-fluxed emerald-green glaze (now much degraded)",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

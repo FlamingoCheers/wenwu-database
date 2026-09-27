@@ -5,8 +5,8 @@
  "dynasty": "元",
  "dynasty_confidence": "high",
  "year_range": [
-  13,
-  13
+  1279,
+  1368
  ],
  "era_text": "13th-14th century",
  "dimensions": "max.: H. 12.5 × Diam. 15.2 cm (4 15/16 × 6 in.)\r\nmouth: Diam. 11.6 cm (4 9/16 in.)\r\nfoot: Diam. 7.5 cm (2 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2016.225"
  },
- "material": "Jun ware: light gray stoneware with milky blue glaze suffused with one lavender splash (from applied copper filings)"
+ "material": "Jun ware: light gray stoneware with milky blue glaze suffused with one lavender splash (from applied copper filings)",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

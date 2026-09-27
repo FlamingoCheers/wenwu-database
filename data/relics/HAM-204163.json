@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -13,
-  -13
+  -1600,
+  -1050
  ],
  "era_text": "13th-12th century BCE",
  "dimensions": "H. 24.4 cm (9 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1944.57.27"
  },
- "material": "Cast bronze; with integrally cast inscription inside the footring"
+ "material": "Cast bronze; with integrally cast inscription inside the footring",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

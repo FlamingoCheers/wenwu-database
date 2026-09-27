@@ -2,11 +2,11 @@
  "relic_id": "HAM-208835",
  "name": "Compressed \"Hu\" Storage Jar with Flaring Neck and Geometric Decor",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  101,
+  200
  ],
  "era_text": "1st-2nd century CE",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1930.461"
  },
- "material": "Cold-painted funerary ware: light gray earthenware with cold-painted pigments"
+ "material": "Cold-painted funerary ware: light gray earthenware with cold-painted pigments",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

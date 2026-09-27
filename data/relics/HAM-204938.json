@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -206,
-  -206
+  220
  ],
  "era_text": "206 BCE - 220 CE",
  "dimensions": "2.3 x 1.2 x 1.6 cm (7/8 x 1/2 x 5/8 in.)\r\nunspecified: 5 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.201"
  },
- "material": "Soft, jet-black stone"
+ "material": "Soft, jet-black stone",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "mid-to-late 18th century",
  "dimensions": "painting proper: H. 119.5 x W. 62.3 cm (47 1/16 x 24 1/2 in.)\r\noverall mounting with roller ends and cord: H. 263.5 x W. 89.5 cm (103 3/4 x 35 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1968.40"
  },
- "material": "Hanging scroll; ink and color on silk; with spurious signature reading \"Wu Zhuo\""
+ "material": "Hanging scroll; ink and color on silk; with spurious signature reading \"Wu Zhuo\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

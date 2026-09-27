@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: 31.3 x 18.3 cm (12 5/16 x 7 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.79"
  },
- "material": "Woodblock print; ink and color on paper; with printed inscription on the shrine reading \"Ju Bao Tang\" (\"Hall of Plentiful Treasure\"), and printed couplet reading from right to left: \"Tu Zhong Sheng Bai Yu; Di Nei Chu Huang Jin\" (\"Pure Jade Grows out of the Earth; Yellow Gold Comes out of the Ground\"). Probably from Jiajiang, Sichuan."
+ "material": "Woodblock print; ink and color on paper; with printed inscription on the shrine reading \"Ju Bao Tang\" (\"Hall of Plentiful Treasure\"), and printed couplet reading from right to left: \"Tu Zhong Sheng Bai Yu; Di Nei Chu Huang Jin\" (\"Pure Jade Grows out of the Earth; Yellow Gold Comes out of the Ground\"). Probably from Jiajiang, Sichuan.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

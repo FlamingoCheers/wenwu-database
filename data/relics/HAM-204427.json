@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  735,
-  735
+  618,
+  907
  ],
  "era_text": "c. 735",
  "dimensions": "H. 32 x W. 18.3 x D. 18.6 cm (12 5/8 x 7 3/16 x 7 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.41"
  },
- "material": "Light gray limestone with traces of gesso and pigment; from Tianlongshan Cave 17, near Taiyuan, Shanxi province"
+ "material": "Light gray limestone with traces of gesso and pigment; from Tianlongshan Cave 17, near Taiyuan, Shanxi province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

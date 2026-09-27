@@ -2,11 +2,11 @@
  "relic_id": "HAM-164894",
  "name": "Mountain-form censer (boshanlu) with tortoise-form base",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -1,
-  -1
+  -206,
+  9
  ],
  "era_text": "1st century BCE",
  "dimensions": "H. 25.3 x Diam. 12 cm (9 15/16 x 4 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.202.A-B"
  },
- "material": "Earthenware with green and brown lead glazes"
+ "material": "Earthenware with green and brown lead glazes",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

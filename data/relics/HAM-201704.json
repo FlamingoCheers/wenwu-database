@@ -2,8 +2,8 @@
  "relic_id": "HAM-201704",
  "name": "Modern Reproduction of the Leifengta Sutra",
  "category": "书画",
- "dynasty": "近代",
- "dynasty_confidence": "high",
+ "dynasty": "现当代",
+ "dynasty_confidence": "source",
  "year_range": [
   1963,
   1963
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.375"
  },
- "material": "Handscroll; ink on paper"
+ "material": "Handscroll; ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

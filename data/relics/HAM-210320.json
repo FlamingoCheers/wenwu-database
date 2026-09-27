@@ -2,11 +2,11 @@
  "relic_id": "HAM-210320",
  "name": "Cylindrical \"Zun\" Wine Vessel with Three Bear-Form Legs and Decoration of Hunters Pursuing Animals",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  2,
-  2
+  201,
+  300
  ],
  "era_text": "2nd-3rd century CE",
  "dimensions": "H. 16 x Diam. 20.4 cm (6 5/16 x 8 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1919.187"
  },
- "material": "Lead-glazed funerary ware: brick-red earthenware with lead-fluxed, emerald-green glaze over molded decoration"
+ "material": "Lead-glazed funerary ware: brick-red earthenware with lead-fluxed, emerald-green glaze over molded decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

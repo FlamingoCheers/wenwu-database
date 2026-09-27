@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: H. 35.2 x W. 25.9 cm (13 7/8 x 10 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.36.58"
  },
- "material": "Woodblock print; ink, color and gold on paper. Probably from Yangliuqing, Tianjin; identical to 1935.36.57."
+ "material": "Woodblock print; ink, color and gold on paper. Probably from Yangliuqing, Tianjin; identical to 1935.36.57.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

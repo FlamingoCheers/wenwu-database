@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "probably 15th century",
  "dimensions": "max.: H. 16.5 × W. 26.5 × D. 21.5 cm (6 1/2 × 10 7/16 × 8 7/16 in.)\r\nbase: W. 17 × D. 12.3 cm (6 11/16 × 4 13/16 in.)\r\nwith basin: H. 20 cm (7 7/8 in.)\r\nweight: 1729 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.56.1"
  },
- "material": "Numbered Jun ware: light gray stoneware with variegated magenta and blue glaze; with Chinese numeral 1 (yi) inscribed on base before firing; \"Chonghua gong Sui'an shi yong\"(Palace of Double Glory, used in the Room of Ease and Contentment) inscription incised on base at a later date"
+ "material": "Numbered Jun ware: light gray stoneware with variegated magenta and blue glaze; with Chinese numeral 1 (yi) inscribed on base before firing; \"Chonghua gong Sui'an shi yong\"(Palace of Double Glory, used in the Room of Ease and Contentment) inscription incised on base at a later date",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

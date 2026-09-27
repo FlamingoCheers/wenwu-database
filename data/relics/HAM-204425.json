@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  6,
-  6
+  386,
+  534
  ],
  "era_text": "first half 6th century",
  "dimensions": "H. 65 x W. 36 x D. 17 cm (25 9/16 x 14 3/16 x 6 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.38"
  },
- "material": "Gray limestone with traces of gesso and polychromy"
+ "material": "Gray limestone with traces of gesso and polychromy",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

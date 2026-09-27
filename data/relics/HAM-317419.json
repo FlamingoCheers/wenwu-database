@@ -2,11 +2,11 @@
  "relic_id": "HAM-317419",
  "name": "Broad-Shouldered Bottle with Tortoiseshell Glaze",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-14th century",
  "dimensions": "H. 20.0 x Diam. 12.4 cm (7 7/8 x 4 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2007.132"
  },
- "material": "Jizhou-type ware, probably Tushan ware: light gray stoneware with variegated brown and amber glazes over a white slip ground, the lower portion of the bottle coated with dark russet slip. Probably from the kilns at Tushan, Sichuan province."
+ "material": "Jizhou-type ware, probably Tushan ware: light gray stoneware with variegated brown and amber glazes over a white slip ground, the lower portion of the bottle coated with dark russet slip. Probably from the kilns at Tushan, Sichuan province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

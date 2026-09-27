@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "17th-20th century",
  "dimensions": "irregular: 11.1 x 65.4 x 60.1 cm (4 3/8 x 25 3/4 x 23 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1960.169.52"
  },
- "material": "Silk"
+ "material": "Silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

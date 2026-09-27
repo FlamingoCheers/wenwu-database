@@ -2,11 +2,11 @@
  "relic_id": "HAM-204302",
  "name": "Socketed Finial in the Form of a Bird (One of a Pair)",
  "category": "青铜器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "H. 25.2 x W. 8.4 x D. 4 cm (9 15/16 x 3 5/16 x 1 9/16 in.)",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.52.38.B"
  },
  "material": "Gilt bronze with crystal inlay",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

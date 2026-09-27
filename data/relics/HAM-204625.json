@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "c. 16th cent. BCE - c. 8th cent. BCE",
  "dimensions": "16 cm (6 5/16 in.)\r\nunspecified: 346 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.597.A-B"
  },
- "material": "Translucent bluish green stone with light gray and brownish markings"
+ "material": "Translucent bluish green stone with light gray and brownish markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

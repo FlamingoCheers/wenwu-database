@@ -2,11 +2,11 @@
  "relic_id": "HAM-204078",
  "name": "Vessel Leg in the Form of a Crouching Bear (probably from a 'lian', 'zun' or 'pan' ritual vessel)",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -206,
+  9
  ],
  "era_text": "3rd-1st century BCE",
  "dimensions": "H. 10.1 x W. 4.6 x D. 4.6 cm (4 x 1 13/16 x 1 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.92"
  },
- "material": "Gilt bronze"
+ "material": "Gilt bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

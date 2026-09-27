@@ -2,11 +2,11 @@
  "relic_id": "HAM-204828",
  "name": "Large Jade Disk with Pattern of Plastic Cones",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "0.8 x 17.5 cm (5/16 x 6 7/8 in.)\r\nunspecified: 329 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.542"
  },
  "material": "Bone-colored nephrite with a few spots of original greenish hue",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

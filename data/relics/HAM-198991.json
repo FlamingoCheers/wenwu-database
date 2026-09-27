@@ -2,11 +2,11 @@
  "relic_id": "HAM-198991",
  "name": "Glass Disk",
  "category": "玻璃器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -206,
+  9
  ],
  "era_text": "3rd cent. BCE - 1st cent. BCE",
  "dimensions": "Diam. 11.9 × Thickness 0.7 cm (4 11/16 × 1/4 in.)\r\n214 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.585"
  },
- "material": "Milky white glass with chalky corrosion"
+ "material": "Milky white glass with chalky corrosion",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

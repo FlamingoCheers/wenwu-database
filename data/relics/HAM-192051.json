@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  9,
-  9
+  618,
+  907
  ],
  "era_text": "9th century",
  "dimensions": "H. 6.2 x W. 12.9 x D. 8.8 cm (2 7/16 x 5 1/16 x 3 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.274"
  },
- "material": "Marbled earthenware with amber colored lead glaze"
+ "material": "Marbled earthenware with amber colored lead glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

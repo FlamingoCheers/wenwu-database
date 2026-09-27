@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  10,
-  10
+  618,
+  907
  ],
  "era_text": "10th century",
  "dimensions": "H. 3.0 x W. 12.0 cm (1 3/16 x 4 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2001.219"
  },
- "material": "Probably Ding ware: porcelaneous white stoneware with ivory-hued glaze. Probably from the Ding kilns at Quyang, Hebei province."
+ "material": "Probably Ding ware: porcelaneous white stoneware with ivory-hued glaze. Probably from the Ding kilns at Quyang, Hebei province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

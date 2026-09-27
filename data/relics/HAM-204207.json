@@ -2,11 +2,11 @@
  "relic_id": "HAM-204207",
  "name": "Head from a Tomb Figurine in the Form of a Woman",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  101,
+  200
  ],
  "era_text": "1st-2nd century CE",
  "dimensions": "11 x 11 x 8 cm (4 5/16 x 4 5/16 x 3 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1945.18.5"
  },
- "material": "Cold-painted funerary ware: molded gray earthenware with traces of cold-painted pigment over white gesso gound"
+ "material": "Cold-painted funerary ware: molded gray earthenware with traces of cold-painted pigment over white gesso gound",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

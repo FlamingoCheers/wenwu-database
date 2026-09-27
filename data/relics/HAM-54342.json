@@ -2,11 +2,11 @@
  "relic_id": "HAM-54342",
  "name": "Circular Cup or Small Bowl with Vertical Sides",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "late 11th - first half 12th century",
  "dimensions": "max.: H. 4.7 × Diam. 9.5 cm (1 7/8 × 3 3/4 in.)\r\nmouth: Diam. 9.1 cm (3 9/16 in.)\r\nfoot: Diam. 4 cm (1 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.154"
  },
- "material": "Green Jun ware: light gray stoneware with celadon glaze"
+ "material": "Green Jun ware: light gray stoneware with celadon glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

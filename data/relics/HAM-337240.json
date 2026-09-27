@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1530,
-  1531
+  1368,
+  1644
  ],
  "era_text": "1530-1531",
  "dimensions": "painting: H. 28 x W. 211.1 cm (11 x 83 1/8 in.)\r\npoem: H. 25.1 x W. 115.6 cm (9 7/8 x 45 1/2 in.)\r\nmounting: H. 34.2 cm (13 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2010.609"
  },
- "material": "Handscroll; the painting in ink and color on silk, with signature of the artist reading \"Jiajing gengyin qiyue siri; Zhengming xie\", and with two seals of the artist reading \"Zheng\" and \"Ming\"; the calligraphy in ink on paper, with signature of the artist reading \"Zhengming\", and with two seals of the artist reading \"Wen Zheng Ming Yin\" and \"Heng Shan\".\r\n"
+ "material": "Handscroll; the painting in ink and color on silk, with signature of the artist reading \"Jiajing gengyin qiyue siri; Zhengming xie\", and with two seals of the artist reading \"Zheng\" and \"Ming\"; the calligraphy in ink on paper, with signature of the artist reading \"Zhengming\", and with two seals of the artist reading \"Wen Zheng Ming Yin\" and \"Heng Shan\".\r\n",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

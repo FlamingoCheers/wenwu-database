@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "35.5 x 25 cm (14 x 9 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.36.121"
  },
- "material": "Woodblock print; ink and color on paper; with printed inscription of character names from right to left: \"Da Dao Guan Sheng\" (\"Guan Sheng the Big Halberd\"), \"Jin Qiang Shou Xu Ning\" (\"Xu Ning the Metal Lancer\") and \"Shuang Bian\" (\"Two Rods\": nickname of Huyan Zhuo). Probably from Yangliuqing, Tianjin."
+ "material": "Woodblock print; ink and color on paper; with printed inscription of character names from right to left: \"Da Dao Guan Sheng\" (\"Guan Sheng the Big Halberd\"), \"Jin Qiang Shou Xu Ning\" (\"Xu Ning the Metal Lancer\") and \"Shuang Bian\" (\"Two Rods\": nickname of Huyan Zhuo). Probably from Yangliuqing, Tianjin.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

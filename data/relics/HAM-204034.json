@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -206,
-  -206
+  220
  ],
  "era_text": "206 BCE-220 CE",
  "dimensions": "39.4 x 41.3 cm (15 1/2 x 16 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.117"
  },
- "material": "Cold-painted funerary ware: molded gray earthenware with traces of cold-painted pigments over a white gesso ground"
+ "material": "Cold-painted funerary ware: molded gray earthenware with traces of cold-painted pigments over a white gesso ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

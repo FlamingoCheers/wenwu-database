@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1571,
-  1571
+  1368,
+  1644
  ],
  "era_text": "1571",
  "dimensions": "sight: 133.3 × 33.7 cm (52 1/2 × 13 1/4 in.)\r\nmount: 174 × 47 cm (68 1/2 × 18 1/2 in.)\r\nframe: 176.5 × 49.7 × 2.5 cm (69 1/2 × 19 9/16 × 1 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.183"
  },
- "material": "Hanging scroll mounted as a panel and framed; ink and light color on paper"
+ "material": "Hanging scroll mounted as a panel and framed; ink and light color on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

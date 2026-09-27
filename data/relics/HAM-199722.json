@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1368,
+  1644
  ],
  "era_text": "mid 17th century",
  "dimensions": "H. 39.8 x Diam. 17 cm (15 11/16 x 6 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1979.446"
  },
- "material": "Transitional blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue and with incised borders at top and bottom"
+ "material": "Transitional blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue and with incised borders at top and bottom",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

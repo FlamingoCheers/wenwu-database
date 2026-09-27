@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: 37.8 x 38.6 cm (14 7/8 x 15 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.32"
  },
- "material": "Woodblock print; ink on paper. Probably from Jiajiang, Sichuan; compare with 1935.37.119 and .121."
+ "material": "Woodblock print; ink on paper. Probably from Jiajiang, Sichuan; compare with 1935.37.119 and .121.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1736,
-  1795
+  1644,
+  1911
  ],
  "era_text": "late 18th-early 19th century, possibly Qianlong period (1736-1795)",
  "dimensions": "overall, with lid: H. 16.5 x W. 18.5 x D. 10.7 cm (6 1/2 x 7 5/16 x 4 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.123.A-B"
  },
- "material": "Green jadeite, the vessel with inclusions of white albite"
+ "material": "Green jadeite, the vessel with inclusions of white albite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

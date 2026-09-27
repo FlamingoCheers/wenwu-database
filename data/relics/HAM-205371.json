@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1662,
-  1722
+  1644,
+  1911
  ],
  "era_text": "late 17th-early 18th century, probably Kangxi period (1662-1722)",
  "dimensions": "17.9 x 13.5 x 10.9 cm (7 1/16 x 5 5/16 x 4 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.245.A"
  },
- "material": "Pale greenish white nephrite"
+ "material": "Pale greenish white nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

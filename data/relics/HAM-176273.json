@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "8th-9th century",
  "dimensions": "with cover: H. 4.8 x Diam. 8.5 cm (1 7/8 x 3 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.249.A-B"
  },
- "material": "White stoneware with ivory hued glaze"
+ "material": "White stoneware with ivory hued glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

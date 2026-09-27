@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "8th century",
  "dimensions": "H. 27.1 x Diam. 16.5 cm (10 11/16 x 6 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.169.3"
  },
- "material": "Hammered and turned Bronze"
+ "material": "Hammered and turned Bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

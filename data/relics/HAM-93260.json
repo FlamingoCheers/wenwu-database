@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th century",
  "dimensions": "H. 19.5 x W. 27 cm (7 11/16 x 10 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.200.B"
  },
- "material": "Album leaf"
+ "material": "Album leaf",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

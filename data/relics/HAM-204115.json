@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "8th century",
  "dimensions": "Diam. 24 cm (9 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.162"
  },
- "material": "Cast bronze with traces of gold over  a lacquer (?) substrate"
+ "material": "Cast bronze with traces of gold over  a lacquer (?) substrate",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

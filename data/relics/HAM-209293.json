@@ -2,11 +2,11 @@
  "relic_id": "HAM-209293",
  "name": "Small Circular Covered Box with Floral Decoration",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "probably 13th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1930.15.A-B"
  },
- "material": "Qingbai ware: molded porcelain with pale sky-blue glaze"
+ "material": "Qingbai ware: molded porcelain with pale sky-blue glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

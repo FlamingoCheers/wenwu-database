@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "19th century",
  "dimensions": "H. 21.3 cm (8 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1950.83.40"
  },
- "material": "Monochrome glazed porcelain: porcelain with crackled yellow glaze on the exterior and emerald green enamel on the interior"
+ "material": "Monochrome glazed porcelain: porcelain with crackled yellow glaze on the exterior and emerald green enamel on the interior",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

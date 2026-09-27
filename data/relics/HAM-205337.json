@@ -5,8 +5,8 @@
  "dynasty": "宋",
  "dynasty_confidence": "high",
  "year_range": [
-  12,
-  12
+  960,
+  1279
  ],
  "era_text": "12th cent. - 13th cent.",
  "dimensions": "H. 5.1 x W. 5 x D. 2 cm (2 x 1 15/16 x 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.137"
  },
- "material": "Coarse reddish buff firing clay. Recovered from the kilns at Shuiji, Jianyang county, Fujian province"
+ "material": "Coarse reddish buff firing clay. Recovered from the kilns at Shuiji, Jianyang county, Fujian province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

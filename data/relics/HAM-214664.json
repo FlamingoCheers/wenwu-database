@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1736,
-  1795
+  1644,
+  1911
  ],
  "era_text": "Qianlong period, 1736-1795",
  "dimensions": "146 x 202.5 cm (57 1/2 x 79 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1960.169.14"
  },
- "material": "Brown satin ground with embroidered decoration"
+ "material": "Brown satin ground with embroidered decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

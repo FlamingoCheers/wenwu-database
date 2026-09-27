@@ -2,11 +2,11 @@
  "relic_id": "HAM-204734",
  "name": "Jade Belt Hook with Recumbent Deer Decor",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "L. 8.3 x W. 3.7 x D. 3.1 cm (3 1/4 x 1 7/16 x 1 1/4 in.)\r\nunspecified: 56 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.456"
  },
  "material": "Grayish, discolored nephrite",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

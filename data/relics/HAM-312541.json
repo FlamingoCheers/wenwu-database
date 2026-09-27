@@ -5,8 +5,8 @@
  "dynasty": "元",
  "dynasty_confidence": "high",
  "year_range": [
-  -14,
-  -14
+  1279,
+  1368
  ],
  "era_text": "mid-14th century",
  "dimensions": "H. 6.5 cm x Diam. 40.8 cm (2 9/16 in.  x  16 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.114"
  },
- "material": "Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue"
+ "material": "Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

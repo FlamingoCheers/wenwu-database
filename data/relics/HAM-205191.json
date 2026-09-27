@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th cent. BCE - 11th cent. BCE",
  "dimensions": "34.2 x 8.6 x 0.6 cm (13 7/16 x 3 3/8 x 1/4 in.)\r\nunspecified: 339 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.19"
  },
- "material": "Pale bluish green nephrite in an advanced state of calcification"
+ "material": "Pale bluish green nephrite in an advanced state of calcification",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

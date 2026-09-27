@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "8th cent. - 9th cent.",
  "dimensions": "H. 22.1 x Diam. 18.1 cm (8 11/16 x 7 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2002.91"
  },
- "material": "Lushan ware: light gray stoneware with dark brown glaze embellished with variegated light blue splashes.  Probably from the Duandian kiln, Lushan county, Henan province."
+ "material": "Lushan ware: light gray stoneware with dark brown glaze embellished with variegated light blue splashes.  Probably from the Duandian kiln, Lushan county, Henan province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

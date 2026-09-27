@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1795,
-  1795
+  1644,
+  1911
  ],
  "era_text": "dated to 1795, Qianlong period",
  "dimensions": "H. 17.8 × Diam. 18.4 cm (7 × 7 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.263"
  },
- "material": "Dark green nephrite with black inclusions (so-called spinach-green jade); with dated inscription of the Qianlong Emperor (r. 1736-95) incised around the rim"
+ "material": "Dark green nephrite with black inclusions (so-called spinach-green jade); with dated inscription of the Qianlong Emperor (r. 1736-95) incised around the rim",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

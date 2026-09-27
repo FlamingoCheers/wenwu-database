@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "probably 15th century",
  "dimensions": "max.: H. 7 × Diam. 18.9 cm (2 3/4 × 7 7/16 in.)\r\nbase: Diam. 13.5 cm (5 5/16 in.)\r\nweight: 926.6 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.48"
  },
- "material": "Numbered Jun ware: light gray stoneware with variegated purple and blue glaze; with Chinese numeral 7 (qi) inscribed on base before firing"
+ "material": "Numbered Jun ware: light gray stoneware with variegated purple and blue glaze; with Chinese numeral 7 (qi) inscribed on base before firing",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-202791",
  "name": "Waves in the Moonlight",
  "category": "书画",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "probably Southern Song or Yuan, 13th century",
  "dimensions": "painting proper: H. 30.7 × W. 29.5 cm (12 1/16 × 11 5/8 in.)\r\noverall mounting, including roller ends and suspension cord: H. 122.5 × W. 53.5 cm (48 1/4 × 21 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1961.63"
  },
- "material": "Circular album painting mounted as a hanging scroll; ink and gold on silk"
+ "material": "Circular album painting mounted as a hanging scroll; ink and gold on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

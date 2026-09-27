@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "early 15th century (probably Yongle period)",
  "dimensions": "H. 7.0 x Diam. 40.5 cm (2 3/4 x 15 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2005.110"
  },
- "material": "Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue"
+ "material": "Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

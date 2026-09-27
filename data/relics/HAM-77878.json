@@ -2,11 +2,11 @@
  "relic_id": "HAM-77878",
  "name": "Fragment of a Solid, Rectangular Brick with Decoration of Two Animals (possibly two rabbits pounding the elixir of immortality in a mortar)",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  201,
+  300
  ],
  "era_text": "1st-3rd century",
  "dimensions": "H. 6.1 x W. 17 x Depth 16.8 cm (2 3/8 x 6 11/16 x 6 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1929.1.6"
  },
- "material": "Light gray earthenware with mold-impressed decoration.  Reportedly recovered at Lelang (also spelled Lo-lang; Korean, Naknang), near T'o-sông-ni, southwest of P'yôngyang, Korea."
+ "material": "Light gray earthenware with mold-impressed decoration.  Reportedly recovered at Lelang (also spelled Lo-lang; Korean, Naknang), near T'o-sông-ni, southwest of P'yôngyang, Korea.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

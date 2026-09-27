@@ -2,11 +2,11 @@
  "relic_id": "HAM-204774",
  "name": "Long Jade Hook Terminating in Dragon Heads",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -206,
+  9
  ],
  "era_text": "3rd-2nd century BCE (?)",
  "dimensions": "H. 14.7 x W. 1 x Thickness 0.7 cm (5 13/16 x 3/8 x 1/4 in.)\r\nWeight 26 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.453"
  },
- "material": "Whitish translucent nephrite with a few brown markings"
+ "material": "Whitish translucent nephrite with a few brown markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

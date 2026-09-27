@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1761,
-  1761
+  1644,
+  1911
  ],
  "era_text": "c. 1761",
  "dimensions": "painting proper: H. 24.7 × W. 21.2 cm (9 3/4 × 8 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.149.3"
  },
- "material": "painting: ink and color on silk; calligraphy: ink on paper"
+ "material": "painting: ink and color on silk; calligraphy: ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

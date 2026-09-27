@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -206,
-  -206
+  220
  ],
  "era_text": "206 BCE - 220 CE",
  "dimensions": "H. 5.9 x Diam. 7.1 cm (2 5/16 x 2 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.43.C"
  },
- "material": "Gilt bronze"
+ "material": "Gilt bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

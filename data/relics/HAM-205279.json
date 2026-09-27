@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3300,
-  -3300
+  -2200
  ],
  "era_text": "c. 3300 BCE - c. 2000 BCE",
  "dimensions": "26 x 6.4 x 7.3 cm (10 1/4 x 2 1/2 x 2 7/8 in.)\r\nunspecified: 2935 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.145"
  },
- "material": "Bluish-green and gray stone with buff markings"
+ "material": "Bluish-green and gray stone with buff markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

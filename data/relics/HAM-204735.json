@@ -2,11 +2,11 @@
  "relic_id": "HAM-204735",
  "name": "Composite Jade Belt or Garment Hook",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -4,
-  -4
+  -475,
+  -221
  ],
  "era_text": "4th cent. BCE - 3rd cent. BCE",
  "dimensions": "L. 23.8 x W. 4 cm (9 3/8 x 1 9/16 in.)\r\nunspecified: 190 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.458"
  },
- "material": "Thirteen sections of nephrite of varying shades, held together by an iron core"
+ "material": "Thirteen sections of nephrite of varying shades, held together by an iron core",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

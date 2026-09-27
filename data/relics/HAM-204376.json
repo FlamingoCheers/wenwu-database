@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  14,
-  14
+  1368,
+  1644
  ],
  "era_text": "14th-17th century",
  "dimensions": "H. 15.2 cm (6 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.110"
  },
- "material": "Ming \"sancai\" (three-color) ware: molded brick-red earthenware with lead-fluxed emerald green, black, and clear glazes over white slip, the flesh portions with golden lacquer over the glaze"
+ "material": "Ming \"sancai\" (three-color) ware: molded brick-red earthenware with lead-fluxed emerald green, black, and clear glazes over white slip, the flesh portions with golden lacquer over the glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

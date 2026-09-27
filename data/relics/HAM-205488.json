@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1736,
-  1795
+  1644,
+  1911
  ],
  "era_text": "1736-1795, Qianlong period",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.321"
  },
- "material": "Pale grayish white nephrite; with mark on the base reading 'Qianlong Yu Zhi' in seal-script characters"
+ "material": "Pale grayish white nephrite; with mark on the base reading 'Qianlong Yu Zhi' in seal-script characters",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

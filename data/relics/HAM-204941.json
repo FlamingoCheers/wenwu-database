@@ -2,11 +2,11 @@
  "relic_id": "HAM-204941",
  "name": "Thin, Chisel-Like Jade Blade",
  "category": "玉器",
- "dynasty": "商",
- "dynasty_confidence": "high",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "source",
  "year_range": [
   -2000,
-  -2000
+  -1700
  ],
  "era_text": "c. 2000 BCE - c. 1700 BCE",
  "dimensions": "17.7 x 6.3 x 0.4 cm (6 15/16 x 2 1/2 x 3/16 in.)\r\nunspecified: 81 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.87"
  },
- "material": "Light brownish gray, strongly translucent nephrite"
+ "material": "Light brownish gray, strongly translucent nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

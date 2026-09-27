@@ -2,11 +2,11 @@
  "relic_id": "HAM-177002",
  "name": "Circular Bowl with Notched Rim and Scrolling-Peony Decor",
  "category": "书画",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "late 11th-early 12th century",
  "dimensions": "H. 6.6 x Diam. 19.4 cm (2 5/8 x 7 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.123"
  },
- "material": "Qingbai ware: porcelain with pale blue glaze over carved and incised decoration"
+ "material": "Qingbai ware: porcelain with pale blue glaze over carved and incised decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

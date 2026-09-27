@@ -5,8 +5,8 @@
  "dynasty": "宋",
  "dynasty_confidence": "high",
  "year_range": [
-  10,
-  10
+  960,
+  1279
  ],
  "era_text": "10th-13th century",
  "dimensions": "182.88 x 63.5 cm (72 x 25 in.)\r\n675 lb.",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1926.10.1"
  },
- "material": "Mural"
+ "material": "Mural",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

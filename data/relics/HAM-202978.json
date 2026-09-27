@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1898,
-  1898
+  1644,
+  1911
  ],
  "era_text": "1898",
  "dimensions": "painting proper: H. 132.1 x W. 63.5 cm (52 x 25 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1968.71"
  },
- "material": "Hanging scroll; ink and colors on paper, with large red square relief seal of the artist reading \"Cixi Huangtaihou zhi bao\" (Treasure of the Empress Dowager Cixi)"
+ "material": "Hanging scroll; ink and colors on paper, with large red square relief seal of the artist reading \"Cixi Huangtaihou zhi bao\" (Treasure of the Empress Dowager Cixi)",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1,
-  1
+  1368,
+  1644
  ],
  "era_text": "1st half 16th century",
  "dimensions": "painting proper: 146.9 × 53.2 cm (57 13/16 × 20 15/16 in.)\r\nmounting, silk only: 273.4 × 69.2 cm (107 5/8 × 27 1/4 in.)\r\nmounting, including cord and roller ends: 275.9 × 78.7 cm (108 5/8 × 31 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.220"
  },
- "material": "Hanging scroll; ink on silk with a signature reading \"Sansong\""
+ "material": "Hanging scroll; ink on silk with a signature reading \"Sansong\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

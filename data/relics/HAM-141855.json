@@ -2,11 +2,11 @@
  "relic_id": "HAM-141855",
  "name": "Circular Covered Box, the Domed Cover with Decoration of a Branch of Blossoming Plum under a Crescent Moon",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th century",
  "dimensions": "6.3 x 12.2 cm (2 1/2 x 4 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2002.51.A-B"
  },
- "material": "Jizhou or Jizhou-type ware: white stoneware with clear glaze, the decoration incised and carved through the glaze before firing. Probably from the Jizhou kilns at Yonghe, Ji'an, Jiangxi province; possibly from the Linchuan kilns at Linchuan, Jiangxi province"
+ "material": "Jizhou or Jizhou-type ware: white stoneware with clear glaze, the decoration incised and carved through the glaze before firing. Probably from the Jizhou kilns at Yonghe, Ji'an, Jiangxi province; possibly from the Linchuan kilns at Linchuan, Jiangxi province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

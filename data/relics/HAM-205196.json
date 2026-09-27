@@ -2,11 +2,11 @@
  "relic_id": "HAM-205196",
  "name": "Small, Heavy Jade Axe",
  "category": "玉器",
- "dynasty": "商",
- "dynasty_confidence": "high",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "source",
  "year_range": [
   -2000,
-  -2000
+  -1000
  ],
  "era_text": "c. 2000 BCE - c. 1000 BCE",
  "dimensions": "11 x 6.5 x 1.4 cm (4 5/16 x 2 9/16 x 9/16 in.)\r\nunspecified: 221 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.130"
  },
- "material": "Fine-grained, smoothly polished, variegated light and dark brown nephrite"
+ "material": "Fine-grained, smoothly polished, variegated light and dark brown nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

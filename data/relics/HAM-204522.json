@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "19th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.642"
  },
- "material": "Malachite"
+ "material": "Malachite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

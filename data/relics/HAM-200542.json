@@ -5,8 +5,8 @@
  "dynasty": "辽",
  "dynasty_confidence": "high",
  "year_range": [
-  11,
-  11
+  907,
+  1125
  ],
  "era_text": "11th century",
  "dimensions": "17.3 x 4.6 x 2.4 cm (6 13/16 x 1 13/16 x 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1996.308.B"
  },
- "material": "Medium-brown lacquer over carved wood"
+ "material": "Medium-brown lacquer over carved wood",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

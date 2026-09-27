@@ -2,11 +2,11 @@
  "relic_id": "HAM-204608",
  "name": "Jade Disk with Pattern of Incised Spirals",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -4,
-  -4
+  -475,
+  -221
  ],
  "era_text": "4th cent. BCE - 1st cent. BCE",
  "dimensions": "0.5 x 14.7 cm (3/16 x 5 13/16 in.)\r\nunspecified: 201 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.555"
  },
- "material": "Translucent, dark green nephrite"
+ "material": "Translucent, dark green nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

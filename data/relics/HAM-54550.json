@@ -2,11 +2,11 @@
  "relic_id": "HAM-54550",
  "name": "Funerary Model of a Cylindrical Granary with an Angled, Tiled Roof and with Three Short Legs, Each in the Form of a Crouching Bear",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
   1,
-  1
+  200
  ],
  "era_text": "1st cent. - 2nd cent.",
  "dimensions": "40 x 27.9 cm (15 3/4 x 11 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.147"
  },
- "material": "Green lead-glazed funerary ware: molded brick-red earthenware with lead-fluxed, emerald-green glaze over molded decoration"
+ "material": "Green lead-glazed funerary ware: molded brick-red earthenware with lead-fluxed, emerald-green glaze over molded decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

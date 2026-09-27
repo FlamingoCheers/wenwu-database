@@ -5,8 +5,8 @@
  "dynasty": "辽",
  "dynasty_confidence": "high",
  "year_range": [
-  10,
-  10
+  907,
+  1125
  ],
  "era_text": "10th-11th century",
  "dimensions": "H. 8.9 x Diam. 33.4 cm (3 1/2 x 13 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.165"
  },
- "material": "Monochrome lead-glazed ware: buff earthenware with lead-fluxed, orange-brown glaze over incised decoration, the decoration incised into the wash of white slip that covers the vessel's interior, the white slip continuing over the upper portion of the exterior"
+ "material": "Monochrome lead-glazed ware: buff earthenware with lead-fluxed, orange-brown glaze over incised decoration, the decoration incised into the wash of white slip that covers the vessel's interior, the white slip continuing over the upper portion of the exterior",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "新石器时代",
  "dynasty_confidence": "high",
  "year_range": [
-  -3000,
-  -3000
+  -3300,
+  -2200
  ],
  "era_text": "c. 3000 BCE-c. 2000 BCE",
  "dimensions": "8.1 x 15.3 cm (3 3/16 x 6 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.111"
  },
- "material": "Low-fired blackened gray earthenware"
+ "material": "Low-fired blackened gray earthenware",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -4,7 +4,10 @@
  "category": "书画",
  "dynasty": "清",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1644,
+  1911
+ ],
  "era_text": null,
  "dimensions": "24.1 x 39.9 cm (9 1/2 x 15 11/16 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Unmounted handscroll; ink on paper",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.920"
  },
- "material": "Unmounted handscroll; ink on paper"
+ "material": "Unmounted handscroll; ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

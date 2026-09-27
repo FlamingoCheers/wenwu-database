@@ -2,11 +2,11 @@
  "relic_id": "HAM-189065",
  "name": "Small Covered Compressed Globular Jarlet with Floral Decor (One of Two)",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th century",
  "dimensions": "including cover: H. 3.4 x Diam. 6.7 cm (1 5/16 x 2 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.213.A-B"
  },
- "material": "Longquan celadon ware: light gray stoneware with bluish green celadon glaze over incised, carved, and combed decoration. From the Longquan kilns at Longquan, Zhejiang province."
+ "material": "Longquan celadon ware: light gray stoneware with bluish green celadon glaze over incised, carved, and combed decoration. From the Longquan kilns at Longquan, Zhejiang province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

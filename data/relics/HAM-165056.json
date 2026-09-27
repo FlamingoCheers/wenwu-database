@@ -2,11 +2,11 @@
  "relic_id": "HAM-165056",
  "name": "Covered Wide-Mouthed Bowl, the Domed Cover with a Knob in the Form of a Twig",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-12th century",
  "dimensions": "including cover: H. 14.3 x Diam. 12.2 cm (5 5/8 x 4 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2001.144.A-B"
  },
- "material": "Ding-type ware: translucent, off-white porcelaneous stoneware with clear glaze"
+ "material": "Ding-type ware: translucent, off-white porcelaneous stoneware with clear glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

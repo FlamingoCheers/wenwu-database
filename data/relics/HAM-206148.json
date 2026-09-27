@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: 71.2 x 41.7 cm (28 1/16 x 16 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.125"
  },
- "material": "Woodblock print; ink and color on paper; with printed shop inscription reading \"Dong Da Xing Chang\" (\"Forever Dong Da Xing\"; probably the print shop name). Probably from Jiajiang, Sichuan; possible pair with 1935.37.126."
+ "material": "Woodblock print; ink and color on paper; with printed shop inscription reading \"Dong Da Xing Chang\" (\"Forever Dong Da Xing\"; probably the print shop name). Probably from Jiajiang, Sichuan; possible pair with 1935.37.126.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

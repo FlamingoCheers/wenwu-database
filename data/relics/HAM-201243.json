@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1498,
-  1498
+  1368,
+  1644
  ],
  "era_text": "1498",
  "dimensions": "24.4 x 65.2 cm (9 5/8 x 25 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1986.512.1"
  },
- "material": "One of four paintings mounted as a handscroll; ink and light color on paper"
+ "material": "One of four paintings mounted as a handscroll; ink and light color on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

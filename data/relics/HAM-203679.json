@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "c. 16th cent. BCE - c. 11th cent. BCE",
  "dimensions": "4.1 x 2.6 x 1 cm (1 5/8 x 1 x 3/8 in.)\r\nunspecified: 9 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.369"
  },
- "material": "Opaque yellowish stone, the surface of which is in part corroded"
+ "material": "Opaque yellowish stone, the surface of which is in part corroded",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

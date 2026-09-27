@@ -4,7 +4,10 @@
  "category": "漆器",
  "dynasty": "元",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1279,
+  1368
+ ],
  "era_text": null,
  "dimensions": "8.89 x 11.75 cm (3 1/2 x 4 5/8 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Lacquer, red and black",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1983.64"
  },
- "material": "Lacquer, red and black"
+ "material": "Lacquer, red and black",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

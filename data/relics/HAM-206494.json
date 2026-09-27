@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "15th-16th century",
  "dimensions": "H. 22.9 x W. 23.5 cm (9 x 9 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1927.197"
  },
- "material": "Circular fan painting mounted as a hanging scroll; ink on silk"
+ "material": "Circular fan painting mounted as a hanging scroll; ink on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

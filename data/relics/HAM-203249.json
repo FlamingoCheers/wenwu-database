@@ -2,11 +2,11 @@
  "relic_id": "HAM-203249",
  "name": "Flat, Curled Jade Dragon (one of a pair)",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "春秋",
+ "dynasty_confidence": "source",
  "year_range": [
   -770,
-  -770
+  -476
  ],
  "era_text": "770 BCE -476 BCE",
  "dimensions": "0.3 x 3.8 cm (1/8 x 1 1/2 in.)\r\nunspecified: 7 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.361"
  },
  "material": "Translucent greenish white nephrite",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

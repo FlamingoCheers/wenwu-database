@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -2000,
-  -2000
+  -1000
  ],
  "era_text": "c. 2000 BCE - c. 1000 BCE (?)",
  "dimensions": "0.9 x 16.9 cm (3/8 x 6 5/8 in.)\r\nunspecified: 467 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.525"
  },
- "material": "Translucent, pale green, fine-grained nephrite with darker markings; surface polished smooth"
+ "material": "Translucent, pale green, fine-grained nephrite with darker markings; surface polished smooth",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

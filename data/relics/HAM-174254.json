@@ -2,11 +2,11 @@
  "relic_id": "HAM-174254",
  "name": "Small Wide-Mouthed Jar with Rolled Lip and Stylized Floral Decor",
  "category": "瓷器",
- "dynasty": "元",
- "dynasty_confidence": "high",
+ "dynasty": "宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1115,
+  1234
  ],
  "era_text": "13th-14th century",
  "dimensions": "8 x 10 cm (3 1/8 x 3 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2001.43"
  },
- "material": "Cizhou-type cut-glaze ware: light gray stoneware with dark brown glaze, the decoration cut into the glaze before firing to reveal the light gray body, the revealed body clay dressed with white glaze in localized areas"
+ "material": "Cizhou-type cut-glaze ware: light gray stoneware with dark brown glaze, the decoration cut into the glaze before firing to reveal the light gray body, the revealed body clay dressed with white glaze in localized areas",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

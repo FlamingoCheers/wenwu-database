@@ -2,11 +2,11 @@
  "relic_id": "HAM-117351",
  "name": "Globular Jar with Two Handles Simulating Leaves and with Russet Splashes",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  960,
+  1127
  ],
  "era_text": "12th century",
  "dimensions": "19.3 x 21.2 cm (7 5/8 x 8 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.113"
  },
- "material": "Northern black ware of Cizhou type: light gray stoneware with appliqué handles and with dark brown glaze, the markings in overglaze iron oxide, the lower portion and the interior dressed with medium brown glaze"
+ "material": "Northern black ware of Cizhou type: light gray stoneware with appliqué handles and with dark brown glaze, the markings in overglaze iron oxide, the lower portion and the interior dressed with medium brown glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

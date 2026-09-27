@@ -2,11 +2,11 @@
  "relic_id": "HAM-204905",
  "name": "Elongated Jade Bird Figure",
  "category": "玉器",
- "dynasty": "唐",
- "dynasty_confidence": "low",
+ "dynasty": "西周",
+ "dynasty_confidence": "source",
  "year_range": [
-  801,
-  900
+  -1050,
+  -771
  ],
  "era_text": "10th-9th century BCE",
  "dimensions": "W. 1.9 x L. 11 x Thickness 0.3 cm (3/4 x 4 5/16 x 1/8 in.)\r\nWeight 11 g",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/204905",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": true,
+ "needs_review": false,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "1943.50.211"
  },
  "material": "Clouded grayish brown nephrite",
- "updated_at": "2026-09-26T21:49:06"
+ "updated_at": "2026-09-27"
 }

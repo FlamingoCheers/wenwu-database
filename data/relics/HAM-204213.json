@@ -2,9 +2,12 @@
  "relic_id": "HAM-204213",
  "name": "Ritual Wine Vessel (Zun) with Small Handle",
  "category": "青铜器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "西周",
+ "dynasty_confidence": "source",
+ "year_range": [
+  -1050,
+  -771
+ ],
  "era_text": null,
  "dimensions": "H. 19.7 × W. 17.9 cm (7 3/4 × 7 1/16 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Cast bronze",
@@ -25,5 +28,5 @@
   "inventory_no": "1944.57.30"
  },
  "material": "Cast bronze",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

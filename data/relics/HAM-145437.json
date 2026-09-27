@@ -2,11 +2,11 @@
  "relic_id": "HAM-145437",
  "name": "Ceramic Sherd from a Circular Bowl with Rising Lotus-Petals on the Exterior: Generally rectangular fragment including portions of the floor, footring, and side wall and elements of the decoration",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th century",
  "dimensions": "10.3 x 7.7 cm (4 1/16 x 3 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2002.69.6"
  },
- "material": "Ding ware: porcelaneous white stoneware with pale yellow glaze over carved decoration"
+ "material": "Ding ware: porcelaneous white stoneware with pale yellow glaze over carved decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

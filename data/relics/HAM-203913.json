@@ -2,11 +2,11 @@
  "relic_id": "HAM-203913",
  "name": "Elongated Ovoid Bottle with Lightly Flaring Lip and Decoration of Figures amid Clouds",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  10,
-  10
+  960,
+  1127
  ],
  "era_text": "10th-11th century",
  "dimensions": "H. 37.3 cm (14 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1950.83.66"
  },
- "material": "Cizhou ware: light gray stoneware covered all over with white slip, the floral decoration incised and the patterned background stamped into the white slip ground, all under a clear glaze"
+ "material": "Cizhou ware: light gray stoneware covered all over with white slip, the floral decoration incised and the patterned background stamped into the white slip ground, all under a clear glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

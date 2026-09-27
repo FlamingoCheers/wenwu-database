@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "19th century",
  "dimensions": "H. 15 x Diam. 11.8 cm (5 7/8 x 4 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.285"
  },
- "material": "Stoneware with variegated blue glaze, the exposed body at the foot coated with an iron brown slip"
+ "material": "Stoneware with variegated blue glaze, the exposed body at the foot coated with an iron brown slip",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

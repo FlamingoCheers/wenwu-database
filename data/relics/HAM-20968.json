@@ -5,8 +5,8 @@
  "dynasty": "三国",
  "dynasty_confidence": "high",
  "year_range": [
-  3,
-  3
+  220,
+  280
  ],
  "era_text": "Wu or Western Jin dynasty, late 3rd century",
  "dimensions": "48 x 28.2 cm (18 7/8 x 11 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.149"
  },
- "material": "Yue ware: light gray stoneware with celadon glaze over molded and appliqué decoration. From the Yue kilns in the Shaoxing area, northeastern Zhejiang province."
+ "material": "Yue ware: light gray stoneware with celadon glaze over molded and appliqué decoration. From the Yue kilns in the Shaoxing area, northeastern Zhejiang province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

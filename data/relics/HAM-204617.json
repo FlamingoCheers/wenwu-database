@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -206,
-  -206
+  220
  ],
  "era_text": "206 BCE - 220 CE (?)",
  "dimensions": "3.7 x 4.6 x 0.4 cm (1 7/16 x 1 13/16 x 3/16 in.)\r\nunspecified: 32 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.51.21"
  },
- "material": "Translucent pale green and calcified buff nephrite finial with glossy surface; bronze handle partially overlaid with gold foil"
+ "material": "Translucent pale green and calcified buff nephrite finial with glossy surface; bronze handle partially overlaid with gold foil",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

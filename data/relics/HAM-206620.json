@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: H. 27 x W. 30.1 cm (10 5/8 x 11 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.36.51"
  },
- "material": "Woodblock print; ink and color on paper; with printed shop inscription reading from right to left: \"Yi Sheng\" (probably the print shop name). Possibly from Xinjiang, Shanxi."
+ "material": "Woodblock print; ink and color on paper; with printed shop inscription reading from right to left: \"Yi Sheng\" (probably the print shop name). Possibly from Xinjiang, Shanxi.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

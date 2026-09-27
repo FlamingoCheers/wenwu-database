@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.889.8"
  },
- "material": "Album leaf; ink on paper"
+ "material": "Album leaf; ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

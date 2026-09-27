@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1368,
+  1644
  ],
  "era_text": "17th century",
  "dimensions": "34.7 cm (13 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.840"
  },
- "material": "Handscroll; illustrations and text in white on black paper"
+ "material": "Handscroll; illustrations and text in white on black paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

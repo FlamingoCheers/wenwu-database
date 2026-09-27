@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1748,
-  1748
+  1644,
+  1911
  ],
  "era_text": "1748",
  "dimensions": "5 x 5.2 x 5.2 cm (1 15/16 x 2 1/16 x 2 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1991.213"
  },
- "material": "Wood with dated inscription and carved signature reading \"Nanfu\""
+ "material": "Wood with dated inscription and carved signature reading \"Nanfu\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

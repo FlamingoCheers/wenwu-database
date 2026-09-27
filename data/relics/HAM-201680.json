@@ -2,11 +2,11 @@
  "relic_id": "HAM-201680",
  "name": "'Meiping' Bottle with Phoenix and Cloud Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th - 14th century",
  "dimensions": "H. 29.3 x Diam. 16.2 cm (11 9/16 x 6 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1993.219"
  },
- "material": "Jizhou ware: ivory white stoneware with decoration reserved in the biscuit against the dark brown glaze, the reserved designs covered with clear glaze over slip-painted details. From the Jizhou kilns, near Yonghe, Ji'an, Jiangxi province."
+ "material": "Jizhou ware: ivory white stoneware with decoration reserved in the biscuit against the dark brown glaze, the reserved designs covered with clear glaze over slip-painted details. From the Jizhou kilns, near Yonghe, Ji'an, Jiangxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

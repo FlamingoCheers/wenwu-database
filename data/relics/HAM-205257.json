@@ -2,11 +2,11 @@
  "relic_id": "HAM-205257",
  "name": "Asymmetrical Jade Knife",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "东周",
+ "dynasty_confidence": "source",
  "year_range": [
   -770,
-  -770
+  -256
  ],
  "era_text": "770 BCE - 221 BCE (?)",
  "dimensions": "36.5 x 7.3 x 0.5 cm (14 3/8 x 2 7/8 x 3/16 in.)\r\nunspecified: 253 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.53"
  },
  "material": "Green and black nephrite",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

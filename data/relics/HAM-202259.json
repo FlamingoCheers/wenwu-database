@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: 34.9 x 25.1 cm (13 3/4 x 9 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1980.92.4"
  },
- "material": "Woodblock print; ink and color on paper; with printed inscription of titles reading \"Dong Chu Si Ming\" (\"Arbiter of Fate in the Kitchen\"), and \"Nan Tian Men\" (\"South Heavenly Gate\"). Probably from Beijing."
+ "material": "Woodblock print; ink and color on paper; with printed inscription of titles reading \"Dong Chu Si Ming\" (\"Arbiter of Fate in the Kitchen\"), and \"Nan Tian Men\" (\"South Heavenly Gate\"). Probably from Beijing.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

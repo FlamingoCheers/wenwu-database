@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -14,
-  -14
+  -1600,
+  -1050
  ],
  "era_text": "14th-11th century BCE",
  "dimensions": "H. 30.0 x W. 25.5 x D. 19.4 cm (11 13/16 x 10 1/16 x 7 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.119"
  },
- "material": "Cast bronze with olive-green patina; with inscription cast below the handle"
+ "material": "Cast bronze with olive-green patina; with inscription cast below the handle",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

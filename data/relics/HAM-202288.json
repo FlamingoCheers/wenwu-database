@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1733,
-  1733
+  1644,
+  1911
  ],
  "era_text": "dated to 1733",
  "dimensions": "painting proper max.: H. 23.9 x W. 52.9 cm (9 7/16 x 20 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1978.89"
  },
- "material": "Folding fan mounted as an album leaf; ink and light color on mica-coated paper; with artist's inscription, signature, and seals"
+ "material": "Folding fan mounted as an album leaf; ink and light color on mica-coated paper; with artist's inscription, signature, and seals",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

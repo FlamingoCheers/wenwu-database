@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1403,
-  1424
+  1368,
+  1644
  ],
  "era_text": "Yongle period, 1403-1424",
  "dimensions": "H. 20.1 x W. 20.1 x Diam. 13.9 cm (7 15/16 x 7 15/16 x 5 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1994.127"
  },
- "material": "White ware: porcelain with lightly incised \"anhua\" decoration at the top and bottom of the handle"
+ "material": "White ware: porcelain with lightly incised \"anhua\" decoration at the top and bottom of the handle",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

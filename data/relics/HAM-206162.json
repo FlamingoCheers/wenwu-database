@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "38.2 x 22.1 cm (15 1/16 x 8 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.14"
  },
- "material": "Woodblock print; ink, color and gold on paper; with printed inscription reading from right to left: \"Chi Feng Hu Guo You Min Guang Hui Wang\" (\"Imperially Conferred Lord Guang Hui\"); gold-foil face attached to the image. Possibly from Beijing."
+ "material": "Woodblock print; ink, color and gold on paper; with printed inscription reading from right to left: \"Chi Feng Hu Guo You Min Guang Hui Wang\" (\"Imperially Conferred Lord Guang Hui\"); gold-foil face attached to the image. Possibly from Beijing.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

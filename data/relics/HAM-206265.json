@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "40 x 40.7 cm (15 3/4 x 16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.36.94"
  },
- "material": "Woodblock print; ink on paper; with printed title inscription reading from right to left: \"Dour Jiejie\" (\"Sister Smallpox\") and a couplet reading from right to left: \"Qiancheng Gong Doujie; Ernü Bao Ankang\" (\"Worship Sister Smallpox; Children Will Be Healthy\"). Probably from Beijing."
+ "material": "Woodblock print; ink on paper; with printed title inscription reading from right to left: \"Dour Jiejie\" (\"Sister Smallpox\") and a couplet reading from right to left: \"Qiancheng Gong Doujie; Ernü Bao Ankang\" (\"Worship Sister Smallpox; Children Will Be Healthy\"). Probably from Beijing.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

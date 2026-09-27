@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -5000,
-  -4000
+  -3000
  ],
  "era_text": "Banpo phase, c. 5000-4000 BCE",
  "dimensions": "H. 37 x W. (across handles) 24 cm (14 9/16 x 9 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.1"
  },
- "material": "Earthenware with impressed decoration"
+ "material": "Earthenware with impressed decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

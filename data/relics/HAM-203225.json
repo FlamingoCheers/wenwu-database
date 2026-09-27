@@ -2,11 +2,11 @@
  "relic_id": "HAM-203225",
  "name": "Jade Bead-Like Pendant with Convex Faces",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "4.9 x 1.9 x 1.1 cm (1 15/16 x 3/4 x 7/16 in.)\r\nunspecified: 23 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.385"
  },
  "material": "Very light green and cream-colored nephrite",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

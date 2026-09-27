@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -2500,
-  -2500
+  -2000
  ],
  "era_text": "probably Longshan culture, c. 2500 BCE - c. 2000 BCE",
  "dimensions": "Diam. 16.2 x Thickness 0.3 cm (6 3/8 x 1/8 in.)\r\n109 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.528"
  },
- "material": "Translucent, evenly pale green stone of a celadon hue with whitish specks"
+ "material": "Translucent, evenly pale green stone of a celadon hue with whitish specks",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

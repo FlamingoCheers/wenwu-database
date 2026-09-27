@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th-19th century",
  "dimensions": "painting proper: H. 28.9 x L. 477.6 cm (11 3/8 x 188 in.)\r\nwith mount: H. 31.6 cm (12 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.905"
  },
- "material": "Handscroll; ink, color and gold on paper"
+ "material": "Handscroll; ink, color and gold on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

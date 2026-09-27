@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "8th century",
  "dimensions": "L. 14.3 cm (5 5/8 in.)\r\ncomplete mirror: Diam. 14.9 cm (5 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.215.A"
  },
- "material": "Cast bronze"
+ "material": "Cast bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

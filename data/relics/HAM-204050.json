@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  5,
-  5
+  386,
+  534
  ],
  "era_text": "late 5th-early 6th Century",
  "dimensions": "41 x 22.3 x 20.1 cm (16 1/8 x 8 3/4 x 7 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.46"
  },
- "material": "Sandstone; from niche outside of Yungang Cave 16, Shanxi province"
+ "material": "Sandstone; from niche outside of Yungang Cave 16, Shanxi province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

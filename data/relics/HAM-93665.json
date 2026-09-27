@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -2200,
-  -2200
+  -1500
  ],
  "era_text": "Qijia culture, 2200 BCE - 1500 BCE",
  "dimensions": "8.6 x 13 x 11 cm (3 3/8 x 5 1/8 x 4 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2003.28"
  },
- "material": "Lightly burnished gray earthenware with modeled and appliqué decoration. Upper Yellow River Valley area; Gansu, Qing hai, or Shaanxi province or Inner Mongolia."
+ "material": "Lightly burnished gray earthenware with modeled and appliqué decoration. Upper Yellow River Valley area; Gansu, Qing hai, or Shaanxi province or Inner Mongolia.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

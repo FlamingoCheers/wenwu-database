@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  618,
+  907
  ],
  "era_text": "7th-early 8th century",
  "dimensions": "H. 37.5 x L. 52 cm (14 3/4 x 20 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1950.86"
  },
- "material": "Molded white earthenware with traces of cold-painted red, green, gray, and black pigments over white ground"
+ "material": "Molded white earthenware with traces of cold-painted red, green, gray, and black pigments over white ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

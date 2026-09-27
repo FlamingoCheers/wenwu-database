@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  14,
-  14
+  1368,
+  1644
  ],
  "era_text": "late 14th -early 15th century",
  "dimensions": "H. 30.8 cm (12 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.155.B"
  },
- "material": "Handscroll; ink on paper"
+ "material": "Handscroll; ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

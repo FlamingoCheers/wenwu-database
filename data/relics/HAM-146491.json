@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  618,
+  907
  ],
  "era_text": "7th cent. - early 8th cent.",
  "dimensions": "55.5 x 20.5 x 17.5 cm (21 7/8 x 8 1/16 x 6 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2003.218.1"
  },
- "material": "Molded, gray earthenware with cold-painted pigments and gold leaf over white ground"
+ "material": "Molded, gray earthenware with cold-painted pigments and gold leaf over white ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

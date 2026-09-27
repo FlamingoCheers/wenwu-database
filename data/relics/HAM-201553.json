@@ -5,8 +5,8 @@
  "dynasty": "五代十国",
  "dynasty_confidence": "high",
  "year_range": [
-  975,
-  975
+  907,
+  960
  ],
  "era_text": "dated 975",
  "dimensions": "H. 7.5 x W. 209.8 cm (2 15/16 x 82 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.377"
  },
- "material": "Woodblock printed sutra mounted as a handscroll; ink on paper (with modern frontispiece painted by Chen Zengshou [1878-1949] in ink and light color on paper). The printed sutra commissioned by Qian Hongshu (929-988; reigned as the fifth prince of the Wu-Yue Kingdom, 948-978)."
+ "material": "Woodblock printed sutra mounted as a handscroll; ink on paper (with modern frontispiece painted by Chen Zengshou [1878-1949] in ink and light color on paper). The printed sutra commissioned by Qian Hongshu (929-988; reigned as the fifth prince of the Wu-Yue Kingdom, 948-978).",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

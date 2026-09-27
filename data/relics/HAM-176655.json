@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  618,
+  907
  ],
  "era_text": "7th-8th century",
  "dimensions": "H. 59.3 x Diam. 24.9 x W. 25.8 cm (23 3/8 x 9 13/16 x 10 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.275.A-C"
  },
- "material": "Earthenware with traces of cold painted pigments"
+ "material": "Earthenware with traces of cold painted pigments",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

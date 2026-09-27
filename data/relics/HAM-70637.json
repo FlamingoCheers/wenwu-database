@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1796,
-  1820
+  1644,
+  1911
  ],
  "era_text": "Jiaqing period, 1796-1820",
  "dimensions": "145.2 x 193 cm (57 3/16 x 76 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1960.169.35"
  },
- "material": "Red silk twill with embroidered decoration"
+ "material": "Red silk twill with embroidered decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

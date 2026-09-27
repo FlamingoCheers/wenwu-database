@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "probably 19th-early 20th century",
  "dimensions": "painting max.: H. 88 x W. 48 cm (34 5/8 x 18 7/8 in.)\r\nframe: H. 99.3 x W. 58.3 x D. 2.5 cm (39 1/8 x 22 15/16 x 1 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "43.1965"
  },
- "material": "Wall painting fragment; ink and colors on plaster (or on white gesso ground?)\r\n"
+ "material": "Wall painting fragment; ink and colors on plaster (or on white gesso ground?)\r\n",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

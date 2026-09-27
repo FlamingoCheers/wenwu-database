@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -11,
-  -11
+  -1600,
+  -1050
  ],
  "era_text": "11th-10th century BCE",
  "dimensions": "38.4 x 17.7 cm (15 1/8 x 6 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.147.A"
  },
- "material": "Mottled reddish brown nephrite; the stone of Central Asian origin, probably from Khotan"
+ "material": "Mottled reddish brown nephrite; the stone of Central Asian origin, probably from Khotan",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

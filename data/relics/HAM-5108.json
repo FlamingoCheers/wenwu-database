@@ -2,11 +2,11 @@
  "relic_id": "HAM-5108",
  "name": "Tea Bowl with Indented Lip and Subtle Hare's-Fur Markings",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th century",
  "dimensions": "H. 7 x Diam. 12.1 cm (2 3/4 x 4 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2005.179"
  },
- "material": "Jian ware: dark gray stoneware with dark brown glaze, the markings in iron oxide, the lip banded with silver. From the kilns at Shuiji, Jianyang county, Fujian province.\r\n"
+ "material": "Jian ware: dark gray stoneware with dark brown glaze, the markings in iron oxide, the lip banded with silver. From the kilns at Shuiji, Jianyang county, Fujian province.\r\n",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

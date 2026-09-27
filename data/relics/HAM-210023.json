@@ -2,11 +2,11 @@
  "relic_id": "HAM-210023",
  "name": "Small Conical Bowl with Stylized Floral Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.140"
  },
- "material": "Qingbai ware: porcelain with pale sky-blue glaze over incised, carved, and roulette-wheel impressed decoration"
+ "material": "Qingbai ware: porcelain with pale sky-blue glaze over incised, carved, and roulette-wheel impressed decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

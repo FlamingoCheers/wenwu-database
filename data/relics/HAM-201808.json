@@ -2,11 +2,11 @@
  "relic_id": "HAM-201808",
  "name": "Tomb Model in the Form of a Small Out Building",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  201,
+  300
  ],
  "era_text": "1st-3rd century",
  "dimensions": "H. 8.2 x W. 8 x Depth. 7.4 cm (3 1/4 x 3 1/8 x 2 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1991.489"
  },
- "material": "Green lead-glazed funerary ware: brick-red earthenware with openwork elements under partially degraded emerald-green, lead glaze; with modern brush-written characters on the base reading \"T'o-sông-ni\".  Reportedly recovered at Lelang (also spelled Lo-lang; Korean, Naknang), near T'o-sông-ni, southwest of P'yôngyang, Korea."
+ "material": "Green lead-glazed funerary ware: brick-red earthenware with openwork elements under partially degraded emerald-green, lead glaze; with modern brush-written characters on the base reading \"T'o-sông-ni\".  Reportedly recovered at Lelang (also spelled Lo-lang; Korean, Naknang), near T'o-sông-ni, southwest of P'yôngyang, Korea.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

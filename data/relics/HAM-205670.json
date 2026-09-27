@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "probably 15th century",
  "dimensions": "max.: H. 18.9 × W. 26.8 × D. 26 cm (7 7/16 × 10 9/16 × 10 1/4 in.)\r\nbase: W. 13.5 × D. 13 cm (5 5/16 × 5 1/8 in.)\r\nweight: 2897.4 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.9"
  },
- "material": "Numbered Jun ware: light gray stoneware with variegated purple and blue glaze; with Chinese numeral 3 (san) inscribed on base before firing; \"Chonghua gong Cuiyun guan yong\" (Palace of Double Glory, used in the Lodge of Emerald Clouds) inscription incised on base at a later date"
+ "material": "Numbered Jun ware: light gray stoneware with variegated purple and blue glaze; with Chinese numeral 3 (san) inscribed on base before firing; \"Chonghua gong Cuiyun guan yong\" (Palace of Double Glory, used in the Lodge of Emerald Clouds) inscription incised on base at a later date",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

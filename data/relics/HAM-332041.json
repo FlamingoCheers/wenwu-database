@@ -2,11 +2,11 @@
  "relic_id": "HAM-332041",
  "name": "Small Ovoid Jar with Partridge-Feather Mottles",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  960,
+  1127
  ],
  "era_text": "12th century",
  "dimensions": "H. 12.7 x Diam. 13.4 cm (5 x 5 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2009.70"
  },
- "material": "Northern black ware of Cizhou type: light gray stoneware with dark brown glaze, the russet markings in overglaze iron oxide"
+ "material": "Northern black ware of Cizhou type: light gray stoneware with dark brown glaze, the russet markings in overglaze iron oxide",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1368,
+  1644
  ],
  "era_text": "17th-18th century",
  "dimensions": "painting proper: H. 50.5 × W. 35 cm (19 7/8 × 13 3/4 in.)\r\noverall mounting including roller ends and suspension cord: H. 214 × W. 59.1 cm (84 1/4 × 23 1/4 in.)\r\ncolophon obove painting: H. 15.5 × W. 35.2 cm (6 1/8 × 13 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1961.48"
  },
- "material": "Hanging scroll; ink and color on silk; with spurious signature"
+ "material": "Hanging scroll; ink and color on silk; with spurious signature",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-204687",
  "name": "Arch-Shaped Jade Dragon (one of a pair)",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
   -206,
-  -206
+  9
  ],
  "era_text": "206 BCE - 9 CE (?)",
  "dimensions": "13.4 x 5.7 x 0.5 cm (5 1/4 x 2 1/4 x 3/16 in.)\r\nunspecified: 58 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.446.B"
  },
- "material": "Deep green, translucent, very slightly calcified nephrite"
+ "material": "Deep green, translucent, very slightly calcified nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

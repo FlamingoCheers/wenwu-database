@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -1300,
-  -1300
+  -1600,
+  -1050
  ],
  "era_text": "c. 1300 BCE-c. 1028 BCE",
  "dimensions": "14 x 9 cm (5 1/2 x 3 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1986.648"
  },
- "material": "Gray stoneware with carved relief decoration"
+ "material": "Gray stoneware with carved relief decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

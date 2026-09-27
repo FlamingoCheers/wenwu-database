@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -4000,
-  -4000
+  -2000
  ],
  "era_text": "c. 4000 BCE - c. 2000 BCE",
  "dimensions": "0.4 x 6 cm (3/16 x 2 3/8 in.)\r\nunspecified: 23 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.614"
  },
- "material": "Calcified, whitish nephrite; only a few spots of the original dark green color remain"
+ "material": "Calcified, whitish nephrite; only a few spots of the original dark green color remain",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

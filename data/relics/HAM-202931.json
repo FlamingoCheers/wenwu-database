@@ -2,11 +2,11 @@
  "relic_id": "HAM-202931",
  "name": "Two-Line Poem in Cursive Script",
  "category": "书画",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  1119,
-  1125
+  960,
+  1127
  ],
  "era_text": "possibly first quarter 12th century, around Xuanhe era (1119-1125)",
  "dimensions": "max.: H. 24.4 x W. 23.2 cm (9 5/8 x 9 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1971.58.2"
  },
- "material": "Circular fan piece mounted as an album leaf; ink on silk decorated with dragons in gold, and with signature reading \"Xuanhe dian\""
+ "material": "Circular fan piece mounted as an album leaf; ink on silk decorated with dragons in gold, and with signature reading \"Xuanhe dian\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

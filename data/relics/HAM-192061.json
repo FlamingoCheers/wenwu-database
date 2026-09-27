@@ -5,8 +5,8 @@
  "dynasty": "三国",
  "dynasty_confidence": "high",
  "year_range": [
-  3,
-  3
+  220,
+  280
  ],
  "era_text": "late 3rd century",
  "dimensions": "H. 49 x Diam. 28 cm (19 5/16 x 11 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.211"
  },
- "material": "Yue ware: stoneware with celadon glaze"
+ "material": "Yue ware: stoneware with celadon glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

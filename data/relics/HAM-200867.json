@@ -5,8 +5,8 @@
  "dynasty": "宋",
  "dynasty_confidence": "high",
  "year_range": [
-  12,
-  12
+  960,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "H. 4.8 × Diam. 11.3 cm (1 7/8 × 4 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1992.73"
  },
- "material": "Jizhou ware: off-white stoneware with dark brown glaze, the glaze with kiln transmutations. From the Jizhou kilns, near Yonghe, Ji'an, Jiangxi province."
+ "material": "Jizhou ware: off-white stoneware with dark brown glaze, the glaze with kiln transmutations. From the Jizhou kilns, near Yonghe, Ji'an, Jiangxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

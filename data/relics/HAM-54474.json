@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  9,
-  9
+  618,
+  907
  ],
  "era_text": "late 9th-10th century",
  "dimensions": "H. 3.7 x Diam. 16.7 cm (1 7/16 x 6 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2005.95"
  },
- "material": "Huangpu black-glazed ware: light gray stoneware with dark brown glaze decoratively applied over a thick coat of white slip that covers the interior and that portion of the exterior under the lip. From the Huangpu kiln, Tongchuan, Yaozhou county, Shaanxi province."
+ "material": "Huangpu black-glazed ware: light gray stoneware with dark brown glaze decoratively applied over a thick coat of white slip that covers the interior and that portion of the exterior under the lip. From the Huangpu kiln, Tongchuan, Yaozhou county, Shaanxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

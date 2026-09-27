@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  618,
+  907
  ],
  "era_text": "7th century",
  "dimensions": "H. 24.3 x Diam. 11.3 cm (9 9/16 x 4 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.240"
  },
- "material": "White stoneware with transparent glaze tinged with green"
+ "material": "White stoneware with transparent glaze tinged with green",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

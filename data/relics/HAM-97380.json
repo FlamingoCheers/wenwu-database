@@ -2,11 +2,11 @@
  "relic_id": "HAM-97380",
  "name": "Smaller Pot from a Funerary Model in the Form of a Stove with Two Cooking Pots (2002.268.A-C)",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  101,
+  200
  ],
  "era_text": "1st-2nd century CE",
  "dimensions": "H. 8.5 x Diam. 11.3 cm (3 3/8 x 4 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2002.268.C"
  },
- "material": "Lead-glazed funerary ware: molded brick red earthenware with emerald green, lead-fluexed glaze"
+ "material": "Lead-glazed funerary ware: molded brick red earthenware with emerald green, lead-fluexed glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

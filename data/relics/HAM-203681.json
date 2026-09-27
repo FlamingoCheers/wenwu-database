@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -206,
-  -206
+  220
  ],
  "era_text": "206 BCE - 220 CE (?)",
  "dimensions": "8.6 x 2.2 x 2.4 cm (3 3/8 x 7/8 x 15/16 in.)\r\nunspecified: 28 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.378.B"
  },
- "material": "Dark olive-green nephrite with discolored buff areas"
+ "material": "Dark olive-green nephrite with discolored buff areas",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

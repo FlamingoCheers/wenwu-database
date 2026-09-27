@@ -2,11 +2,11 @@
  "relic_id": "HAM-101785",
  "name": "Small Globular Jar with Russet Glaze",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  960,
+  1127
  ],
  "era_text": "probably 12th century",
  "dimensions": "10 x 12.5 cm (3 15/16 x 4 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2003.103"
  },
- "material": "Northern russet ware of Cizhou type: light gray stoneware with russet-surfaced dark brown glaze"
+ "material": "Northern russet ware of Cizhou type: light gray stoneware with russet-surfaced dark brown glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

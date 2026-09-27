@@ -2,11 +2,11 @@
  "relic_id": "HAM-205050",
  "name": "Jade Winged Dragon",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "5.8 x 2.8 x 0.5 cm (2 5/16 x 1 1/8 x 3/16 in.)\r\nunspecified: 12 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.344"
  },
  "material": "Greenish brown and cream-colored, partly calcified and rather opaque nephrite",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

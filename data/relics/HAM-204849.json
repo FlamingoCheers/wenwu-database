@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   1368,
-  1911
+  1644
  ],
  "era_text": "1368 - 1911",
  "dimensions": "16.4 x 1.5 cm (6 7/16 x 9/16 in.)\r\nunspecified: 64 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.475.A"
  },
- "material": "Light gray-green, partly discolored nephrite"
+ "material": "Light gray-green, partly discolored nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

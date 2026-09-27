@@ -4,7 +4,10 @@
  "category": "瓷器",
  "dynasty": "汉",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  -206,
+  220
+ ],
  "era_text": null,
  "dimensions": null,
  "summary": "哈佛艺术博物馆著录：Chinese；Painted funerary ware: gray earthenware with cold-painted red pigments on a white gesso ground.",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.283.2"
  },
- "material": "Painted funerary ware: gray earthenware with cold-painted red pigments on a white gesso ground."
+ "material": "Painted funerary ware: gray earthenware with cold-painted red pigments on a white gesso ground.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

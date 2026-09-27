@@ -2,11 +2,11 @@
  "relic_id": "HAM-315461",
  "name": "Circular Dish with Angled Side Walls and Decoration of Two Fish in a Lotus Pond",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "H. 2.8 x Diam. 14.0 cm (1 1/8 x 5 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2010.458"
  },
- "material": "Qingbai ware: porcelain with pale, sky-blue glaze over molded decoration, the unglazed lip banded with silver. From the kilns at Jingdezhen, Jiangxi province, China\r\n"
+ "material": "Qingbai ware: porcelain with pale, sky-blue glaze over molded decoration, the unglazed lip banded with silver. From the kilns at Jingdezhen, Jiangxi province, China\r\n",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

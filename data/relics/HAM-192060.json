@@ -5,8 +5,8 @@
  "dynasty": "隋",
  "dynasty_confidence": "high",
  "year_range": [
-  6,
-  6
+  581,
+  618
  ],
  "era_text": "late 6th early 7th century",
  "dimensions": "H. 6.6 x Diam. 9.5 cm (2 5/8 x 3 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.241.2"
  },
- "material": "White stoneware with transparent glaze tinged with green."
+ "material": "White stoneware with transparent glaze tinged with green.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

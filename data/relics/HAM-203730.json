@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  500,
-  523
+  420,
+  589
  ],
  "era_text": "c. 500 -523 CE",
  "dimensions": "irregular: 194.5 x 371.1 cm (76 9/16 x 146 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1946.32"
  },
- "material": "Unmounted rubbing; ink on paper"
+ "material": "Unmounted rubbing; ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

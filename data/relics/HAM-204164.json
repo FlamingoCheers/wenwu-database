@@ -4,7 +4,10 @@
  "category": "青铜器",
  "dynasty": "汉",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  -206,
+  220
+ ],
  "era_text": null,
  "dimensions": "H. 5.1 cm (2 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Cast metal, perhaps bronze or pewter",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1945.6"
  },
- "material": "Cast metal, perhaps bronze or pewter"
+ "material": "Cast metal, perhaps bronze or pewter",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "辽",
  "dynasty_confidence": "high",
  "year_range": [
-  10,
-  10
+  907,
+  1125
  ],
  "era_text": "10th-11th century",
  "dimensions": "H. 24 x W. 18.5 x D. 14.6 cm (9 7/16 x 7 5/16 x 5 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.164"
  },
- "material": "Monochrome lead-glazed ware: gray (or possibly brick-red) earthenware with lead-fluxed, dark brown glaze over incised decoration"
+ "material": "Monochrome lead-glazed ware: gray (or possibly brick-red) earthenware with lead-fluxed, dark brown glaze over incised decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

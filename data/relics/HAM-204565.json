@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -14,
-  -14
+  -1600,
+  -1050
  ],
  "era_text": "14th-11th century BCE",
  "dimensions": "L. 24.2 x W. 7.4 x D. 3.3 cm (9 1/2 x 2 15/16 x 1 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.10"
  },
- "material": "Cast bronze"
+ "material": "Cast bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

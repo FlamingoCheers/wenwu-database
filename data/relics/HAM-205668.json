@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "probably 15th century",
  "dimensions": "max.: H. 20.2 × W. 28.5 × D. 28.4 cm (7 15/16 × 11 1/4 × 11 3/16 in.)\r\nbase: W. 14.2 × D. 14.2 cm (5 9/16 × 5 9/16 in.)\r\nweight: 2762.9 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.1"
  },
- "material": "Numbered Jun ware: light gray stoneware with variegated blue glaze; with Chinese numeral 1 (yi) inscribed on base before firing; \"Yangxin dian Dongnuan ge louxia yong\" (Hall of Mental Cultivation, used in the East Heated Chamber, main floor) inscription incised on base at a later date"
+ "material": "Numbered Jun ware: light gray stoneware with variegated blue glaze; with Chinese numeral 1 (yi) inscribed on base before firing; \"Yangxin dian Dongnuan ge louxia yong\" (Hall of Mental Cultivation, used in the East Heated Chamber, main floor) inscription incised on base at a later date",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

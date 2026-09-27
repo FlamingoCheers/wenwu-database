@@ -2,11 +2,11 @@
  "relic_id": "HAM-146749",
  "name": "Man with Right Arm Raised, Left Hand Lowered, from the tomb sculpture set: Three Capped Men Kneeling around a Low Table and Playing 'Liubo'",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
   1,
-  1
+  200
  ],
  "era_text": "1st cent. - 2nd cent.",
  "dimensions": "17 x 12.5 x 11 cm (6 11/16 x 4 15/16 x 4 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2003.174.A"
  },
- "material": "Lead-glazed ware: molded, brick-red earthenware with degraded, opalescent, emerald-green, lead-fluxed glaze"
+ "material": "Lead-glazed ware: molded, brick-red earthenware with degraded, opalescent, emerald-green, lead-fluxed glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

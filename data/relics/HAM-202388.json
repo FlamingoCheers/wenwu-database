@@ -5,8 +5,8 @@
  "dynasty": "元",
  "dynasty_confidence": "high",
  "year_range": [
-  -14,
-  -14
+  1279,
+  1368
  ],
  "era_text": "mid-14th century",
  "dimensions": "overall (max.): H. 8 × Diam. (across points) 48.9 cm (3 1/8 × 19 1/4 in.)\r\nfootring: Diam. 25.2 cm (9 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1961.112"
  },
- "material": "Blue-and-white ware: porcelain with molded decoration and underglaze cobalt blue"
+ "material": "Blue-and-white ware: porcelain with molded decoration and underglaze cobalt blue",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

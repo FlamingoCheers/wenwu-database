@@ -5,8 +5,8 @@
  "dynasty": "汉",
  "dynasty_confidence": "high",
  "year_range": [
-  -4,
-  -4
+  -206,
+  220
  ],
  "era_text": "late Zhou to Han dynasty, 4th century BCE-2nd century CE",
  "dimensions": "L. 14.6 x W. 1.9 cm (5 3/4 x 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1987.137"
  },
- "material": "Copper alloy"
+ "material": "Copper alloy",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

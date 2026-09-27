@@ -2,11 +2,11 @@
  "relic_id": "HAM-70472",
  "name": "Tea Bowl with Patterned Tortoiseshell Mottles",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "late 13th-14th century",
  "dimensions": "5.5 x 10.9 cm (2 3/16 x 4 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.120"
  },
- "material": "Jizhou ware: light gray (or light grayish buff) stoneware with dark brown glaze suffused with buff markings. From the kilns at Yonghe, Ji'an, Jiangxi province."
+ "material": "Jizhou ware: light gray (or light grayish buff) stoneware with dark brown glaze suffused with buff markings. From the kilns at Yonghe, Ji'an, Jiangxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

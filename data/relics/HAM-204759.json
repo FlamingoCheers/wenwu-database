@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "c. 16th cent. BCE - c. 11th cent. BCE",
  "dimensions": "4.2 x 2.3 x 1.5 cm (1 5/8 x 7/8 x 9/16 in.)\r\nunspecified: 18 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.268"
  },
- "material": "Mottled yellowish translucent nephrite, with buff and gray markings"
+ "material": "Mottled yellowish translucent nephrite, with buff and gray markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "late 16th-early 17th century",
  "dimensions": "assembled (approximate): H. 2.5 x Diam. 30.5 cm (1 x 12 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.231.A-I"
  },
- "material": "Porcelain with decoration painted in underglaze cobalt blue and with overglaze polychrome enamels added at a later date"
+ "material": "Porcelain with decoration painted in underglaze cobalt blue and with overglaze polychrome enamels added at a later date",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

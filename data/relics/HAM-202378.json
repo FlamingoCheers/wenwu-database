@@ -5,8 +5,8 @@
  "dynasty": "五代十国",
  "dynasty_confidence": "high",
  "year_range": [
-  10,
-  10
+  907,
+  960
  ],
  "era_text": "second half 10th - 11th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1964.21.26"
  },
- "material": "Yue ware: light gray stoneware with celadon glaze over incised decoration"
+ "material": "Yue ware: light gray stoneware with celadon glaze over incised decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

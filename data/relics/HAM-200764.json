@@ -2,11 +2,11 @@
  "relic_id": "HAM-200764",
  "name": "Covered Square 'Fanghu' Storage Jar with Scrolling-Cloud Decor and Simulated Ring-Mask Handles",
  "category": "书画",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -141,
-  -141
+  -206,
+  9
  ],
  "era_text": "perhaps reign of Wudi, 141 BCE - 87 BCE",
  "dimensions": "including cover: H. 55.1 x W. 22.2 x D. 22.2 cm (21 11/16 x 8 3/4 x 8 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1990.85"
  },
- "material": "Cold-painted funerary ware: light gray earthenware with decoration cold-painted in polychrome pigments on a blackened ground"
+ "material": "Cold-painted funerary ware: light gray earthenware with decoration cold-painted in polychrome pigments on a blackened ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

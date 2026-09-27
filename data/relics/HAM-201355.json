@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "perhaps Tang dynasty, 8th-9th century",
  "dimensions": "6.35 cm (2 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.393.A-B"
  },
- "material": "White ware: white stoneware with clear glaze over molded elements"
+ "material": "White ware: white stoneware with clear glaze over molded elements",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

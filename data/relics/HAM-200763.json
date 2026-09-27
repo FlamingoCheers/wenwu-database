@@ -5,8 +5,8 @@
  "dynasty": "五代十国",
  "dynasty_confidence": "high",
  "year_range": [
-  10,
-  10
+  907,
+  960
  ],
  "era_text": "mid 10th-early 11th century",
  "dimensions": "including cover: H. 4.7 x Diam. 12.7 cm (1 7/8 x 5 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1990.22.A-B"
  },
- "material": "Yue ware: light gray stoneware with celadon glaze over incised and carved decoration. From the Yue kilns at Shanglinhu, Zhejiang province."
+ "material": "Yue ware: light gray stoneware with celadon glaze over incised and carved decoration. From the Yue kilns at Shanglinhu, Zhejiang province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

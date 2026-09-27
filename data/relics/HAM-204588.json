@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -12,
-  -12
+  -1600,
+  -1050
  ],
  "era_text": "12th cent. BCE - 11th cent. BCE",
  "dimensions": "24.8 x 5.8 x 0.5 cm (9 3/4 x 2 5/16 x 3/16 in.)\r\nunspecified: 229 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.51.2"
  },
- "material": "Nephrite blade; bronze socket inlaid with turquoise"
+ "material": "Nephrite blade; bronze socket inlaid with turquoise",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

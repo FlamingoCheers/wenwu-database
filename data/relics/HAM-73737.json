@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "probably 19th- early 20th century",
  "dimensions": "H. 83.8 cm (33 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2005.202"
  },
- "material": "Yellow stone"
+ "material": "Yellow stone",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

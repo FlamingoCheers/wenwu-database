@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1868,
-  1868
+  1644,
+  1911
  ],
  "era_text": "1868 or 1928",
  "dimensions": "8.2 × 59 cm (3 1/4 × 23 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.55.6"
  },
- "material": "Water buffalo horn, metal, and ceramic"
+ "material": "Water buffalo horn, metal, and ceramic",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

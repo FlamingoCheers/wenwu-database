@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -12,
-  -12
+  -1600,
+  -1050
  ],
  "era_text": "12th cent. BCE - 11th cent. BCE",
  "dimensions": "15.1 x 4.7 x 0.3 cm (5 15/16 x 1 7/8 x 1/8 in.)\r\n31 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.80"
  },
- "material": "Mottled olive-green and light green nephrite, with traces of cinnabar and soil adhering to the surface"
+ "material": "Mottled olive-green and light green nephrite, with traces of cinnabar and soil adhering to the surface",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

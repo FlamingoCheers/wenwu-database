@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1880,
-  1880
+  1644,
+  1911
  ],
  "era_text": "1880",
  "dimensions": "painting proper: 29.9 x 32.5 cm (11 3/4 x 12 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.150.14"
  },
- "material": "Album leaf; ink and color on paper"
+ "material": "Album leaf; ink and color on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

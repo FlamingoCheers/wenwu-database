@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "17th-20th century",
  "dimensions": "4.7 x 1.5 x 1.5 cm (1 7/8 x 9/16 x 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.646.A"
  },
- "material": "Jixue (\"Chicken Blood\") stone: sea-green soapstone with red markings"
+ "material": "Jixue (\"Chicken Blood\") stone: sea-green soapstone with red markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

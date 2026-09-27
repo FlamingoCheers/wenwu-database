@@ -2,11 +2,11 @@
  "relic_id": "HAM-176963",
  "name": "Small Tea Bowl with Indented White Lip and Decoration of Crescent Moon and Blossoming Plum Branch",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "4.9 x 11.7 cm (1 15/16 x 4 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.257"
  },
- "material": "Nanfeng ware: light gray stoneware with decoration reserved against the medium brown glaze, the rim and reserved designs with clear glaze over white slip. From the Baishe kilns in Nanfeng county, Jiangxi province"
+ "material": "Nanfeng ware: light gray stoneware with decoration reserved against the medium brown glaze, the rim and reserved designs with clear glaze over white slip. From the Baishe kilns in Nanfeng county, Jiangxi province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

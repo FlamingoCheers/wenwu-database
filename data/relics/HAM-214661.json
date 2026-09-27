@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1796,
-  1820
+  1644,
+  1911
  ],
  "era_text": "Jiaqing period, 1796-1820",
  "dimensions": "142.5 x 213 cm (56 1/8 x 83 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1960.169.7"
  },
- "material": "Brownish red silk ground with gold brocade"
+ "material": "Brownish red silk ground with gold brocade",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

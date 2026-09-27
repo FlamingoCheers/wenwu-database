@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "probably mid 17th century",
  "dimensions": "Diam. 12.7 cm (5 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.219.A-B"
  },
- "material": "Enameled blue-and-white ware, \"wucai\" type: porcelain with decoration painted in underglaze cobalt blue and overglaze polychrome enamels"
+ "material": "Enameled blue-and-white ware, \"wucai\" type: porcelain with decoration painted in underglaze cobalt blue and overglaze polychrome enamels",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

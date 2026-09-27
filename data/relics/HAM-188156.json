@@ -5,8 +5,8 @@
  "dynasty": "五代十国",
  "dynasty_confidence": "high",
  "year_range": [
-  10,
-  10
+  907,
+  960
  ],
  "era_text": "10th century",
  "dimensions": "H. 6 x W. 8.2 cm (2 3/8 x 3 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.219"
  },
- "material": "Gilt bronze"
+ "material": "Gilt bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

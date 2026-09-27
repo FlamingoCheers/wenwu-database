@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "first half 8th century",
  "dimensions": "H. 3.2 x Diam. 6.4 cm (1 1/4 x 2 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.385"
  },
- "material": "Sancai (\"three color\") ware: pinkish white earthenware with lead-fluxed, cobalt-blue splahed clear glaze on the interior and lead-fluxed cobalt-blue glaze on the exterior, the (slightly degraded) glazes over a white-slip ground"
+ "material": "Sancai (\"three color\") ware: pinkish white earthenware with lead-fluxed, cobalt-blue splahed clear glaze on the interior and lead-fluxed cobalt-blue glaze on the exterior, the (slightly degraded) glazes over a white-slip ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

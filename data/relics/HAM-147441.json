@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -2350,
-  -2350
+  -2050
  ],
  "era_text": "Majiayao culture, Machang phase, 2350 BCE - 2050 BCE",
  "dimensions": "H. 8.5 x Diam. 18.5 cm (3 3/8 x 7 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2002.6"
  },
- "material": "Buff earthenware with decoration painted in burgundy and black slips. Upper Yellow River Valley area; Gansu or Qinghai province."
+ "material": "Buff earthenware with decoration painted in burgundy and black slips. Upper Yellow River Valley area; Gansu or Qinghai province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "first half 8th century",
  "dimensions": "H. 83.3 x L. 58.4 cm (32 13/16 x 23 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1957.107"
  },
- "material": "Sancai (\"three-color\") ware: off-white earthenware with clear and caramel-brown  lead-fluxed glazes, and with traces of cold-painted pigments in localized areas"
+ "material": "Sancai (\"three-color\") ware: off-white earthenware with clear and caramel-brown  lead-fluxed glazes, and with traces of cold-painted pigments in localized areas",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

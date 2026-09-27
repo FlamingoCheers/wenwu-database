@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "19th century",
  "dimensions": "H. 16.3 cm (6 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1950.83.88"
  },
- "material": "Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue"
+ "material": "Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

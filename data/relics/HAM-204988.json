@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -4000,
-  -4000
+  -2000
  ],
  "era_text": "c. 4000 BCE - c. 2000 BCE",
  "dimensions": "8.5 x 6.5 x 0.7 cm (3 3/8 x 2 9/16 x 1/4 in.)\r\nunspecified: 79 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.92"
  },
- "material": "Variegated light brown nephrite"
+ "material": "Variegated light brown nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

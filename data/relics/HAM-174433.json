@@ -2,11 +2,11 @@
  "relic_id": "HAM-174433",
  "name": "Tomb Furnishing in the Form of a Store House with Decoration of Figures",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -2,
-  -2
+  -206,
+  9
  ],
  "era_text": "probably 2nd century BCE",
  "dimensions": "21.5 x 26.1 x 15.2 cm (8 7/16 x 10 1/4 x 6 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2001.46"
  },
- "material": "Cold-painted funerary ware: molded gray earthenware with decoration cold painted in mineral pigments"
+ "material": "Cold-painted funerary ware: molded gray earthenware with decoration cold painted in mineral pigments",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

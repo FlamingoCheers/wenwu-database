@@ -5,7 +5,7 @@
  "dynasty": "新石器时代",
  "dynasty_confidence": "high",
  "year_range": [
-  -2800,
+  -3000,
   -1900
  ],
  "era_text": "Longshan culture, late phase, 2800-1900 BCE",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.105"
  },
- "material": "Gray earthenware"
+ "material": "Gray earthenware",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

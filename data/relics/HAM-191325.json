@@ -2,11 +2,11 @@
  "relic_id": "HAM-191325",
  "name": "Compressed Globular Bottle with Long Neck and Decoration of Abstract Scrolls",
  "category": "书画",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th cent. - early 14th cent.",
  "dimensions": "H. 16.0 x Diam. 9.1 cm (6 5/16 x 3 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.64"
  },
- "material": "Painted Jizhou ware: very light gray stoneware with clear glaze over decoration painted in iron-brown slip; with two-character inscription reading 'Yuwang' incised on the base. From the Jizhou kilns near Yonghe, Ji'an, Jiangxi province."
+ "material": "Painted Jizhou ware: very light gray stoneware with clear glaze over decoration painted in iron-brown slip; with two-character inscription reading 'Yuwang' incised on the base. From the Jizhou kilns near Yonghe, Ji'an, Jiangxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  6,
-  6
+  550,
+  577
  ],
  "era_text": "late 6th century",
  "dimensions": "H. 61 x W. 34.7 x D. 30.3 cm (24 x 13 11/16 x 11 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.42"
  },
- "material": "White marble with polychromy. Probably from Dingzhou, Hebei province."
+ "material": "White marble with polychromy. Probably from Dingzhou, Hebei province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

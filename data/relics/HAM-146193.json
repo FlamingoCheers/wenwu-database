@@ -2,11 +2,11 @@
  "relic_id": "HAM-146193",
  "name": "Ceramic Sherd from a Circular Bowl with Scrolling Lotus Décor: Generally triangular fragment including portions of the floor, footring, and side wall and elements of the decoration",
  "category": "书画",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "9 x 7.8 cm (3 9/16 x 3 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2002.69.1"
  },
- "material": "Ding ware: porcelaneous white stoneware with pale yellow glaze over incised and carved decoration"
+ "material": "Ding ware: porcelaneous white stoneware with pale yellow glaze over incised and carved decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

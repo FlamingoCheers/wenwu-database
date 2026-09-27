@@ -2,11 +2,11 @@
  "relic_id": "HAM-174845",
  "name": "Sherd: Triangular Fragment from the Base of a Large, Thick-Walled Vessel",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  960,
+  1127
  ],
  "era_text": "first quarter 12th century",
  "dimensions": "5.1 x 7.6 cm (2 x 3 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.360.9"
  },
- "material": "Probably Ru ware: light gray stoneware body with pale bluish celadon glaze. Probably from the Ru kilns, Henan province"
+ "material": "Probably Ru ware: light gray stoneware body with pale bluish celadon glaze. Probably from the Ru kilns, Henan province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

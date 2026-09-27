@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "8th-9th century",
  "dimensions": "H. 13.2 x W. 12.3 x Diam. 11.1 cm (5 3/16 x 4 13/16 x 4 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.116"
  },
- "material": "Light gray stoneware with appliqué handle and spout and with medium brown glaze. Place of manufacture uncertain--probably from northern China."
+ "material": "Light gray stoneware with appliqué handle and spout and with medium brown glaze. Place of manufacture uncertain--probably from northern China.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

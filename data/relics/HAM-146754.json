@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   534,
-  577
+  550
  ],
  "era_text": "534 - 577",
  "dimensions": "H. 49.5 x W. 16 x D. 12 cm (19 1/2 x 6 5/16 x 4 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2003.188"
  },
- "material": "Molded, medium gray earthenware with cold-painted pigments over white ground"
+ "material": "Molded, medium gray earthenware with cold-painted pigments over white ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

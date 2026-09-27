@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "mid 16th-early 17th century",
  "dimensions": "H. 5.7 x Diam. 12.4 cm (2 1/4 x 4 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.241"
  },
- "material": "Porcelain with interior decoration painted in underglaze cobalt blue and with gold enamel painted on a red enamel ground added to the exterior at a later date; with spurious underglaze cobalt-blue mark reading \"Da Ming Yongle nian zhi\" within a single circle on the base."
+ "material": "Porcelain with interior decoration painted in underglaze cobalt blue and with gold enamel painted on a red enamel ground added to the exterior at a later date; with spurious underglaze cobalt-blue mark reading \"Da Ming Yongle nian zhi\" within a single circle on the base.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

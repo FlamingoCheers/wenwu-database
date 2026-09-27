@@ -2,11 +2,11 @@
  "relic_id": "HAM-202918",
  "name": "Stele of a Bodhisattva Seated in Positon of Royal Ease on a Lotus Blossom Under a Canopy (a forgery purporting to be of the Tang dynasty)",
  "category": "雕塑",
- "dynasty": "唐",
- "dynasty_confidence": "high",
+ "dynasty": "现当代",
+ "dynasty_confidence": "source",
  "year_range": [
-  20,
-  20
+  1901,
+  2000
  ],
  "era_text": "early 20th Century",
  "dimensions": "H. 44.4 x W. 25.2 x D. 15.4 cm (17 5/16 x 9 15/16 x 6 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1967.1"
  },
- "material": "Stone with traces of pigment and accretions"
+ "material": "Stone with traces of pigment and accretions",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -13,
-  -13
+  -1600,
+  -1050
  ],
  "era_text": "13th-mid 11th century BCE",
  "dimensions": "H. 23 x Diam. 25.5 cm (9 1/16 x 10 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1961.133"
  },
- "material": "Light gray stoneware with applique handles and incised and applique decor, the surface lightly burnished before firing. Anyang type."
+ "material": "Light gray stoneware with applique handles and incised and applique decor, the surface lightly burnished before firing. Anyang type.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

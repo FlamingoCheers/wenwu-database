@@ -2,11 +2,11 @@
  "relic_id": "HAM-202132",
  "name": "New Year Print: God of Wealth on Dragon Back, with Two Boys, Presenting a Banner Reading \"Da Fa Cai Yuan\" (\"Grand Source of Wealth\")",
  "category": "书画",
- "dynasty": "元",
- "dynasty_confidence": "high",
+ "dynasty": "清",
+ "dynasty_confidence": "source",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "34.3 x 26.7 cm (13 1/2 x 10 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1980.92.2"
  },
- "material": "Woodblock print; ink and color on paper. Probably from Beijing."
+ "material": "Woodblock print; ink and color on paper. Probably from Beijing.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

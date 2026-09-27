@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  828,
-  828
+  618,
+  907
  ],
  "era_text": "dated to 828",
  "dimensions": "H. 6.5 x W. 8.7 x D. 1.2 cm (2 9/16 x 3 7/16 x 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.175"
  },
- "material": "Cast bronze; with localized areas of parcel gilding and dated inscription"
+ "material": "Cast bronze; with localized areas of parcel gilding and dated inscription",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

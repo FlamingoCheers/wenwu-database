@@ -2,11 +2,11 @@
  "relic_id": "HAM-165242",
  "name": "Small Circular Bowl with Decoration of a Branch of Blossoming Plum under a Crescent Moon",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "H. 4.5 x Diam. 12 cm (1 3/4 x 4 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2001.124"
  },
- "material": "Qingbai ware: porcelain with pale sky-blue glaze over molded decoration"
+ "material": "Qingbai ware: porcelain with pale sky-blue glaze over molded decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

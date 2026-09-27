@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "first half 16th century",
  "dimensions": "H. 198.7 x W. 108.5 cm (78 1/4 x 42 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.198"
  },
- "material": "Hanging scroll mounted on a panel and framed; ink and slight color on silk"
+ "material": "Hanging scroll mounted on a panel and framed; ink and slight color on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

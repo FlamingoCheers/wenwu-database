@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -14,
-  -14
+  -1600,
+  -1050
  ],
  "era_text": "c. 14th cent. BCE - c. 11th cent. BCE",
  "dimensions": "26.2 x 6.7 x 0.5 cm (10 5/16 x 2 5/8 x 3/16 in.)\r\nunspecified: 136 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.17"
  },
- "material": "Bluish grey-green nephrite with whitish markings and a few calcified spots, showing faint reddish brown stains"
+ "material": "Bluish grey-green nephrite with whitish markings and a few calcified spots, showing faint reddish brown stains",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th century",
  "dimensions": "sight: H. 25 x W. 28.8 cm (9 13/16 x 11 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1976.65.3"
  },
- "material": "One of six woodblock printed, accordion-fold books; ink and color on paper; with wood cover"
+ "material": "One of six woodblock printed, accordion-fold books; ink and color on paper; with wood cover",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-204664",
  "name": "Fluted Jade Coil with Animal Head",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -475,
+  -221
  ],
  "era_text": "3rd-2nd century BCE",
  "dimensions": "Diam. 7.5 x W. 1.5 x Thickness 0.9 cm (2 15/16 x 9/16 x 3/8 in.)\r\nWeight 50 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.611"
  },
- "material": "Translucent gray and smoke-brown nephrite"
+ "material": "Translucent gray and smoke-brown nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

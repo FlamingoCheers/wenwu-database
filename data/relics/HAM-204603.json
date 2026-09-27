@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -206,
-  -206
+  220
  ],
  "era_text": "206 BCE - 220 CE (?)",
  "dimensions": "0.3 x 10.9 cm (1/8 x 4 5/16 in.)\r\nunspecified: 70 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.587"
  },
- "material": "Translucent, pale green nephrite with two smoke-brown  areas"
+ "material": "Translucent, pale green nephrite with two smoke-brown  areas",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

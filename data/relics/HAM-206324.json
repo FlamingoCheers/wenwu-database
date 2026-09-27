@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: 33.8 x 19.3 cm (13 5/16 x 7 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.39"
  },
- "material": "Woodblock print; ink and color on paper; with printed inscription for the qilin and lion reading: \"Bi E Qilin, Zhen Zhai Shizi\" (\"Qilin Wards Off Evil Spirits; Lion Guards the House\"), printed inscription on horseback: \"Fu\" (\"Good Fortune\") and on deer's back \"Lu\" (Emoluments), and printed inscription \"Sheng Ji\" (\"Roosters\"). Probably from Lingbao, Henan."
+ "material": "Woodblock print; ink and color on paper; with printed inscription for the qilin and lion reading: \"Bi E Qilin, Zhen Zhai Shizi\" (\"Qilin Wards Off Evil Spirits; Lion Guards the House\"), printed inscription on horseback: \"Fu\" (\"Good Fortune\") and on deer's back \"Lu\" (Emoluments), and printed inscription \"Sheng Ji\" (\"Roosters\"). Probably from Lingbao, Henan.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

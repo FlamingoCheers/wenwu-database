@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  5,
-  5
+  420,
+  589
  ],
  "era_text": "5th-6th century",
  "dimensions": "H. 3.8 x W. (across legs) 12.3 x Diam. 10.2 cm (1 1/2 x 4 13/16 x 4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.224"
  },
- "material": "Bronze"
+ "material": "Bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

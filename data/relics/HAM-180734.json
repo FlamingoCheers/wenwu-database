@@ -5,8 +5,8 @@
  "dynasty": "五代十国",
  "dynasty_confidence": "high",
  "year_range": [
-  10,
-  10
+  907,
+  960
  ],
  "era_text": "10th-11th century",
  "dimensions": "7.9 x 13.2 cm (3 1/8 x 5 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.334.41"
  },
- "material": "Yaozhou ware: light gray stoneware with celadon glaze over carved decoration.  From the Yaozhou kilns near Tongchuan, Shaanxi province."
+ "material": "Yaozhou ware: light gray stoneware with celadon glaze over carved decoration.  From the Yaozhou kilns near Tongchuan, Shaanxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

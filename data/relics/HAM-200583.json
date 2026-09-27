@@ -2,11 +2,11 @@
  "relic_id": "HAM-200583",
  "name": "Circular Flat Dish",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  960,
+  1127
  ],
  "era_text": "first half 12th century",
  "dimensions": "max.: H. 2.3 × Diam. 11.4 cm (7/8 × 4 1/2 in.)\r\nfoot: Diam. 4 cm (1 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1995.20.2"
  },
- "material": "Jun ware: light gray stoneware with robin's-egg blue glaze"
+ "material": "Jun ware: light gray stoneware with robin's-egg blue glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

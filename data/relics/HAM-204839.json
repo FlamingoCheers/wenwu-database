@@ -2,11 +2,11 @@
  "relic_id": "HAM-204839",
  "name": "Small Fluted Jade Ring",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "0.7 x 5.2 cm (1/4 x 2 1/16 in.)\r\nunspecified: 14 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.618"
  },
  "material": "Olive-green translucent nephrite",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

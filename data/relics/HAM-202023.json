@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1744,
-  1744
+  1644,
+  1911
  ],
  "era_text": "dated to 1744",
  "dimensions": "19.7 x 49.3 cm (7 3/4 x 19 7/16 in.)\r\nframe: 59.1 x 74.3 cm (23 1/4 x 29 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1978.91"
  },
- "material": "Folding fan mounted as an album leaf; ink and light color on mica-coated paper; with artist's inscription, signature, and seals"
+ "material": "Folding fan mounted as an album leaf; ink and light color on mica-coated paper; with artist's inscription, signature, and seals",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

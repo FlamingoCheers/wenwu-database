@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -1700,
-  -1028
+  -1600,
+  -1050
  ],
  "era_text": "c. 1700 - 1028 BCE",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.25"
  },
- "material": "Bronze with turquoise inlay"
+ "material": "Bronze with turquoise inlay",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

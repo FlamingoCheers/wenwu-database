@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "8th-9th century",
  "dimensions": "14.7 x 11 x 6.1 cm (5 13/16 x 4 5/16 x 2 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.150"
  },
- "material": "Monochrome lead-glazed ware: molded white earthenware with lead-fluxed caramel-brown glaze"
+ "material": "Monochrome lead-glazed ware: molded white earthenware with lead-fluxed caramel-brown glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

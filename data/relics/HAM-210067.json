@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  618,
+  907
  ],
  "era_text": "7th century",
  "dimensions": "painting proper (irregular): H. 34.7 x W. 21.3 cm (13 11/16 x 8 3/8 in.)\r\nframed: H. 73.5 x W. 53.5 x D. 3.5 cm (28 15/16 x 21 1/16 x 1 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1924.42"
  },
- "material": "Section of a wall painting; polychromy on unfired clay"
+ "material": "Section of a wall painting; polychromy on unfired clay",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

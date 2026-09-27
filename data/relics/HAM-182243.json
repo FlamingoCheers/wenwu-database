@@ -2,11 +2,11 @@
  "relic_id": "HAM-182243",
  "name": "Small, Circular Dish with Notched Rim and Subtle Vertical Ribs",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "2.5 x 10.9 cm (1 x 4 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.334.28"
  },
- "material": "Probably Cizhou ware: light gray stoneware with clear glaze over a full coating of white slip, the vertical ribs trailed in white slip"
+ "material": "Probably Cizhou ware: light gray stoneware with clear glaze over a full coating of white slip, the vertical ribs trailed in white slip",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

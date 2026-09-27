@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -206,
-  -206
+  220
  ],
  "era_text": "206 BCE - 220 CE (?)",
  "dimensions": "Diam. 16.5 x Thickness 0.7 cm (6 1/2 x 1/4 in.)\r\n211 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.546"
  },
- "material": "Pale green translucent nephrite with brownish markings"
+ "material": "Pale green translucent nephrite with brownish markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -4,7 +4,10 @@
  "category": "书画",
  "dynasty": "明",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1368,
+  1644
+ ],
  "era_text": null,
  "dimensions": "16.8 x 27.4 cm (6 5/8 x 10 13/16 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Album leaf; ink and slight color on silk",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1936.110"
  },
- "material": "Album leaf; ink and slight color on silk"
+ "material": "Album leaf; ink and slight color on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

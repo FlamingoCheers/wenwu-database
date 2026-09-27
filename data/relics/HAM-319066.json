@@ -5,8 +5,8 @@
  "dynasty": "宋",
  "dynasty_confidence": "high",
  "year_range": [
-  12,
-  12
+  960,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "H. 6.8 cm x Diam. 12.9 cm (2 11/16 x 5 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2007.81"
  },
- "material": "Jian ware: dark gray stoneware with dark brown glaze, the markings in iron oxide, the lip banded with metal. From the kilns at Shuiji, Jianyang county, Fujian province."
+ "material": "Jian ware: dark gray stoneware with dark brown glaze, the markings in iron oxide, the lip banded with metal. From the kilns at Shuiji, Jianyang county, Fujian province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

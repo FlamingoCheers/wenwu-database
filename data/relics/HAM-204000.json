@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  5,
-  5
+  386,
+  534
  ],
  "era_text": "late 5th-early 6th Century",
  "dimensions": "sight: H. 103 x W. 48 x D. 18 cm (40 9/16 x 18 7/8 x 7 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.35"
  },
- "material": "Buff sandstone. From Yungang, Shanxi province."
+ "material": "Buff sandstone. From Yungang, Shanxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

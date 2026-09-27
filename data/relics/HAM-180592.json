@@ -5,8 +5,8 @@
  "dynasty": "五代十国",
  "dynasty_confidence": "high",
  "year_range": [
-  10,
-  10
+  907,
+  960
  ],
  "era_text": "10th-early 11th century",
  "dimensions": "6.7 x 6.7 cm (2 5/8 x 2 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.334.29"
  },
- "material": "Possibly Xing ware; porcelain with incised and appliqué decoration.  Possibly made at the Xing kilns, Hebei province."
+ "material": "Possibly Xing ware; porcelain with incised and appliqué decoration.  Possibly made at the Xing kilns, Hebei province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

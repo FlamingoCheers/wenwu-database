@@ -4,7 +4,10 @@
  "category": "书画",
  "dynasty": "唐",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  618,
+  907
+ ],
  "era_text": null,
  "dimensions": "H. 35.3 x W. 63 cm (13 7/8 x 24 13/16 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Fragment of a wall painting; pigments on gesso ground over plastered clay. From the north wall of Mogao Cave 321 at Dunhuang, Gansu province.",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1924.161"
  },
- "material": "Fragment of a wall painting; pigments on gesso ground over plastered clay. From the north wall of Mogao Cave 321 at Dunhuang, Gansu province."
+ "material": "Fragment of a wall painting; pigments on gesso ground over plastered clay. From the north wall of Mogao Cave 321 at Dunhuang, Gansu province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

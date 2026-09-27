@@ -2,11 +2,11 @@
  "relic_id": "HAM-197049",
  "name": "Wide-mouthed jar",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -475,
+  -221
  ],
  "era_text": "3rd-2nd century BCE",
  "dimensions": "H. 34.8 x Diam. 46 cm (13 11/16 x 18 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.149"
  },
- "material": "Gray stoneware"
+ "material": "Gray stoneware",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  9,
-  9
+  618,
+  907
  ],
  "era_text": "9th-early 10th century",
  "dimensions": "including cover: H. 6.2 x Diam. 11.1 cm (2 7/16 x 4 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1991.267.A-B"
  },
- "material": "Monochrome lead-glazed ware: molded white earthenware with lead-fluxed emerald-green glaze on the exterior and lead-fluxed clear glaze mottled with green on the interior. Probably from kilns at Luoyang or Gongxian, Henan province."
+ "material": "Monochrome lead-glazed ware: molded white earthenware with lead-fluxed emerald-green glaze on the exterior and lead-fluxed clear glaze mottled with green on the interior. Probably from kilns at Luoyang or Gongxian, Henan province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

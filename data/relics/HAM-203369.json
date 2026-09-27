@@ -2,11 +2,11 @@
  "relic_id": "HAM-203369",
  "name": "Long Flaring Jade Tube",
  "category": "玉器",
- "dynasty": "商",
- "dynasty_confidence": "high",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "source",
  "year_range": [
   -1700,
-  -1700
+  -1000
  ],
  "era_text": "c. 1700 BCE - c. 1000 BCE",
  "dimensions": "15.5 x 3.2 cm (6 1/8 x 1 1/4 in.)\r\nunspecified: 148 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.393"
  },
- "material": "Translucent celadon-green nephrite with small, whitish clouds"
+ "material": "Translucent celadon-green nephrite with small, whitish clouds",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

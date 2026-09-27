@@ -5,8 +5,8 @@
  "dynasty": "隋",
  "dynasty_confidence": "high",
  "year_range": [
-  6,
-  6
+  581,
+  618
  ],
  "era_text": "late 6th-early 7th century",
  "dimensions": "H. 19 x W. 10.3 x D. 10.1 cm (7 1/2 x 4 1/16 x 4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1945.18.13"
  },
- "material": "Lead-glazed ware: molded white earthenware with straw-yellow, lead-fluxed glaze and with traces of cold-painted pigments over the glaze"
+ "material": "Lead-glazed ware: molded white earthenware with straw-yellow, lead-fluxed glaze and with traces of cold-painted pigments over the glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

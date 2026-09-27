@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th century",
  "dimensions": "40.01 x 35.56 cm (15 3/4 x 14 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1930.75.A"
  },
- "material": "Red, yellow, and blue silk brocade on a green silk ground"
+ "material": "Red, yellow, and blue silk brocade on a green silk ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

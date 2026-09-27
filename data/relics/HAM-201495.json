@@ -2,11 +2,11 @@
  "relic_id": "HAM-201495",
  "name": "Small Lobed, Foliate-Rimmed Dish",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "H. 2.54 x Diam. 10.8 cm (1 x 4 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.280"
  },
- "material": "Qingbai ware: molded porcelain with off-white glaze over trailed ribs of porcelain slip"
+ "material": "Qingbai ware: molded porcelain with off-white glaze over trailed ribs of porcelain slip",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "8th century",
  "dimensions": "Diam. 13.4 x Thickness 1.6 cm (5 1/4 x 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.158"
  },
- "material": "Cast bronze, the inset gold plaque on the reverse with repoussé designs"
+ "material": "Cast bronze, the inset gold plaque on the reverse with repoussé designs",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

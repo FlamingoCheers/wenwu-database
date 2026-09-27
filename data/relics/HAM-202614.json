@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  618,
+  907
  ],
  "era_text": "7th-early 8th century",
  "dimensions": "H. 16.8 x W. 11 x D. 11.7 cm (6 5/8 x 4 5/16 x 4 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1972.59"
  },
- "material": "Cold-painted funerary ware: molded buff earthenware with traces of cold-painted pigment"
+ "material": "Cold-painted funerary ware: molded buff earthenware with traces of cold-painted pigment",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

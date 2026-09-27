@@ -2,11 +2,11 @@
  "relic_id": "HAM-203583",
  "name": "Circular Dish with Scrolling Floral Decor",
  "category": "书画",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1950.97"
  },
- "material": "Shufu ware: molded porcelain with pale sky-blue glaze; with molded characters reading \"Shu Fu\" incorporated into the design"
+ "material": "Shufu ware: molded porcelain with pale sky-blue glaze; with molded characters reading \"Shu Fu\" incorporated into the design",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

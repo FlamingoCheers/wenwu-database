@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -11,
-  -11
+  -1600,
+  -1050
  ],
  "era_text": "11th century BCE",
  "dimensions": "H. (without handle) 29.2 cm (11 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.120"
  },
- "material": "Cast bronze with incrustations of green patina; with inscription on both the vessel floor and lid interior"
+ "material": "Cast bronze with incrustations of green patina; with inscription on both the vessel floor and lid interior",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

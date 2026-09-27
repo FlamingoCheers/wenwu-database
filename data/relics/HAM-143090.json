@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  9,
-  9
+  618,
+  907
  ],
  "era_text": "9th-10th century",
  "dimensions": "H. 5.2 x W. 14.1 x D. 9.4 cm (2 1/16 x 5 9/16 x 3 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.267"
  },
- "material": "Earthenware with green splashed lead glaze"
+ "material": "Earthenware with green splashed lead glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

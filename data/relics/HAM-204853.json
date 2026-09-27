@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3300,
-  -3300
+  -2200
  ],
  "era_text": "c. 3300 BCE - c. 2000 BCE",
  "dimensions": "4 x 0.3 x 5.7 cm (1 9/16 x 1/8 x 2 1/4 in.)\r\nunspecified: 65 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.496"
  },
- "material": "Mottled whitish nephrite with sparse black veins"
+ "material": "Mottled whitish nephrite with sparse black veins",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

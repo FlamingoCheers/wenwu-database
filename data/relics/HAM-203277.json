@@ -4,7 +4,10 @@
  "category": "青铜器",
  "dynasty": "唐",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  618,
+  907
+ ],
  "era_text": null,
  "dimensions": "9.2 x 3.2 cm (3 5/8 x 1 1/4 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Metal",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1955.86"
  },
- "material": "Metal"
+ "material": "Metal",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

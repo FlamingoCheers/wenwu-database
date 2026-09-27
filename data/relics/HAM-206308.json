@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1932,
-  1932
+  1644,
+  1911
  ],
  "era_text": "1932",
  "dimensions": "paper: 40.7 x 26 cm (16 x 10 1/4 in.)\r\nmat: 45.72 x 35.56 cm (18 x 14 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.33"
  },
- "material": "Woodblock print; ink and color on paper; with a printed couplet reading from right to left: \"You Yan Shen Si Hai; Mi Mian Ji Ru Shan\" (\"Oil and Salt Can Fill the Sea; Rice and Flour Pile up Like Mountains\"). Probably from Lingbao, Henan."
+ "material": "Woodblock print; ink and color on paper; with a printed couplet reading from right to left: \"You Yan Shen Si Hai; Mi Mian Ji Ru Shan\" (\"Oil and Salt Can Fill the Sea; Rice and Flour Pile up Like Mountains\"). Probably from Lingbao, Henan.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

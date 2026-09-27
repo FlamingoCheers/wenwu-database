@@ -4,7 +4,10 @@
  "category": "书画",
  "dynasty": "清",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1644,
+  1911
+ ],
  "era_text": null,
  "dimensions": "H. 29.2 × W. 38.7 cm (11 1/2 × 15 1/4 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Album leaf; ink and color on paper",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.904.16"
  },
- "material": "Album leaf; ink and color on paper"
+ "material": "Album leaf; ink and color on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

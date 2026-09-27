@@ -2,11 +2,11 @@
  "relic_id": "HAM-203228",
  "name": "Section from a Tomb Furnishing in the Form of a Three-Storied Watchtower (First Storey and Balustraded Balcony of Second Storey with Seated Figure and Four Archers)",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  101,
+  200
  ],
  "era_text": "1st-2nd century CE",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1959.14.2"
  },
- "material": "Lead-glazed funerary ware: molded brick-red earthenware with applique elements and much degraded lead-fluxed emerald-green glaze"
+ "material": "Lead-glazed funerary ware: molded brick-red earthenware with applique elements and much degraded lead-fluxed emerald-green glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-189160",
  "name": "Cylindrical Tripod Censer with Decoration of Butterflies Set within Flattened Quatrefoil Panels Against a Ground of Rolling Waves",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th-14th century",
  "dimensions": "9 x 11.7 cm (3 9/16 x 4 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.214"
  },
- "material": "Painted Jizhou ware: off-white stoneware with decoration painted in iron-brown slip under a clear glaze. From the kilns at Yonghe, Ji'an, Jiangxi province."
+ "material": "Painted Jizhou ware: off-white stoneware with decoration painted in iron-brown slip under a clear glaze. From the kilns at Yonghe, Ji'an, Jiangxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

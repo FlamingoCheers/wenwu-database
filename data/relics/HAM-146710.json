@@ -2,11 +2,11 @@
  "relic_id": "HAM-146710",
  "name": "Male Figure, from the tomb sculpture set: Equestrian Male Figure Positioned to Shoot a Bow and Arrow, and Mounted on a Saddled, Prancing Horse",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -1,
-  -1
+  -206,
+  9
  ],
  "era_text": "1st century BCE",
  "dimensions": "18.5 x 14.5 x 5.5 cm (7 5/16 x 5 11/16 x 2 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2003.173.2"
  },
- "material": "Lead-glazed ware: molded, brick-red earthenware with lead-fluxed, caramel-brown glaze, the head, hands, and trouser legs unglazed, with cold-painted pigments on the exposed body clay"
+ "material": "Lead-glazed ware: molded, brick-red earthenware with lead-fluxed, caramel-brown glaze, the head, hands, and trouser legs unglazed, with cold-painted pigments on the exposed body clay",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

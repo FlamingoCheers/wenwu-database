@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "probably 15th century",
  "dimensions": "max.: H. 20 × Diam. 25.3 cm (7 7/8 × 9 15/16 in.)\r\nbase: Diam. 13.5 cm (5 5/16 in.)\r\nweight: 2098.2 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.57"
  },
- "material": "Numbered Jun ware: light gray stoneware with variegated blue glaze; with Chinese numeral 4 (si) inscribed on base before firing; \"Chonghua gong jingqi xuan yong\" (Palace of Double Glory, used in the Pavilion of Serene Repose) inscription incised on base at a later date"
+ "material": "Numbered Jun ware: light gray stoneware with variegated blue glaze; with Chinese numeral 4 (si) inscribed on base before firing; \"Chonghua gong jingqi xuan yong\" (Palace of Double Glory, used in the Pavilion of Serene Repose) inscription incised on base at a later date",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

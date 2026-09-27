@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3500,
-  -3500
+  -2500
  ],
  "era_text": "possibly Longshan culture, c. 3500 BCE - c. 2500 BCE",
  "dimensions": "3.3 x 5.7 x 0.3 cm (1 5/16 x 2 1/4 x 1/8 in.)\r\nunspecified: 45 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.485"
  },
- "material": "Translucent, pale greenish nephrite with buff and gray markings"
+ "material": "Translucent, pale greenish nephrite with buff and gray markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

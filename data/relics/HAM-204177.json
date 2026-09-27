@@ -5,8 +5,8 @@
  "dynasty": "隋",
  "dynasty_confidence": "high",
  "year_range": [
-  6,
-  6
+  581,
+  618
  ],
  "era_text": "mid 6th-early 7th century",
  "dimensions": "H. 22.8 cm (9 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1945.18.6"
  },
- "material": "Molded light gray eartheware with traces of cold-painted pigments on a white ground"
+ "material": "Molded light gray eartheware with traces of cold-painted pigments on a white ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

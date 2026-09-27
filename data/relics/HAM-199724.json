@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "16th-17th century",
  "dimensions": "H. 3.5 x Diam. 21.2 cm (1 3/8 x 8 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1979.451"
  },
- "material": "Export blue-and-white ware, kraak porcelain: porcelain with decoration painted in underglaze cobalt blue"
+ "material": "Export blue-and-white ware, kraak porcelain: porcelain with decoration painted in underglaze cobalt blue",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

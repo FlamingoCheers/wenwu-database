@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "probably late 17th to early 19th century",
  "dimensions": "image only: H. 29.3 x W. 253.7 cm (11 9/16 x 99 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1931.11"
  },
- "material": "Handscroll; ink and color on silk; with spurious signature and date of 1298"
+ "material": "Handscroll; ink and color on silk; with spurious signature and date of 1298",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

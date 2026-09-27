@@ -2,11 +2,11 @@
  "relic_id": "HAM-180732",
  "name": "Lobed Ewer with Long Spout, Flaring Lip, and Strap Handle",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "H. 21.8 x Diam. 13.1 cm (8 9/16 x 5 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.334.37"
  },
- "material": "'Qingbai' ware: porcelain with pale bluish glaze over incised decoration, with appliqué handle and spout.  Probably from kilns in Fujian province."
+ "material": "'Qingbai' ware: porcelain with pale bluish glaze over incised decoration, with appliqué handle and spout.  Probably from kilns in Fujian province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

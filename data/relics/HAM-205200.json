@@ -5,8 +5,8 @@
  "dynasty": "新石器时代",
  "dynasty_confidence": "high",
  "year_range": [
-  -2500,
-  -2500
+  -3000,
+  -1900
  ],
  "era_text": "c. 2500 BCE - c. 2000 BCE",
  "dimensions": "59.5 x 10.4 x 0.9 cm (23 7/16 x 4 1/8 x 3/8 in.)\r\nunspecified: 1230 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.32"
  },
- "material": "Bluish gray-green stone with dark gray veins and a few buff areas"
+ "material": "Bluish gray-green stone with dark gray veins and a few buff areas",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

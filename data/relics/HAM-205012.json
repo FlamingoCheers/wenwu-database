@@ -2,11 +2,11 @@
  "relic_id": "HAM-205012",
  "name": "Jade Dragon Silhouette in Openwork",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "7.6 x 1.7 x 0.3 cm (3 x 11/16 x 1/8 in.)\r\nunspecified: 6 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.346"
  },
  "material": "Opaque light brown, partly calcified nephrite",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

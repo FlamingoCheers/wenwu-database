@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1368,
+  1644
  ],
  "era_text": "probably 17th-early 18th century",
  "dimensions": "H. 20.5 cm (8 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.106"
  },
- "material": "Molded porcelain with pale bluish glaze"
+ "material": "Molded porcelain with pale bluish glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

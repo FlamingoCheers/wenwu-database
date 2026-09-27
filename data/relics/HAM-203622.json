@@ -4,7 +4,10 @@
  "category": "瓷器",
  "dynasty": "宋",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  960,
+  1279
+ ],
  "era_text": null,
  "dimensions": "5.24 x 9.84 cm (2 1/16 x 3 7/8 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Ceramic",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1957.147"
  },
- "material": "Ceramic"
+ "material": "Ceramic",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

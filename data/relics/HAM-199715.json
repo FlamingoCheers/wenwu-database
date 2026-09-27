@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "c. late 18th century",
  "dimensions": "H. 2.3 x Diam. 24 cm (7/8 x 9 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1979.439"
  },
- "material": "Export blue-and-white ware: porcelain with mold-impressed designs and decoration painted in underglaze cobalt blue"
+ "material": "Export blue-and-white ware: porcelain with mold-impressed designs and decoration painted in underglaze cobalt blue",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "19th century",
  "dimensions": "Diam. 7.8 × Thickness 1.2 cm (3 1/16 × 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1919.257"
  },
- "material": "Ink with molded decoration and molded inscriptions on base and edge; edge inscription reads \"Hainan Songmei Dongpo fa zhi\""
+ "material": "Ink with molded decoration and molded inscriptions on base and edge; edge inscription reads \"Hainan Songmei Dongpo fa zhi\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

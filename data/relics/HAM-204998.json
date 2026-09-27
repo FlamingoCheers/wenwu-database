@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3300,
-  -3300
+  -2200
  ],
  "era_text": "c. 3300 - c. 2000 BCE",
  "dimensions": "H. 15.4 x W. 7.6 x D. 1.1 cm (6 1/16 x 3 x 7/16 in.)\r\nWeight 290 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.114"
  },
- "material": "Creamy buff stone with brown markings"
+ "material": "Creamy buff stone with brown markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

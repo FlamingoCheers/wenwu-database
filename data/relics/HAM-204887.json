@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "late 19th - early 20th century",
  "dimensions": "H. 2.8 x Diam. 1.8 cm (1 1/8 x 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.151"
  },
- "material": "Light gray and brownish, translucent nephrite cylinder"
+ "material": "Light gray and brownish, translucent nephrite cylinder",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

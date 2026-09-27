@@ -2,11 +2,11 @@
  "relic_id": "HAM-204657",
  "name": "Gilt Bronze Buckle with Jade Inlay",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
   -206,
-  -206
+  9
  ],
  "era_text": "206 BCE - 9 CE",
  "dimensions": "23 x 3.4 x 3.9 cm (9 1/16 x 1 5/16 x 1 9/16 in.)\r\nunspecified: 219 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.56"
  },
- "material": "Gilt bronze with nephrite and turquoise inlay"
+ "material": "Gilt bronze with nephrite and turquoise inlay",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

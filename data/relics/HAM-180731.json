@@ -5,8 +5,8 @@
  "dynasty": "元",
  "dynasty_confidence": "high",
  "year_range": [
-  13,
-  13
+  1279,
+  1368
  ],
  "era_text": "13th-14th century",
  "dimensions": "16.5 x 6.8 cm (6 1/2 x 2 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.334.33"
  },
- "material": "Longquan celadon ware: light gray stoneware with cloudy celadon glaze over appliqué decorative elements.  From the Longquan kilns, Zhejiang province."
+ "material": "Longquan celadon ware: light gray stoneware with cloudy celadon glaze over appliqué decorative elements.  From the Longquan kilns, Zhejiang province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

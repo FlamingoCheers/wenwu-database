@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "probably Ming dynasty, late 16th - early 17th century",
  "dimensions": "H. 20.1 x W. 16.5 x D. 12.3 cm (7 15/16 x 6 1/2 x 4 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1946.2"
  },
- "material": "'Guan'-type ware: porcelain with thick grayish blue glaze over molded decoration; with inscription of the Qianlong Emperor dated to 1783 incised into the base"
+ "material": "'Guan'-type ware: porcelain with thick grayish blue glaze over molded decoration; with inscription of the Qianlong Emperor dated to 1783 incised into the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "汉",
  "dynasty_confidence": "high",
  "year_range": [
-  -1,
-  -1
+  -206,
+  220
  ],
  "era_text": "1st century BCE-2nd century CE",
  "dimensions": "H. 8.4 x Diam. 18.3 cm (3 5/16 x 7 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.191"
  },
- "material": "Earthenware with green lead glaze"
+ "material": "Earthenware with green lead glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

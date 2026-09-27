@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1716,
-  1716
+  1644,
+  1911
  ],
  "era_text": "1716",
  "dimensions": "painting proper: 198.1 x 108 cm (78 x 42 1/2 in.)\r\nmounting: 337.8 x 137.2 cm (133 x 54 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1968.73"
  },
- "material": "Hanging scroll; ink and light color on silk; with signature reading \"Yuan Jiang hua\""
+ "material": "Hanging scroll; ink and light color on silk; with signature reading \"Yuan Jiang hua\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

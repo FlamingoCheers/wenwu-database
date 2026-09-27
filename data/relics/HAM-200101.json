@@ -5,8 +5,8 @@
  "dynasty": "辽",
  "dynasty_confidence": "high",
  "year_range": [
-  11,
-  11
+  907,
+  1125
  ],
  "era_text": "second half 11th century",
  "dimensions": "2.5 x 26.2 x 15.1 cm (1 x 10 5/16 x 5 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1990.23"
  },
- "material": "Liao sancai (\"three-color\") ware: pinkish buff earthenware with lead-fluxed clear, emerald-green, and caramel-brown glazes over a white-slip ground"
+ "material": "Liao sancai (\"three-color\") ware: pinkish buff earthenware with lead-fluxed clear, emerald-green, and caramel-brown glazes over a white-slip ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

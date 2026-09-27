@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  618,
+  907
  ],
  "era_text": "late 7th-8th century",
  "dimensions": "Diam. 23.3 cm (9 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.163"
  },
- "material": "Cast bronze"
+ "material": "Cast bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

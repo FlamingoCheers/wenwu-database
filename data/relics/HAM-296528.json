@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "early 19th century",
  "dimensions": "H. 201 x W. 39.5 cm (79 1/8 x 15 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1970.13"
  },
- "material": "Hanging scroll; ink on yellow satin"
+ "material": "Hanging scroll; ink on yellow satin",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

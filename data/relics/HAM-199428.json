@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1862,
-  1873
+  1644,
+  1911
  ],
  "era_text": "Tongzhi period, 1862-1873",
  "dimensions": "H. 5.9 x Diam. 12.2 cm (2 5/16 x 4 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1917.175.11"
  },
- "material": "Monochrome enameled porcelain: porcelain with overglaze pink enamel; the base with overglaze red mark reading \"Da Qing Tongzhi nian zhi\" within a double square on the base"
+ "material": "Monochrome enameled porcelain: porcelain with overglaze pink enamel; the base with overglaze red mark reading \"Da Qing Tongzhi nian zhi\" within a double square on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

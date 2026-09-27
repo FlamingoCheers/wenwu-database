@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3300,
-  -2000
+  -2200
  ],
  "era_text": "3300-2000 BCE",
  "dimensions": "H. 2.4 x Diam. 9.6 x Thickness of ring 1.2 cm (15/16 x 3 3/4 x 1/2 in.)\r\nWeight 184 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.490"
  },
- "material": "Mottled light and dark brown stone with a small green patch on the inner wall"
+ "material": "Mottled light and dark brown stone with a small green patch on the inner wall",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

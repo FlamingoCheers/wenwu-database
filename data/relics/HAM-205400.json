@@ -5,8 +5,8 @@
  "dynasty": "宋",
  "dynasty_confidence": "high",
  "year_range": [
-  12,
-  12
+  960,
+  1279
  ],
  "era_text": "probably 12th-13th century",
  "dimensions": "H. 4.76 x Diam. 11.75 cm (1 7/8 x 4 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.420"
  },
- "material": "Perhaps Jizhou-type ware: light gray stoneware with dark brown glaze and decoration created through the application of ash onto the surface of the glaze"
+ "material": "Perhaps Jizhou-type ware: light gray stoneware with dark brown glaze and decoration created through the application of ash onto the surface of the glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

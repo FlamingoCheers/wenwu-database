@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: 51.1 x 30.7 cm (20 1/8 x 12 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.108"
  },
- "material": "Woodblock print; ink and color on paper; with printed shop inscription reading \"Xin Yi Cheng\" (probably the print shop name). Probably from Lingbao, Henan; possible pair with 1935.37.109."
+ "material": "Woodblock print; ink and color on paper; with printed shop inscription reading \"Xin Yi Cheng\" (probably the print shop name). Probably from Lingbao, Henan; possible pair with 1935.37.109.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

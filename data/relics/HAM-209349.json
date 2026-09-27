@@ -2,11 +2,11 @@
  "relic_id": "HAM-209349",
  "name": "Conical Bowl with Russet Glaze and with Traces of Floral Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "probably 11th century",
  "dimensions": "H. 4.7 × Diam. 15.8 cm (1 7/8 × 6 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1919.207"
  },
- "material": "Red Ding ware: porcelaneous white stoneware with russet-surfaced dark brown glaze and with traces of decoration in overglaze gold leaf"
+ "material": "Red Ding ware: porcelaneous white stoneware with russet-surfaced dark brown glaze and with traces of decoration in overglaze gold leaf",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

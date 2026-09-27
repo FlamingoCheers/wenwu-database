@@ -2,11 +2,11 @@
  "relic_id": "HAM-201956",
  "name": "Small Circular Dish with Vertical Walls with Lotus Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "Diam. 12.4 cm (4 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.277"
  },
- "material": "Ding ware: porcelaneous white stoneware with ivory-hued glaze over incised and carved decoration. From the Ding kilns at Quyang, Hebei province."
+ "material": "Ding ware: porcelaneous white stoneware with ivory-hued glaze over incised and carved decoration. From the Ding kilns at Quyang, Hebei province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

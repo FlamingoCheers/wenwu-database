@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "early 19th century",
  "dimensions": "149 x 217 cm (58 11/16 x 85 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1960.169.29"
  },
- "material": "Dark blue gauze with embroidered decoration"
+ "material": "Dark blue gauze with embroidered decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

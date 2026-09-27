@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -4000,
-  -4000
+  -2000
  ],
  "era_text": "c. 4000 BCE - c. 2000 BCE",
  "dimensions": "16.1 x 13.3 x 0.5 cm (6 5/16 x 5 1/4 x 3/16 in.)\r\nunspecified: 278 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.98"
  },
- "material": "Mottled dark green translucent nephrite with light gray markings"
+ "material": "Mottled dark green translucent nephrite with light gray markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

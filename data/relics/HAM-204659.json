@@ -2,11 +2,11 @@
  "relic_id": "HAM-204659",
  "name": "Dragon-Headed Belt Hook",
  "category": "青铜器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "20 x 1.5 x 4 cm (7 7/8 x 9/16 x 1 9/16 in.)",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.52.58.A"
  },
  "material": "Gilt bronze with turquoise inlay",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

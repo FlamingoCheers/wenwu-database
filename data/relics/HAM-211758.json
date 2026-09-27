@@ -2,11 +2,11 @@
  "relic_id": "HAM-211758",
  "name": "Tomb Figurine in the Form of a Standing, Harnessed Dog",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  101,
+  200
  ],
  "era_text": "1st-2nd century",
  "dimensions": "H. 29.2 x W. 27.9 x D. 12.5 cm (11 1/2 x 11 x 4 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "40.1965"
  },
- "material": "Lead-glazed funerary ware: molded brick-red earthenware with partially degraded, lead-fluxed, emerald-green glaze"
+ "material": "Lead-glazed funerary ware: molded brick-red earthenware with partially degraded, lead-fluxed, emerald-green glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-143056",
  "name": "Conical Bowl with Floral Decor Against a Textured Ground",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "H. 4.9 x Diam. 14.5 cm (1 15/16 x 5 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2002.67"
  },
- "material": "Qingbai ware: porcelain with pale sky-blue glaze over incised and carved decoration"
+ "material": "Qingbai ware: porcelain with pale sky-blue glaze over incised and carved decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

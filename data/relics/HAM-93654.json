@@ -5,8 +5,8 @@
  "dynasty": "隋",
  "dynasty_confidence": "high",
  "year_range": [
-  6,
-  6
+  581,
+  618
  ],
  "era_text": "6th-7th century",
  "dimensions": "H. 18.2 x Diam. 17.5 cm (7 3/16 x 6 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2003.31"
  },
- "material": "Northern Yue-type ware: light gray stoneware with olive-hued celadon glaze over relief and appliqué decoration, the glaze streaked with blue"
+ "material": "Northern Yue-type ware: light gray stoneware with olive-hued celadon glaze over relief and appliqué decoration, the glaze streaked with blue",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

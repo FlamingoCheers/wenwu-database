@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "early 19th century",
  "dimensions": "139.6 x 190.4 cm (54 15/16 x 74 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1960.169.38"
  },
- "material": "Blue silk ground with brocaded decoration"
+ "material": "Blue silk ground with brocaded decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-54270",
  "name": "Tomb Sculpture in the Form of a Horse and Rider",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -2,
-  -2
+  -206,
+  9
  ],
  "era_text": "late 2nd -1st century BCE",
  "dimensions": "35.6 x 36.1 x 11.5 cm (14 x 14 3/16 x 4 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.170"
  },
- "material": "Molded gray earthenware with traces of cold-painted pigments over white ground"
+ "material": "Molded gray earthenware with traces of cold-painted pigments over white ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

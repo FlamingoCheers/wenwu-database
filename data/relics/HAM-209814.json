@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "16th-17th Century",
  "dimensions": "H. 248.29 x W. 99.38 cm (97 3/4 x 39 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1925.31"
  },
- "material": "Fragment of a mural"
+ "material": "Fragment of a mural",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

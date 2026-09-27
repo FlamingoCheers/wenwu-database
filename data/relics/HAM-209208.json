@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  557,
-  581
+  420,
+  589
  ],
  "era_text": "Northern Zhou, 557-581",
  "dimensions": "H. 31 x W. 21.2 x D. 21 cm (12 3/16 x 8 3/8 x 8 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1924.62"
  },
- "material": "Light gray stone, probably sandstone. From the “Elephant Chapel,” Wangmugong Cave 王母宮石窟, Jingchuan, Gansu province."
+ "material": "Light gray stone, probably sandstone. From the “Elephant Chapel,” Wangmugong Cave 王母宮石窟, Jingchuan, Gansu province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

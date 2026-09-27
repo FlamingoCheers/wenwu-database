@@ -4,7 +4,10 @@
  "category": "雕塑",
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  420,
+  589
+ ],
  "era_text": null,
  "dimensions": "34.29 x 20.32 x 25.4 cm (13 1/2 x 8 x 10 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Light gray stone, probably sandstone. From the “Elephant Chapel,” Wangmugong Cave 王母宮石窟, Jingchuan, Gansu province.",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1924.59"
  },
- "material": "Light gray stone, probably sandstone. From the “Elephant Chapel,” Wangmugong Cave 王母宮石窟, Jingchuan, Gansu province."
+ "material": "Light gray stone, probably sandstone. From the “Elephant Chapel,” Wangmugong Cave 王母宮石窟, Jingchuan, Gansu province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

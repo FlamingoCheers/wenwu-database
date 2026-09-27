@@ -2,11 +2,11 @@
  "relic_id": "HAM-205507",
  "name": "Small Conical Bowl with Russet Glaze",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "H. 4.1 x Diam. 12.4 cm (1 5/8 x 4 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.438"
  },
- "material": "Russet Yaozhou ware: light gray stoneware with russet-surfaced dark brown glaze. From the Huangpu kiln complex, Tongchuan, Yaozhou county, Shaanxi province."
+ "material": "Russet Yaozhou ware: light gray stoneware with russet-surfaced dark brown glaze. From the Huangpu kiln complex, Tongchuan, Yaozhou county, Shaanxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

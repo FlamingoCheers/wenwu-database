@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  618,
+  907
  ],
  "era_text": "late 7th cent. - 9th cent.",
  "dimensions": "H. 8.7 x W. 8.7 x L. 11.5 cm (3 7/16 x 3 7/16 x 4 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.54"
  },
- "material": "Gilt and silvered bronze"
+ "material": "Gilt and silvered bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

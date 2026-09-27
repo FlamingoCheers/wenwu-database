@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: 49.5 x 31 cm (19 1/2 x 12 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.23"
  },
- "material": "Woodblock print; ink and color on paper. Probably from Beijing; possible pair with 1935.37.22; image identical to 1980.92.7."
+ "material": "Woodblock print; ink and color on paper. Probably from Beijing; possible pair with 1935.37.22; image identical to 1980.92.7.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

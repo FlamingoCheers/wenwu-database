@@ -2,11 +2,11 @@
  "relic_id": "HAM-54341",
  "name": "Circular Bowl with Black Glaze and White Rim",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "probably late 11th-early 12th century",
  "dimensions": "5 x 12.8 cm (1 15/16 x 5 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.159"
  },
- "material": "Northern black ware of Cizhou type: light gray stoneware with dark brown glaze, the rim with clear glaze over white slip"
+ "material": "Northern black ware of Cizhou type: light gray stoneware with dark brown glaze, the rim with clear glaze over white slip",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

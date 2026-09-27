@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  9,
-  9
+  618,
+  907
  ],
  "era_text": "probably 9th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1957.104"
  },
- "material": "Sancai (\"three-color\") ware: molded white earthenware with variegated, lead-fluxed clear, emerald-green, and caramel-brown glazes. Probably from kilns at Luoyang or Gongxian, Henan province."
+ "material": "Sancai (\"three-color\") ware: molded white earthenware with variegated, lead-fluxed clear, emerald-green, and caramel-brown glazes. Probably from kilns at Luoyang or Gongxian, Henan province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

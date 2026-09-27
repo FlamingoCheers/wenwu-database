@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -15,
-  -15
+  -1600,
+  -1050
  ],
  "era_text": "15th cent. BCE - 11 cent. BCE",
  "dimensions": "10.5 cm (4 1/8 in.)\r\nunspecified: 89 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.603.A-C"
  },
- "material": "Originally translucent, deep brownish green nephrite has mostly turned opaque ocher, while some areas show white, softened substance resulting from calcification"
+ "material": "Originally translucent, deep brownish green nephrite has mostly turned opaque ocher, while some areas show white, softened substance resulting from calcification",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

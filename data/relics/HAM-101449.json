@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "15th-16th century",
  "dimensions": "39.5 x 26 x 16 cm (15 9/16 x 10 1/4 x 6 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2002.141"
  },
- "material": "'Sancai' (\"three-color\") ware: white earthenware with lead-fluxed, emerald-green and amber-brown glazes over molded white earthenware"
+ "material": "'Sancai' (\"three-color\") ware: white earthenware with lead-fluxed, emerald-green and amber-brown glazes over molded white earthenware",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

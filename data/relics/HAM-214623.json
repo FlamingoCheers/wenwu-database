@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "late 19th century",
  "dimensions": "144.9 x 219 cm (57 1/16 x 86 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1960.169.17"
  },
- "material": "Silk in 'kesi' tapestry weave, selected elements woven with metallic silver threads"
+ "material": "Silk in 'kesi' tapestry weave, selected elements woven with metallic silver threads",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-204240",
  "name": "Jade 'Huang' Segment with Zoomorphic Heads",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "8 x 2.2 x 0.4 cm (3 1/8 x 7/8 x 3/16 in.)\r\nunspecified: 15 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.610"
  },
  "material": "Translucent, pale brownish yellow nephrite",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

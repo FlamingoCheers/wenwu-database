@@ -2,11 +2,11 @@
  "relic_id": "HAM-204539",
  "name": "Ornate Jade Disk",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
   -206,
-  -206
+  9
  ],
  "era_text": "206 BCE - 9 CE (?)",
  "dimensions": "0.3 x 14.2 cm (1/8 x 5 9/16 in.)\r\nunspecified: 121 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.562"
  },
- "material": "Translucent stone of a pale yellowish green color with creamy white calcified spots"
+ "material": "Translucent stone of a pale yellowish green color with creamy white calcified spots",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

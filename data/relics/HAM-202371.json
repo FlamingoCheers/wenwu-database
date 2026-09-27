@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1881,
-  1881
+  1644,
+  1911
  ],
  "era_text": "dated 1881",
  "dimensions": "184.5 x 82.2 cm (72 5/8 x 32 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1968.72"
  },
- "material": "Hanging scroll; ink and slight color on paper; with signature of artist reading \"Shanyin Ren Yi Fu Bonian\""
+ "material": "Hanging scroll; ink and slight color on paper; with signature of artist reading \"Shanyin Ren Yi Fu Bonian\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

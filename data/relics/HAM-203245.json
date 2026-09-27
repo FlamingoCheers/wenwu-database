@@ -2,11 +2,11 @@
  "relic_id": "HAM-203245",
  "name": "Stone Mold for Casting a Bronze Mirror",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  101,
+  200
  ],
  "era_text": "Xin to Eastern Han period, 1st-2nd century",
  "dimensions": "H. 20.2 x W. 18.2 x D. 1.5 cm (7 15/16 x 7 3/16 x 9/16 in.)\r\nmirror: Diam. 16.2 cm (6 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1951.109"
  },
- "material": "Stone mold with carved and incised designs"
+ "material": "Stone mold with carved and incised designs",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  6,
-  6
+  386,
+  534
  ],
  "era_text": "first quarter 6th century",
  "dimensions": "H. 20.5 x W. 13 cm (8 1/16 x 5 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.53"
  },
- "material": "Light gray limestone with pigments over a gesso ground; possibly from Longmen"
+ "material": "Light gray limestone with pigments over a gesso ground; possibly from Longmen",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

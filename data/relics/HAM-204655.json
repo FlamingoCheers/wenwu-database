@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th cent. BCE - 11th cent. BCE",
  "dimensions": "H. 8.1 × L. 41.7 × W. 3.1 cm (3 3/16 × 16 7/16 × 1 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.50"
  },
- "material": "Bronze with turquoise inlay"
+ "material": "Bronze with turquoise inlay",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

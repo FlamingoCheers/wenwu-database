@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  618,
+  907
  ],
  "era_text": "late 7th-first half 8th century",
  "dimensions": "H. 41.7 x L. 46.4 cm (16 7/16 x 18 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1957.64"
  },
- "material": "Molded pinkish white earthenware with traces of cold-painted pigments over white ground"
+ "material": "Molded pinkish white earthenware with traces of cold-painted pigments over white ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

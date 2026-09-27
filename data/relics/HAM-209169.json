@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "8th century",
  "dimensions": "H. 25.8 x W. 19.2 x D. 20.6 cm (10 3/16 x 7 9/16 x 8 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1924.60"
  },
- "material": "Light gray stone, probably sandstone. From the “Elephant Chapel,” Wangmugong Cave 王母宮石窟, Jingchuan, Gansu province."
+ "material": "Light gray stone, probably sandstone. From the “Elephant Chapel,” Wangmugong Cave 王母宮石窟, Jingchuan, Gansu province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

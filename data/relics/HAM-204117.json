@@ -2,11 +2,11 @@
  "relic_id": "HAM-204117",
  "name": "Circular Mirror with Decoration of Concentric Circles, Linked Arcs, Quatrefoil, and Inscription Beginning \"Chang Yi Zi Sun\"",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  201,
+  300
  ],
  "era_text": "1st-early 3rd century",
  "dimensions": "Diam. 24 cm (9 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.165"
  },
- "material": "Cast bronze; with two integrally cast auspicious inscriptions"
+ "material": "Cast bronze; with two integrally cast auspicious inscriptions",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

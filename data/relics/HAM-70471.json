@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "16th century",
  "dimensions": "20.2 x 15.2 cm (7 15/16 x 6 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.122"
  },
- "material": "Cizhou-type ware: light gray stoneware with medium brown glaze over white slip, the decoration incised into the glaze before firing to reveal the white slip. Place of manufacture uncertain--probably from northern China."
+ "material": "Cizhou-type ware: light gray stoneware with medium brown glaze over white slip, the decoration incised into the glaze before firing to reveal the white slip. Place of manufacture uncertain--probably from northern China.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

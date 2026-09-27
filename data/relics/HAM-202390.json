@@ -2,11 +2,11 @@
  "relic_id": "HAM-202390",
  "name": "Landscape Illustration and Leaves 11 through 15 from Chapter Thirteen of the Imperial Commentary on the Buddhist Canon (Tripitaka) Commissioned by Emperor Taizong (r. 976-997)",
  "category": "书画",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  1108,
-  1108
+  960,
+  1127
  ],
  "era_text": "1108",
  "dimensions": "overall dimensions (approximate): 29.9 x 291 cm (11 3/4 x 114 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1962.11.3"
  },
- "material": "Woodblock-printed handscroll; ink on paper"
+ "material": "Woodblock-printed handscroll; ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th cent. BCE - 8th cent. BCE",
  "dimensions": "0.4 x 1.5 x 9.4 cm (3/16 x 9/16 x 3 11/16 in.)\r\nunspecified: 51 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.187"
  },
- "material": "Fine-grained, cream-colored opaque stone, polished smooth as ivory; traces of cinnabar on one side"
+ "material": "Fine-grained, cream-colored opaque stone, polished smooth as ivory; traces of cinnabar on one side",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

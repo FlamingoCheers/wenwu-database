@@ -2,11 +2,11 @@
  "relic_id": "HAM-204388",
  "name": "Tally in the Form of a Recumbent Tiger (One of a Pair)",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  201,
+  300
  ],
  "era_text": "1st-3rd century",
  "dimensions": "H. 4.6 x L. 9.5 x W. 2.5 cm (1 13/16 x 3 3/4 x 1 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.55.B"
  },
- "material": "Cast bronze with engraved designs and inscription"
+ "material": "Cast bronze with engraved designs and inscription",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

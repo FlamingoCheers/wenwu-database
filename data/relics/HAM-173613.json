@@ -2,11 +2,11 @@
  "relic_id": "HAM-173613",
  "name": "Long-necked jar (hu)",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -1,
-  -1
+  -206,
+  9
  ],
  "era_text": "1st century BCE-early 1st century CE",
  "dimensions": "H. 37.4 x Diam. 28.6 cm (14 3/4 x 11 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.192"
  },
- "material": "Earthenware with green lead glaze"
+ "material": "Earthenware with green lead glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

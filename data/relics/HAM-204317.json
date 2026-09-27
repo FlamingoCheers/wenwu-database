@@ -2,8 +2,8 @@
  "relic_id": "HAM-204317",
  "name": "Circular Mirror with Four Stylized Animal Faces and Auspicious Inscription Reading \"Chang Yi Wei Guan\"",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
   156,
   156
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.173"
  },
- "material": "Cast bronze with two integrally cast inscriptions (one auspicious, one documentary)"
+ "material": "Cast bronze with two integrally cast inscriptions (one auspicious, one documentary)",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

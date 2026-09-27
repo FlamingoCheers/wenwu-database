@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th-10th century BCE",
  "dimensions": "H. 5.1 x W. 4.7 x D. 0.2 cm (2 x 1 7/8 x 1/16 in.)\r\nWeight 7 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.214"
  },
- "material": "Translucent pale green nephrite"
+ "material": "Translucent pale green nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

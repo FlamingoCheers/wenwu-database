@@ -2,11 +2,11 @@
  "relic_id": "HAM-174783",
  "name": "Sherd: Fragment from the Side Wall and Rim of a Circular Bowl",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "mid 11th cent. - early 12th cent.",
  "dimensions": "5.7 x 7.3 cm (2 1/4 x 2 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.360.12"
  },
- "material": "Possibly Ru ware: light gray stoneware body with pale bluish celadon glaze. Possibly from the Ru kilns, Henan province"
+ "material": "Possibly Ru ware: light gray stoneware body with pale bluish celadon glaze. Possibly from the Ru kilns, Henan province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

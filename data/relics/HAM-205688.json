@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "probably 15th century",
  "dimensions": "max.: H. 15.1 × W. 22.3 × D. 21.6 cm (5 15/16 × 8 3/4 × 8 1/2 in.)\r\nbase: W. 11.3 × D. 11 cm (4 7/16 × 4 5/16 in.)\r\nweight: 1741.9 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.18"
  },
- "material": "Numbered Jun ware: light gray stoneware with variegated blue glaze with areas of purple; with Chinese numeral 9 (jiu) inscribed on base before firing"
+ "material": "Numbered Jun ware: light gray stoneware with variegated blue glaze with areas of purple; with Chinese numeral 9 (jiu) inscribed on base before firing",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

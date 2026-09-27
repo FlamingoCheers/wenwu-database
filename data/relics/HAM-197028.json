@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "first half 8th century",
  "dimensions": "H. 7.2 x Diam. 16.9 cm (2 13/16 x 6 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.265"
  },
- "material": "Earthenware with blue splashed lead glaze"
+ "material": "Earthenware with blue splashed lead glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

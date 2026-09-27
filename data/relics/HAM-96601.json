@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1851,
-  1851
+  1644,
+  1911
  ],
  "era_text": "1851",
  "dimensions": "opened, two-page spread: H. 29.9 × W. 50 cm (11 3/4 × 19 11/16 in.)\r\nclosed: H. 29.8 × W. 24.8 × D. 2.5 cm (11 3/4 × 9 3/4 × 1 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.900.1"
  },
- "material": "One of a set of four accordion-fold albums with wooden covers; ink on paper"
+ "material": "One of a set of four accordion-fold albums with wooden covers; ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

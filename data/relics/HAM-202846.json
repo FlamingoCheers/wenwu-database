@@ -2,11 +2,11 @@
  "relic_id": "HAM-202846",
  "name": "Reproduction of a Han Dynasty Reclining Lion (the original in the Royal Ontario Museum, Toronto, Candada)",
  "category": "雕塑",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "现当代",
+ "dynasty_confidence": "source",
  "year_range": [
-  20,
-  20
+  1901,
+  2000
  ],
  "era_text": "mid 20th century",
  "dimensions": "H. 4.9 x L. 9.2 x W. 7.9 cm (1 15/16 x 3 5/8 x 3 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1964.73"
  },
- "material": "Painted plaster"
+ "material": "Painted plaster",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

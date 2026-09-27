@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "mid 8th century",
  "dimensions": "38 x 10 x 9 cm (14 15/16 x 3 15/16 x 3 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2003.201"
  },
- "material": "Molded, brick-red earthenware with cold-painted pigments over white ground"
+ "material": "Molded, brick-red earthenware with cold-painted pigments over white ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-204823",
  "name": "Notched, Serrate Jade Slab",
  "category": "玉器",
- "dynasty": "商",
- "dynasty_confidence": "high",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "source",
  "year_range": [
   -2500,
-  -2500
+  -1500
  ],
  "era_text": "c. 2500 BCE - c. 1500 BCE",
  "dimensions": "Diam. 15.2 x Thickness 0.8 cm (6 x 5/16 in.)\r\n187 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.531"
  },
- "material": "Translucent stone in a relatively dark shade of celadon-green, becoming a greenish brown along the straight edge which has no teeth"
+ "material": "Translucent stone in a relatively dark shade of celadon-green, becoming a greenish brown along the straight edge which has no teeth",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

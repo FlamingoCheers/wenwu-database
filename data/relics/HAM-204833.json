@@ -2,11 +2,11 @@
  "relic_id": "HAM-204833",
  "name": "Jade Disk with Relief Pattern of Hexagons",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
   -206,
-  -206
+  9
  ],
  "era_text": "206 BCE - 9 CE",
  "dimensions": "0.3 x 14 cm (1/8 x 5 1/2 in.)\r\nunspecified: 120 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.550"
  },
- "material": "Translucent, pale green nephrite with two smoke-brown segments at the periphery"
+ "material": "Translucent, pale green nephrite with two smoke-brown segments at the periphery",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

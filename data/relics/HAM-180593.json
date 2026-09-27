@@ -2,11 +2,11 @@
  "relic_id": "HAM-180593",
  "name": "Circular, Covered Cosmetic Box, the Cover with Blossoming Peony Decor, the Interior with Three Small Circular Containers in the Form of Lotus Leaves, Their Stems Held by a Small Child",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "with cover: H. 5.4 × Diam. 13.1 cm (2 1/8 × 5 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.334.38.A-B"
  },
- "material": "'Qingbai' ware: porcelain with pale bluish glaze over incised and carved decoration, the interior with appliqué containers, stylized sculpture, and leaf stems, the appliqué elements touched with iron-brown slip to add areas of localized color in firing.  Probably from a kiln in Fujian province."
+ "material": "'Qingbai' ware: porcelain with pale bluish glaze over incised and carved decoration, the interior with appliqué containers, stylized sculpture, and leaf stems, the appliqué elements touched with iron-brown slip to add areas of localized color in firing.  Probably from a kiln in Fujian province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

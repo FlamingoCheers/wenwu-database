@@ -2,11 +2,11 @@
  "relic_id": "HAM-176900",
  "name": "Sherd: Curved Fragment, from a Large, Thick-Walled Vessel",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  960,
+  1127
  ],
  "era_text": "first quarter 12th century",
  "dimensions": "2.5 x 8.4 x 3.9 cm (1 x 3 5/16 x 1 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.360.5"
  },
- "material": "Ru ware: light gray stoneware body with pale bluish celadon glaze. From the Ru kilns, Henan province"
+ "material": "Ru ware: light gray stoneware body with pale bluish celadon glaze. From the Ru kilns, Henan province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

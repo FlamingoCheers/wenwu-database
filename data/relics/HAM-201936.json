@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1627,
-  1627
+  1368,
+  1644
  ],
  "era_text": "1627",
  "dimensions": "17.5 × 57.3 cm (6 7/8 × 22 9/16 in.)\r\nmat: 55.9 × 71.1 cm (22 × 28 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.1"
  },
- "material": "Folding fan mounted as an album leaf; ink and slight color on gold-surfaced paper and with signature reading \"Zhang Hong\""
+ "material": "Folding fan mounted as an album leaf; ink and slight color on gold-surfaced paper and with signature reading \"Zhang Hong\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

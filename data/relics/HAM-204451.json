@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  618,
+  907
  ],
  "era_text": "7th-10th century",
  "dimensions": "L. 10.8 × W. 4.3 cm (4 1/4 × 1 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.66"
  },
- "material": "Gilt bronze with inlaid glass"
+ "material": "Gilt bronze with inlaid glass",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

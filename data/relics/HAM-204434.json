@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "first half 8th century",
  "dimensions": "H. 33.5 x W. 25 cm (13 3/16 x 9 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.64"
  },
- "material": "Gilt bronze; possibly from Yunnan province"
+ "material": "Gilt bronze; possibly from Yunnan province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

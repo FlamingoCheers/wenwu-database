@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  9,
-  9
+  618,
+  907
  ],
  "era_text": "9th-10th century",
  "dimensions": "sculpture (without base): H. 36 x W/ 22 x D. 16.8 cm (14 3/16 x 8 11/16 x 6 5/8 in.)\r\nwith base: H. 39.5 cm (15 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.60"
  },
- "material": "Gilt bronze"
+ "material": "Gilt bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

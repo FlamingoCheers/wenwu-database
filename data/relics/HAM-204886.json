@@ -2,11 +2,11 @@
  "relic_id": "HAM-204886",
  "name": "Jade Statuette of a Man",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
   -206,
-  -206
+  9
  ],
  "era_text": "206 BCE - 9 CE (?)",
  "dimensions": "H. 3.9 x W. 1.1 x D. 0.8 cm (1 9/16 x 7/16 x 5/16 in.)\r\nWeight 5 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.149"
  },
- "material": "Gray-green nephrite"
+ "material": "Gray-green nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

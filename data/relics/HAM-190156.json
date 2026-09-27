@@ -2,11 +2,11 @@
  "relic_id": "HAM-190156",
  "name": "Sherd: Trapezoidal Fragment from the Shoulder and Neck of a Bottle or Vase",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th cent. - 13th cent.",
  "dimensions": "3.7 x 4.9 cm (1 7/16 x 1 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.198.8"
  },
- "material": "Guan ware: dark gray stoneware with lightly crackled, light grayish blue glaze on the exterior and with thinly applied, crackled, pale blusih gray glaze on the interior. From the guan kilns near Hangzhou, Zhejiang province."
+ "material": "Guan ware: dark gray stoneware with lightly crackled, light grayish blue glaze on the exterior and with thinly applied, crackled, pale blusih gray glaze on the interior. From the guan kilns near Hangzhou, Zhejiang province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

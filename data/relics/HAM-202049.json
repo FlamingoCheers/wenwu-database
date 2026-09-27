@@ -2,11 +2,11 @@
  "relic_id": "HAM-202049",
  "name": "Tomb Figurine in the Form of a Standing Attendant Figure",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  201,
+  300
  ],
  "era_text": "1st-3rd century CE",
  "dimensions": "30.7 x 10.5 x 6 cm (12 1/16 x 4 1/8 x 2 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1981.109"
  },
- "material": "Cold-painted funerary ware: molded gray earthenware with traces of cold-painted pigments over white gesso ground"
+ "material": "Cold-painted funerary ware: molded gray earthenware with traces of cold-painted pigments over white gesso ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

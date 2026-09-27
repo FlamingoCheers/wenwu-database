@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th cent. - 19th cent.",
  "dimensions": "painting proper: H. 172.8 x W. 105.4 cm (68 1/16 x 41 1/2 in.)\r\noverall, mounting with roller ends and cord: H. 279 x W. 126.8 cm (109 13/16 x 49 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.216"
  },
- "material": "Hanging scroll; ink and light color on silk"
+ "material": "Hanging scroll; ink and light color on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

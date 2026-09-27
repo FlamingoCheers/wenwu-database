@@ -2,11 +2,11 @@
  "relic_id": "HAM-190930",
  "name": "Small Circular, Conical Bowl with Notched Rim",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "H. 3.9 x Diam. 12 cm (1 9/16 x 4 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.109"
  },
- "material": "Qingbai ware: porcelain with pale sky-blue glaze over decoration trailed in white slip"
+ "material": "Qingbai ware: porcelain with pale sky-blue glaze over decoration trailed in white slip",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "8th-9th Century",
  "dimensions": "H. 5.5 x W. 5.1 x D. 4.7 cm (2 3/16 x 2 x 1 7/8 in.)\r\nwith base: H. 14 x Diam. 7 cm (5 1/2 x 2 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.120"
  },
- "material": "White marble"
+ "material": "White marble",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

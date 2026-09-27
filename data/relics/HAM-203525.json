@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   907,
-  978
+  960
  ],
  "era_text": "Wu-Yue Kingdom, 907-978",
  "dimensions": "H. 37.5 x W. 15.9 cm (14 3/4 x 6 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.62"
  },
- "material": "Leaded bronze; lost-wax cast"
+ "material": "Leaded bronze; lost-wax cast",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

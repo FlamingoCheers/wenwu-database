@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th-8th century BCE",
  "dimensions": "H. 4.1 x W. 11.5 x D. 0.5 cm (1 5/8 x 4 1/2 x 3/16 in.)\r\nWeight 41 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.300"
  },
- "material": "Opaque, bone-colored nephrite with a few dark green spots; partly coated with red pigment"
+ "material": "Opaque, bone-colored nephrite with a few dark green spots; partly coated with red pigment",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

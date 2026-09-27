@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "late 18th-early 19th century",
  "dimensions": "97.8 x 37.7 cm (38 1/2 x 14 13/16 in.)\r\nmounting: 185.4 x 61 cm (73 x 24 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1991.188"
  },
- "material": "Hanging scroll; ink on paper; with signature reading 'Banqiao' and with seals reading 'Zheng Xie zhi yin' and 'Er shi nian qian jiu Ban Qiao'"
+ "material": "Hanging scroll; ink on paper; with signature reading 'Banqiao' and with seals reading 'Zheng Xie zhi yin' and 'Er shi nian qian jiu Ban Qiao'",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "15th-16th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1927.67"
  },
- "material": "Provincial ware imitating porcelain: light gray stoneware with white slip and clear glaze over molded decoration"
+ "material": "Provincial ware imitating porcelain: light gray stoneware with white slip and clear glaze over molded decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

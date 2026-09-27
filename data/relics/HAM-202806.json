@@ -4,7 +4,10 @@
  "category": "书画",
  "dynasty": "宋",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  960,
+  1279
+ ],
  "era_text": null,
  "dimensions": "53.34 x 92.08 cm (21 x 36 1/4 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Hanging scroll; ink and light color on silk",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1968.38"
  },
- "material": "Hanging scroll; ink and light color on silk"
+ "material": "Hanging scroll; ink and light color on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

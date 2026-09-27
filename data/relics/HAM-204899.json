@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -14,
-  -14
+  -1600,
+  -1050
  ],
  "era_text": "14th cent. BCE - 11th cent. BCE",
  "dimensions": "7 x 2.3 x 1.9 cm (2 3/4 x 7/8 x 3/4 in.)\r\nunspecified: 64 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.192"
  },
- "material": "Greenish, partly discolored nephrite"
+ "material": "Greenish, partly discolored nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "15th-16th century",
  "dimensions": "H. 58.4 cm (23 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1934.50"
  },
- "material": "Wood with traces of polychromy"
+ "material": "Wood with traces of polychromy",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

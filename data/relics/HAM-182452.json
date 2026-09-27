@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3000,
-  -2600
+  -1900
  ],
  "era_text": "Longshan culture, early phase, c. 3000-2600 BCE",
  "dimensions": "H. 15.6 x W. (across handles) 21.6 x Diam. 18.7 cm (6 1/8 x 8 1/2 x 7 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.104"
  },
- "material": "Gray earthenware"
+ "material": "Gray earthenware",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

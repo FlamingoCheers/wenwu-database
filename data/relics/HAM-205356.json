@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "probably 15th century",
  "dimensions": "max.: H. 11.6 × Diam. 34.5 cm (4 9/16 × 13 9/16 in.)\r\nbase: Diam. 20.9 cm (8 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.61"
  },
- "material": "Numbered-Jun-type ware: light gray stonware with variegated lavender-blue glaze, the glaze shading to olive brown where thin"
+ "material": "Numbered-Jun-type ware: light gray stonware with variegated lavender-blue glaze, the glaze shading to olive brown where thin",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

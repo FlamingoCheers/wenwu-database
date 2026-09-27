@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -12,
-  -12
+  -1600,
+  -1050
  ],
  "era_text": "12th cent. BCE - 11th cent. BCE",
  "dimensions": "5.1 x 2.1 x 0.5 cm (2 x 13/16 x 3/16 in.)\r\nunspecified: 10 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.423"
  },
- "material": "Translucent greenish nephrite with decomposed, cream-colored specks; traces of cinnabar"
+ "material": "Translucent greenish nephrite with decomposed, cream-colored specks; traces of cinnabar",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

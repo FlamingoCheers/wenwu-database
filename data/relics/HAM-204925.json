@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -12,
-  -12
+  -1600,
+  -1050
  ],
  "era_text": "12th cent. BCE - 11th cent. BCE",
  "dimensions": "30.7 x 7.6 x 1.1 cm (12 1/16 x 3 x 7/16 in.)\r\nunspecified: 442 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.62"
  },
- "material": "Strongly calcified, ivory-colored nephrite; traces of cinnabar"
+ "material": "Strongly calcified, ivory-colored nephrite; traces of cinnabar",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

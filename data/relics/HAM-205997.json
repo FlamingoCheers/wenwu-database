@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  618,
+  907
  ],
  "era_text": "7th-8th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1941.51.A-B"
  },
- "material": "Gray stoneware with cold-painted decoration over white gesso ground"
+ "material": "Gray stoneware with cold-painted decoration over white gesso ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

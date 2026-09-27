@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "late 19th century",
  "dimensions": "26.4 x 32.9 cm (10 3/8 x 12 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1956.122.8"
  },
- "material": "One leaf from an album of nine leaves; ink and light colors on paper"
+ "material": "One leaf from an album of nine leaves; ink and light colors on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

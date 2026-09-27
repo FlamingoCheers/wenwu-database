@@ -2,11 +2,11 @@
  "relic_id": "HAM-204540",
  "name": "Narrow Jade Disk with Pattern of Plastic Curls",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "0.6 x 9.8 cm (1/4 x 3 7/8 in.)\r\nunspecified: 78 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.564"
  },
  "material": "Faintly translucent nephrite of olive-green color; traces of cinnabar",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

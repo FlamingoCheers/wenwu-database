@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3300,
-  -3300
+  -2200
  ],
  "era_text": "c. 3300 - c. 2000 BCE (?)",
  "dimensions": "H. 5 x W. 7.5 x D. 7.5 cm (1 15/16 x 2 15/16 x 2 15/16 in.)\r\nWeight 480 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.507"
  },
- "material": "Mottled light and dark brown stone"
+ "material": "Mottled light and dark brown stone",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

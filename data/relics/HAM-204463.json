@@ -2,8 +2,8 @@
  "relic_id": "HAM-204463",
  "name": "Large Circular Mirror with Four 'Shan' Ideographs and Stylized Floral Decor",
  "category": "青铜器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
   -221
@@ -28,5 +28,5 @@
   "inventory_no": "1943.52.147"
  },
  "material": "Cast bronze with blackish patina",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

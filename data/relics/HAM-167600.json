@@ -5,8 +5,8 @@
  "dynasty": "宋",
  "dynasty_confidence": "high",
  "year_range": [
-  12,
-  12
+  960,
+  1279
  ],
  "era_text": "12th cent. - 13th cent.",
  "dimensions": "4.5 x 5.1 cm (1 3/4 x 2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.27.3"
  },
- "material": "Lonquan celedaon ware: pale gray stoneware body with an extensively crackled, grayish green celadon glaze over molded decor. From the Longquan kilns in Zhejiang province"
+ "material": "Lonquan celedaon ware: pale gray stoneware body with an extensively crackled, grayish green celadon glaze over molded decor. From the Longquan kilns in Zhejiang province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

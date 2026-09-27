@@ -2,11 +2,11 @@
  "relic_id": "HAM-145359",
  "name": "Ceramic Sherd from a Circular Bowl with Scrolling Floral Décor on the Interior and with Rising-Lotus Petals on the Exterior: Generally rectangular fragment including portions of the side wall and unglazed lip and elements of the decoration",
  "category": "书画",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th century",
  "dimensions": "9 x 5.4 cm (3 9/16 x 2 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2002.69.5"
  },
- "material": "Ding ware: porcelaneous white stoneware with pale yellow glaze over incised and  carved decoration"
+ "material": "Ding ware: porcelaneous white stoneware with pale yellow glaze over incised and  carved decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

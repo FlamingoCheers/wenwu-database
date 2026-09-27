@@ -2,11 +2,11 @@
  "relic_id": "HAM-100099",
  "name": "Tea Bowl with Indented Lip and Decoration of a Plum Blosson and Three Phoenixes in Flight",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th-14th century",
  "dimensions": "6.7 x 16.2 cm (2 5/8 x 6 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2003.107"
  },
- "material": "Jizhou ware: light gray stoneware with tortoiseshell glaze on the exterior, and with papercut decoration reserved in dark brown glaze against a variegated buff ground on the interior. From the Jizhou kilns near Yonghe, Ji'an, Jiangxi province."
+ "material": "Jizhou ware: light gray stoneware with tortoiseshell glaze on the exterior, and with papercut decoration reserved in dark brown glaze against a variegated buff ground on the interior. From the Jizhou kilns near Yonghe, Ji'an, Jiangxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

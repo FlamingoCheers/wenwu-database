@@ -5,8 +5,8 @@
  "dynasty": "隋",
  "dynasty_confidence": "high",
  "year_range": [
-  587,
-  587
+  581,
+  618
  ],
  "era_text": "dated to 587",
  "dimensions": "H. 13.9 cm (5 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1947.45"
  },
- "material": "Bronze; with inscription on the stand dated to 587"
+ "material": "Bronze; with inscription on the stand dated to 587",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -206,
-  -206
+  220
  ],
  "era_text": "206 BCE - 220 CE",
  "dimensions": "H. 27.8 x W. 39 x D. 14.9 cm (10 15/16 x 15 3/8 x 5 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.182"
  },
- "material": "Cast bronze with inlays of turquoise, sheet gold and silver, and copper wire"
+ "material": "Cast bronze with inlays of turquoise, sheet gold and silver, and copper wire",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

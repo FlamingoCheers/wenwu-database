@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -13,
-  -13
+  -1600,
+  -1050
  ],
  "era_text": "13th-8th century BCE",
  "dimensions": "L. 24.1 x W. 3.8 cm (9 1/2 x 1 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1987.139"
  },
- "material": "Bronze"
+ "material": "Bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

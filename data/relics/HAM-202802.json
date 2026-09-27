@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "8th-9th century",
  "dimensions": "H. 5.1 x Diam. 7 cm (2 x 2 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1964.19"
  },
- "material": "Light gray stoneware with medium brown glaze"
+ "material": "Light gray stoneware with medium brown glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

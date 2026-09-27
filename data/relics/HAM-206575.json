@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "ca. 16th-17th century",
  "dimensions": "H. 28.4 x W. 175.6 cm (11 3/16 x 69 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.152"
  },
- "material": "Handscroll; ink and color on silk with spurious signature reading \"Yueshan daoren\""
+ "material": "Handscroll; ink and color on silk with spurious signature reading \"Yueshan daoren\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

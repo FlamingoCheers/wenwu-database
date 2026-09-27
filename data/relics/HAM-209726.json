@@ -4,7 +4,10 @@
  "category": "书画",
  "dynasty": "清",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1644,
+  1911
+ ],
  "era_text": null,
  "dimensions": "image only: H. 25.8 x W. 21.8 cm (10 3/16 x 8 9/16 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Image: ink and color on silk; Calligraphy: ink on paper",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.149.6"
  },
- "material": "Image: ink and color on silk; Calligraphy: ink on paper"
+ "material": "Image: ink and color on silk; Calligraphy: ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

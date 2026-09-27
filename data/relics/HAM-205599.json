@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "19th century",
  "dimensions": "H. 14.7 x Diam. 12.4 cm (5 13/16 x 4 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.293.A-C"
  },
- "material": "Enameled porcelain: porcelain with decoration painted in overglaze polychrome and gold enamels and applique molded handle mounts and knob; with bronze bail handles"
+ "material": "Enameled porcelain: porcelain with decoration painted in overglaze polychrome and gold enamels and applique molded handle mounts and knob; with bronze bail handles",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

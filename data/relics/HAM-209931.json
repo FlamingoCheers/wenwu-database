@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1506,
-  1506
+  1368,
+  1644
  ],
  "era_text": "c. 1506",
  "dimensions": "41 x 62 cm (16 1/8 x 24 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.842"
  },
- "material": "Accordion-fold woodblock-printed book; ink on paper; with a printed postface dated to 1497.  Circa 1506 reprint of the Jifu edition, which was first published in 1497."
+ "material": "Accordion-fold woodblock-printed book; ink on paper; with a printed postface dated to 1497.  Circa 1506 reprint of the Jifu edition, which was first published in 1497.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

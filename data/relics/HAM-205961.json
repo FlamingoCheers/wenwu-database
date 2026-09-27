@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1506,
-  1521
+  1368,
+  1644
  ],
  "era_text": "Zhengde period, 1506-1521",
  "dimensions": "H. 8 x Diam. 15.2 cm (3 1/8 x 6 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.234"
  },
- "material": "Enamelled ware: porcelain with yellow and green enamels applied on the biscuit over incised decoration, the interior and base with clear glaze; underglaze cobalt-blue mark reading \"Zhengde nian zhi\" within a double circle on the base"
+ "material": "Enamelled ware: porcelain with yellow and green enamels applied on the biscuit over incised decoration, the interior and base with clear glaze; underglaze cobalt-blue mark reading \"Zhengde nian zhi\" within a double circle on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

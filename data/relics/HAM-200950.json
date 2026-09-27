@@ -2,11 +2,11 @@
  "relic_id": "HAM-200950",
  "name": "Circular, Straight-Sided Bowl",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  960,
+  1127
  ],
  "era_text": "first half 12th century",
  "dimensions": "max.: H. 6.1 × Diam. 10.5 cm (2 3/8 × 4 1/8 in.)\r\nmouth: Diam. 10.2 cm (4 in.)\r\nfoot: Diam. 4.7 cm (1 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1995.20.1"
  },
- "material": "Jun ware: light gray stoneware with robin's-egg blue glaze"
+ "material": "Jun ware: light gray stoneware with robin's-egg blue glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

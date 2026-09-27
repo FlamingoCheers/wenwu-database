@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1736,
-  1795
+  1644,
+  1911
  ],
  "era_text": "Qianlong period, 1736-1795",
  "dimensions": "H. 37.5 cm (14 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1963.1"
  },
- "material": "Cast bronze with localized areas of cold gilding and red and blue pigments; with cast inscription at the front of base reading \"Da Qing Qianlong nian jing zao\""
+ "material": "Cast bronze with localized areas of cold gilding and red and blue pigments; with cast inscription at the front of base reading \"Da Qing Qianlong nian jing zao\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1750,
-  1750
+  1644,
+  1911
  ],
  "era_text": "dated 1750",
  "dimensions": "H. 16.8 x W. 50.1 cm (6 5/8 x 19 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1981.54"
  },
- "material": "Folding-fan painting mounted as an album leaf; ink and light color on mica-coated paper; with signature reading \"Yingpiaozi xie\""
+ "material": "Folding-fan painting mounted as an album leaf; ink and light color on mica-coated paper; with signature reading \"Yingpiaozi xie\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

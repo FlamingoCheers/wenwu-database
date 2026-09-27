@@ -2,11 +2,11 @@
  "relic_id": "HAM-210297",
  "name": "Jade Cylindrical Ring, Possibly a Bracelet, with Stylized Lotus-Blossom Decor",
  "category": "玉器",
- "dynasty": "金",
- "dynasty_confidence": "medium",
+ "dynasty": "宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1115,
+  1234
  ],
  "era_text": "possibly Jin dynasty, 12th-early 13th century",
  "dimensions": null,
@@ -28,5 +28,5 @@
   "inventory_no": "1919.124"
  },
  "material": "Variegated grayish nephrite with brown markings",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

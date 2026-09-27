@@ -4,7 +4,10 @@
  "category": "织绣",
  "dynasty": "清",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1644,
+  1911
+ ],
  "era_text": null,
  "dimensions": null,
  "summary": "哈佛艺术博物馆著录：Chinese",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1960.169.56"
  },
- "material": ""
+ "material": "",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

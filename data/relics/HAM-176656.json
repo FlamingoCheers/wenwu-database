@@ -2,11 +2,11 @@
  "relic_id": "HAM-176656",
  "name": "Subtly Foliated, Circular Dish with Decoration of a Duck Swimming amidst Rolling Waves",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "late 11th-early 12th century",
  "dimensions": "3.9 x 16.8 cm (1 9/16 x 6 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.125"
  },
- "material": "Yaozhou ware: light gray stoneware with celadon glaze over carved, incised, and combed decoration. From the Yaozhou kilns near Tongchuan, Shaanxi province."
+ "material": "Yaozhou ware: light gray stoneware with celadon glaze over carved, incised, and combed decoration. From the Yaozhou kilns near Tongchuan, Shaanxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "37.3 x 40.7 cm (14 11/16 x 16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.36.101"
  },
- "material": "Woodblock print; ink on paper; with printed title inscription reading from right to left: \"Xi Gui Zhi Shen\" (\"Gods of Happiness and Nobility\"), another inscription reading vertically: \"Ying Xi\" (\"Welcoming Happiness\"). Probably from Beijing."
+ "material": "Woodblock print; ink on paper; with printed title inscription reading from right to left: \"Xi Gui Zhi Shen\" (\"Gods of Happiness and Nobility\"), another inscription reading vertically: \"Ying Xi\" (\"Welcoming Happiness\"). Probably from Beijing.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

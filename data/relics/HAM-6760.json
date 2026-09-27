@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1662,
-  1722
+  1644,
+  1911
  ],
  "era_text": "1662 - 1722, Kangxi period",
  "dimensions": "H. 15.2 x Diam. 20 cm (6 x 7 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2016.226"
  },
- "material": "Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue; with underglaze cobalt-blue mark reading \"Da Qing Kangxi nian zhi\" in a double circle on the base"
+ "material": "Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue; with underglaze cobalt-blue mark reading \"Da Qing Kangxi nian zhi\" in a double circle on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

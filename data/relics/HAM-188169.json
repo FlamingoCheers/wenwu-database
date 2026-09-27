@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  618,
+  907
  ],
  "era_text": "late 7th-early 8th century",
  "dimensions": "H. 4.6 x Diam. 8.9 cm (1 13/16 x 3 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.271"
  },
- "material": "Earthenware with three-color (sancai) lead glaze"
+ "material": "Earthenware with three-color (sancai) lead glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

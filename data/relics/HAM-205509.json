@@ -2,11 +2,11 @@
  "relic_id": "HAM-205509",
  "name": "Lightly Segmented Circular Bowl with Notched Rim",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  10,
-  10
+  960,
+  1127
  ],
  "era_text": "late 10th-11th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.443"
  },
- "material": "Ding ware: porcelaneous white stoneware with ivory-hued glaze over incised decoration. From the Ding kilns at Quyang, Hebei province."
+ "material": "Ding ware: porcelaneous white stoneware with ivory-hued glaze over incised decoration. From the Ding kilns at Quyang, Hebei province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

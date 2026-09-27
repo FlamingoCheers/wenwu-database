@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3300,
-  -3300
+  -2200
  ],
  "era_text": "c. 3300 BCE - c. 2000 BCE",
  "dimensions": "L. 11 x Diam. 0.8 cm (4 5/16 x 5/16 in.)\r\nunspecified: 13 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.399"
  },
- "material": "Mottled olive- and cream-colored nephrite"
+ "material": "Mottled olive- and cream-colored nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

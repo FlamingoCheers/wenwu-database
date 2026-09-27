@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th century",
  "dimensions": "H. 17.7 x Diam. 7 cm (6 15/16 x 2 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1991.97"
  },
- "material": "Gilt bronze and bronze with traces of blue pigment"
+ "material": "Gilt bronze and bronze with traces of blue pigment",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

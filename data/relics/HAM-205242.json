@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th-19th century",
  "dimensions": "H. 21.6 x Diam. 8.9 cm (8 1/2 x 3 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.396"
  },
- "material": "Dongkhe ware: off-white stoneware with ivory-hued glaze over white slip"
+ "material": "Dongkhe ware: off-white stoneware with ivory-hued glaze over white slip",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

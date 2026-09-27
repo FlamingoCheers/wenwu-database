@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "first half of 8th century",
  "dimensions": "H. 58 x W. 56 x D. 23 cm (22 13/16 x 22 1/16 x 9 1/16 in.)\r\ncrate: H. 67.7 x W. 77.5 x D. 27 cm (26 5/8 x 30 1/2 x 10 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "41.1965"
  },
- "material": "Off-white earthenware with cold-painted pigments over white slip (or white gesso?) ground in localized areas\r\n"
+ "material": "Off-white earthenware with cold-painted pigments over white slip (or white gesso?) ground in localized areas\r\n",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

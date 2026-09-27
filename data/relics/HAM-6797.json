@@ -2,11 +2,11 @@
  "relic_id": "HAM-6797",
  "name": "Large Circular Bowl",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  10,
-  10
+  960,
+  1127
  ],
  "era_text": "10th-13th century",
  "dimensions": "max.: H. 9.7 × Diam. 22.1 cm (3 13/16 × 8 11/16 in.)\r\nfoot: Diam. 6.5 cm (2 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2015.30"
  },
- "material": "Green Jun ware: light gray stoneware with crazed celadon glaze"
+ "material": "Green Jun ware: light gray stoneware with crazed celadon glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

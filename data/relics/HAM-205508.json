@@ -2,11 +2,11 @@
  "relic_id": "HAM-205508",
  "name": "Small Dish with Notched Rim and with Russet Glaze",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "H. 2.4 x Diam. 13.5 cm (15/16 x 5 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.439"
  },
- "material": "Northern russet ware of Cizhou type: off-white stoneware with russet-surfaced dark brown glaze"
+ "material": "Northern russet ware of Cizhou type: off-white stoneware with russet-surfaced dark brown glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

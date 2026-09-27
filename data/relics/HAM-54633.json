@@ -5,8 +5,8 @@
  "dynasty": "宋",
  "dynasty_confidence": "high",
  "year_range": [
-  12,
-  12
+  960,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "H. 5.5 × Diam. 14.7 cm (2 3/16 × 5 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.162.2"
  },
- "material": "Brass (or possibly gilt bronze)"
+ "material": "Brass (or possibly gilt bronze)",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

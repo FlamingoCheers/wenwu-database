@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -206,
-  -206
+  220
  ],
  "era_text": "206 BCE - 220 CE (?)",
  "dimensions": "3.1 x 8.2 cm (1 1/4 x 3 1/4 in.)\r\nunspecified: 137 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.571"
  },
- "material": "Deep yellow-brown, faintly translucent stone with cream-colored streaks"
+ "material": "Deep yellow-brown, faintly translucent stone with cream-colored streaks",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "元",
  "dynasty_confidence": "high",
  "year_range": [
-  14,
-  14
+  1279,
+  1368
  ],
  "era_text": "14th-16th century",
  "dimensions": "H. 12.7 cm (5 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.283.A-B"
  },
- "material": "Porcelain with clear glaze"
+ "material": "Porcelain with clear glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

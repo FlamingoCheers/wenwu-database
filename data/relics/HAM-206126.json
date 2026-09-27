@@ -2,11 +2,11 @@
  "relic_id": "HAM-206126",
  "name": "Buddha Shakyamuni with Hands in Bhumisparsa Mudra Seated on a Pedestal Before a Mandorla in an Angled Niche, Flanked on Either Side by a Standing Bodhisattva (in Tang-dynasty style)",
  "category": "青铜器",
- "dynasty": "唐",
- "dynasty_confidence": "high",
+ "dynasty": "现当代",
+ "dynasty_confidence": "source",
  "year_range": [
-  20,
-  20
+  1901,
+  2000
  ],
  "era_text": "early 20th Century",
  "dimensions": "H. 40 x W. 48.3 cm (15 3/4 x 19 in.)\r\nwith mount: 45 x 59.2 x 25.8 cm (17 11/16 x 23 5/16 x 10 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1939.239"
  },
- "material": "White marble with traces of gilt and pigments; with spurious inscription dated to 666"
+ "material": "White marble with traces of gilt and pigments; with spurious inscription dated to 666",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

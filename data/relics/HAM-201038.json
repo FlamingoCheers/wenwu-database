@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1573,
-  1620
+  1368,
+  1644
  ],
  "era_text": "Wanli period, 1573-1620",
  "dimensions": "H. 6.2 x Diam. 12.7 cm (2 7/16 x 5 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1992.87"
  },
- "material": "Monochrome enameled ware: porcelain with an all-over coating of yellow enamel over underglaze incised decoration; with underglaze cobalt-blue mark reading \"Da Ming Wanli nian zhi\" within a double circle on the base"
+ "material": "Monochrome enameled ware: porcelain with an all-over coating of yellow enamel over underglaze incised decoration; with underglaze cobalt-blue mark reading \"Da Ming Wanli nian zhi\" within a double circle on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

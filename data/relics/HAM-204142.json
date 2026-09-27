@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  1,
-  1
+  386,
+  534
  ],
  "era_text": "1st quarter 6th century",
  "dimensions": "sight: H. 91.7 x W. 38.5 x D. 22.86 cm (36 1/8 x 15 3/16 x 9 in.)\r\nweight 163 lb.",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.34"
  },
- "material": "Limestone with traces of pigment. From Gongxian, Henan province."
+ "material": "Limestone with traces of pigment. From Gongxian, Henan province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

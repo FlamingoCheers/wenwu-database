@@ -2,11 +2,11 @@
  "relic_id": "HAM-175371",
  "name": "Circular Bowl with Alternating Designs of Flowering Plants in Planters and Cut, Flowering Branches in Vases (one of two)",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th-14th century",
  "dimensions": "H. 6.5 x Diam. 18.6 cm (2 9/16 x 7 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.339"
  },
- "material": "Qingbai ware: porcelain with sky-blue glaze over mold-impressed decoration; the unglazed rims originally bound with metal. Probably from the kilns at Jingdezhen, Jiangxi province."
+ "material": "Qingbai ware: porcelain with sky-blue glaze over mold-impressed decoration; the unglazed rims originally bound with metal. Probably from the kilns at Jingdezhen, Jiangxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

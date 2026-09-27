@@ -2,8 +2,8 @@
  "relic_id": "HAM-383968",
  "name": "Song of the Divine",
  "category": "书画",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "现当代",
+ "dynasty_confidence": "source",
  "year_range": [
   1986,
   1986
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2024.110"
  },
- "material": "Woodblock print; ink on pi zhi bast paper"
+ "material": "Woodblock print; ink on pi zhi bast paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

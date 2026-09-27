@@ -2,11 +2,11 @@
  "relic_id": "HAM-182245",
  "name": "Bronze-Form, Cylindrical Censer with Three Cabriole Legs and Horizontally Fluted Sides",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "7.5 x 13.2 cm (2 15/16 x 5 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.334.32"
  },
- "material": "Longquan celadon ware: molded, light gray stoneware with cloudy celadon glaze and with appliqué legs.  From the Longquan kilns, Zhejiang province."
+ "material": "Longquan celadon ware: molded, light gray stoneware with cloudy celadon glaze and with appliqué legs.  From the Longquan kilns, Zhejiang province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

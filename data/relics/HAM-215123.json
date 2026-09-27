@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "19th century",
  "dimensions": "H. 278 x W. 39.5 cm (109 7/16 x 15 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1919.241"
  },
- "material": "Silk in 'kesi' tapestry weave"
+ "material": "Silk in 'kesi' tapestry weave",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

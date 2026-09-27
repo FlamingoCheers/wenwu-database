@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "late 17th-early 18th century",
  "dimensions": "H. 42.7 cm (16 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1950.83.74"
  },
- "material": "Monochrome glazed porcelain: porcelain with cobalt blue glaze"
+ "material": "Monochrome glazed porcelain: porcelain with cobalt blue glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

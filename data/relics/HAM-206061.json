@@ -2,11 +2,11 @@
  "relic_id": "HAM-206061",
  "name": "Opera-Scene Print: Family Reunion of Han Yaoqi and His Son Han Qinghu",
  "category": "书画",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "清",
+ "dynasty_confidence": "source",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "26.4 x 41.7 cm (10 3/8 x 16 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.74"
  },
- "material": "Woodblock print; ink and color on paper; with printed inscription of print title (also title of the opera): \"Quan Jia Fu\" (\"Family Portrait\"). Probably from Jiajiang, Sichuan."
+ "material": "Woodblock print; ink and color on paper; with printed inscription of print title (also title of the opera): \"Quan Jia Fu\" (\"Family Portrait\"). Probably from Jiajiang, Sichuan.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

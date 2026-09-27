@@ -5,8 +5,8 @@
  "dynasty": "元",
  "dynasty_confidence": "high",
  "year_range": [
-  13,
-  13
+  1279,
+  1368
  ],
  "era_text": "13th-14th century",
  "dimensions": "H. 31.8 x Diam. 32.5 cm (12 1/2 x 12 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1989.76"
  },
- "material": "Cizhou ware: light gray stoneware with decoration painted in iron-brown slip on a white slip ground under a clear glaze"
+ "material": "Cizhou ware: light gray stoneware with decoration painted in iron-brown slip on a white slip ground under a clear glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

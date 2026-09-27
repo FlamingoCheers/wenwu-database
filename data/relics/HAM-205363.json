@@ -2,11 +2,11 @@
  "relic_id": "HAM-205363",
  "name": "Jade Paperweight in the Form of a Boy on the Back of a Recumbent Water Buffalo",
  "category": "玉器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th-14th century",
  "dimensions": "2.8 x 5.1 x 2.7 cm (1 1/8 x 2 x 1 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.122"
  },
- "material": "Stained mottled gray nephrite"
+ "material": "Stained mottled gray nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

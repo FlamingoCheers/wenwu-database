@@ -2,11 +2,11 @@
  "relic_id": "HAM-203992",
  "name": "Ritual Bell (Bo zhong) with Stylized Dragon and 'Taotie' Decor and with Handle in the Form of Confronting Dragons",
  "category": "青铜器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "66 x 45 x 40 cm (26 x 17 11/16 x 15 3/4 in.)\r\n108 lb.",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.52.178"
  },
  "material": "Cast bronze with greenish patina",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

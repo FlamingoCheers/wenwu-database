@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3300,
-  -3300
+  -2200
  ],
  "era_text": "c. 3300 - c. 2000 BCE",
  "dimensions": "Diam. 22 x Thickness 0.7 cm (8 11/16 x 1/4 in.)\r\nWeight 623 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.576"
  },
- "material": "A creamy gray-colored, fine-grained, opaque stone, polished to a soft sheen"
+ "material": "A creamy gray-colored, fine-grained, opaque stone, polished to a soft sheen",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-205419",
  "name": "Bowl with In-Curving Rim and Partridge-Feather Mottles",
  "category": "瓷器",
- "dynasty": "元",
- "dynasty_confidence": "high",
+ "dynasty": "宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1115,
+  1234
  ],
  "era_text": "probably 13th century",
  "dimensions": "H. 6.4 × Diam. 13.3 cm (2 1/2 × 5 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.418"
  },
- "material": "Northern black ware of Cizhou type: off-white stoneware with dark brown glaze, the markings in overglaze iron oxide"
+ "material": "Northern black ware of Cizhou type: off-white stoneware with dark brown glaze, the markings in overglaze iron oxide",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-146693",
  "name": "Shallow Dish with Scrolling Floral Décor (One of Two)",
  "category": "书画",
- "dynasty": "元",
- "dynasty_confidence": "high",
+ "dynasty": "宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1115,
+  1234
  ],
  "era_text": "13th-14th century",
  "dimensions": "H. 3.2 x Diam. 15.8 cm (1 1/4 x 6 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2002.7"
  },
- "material": "Yaozhou ware: light gray stoneware with celadon glaze over molded decoration"
+ "material": "Yaozhou ware: light gray stoneware with celadon glaze over molded decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

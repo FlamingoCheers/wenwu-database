@@ -2,11 +2,11 @@
  "relic_id": "HAM-175369",
  "name": "Circular Bowl with Steeply Angled Sides and with Scrolling Cloud Decor",
  "category": "书画",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "H. 5.9 x Diam. 17.7 cm (2 5/16 x 6 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.337"
  },
- "material": "Qingbai-type ware: porcelain or porcellaneous white stoneware with sky-blue glaze over carved and combed decoration. Probably from a kiln in Fujian province"
+ "material": "Qingbai-type ware: porcelain or porcellaneous white stoneware with sky-blue glaze over carved and combed decoration. Probably from a kiln in Fujian province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

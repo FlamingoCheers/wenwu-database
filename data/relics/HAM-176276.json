@@ -2,11 +2,11 @@
  "relic_id": "HAM-176276",
  "name": "Sherd: Rectangular Fragment from the Side of a Cylindrical 'Zun'-Shaped Censer with Horizontal Ribs",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  960,
+  1127
  ],
  "era_text": "first quarter 12th century",
  "dimensions": "4 x 6 cm (1 9/16 x 2 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.360.2"
  },
- "material": "Ru ware: light gray stoneware body with pale bluishceladon glaze over molded (or carved?) decoration. From the Ru kilns, Henan province"
+ "material": "Ru ware: light gray stoneware body with pale bluishceladon glaze over molded (or carved?) decoration. From the Ru kilns, Henan province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

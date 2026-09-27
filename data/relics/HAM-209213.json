@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1432,
-  1432
+  1368,
+  1644
  ],
  "era_text": "dated to 1432",
  "dimensions": "each page: H. 33.9 x L. 12.1 cm (13 3/8 x 4 3/4 in.)\r\nfull length: H. 33.9 x L. 1377.6 cm (13 3/8 x 542 3/8 in.= 45 ft. 2 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1926.46"
  },
- "material": "Accordion-fold book; gold ink on indigo-dyed paper; palace copy"
+ "material": "Accordion-fold book; gold ink on indigo-dyed paper; palace copy",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

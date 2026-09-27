@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3300,
-  -2000
+  -2200
  ],
  "era_text": "3300-2000 BCE",
  "dimensions": "18.3 x 18.7 x 17.2 cm (7 3/16 x 7 3/8 x 6 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.161"
  },
- "material": "Gray earthenware, the surface blackened and burnished before firing"
+ "material": "Gray earthenware, the surface blackened and burnished before firing",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

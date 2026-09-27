@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "probably 15th century",
  "dimensions": "max.: H. 8.9 × Diam. 14.9 cm (3 1/2 × 5 7/8 in.)\r\nbase: Diam. 8.9 cm (3 1/2 in.)\r\nweight: 863.2 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.60.A"
  },
- "material": "Numbered Jun ware: light gray stoneware with variegated dark purple and blue glaze with metal fitting at the mouth; originally a 'zhadou'-shaped flower pot with the Chinese numeral 10 (shi) impressed into the base before firing"
+ "material": "Numbered Jun ware: light gray stoneware with variegated dark purple and blue glaze with metal fitting at the mouth; originally a 'zhadou'-shaped flower pot with the Chinese numeral 10 (shi) impressed into the base before firing",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

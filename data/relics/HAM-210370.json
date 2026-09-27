@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  3,
-  3
+  420,
+  589
  ],
  "era_text": "3rd-early 7th century",
  "dimensions": "H. 18.4 cm (7 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1919.188"
  },
- "material": "Molded medium gray  earthenware"
+ "material": "Molded medium gray  earthenware",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

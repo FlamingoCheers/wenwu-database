@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "19th century",
  "dimensions": "H. 13.4 x Diam. 17.5 cm (5 1/4 x 6 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1917.38"
  },
- "material": "Porcelain with molded and incised elements, decoration painted in underglaze cobalt blue and copper red, and localized areas articulated with celadon glaze; with spurious underglaze cobalt blue mark reading \"Xuande nian zhi\" within a circular recess on the base"
+ "material": "Porcelain with molded and incised elements, decoration painted in underglaze cobalt blue and copper red, and localized areas articulated with celadon glaze; with spurious underglaze cobalt blue mark reading \"Xuande nian zhi\" within a circular recess on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

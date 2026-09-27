@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1762,
-  1762
+  1644,
+  1911
  ],
  "era_text": "dated 1762",
  "dimensions": "119 cm (46 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1968.70"
  },
- "material": "Hanging scroll(?)"
+ "material": "Hanging scroll(?)",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "15th-16th century",
  "dimensions": "24.2 x 24.8 x 24.2 cm (9 1/2 x 9 3/4 x 9 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1924.69.1"
  },
- "material": "Red earthenware with lead-fluxed, emerald-green glaze"
+ "material": "Red earthenware with lead-fluxed, emerald-green glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

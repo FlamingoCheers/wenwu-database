@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1522,
-  1566
+  1368,
+  1644
  ],
  "era_text": "Jiajing period, 1522-1566",
  "dimensions": "Diam. 15.2 cm (6 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.177"
  },
- "material": "Monochrome ware: porcelain with cobalt blue glaze over incised decoration; with incised underglaze mark reading \"Da Ming Jiajing Nian Zhi\" within an incised double-circle on the base"
+ "material": "Monochrome ware: porcelain with cobalt blue glaze over incised decoration; with incised underglaze mark reading \"Da Ming Jiajing Nian Zhi\" within an incised double-circle on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

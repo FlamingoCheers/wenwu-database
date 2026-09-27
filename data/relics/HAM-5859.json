@@ -5,8 +5,8 @@
  "dynasty": "辽",
  "dynasty_confidence": "high",
  "year_range": [
-  11,
-  11
+  907,
+  1125
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "5 x 15.6 x 10.1 cm (1 15/16 x 6 1/8 x 4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2005.178"
  },
- "material": "Liao sancai (\"three-color\") ware: molded ivory-hued earthenware with lead-fluxed, emerald-green and caramel-yellow glazes"
+ "material": "Liao sancai (\"three-color\") ware: molded ivory-hued earthenware with lead-fluxed, emerald-green and caramel-yellow glazes",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-205533",
  "name": "Bowl with Underfired Black Glaze",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "probably late 11th-early 12th century",
  "dimensions": "H. 5.7 x Diam. 18.4 cm (2 1/4 x 7 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.404"
  },
- "material": "Underfired Black Ding ware: porcelaneous white stoneware with brownish green, tea-dust-like glaze. Probably from the kilns at Jianci village, possibly from those at East or West Yanchuan village, Quyang county, Hebei province."
+ "material": "Underfired Black Ding ware: porcelaneous white stoneware with brownish green, tea-dust-like glaze. Probably from the kilns at Jianci village, possibly from those at East or West Yanchuan village, Quyang county, Hebei province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

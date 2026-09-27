@@ -2,11 +2,11 @@
  "relic_id": "HAM-190217",
  "name": "Goose-head vessel",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -206,
+  9
  ],
  "era_text": "3rd-1st century BCE",
  "dimensions": "H. 33.5 x Diam. 22.2 cm (13 3/16 x 8 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.162"
  },
- "material": "Gray earthenware with traces of cold-painted pigments"
+ "material": "Gray earthenware with traces of cold-painted pigments",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

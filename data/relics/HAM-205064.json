@@ -2,11 +2,11 @@
  "relic_id": "HAM-205064",
  "name": "Jade Cicada in the Round",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -206,
+  9
  ],
  "era_text": "3rd century BCE",
  "dimensions": "H. 2.8 x W. 1.7 x D. 0.9 cm (1 1/8 x 11/16 x 3/8 in.)\r\nWeight 6 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.280"
  },
- "material": "Highly polished, translucent yellowish and opaque cream-colored nephrite"
+ "material": "Highly polished, translucent yellowish and opaque cream-colored nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-206544",
  "name": "Head of a Bodhisattva",
  "category": "青铜器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "Probably Northern Song, possibly Jin dynasty, 11th-12th century",
  "dimensions": "H. 18.7 x W. 15.3 cm (7 3/8 x 6 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.17"
  },
- "material": "Cast iron with traces of gold pigment over white gesso ground and traces of black pigment over gesso ground in the hair"
+ "material": "Cast iron with traces of gold pigment over white gesso ground and traces of black pigment over gesso ground in the hair",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "17th cent. - 18th cent.",
  "dimensions": "30.2 x 49.3 cm (11 7/8 x 19 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.208"
  },
- "material": "Album leaf; ink and light color on silk"
+ "material": "Album leaf; ink and light color on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

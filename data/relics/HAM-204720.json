@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "probably late 17th century",
  "dimensions": "H. 7.6 x Diam. 12.4 cm (3 x 4 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.212"
  },
- "material": "Enameled biscuit porcelain: porcelain with yellow enamel; with spurious underglaze cobalt blue mark reading \"Da Ming Jiajing Nian Zhi\" within a double circle on the base"
+ "material": "Enameled biscuit porcelain: porcelain with yellow enamel; with spurious underglaze cobalt blue mark reading \"Da Ming Jiajing Nian Zhi\" within a double circle on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

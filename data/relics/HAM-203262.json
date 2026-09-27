@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1,
-  1
+  1368,
+  1644
  ],
  "era_text": "1st half 16th century",
  "dimensions": "160 x 99.1 cm (63 x 39 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1958.7"
  },
- "material": "Hanging scroll; ink and light colors on silk, with a spurious signature reading \"Hsia Kuei\""
+ "material": "Hanging scroll; ink and light colors on silk, with a spurious signature reading \"Hsia Kuei\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

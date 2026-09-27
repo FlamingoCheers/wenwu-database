@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1633,
-  1633
+  1368,
+  1644
  ],
  "era_text": "after 1633 - before 1703",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.165.D"
  },
- "material": "Book cover and loose calligraphic sheets from a woodblock printed book; ink on paper"
+ "material": "Book cover and loose calligraphic sheets from a woodblock printed book; ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "16th-17th century",
  "dimensions": "sight: H. 170.2 x W. 68.6 cm (67 x 27 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.98"
  },
- "material": "Gray limestone"
+ "material": "Gray limestone",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

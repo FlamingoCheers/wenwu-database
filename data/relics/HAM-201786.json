@@ -5,8 +5,8 @@
  "dynasty": "辽",
  "dynasty_confidence": "high",
  "year_range": [
-  11,
-  11
+  907,
+  1125
  ],
  "era_text": "11th century",
  "dimensions": "H. 17.7 x Diam. 10 cm (6 15/16 x 3 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1991.268"
  },
- "material": "Liao sancai (\"three-color\") ware: molded grayish white earthenware with lead-fluxed amber-yellow and emerald-green glazes"
+ "material": "Liao sancai (\"three-color\") ware: molded grayish white earthenware with lead-fluxed amber-yellow and emerald-green glazes",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

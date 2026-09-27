@@ -5,7 +5,7 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1911,
+  1644,
   1911
  ],
  "era_text": "1911",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.449.A"
  },
- "material": "Glass"
+ "material": "Glass",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "17th century",
  "dimensions": "H. 24.4 x W. 27.9 cm (9 5/8 x 11 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1971.117.A"
  },
- "material": "One of a pair of colored woodblock prints; ink and color on paper"
+ "material": "One of a pair of colored woodblock prints; ink and color on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

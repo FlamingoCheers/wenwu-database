@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  5,
-  5
+  386,
+  534
  ],
  "era_text": "late 5th - early 6th century",
  "dimensions": "20.2 x 13.5 x 12.3 cm (7 15/16 x 5 5/16 x 4 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1931.13"
  },
- "material": "Buff sandstone with traces of gesso and pigment; Yungang style"
+ "material": "Buff sandstone with traces of gesso and pigment; Yungang style",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

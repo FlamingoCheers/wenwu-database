@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  618,
+  907
  ],
  "era_text": "second half 7th century",
  "dimensions": "H. 25.3 cm (9 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1982.30"
  },
- "material": "Molded brick-red earthenware with traces of cold-painted green, red, orange, and black pigments over a white ground"
+ "material": "Molded brick-red earthenware with traces of cold-painted green, red, orange, and black pigments over a white ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

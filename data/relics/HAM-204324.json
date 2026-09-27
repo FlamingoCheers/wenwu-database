@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  6,
-  6
+  386,
+  534
  ],
  "era_text": "first third 6th century",
  "dimensions": "H. 28.3 x W. 7 x D. 4 cm (11 1/8 x 2 3/4 x 1 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.97"
  },
- "material": "Cold-painted funerary ware: molded gray earthenware with cold-painted pigments over white gesso ground"
+ "material": "Cold-painted funerary ware: molded gray earthenware with cold-painted pigments over white gesso ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

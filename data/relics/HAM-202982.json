@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "15th century",
  "dimensions": "H. 5.7 cm x Diam. 5.5 cm (2 1/4 x 2 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1960.9"
  },
- "material": "Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue. Probably from a kiln at Jingdezhen, Jiangxi province."
+ "material": "Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue. Probably from a kiln at Jingdezhen, Jiangxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

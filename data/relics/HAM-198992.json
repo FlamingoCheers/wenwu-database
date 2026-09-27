@@ -2,11 +2,11 @@
  "relic_id": "HAM-198992",
  "name": "Foliate Cup Stand with Notched Rim and Reticulated Cup Receptacle",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "H. 7.4 x Diam. 14.1 cm (2 15/16 x 5 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1919.210.B"
  },
- "material": "Qingbai ware: porcelain with pale sky-blue glaze over combed, molded, and openwork decoration"
+ "material": "Qingbai ware: porcelain with pale sky-blue glaze over combed, molded, and openwork decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

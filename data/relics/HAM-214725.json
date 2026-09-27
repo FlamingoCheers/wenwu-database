@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1796,
-  1820
+  1644,
+  1911
  ],
  "era_text": "Jiaqing period, 1796-1820",
  "dimensions": "157.4 x 190 cm (61 15/16 x 74 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1960.169.43"
  },
- "material": "Dark blue ground with medallion elements in 'kesi' silk tapestry weave"
+ "material": "Dark blue ground with medallion elements in 'kesi' silk tapestry weave",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

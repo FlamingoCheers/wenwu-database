@@ -5,8 +5,8 @@
  "dynasty": "五代十国",
  "dynasty_confidence": "high",
  "year_range": [
-  945,
-  945
+  907,
+  960
  ],
  "era_text": "945 CE",
  "dimensions": "H. 175 x W. 115 cm (68 7/8 x 45 1/4 in.)\r\n",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.54.1"
  },
- "material": "Ink and color on ramie.  Reportedly retrieved from Dunhuang, Gansu province."
+ "material": "Ink and color on ramie.  Reportedly retrieved from Dunhuang, Gansu province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

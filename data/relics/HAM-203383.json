@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1900,
-  1900
+  1644,
+  1911
  ],
  "era_text": "c. 1900",
  "dimensions": "image: 33.3 × 59.7 cm (13 1/8 × 23 1/2 in.)\r\npaper: 35.2 × 63 cm (13 7/8 × 24 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1959.178"
  },
- "material": "Woodblock print: ink and color on paper"
+ "material": "Woodblock print: ink and color on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -2500,
-  -2500
+  -2000
  ],
  "era_text": "Longshan culture (?), c. 2500 BCE - c. 2000 BCE",
  "dimensions": "21.4 x 4 x 0.5 cm (8 7/16 x 1 9/16 x 3/16 in.)\r\nunspecified: 79 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.75"
  },
- "material": "Olive-green and brownish nephrite"
+ "material": "Olive-green and brownish nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "probably 19th century",
  "dimensions": "painting proper: H. 200.5 x W. 98.4 cm (78 15/16 x 38 3/4 in.)\r\nmounting, including cord and roller ends: H. 340.4 x W. 116.8 cm (134 x 46 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.219"
  },
- "material": "Hanging scroll; ink and light color on silk; with spurious signature reading \"Cui Que\""
+ "material": "Hanging scroll; ink and light color on silk; with spurious signature reading \"Cui Que\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

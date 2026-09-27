@@ -2,11 +2,11 @@
  "relic_id": "HAM-149554",
  "name": "Covered Wide-Mouthed Bowl with Partridge-Feather Mottles",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  960,
+  1127
  ],
  "era_text": "12th century",
  "dimensions": "bowl and cover: H. 12.5 x Diam. 15.6 cm (4 15/16 x 6 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2001.221.A-B"
  },
- "material": "Northern black ware of Cizhou type: light gray stoneware with dark brown glaze, the russet markings in overglaze iron oxide"
+ "material": "Northern black ware of Cizhou type: light gray stoneware with dark brown glaze, the russet markings in overglaze iron oxide",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

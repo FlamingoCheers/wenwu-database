@@ -2,11 +2,11 @@
  "relic_id": "HAM-203359",
  "name": "Circular Mirror with Relief Decoration of Four Fantastic Creatures, Symbols of the Four Directions, and Auspicious Inscription (a forgery purporting to date to the Sui dynasty)",
  "category": "青铜器",
- "dynasty": "隋",
- "dynasty_confidence": "high",
+ "dynasty": "现当代",
+ "dynasty_confidence": "source",
  "year_range": [
-  20,
-  20
+  1901,
+  2000
  ],
  "era_text": "first half 20th century",
  "dimensions": "Diam. 24.1 cm (9 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1955.141"
  },
- "material": "Cast bronze"
+ "material": "Cast bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

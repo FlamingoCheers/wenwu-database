@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -12,
-  -12
+  -1600,
+  -1050
  ],
  "era_text": "12th cent. BCE - 11th cent. BCE",
  "dimensions": "26.2 x 8.2 x 0.8 cm (10 5/16 x 3 1/4 x 5/16 in.)\r\nunspecified: 237 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.64"
  },
- "material": "Opaque gray nephrite with tan colored surface alteration, traces of cinnabar, and dark brown accretions that preserve textile impressions"
+ "material": "Opaque gray nephrite with tan colored surface alteration, traces of cinnabar, and dark brown accretions that preserve textile impressions",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

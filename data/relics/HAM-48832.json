@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "17th-19th century",
  "dimensions": "painting proper: H. 23.8 x W. 21 cm (9 3/8 x 8 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.924.5"
  },
- "material": "Album leaf; ink, color and gold on silk"
+ "material": "Album leaf; ink, color and gold on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

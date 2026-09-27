@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1522,
-  1566
+  1368,
+  1644
  ],
  "era_text": "probably Jiajing period, 1522-1566",
  "dimensions": "2.2 x 5 x 3.9 cm (7/8 x 1 15/16 x 1 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1995.58.A-B"
  },
- "material": "Pale greenish white nephrite with russet skin"
+ "material": "Pale greenish white nephrite with russet skin",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "宋",
  "dynasty_confidence": "high",
  "year_range": [
-  12,
-  12
+  960,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "cap: H. 4.1 x W. 5.8 x D. 4 cm (1 5/8 x 2 5/16 x 1 9/16 in.)\r\npin: L. 11.3 cm (4 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1941.250.A-B"
  },
- "material": "Pale greenish white nephrite"
+ "material": "Pale greenish white nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

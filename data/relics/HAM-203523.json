@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  618,
+  907
  ],
  "era_text": "late 7th-8th Century",
  "dimensions": "H. 56 x Diam. 28 cm (22 1/16 x 11 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.36"
  },
- "material": "Gray limestone with traces of polychromy"
+ "material": "Gray limestone with traces of polychromy",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

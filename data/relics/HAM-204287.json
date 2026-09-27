@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -4000,
-  -4000
+  -2000
  ],
  "era_text": "c. 4000 BCE - c. 2000 BCE",
  "dimensions": "W. 2.4 x Chord 10.7 x Thickness 0.4 cm (15/16 x 4 3/16 x 3/16 in.)\r\n38 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.607"
  },
- "material": "Pale green nephrite with russet markings and a dark brown spot"
+ "material": "Pale green nephrite with russet markings and a dark brown spot",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

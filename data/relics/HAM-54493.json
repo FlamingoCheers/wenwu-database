@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1857,
-  1857
+  1644,
+  1911
  ],
  "era_text": "c. 1857 - c. 1874",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1978.484.40"
  },
- "material": "Albumen silver print"
+ "material": "Albumen silver print",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

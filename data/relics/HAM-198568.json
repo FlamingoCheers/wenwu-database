@@ -2,11 +2,11 @@
  "relic_id": "HAM-198568",
  "name": "Cup with Squared Rim",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "H. 4 x Diam. 7.3 cm (1 9/16 x 2 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1995.836.1"
  },
- "material": "Qingbai ware: molded porcelain with pale sky-blue glaze"
+ "material": "Qingbai ware: molded porcelain with pale sky-blue glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-199626",
  "name": "Circular Dish",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "late 11th - first half 12th century",
  "dimensions": "max.: H. 4.4 × Diam. 18.7 cm (1 3/4 × 7 3/8 in.)\r\nfoot: Diam. 6.2 cm (2 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.74"
  },
- "material": "Jun ware: light gray stoneware with robin's-egg blue glaze"
+ "material": "Jun ware: light gray stoneware with robin's-egg blue glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

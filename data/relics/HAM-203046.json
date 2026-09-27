@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  6,
-  6
+  386,
+  534
  ],
  "era_text": "first half 6th century",
  "dimensions": "H. 33 x W. 20.3 cm (13 x 8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1963.75"
  },
- "material": "Probably gray limestone with traces of pigment and accretions; Longmen style"
+ "material": "Probably gray limestone with traces of pigment and accretions; Longmen style",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

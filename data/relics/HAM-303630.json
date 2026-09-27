@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -13,
-  -13
+  -1600,
+  -1050
  ],
  "era_text": "13th century BCE",
  "dimensions": "H. 25.0 x W. 31.5 x D. 10.6 cm (9 13/16 x 12 3/8 x 4 3/16 in.)\r\nWeight 1020.58 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.103"
  },
- "material": "Cast bronze with pale green patina"
+ "material": "Cast bronze with pale green patina",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

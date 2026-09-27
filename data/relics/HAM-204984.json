@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th cent. BCE - 8th cent. BCE",
  "dimensions": "5.4 x 1.2 x 0.4 cm (2 1/8 x 1/2 x 3/16 in.)\r\nunspecified: 5 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.425"
  },
- "material": "Discolored, calcified nephrite, coated with cinnabar"
+ "material": "Discolored, calcified nephrite, coated with cinnabar",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

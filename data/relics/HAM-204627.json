@@ -2,11 +2,11 @@
  "relic_id": "HAM-204627",
  "name": "Hook-Shaped Fitting in the Form of an Animal Head (One of a Pair)",
  "category": "青铜器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "L. 27.7 × W. 4.6 cm (10 7/8 × 1 13/16 in.)",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.52.39.A"
  },
  "material": "Cast bronze with gold and silver inlay",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

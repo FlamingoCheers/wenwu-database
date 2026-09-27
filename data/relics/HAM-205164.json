@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -4300,
-  -4300
+  -2500
  ],
  "era_text": "possibly Dawenkou culture, c. 4300 - c. 2500 BCE",
  "dimensions": "L. 16.5 x W. 13.2 x Thickness 0.7 cm (6 1/2 x 5 3/16 x 1/4 in.)\r\nWeight 325 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.24"
  },
- "material": "Variegated creamy buff and light brown nephrite with two broad bluish green bands"
+ "material": "Variegated creamy buff and light brown nephrite with two broad bluish green bands",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

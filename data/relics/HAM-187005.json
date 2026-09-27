@@ -2,11 +2,11 @@
  "relic_id": "HAM-187005",
  "name": "Bowl with Rust Brown Markings",
  "category": "瓷器",
- "dynasty": "元",
- "dynasty_confidence": "high",
+ "dynasty": "宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1115,
+  1234
  ],
  "era_text": "13th-14th century",
  "dimensions": "H. 8.8 x Diam. 19.7 cm (3 7/16 x 7 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2016.223"
  },
- "material": "Northern black ware of Cizhou type: light gray stoneware with dark brown glaze, the markings in overglaze iron oxide"
+ "material": "Northern black ware of Cizhou type: light gray stoneware with dark brown glaze, the markings in overglaze iron oxide",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

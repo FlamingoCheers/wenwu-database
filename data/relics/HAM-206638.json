@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: H. 21.7 x W. 40.2 cm (8 9/16 x 15 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.36.62"
  },
- "material": "Woodblock print; ink on paper; with printed inscription reading from right to left: \"Quan Si Niangniang\" (\"Goddess Governing All\"). Probably from Beijing; part of a possible set of paper gods 1935.36.62-.81."
+ "material": "Woodblock print; ink on paper; with printed inscription reading from right to left: \"Quan Si Niangniang\" (\"Goddess Governing All\"). Probably from Beijing; part of a possible set of paper gods 1935.36.62-.81.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

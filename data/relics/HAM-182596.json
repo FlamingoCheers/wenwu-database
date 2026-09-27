@@ -5,8 +5,8 @@
  "dynasty": "新石器时代",
  "dynasty_confidence": "high",
  "year_range": [
-  -2650,
-  -2300
+  -3300,
+  -2000
  ],
  "era_text": "Banshan phase, c. 2650-2300 BCE",
  "dimensions": "H. 11 x Diam. 12.5 cm (4 5/16 x 4 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.40"
  },
- "material": "Earthenware with applique and impressed decoration"
+ "material": "Earthenware with applique and impressed decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

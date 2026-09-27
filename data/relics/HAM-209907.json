@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -11,
-  -11
+  -1600,
+  -1050
  ],
  "era_text": "late Shang to early Western Zhou, 11th-mid 10th century BCE",
  "dimensions": "H. 31.8 x Diam. 24.1 cm (12 1/2 x 9 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1919.260"
  },
- "material": "Cast bronze"
+ "material": "Cast bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

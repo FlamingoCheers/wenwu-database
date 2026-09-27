@@ -2,11 +2,11 @@
  "relic_id": "HAM-204977",
  "name": "Hinged Pair of Jade Plaques",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -475,
+  -221
  ],
  "era_text": "3rd-2nd century BCE",
  "dimensions": "L. 8.7 x W. 3.2 cm (3 7/16 x 1 1/4 in.)\r\nWeight 16 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.246"
  },
- "material": "Very light green translucent nephrite with ivory-colored calcified spots"
+ "material": "Very light green translucent nephrite with ivory-colored calcified spots",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

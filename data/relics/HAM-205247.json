@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "mid 17th century",
  "dimensions": "H. 37.9 x Diam. 16.2 cm (14 15/16 x 6 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.193"
  },
- "material": "Enameled blue-and-white ware: porcelain with applique handles and decoration reserved in white against an underglaze cobalt blue ground, the reserved designs embellished with overglaze polychrome enamels; with an underglaze cobalt-blue double circle on the base"
+ "material": "Enameled blue-and-white ware: porcelain with applique handles and decoration reserved in white against an underglaze cobalt blue ground, the reserved designs embellished with overglaze polychrome enamels; with an underglaze cobalt-blue double circle on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

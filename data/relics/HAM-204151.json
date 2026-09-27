@@ -4,7 +4,10 @@
  "category": "雕塑",
  "dynasty": "明",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1368,
+  1644
+ ],
  "era_text": null,
  "dimensions": "18.1 cm (7 1/8 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Carved Wood",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.114"
  },
- "material": "Carved Wood"
+ "material": "Carved Wood",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

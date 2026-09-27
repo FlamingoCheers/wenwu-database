@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th-11th century BCE",
  "dimensions": "H. 17.8 x W. 6.8 x D. 0.8 cm (7 x 2 11/16 x 5/16 in.)\r\nWeight 148 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.89"
  },
- "material": "Grayish yellow, marble-like stone with gray markings and surface cracks"
+ "material": "Grayish yellow, marble-like stone with gray markings and surface cracks",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

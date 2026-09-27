@@ -2,11 +2,11 @@
  "relic_id": "HAM-182244",
  "name": "Small Circular Bowl or Cup with Lotus Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "4 x 9 cm (1 9/16 x 3 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.334.31"
  },
- "material": "Ding ware: porcellaneous white stoneware with ivory-hued glaze over incised and carved decoration, the unglazed lip originally bound with metal.  From the Ding kilns in Quyang county, Hebei province."
+ "material": "Ding ware: porcellaneous white stoneware with ivory-hued glaze over incised and carved decoration, the unglazed lip originally bound with metal.  From the Ding kilns in Quyang county, Hebei province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

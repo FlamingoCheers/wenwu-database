@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -4000,
-  -4000
+  -2000
  ],
  "era_text": "c. 4000 BCE - c. 2000 BCE",
  "dimensions": "1.8 x 0.4 x 7 cm (11/16 x 3/16 x 2 3/4 in.)\r\nunspecified: 43 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.486"
  },
- "material": "Yellowish green and calcified, cream-colored nephrite"
+ "material": "Yellowish green and calcified, cream-colored nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

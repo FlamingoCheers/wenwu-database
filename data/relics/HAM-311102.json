@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th-19th Century",
  "dimensions": "H. 61.6 x Diam. 18.9 cm (24 1/4 x 7 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1911.10"
  },
- "material": "Qianlong-style molded porcelain: porcelain with molded decoration under very pale blue qingbai-type glaze"
+ "material": "Qianlong-style molded porcelain: porcelain with molded decoration under very pale blue qingbai-type glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

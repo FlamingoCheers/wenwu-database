@@ -2,11 +2,11 @@
  "relic_id": "HAM-204293",
  "name": "Ornate Jade Disk",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
   -206,
-  -206
+  9
  ],
  "era_text": "206 BCE - 9 CE (?)",
  "dimensions": "0.6 x 16.5 cm (1/4 x 6 1/2 in.)\r\nunspecified: 301 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.592"
  },
- "material": "Gray-green translucent nephrite with brown markings and flaws"
+ "material": "Gray-green translucent nephrite with brown markings and flaws",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

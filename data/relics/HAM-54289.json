@@ -2,11 +2,11 @@
  "relic_id": "HAM-54289",
  "name": "Circular Bowl with Partridge-Feather Mottles",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "H. 7.9 × Diam. 18.4 cm (3 1/8 × 7 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.160"
  },
- "material": "Northern black ware of Cizhou type: light gray stoneware with dark brown glaze, the russet markings in overglaze iron oxide"
+ "material": "Northern black ware of Cizhou type: light gray stoneware with dark brown glaze, the russet markings in overglaze iron oxide",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

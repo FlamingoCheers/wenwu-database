@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1862,
-  1874
+  1644,
+  1911
  ],
  "era_text": "Tongzhi period, 1862-1874",
  "dimensions": "H. 5.7 x Diam. 12 cm (2 1/4 x 4 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.288"
  },
- "material": "Enameled porcelain: porcelain with decoration painted in overglaze polychrome enamels; with overglaze red enamel mark reading \"Tongzhi nian zhi\" within a double square on the base"
+ "material": "Enameled porcelain: porcelain with decoration painted in overglaze polychrome enamels; with overglaze red enamel mark reading \"Tongzhi nian zhi\" within a double square on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

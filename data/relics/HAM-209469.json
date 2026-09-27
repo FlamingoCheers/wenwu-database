@@ -5,8 +5,8 @@
  "dynasty": "元",
  "dynasty_confidence": "high",
  "year_range": [
-  14,
-  14
+  1279,
+  1368
  ],
  "era_text": "late 14th-15th century",
  "dimensions": "H: 185.2 x W: 105.5 cm (72 15/16 x 41 9/16 in.)\r\nH. 196.9 x W. 117.5 cm (77 1/2 x 46 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.192"
  },
- "material": "Hanging scroll (cut from its mounting and framed); ink and light color on silk"
+ "material": "Hanging scroll (cut from its mounting and framed); ink and light color on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

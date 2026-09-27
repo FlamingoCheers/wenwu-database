@@ -5,8 +5,8 @@
  "dynasty": "新石器时代",
  "dynasty_confidence": "high",
  "year_range": [
-  -3,
-  -3
+  -3300,
+  -2200
  ],
  "era_text": "3rd millennium BCE",
  "dimensions": "16.5 x 11.2 x 1.1 cm (6 1/2 x 4 7/16 x 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.151"
  },
- "material": "Polished dark stone"
+ "material": "Polished dark stone",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  548,
-  548
+  534,
+  550
  ],
  "era_text": "dated to 548",
  "dimensions": "H. 15.8 x W. 5.6 x D. 4.5 cm (6 1/4 x 2 3/16 x 1 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.81"
  },
- "material": "Gilt bronze; with inscription on the stand dated to 548"
+ "material": "Gilt bronze; with inscription on the stand dated to 548",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

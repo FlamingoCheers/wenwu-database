@@ -2,11 +2,11 @@
  "relic_id": "HAM-203809",
  "name": "Circular Bowl with Ascending Lotus-Petal Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  10,
-  10
+  960,
+  1127
  ],
  "era_text": "10th-early 11th century",
  "dimensions": "H. 7.9 x Diam. 13.3 cm (3 1/8 x 5 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1950.83.59"
  },
- "material": "Yaozhou ware: light gray stoneware with celadon glaze over carved decoration. From the Yaozhou kilns at Tongchuan, Shaanxi province."
+ "material": "Yaozhou ware: light gray stoneware with celadon glaze over carved decoration. From the Yaozhou kilns at Tongchuan, Shaanxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

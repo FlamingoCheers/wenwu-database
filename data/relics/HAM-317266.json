@@ -2,8 +2,8 @@
  "relic_id": "HAM-317266",
  "name": "Rectangular Pillow with Basket-Weave Décor",
  "category": "瓷器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "宋",
+ "dynasty_confidence": "source",
  "year_range": [
   1115,
   1234
@@ -28,5 +28,5 @@
   "inventory_no": "2006.170.285"
  },
  "material": "Earthenware with amber colored lead glaze",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

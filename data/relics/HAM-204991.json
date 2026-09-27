@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -4000,
-  -4000
+  -2000
  ],
  "era_text": "c. 4000 BCE - c. 2000 BCE",
  "dimensions": "27 x 14.7 x 0.8 cm (10 5/8 x 5 13/16 x 5/16 in.)\r\nunspecified: 575 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.100"
  },
- "material": "Light gray and russet, translucent stone with whitish and dark gray markings"
+ "material": "Light gray and russet, translucent stone with whitish and dark gray markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

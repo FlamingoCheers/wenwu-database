@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3300,
-  -2650
+  -2000
  ],
  "era_text": "Majiayao phase, c. 3300-2650 BCE",
  "dimensions": "H. 11.6 x Diam. 25 cm (4 9/16 x 9 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.27"
  },
- "material": "Earthenware with slip-painted decoration"
+ "material": "Earthenware with slip-painted decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

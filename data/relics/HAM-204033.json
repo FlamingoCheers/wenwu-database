@@ -4,7 +4,10 @@
  "category": "雕塑",
  "dynasty": "五代十国",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  907,
+  960
+ ],
  "era_text": null,
  "dimensions": "22.4 x 9.9 cm (8 13/16 x 3 7/8 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Carved with painted polychrome colors",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.112"
  },
- "material": "Carved with painted polychrome colors"
+ "material": "Carved with painted polychrome colors",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

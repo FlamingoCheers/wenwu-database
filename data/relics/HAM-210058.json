@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1674,
-  1674
+  1644,
+  1911
  ],
  "era_text": "dated 1674 (probably spurious)",
  "dimensions": "86.5 × 54.5 cm (34 1/16 × 21 7/16 in.)\r\nmount: 125.6 × 77.5 cm (49 7/16 × 30 1/2 in.)\r\nframe: 132.2 × 84.3 × 1.7 cm (52 1/16 × 33 3/16 × 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.228"
  },
- "material": "Hanging scroll mounted on a panel and framed; ink and light colors on paper"
+ "material": "Hanging scroll mounted on a panel and framed; ink and light colors on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

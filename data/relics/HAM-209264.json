@@ -2,11 +2,11 @@
  "relic_id": "HAM-209264",
  "name": "Printed Image of a Standing Buddha Flanked by Two Attendants (A Forgery Purporting to Date to the Sui Dynasty)",
  "category": "书画",
- "dynasty": "隋",
- "dynasty_confidence": "high",
+ "dynasty": "现当代",
+ "dynasty_confidence": "source",
  "year_range": [
-  20,
-  20
+  1901,
+  2000
  ],
  "era_text": "early 20th Century",
  "dimensions": "H. 32.4 x W. 31.7 cm (12 3/4 x 12 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1929.12"
  },
- "material": "Hand-colored Buddhist woodblock print; ink and color on paper"
+ "material": "Hand-colored Buddhist woodblock print; ink and color on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

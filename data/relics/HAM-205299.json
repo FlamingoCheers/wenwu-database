@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -2500,
-  -2500
+  -1900
  ],
  "era_text": "c. 2500 BCE - c. 1900 BCE",
  "dimensions": "H. 40.5 x W. 9.7 x D. 0.4 cm (15 15/16 x 3 13/16 x 3/16 in.)\r\nWeight 270 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.58"
  },
- "material": "Bluish gray-green stone with black and light brown markings"
+ "material": "Bluish gray-green stone with black and light brown markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "mid 17th century",
  "dimensions": "Diam. 17.3 cm (6 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.222"
  },
- "material": "Biscuit porcelain with decoration painted in green, aubergine, and black enamels against a yellow enamel ground; with spurious underglaze cobalt-blue mark reading \"Da Ming Xuande nian zhi\" within a double circle on the base"
+ "material": "Biscuit porcelain with decoration painted in green, aubergine, and black enamels against a yellow enamel ground; with spurious underglaze cobalt-blue mark reading \"Da Ming Xuande nian zhi\" within a double circle on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

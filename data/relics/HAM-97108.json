@@ -2,11 +2,11 @@
  "relic_id": "HAM-97108",
  "name": "Tang Yin's Manual of Ancient and Modern Paintings (Tang Jieyuan fang gujin huapu)",
  "category": "书画",
- "dynasty": "唐",
- "dynasty_confidence": "high",
+ "dynasty": "明",
+ "dynasty_confidence": "source",
  "year_range": [
-  1621,
-  1621
+  1368,
+  1644
  ],
  "era_text": "1621",
  "dimensions": "irregular: 26.7 x 18.1 cm (10 1/2 x 7 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.841.6"
  },
- "material": "Thread-bound, woodblock printed book in seven volumes; ink on paper, printed by Su-ming (with printer's mark reading \"Su-ming k'an\")"
+ "material": "Thread-bound, woodblock printed book in seven volumes; ink on paper, printed by Su-ming (with printer's mark reading \"Su-ming k'an\")",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

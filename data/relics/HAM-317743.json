@@ -2,11 +2,11 @@
  "relic_id": "HAM-317743",
  "name": "Globular 'Hu' Storage Jar with Cylindrical Neck, Dished Mouth, 'Pushou'-Mask Handles, and Abstract Decor",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  101,
+  200
  ],
  "era_text": "1st-2nd century",
  "dimensions": "H. 32.8 x Diam. 23 cm (12 15/16 x 9 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.194"
  },
- "material": "Lead-glazed funerary ware: brick-red earthenware with lead-fluxed, caramel-brown glaze over mold-impressed handles, the decoration created through the application of lead-fluxed, emerald-green glaze over localized areas of the caramel-brown glaze"
+ "material": "Lead-glazed funerary ware: brick-red earthenware with lead-fluxed, caramel-brown glaze over mold-impressed handles, the decoration created through the application of lead-fluxed, emerald-green glaze over localized areas of the caramel-brown glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

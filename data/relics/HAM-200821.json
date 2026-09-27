@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  6,
-  6
+  420,
+  589
  ],
  "era_text": "6th century",
  "dimensions": "H. 15.5 x Diam. 16.1 cm (6 1/8 x 6 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1990.93"
  },
- "material": "Yue ware: light gray stoneware with celadon glaze over incised decoration"
+ "material": "Yue ware: light gray stoneware with celadon glaze over incised decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

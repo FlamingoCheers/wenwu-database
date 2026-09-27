@@ -5,8 +5,8 @@
  "dynasty": "元",
  "dynasty_confidence": "high",
  "year_range": [
-  14,
-  14
+  1279,
+  1368
  ],
  "era_text": "14th century",
  "dimensions": "H. 29.8 cm x Diam. 18.2 cm (11 3/4 in. x 7 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.111"
  },
- "material": "Cizhou ware: light gray stoneware with decoration carved in the thick coating of underglaze white slip"
+ "material": "Cizhou ware: light gray stoneware with decoration carved in the thick coating of underglaze white slip",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

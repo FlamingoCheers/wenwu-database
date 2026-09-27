@@ -2,11 +2,11 @@
  "relic_id": "HAM-188153",
  "name": "Globular Jar with Abstract Basket-Weave Décor",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -4,
-  -4
+  -475,
+  -221
  ],
  "era_text": "4th-1st century BCE",
  "dimensions": "H. 27.6 x Diam. 34.8 cm (10 7/8 x 13 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.234"
  },
- "material": "Stoneware with localized splashes of natural ash glaze over impressed decoration"
+ "material": "Stoneware with localized splashes of natural ash glaze over impressed decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

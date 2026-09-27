@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "19th century",
  "dimensions": "H. 24.5 x Diam. 21 cm (9 5/8 x 8 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1917.20.A-B"
  },
- "material": "Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue, the cartouches reserved against a cobalt powder blue ground; with underglaze cobalt-blue double circle on the base"
+ "material": "Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue, the cartouches reserved against a cobalt powder blue ground; with underglaze cobalt-blue double circle on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

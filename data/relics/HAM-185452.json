@@ -2,11 +2,11 @@
  "relic_id": "HAM-185452",
  "name": "Lamp with base in the form of a bear",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  201,
+  300
  ],
  "era_text": "1st – 3rd century CE",
  "dimensions": "H. 37.8 x Diam. (top) 16.4 cm (14 7/8 x 6 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.200"
  },
- "material": "Earthenware with green lead glaze"
+ "material": "Earthenware with green lead glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

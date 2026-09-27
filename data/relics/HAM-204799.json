@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -4000,
-  -4000
+  -2000
  ],
  "era_text": "c. 4000 - c. 2000 BCE",
  "dimensions": "Diam. 17.6 x Thickness 0.7 cm (6 15/16 x 1/4 in.)\r\nWeight 311 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.523"
  },
- "material": "Translucent, variegated light and dark green nephrite with light brown areas at opposite arcs"
+ "material": "Translucent, variegated light and dark green nephrite with light brown areas at opposite arcs",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

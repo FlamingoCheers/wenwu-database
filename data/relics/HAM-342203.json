@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1457,
-  1464
+  1368,
+  1644
  ],
  "era_text": "Ming dynasty, perhaps Tianshun period (1457-1464)",
  "dimensions": "H. 33.4 cm (13 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2012.195"
  },
- "material": "Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue"
+ "material": "Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

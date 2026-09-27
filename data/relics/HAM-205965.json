@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1368,
+  1644
  ],
  "era_text": "late 19th-early 20th century",
  "dimensions": "H. 14.2 x W. 18.7 x D. 13.2 cm (5 9/16 x 7 3/8 x 5 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.245"
  },
- "material": "Enameled blue-and-white ware: porcelain with decoration painted in underglaze cobalt-blue and overglaze polychrome enamels"
+ "material": "Enameled blue-and-white ware: porcelain with decoration painted in underglaze cobalt-blue and overglaze polychrome enamels",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

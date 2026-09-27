@@ -2,11 +2,11 @@
  "relic_id": "HAM-146575",
  "name": "Ceramic Sherd from an Undecorated Circular Bowl: Generally trapezoidal fragment including portions of the floor, footring, and side wall",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "7.5 x 6 cm (2 15/16 x 2 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2002.69.2"
  },
- "material": "Ding ware: porcelaneous white stoneware with pale yellow glaze"
+ "material": "Ding ware: porcelaneous white stoneware with pale yellow glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

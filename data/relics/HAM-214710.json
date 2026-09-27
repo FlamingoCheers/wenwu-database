@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "late 19th century",
  "dimensions": "105.5 x 154 cm (41 9/16 x 60 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1960.169.34"
  },
- "material": "Heavy blue satin with gold brocade"
+ "material": "Heavy blue satin with gold brocade",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

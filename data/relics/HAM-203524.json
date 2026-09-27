@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  6,
-  6
+  386,
+  534
  ],
  "era_text": "early 6th century",
  "dimensions": "H. 41.2 x W. 26 x D. 7.5 cm (16 1/4 x 10 1/4 x 2 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.55"
  },
- "material": "Gray limestone with traces of pigment; Longmen style"
+ "material": "Gray limestone with traces of pigment; Longmen style",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

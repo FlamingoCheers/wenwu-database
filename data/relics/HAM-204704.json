@@ -2,11 +2,11 @@
  "relic_id": "HAM-204704",
  "name": "Small Jade Dragon with Bird-Headed Tail",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "5 x 7.1 x 0.5 cm (1 15/16 x 2 13/16 x 3/16 in.)\r\nunspecified: 21 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.435"
  },
  "material": "Light gray-green and opaque grayish brown nephrite with a dull surface finish",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

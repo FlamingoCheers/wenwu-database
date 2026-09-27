@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "mid 18th-early 19th century",
  "dimensions": "7.6 x 12.1 x 3.7 cm (3 x 4 3/4 x 1 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1996.309"
  },
- "material": "Pale, greenish white nephrite with caramel markings"
+ "material": "Pale, greenish white nephrite with caramel markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

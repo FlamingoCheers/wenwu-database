@@ -2,11 +2,11 @@
  "relic_id": "HAM-206163",
  "name": "Paper God: Kitchen God, the \"Arbiter of Fate\" (\"Si Ming Zhu\"), Seated at an Altar Table with Four Attendants",
  "category": "书画",
- "dynasty": "明",
- "dynasty_confidence": "high",
+ "dynasty": "清",
+ "dynasty_confidence": "source",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "35.2 x 21 cm (13 7/8 x 8 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.15"
  },
- "material": "Woodblock print; ink on paper; with printed inscription reading from right to left: \"Si Ming Zhu\" (\"Arbiter of Fate\")."
+ "material": "Woodblock print; ink on paper; with printed inscription reading from right to left: \"Si Ming Zhu\" (\"Arbiter of Fate\").",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-204974",
  "name": "Very Heavy Wedge-Shaped Jade Chisel",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "东周",
+ "dynasty_confidence": "source",
  "year_range": [
   -770,
-  -770
+  -256
  ],
  "era_text": "770 BCE - 221 BCE (?)",
  "dimensions": "29.5 x 10.2 x 3.3 cm (11 5/8 x 4 x 1 5/16 in.)\r\nunspecified: 2256 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.108"
  },
  "material": "Deep brown and dark greenish, fine-grained stone with incipient calcification",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

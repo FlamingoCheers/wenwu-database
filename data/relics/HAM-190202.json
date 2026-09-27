@@ -2,11 +2,11 @@
  "relic_id": "HAM-190202",
  "name": "Sherd: One-Fourth of a Small Circular Bowl with Inclined Sides and Everted Lip, the sherd including portions of the base, footring, sides, and lip",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th cent. - 13th cent.",
  "dimensions": "3.1 x 5.8 x 2.5 cm (1 1/4 x 2 5/16 x 1 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.198.12"
  },
- "material": "Longquan celadon ware: pale gray stoneware with misfired, lustrous, crackled, olive green glaze. From the Longquan kilns in Zhejiang province"
+ "material": "Longquan celadon ware: pale gray stoneware with misfired, lustrous, crackled, olive green glaze. From the Longquan kilns in Zhejiang province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

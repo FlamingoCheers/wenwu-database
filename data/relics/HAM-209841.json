@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  618,
+  907
  ],
  "era_text": "7th century",
  "dimensions": "H. 25.6 x W. 232 cm (10 1/16 x 91 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1924.72"
  },
- "material": "Handscroll; ink on paper."
+ "material": "Handscroll; ink on paper.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

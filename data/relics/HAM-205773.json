@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "probably 15th century",
  "dimensions": "max.: H. 10.6 × Diam. 15.2 cm (4 3/16 × 6 in.)\r\nbase: Diam. 10.1 cm (4 in.)\r\nweight: 1605.2 g\r\n",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.59.A"
  },
- "material": "Numbered Jun ware: light gray stoneware with variegated purple and blue glaze; metal fitting on rim"
+ "material": "Numbered Jun ware: light gray stoneware with variegated purple and blue glaze; metal fitting on rim",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

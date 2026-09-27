@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "17th-19th century",
  "dimensions": "H. 8.5 x Diam. 9.9 cm (3 3/8 x 3 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.274"
  },
- "material": "Enameled blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue and overglaze red enamel; with spurious underglaze cobalt-blue mark reading \"Da Ming Xuandenian zhi\" on the floor"
+ "material": "Enameled blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue and overglaze red enamel; with spurious underglaze cobalt-blue mark reading \"Da Ming Xuandenian zhi\" on the floor",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

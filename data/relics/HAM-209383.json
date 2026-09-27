@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "16th-17th Century",
  "dimensions": "261.62 x 74.93 cm (103 x 29 1/2 in.)\r\n780 lb.",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1926.10.3"
  },
- "material": "Mural"
+ "material": "Mural",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-204876",
  "name": "Jade Winged Oval Cup (Erbei), one of a pair",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -206,
+  9
  ],
  "era_text": "3rd-1st century BCE",
  "dimensions": "L. 13.5 x W. 9.6 x Thickness 0.3 cm (5 5/16 x 3 3/4 x 1/8 in.)\r\nWeight 252 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.634.B"
  },
- "material": "Olive and grayish green translucent nephrite with deep brown and green patches"
+ "material": "Olive and grayish green translucent nephrite with deep brown and green patches",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-204038",
  "name": "Winged Cup (Erbei)",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  201,
+  300
  ],
  "era_text": "1st-3rd century CE",
  "dimensions": "H. 5.3 x W. 16 x D. 12.5 cm (2 1/16 x 6 5/16 x 4 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.55.15"
  },
- "material": "Lead-glazed funerary ware: molded brick-red earthenware with degraded lead-fluxed emerald-green glaze"
+ "material": "Lead-glazed funerary ware: molded brick-red earthenware with degraded lead-fluxed emerald-green glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

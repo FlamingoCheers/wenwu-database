@@ -4,7 +4,10 @@
  "category": "书画",
  "dynasty": "明",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1368,
+  1644
+ ],
  "era_text": null,
  "dimensions": "painting proper: H. 35.7 cm (14 1/16 in.)\r\nwith mounting: H. 37.8 cm (14 7/8 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Handscroll; ink and color on paper",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.829"
  },
- "material": "Handscroll; ink and color on paper"
+ "material": "Handscroll; ink and color on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

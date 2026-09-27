@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "late 15th-early 16th century",
  "dimensions": "painting proper: H. 152.4 × W. 107.5 cm (60 × 42 5/16 in.)\r\noverall mounting, including roller ends and suspension cord: H. 258.8 × W. 136 cm (101 7/8 × 53 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1931.114"
  },
- "material": "Hanging scroll; ink and slight color on silk"
+ "material": "Hanging scroll; ink and slight color on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

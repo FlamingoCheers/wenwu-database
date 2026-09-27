@@ -2,11 +2,11 @@
  "relic_id": "HAM-205541",
  "name": "Ovoid Bottle with Everted Lip and Russet Glaze",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "probably 11th century",
  "dimensions": "20.9 x 17.5 cm (8 1/4 x 6 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.400"
  },
- "material": "Northern russet ware of Cizhou type: light gray stoneware with russet-surfaced dark brown glaze"
+ "material": "Northern russet ware of Cizhou type: light gray stoneware with russet-surfaced dark brown glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

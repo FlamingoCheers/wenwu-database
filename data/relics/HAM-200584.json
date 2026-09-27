@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th-15th century BCE",
  "dimensions": "H. 18.6 x L. 16.6 x W. 6.8 cm (7 5/16 x 6 9/16 x 2 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1995.25"
  },
- "material": "Cast bronze; Zhengzhou phase, Erligang type"
+ "material": "Cast bronze; Zhengzhou phase, Erligang type",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

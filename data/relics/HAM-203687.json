@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "15th cent. - 17th cent.",
  "dimensions": "max.: H. 8.7 × W. 4.3 × D. 3.4 cm (3 7/16 × 1 11/16 × 1 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1950.125.47.H"
  },
- "material": "Carved rhinoceros horn"
+ "material": "Carved rhinoceros horn",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-203593",
  "name": "Long-Necked \"Hu\" Storage Jar with Ring-Mask Handle Decor",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  101,
+  200
  ],
  "era_text": "1st-2nd century CE",
  "dimensions": "H. 29 x Diam. 25 cm (11 7/16 x 9 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1956.118"
  },
- "material": "Lead-glazed funerary ware: molded brick-red earthenware with degraded lead-fluxed, emerald-green glaze"
+ "material": "Lead-glazed funerary ware: molded brick-red earthenware with degraded lead-fluxed, emerald-green glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

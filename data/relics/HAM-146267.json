@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  618,
+  907
  ],
  "era_text": "7th century",
  "dimensions": "43 x 12.5 x 14 cm (16 15/16 x 4 15/16 x 5 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2003.210"
  },
- "material": "Lead-glazed ware: molded, white earthenware with straw-yellow, lead-fluxed glaze and with cold-painted pigments over the glaze; the striped trousers and the top of the hat unglazed with cold-painted pigments on the exposed body clay"
+ "material": "Lead-glazed ware: molded, white earthenware with straw-yellow, lead-fluxed glaze and with cold-painted pigments over the glaze; the striped trousers and the top of the hat unglazed with cold-painted pigments on the exposed body clay",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

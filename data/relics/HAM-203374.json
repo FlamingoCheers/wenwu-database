@@ -2,11 +2,11 @@
  "relic_id": "HAM-203374",
  "name": "Bronze-Form Tripod \"Ding\" Vessel with Cover",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  101,
+  200
  ],
  "era_text": "1st-2nd century CE",
  "dimensions": "H. 17 x W. 22.6 cm (6 11/16 x 8 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1956.93.A-B"
  },
- "material": "Lead-glazed funerary ware: molded brick-red earthenware with degraded lead-fluxed emerald-green glaze; the cover with molded decoration"
+ "material": "Lead-glazed funerary ware: molded brick-red earthenware with degraded lead-fluxed emerald-green glaze; the cover with molded decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

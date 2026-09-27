@@ -2,11 +2,11 @@
  "relic_id": "HAM-185035",
  "name": "Lobed Bowl with Cusped Mouth and Decoration of a Blossoming Branch",
  "category": "青铜器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  10,
-  10
+  960,
+  1127
  ],
  "era_text": "late 10th century - first half 11th century",
  "dimensions": "H. 6.5 x Diam. 21.7 cm (2 9/16 x 8 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.230.8"
  },
- "material": "Hammered silver with chased decoration and parcel gilding"
+ "material": "Hammered silver with chased decoration and parcel gilding",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

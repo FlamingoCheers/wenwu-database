@@ -4,7 +4,10 @@
  "category": "玉器",
  "dynasty": "清",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1644,
+  1911
+ ],
  "era_text": null,
  "dimensions": "27.94 x 9.53 cm (11 x 3 3/4 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Nephrite",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1941.160"
  },
- "material": "Nephrite"
+ "material": "Nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

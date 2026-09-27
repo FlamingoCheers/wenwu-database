@@ -2,11 +2,11 @@
  "relic_id": "HAM-200901",
  "name": "Conical Bowl with Tortoiseshell Glaze",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "late 13th-14th century",
  "dimensions": "5.1 x 15.1 cm (2 x 5 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1994.125"
  },
- "material": "Jizhou ware: light gray stoneware with dark brown glaze suffused with buff markings. From the Jizhou kilns, near Yonghe, Ji'an, Jiangxi province."
+ "material": "Jizhou ware: light gray stoneware with dark brown glaze suffused with buff markings. From the Jizhou kilns, near Yonghe, Ji'an, Jiangxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th cent. BCE - 10th cent. BCE",
  "dimensions": "41.8 x 10.4 x 1 cm (16 7/16 x 4 1/8 x 3/8 in.)\r\nunspecified: 549 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.55"
  },
- "material": "Opaque stone, mottled bluish gray and whitish, with adherences of soil"
+ "material": "Opaque stone, mottled bluish gray and whitish, with adherences of soil",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

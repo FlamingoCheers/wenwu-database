@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "late 17th or 19th century",
  "dimensions": "H. 47.3 cm (18 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1960.114"
  },
- "material": "Enameled porcelain, \"famille noir\" type: porcelain with overglaze polychrome enamels; with underglaze cobalt-blue hallmark of an artemisia leaf with a ribbon"
+ "material": "Enameled porcelain, \"famille noir\" type: porcelain with overglaze polychrome enamels; with underglaze cobalt-blue hallmark of an artemisia leaf with a ribbon",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

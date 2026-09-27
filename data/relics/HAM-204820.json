@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3300,
-  -3300
+  -2200
  ],
  "era_text": "c. 3300 BCE - c. 2000 BCE",
  "dimensions": "Max. H. 2.5 x Diam. 8.5 x Thickness of Ring 1.5 cm (1 x 3 3/8 x 9/16 in.)\r\n168 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.489"
  },
- "material": "Yellow and amber-colored stone with dark brown veins"
+ "material": "Yellow and amber-colored stone with dark brown veins",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

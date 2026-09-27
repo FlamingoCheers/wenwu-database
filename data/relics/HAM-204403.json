@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "probably 18th century",
  "dimensions": "H. 17.5 cm (6 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.105"
  },
- "material": "Dehua ware (so-called \"Blanc de Chine\"): molded porcelain with clear glaze; with incised mark reading \"He Chun\" on the base"
+ "material": "Dehua ware (so-called \"Blanc de Chine\"): molded porcelain with clear glaze; with incised mark reading \"He Chun\" on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

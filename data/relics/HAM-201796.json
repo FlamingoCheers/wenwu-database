@@ -2,11 +2,11 @@
  "relic_id": "HAM-201796",
  "name": "Green Glass Bracelet",
  "category": "玻璃器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -5,
-  -5
+  -475,
+  -221
  ],
  "era_text": "5th-1st century BCE",
  "dimensions": "Diam. 6.9 cm (2 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1991.256"
  },
- "material": "Clear emerald-green glass"
+ "material": "Clear emerald-green glass",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

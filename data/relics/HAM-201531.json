@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3300,
-  -3300
+  -2200
  ],
  "era_text": "c. 3300 BCE - c. 2000 BCE",
  "dimensions": "17.2 x 16.5 x 20.1 cm (6 3/4 x 6 1/2 x 7 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.160"
  },
- "material": "Buff earthenware with molded and incised decorative elements"
+ "material": "Buff earthenware with molded and incised decorative elements",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

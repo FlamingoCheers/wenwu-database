@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -14,
-  -14
+  -1600,
+  -1050
  ],
  "era_text": "14th-11th century BCE",
  "dimensions": "H. with handle 21.9 x W. 14.6 x D. 12.7 cm (8 5/8 x 5 3/4 x 5 in.)\r\nWeight 1791.69 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.89"
  },
- "material": "Cast bronze with gray-green patina; with an inscription cast on both the vessel floor and lid interior"
+ "material": "Cast bronze with gray-green patina; with an inscription cast on both the vessel floor and lid interior",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

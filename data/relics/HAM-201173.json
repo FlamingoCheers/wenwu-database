@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1859,
-  1859
+  1644,
+  1911
  ],
  "era_text": "1859",
  "dimensions": "16.6 x 22.1 cm (6 9/16 x 8 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.381.5"
  },
- "material": "One leaf from an album of eleven (originally twelve) leaves; ink and color on paper; with signature of the artist reading 'Zixiang'"
+ "material": "One leaf from an album of eleven (originally twelve) leaves; ink and color on paper; with signature of the artist reading 'Zixiang'",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

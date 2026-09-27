@@ -2,11 +2,11 @@
  "relic_id": "HAM-195600",
  "name": "Pedestaled 'Dou'-Shaped Vessel with Openwork Cover, Perhaps a Censer",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
   -206,
-  -206
+  9
  ],
  "era_text": "206 BCE - 9 CE",
  "dimensions": "H. 17.4 x Diam. 17.1 cm (6 7/8 x 6 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1996.109.A-B"
  },
- "material": "Molded light gray earthenware with incised, stamped, and gouged decoration"
+ "material": "Molded light gray earthenware with incised, stamped, and gouged decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

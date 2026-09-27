@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1546,
-  1546
+  1368,
+  1644
  ],
  "era_text": "1546",
  "dimensions": "painting: H. 24.5 x W. 320.3 cm (9 5/8 x 126 1/8 in.)\r\nmounting: H. 25.4 cm (10 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2010.610"
  },
- "material": "Handscroll; ink and colors on paper; with signature reading \"Changzhou Wen Zhengming\", and with two seals of the artist reading \"Zheng\" and \"Ming\" \r\n"
+ "material": "Handscroll; ink and colors on paper; with signature reading \"Changzhou Wen Zhengming\", and with two seals of the artist reading \"Zheng\" and \"Ming\" \r\n",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

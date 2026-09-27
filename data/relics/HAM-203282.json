@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "16th-17th century",
  "dimensions": "H. 19.7 cm (7 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1956.96"
  },
- "material": "Cizhou ware: light gray stoneware with underglaze decoration painted in dark brown slip on a white-slip ground"
+ "material": "Cizhou ware: light gray stoneware with underglaze decoration painted in dark brown slip on a white-slip ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

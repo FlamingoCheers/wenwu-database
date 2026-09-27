@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "probably 15th century",
  "dimensions": "38.5 x 43 cm (15 3/16 x 16 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2005.122"
  },
- "material": "Silk brocade: rust red silk ground of dyed yarns in tabby weave, the ground interwoven in brocade weave with flat strips of double-layered paper faced with gold leaf"
+ "material": "Silk brocade: rust red silk ground of dyed yarns in tabby weave, the ground interwoven in brocade weave with flat strips of double-layered paper faced with gold leaf",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

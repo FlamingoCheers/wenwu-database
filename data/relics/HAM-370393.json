@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1661,
-  1722
+  1644,
+  1911
  ],
  "era_text": "Possibly late 17th–early 18th century, Kangxi era (1661–1722)",
  "dimensions": "H. 13.3 × W. 11.4 cm (5 1/4 × 4 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2021.217"
  },
- "material": "Blue-and-white ware: porcelain with decoration reserved against a cobalt-blue ground; with underglaze cobalt-blue double circle on the base of vessel\r\n"
+ "material": "Blue-and-white ware: porcelain with decoration reserved against a cobalt-blue ground; with underglaze cobalt-blue double circle on the base of vessel\r\n",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

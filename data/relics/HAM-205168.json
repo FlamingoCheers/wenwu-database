@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -14,
-  -14
+  -1600,
+  -1050
  ],
  "era_text": "14th-11th century BCE",
  "dimensions": "H. 6.4 x W. 5.5 x Thickness 0.9 cm (2 1/2 x 2 3/16 x 3/8 in.)\r\nWeight 67 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.128"
  },
- "material": "Mottled greenish and light brown nephrite, with red stains on one side"
+ "material": "Mottled greenish and light brown nephrite, with red stains on one side",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

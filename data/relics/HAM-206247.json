@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: 30.6 x 28.2 cm (12 1/16 x 11 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.47"
  },
- "material": "Woodblock print; ink and color on paper; with printed inscription on the scroll reading: \"Shang Shan Fa E\" (\"Reward Benevolence and Punish Evil\"), and printed shop inscription \"Xie Li\" (probably the print shop name), and \"Ling Yi\" (alternative name for Lingbao). Probably from Lingbao, Henan."
+ "material": "Woodblock print; ink and color on paper; with printed inscription on the scroll reading: \"Shang Shan Fa E\" (\"Reward Benevolence and Punish Evil\"), and printed shop inscription \"Xie Li\" (probably the print shop name), and \"Ling Yi\" (alternative name for Lingbao). Probably from Lingbao, Henan.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

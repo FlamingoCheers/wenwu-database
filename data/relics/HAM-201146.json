@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1561,
-  1561
+  1368,
+  1644
  ],
  "era_text": "1561",
  "dimensions": "17.3 x 48.8 cm (6 13/16 x 19 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.772"
  },
- "material": "Folding fan mounted as an album leaf; ink on gold-dusted paper and with signature reading 'Wen Jia'"
+ "material": "Folding fan mounted as an album leaf; ink on gold-dusted paper and with signature reading 'Wen Jia'",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-192947",
  "name": "Large globular jar (weng)",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
   -206,
-  -206
+  9
  ],
  "era_text": "206 BCE-9 CE",
  "dimensions": "H. 51.1 x Diam. 56.5 cm (20 1/8 x 22 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.183"
  },
- "material": "Gray earthenware"
+ "material": "Gray earthenware",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

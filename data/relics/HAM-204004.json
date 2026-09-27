@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  484,
-  484
+  386,
+  534
  ],
  "era_text": "dated 484",
  "dimensions": "H. 37.0 x W. 16.0 x D. 11.5 cm (14 9/16 x 6 5/16 x 4 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.59"
  },
- "material": "Gilt bronze"
+ "material": "Gilt bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

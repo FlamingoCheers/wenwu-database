@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th cent. BCE - 11th cent. BCE",
  "dimensions": "26 x 7 x 0.7 cm (10 1/4 x 2 3/4 x 1/4 in.)\r\nunspecified: 192 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.65"
  },
- "material": "Mottled light brown stone with fine dark veins; traces of cinnabar on the surface"
+ "material": "Mottled light brown stone with fine dark veins; traces of cinnabar on the surface",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

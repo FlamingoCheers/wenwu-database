@@ -5,8 +5,8 @@
  "dynasty": "汉",
  "dynasty_confidence": "high",
  "year_range": [
-  -2,
-  -2
+  -206,
+  220
  ],
  "era_text": "2nd century BCE-3rd century CE",
  "dimensions": "H. 29 x W. 29 x Diam. 25.5 cm (11 7/16 x 11 7/16 x 10 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.157"
  },
- "material": "Burnished gray earthenware"
+ "material": "Burnished gray earthenware",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

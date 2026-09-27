@@ -2,11 +2,11 @@
  "relic_id": "HAM-204586",
  "name": "Jade Pommel of a Sword",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -475,
+  -221
  ],
  "era_text": "3rd cent. BCE - 1st cent. BCE",
  "dimensions": "0.6 x 4.8 cm (1/4 x 1 7/8 in.)\r\nunspecified: 20 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.575"
  },
- "material": "Pale brownish green and bone-colored stone of medium translucency"
+ "material": "Pale brownish green and bone-colored stone of medium translucency",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

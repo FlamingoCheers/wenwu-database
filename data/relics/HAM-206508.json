@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -2650,
-  -2650
+  -2350
  ],
  "era_text": "Majiayao cutlure, Banshan phase, 2650 BCE - 2350 BCE",
  "dimensions": "H. 25 x Diam. 16.5 cm (9 13/16 x 6 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1931.15"
  },
- "material": "Buff earthenware with decoration painted in black and burgundy slips.  Upper Yellow River Valley area; Gansu, Qinghai, or Ningxia province."
+ "material": "Buff earthenware with decoration painted in black and burgundy slips.  Upper Yellow River Valley area; Gansu, Qinghai, or Ningxia province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-202238",
  "name": "Ewer with Dished Mouth, Long Spout, Double-Strand Handle, and Stylized Floral Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1977.18"
  },
- "material": "Yue ware: light gray stoneware with celadon glaze over incised, carved, and applique decoration. From the Yue kilns at Shanglinhu, Zhejiang province."
+ "material": "Yue ware: light gray stoneware with celadon glaze over incised, carved, and applique decoration. From the Yue kilns at Shanglinhu, Zhejiang province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

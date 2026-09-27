@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -12,
-  -12
+  -1600,
+  -1050
  ],
  "era_text": "12th-11th century BCE",
  "dimensions": "H. 8.7 x W. 2.4 cm (3 7/16 x 15/16 in.)\r\nWeight 67 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.321"
  },
- "material": "Calcified, grayish white nephrite, originally greenish in color"
+ "material": "Calcified, grayish white nephrite, originally greenish in color",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

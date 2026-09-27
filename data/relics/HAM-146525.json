@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   550,
-  618
+  577
  ],
  "era_text": "550 - 618",
  "dimensions": "H. 43 x W. 16.5 x D. 24 cm (16 15/16 x 6 1/2 x 9 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2003.195"
  },
- "material": "Lead-glazed ware: molded, buff earthenware with medium-green, lead-fluxed glaze; cold-painted pigments over localized unglazed areas"
+ "material": "Lead-glazed ware: molded, buff earthenware with medium-green, lead-fluxed glaze; cold-painted pigments over localized unglazed areas",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

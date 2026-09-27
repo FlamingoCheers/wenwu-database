@@ -5,8 +5,8 @@
  "dynasty": "元",
  "dynasty_confidence": "high",
  "year_range": [
-  13,
-  13
+  1279,
+  1368
  ],
  "era_text": "13th-15th century",
  "dimensions": "19.4 x 19.4 x 17.1 cm (7 5/8 x 7 5/8 x 6 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1987.16"
  },
- "material": "Light gray stoneware with incised and molded decoration, the roof covered with a grayish-green celadon glaze"
+ "material": "Light gray stoneware with incised and molded decoration, the roof covered with a grayish-green celadon glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

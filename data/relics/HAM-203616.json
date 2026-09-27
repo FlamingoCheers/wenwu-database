@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "first half 8th century",
  "dimensions": "27 x 7.5 cm (10 5/8 x 2 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1951.18.1"
  },
- "material": "Sancai (\"three-color\") ware: molded white earthenware with lead-fluxed cobalt-blue glaze, the unglazed portions with traces of cold-painted pigments"
+ "material": "Sancai (\"three-color\") ware: molded white earthenware with lead-fluxed cobalt-blue glaze, the unglazed portions with traces of cold-painted pigments",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

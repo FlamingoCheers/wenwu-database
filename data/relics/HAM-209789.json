@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th century",
  "dimensions": "H. 47.6 x W. 23.3 cm (18 3/4 x 9 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.171"
  },
- "material": "Hanging scroll mounted as an album leaf; ink on gold-surfaced paper; with signature reading \"Wang Yuanqi\" and seal reading \"Wang Yuan Qi Yin\""
+ "material": "Hanging scroll mounted as an album leaf; ink on gold-surfaced paper; with signature reading \"Wang Yuanqi\" and seal reading \"Wang Yuan Qi Yin\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

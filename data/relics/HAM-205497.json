@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1522,
-  1566
+  1368,
+  1644
  ],
  "era_text": "Jiajing period, 1522-1566",
  "dimensions": "W. 17.8 x D. 17.8 cm (7 x 7 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.171"
  },
- "material": "Enameled porcelain: porcelain with decoration painted in overglaze red, green and yellow enamels; with underglaze cobalt-blue mark reading \"Da Ming Jiajing nian zhi\" on the base"
+ "material": "Enameled porcelain: porcelain with decoration painted in overglaze red, green and yellow enamels; with underglaze cobalt-blue mark reading \"Da Ming Jiajing nian zhi\" on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

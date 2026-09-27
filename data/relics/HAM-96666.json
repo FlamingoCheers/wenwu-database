@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1679,
-  1679
+  1644,
+  1911
  ],
  "era_text": "1679",
  "dimensions": "28.58 x 17.15 cm (11 1/4 x 6 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.288"
  },
- "material": "Five volumes of woodblock printed books; ink and color on paper"
+ "material": "Five volumes of woodblock printed books; ink and color on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

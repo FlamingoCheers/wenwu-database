@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: 29.9 x 24.9 cm (11 3/4 x 9 13/16 in.)\r\nmat: 45.72 x 35.56 cm (18 x 14 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.94"
  },
- "material": "Woodblock print; ink and color on paper; with printed inscription titled \"Cang Shen Gong\" (\"Palace of the Barn God\") and couplets from right to left reading \"Nian Nian Qu Bu Jin; Yue Yue Yong You Yu\" (\"Affluent Harvests Year after Year; Abundant Produce Month after Month\"). Probably from Xi'an, Shaanxi; compare with 1935.37.51."
+ "material": "Woodblock print; ink and color on paper; with printed inscription titled \"Cang Shen Gong\" (\"Palace of the Barn God\") and couplets from right to left reading \"Nian Nian Qu Bu Jin; Yue Yue Yong You Yu\" (\"Affluent Harvests Year after Year; Abundant Produce Month after Month\"). Probably from Xi'an, Shaanxi; compare with 1935.37.51.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

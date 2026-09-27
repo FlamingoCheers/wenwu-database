@@ -2,11 +2,11 @@
  "relic_id": "HAM-201849",
  "name": "Censer in the Form of an Archaic Bronze 'Li Ding' Tripod Vessel",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "mid 12th-13th century",
  "dimensions": "H. 13.4 x Diam. 18 cm (5 1/4 x 7 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1997.122"
  },
- "material": "Longquan celadon ware: fine grained, light gray stoneware with celadon glaze over molded decoration. From the Longquan kilns at Longquan, Zhejiang province."
+ "material": "Longquan celadon ware: fine grained, light gray stoneware with celadon glaze over molded decoration. From the Longquan kilns at Longquan, Zhejiang province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

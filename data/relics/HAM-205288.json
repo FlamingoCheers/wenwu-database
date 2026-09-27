@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -2500,
-  -2500
+  -2000
  ],
  "era_text": "Longshan culture (?), c. 2500 BCE - c. 2000 BCE",
  "dimensions": "18.1 x 4.9 x 0.2 cm (7 1/8 x 1 15/16 x 1/16 in.)\r\nunspecified: 32 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.69"
  },
- "material": "Deep black stone"
+ "material": "Deep black stone",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-174441",
  "name": "Sherd: Rectangular Fragment from the Shoulder and Wall of a Large Jar",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "mid 11th cent. - early 12th cent.",
  "dimensions": "6.2 x 7.1 cm (2 7/16 x 2 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.360.11"
  },
- "material": "Possibly Ru ware: light gray stoneware body with bluish celadon glaze. Possibly from the Ru kilns, Henan province"
+ "material": "Possibly Ru ware: light gray stoneware body with bluish celadon glaze. Possibly from the Ru kilns, Henan province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

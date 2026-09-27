@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1840,
-  1840
+  1644,
+  1911
  ],
  "era_text": "dated 1840",
  "dimensions": "H. 30.2 x W. 154.3 cm (11 7/8 x 60 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.162"
  },
- "material": "Handscroll; ink and light color on paper, with signature reading \"Guyuan Huang Jun\""
+ "material": "Handscroll; ink and light color on paper, with signature reading \"Guyuan Huang Jun\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

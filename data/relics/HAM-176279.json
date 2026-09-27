@@ -2,11 +2,11 @@
  "relic_id": "HAM-176279",
  "name": "Sherd: Triangular Fragment from a Small Circular Bowl",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th cent. - 14th cent.",
  "dimensions": "7.2 x 8.5 cm (2 13/16 x 3 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.262.7"
  },
- "material": "Longquan celadon ware: near white body with cloudy celadon glaze and characteristic orange skin on the exposed body clay at the foot ring. From the Longquan kilns, Zhejiang province"
+ "material": "Longquan celadon ware: near white body with cloudy celadon glaze and characteristic orange skin on the exposed body clay at the foot ring. From the Longquan kilns, Zhejiang province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

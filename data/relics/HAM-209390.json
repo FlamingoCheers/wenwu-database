@@ -5,8 +5,8 @@
  "dynasty": "宋",
  "dynasty_confidence": "high",
  "year_range": [
-  10,
-  10
+  960,
+  1279
  ],
  "era_text": "10th-13th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1926.10.2"
  },
- "material": "Fragment of a wall painting"
+ "material": "Fragment of a wall painting",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

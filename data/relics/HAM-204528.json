@@ -5,7 +5,7 @@
  "dynasty": "新石器时代",
  "dynasty_confidence": "high",
  "year_range": [
-  -2500,
+  -3300,
   -2200
  ],
  "era_text": "2500–2200 BCE",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.510"
  },
- "material": "Mottled black and light gray nephrite"
+ "material": "Mottled black and light gray nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

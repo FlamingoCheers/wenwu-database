@@ -2,11 +2,11 @@
  "relic_id": "HAM-205188",
  "name": "Large Tea Bowl with Indented Lip and Decoration of Plum Blossom and Three Phoenixes in Flight",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th-14th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.409"
  },
- "material": "Jizhou ware: light gray stoneware with tortoiseshell glaze on the exterior, and with papercut decoration reserved in dark brown glaze against a variegated buff ground on the interior.  From the kilns at Yonghe, Ji'an, Jiangxi province."
+ "material": "Jizhou ware: light gray stoneware with tortoiseshell glaze on the exterior, and with papercut decoration reserved in dark brown glaze against a variegated buff ground on the interior.  From the kilns at Yonghe, Ji'an, Jiangxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1595,
-  1595
+  1368,
+  1644
  ],
  "era_text": "1595",
  "dimensions": "9.84 x 20.32 cm (3 7/8 x 8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1983.58"
  },
- "material": "Lacquer, brown with red underlayer."
+ "material": "Lacquer, brown with red underlayer.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

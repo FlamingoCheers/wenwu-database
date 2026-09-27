@@ -2,11 +2,11 @@
  "relic_id": "HAM-206089",
  "name": "Pantheon of Gods: \"Tian Di Shui Fu San Yuan San Pin San Guan Da Di\" (\"Three Officials of the Heaven, the Earth, and the Water\")",
  "category": "书画",
- "dynasty": "元",
- "dynasty_confidence": "high",
+ "dynasty": "清",
+ "dynasty_confidence": "source",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: 32.1 x 18.3 cm (12 5/8 x 7 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.80"
  },
- "material": "Woodblock print; ink and color on paper; with printed inscription on the gate reading: \"San Guan Tang\" (\"Hall of the Three Offcials\"), and a couplet reading from right to left: \"Chen Hun San Kou Shou; Zao Wan Yi Lu Xiang\" (\"Three Kowtows Every Dawn and Dusk; One Burner of Incense Every Morning and Evening\"). Probably from Jiajiang, Sichuan."
+ "material": "Woodblock print; ink and color on paper; with printed inscription on the gate reading: \"San Guan Tang\" (\"Hall of the Three Offcials\"), and a couplet reading from right to left: \"Chen Hun San Kou Shou; Zao Wan Yi Lu Xiang\" (\"Three Kowtows Every Dawn and Dusk; One Burner of Incense Every Morning and Evening\"). Probably from Jiajiang, Sichuan.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

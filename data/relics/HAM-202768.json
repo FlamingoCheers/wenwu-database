@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1689,
-  1689
+  1644,
+  1911
  ],
  "era_text": "1689",
  "dimensions": "painting proper: H. 73.6 x W. 45.1 cm (29 x 17 3/4 in.)\r\nmounting, including cord and roller ends: H. 209.6 x W. 65.4 cm (82 1/2 x 25 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1964.94"
  },
- "material": "Hanging scroll: ink on paper; with signature reading \"Bada Shanren\""
+ "material": "Hanging scroll: ink on paper; with signature reading \"Bada Shanren\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

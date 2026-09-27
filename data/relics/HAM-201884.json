@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -1600,
-  -1300
+  -1050
  ],
  "era_text": "1600-1300 BCE",
  "dimensions": "H. 13.7 x Diam. 16.5 cm (5 3/8 x 6 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1982.21"
  },
- "material": "Gray earthenware with cord-impressed decoration"
+ "material": "Gray earthenware with cord-impressed decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

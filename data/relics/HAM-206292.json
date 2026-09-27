@@ -2,11 +2,11 @@
  "relic_id": "HAM-206292",
  "name": "Seven Beads, reportedly from Jincun, near Luoyang, Henan province",
  "category": "玻璃器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -5,
-  -5
+  -475,
+  -221
  ],
  "era_text": "5th-3rd century BCE",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1936.127"
  },
- "material": "Glass"
+ "material": "Glass",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

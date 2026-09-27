@@ -2,11 +2,11 @@
  "relic_id": "HAM-210373",
  "name": "Small Circular Dish",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  960,
+  1127
  ],
  "era_text": "12th-13th century",
  "dimensions": "H. 1.9 x Diam. 8.9 cm (3/4 x 3 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1919.196"
  },
- "material": "Ding-type ware: porcelaneous white stoneware with ivory-hued glaze; with brush-written inscription on base"
+ "material": "Ding-type ware: porcelaneous white stoneware with ivory-hued glaze; with brush-written inscription on base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

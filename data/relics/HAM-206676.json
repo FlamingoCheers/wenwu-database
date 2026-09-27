@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "39.2 x 40 cm (15 7/16 x 15 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.36.88"
  },
- "material": "Woodblock print; ink on paper; with printed inscription reading from right to left \"(vaguely) Hu Fa Wei Tuo Zun Tian\" (\"Buddhist Guardian Wei Tuo Who Protects the Dharma\"). Probably from Beijing."
+ "material": "Woodblock print; ink on paper; with printed inscription reading from right to left \"(vaguely) Hu Fa Wei Tuo Zun Tian\" (\"Buddhist Guardian Wei Tuo Who Protects the Dharma\"). Probably from Beijing.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

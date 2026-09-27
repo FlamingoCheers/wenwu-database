@@ -2,11 +2,11 @@
  "relic_id": "HAM-204040",
  "name": "Jade Scabbard Buckle",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
   -206,
-  -206
+  9
  ],
  "era_text": "206 BCE - 9 CE",
  "dimensions": "5.9 x 1.9 cm (2 5/16 x 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.128"
  },
- "material": "Light green and whitish nephrite buckle attached to a wooden scabbard fragment"
+ "material": "Light green and whitish nephrite buckle attached to a wooden scabbard fragment",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

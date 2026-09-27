@@ -2,11 +2,11 @@
  "relic_id": "HAM-204416",
  "name": "Jade Sword Guard (attached to a fragment of an iron blade)",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
   -206,
-  -206
+  9
  ],
  "era_text": "206 BCE - 9 CE",
  "dimensions": "H. 1.7 x W. 5.8 cm (11/16 x 2 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.127"
  },
- "material": "Pale green nephrite mounted on the fragment of a tanged, iron blade"
+ "material": "Pale green nephrite mounted on the fragment of a tanged, iron blade",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

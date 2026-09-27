@@ -2,11 +2,11 @@
  "relic_id": "HAM-195548",
  "name": "Tea Bowl with Indented Lip and Russet Hare's Fur Markings",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "6.3 x 12.1 cm (2 1/2 x 4 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1997.127"
  },
- "material": "Jian ware: dark gray stoneware with dark brown glaze enlivened with markings in overglaze iron-brown slip. From the kilns at Shuiji, Jianyang county, Fujian province."
+ "material": "Jian ware: dark gray stoneware with dark brown glaze enlivened with markings in overglaze iron-brown slip. From the kilns at Shuiji, Jianyang county, Fujian province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

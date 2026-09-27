@@ -5,8 +5,8 @@
  "dynasty": "汉",
  "dynasty_confidence": "high",
  "year_range": [
-  -1,
-  -1
+  -206,
+  220
  ],
  "era_text": "1st century BCE-1st century CE",
  "dimensions": "H. 43.3 x Diam. 37.2 cm (17 1/16 x 14 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.209"
  },
- "material": "Proto-porcelain ware: stoneware with natural ash glaze"
+ "material": "Proto-porcelain ware: stoneware with natural ash glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

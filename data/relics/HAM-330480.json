@@ -2,11 +2,11 @@
  "relic_id": "HAM-330480",
  "name": "Rubbing from a Stone Carving of a Luo Ping (1733-1799) Painting of Monks Hanshan and Shide",
  "category": "书画",
- "dynasty": "唐",
- "dynasty_confidence": "medium",
+ "dynasty": "现当代",
+ "dynasty_confidence": "source",
  "year_range": [
-  20,
-  20
+  1901,
+  2000
  ],
  "era_text": "20th century",
  "dimensions": "rubbing: 128.6 x 64.7 cm (50 5/8 x 25 1/2 in.)\r\nmounting, including cord and roller ends: 217.2 x 85.1 cm (85 1/2 x 33 1/2 in.)",
@@ -28,5 +28,5 @@
   "inventory_no": "2018.360"
  },
  "material": "Rubbing mounted as a hanging scroll; ink on paper",
- "updated_at": "2026-09-26T21:49:07"
+ "updated_at": "2026-09-27"
 }

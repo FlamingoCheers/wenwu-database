@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1666,
-  1666
+  1644,
+  1911
  ],
  "era_text": "dated to 1666 (bingwu year), Kangxi period",
  "dimensions": "H. (at center) 17.8 x W. 52.7 cm (7 x 20 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1952.28"
  },
- "material": "Folding-fan painting mounted as an album leaf; ink and color on gold-surfaced paper; with signature reading \"Jin Junming\""
+ "material": "Folding-fan painting mounted as an album leaf; ink and color on gold-surfaced paper; with signature reading \"Jin Junming\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

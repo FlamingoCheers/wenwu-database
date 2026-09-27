@@ -5,8 +5,8 @@
  "dynasty": "宋",
  "dynasty_confidence": "high",
  "year_range": [
-  12,
-  12
+  960,
+  1279
  ],
  "era_text": "12th cent. - 13th cent.",
  "dimensions": "2.3 x 4.2 x 6.6 cm (7/8 x 1 5/8 x 2 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.27.4"
  },
- "material": "Longquan celadon ware: pale gray stoneware body with a lustrous, bluish green celadon glaze. From the Longquan kilns in Zhejiang province"
+ "material": "Longquan celadon ware: pale gray stoneware body with a lustrous, bluish green celadon glaze. From the Longquan kilns in Zhejiang province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

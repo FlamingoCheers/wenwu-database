@@ -2,11 +2,11 @@
  "relic_id": "HAM-174440",
  "name": "Sherd: Fragment from the Base of a Circular Vase or Bottle with Decoration of Raised Vertical Lines",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th cent. - 12th cent.",
  "dimensions": "3.2 x 4.9 x 6.1 cm (1 1/4 x 1 15/16 x 2 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.360.10"
  },
- "material": "Probably Ru ware: light gray stoneware body with pale bluish celadon glaze over carved decoration. Probably from the Ru kilns, Henan province"
+ "material": "Probably Ru ware: light gray stoneware body with pale bluish celadon glaze over carved decoration. Probably from the Ru kilns, Henan province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

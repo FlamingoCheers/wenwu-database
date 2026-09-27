@@ -2,11 +2,11 @@
  "relic_id": "HAM-200760",
  "name": "Flat-Bottomed Ovoid Jar with Four Ring-Handles",
  "category": "瓷器",
- "dynasty": "商",
- "dynasty_confidence": "high",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "source",
  "year_range": [
   -1500,
-  -1500
+  -1000
  ],
  "era_text": "c. 1500 BCE - c. 1000 BCE",
  "dimensions": "H. 31 x W. 24.8 x Diam. 19.7 cm (12 3/16 x 9 3/4 x 7 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1986.649"
  },
- "material": "Brownish-gray earthenware with cord-marked surface"
+ "material": "Brownish-gray earthenware with cord-marked surface",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

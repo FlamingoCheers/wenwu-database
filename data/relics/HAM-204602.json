@@ -2,11 +2,11 @@
  "relic_id": "HAM-204602",
  "name": "Large Glass Disk",
  "category": "玻璃器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -475,
+  -221
  ],
  "era_text": "3rd cent. BCE - 1st cent. BCE",
  "dimensions": "Diam. 17.4 × Thickness 0.7 cm (6 7/8 × 1/4 in.)\r\n473 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.586"
  },
- "material": "Light green glass, with a brittle, creamy brown surface layer"
+ "material": "Light green glass, with a brittle, creamy brown surface layer",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

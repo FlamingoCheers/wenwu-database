@@ -2,11 +2,11 @@
  "relic_id": "HAM-182246",
  "name": "Circular Bowl with Notched Rim, Vertical Ribs, and Blossoming Lotus Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "probably 11th century",
  "dimensions": "7.4 x 20.9 cm (2 15/16 x 8 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.334.35"
  },
- "material": "Ding ware: porcellaneous stoneware with ivory-hued glaze over incised and carved decoration, the vertical ribs trailed in white slip, the unglazed lip bound with metal.  From the Ding kilns in Quyang county, Hebei province."
+ "material": "Ding ware: porcellaneous stoneware with ivory-hued glaze over incised and carved decoration, the vertical ribs trailed in white slip, the unglazed lip bound with metal.  From the Ding kilns in Quyang county, Hebei province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

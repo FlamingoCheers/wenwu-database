@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "late 19th cent. - early 20th cent.",
  "dimensions": "24.3 x 5 x 0.3 cm (9 9/16 x 1 15/16 x 1/8 in.)\r\nunspecified: 105 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.74"
  },
- "material": "Bluish gray, translucent, brown-flecked stone"
+ "material": "Bluish gray, translucent, brown-flecked stone",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1662,
-  1722
+  1644,
+  1911
  ],
  "era_text": "probably Kangxi period, 1662-1722",
  "dimensions": "H. 22.2 x Diam. 21 cm (8 3/4 x 8 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1950.83.35"
  },
- "material": "Monochrome enameled porcelain: porcelain with yellow enamel on the exterior and clear glaze on the interior; with underglaze cobalt-blue mark reading \"Da Qing Kangxi nian zhi\" on the base"
+ "material": "Monochrome enameled porcelain: porcelain with yellow enamel on the exterior and clear glaze on the interior; with underglaze cobalt-blue mark reading \"Da Qing Kangxi nian zhi\" on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

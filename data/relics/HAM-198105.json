@@ -2,11 +2,11 @@
  "relic_id": "HAM-198105",
  "name": "Covered Rectangular Lacquer Box with Metal Mounts",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -2,
-  -2
+  -206,
+  9
  ],
  "era_text": "2nd cent. BCE - 1st cent. BCE",
  "dimensions": "4.8 x 6 x 2.5 cm (1 7/8 x 2 3/8 x 1 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1996.305"
  },
- "material": "Han painted lacquer: reddish-brown and black lacquers over wooden core, with designs painted in lacquer and with metal mounts (probably tin)"
+ "material": "Han painted lacquer: reddish-brown and black lacquers over wooden core, with designs painted in lacquer and with metal mounts (probably tin)",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

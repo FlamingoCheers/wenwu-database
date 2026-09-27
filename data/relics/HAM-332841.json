@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1906,
-  1906
+  1644,
+  1911
  ],
  "era_text": "dated to 1906",
  "dimensions": "painting proper: 148.6 x 47.5 cm (58 1/2 x 18 11/16 in.)\r\nmounting, with suspension cord and roller ends: 210.2 x 70.5 cm (82 3/4 x 27 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2009.83"
  },
- "material": "Hanging scroll; ink on paper; with artist's dated inscription and signature; with three seals of the artist; with one collector's seal"
+ "material": "Hanging scroll; ink on paper; with artist's dated inscription and signature; with three seals of the artist; with one collector's seal",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  693,
-  693
+  618,
+  907
  ],
  "era_text": "dated 693",
  "dimensions": "Diam. 15.8 x Thickness 1.4 cm (6 1/4 x 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.168"
  },
- "material": "Cast bronze, the inset silver plaque on the reverse with repoussé designs; with a dated inscription on the reverse, beneath the inset plaque"
+ "material": "Cast bronze, the inset silver plaque on the reverse with repoussé designs; with a dated inscription on the reverse, beneath the inset plaque",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

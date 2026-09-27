@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1568,
-  1568
+  1368,
+  1644
  ],
  "era_text": "1568",
  "dimensions": "each leaf: 25.9 x 11.9 cm (10 3/16 x 4 11/16 in.)\r\nfull length: 25.9 x 690.2 cm (10 3/16 x 271 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.824"
  },
- "material": "Accordion-fold book; gold pigment on indigo-blue paper"
+ "material": "Accordion-fold book; gold pigment on indigo-blue paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

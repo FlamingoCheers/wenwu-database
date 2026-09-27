@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "15th-16th century",
  "dimensions": "H. 22.9 x W. 25.5 cm (9 x 10 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1929.239"
  },
- "material": "Circular fan painting mounted as an album leaf; ink on silk"
+ "material": "Circular fan painting mounted as an album leaf; ink on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-190815",
  "name": "Sherd: One-Third of a Circular Dish with Vertical Sides and with Rising Lotus-Petal Decoration, the sherd including portions of the base, footring, sides, and lip",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th cent. - 13th cent.",
  "dimensions": "3.3 x 11.2 x 5 cm (1 5/16 x 4 7/16 x 1 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.198.14"
  },
- "material": "Longquan celadon ware: pale gray stoneware with lightly crackled, bluish green celadon glaze. From the Longquan kilns in Zhejiang province"
+ "material": "Longquan celadon ware: pale gray stoneware with lightly crackled, bluish green celadon glaze. From the Longquan kilns in Zhejiang province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

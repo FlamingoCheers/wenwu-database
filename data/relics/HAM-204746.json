@@ -2,11 +2,11 @@
  "relic_id": "HAM-204746",
  "name": "Jade Tiger (one of a pair)",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -475,
+  -221
  ],
  "era_text": "3rd century BCE",
  "dimensions": "H. 8.5 x L. 19.1 x Thickness 0.4 cm (3 3/8 x 7 1/2 x 3/16 in.)\r\nWeight 148 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.469.B"
  },
- "material": "Dark brown and beige mottled nephrite"
+ "material": "Dark brown and beige mottled nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

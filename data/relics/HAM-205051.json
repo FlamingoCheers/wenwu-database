@@ -2,11 +2,11 @@
  "relic_id": "HAM-205051",
  "name": "Jade Pig (one of a pair)",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
   -206,
-  -206
+  9
  ],
  "era_text": "206 BCE - 9 CE",
  "dimensions": "11.6 x 2.8 x 2.6 cm (4 9/16 x 1 1/8 x 1 in.)\r\nunspecified: 192 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.254"
  },
- "material": "Mottled dark green and buff nephrite"
+ "material": "Mottled dark green and buff nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

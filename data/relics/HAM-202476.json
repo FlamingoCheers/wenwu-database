@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1659,
-  1659
+  1644,
+  1911
  ],
  "era_text": "1659",
  "dimensions": "painting proper: 106.6 × 16.8 cm (41 15/16 × 6 5/8 in.)\r\nmounting, silk only: 186.7 × 42.2 cm (73 1/2 × 16 5/8 in.)\r\nmounting, including cord and roller: 191.1 × 45.1 cm (75 1/4 × 17 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1964.96"
  },
- "material": "Hanging scroll; ink and light colors on paper; with signature reading \"Can Daozhe\" and with four seals of the artist."
+ "material": "Hanging scroll; ink and light colors on paper; with signature reading \"Can Daozhe\" and with four seals of the artist.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th cent. BCE - 11th cent. BCE",
  "dimensions": "29.8 x 8.6 x 0.5 cm (11 3/4 x 3 3/8 x 3/16 in.)\r\nunspecified: 203 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.26"
  },
- "material": "Opaque, bluish gray-green nephrite that has turned a dull buff and light brown color over a large part of the surface"
+ "material": "Opaque, bluish gray-green nephrite that has turned a dull buff and light brown color over a large part of the surface",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

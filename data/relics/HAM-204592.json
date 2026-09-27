@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th cent. BCE - 11th cent. BCE",
  "dimensions": "25.5 x 4.4 x 0.4 cm (10 1/16 x 1 3/4 x 3/16 in.)\r\nunspecified: 168 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.51.15"
  },
- "material": "Clouded olive-green nephrite blade; bronze haft inlaid with turquoise"
+ "material": "Clouded olive-green nephrite blade; bronze haft inlaid with turquoise",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

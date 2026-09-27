@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -12,
-  -12
+  -1600,
+  -1050
  ],
  "era_text": "12th-11th century BCE",
  "dimensions": "H. 27.3 x W. 20.4 x D. 16.3 cm (10 3/4 x 8 1/16 x 6 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1944.57.34"
  },
- "material": "Cast bronze with gray-green patina; inscribed with a three-character dedication"
+ "material": "Cast bronze with gray-green patina; inscribed with a three-character dedication",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "隋",
  "dynasty_confidence": "high",
  "year_range": [
-  6,
-  6
+  581,
+  618
  ],
  "era_text": "late 6th cent. - early 7th century",
  "dimensions": "H. 29.5 x W. 9.5 x D. 8.3 cm (11 5/8 x 3 3/4 x 3 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1950.155"
  },
- "material": "Gilt bronze; with spurious inscription on pedestal and on back of the halo"
+ "material": "Gilt bronze; with spurious inscription on pedestal and on back of the halo",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

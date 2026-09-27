@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -11,
-  -11
+  -1600,
+  -1050
  ],
  "era_text": "late Shang to early Western Zhou, 11th-mid 10th century BCE",
  "dimensions": "H. 40.6 x Diam. 26.7 cm (16 x 10 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1944.57.7"
  },
- "material": "Cast bronze; with integrally cast three-character inscription reading \"Yao Zuo Yi\" on the interior wall"
+ "material": "Cast bronze; with integrally cast three-character inscription reading \"Yao Zuo Yi\" on the interior wall",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

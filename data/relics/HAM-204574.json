@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -1600,
-  -771
+  -1050
  ],
  "era_text": "c. 1600 - 771 BCE",
  "dimensions": "Diameter 16.1 x Thickness of collar 0.6 cm x Thickness 0.4 (6 5/16 x 1/4 x 3/16 in.)\r\nWeight 202 g\r\n",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.536"
  },
- "material": "Ivory-colored nephrite with creamy yellow markings and signs of calcification"
+ "material": "Ivory-colored nephrite with creamy yellow markings and signs of calcification",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

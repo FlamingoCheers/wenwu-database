@@ -2,11 +2,11 @@
  "relic_id": "HAM-204082",
  "name": "Covered Circular Box (One of a Pair)",
  "category": "青铜器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "7 x 9.2 cm (2 3/4 x 3 5/8 in.)",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.52.76.A"
  },
  "material": "Silver with parcel gilding; with inscription incised on base and cover",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

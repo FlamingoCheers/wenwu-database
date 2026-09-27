@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th-19th century",
  "dimensions": "H. 26.9 x W. 22.6 cm (10 9/16 x 8 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.822"
  },
- "material": "Album leaf; ink on silk; with spurious signature reading \"Da Chi\"; with spurious circular seal reading \"Zi Jiu\""
+ "material": "Album leaf; ink on silk; with spurious signature reading \"Da Chi\"; with spurious circular seal reading \"Zi Jiu\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

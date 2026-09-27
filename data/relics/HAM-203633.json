@@ -4,7 +4,10 @@
  "category": "雕塑",
  "dynasty": "明",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1368,
+  1644
+ ],
  "era_text": null,
  "dimensions": null,
  "summary": "哈佛艺术博物馆著录：Chinese；Stone",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1957.167"
  },
- "material": "Stone"
+ "material": "Stone",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

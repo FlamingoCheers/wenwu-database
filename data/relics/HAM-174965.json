@@ -2,11 +2,11 @@
  "relic_id": "HAM-174965",
  "name": "Sherd: Irregularly Shaped Fragment from the Side of a Deep Circular Dish with Everted Lip",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th cent. - 14th cent.",
  "dimensions": "9.8 x 7.5 x 4.2 cm (3 7/8 x 2 15/16 x 1 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.262.16"
  },
- "material": "Longquan celadon ware: light gray stoneware body with grayish celadon glaze. From the Longquan kilns, Zhejiang province"
+ "material": "Longquan celadon ware: light gray stoneware body with grayish celadon glaze. From the Longquan kilns, Zhejiang province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

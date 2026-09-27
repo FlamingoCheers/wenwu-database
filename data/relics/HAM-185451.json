@@ -2,8 +2,8 @@
  "relic_id": "HAM-185451",
  "name": "Covered long-necked jar (hu)",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
   25,
   220
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.205.A-B"
  },
- "material": "Earthenware with brown lead glaze"
+ "material": "Earthenware with brown lead glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: 38.2 x 22.2 cm (15 1/16 x 8 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.56"
  },
- "material": "Woodblock print; ink and color on paper; with printed shop inscription reading \"Yong Xing Ju\" (probably the print shop name). Probably from Fengxiang, Shaanxi; possible pair with 1935.37.57."
+ "material": "Woodblock print; ink and color on paper; with printed shop inscription reading \"Yong Xing Ju\" (probably the print shop name). Probably from Fengxiang, Shaanxi; possible pair with 1935.37.57.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

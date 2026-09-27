@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -12,
-  -12
+  -1600,
+  -1050
  ],
  "era_text": "12th-10th century BCE",
  "dimensions": "H. 6.1 x W. 2.1 x Thickness 0.3 cm (2 3/8 x 13/16 x 1/8 in.)\r\nWeight 9 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.355"
  },
- "material": "Translucent light green nephrite; traces of cinnabar on the surface"
+ "material": "Translucent light green nephrite; traces of cinnabar on the surface",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

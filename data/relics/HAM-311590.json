@@ -4,7 +4,10 @@
  "category": "瓷器",
  "dynasty": "明",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1368,
+  1644
+ ],
  "era_text": null,
  "dimensions": "H. 31.9 x Diam. 34 cm (12 9/16 x 13 3/8 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Stoneware with turquoise-colored glaze; with molded inscription on the shoulder reading \"Nei Fu Gong Yong\"",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1950.83.73"
  },
- "material": "Stoneware with turquoise-colored glaze; with molded inscription on the shoulder reading \"Nei Fu Gong Yong\""
+ "material": "Stoneware with turquoise-colored glaze; with molded inscription on the shoulder reading \"Nei Fu Gong Yong\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

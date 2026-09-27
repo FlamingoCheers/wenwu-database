@@ -2,11 +2,11 @@
  "relic_id": "HAM-205420",
  "name": "Deep Bowl with In-Curving Rim and Small Partridge-Feather Mottles",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  960,
+  1127
  ],
  "era_text": "12th century",
  "dimensions": "H. 8.5 x Diam. 13.8 cm (3 3/8 x 5 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.419"
  },
- "material": "Northern black ware of Cizhou type: light gray stoneware with dark brown glaze, the markings in overglaze iron oxide, the lower portion dressed with dark brown slip."
+ "material": "Northern black ware of Cizhou type: light gray stoneware with dark brown glaze, the markings in overglaze iron oxide, the lower portion dressed with dark brown slip.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

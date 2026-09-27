@@ -4,7 +4,10 @@
  "category": "织绣",
  "dynasty": "明",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1368,
+  1644
+ ],
  "era_text": null,
  "dimensions": "H. 165.3 x W. 148 cm (65 1/16 x 58 1/4 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Silk",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1919.236"
  },
- "material": "Silk"
+ "material": "Silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

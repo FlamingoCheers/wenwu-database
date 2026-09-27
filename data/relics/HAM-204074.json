@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  3,
-  3
+  220,
+  589
  ],
  "era_text": "3rd-4th century",
  "dimensions": "H. 32 x W. 24 x D. 13 cm (12 5/8 x 9 7/16 x 5 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.80.A"
  },
- "material": "Gilt bronze; Gandhara type"
+ "material": "Gilt bronze; Gandhara type",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

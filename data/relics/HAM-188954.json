@@ -5,8 +5,8 @@
  "dynasty": "隋",
  "dynasty_confidence": "high",
  "year_range": [
-  6,
-  6
+  581,
+  618
  ],
  "era_text": "6th century",
  "dimensions": "H. 18.9 x Diam. 11.3 cm (7 7/16 x 4 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.231"
  },
- "material": "Stoneware with celadon glaze"
+ "material": "Stoneware with celadon glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

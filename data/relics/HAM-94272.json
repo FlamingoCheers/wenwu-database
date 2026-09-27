@@ -2,11 +2,11 @@
  "relic_id": "HAM-94272",
  "name": "Fragment of a Circular, Eaves-End Roof Tile with Decoration of a Chinese Character (now too fragmentary to be read)",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  201,
+  300
  ],
  "era_text": "1st-3rd century",
  "dimensions": "H.11.2 x W. 5.1 x Depth 2.7 cm (4 7/16 x 2 x 1 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1929.1.2"
  },
- "material": "Light gray earthenware with mold-impressed decoration.  Reportedly recovered at Lelang (also spelled Lo-lang; Korean, Naknang), near T'o-sông-ni, southwest of P'yôngyang, Korea."
+ "material": "Light gray earthenware with mold-impressed decoration.  Reportedly recovered at Lelang (also spelled Lo-lang; Korean, Naknang), near T'o-sông-ni, southwest of P'yôngyang, Korea.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

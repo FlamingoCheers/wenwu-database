@@ -2,11 +2,11 @@
  "relic_id": "HAM-202074",
  "name": "Circular Cup or Small Bowl with Stylized Lotus Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th century",
  "dimensions": "H. 6.35 cm (2 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1978.555"
  },
- "material": "Qingbai ware: porcelain with pale sky-blue glaze over carved and incised decoration"
+ "material": "Qingbai ware: porcelain with pale sky-blue glaze over carved and incised decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

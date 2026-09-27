@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "19th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.237"
  },
- "material": "Enameled blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue and overglaze polychrome enamels; with spurious underglaze cobalt blue mark reading \"Da Qing Kangxi nian zhi\" on the base"
+ "material": "Enameled blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue and overglaze polychrome enamels; with spurious underglaze cobalt blue mark reading \"Da Qing Kangxi nian zhi\" on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

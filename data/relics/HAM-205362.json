@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1662,
-  1722
+  1644,
+  1911
  ],
  "era_text": "first half 18th century, probably Kangxi period (1662-1722)",
  "dimensions": "H. 14.5 x W. 17.8 x D. 5.8 cm (5 11/16 x 7 x 2 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.80"
  },
- "material": "Yellow nephrite with brown markings"
+ "material": "Yellow nephrite with brown markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

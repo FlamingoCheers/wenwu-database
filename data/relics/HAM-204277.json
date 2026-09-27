@@ -2,11 +2,11 @@
  "relic_id": "HAM-204277",
  "name": "Circular Mirror with Painted Decoration of Human Figures and Horses",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -1,
-  -1
+  -206,
+  9
  ],
  "era_text": "1st century BCE",
  "dimensions": "Diam. 22 cm (8 11/16 in.)\r\nWeight 637.5 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.156"
  },
- "material": "Cast Bronze with decoration cold-painted in mineral pigments; reputedly from Changsha, Hunan province"
+ "material": "Cast Bronze with decoration cold-painted in mineral pigments; reputedly from Changsha, Hunan province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

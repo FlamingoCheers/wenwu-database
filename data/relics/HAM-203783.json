@@ -2,11 +2,11 @@
  "relic_id": "HAM-203783",
  "name": "Tang-Style Striding Dragon",
  "category": "青铜器",
- "dynasty": "唐",
- "dynasty_confidence": "high",
+ "dynasty": "现当代",
+ "dynasty_confidence": "source",
  "year_range": [
-  19,
-  19
+  1901,
+  2000
  ],
  "era_text": "late 19th-early 20th century",
  "dimensions": "16.9 x 40.2 x 7 cm (6 5/8 x 15 13/16 x 2 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.113"
  },
- "material": "Gilt bronze"
+ "material": "Gilt bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

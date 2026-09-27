@@ -5,7 +5,7 @@
  "dynasty": "新石器时代",
  "dynasty_confidence": "high",
  "year_range": [
-  -2300,
+  -3300,
   -2000
  ],
  "era_text": "Machang phase, c. 2300-2000 BCE",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.43"
  },
- "material": "Earthenware with bichrome slip-painted decoration"
+ "material": "Earthenware with bichrome slip-painted decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "early 8th century",
  "dimensions": "H. 109.5 x W. 75 x D. 47 cm (43 1/8 x 29 1/2 x 18 1/2 in.)\r\nWeight 699 lb.",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.22"
  },
- "material": "Light gray sandstone with traces of polychromy; from north wall of Tianlongshan Cave 21, near Taiyuan, Shanxi province"
+ "material": "Light gray sandstone with traces of polychromy; from north wall of Tianlongshan Cave 21, near Taiyuan, Shanxi province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "汉",
  "dynasty_confidence": "high",
  "year_range": [
-  -3,
-  -3
+  -206,
+  220
  ],
  "era_text": "3rd century BCE-3rd century CE",
  "dimensions": "L. 24.8 × W. 4.2 cm (9 3/4 × 1 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.62"
  },
- "material": "Gilt bronze with inlaid glass"
+ "material": "Gilt bronze with inlaid glass",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

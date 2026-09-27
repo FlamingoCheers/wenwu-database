@@ -2,11 +2,11 @@
  "relic_id": "HAM-204473",
  "name": "Sword with Hilt Embellished with Geometric Decor",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -5,
-  -5
+  -475,
+  -221
  ],
  "era_text": "5th-1st century BCE",
  "dimensions": "L. 53.7 cm (21 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.6"
  },
- "material": "Bronze, the hilt inlaid with sheet gold"
+ "material": "Bronze, the hilt inlaid with sheet gold",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

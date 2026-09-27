@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1821,
-  1850
+  1644,
+  1911
  ],
  "era_text": "probably Daoguang period, 1821-1850",
  "dimensions": "H. 6.2 x Diam. 8.4 cm (2 7/16 x 3 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1970.144"
  },
- "material": "Enameled porcelain: porcelain with overglaze polychrome and gold enamels; with an overglaze red enamel Tibetan (?) mark within a double square on the base"
+ "material": "Enameled porcelain: porcelain with overglaze polychrome and gold enamels; with an overglaze red enamel Tibetan (?) mark within a double square on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

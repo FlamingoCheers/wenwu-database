@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3300,
-  -3300
+  -2200
  ],
  "era_text": "c. 3300 BCE - c. 2000 BCE",
  "dimensions": "4.3 x 0.6 x 6.3 cm (1 11/16 x 1/4 x 2 1/2 in.)\r\nunspecified: 113 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.196"
  },
- "material": "Light bluish green and bone-colored nephrite with a lustrous polish"
+ "material": "Light bluish green and bone-colored nephrite with a lustrous polish",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

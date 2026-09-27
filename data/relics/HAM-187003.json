@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  618,
+  907
  ],
  "era_text": "7th-early 8th century",
  "dimensions": "H. 13.1 x Diam. 13.7 cm (5 3/16 x 5 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.230.5"
  },
- "material": "White ware: white stoneware with pale grayish olive glaze"
+ "material": "White ware: white stoneware with pale grayish olive glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

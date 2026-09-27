@@ -2,11 +2,11 @@
  "relic_id": "HAM-20970",
  "name": "Circular Shallow Dish",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "late 11th - first half 12th century",
  "dimensions": "max.: H. 5 × Diam. 19.3 cm (1 15/16 × 7 5/8 in.)\r\nfoot: Diam. 6.4 cm (2 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.156"
  },
- "material": "Jun ware: light gray stoneware with robin's-egg blue glaze"
+ "material": "Jun ware: light gray stoneware with robin's-egg blue glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

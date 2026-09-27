@@ -2,11 +2,11 @@
  "relic_id": "HAM-202778",
  "name": "Kiln Furniture: Circular Firing Stand with Five Small Spurs",
  "category": "瓷器",
- "dynasty": "五代十国",
- "dynasty_confidence": "high",
+ "dynasty": "宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  960,
+  1279
  ],
  "era_text": "Five dynasties or Song period, 12th - 13th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1964.21.3"
  },
- "material": "Light gray stoneware"
+ "material": "Light gray stoneware",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

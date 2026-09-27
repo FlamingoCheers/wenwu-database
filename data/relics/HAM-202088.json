@@ -2,11 +2,11 @@
  "relic_id": "HAM-202088",
  "name": "Vase with Dished Mouth and Ascending Lotus-Petal Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  10,
-  10
+  960,
+  1127
  ],
  "era_text": "late 10th-11th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1977.21"
  },
- "material": "Yue ware: light gray stoneware with celadon glaze over incised, carved, and applique decoration. Probably from the Yue kilns at Shanglinhu, Zhejian province."
+ "material": "Yue ware: light gray stoneware with celadon glaze over incised, carved, and applique decoration. Probably from the Yue kilns at Shanglinhu, Zhejian province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

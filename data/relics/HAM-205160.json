@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "mid 16th-early 17th century",
  "dimensions": "H. 3.9 x Diam. 17.1 cm (1 9/16 x 6 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.192"
  },
- "material": "Enameled porcelain: porcelain with decoration in overglaze polychrome enamels"
+ "material": "Enameled porcelain: porcelain with decoration in overglaze polychrome enamels",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

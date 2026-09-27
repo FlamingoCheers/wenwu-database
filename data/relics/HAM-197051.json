@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "8th-9th century",
  "dimensions": "7.8 x 15 x 10.5 cm (3 1/16 x 5 7/8 x 4 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1998.102"
  },
- "material": "Simulated 'Jiaotai' ware: pinkish buff earthenware with lead-fluxed, pale amber glaze over applique medallions consisting of thin layers of laminated clays; with underglaze brown slip painted between the medallions on top surface."
+ "material": "Simulated 'Jiaotai' ware: pinkish buff earthenware with lead-fluxed, pale amber glaze over applique medallions consisting of thin layers of laminated clays; with underglaze brown slip painted between the medallions on top surface.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

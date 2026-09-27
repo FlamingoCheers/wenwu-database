@@ -2,11 +2,11 @@
  "relic_id": "HAM-209838",
  "name": "Small Circular Mirror with Relief Decoration of Confronting Dragon and Tiger",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  201,
+  300
  ],
  "era_text": "1st-early 3rd century",
  "dimensions": "Diam. 9.9 cm (3 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1925.27.2"
  },
- "material": "Cast bronze"
+ "material": "Cast bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

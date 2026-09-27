@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3300,
-  -3300
+  -2900
  ],
  "era_text": "Majiayao culture, Majiayao phase, 3300 BCE -2900 BCE",
  "dimensions": "H. 11.8 x Diam. 26.6 cm (4 5/8 x 10 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.171"
  },
- "material": "Buff earthenware with decoration painted in dark brown slip, the surface burnished before firing.  Upper Yellow River Valley area; Gansu, Qinghai, or Ningxia province; probably Gansu province."
+ "material": "Buff earthenware with decoration painted in dark brown slip, the surface burnished before firing.  Upper Yellow River Valley area; Gansu, Qinghai, or Ningxia province; probably Gansu province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

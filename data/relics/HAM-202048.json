@@ -2,11 +2,11 @@
  "relic_id": "HAM-202048",
  "name": "Covered Funerary Urn with Decoration of Figures, Dragons, and Clouds",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th century",
  "dimensions": "with cover: H. 73 cm (28 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1981.102.A-B"
  },
- "material": "Qingbai-type ware: off-white or gray stoneware with pale sky-blue glaze over applique decoration."
+ "material": "Qingbai-type ware: off-white or gray stoneware with pale sky-blue glaze over applique decoration.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

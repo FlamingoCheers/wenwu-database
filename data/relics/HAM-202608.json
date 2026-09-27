@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "19th–early 20th century rubbing of a stele dated Qing dynasty, Kangxi period, 1680  ",
  "dimensions": "H. 192.1 × W. 81.3 cm (75 5/8 × 32 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1970.52"
  },
- "material": "Red ink on paper"
+ "material": "Red ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

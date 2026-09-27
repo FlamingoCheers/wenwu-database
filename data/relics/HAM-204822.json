@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3300,
-  -3300
+  -2200
  ],
  "era_text": "c. 3300 BCE - c. 2000 BCE",
  "dimensions": "2.7 x 2.1 x 11.9 cm (1 1/16 x 13/16 x 4 11/16 in.)\r\nunspecified: 456 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.495"
  },
- "material": "Pale sea-green nephrite turned mottled brown and buff on the exterior"
+ "material": "Pale sea-green nephrite turned mottled brown and buff on the exterior",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

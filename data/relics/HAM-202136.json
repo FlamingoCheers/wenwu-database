@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1722,
-  1722
+  1644,
+  1911
  ],
  "era_text": "c. 1722",
  "dimensions": "H. 42.5 x L. 228.6 cm (16 3/4 x 90 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1978.92"
  },
- "material": "Handscroll; ink and color on silk"
+ "material": "Handscroll; ink and color on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

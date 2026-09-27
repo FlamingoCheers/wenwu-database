@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -206,
-  -206
+  220
  ],
  "era_text": "206 BCE-220 CE",
  "dimensions": "H. 29 x Diam. 16.9 cm (11 7/16 x 6 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1933.146"
  },
- "material": "Cold-painted funerary ware: molded gray earthenware with cold-painted pigments probably added in the 20th century"
+ "material": "Cold-painted funerary ware: molded gray earthenware with cold-painted pigments probably added in the 20th century",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

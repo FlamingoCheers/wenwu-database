@@ -2,11 +2,11 @@
  "relic_id": "HAM-205095",
  "name": "Conical Bowl with Russet Flecks",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "5.7 x 19.2 cm (2 1/4 x 7 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.406"
  },
- "material": "Northern black ware of Cizhou type: off-white stoneware with dark brown glaze, the markings in overglaze iron oxide"
+ "material": "Northern black ware of Cizhou type: off-white stoneware with dark brown glaze, the markings in overglaze iron oxide",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

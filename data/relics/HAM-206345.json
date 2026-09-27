@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "35.5 x 41.5 cm (14 x 16 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.36.104"
  },
- "material": "Woodblock print; ink on paper; with printed inscription reading from right to left: \"Chuang Gong Chuang Mu\" (\"Bed God and Goddess\"). Probably from Beijing."
+ "material": "Woodblock print; ink on paper; with printed inscription reading from right to left: \"Chuang Gong Chuang Mu\" (\"Bed God and Goddess\"). Probably from Beijing.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

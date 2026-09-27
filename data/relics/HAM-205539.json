@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "first half 8th century",
  "dimensions": "H. 4.8 x Diam. 18.5 cm (1 7/8 x 7 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.383"
  },
- "material": "Sancai (\"three-color\") ware: white earthenware with lead-fluxed emerald-green and caramel-brown glazes over stamped decoration. Probably from kilns at Luoyang or Gongxian, Henan province."
+ "material": "Sancai (\"three-color\") ware: white earthenware with lead-fluxed emerald-green and caramel-brown glazes over stamped decoration. Probably from kilns at Luoyang or Gongxian, Henan province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

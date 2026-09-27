@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1621,
-  1627
+  1368,
+  1644
  ],
  "era_text": "Tianqi period, 1621-1627",
  "dimensions": "H. 3.8 x Diam. 16.5 cm (1 1/2 x 6 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.249"
  },
- "material": "Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue and with overglaze polychrome enamels added at a later date; with underglaze cobalt-blue mark reading \"Tianqi nian zhi\" within a double circle on the base"
+ "material": "Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue and with overglaze polychrome enamels added at a later date; with underglaze cobalt-blue mark reading \"Tianqi nian zhi\" within a double circle on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

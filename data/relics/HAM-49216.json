@@ -4,7 +4,10 @@
  "category": "书画",
  "dynasty": "清",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1644,
+  1911
+ ],
  "era_text": null,
  "dimensions": null,
  "summary": "哈佛艺术博物馆著录：Chinese；Sketch pasted into an accordion fold book; ink and color on paper",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.893.19"
  },
- "material": "Sketch pasted into an accordion fold book; ink and color on paper"
+ "material": "Sketch pasted into an accordion fold book; ink and color on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

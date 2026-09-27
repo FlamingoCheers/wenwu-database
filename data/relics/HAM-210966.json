@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1368,
+  1644
  ],
  "era_text": "17th-18th century",
  "dimensions": "painting proper: H. 29.3 x W. 114.7 cm (11 9/16 x 45 3/16 in.)\r\ncolophon: H. 29.3 x W. 66 cm (11 9/16 x 26 in.)\r\nmounting: H. 33.8 cm (13 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.825"
  },
- "material": "Handscroll; ink on paper; with spurious signature reading \"Heyang Guo Xi\"; with colophon"
+ "material": "Handscroll; ink on paper; with spurious signature reading \"Heyang Guo Xi\"; with colophon",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

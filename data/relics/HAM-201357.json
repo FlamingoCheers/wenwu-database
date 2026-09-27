@@ -4,7 +4,10 @@
  "category": "书画",
  "dynasty": "清",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1644,
+  1911
+ ],
  "era_text": null,
  "dimensions": "26.67 x 16.19 cm (10 1/2 x 6 3/8 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Ink on paper",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.287.1"
  },
- "material": "Ink on paper"
+ "material": "Ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

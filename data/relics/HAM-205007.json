@@ -2,11 +2,11 @@
  "relic_id": "HAM-205007",
  "name": "Claw-Shaped Jade Pendant",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -2,
-  -2
+  -206,
+  9
  ],
  "era_text": "2nd-1st century BCE (?)",
  "dimensions": "Chord 8.6 x W. 1.7 x Thickness 0.4 cm (3 3/8 x 11/16 x 3/16 in.)\r\nWeight 11 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.354"
  },
- "material": "Greenish brown and creamy light brown, highly polished nephrite"
+ "material": "Greenish brown and creamy light brown, highly polished nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

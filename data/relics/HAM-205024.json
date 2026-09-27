@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th cent. BCE - 11th cent. BCE",
  "dimensions": "6.6 x 4 x 0.3 cm (2 5/8 x 1 9/16 x 1/8 in.)\r\nunspecified: 14 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.193"
  },
- "material": "Bluish gray-green nephrite, showing signs of incipient calcification"
+ "material": "Bluish gray-green nephrite, showing signs of incipient calcification",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

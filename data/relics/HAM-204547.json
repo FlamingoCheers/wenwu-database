@@ -5,8 +5,8 @@
  "dynasty": "新石器时代",
  "dynasty_confidence": "high",
  "year_range": [
-  -3500,
-  -3500
+  -4500,
+  -3000
  ],
  "era_text": "c. 3500 - c. 2500 BCE",
  "dimensions": "Length 9.7 x Chord 7.9 x Thickness 0.4 cm (3 13/16 x 3 1/8 x 3/16 in.)\r\nWeight 83 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.626"
  },
- "material": "Translucent, pale celadon-green nephrite"
+ "material": "Translucent, pale celadon-green nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

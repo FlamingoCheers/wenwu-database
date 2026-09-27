@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "probably 16th century",
  "dimensions": "23.1 x 23.9 cm (9 1/8 x 9 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.146"
  },
- "material": "Album leaf; ink on silk"
+ "material": "Album leaf; ink on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

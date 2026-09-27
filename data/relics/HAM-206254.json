@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: 71.4 x 41.2 cm (28 1/8 x 16 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.36.18"
  },
- "material": "Woodblock print; ink and color on paper; with printed shop inscription reading \"Yuan Tai Yi\" (probably the print shop name). Probably from Xinjiang, Shanxi; possible pair with 1935.36.2."
+ "material": "Woodblock print; ink and color on paper; with printed shop inscription reading \"Yuan Tai Yi\" (probably the print shop name). Probably from Xinjiang, Shanxi; possible pair with 1935.36.2.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

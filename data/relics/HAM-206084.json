@@ -2,11 +2,11 @@
  "relic_id": "HAM-206084",
  "name": "Cylindrical Cup with Articulated Pedestal Foot",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -206,
+  9
  ],
  "era_text": "3rd-1st century BCE",
  "dimensions": "H. 11 x Diam. 8.3 cm (4 5/16 x 3 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1937.193"
  },
- "material": "Light gray stoneware with decoration cold-painted in brown and yellow pigments over white gesso ground"
+ "material": "Light gray stoneware with decoration cold-painted in brown and yellow pigments over white gesso ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

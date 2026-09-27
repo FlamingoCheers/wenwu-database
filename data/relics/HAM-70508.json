@@ -2,11 +2,11 @@
  "relic_id": "HAM-70508",
  "name": "Small Bowl with Flaring Lip and Partridge-Feather Mottles",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "late 11th-first half 12th century",
  "dimensions": "H. 4.6 × Diam. 12.6 cm (1 13/16 × 4 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.118"
  },
- "material": "Northern black ware of Cizhou type: off-white stoneware with dark brown glaze, the interior with russet markings in iron oxide, the exterior with russet skin. Probably from the Cizhou kilns at Guantai, Cixian, Hebei province."
+ "material": "Northern black ware of Cizhou type: off-white stoneware with dark brown glaze, the interior with russet markings in iron oxide, the exterior with russet skin. Probably from the Cizhou kilns at Guantai, Cixian, Hebei province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

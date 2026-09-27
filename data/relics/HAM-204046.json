@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  570,
-  570
+  550,
+  577
  ],
  "era_text": "c. 570",
  "dimensions": "H. 104.2 x W. 28.8 cm (41 x 11 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.27"
  },
- "material": "Marble with polychromy"
+ "material": "Marble with polychromy",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

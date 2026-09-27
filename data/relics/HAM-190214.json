@@ -2,11 +2,11 @@
  "relic_id": "HAM-190214",
  "name": "Sherd: Rectangular Fragment from the Side of a Circular Bowl with Rising Lotus-Petal Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th cent. - 13th cent.",
  "dimensions": "3.1 x 2.5 cm (1 1/4 x 1 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.198.6"
  },
- "material": "Guan ware: dark gray stoneware with lightly crackled, light grayish blue glaze. From the guan kilns near Hangzhou, Zhejiang province"
+ "material": "Guan ware: dark gray stoneware with lightly crackled, light grayish blue glaze. From the guan kilns near Hangzhou, Zhejiang province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

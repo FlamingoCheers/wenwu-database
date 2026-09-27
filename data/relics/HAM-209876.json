@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1368,
+  1644
  ],
  "era_text": "17th-18th century",
  "dimensions": "painting proper: H. 179 x W. 99.1 cm (70 1/2 x 39 in.)\r\nfull mounting dimensions: H. 278.1 x W. 125.7 cm (109 1/2 x 49 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1918.34"
  },
- "material": "Hanging scroll; ink on silk"
+ "material": "Hanging scroll; ink on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-204120",
  "name": "Stele with a Seated Buddha Flanked on Either Side by One Standing Bodhisattva and one Standing Disciple and with Maitreya Seated in Meditation Beneath a Bodhi Tree on the Reverse (in Northern Qi Style)",
  "category": "青铜器",
- "dynasty": "南北朝",
- "dynasty_confidence": "high",
+ "dynasty": "明",
+ "dynasty_confidence": "source",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "15th-19th Century",
  "dimensions": "H. 61.5 x W. 40 x D. 18 cm (24 3/16 x 15 3/4 x 7 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.37"
  },
- "material": "White marble with traces of gold and polychromy; with spurious inscription dated to 558"
+ "material": "White marble with traces of gold and polychromy; with spurious inscription dated to 558",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

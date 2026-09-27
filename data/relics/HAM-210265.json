@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "early 18th century",
  "dimensions": "H. 5.7 x Diam. 8.2 cm (2 1/4 x 3 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1917.43"
  },
- "material": "Red-and-white ware: porcelain with decoration painted in underglaze copper red; with underglaze cobalt blue circle on the base"
+ "material": "Red-and-white ware: porcelain with decoration painted in underglaze copper red; with underglaze cobalt blue circle on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

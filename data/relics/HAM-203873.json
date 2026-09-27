@@ -2,11 +2,11 @@
  "relic_id": "HAM-203873",
  "name": "Circular Mirror with Decoration of Two Stylized Dragons, Two Stylized Tigers, and Four Florets",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  -206,
+  9
  ],
  "era_text": "1st-early 3rd century",
  "dimensions": "Diam. 19 cm (7 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1949.58"
  },
- "material": "Cast bronze"
+ "material": "Cast bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

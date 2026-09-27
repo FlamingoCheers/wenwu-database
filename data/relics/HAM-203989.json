@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -14,
-  -14
+  -1600,
+  -1050
  ],
  "era_text": "14th-11th century BCE",
  "dimensions": "L. 27.1 x Diam. of cup 4.9 cm (10 11/16 x 1 15/16 in.)\r\nWeight 255.15 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.111"
  },
- "material": "Cast bronze with gray-green patina"
+ "material": "Cast bronze with gray-green patina",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

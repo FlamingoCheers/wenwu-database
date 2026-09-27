@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1701,
-  1701
+  1644,
+  1911
  ],
  "era_text": "1701",
  "dimensions": "painting proper: H. 155.6 x W. 58.6 cm (61 1/4 x 23 1/16 in.)\r\nmounting, including  cord and roller ends: H. 247 x W. 88 cm (97 1/4 x 34 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.343"
  },
- "material": "Hanging scroll; ink on paper; with artist's signature reading \"Haiyu Wang Hui\" and with artist's and collectors' seals"
+ "material": "Hanging scroll; ink on paper; with artist's signature reading \"Haiyu Wang Hui\" and with artist's and collectors' seals",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

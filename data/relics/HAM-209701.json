@@ -2,11 +2,11 @@
  "relic_id": "HAM-209701",
  "name": "'Boshan lu' Censer Cover with Scenes of Humans and Animals in a Mountainous Landscape",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  101,
+  200
  ],
  "era_text": "1st-2nd century",
  "dimensions": "H. 7.5 x Diam. 9.2 cm (2 15/16 x 3 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1919.101"
  },
- "material": "Cast bronze"
+ "material": "Cast bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

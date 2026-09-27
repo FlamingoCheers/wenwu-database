@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -2500,
-  -2500
+  -2000
  ],
  "era_text": "probably Shijiahe culture, c. 2500 BCE - c. 2000 BCE",
  "dimensions": "4.7 x 2.8 x 1.2 cm (1 7/8 x 1 1/8 x 1/2 in.)\r\nunspecified: 35 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.275"
  },
- "material": "Evenly light green, highly translucent nephrite"
+ "material": "Evenly light green, highly translucent nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

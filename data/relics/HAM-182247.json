@@ -2,11 +2,11 @@
  "relic_id": "HAM-182247",
  "name": "Small Bowl with Stylized Floral Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "5.8 x 9.3 cm (2 5/16 x 3 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.334.40"
  },
- "material": "Yaozhou ware: light gray stoneware with celadon glaze over carved decoration.  From the Yaozhou kilns near Tongchuan, Shaanxi province."
+ "material": "Yaozhou ware: light gray stoneware with celadon glaze over carved decoration.  From the Yaozhou kilns near Tongchuan, Shaanxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

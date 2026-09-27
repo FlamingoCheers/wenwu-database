@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1736,
-  1795
+  1644,
+  1911
  ],
  "era_text": "18th century, probably Qianlong period (1736-1795)",
  "dimensions": "21.4 x 8.9 x 4.6 cm (8 7/16 x 3 1/2 x 1 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.343.A-B"
  },
- "material": "Pale greenish white nephrite"
+ "material": "Pale greenish white nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

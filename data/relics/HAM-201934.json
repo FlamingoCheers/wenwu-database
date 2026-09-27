@@ -2,9 +2,12 @@
  "relic_id": "HAM-201934",
  "name": "Ordos Knife",
  "category": "青铜器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "东周",
+ "dynasty_confidence": "source",
+ "year_range": [
+  -1050,
+  -221
+ ],
  "era_text": null,
  "dimensions": "26.67 cm (10 1/2 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Bronze",
@@ -25,5 +28,5 @@
   "inventory_no": "1983.208"
  },
  "material": "Bronze",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

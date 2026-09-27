@@ -2,11 +2,11 @@
  "relic_id": "HAM-205220",
  "name": "Shallow Dish with Stylized Floral Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th cent. - 13th cent.",
  "dimensions": "H. 3.3 x Diam. 12.8 cm (1 5/16 x 5 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.412"
  },
- "material": "Jizhou ware: light gray stoneware with dark brown and transparent amber glazes. From the Jizhou kilns at Yonghe, Ji'an, Jiangxi province."
+ "material": "Jizhou ware: light gray stoneware with dark brown and transparent amber glazes. From the Jizhou kilns at Yonghe, Ji'an, Jiangxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

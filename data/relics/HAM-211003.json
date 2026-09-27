@@ -2,9 +2,12 @@
  "relic_id": "HAM-211003",
  "name": "Landscape, in the Styles of Li Tang and Wu Wei",
  "category": "书画",
- "dynasty": "唐",
- "dynasty_confidence": "high",
- "year_range": null,
+ "dynasty": "明",
+ "dynasty_confidence": "source",
+ "year_range": [
+  1368,
+  1644
+ ],
  "era_text": null,
  "dimensions": "32.3 cm (12 11/16 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Unmounted handscroll;",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.826"
  },
- "material": "Unmounted handscroll;"
+ "material": "Unmounted handscroll;",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

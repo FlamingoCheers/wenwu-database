@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "late 19th-early 20th century",
  "dimensions": "irregular: 152.2 x 169.2 cm (59 15/16 x 66 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1960.169.47"
  },
- "material": "Pale beige satin with embroidered decoration"
+ "material": "Pale beige satin with embroidered decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

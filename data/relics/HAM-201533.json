@@ -5,8 +5,8 @@
  "dynasty": "元",
  "dynasty_confidence": "high",
  "year_range": [
-  14,
-  14
+  1279,
+  1368
  ],
  "era_text": "early 14th century",
  "dimensions": "30.2 x 11.4 cm (11 7/8 x 4 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.376"
  },
- "material": "Woodblock-printed accordion-fold book: ink on paper; the frontispiece illustration with printed signature reading \"Chen Sheng hua\" (designed by Chen Sheng)"
+ "material": "Woodblock-printed accordion-fold book: ink on paper; the frontispiece illustration with printed signature reading \"Chen Sheng hua\" (designed by Chen Sheng)",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

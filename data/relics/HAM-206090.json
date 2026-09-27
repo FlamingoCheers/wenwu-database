@@ -2,11 +2,11 @@
  "relic_id": "HAM-206090",
  "name": "Paper God: Kitchen God and Wife at an Altar Table in \"Zou Shan Tang\" (\"Hall of Reporting Virtue\"), with Two Offici",
  "category": "书画",
- "dynasty": "唐",
- "dynasty_confidence": "high",
+ "dynasty": "清",
+ "dynasty_confidence": "source",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: 34.0 x 18.0 cm (13 3/8 x 7 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.81"
  },
- "material": "Woodblock print; ink and color on paper; with a printed couplet reading from right to left: \"Ren Jian Si Ming Zhu; Tian Shang Ear Mu Shen\" (\"Arbiter of Fate on Earth; Surveillance [literally, 'ear-and-eye'] Official of Heaven\"). Probably from Jiajiang, Sichuan."
+ "material": "Woodblock print; ink and color on paper; with a printed couplet reading from right to left: \"Ren Jian Si Ming Zhu; Tian Shang Ear Mu Shen\" (\"Arbiter of Fate on Earth; Surveillance [literally, 'ear-and-eye'] Official of Heaven\"). Probably from Jiajiang, Sichuan.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

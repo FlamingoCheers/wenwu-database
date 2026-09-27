@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th-11th century BCE",
  "dimensions": "H. 27.4 x W. 7.8 x D. 1 cm (10 13/16 x 3 1/16 x 3/8 in.)\r\nWeight 334 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.72"
  },
- "material": "Black serpentine"
+ "material": "Black serpentine",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

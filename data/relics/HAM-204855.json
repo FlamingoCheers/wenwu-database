@@ -2,11 +2,11 @@
  "relic_id": "HAM-204855",
  "name": "Jade 'Huan' Disk",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "东周",
+ "dynasty_confidence": "source",
  "year_range": [
   -770,
-  -770
+  -256
  ],
  "era_text": "770 BCE - 221 BCE (?)",
  "dimensions": "0.2 x 10.2 cm (1/16 x 4 in.)\r\nunspecified: 36 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.522"
  },
  "material": "Translucent light gray stone with brown markings",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

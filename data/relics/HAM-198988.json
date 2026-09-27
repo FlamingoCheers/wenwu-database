@@ -2,11 +2,11 @@
  "relic_id": "HAM-198988",
  "name": "Cabriole Leg for a Lacquered Table Top (one of two)",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
   1,
-  1
+  100
  ],
  "era_text": "probably 1st century CE",
  "dimensions": "H. 16.2 x W. 3.4 x D. 2 cm (6 3/8 x 1 5/16 x 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.55.3.D"
  },
- "material": "Gilt bronze.  Probably made in Sichuan province; probably recovered at Lelang (also spelled Lo-lang; Korean, Naknang), near T'o-sông-ni, southwest of P'yôngyang, Korea."
+ "material": "Gilt bronze.  Probably made in Sichuan province; probably recovered at Lelang (also spelled Lo-lang; Korean, Naknang), near T'o-sông-ni, southwest of P'yôngyang, Korea.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

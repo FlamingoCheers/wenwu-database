@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th century",
  "dimensions": "H. 13.3 x Diam. 9.5 cm (5 1/4 x 3 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1977.19"
  },
- "material": "Monochrome glazed stoneware, \"guan\" type: light gray stoneware with celadon glaze"
+ "material": "Monochrome glazed stoneware, \"guan\" type: light gray stoneware with celadon glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

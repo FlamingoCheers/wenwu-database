@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th cent. BCE - 11th cent. BCE",
  "dimensions": "1.6 x 5.3 x 4.4 cm (5/8 x 2 1/16 x 1 3/4 in.)\r\nunspecified: 46 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.501"
  },
- "material": "Bluish gray nephrite, partly calcified, with traces of soil and cinnabar"
+ "material": "Bluish gray nephrite, partly calcified, with traces of soil and cinnabar",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

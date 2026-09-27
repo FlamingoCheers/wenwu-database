@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1662,
-  1722
+  1644,
+  1911
  ],
  "era_text": "Kangxi period, 1662-1722",
  "dimensions": "irregular: 147.4 x 114 cm (58 1/16 x 44 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1960.169.2"
  },
- "material": "Silk with selected elements in 'kesi' tapestry weave"
+ "material": "Silk with selected elements in 'kesi' tapestry weave",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

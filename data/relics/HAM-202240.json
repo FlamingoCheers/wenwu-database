@@ -5,8 +5,8 @@
  "dynasty": "宋",
  "dynasty_confidence": "high",
  "year_range": [
-  12,
-  12
+  960,
+  1279
  ],
  "era_text": "12th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1977.25"
  },
- "material": "Qingbai ware: porcelain with pale sky-blue glaze over incised, carved, and roulette-wheel impressed decoration"
+ "material": "Qingbai ware: porcelain with pale sky-blue glaze over incised, carved, and roulette-wheel impressed decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-176369",
  "name": "Sherd: Irregularly Shaped Fragment from the Mouth of a Mallet-Shaped Vase",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th cent. - 14th cent.",
  "dimensions": "5.6 x 4.9 x 6.8 cm (2 3/16 x 1 15/16 x 2 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.262.10"
  },
- "material": "Longquan celadon ware: light gray stoneware body with matte celadon glaze. From Longquan kilns, Zhejiang province"
+ "material": "Longquan celadon ware: light gray stoneware body with matte celadon glaze. From Longquan kilns, Zhejiang province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

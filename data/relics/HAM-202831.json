@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1368,
+  1644
  ],
  "era_text": "early 17th century",
  "dimensions": "26.4 x 29.5 cm (10 3/8 x 11 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1968.34"
  },
- "material": "Album leaf; ink and slight color on silk, with signature reading \"Zhulan Li Rihua zuo yu Weishuixuan\""
+ "material": "Album leaf; ink and slight color on silk, with signature reading \"Zhulan Li Rihua zuo yu Weishuixuan\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

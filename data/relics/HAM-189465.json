@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1859,
-  1859
+  1644,
+  1911
  ],
  "era_text": "1859",
  "dimensions": "each painting: 16.6 x 22.1 cm (6 9/16 x 8 11/16 in.)\r\noverall: 20 x 27 cm (7 7/8 x 10 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.381"
  },
- "material": "Album of eleven (originally twelve) painted album leaves; ink and color on paper; with signature and seals of the artist"
+ "material": "Album of eleven (originally twelve) painted album leaves; ink and color on paper; with signature and seals of the artist",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

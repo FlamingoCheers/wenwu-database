@@ -5,8 +5,8 @@
  "dynasty": "辽",
  "dynasty_confidence": "high",
  "year_range": [
-  10,
-  10
+  907,
+  1125
  ],
  "era_text": "10th cent. - 11th cent.",
  "dimensions": "H. 23.9 x Diam. 30.2 cm (9 7/16 x 11 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1950.83.93"
  },
- "material": "Liao 'sancai' (three-color) ware: white-slipped, brick-red earthenware with lead-fluxed green and amber glaze over incised decoration"
+ "material": "Liao 'sancai' (three-color) ware: white-slipped, brick-red earthenware with lead-fluxed green and amber glaze over incised decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-206088",
  "name": "New Year Print: Two Children Presenting a Treasure Basin of \"Cai Yuan Fu Cou\" (\"Source of Wealth and Good Fortune\") and \"Huang Jin Wan Liang\" (\"Ten Thousand Taels of Gold\")",
  "category": "书画",
- "dynasty": "元",
- "dynasty_confidence": "high",
+ "dynasty": "清",
+ "dynasty_confidence": "source",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "33.5 x 22 cm (13 3/16 x 8 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.10"
  },
- "material": "Woodblock print; ink and color on paper. Probably from Beijing; compare with 1980.92.13."
+ "material": "Woodblock print; ink and color on paper. Probably from Beijing; compare with 1980.92.13.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

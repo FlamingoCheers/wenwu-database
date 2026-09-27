@@ -2,11 +2,11 @@
  "relic_id": "HAM-204284",
  "name": "Landscape Illustrations and Fragmentary Text from Chapter Thirteen of the Imperial Commentary on the Buddhist Canon (Tripitaka) Commissioned by Emperor Taizong (r. 976-997)",
  "category": "书画",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  1108,
-  1108
+  960,
+  1127
  ],
  "era_text": "1108",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1962.11.1-3"
  },
- "material": "Three woodblock-printed handscrolls; ink on paper"
+ "material": "Three woodblock-printed handscrolls; ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

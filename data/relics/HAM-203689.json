@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "16th century",
  "dimensions": "cup max.: H. 4.7 × W. 11.6 × D. 7.7 cm (1 7/8 × 4 9/16 × 3 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1950.125.53.A"
  },
- "material": "Carved rhinoceros horn with inlays of turquoise"
+ "material": "Carved rhinoceros horn with inlays of turquoise",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

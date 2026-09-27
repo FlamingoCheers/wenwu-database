@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -4000,
-  -4000
+  -2000
  ],
  "era_text": "c. 4000 BCE - c. 2000 BCE",
  "dimensions": "3.3 x 0.4 cm (1 5/16 x 3/16 in.)\r\nunspecified: 6 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.337"
  },
- "material": "Largely calcified, ivory-colored jade with a few dimly translucent, olive-green spots"
+ "material": "Largely calcified, ivory-colored jade with a few dimly translucent, olive-green spots",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

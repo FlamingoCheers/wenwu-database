@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1747,
-  1747
+  1644,
+  1911
  ],
  "era_text": "Qianlong period, 1747",
  "dimensions": "stand: H. 48.3 × W.  32.1 × D. 17.8 cm (19 × 12 5/8 × 7 in.)\r\ndisk: Diam. 23.2 cm (9 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.280"
  },
- "material": "Han-dynasty nephrite disk; Qing-dynasty carved wood stand with bronze-inlaid imperial inscription on the reverse"
+ "material": "Han-dynasty nephrite disk; Qing-dynasty carved wood stand with bronze-inlaid imperial inscription on the reverse",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

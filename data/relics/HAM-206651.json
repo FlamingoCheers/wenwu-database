@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  9,
-  9
+  618,
+  907
  ],
  "era_text": "9th-10th centuries",
  "dimensions": "H. 76.1 x W. 34.3 cm (29 15/16 x 13 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1934.133"
  },
- "material": "Painted banner; ink and colors on raw cotton. Reportedly retrieved from Turfan by the Le Coq expedition."
+ "material": "Painted banner; ink and colors on raw cotton. Reportedly retrieved from Turfan by the Le Coq expedition.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

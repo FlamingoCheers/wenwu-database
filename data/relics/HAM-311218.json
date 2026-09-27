@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th century",
  "dimensions": "sight: H. 25.8 x W. 25.08 cm (10 3/16 x 9 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.200.A"
  },
- "material": "Ink and color on silk"
+ "material": "Ink and color on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -4,7 +4,10 @@
  "category": "书画",
  "dynasty": "清",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1644,
+  1911
+ ],
  "era_text": null,
  "dimensions": "sight: 93.35 x 70.49 cm (36 3/4 x 27 3/4 in.)\r\nframed: 114.3 x 91.1 x 1.9 cm (45 x 35 7/8 x 3/4 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Hanging scroll, cut and mounted into a frame; ink, color and gold on paper",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1922.10"
  },
- "material": "Hanging scroll, cut and mounted into a frame; ink, color and gold on paper"
+ "material": "Hanging scroll, cut and mounted into a frame; ink, color and gold on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

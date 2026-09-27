@@ -2,11 +2,11 @@
  "relic_id": "HAM-206328",
  "name": "Paper God: Tethered Horse for the Kitchen God, Arbiter of Fate (\"Si Ming Zhu\")",
  "category": "书画",
- "dynasty": "明",
- "dynasty_confidence": "high",
+ "dynasty": "清",
+ "dynasty_confidence": "source",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: 10.3 x 9.6 cm (4 1/16 x 3 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.45"
  },
- "material": "Woodblock print; ink and color on paper; with printed inscription reading: \"\"Si Ming Zhu\" (\"Arbiter of Fate\")\". Probably from Xi'an, Shaanxi; probably related to 1935.37.44."
+ "material": "Woodblock print; ink and color on paper; with printed inscription reading: \"\"Si Ming Zhu\" (\"Arbiter of Fate\")\". Probably from Xi'an, Shaanxi; probably related to 1935.37.44.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

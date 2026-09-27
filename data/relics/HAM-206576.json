@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1438,
-  1438
+  1368,
+  1644
  ],
  "era_text": "1438",
  "dimensions": "painting proper: H. 33.3 x W. (total) 884.2 cm (13 1/8 x 348 1/8 in.)\r\nmounting: H. 35.2 cm (13 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.156"
  },
- "material": "Handscroll; ink on paper; with artist inscription and signature reading \"Jin Jin Yanhui Xie\"; multiple colophons"
+ "material": "Handscroll; ink on paper; with artist inscription and signature reading \"Jin Jin Yanhui Xie\"; multiple colophons",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

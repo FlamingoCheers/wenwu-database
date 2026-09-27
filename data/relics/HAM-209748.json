@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "16th cent. - 17th cent.",
  "dimensions": "21 x 29.2 cm (8 1/4 x 11 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.175.A"
  },
- "material": "Section of a handscroll mounted as an album leaf; ink and light color on paper"
+ "material": "Section of a handscroll mounted as an album leaf; ink and light color on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

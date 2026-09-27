@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -206,
-  -206
+  220
  ],
  "era_text": "206 BCE - 220 CE (?)",
  "dimensions": "0.5 x 16.5 cm (3/16 x 6 1/2 in.)\r\nunspecified: 312 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.552"
  },
- "material": "Dark green nephrite with light brown and russet spots"
+ "material": "Dark green nephrite with light brown and russet spots",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

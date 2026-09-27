@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1662,
-  1722
+  1644,
+  1911
  ],
  "era_text": "possibly Kangxi period, 1662-1722",
  "dimensions": "Length 22.2 x Thickness 0.6 cm (8 3/4 x 1/4 in.)\r\n20 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.477.B"
  },
- "material": "Translucent green nephrite with discolored buff spots"
+ "material": "Translucent green nephrite with discolored buff spots",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

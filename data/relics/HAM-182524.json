@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "8th-9th century",
  "dimensions": "H. 12.8 x Diam. 23.3 cm (5 1/16 x 9 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.279"
  },
- "material": "Burnished black earthenware"
+ "material": "Burnished black earthenware",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

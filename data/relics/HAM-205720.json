@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "probably 15th century",
  "dimensions": "max.: H. 6.7 × Diam. 17.6 cm (2 5/8 × 6 15/16 in.)\r\nbase: Diam. 13 cm (5 1/8 in.)\r\nweight: 754.4 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.49"
  },
- "material": "Numbered Jun ware: light gray stoneware with variegated magenta and blue glaze; with Chinese numeral 8 (ba) inscribed on base; “Ying tai Lan shi yong” (Ocean Terrace, used in the Orchid Room) inscription incised on base at a later date"
+ "material": "Numbered Jun ware: light gray stoneware with variegated magenta and blue glaze; with Chinese numeral 8 (ba) inscribed on base; “Ying tai Lan shi yong” (Ocean Terrace, used in the Orchid Room) inscription incised on base at a later date",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

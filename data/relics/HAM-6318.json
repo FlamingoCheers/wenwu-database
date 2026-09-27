@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  9,
-  9
+  618,
+  907
  ],
  "era_text": "9th century",
  "dimensions": "H. 20.7 x W. 13.4 x Diam. 11.7 cm (8 1/8 x 5 1/4 x 4 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2009.102"
  },
- "material": "Ding ware: Porcelain with pale, ivory-hued glaze over appliqué molded decoration. From North China, probably from the Ding kilns, near Quyang, Hebei province."
+ "material": "Ding ware: Porcelain with pale, ivory-hued glaze over appliqué molded decoration. From North China, probably from the Ding kilns, near Quyang, Hebei province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

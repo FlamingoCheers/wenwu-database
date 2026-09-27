@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -4000,
-  -4000
+  -2000
  ],
  "era_text": "possibly c. 4000 BCE - c. 2000 BCE",
  "dimensions": "1 x 14.4 cm (3/8 x 5 11/16 in.)\r\nunspecified: 308 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.517"
  },
- "material": "Variegated apple-green serpentine with grayish white clouds"
+ "material": "Variegated apple-green serpentine with grayish white clouds",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-202761",
  "name": "Funnel-Shaped Jade Tube",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "春秋",
+ "dynasty_confidence": "source",
  "year_range": [
   -770,
-  -770
+  -476
  ],
  "era_text": "possibly 770 BCE - 476 BCE",
  "dimensions": "8.6 x 3.2 cm (3 3/8 x 1 1/4 in.)\r\nunspecified: 122 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.392"
  },
  "material": "Greenish gray, dimly translucent stone of homogeneous color and texture",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

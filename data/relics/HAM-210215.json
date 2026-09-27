@@ -2,9 +2,12 @@
  "relic_id": "HAM-210215",
  "name": "Small Jade 'Cong' Ritual Implement",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
- "year_range": null,
+ "dynasty": "东周",
+ "dynasty_confidence": "source",
+ "year_range": [
+  -1050,
+  -221
+ ],
  "era_text": null,
  "dimensions": "11 × 5.6 × 5.6 cm (4 5/16 × 2 3/16 × 2 3/16 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Dark brown stone",
@@ -25,5 +28,5 @@
   "inventory_no": "1919.126"
  },
  "material": "Dark brown stone",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

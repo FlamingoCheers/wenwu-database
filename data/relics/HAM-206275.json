@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "H. 63.3 x W. 54 cm (24 15/16 x 21 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.12"
  },
- "material": "Woodblock print; ink on paper; with printed inscription reading from right to left: \"Zeng Fu Ji Bao Cai Shen\" (\"the God of Wealth Who Increases Fortune and Accumulating Treasure\"). Probably from Beijing; compare with 1935.36.60."
+ "material": "Woodblock print; ink on paper; with printed inscription reading from right to left: \"Zeng Fu Ji Bao Cai Shen\" (\"the God of Wealth Who Increases Fortune and Accumulating Treasure\"). Probably from Beijing; compare with 1935.36.60.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

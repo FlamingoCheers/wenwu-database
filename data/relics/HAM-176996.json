@@ -2,11 +2,11 @@
  "relic_id": "HAM-176996",
  "name": "Cylindrical tripod vessel (lian)",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -2,
-  -2
+  -206,
+  9
  ],
  "era_text": "2nd-1st century BCE",
  "dimensions": "H. 16 x W. (across legs) 19.3 x Diam. 20 cm (6 5/16 x 7 5/8 x 7 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.166"
  },
- "material": "Gray stoneware"
+ "material": "Gray stoneware",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

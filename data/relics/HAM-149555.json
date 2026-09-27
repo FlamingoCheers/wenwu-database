@@ -5,8 +5,8 @@
  "dynasty": "宋",
  "dynasty_confidence": "high",
  "year_range": [
-  12,
-  12
+  960,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "H. 7.6 × Diam. 16.8 cm (3 × 6 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2001.222"
  },
- "material": "Jian ware: dark gray stoneware with dark brown glaze enlivened with markings in overglaze iron-brown slip. From the kilns at Shuiji, Jianyang county, Fujian province."
+ "material": "Jian ware: dark gray stoneware with dark brown glaze enlivened with markings in overglaze iron-brown slip. From the kilns at Shuiji, Jianyang county, Fujian province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

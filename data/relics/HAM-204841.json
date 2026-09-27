@@ -2,11 +2,11 @@
  "relic_id": "HAM-204841",
  "name": "Jade Seal with a Chain of Two Rings",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -475,
+  -221
  ],
  "era_text": "3rd cent. BCE - 2nd cent. BCE (?)",
  "dimensions": "base: 2 x 2 cm (13/16 x 13/16 in.)\r\nrings: Diam. 2.4 cm (15/16 in.)\r\n20 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.622"
  },
- "material": "Translucent yellowish green, partly discolored nephrite"
+ "material": "Translucent yellowish green, partly discolored nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

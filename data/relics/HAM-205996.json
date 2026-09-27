@@ -2,11 +2,11 @@
  "relic_id": "HAM-205996",
  "name": "Circular Mirror with Relief Decoration of Lions, Birds, and Other Animals against a Fruiting Grapevine Arabesque (a forgery purporting to date to the Tang dynasty)",
  "category": "青铜器",
- "dynasty": "唐",
- "dynasty_confidence": "high",
+ "dynasty": "现当代",
+ "dynasty_confidence": "source",
  "year_range": [
-  20,
-  20
+  1901,
+  2000
  ],
  "era_text": "20th century",
  "dimensions": "Diam. 21.3 x Thickness 1.9 cm (8 3/8 x 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.342"
  },
- "material": "Cast bronze"
+ "material": "Cast bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

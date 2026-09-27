@@ -2,11 +2,11 @@
  "relic_id": "HAM-204999",
  "name": "Jade Dragon Silhouette",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "3.6 x 9.6 x 0.4 cm (1 7/16 x 3 3/4 x 3/16 in.)\r\nunspecified: 29 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.431"
  },
  "material": "Translucent gray-green stone with streaks of black particles",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

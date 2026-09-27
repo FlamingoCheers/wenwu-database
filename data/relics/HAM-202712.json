@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "first half 8th century",
  "dimensions": "32.3 x 31.3 cm (12 11/16 x 12 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1972.58"
  },
- "material": "Molded pinkish-buff earthenware with cold-painted pigments"
+ "material": "Molded pinkish-buff earthenware with cold-painted pigments",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

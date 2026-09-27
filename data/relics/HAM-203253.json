@@ -2,11 +2,11 @@
  "relic_id": "HAM-203253",
  "name": "Jade Scabbard Buckle",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
   -206,
-  -206
+  9
  ],
  "era_text": "206 BCE - 9 CE",
  "dimensions": "L. 11.7 x W. 2.4 cm (4 5/8 x 15/16 in.)\r\nWeight 80 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.376"
  },
- "material": "Pale green and bone-colored, partly calcified and highly polished nephrite"
+ "material": "Pale green and bone-colored, partly calcified and highly polished nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

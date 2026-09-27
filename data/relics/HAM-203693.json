@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th-19th century",
  "dimensions": "H. 14.5 x W. 5.8 x D. 4.7 cm (5 11/16 x 2 5/16 x 1 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1956.202"
  },
- "material": "Gilt bronze with traces of black pigment (black lacquer?) in the hair"
+ "material": "Gilt bronze with traces of black pigment (black lacquer?) in the hair",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

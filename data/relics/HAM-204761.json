@@ -5,8 +5,8 @@
  "dynasty": "汉",
  "dynasty_confidence": "high",
  "year_range": [
-  -1,
-  -1
+  -206,
+  220
  ],
  "era_text": "1st century BCE-1st century CE",
  "dimensions": "H. 5.6 x W. 3.2 x Thickness 0.8 cm (2 3/16 x 1 1/4 x 5/16 in.)\r\nWeight 31 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.271"
  },
- "material": "White glass with a greenish tinge"
+ "material": "White glass with a greenish tinge",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

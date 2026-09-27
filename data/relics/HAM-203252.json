@@ -2,11 +2,11 @@
  "relic_id": "HAM-203252",
  "name": "Jade Scabbard Buckle",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
   -206,
-  -206
+  9
  ],
  "era_text": "206 BCE - 9 CE",
  "dimensions": "L. 8.5 x W. 2.6 x D. 1.4 cm (3 3/8 x 1 x 9/16 in.)\r\nWeight 46 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.375"
  },
- "material": "Highly translucent, whitish jade with buff markings, slightly calcified"
+ "material": "Highly translucent, whitish jade with buff markings, slightly calcified",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

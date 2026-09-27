@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "34.6 x 41.1 cm (13 5/8 x 16 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.4"
  },
- "material": "Woodblock print; ink and color on paper; with printed inscription reading: \"San Jie Zhi Fu Shi Zhe\" (\"Messenger of Three Realms\"). Probably from Beijing."
+ "material": "Woodblock print; ink and color on paper; with printed inscription reading: \"San Jie Zhi Fu Shi Zhe\" (\"Messenger of Three Realms\"). Probably from Beijing.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

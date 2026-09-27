@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -12,
-  -12
+  -1600,
+  -1050
  ],
  "era_text": "12th-11th century BCE",
  "dimensions": "Diam. 18.2 x Thickness of Collar 0.8 x Thickness 0.3 cm (7 3/16 x 5/16 x 1/8 in.)\r\nWeight 207 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.538"
  },
- "material": "Soft green nephrite with calcified areas which have turned white and opaque"
+ "material": "Soft green nephrite with calcified areas which have turned white and opaque",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

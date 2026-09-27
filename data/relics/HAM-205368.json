@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "16th cent. - 17th cent.",
  "dimensions": "3.7 x 8.7 x 6.9 cm (1 7/16 x 3 7/16 x 2 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.190"
  },
- "material": "Cloudy, grayish white nephrite"
+ "material": "Cloudy, grayish white nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

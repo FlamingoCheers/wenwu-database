@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "17th cent. - 18th cent.",
  "dimensions": "5.1 x 30.1 x 15.5 cm (2 x 11 7/8 x 6 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.16"
  },
- "material": "Huanghuali wood with brass fittings"
+ "material": "Huanghuali wood with brass fittings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-94695",
  "name": "The Lotus Sutra (Miaofa Lianhua Jing)",
  "category": "书画",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  1130,
-  1190
+  1127,
+  1279
  ],
  "era_text": "c. 1130 - 1190",
  "dimensions": "20.8 cm (8 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.807.4"
  },
- "material": "Fourth from a set of eight scrolls; woodblock-printed, accordion-fold book mounted as a handscroll; ink on paper"
+ "material": "Fourth from a set of eight scrolls; woodblock-printed, accordion-fold book mounted as a handscroll; ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

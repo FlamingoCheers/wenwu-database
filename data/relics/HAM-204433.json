@@ -2,11 +2,11 @@
  "relic_id": "HAM-204433",
  "name": "Small Pagoda with Illustrations of Buddhist Figures and 'Jataka' Tales",
  "category": "青铜器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  1030,
-  1030
+  960,
+  1127
  ],
  "era_text": "dated 1030",
  "dimensions": "sight: 50.7 cm (19 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.132"
  },
- "material": "Silver and gilt silver with repouseé designs"
+ "material": "Silver and gilt silver with repouseé designs",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

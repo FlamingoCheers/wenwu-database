@@ -2,11 +2,11 @@
  "relic_id": "HAM-180735",
  "name": "Small Covered Ewer with Arching Handle and Spout and Stylized Lotus Decor, the Cover with Knob in the Form of a Recumbent Feline",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "probably 12th century",
  "dimensions": "with cover: H. 12.8 × W. (across spout) 12 × Diam. 9.6 cm (5 1/16 × 4 3/4 × 3 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.334.45.A-B"
  },
- "material": "Qingbai ware: porcelain with pale bluish glaze over molded and carved decoration"
+ "material": "Qingbai ware: porcelain with pale bluish glaze over molded and carved decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  9,
-  9
+  618,
+  907
  ],
  "era_text": "9th century",
  "dimensions": "9.1 x 17.8 x 11.3 cm (3 9/16 x 7 x 4 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.215"
  },
- "material": "Changsha ware: light gray stoneware with bluish green glaze. From the kilns at Tongguan, Changsha, Hunan province"
+ "material": "Changsha ware: light gray stoneware with bluish green glaze. From the kilns at Tongguan, Changsha, Hunan province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

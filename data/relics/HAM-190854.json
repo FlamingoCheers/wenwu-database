@@ -5,8 +5,8 @@
  "dynasty": "汉",
  "dynasty_confidence": "high",
  "year_range": [
-  -1,
-  -1
+  -206,
+  220
  ],
  "era_text": "1st century BCE – 1st century CE",
  "dimensions": "H. 19.6 x L. 34.2 x D. 16.3 cm (7 11/16 x 13 7/16 x 6 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.158"
  },
- "material": "Gray earthenware"
+ "material": "Gray earthenware",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

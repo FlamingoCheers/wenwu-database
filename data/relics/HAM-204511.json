@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "16th century",
  "dimensions": "H. 16.2 x Diam. 15.2 cm (6 3/8 x 6 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.216"
  },
- "material": "Enameled porcelain: porcelain with decoration painted in overglaze red and green enamels; swith purious underglaze cobalt-blue mark reading \"Xuande nian zao\""
+ "material": "Enameled porcelain: porcelain with decoration painted in overglaze red and green enamels; swith purious underglaze cobalt-blue mark reading \"Xuande nian zao\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

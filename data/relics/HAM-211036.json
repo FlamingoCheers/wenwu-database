@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1626,
-  1626
+  1368,
+  1644
  ],
  "era_text": "1626",
  "dimensions": "painting proper: H. 21.2 x W. 276.7 cm (8 3/8 x 108 15/16 in.)\r\nmounting: H. 25.4 cm (10 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.832"
  },
- "material": "Handscroll; ink on paper"
+ "material": "Handscroll; ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

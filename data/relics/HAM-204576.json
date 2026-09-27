@@ -2,8 +2,8 @@
  "relic_id": "HAM-204576",
  "name": "Ornate Jade Disk in Openwork",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
   -221
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.544"
  },
  "material": "Olive-green and russet nephrite",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

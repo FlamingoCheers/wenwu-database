@@ -2,11 +2,11 @@
  "relic_id": "HAM-317261",
  "name": "Receptacle in the form of a toad, probably a stand",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -2,
-  -2
+  -206,
+  9
  ],
  "era_text": "2nd-1st century BCE",
  "dimensions": "H. 19 x L. 15.2 x W. 20.5 cm (7 1/2 x 6 x 8 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.159"
  },
- "material": "Gray earthenware with traces of cold-painted pigment"
+ "material": "Gray earthenware with traces of cold-painted pigment",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

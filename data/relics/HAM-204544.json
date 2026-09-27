@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "late 19th cent. - early 20th cent.",
  "dimensions": "0.7 x 5.9 cm (1/4 x 2 5/16 in.)\r\nunspecified: 41 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.573"
  },
- "material": "Greenish white nephrite with light brown markings"
+ "material": "Greenish white nephrite with light brown markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

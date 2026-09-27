@@ -4,7 +4,10 @@
  "category": "书画",
  "dynasty": "清",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1644,
+  1911
+ ],
  "era_text": null,
  "dimensions": "17.78 x 33.97 cm (7 x 13 3/8 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Silk",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.380.2"
  },
- "material": "Silk"
+ "material": "Silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

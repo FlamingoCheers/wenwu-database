@@ -2,11 +2,11 @@
  "relic_id": "HAM-167756",
  "name": "Compressed Globular Bottle with Long Neck and Decoration of Rolling Waves",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th-early 14th century",
  "dimensions": "18.5 x 10.2 cm (7 5/16 x 4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2001.119"
  },
- "material": "Painted Jizhou ware: very light gray stoneware with clear glaze over decoration painted in iron-brown slip. From the Jizhou kilns, near Yonghe, Ji'an, Jiangxi province."
+ "material": "Painted Jizhou ware: very light gray stoneware with clear glaze over decoration painted in iron-brown slip. From the Jizhou kilns, near Yonghe, Ji'an, Jiangxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

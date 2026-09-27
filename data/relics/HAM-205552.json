@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  9,
-  9
+  1201,
+  1300
  ],
  "era_text": "late Tang to Song period, 9th-13th century",
  "dimensions": "H. 2.2 x Diam. 3.2 cm (7/8 x 1 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1941.251.A"
  },
- "material": "Transparent amber glass over lead core, the lead possibly covered with gold foil"
+ "material": "Transparent amber glass over lead core, the lead possibly covered with gold foil",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

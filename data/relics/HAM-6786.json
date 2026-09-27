@@ -5,8 +5,8 @@
  "dynasty": "五代十国",
  "dynasty_confidence": "high",
  "year_range": [
-  10,
-  10
+  907,
+  960
  ],
  "era_text": "10th - early 11th century",
  "dimensions": "including lid: H. 5 x Diam. 12.1 cm (1 15/16 x 4 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2015.29"
  },
- "material": "Yue ware: light gray stoneware with celadon glaze over molded, carved, and incised decoration"
+ "material": "Yue ware: light gray stoneware with celadon glaze over molded, carved, and incised decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

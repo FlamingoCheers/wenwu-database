@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "mid 17th century",
  "dimensions": "31.1 x 21.9 cm (12 1/4 x 8 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.830"
  },
- "material": "Album leaf; ink and light colors on paper and with signature reading \"Jiesou Lan Ying\""
+ "material": "Album leaf; ink and light colors on paper and with signature reading \"Jiesou Lan Ying\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

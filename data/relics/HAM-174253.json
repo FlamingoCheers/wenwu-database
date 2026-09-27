@@ -2,11 +2,11 @@
  "relic_id": "HAM-174253",
  "name": "Circular Dish with Blossoming Peony Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th century",
  "dimensions": "H. 4.5 x Diam. 20.1 cm (1 3/4 x 7 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2001.13"
  },
- "material": "Yaozhou ware: light gray stoneware with celadon glaze over carved decoration. From the Yaozhou kilns at Tongchuan, Shaanxi province."
+ "material": "Yaozhou ware: light gray stoneware with celadon glaze over carved decoration. From the Yaozhou kilns at Tongchuan, Shaanxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -2000,
-  -2000
+  -1700
  ],
  "era_text": "Longshan or Erlitou culture, c. 2000 BCE - c. 1700 BCE",
  "dimensions": "18.8 x 4.7 x 0.3 cm (7 3/8 x 1 7/8 x 1/8 in.)\r\nunspecified: 45 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.70"
  },
- "material": "Translucent, deep celadon-green nephrite with a few whitish markings"
+ "material": "Translucent, deep celadon-green nephrite with a few whitish markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

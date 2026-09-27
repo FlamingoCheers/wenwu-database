@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  14,
-  14
+  1368,
+  1644
  ],
  "era_text": "late 14th century",
  "dimensions": "H. 33.8 x Diam. 12.5 cm (13 5/16 x 4 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1961.113"
  },
- "material": "Red-and-white ware: porcelain with decoration painted in underglaze copper red"
+ "material": "Red-and-white ware: porcelain with decoration painted in underglaze copper red",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

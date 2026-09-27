@@ -2,11 +2,11 @@
  "relic_id": "HAM-204851",
  "name": "Jade Archer's Ring",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "4.3 x 3.3 x 2.1 cm (1 11/16 x 1 5/16 x 13/16 in.)\r\nunspecified: 19 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.484"
  },
  "material": "Dark olive-green neprhite with cream-colored streaks",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-205835",
  "name": "Circular Dish with Near-Vertical Walls and Blossoming Peony Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "probably 12th century",
  "dimensions": "H. 3.4 x Diam. 13.9 cm (1 5/16 x 5 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.149"
  },
- "material": "Qingbai ware: porcelain with pale sky-blue glaze over carved and combed decoration; the rim banded with metal"
+ "material": "Qingbai ware: porcelain with pale sky-blue glaze over carved and combed decoration; the rim banded with metal",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "probably 19th century",
  "dimensions": "painting max.: H. 24.5 x W. 53.2 cm (9 5/8 x 20 15/16 in.)\r\nmat size: H. 36.2 x W. 55.2 cm (14 1/4 x 21 3/4 in.)\r\npainting chord: H. 18.5 cm (7 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2016.23"
  },
- "material": "Folding fan painting mounted as an album leaf; ink on gold-flecked paper"
+ "material": "Folding fan painting mounted as an album leaf; ink on gold-flecked paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

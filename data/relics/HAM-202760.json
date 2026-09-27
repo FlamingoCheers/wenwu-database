@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "c. 16th cent. BCE - c. 11th cent. BCE",
  "dimensions": "16.8 x 1.4 x 1.1 cm (6 5/8 x 9/16 x 7/16 in.)\r\nunspecified: 49 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.390"
  },
- "material": "Pale green nephrite with white streaks"
+ "material": "Pale green nephrite with white streaks",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,10 +2,10 @@
  "relic_id": "HAM-340623",
  "name": "Chinese Body Shan-Shui (landscape)",
  "category": "书画",
- "dynasty": "清",
- "dynasty_confidence": "low",
+ "dynasty": "现当代",
+ "dynasty_confidence": "source",
  "year_range": [
-  1901,
+  2001,
   2100
  ],
  "era_text": "20th-21st century",
@@ -21,12 +21,12 @@
  "source_url": "https://harvardartmuseums.org/collections/object/340623",
  "license": "Harvard Art Museums 开放影像",
  "fetched_at": "2026-09-26",
- "needs_review": true,
+ "needs_review": false,
  "collection": {
   "museum": "哈佛艺术博物馆",
   "region": "北美洲",
   "inventory_no": "2012.116.5"
  },
  "material": "Chromogenic print",
- "updated_at": "2026-09-26T21:49:07"
+ "updated_at": "2026-09-27"
 }

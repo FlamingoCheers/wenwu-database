@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  6,
-  6
+  550,
+  577
  ],
  "era_text": "6th – early 7th century",
  "dimensions": "H. 26.4 x W. 13 x L. 30 cm (10 3/8 x 5 1/8 x 11 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.255"
  },
- "material": "Stoneware with lead fluxed glaze"
+ "material": "Stoneware with lead fluxed glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

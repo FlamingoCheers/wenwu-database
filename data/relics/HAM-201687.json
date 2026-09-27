@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "probably 18th century",
  "dimensions": "rock: H. 66 x W. 35 cm (26 x 13 3/4 in.)\r\nrock with base: H. 76.9 x W. 35 x D. 20.5 cm (30 1/4 x 13 3/4 x 8 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1981.206"
  },
- "material": "Ying stone: black limestone with veins of white calcite. From Yingde, Guangdong province."
+ "material": "Ying stone: black limestone with veins of white calcite. From Yingde, Guangdong province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

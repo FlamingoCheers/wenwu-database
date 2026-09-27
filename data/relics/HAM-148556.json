@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -5000,
-  -4000
+  -3000
  ],
  "era_text": "Banpo phase, c. 5000-4000 BCE",
  "dimensions": "H. 13 x Diam. 21.2 cm (5 1/8 x 8 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.7"
  },
- "material": "Earthenware with traces of slip-painted decoration"
+ "material": "Earthenware with traces of slip-painted decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1567,
-  1572
+  1368,
+  1644
  ],
  "era_text": "Longqing period, 1567-1572",
  "dimensions": "H. 2.8 x Diam. 12.8 cm (1 1/8 x 5 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.251"
  },
- "material": "Enameled blue-and-white ware: molded porcelain with decoration reserved in white against an underglaze cobalt-blue ground and yellow and red enamels over reserved decoration; with underglaze cobalt-blue mark reading 'Da Ming Longqing nian zao' within a double circle on the base"
+ "material": "Enameled blue-and-white ware: molded porcelain with decoration reserved in white against an underglaze cobalt-blue ground and yellow and red enamels over reserved decoration; with underglaze cobalt-blue mark reading 'Da Ming Longqing nian zao' within a double circle on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

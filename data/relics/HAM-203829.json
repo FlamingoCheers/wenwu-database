@@ -2,11 +2,11 @@
  "relic_id": "HAM-203829",
  "name": "Bodhisattva with Attendants and Donor (a forgery purporting to date to the Tang dynasty, from Dunhuang, Gansu province)",
  "category": "书画",
- "dynasty": "唐",
- "dynasty_confidence": "high",
+ "dynasty": "现当代",
+ "dynasty_confidence": "source",
  "year_range": [
-  20,
-  20
+  1901,
+  2000
  ],
  "era_text": "early 20th Century",
  "dimensions": "painting proper: 132.1 x 72.4 cm (52 x 28 1/2 in.)\r\npanel: 162.6 x 97.8 cm (64 x 38 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1950.69"
  },
- "material": "Ink and colors on silk gauze"
+ "material": "Ink and colors on silk gauze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

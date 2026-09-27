@@ -2,11 +2,11 @@
  "relic_id": "HAM-204258",
  "name": "Hu or zhong storage vessel",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -475,
+  -221
  ],
  "era_text": "3rd-1st century BCE",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.122"
  },
- "material": "Lacquered wood and bronze"
+ "material": "Lacquered wood and bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

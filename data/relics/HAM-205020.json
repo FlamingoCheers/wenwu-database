@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -12,
-  -12
+  -1600,
+  -1050
  ],
  "era_text": "12th-11th century BCE",
  "dimensions": "H. 3.7 x W. 4.8 x Thickness 0.5 cm (1 7/16 x 1 7/8 x 3/16 in.)\r\nWeight 18 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.262"
  },
- "material": "Mottled pale green and whitish nephrite, with traces of red pigment"
+ "material": "Mottled pale green and whitish nephrite, with traces of red pigment",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

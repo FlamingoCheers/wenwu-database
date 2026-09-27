@@ -2,11 +2,11 @@
  "relic_id": "HAM-204564",
  "name": "Covered Jade Cup with Gilt Bronze Fitting Decorated with Three Felines and Three Crested Birds",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -2,
-  -2
+  -206,
+  9
  ],
  "era_text": "2nd-1st centuries BCE",
  "dimensions": "H. 7.7 x Diam. 11.2 cm (3 1/16 x 4 7/16 in.)\r\nWeight 543 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.51.22"
  },
- "material": "Translucent pale green nephrite with brown veins and slightly calcified, bone-colored patches; gilt bronze rim"
+ "material": "Translucent pale green nephrite with brown veins and slightly calcified, bone-colored patches; gilt bronze rim",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

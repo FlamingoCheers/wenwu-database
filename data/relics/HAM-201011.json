@@ -5,8 +5,8 @@
  "dynasty": "宋",
  "dynasty_confidence": "high",
  "year_range": [
-  12,
-  12
+  960,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "5.9 x 11.8 cm (2 5/16 x 4 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1995.3"
  },
- "material": "Jizhou ware: light gray stoneware with tortoiseshell glaze on the exterior, and with papercut decoration reserved in dark brown glaze against a variegated buff ground on the interior.  From the kilns at Yonghe, Ji'an, Jiangxi province."
+ "material": "Jizhou ware: light gray stoneware with tortoiseshell glaze on the exterior, and with papercut decoration reserved in dark brown glaze against a variegated buff ground on the interior.  From the kilns at Yonghe, Ji'an, Jiangxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

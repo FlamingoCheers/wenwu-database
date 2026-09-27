@@ -4,7 +4,10 @@
  "category": "书画",
  "dynasty": "清",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1644,
+  1911
+ ],
  "era_text": null,
  "dimensions": "25 x 55.3 cm (9 13/16 x 21 3/4 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Folding fan: ink on gold paper",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.895"
  },
- "material": "Folding fan: ink on gold paper"
+ "material": "Folding fan: ink on gold paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

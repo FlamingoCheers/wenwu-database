@@ -2,11 +2,11 @@
  "relic_id": "HAM-204607",
  "name": "Ornamental Jade Archer's Ring",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -206,
+  9
  ],
  "era_text": "3rd-2nd century BCE",
  "dimensions": "H. 6 cm (2 3/8 in.)\r\nWeight 22 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.639"
  },
- "material": "Strongly translucent, white, yellowish, and brown jade with a lustrous polish"
+ "material": "Strongly translucent, white, yellowish, and brown jade with a lustrous polish",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

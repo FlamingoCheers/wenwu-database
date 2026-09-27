@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "c. 16th cent. BCE - c. 14th cent. BCE",
  "dimensions": "1 x 5.9 cm (3/8 x 2 5/16 in.)\r\nunspecified: 60 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.488"
  },
- "material": "Whitish green nephrite with markings and a short, dark vein; traces of cinnabar"
+ "material": "Whitish green nephrite with markings and a short, dark vein; traces of cinnabar",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

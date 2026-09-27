@@ -5,8 +5,8 @@
  "dynasty": "隋",
  "dynasty_confidence": "high",
  "year_range": [
-  608,
-  608
+  581,
+  618
  ],
  "era_text": "dated 608",
  "dimensions": "H. 23.2 x W. 611 cm (9 1/8 x 240 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1924.71"
  },
- "material": "Handscroll; ink on paper\r\n"
+ "material": "Handscroll; ink on paper\r\n",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

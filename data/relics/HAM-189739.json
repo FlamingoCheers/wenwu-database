@@ -2,11 +2,11 @@
  "relic_id": "HAM-189739",
  "name": "Lacquer-coated wide-bodied jar",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -206,
+  9
  ],
  "era_text": "3rd-2nd century BCE",
  "dimensions": "H. 34.1 x Diam. 32.4 cm (13 7/16 x 12 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.168.A-B"
  },
- "material": "Lacquered earthenware"
+ "material": "Lacquered earthenware",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

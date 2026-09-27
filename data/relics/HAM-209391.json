@@ -2,11 +2,11 @@
  "relic_id": "HAM-209391",
  "name": "Printed Image of a Standing Buddha and Adoring Figures (A Forgery Purporting to Date to the Tang Dynasty)",
  "category": "书画",
- "dynasty": "唐",
- "dynasty_confidence": "high",
+ "dynasty": "现当代",
+ "dynasty_confidence": "source",
  "year_range": [
-  20,
-  20
+  1901,
+  2000
  ],
  "era_text": "early 20th century",
  "dimensions": "H. 77.1 x W. 51.4 cm (30 3/8 x 20 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1926.13"
  },
- "material": "Hand-colored Buddhist woodblock print; ink and color on paper"
+ "material": "Hand-colored Buddhist woodblock print; ink and color on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

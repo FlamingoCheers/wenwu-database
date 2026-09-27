@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  5,
-  5
+  386,
+  534
  ],
  "era_text": "first half 5th-first half 6th century",
  "dimensions": "H. 15.4 x W. 4.8 x D. 4.2 cm (6 1/16 x 1 7/8 x 1 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.292"
  },
- "material": "Cast bronze with cold-worked elements"
+ "material": "Cast bronze with cold-worked elements",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1900,
-  1900
+  1644,
+  1911
  ],
  "era_text": "c. 1900",
  "dimensions": "176.2 x 310.2 cm (69 3/8 x 122 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1989.26"
  },
- "material": "Six-panel folding screen: ink on paper; Japanese mounting"
+ "material": "Six-panel folding screen: ink on paper; Japanese mounting",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

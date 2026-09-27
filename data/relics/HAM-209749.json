@@ -4,7 +4,10 @@
  "category": "书画",
  "dynasty": "明",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1368,
+  1644
+ ],
  "era_text": null,
  "dimensions": "painting proper: H. 50.4 × W. 41.3 cm (19 13/16 × 16 1/4 in.)\r\noverall mounting, including roller ends and suspension cord: H. 100 × W. 54.6 cm (39 3/8 × 21 1/2 in.)\r\n",
  "summary": "哈佛艺术博物馆著录：Chinese；Hanging scroll; ink and slight color on silk",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.178"
  },
- "material": "Hanging scroll; ink and slight color on silk"
+ "material": "Hanging scroll; ink and slight color on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

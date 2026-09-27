@@ -5,8 +5,8 @@
  "dynasty": "隋",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  581,
+  618
  ],
  "era_text": "7th century",
  "dimensions": "21.5 cm (8 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1978.100"
  },
- "material": "Lead-glazed funerary ware: molded white earthenware with traces of lead-fluxed, pale yellow glaze and with further traces of overglaze cold-painted pigments"
+ "material": "Lead-glazed funerary ware: molded white earthenware with traces of lead-fluxed, pale yellow glaze and with further traces of overglaze cold-painted pigments",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

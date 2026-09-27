@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "late 17th-early 18th century",
  "dimensions": "H. 10.8 x Diam. 25.4 cm (4 1/4 x 10 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1960.233"
  },
- "material": "Enameled porcelain, \"famille verte\" type: porcelain with decoration painted in overglaze polychrome enamels"
+ "material": "Enameled porcelain, \"famille verte\" type: porcelain with decoration painted in overglaze polychrome enamels",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

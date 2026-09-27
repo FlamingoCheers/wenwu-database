@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "17th-20th century",
  "dimensions": "Ox: H. 18.4 × W. 30.5 × D. 14 cm (7 1/4 × 12 × 5 1/2 in.)\r\nStand: H. 5.7 × W. 21 × D. 14 cm (2 1/4 × 8 1/4 × 5 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.55.1.A-B"
  },
- "material": "Bronze and enamel"
+ "material": "Bronze and enamel",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

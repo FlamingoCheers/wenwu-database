@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1368,
+  1644
  ],
  "era_text": "17th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.55.8"
  },
- "material": "Cast bronze with decoration inlaid in hseet gold, silver, and sheet silver"
+ "material": "Cast bronze with decoration inlaid in hseet gold, silver, and sheet silver",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

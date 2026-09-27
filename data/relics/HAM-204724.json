@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "probably mid 16th century",
  "dimensions": "31.4 x 15.8 x 8.8 cm (12 3/8 x 6 1/4 x 3 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.228.A-B"
  },
- "material": "\"Wucai\" (five-color) ware, of so-called \"kinrande\" type: porcelain with decoration painted in underglaze cobalt blue and overglaze polychrome and gold enamels; with underglaze cobalt-blue mark reading \"Fu Gui Jia Qi\" on the base"
+ "material": "\"Wucai\" (five-color) ware, of so-called \"kinrande\" type: porcelain with decoration painted in underglaze cobalt blue and overglaze polychrome and gold enamels; with underglaze cobalt-blue mark reading \"Fu Gui Jia Qi\" on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

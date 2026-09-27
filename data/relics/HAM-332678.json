@@ -4,7 +4,10 @@
  "category": "织绣",
  "dynasty": "清",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1644,
+  1911
+ ],
  "era_text": null,
  "dimensions": "55.88 cm (22 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Sisal",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.257.A-R"
  },
- "material": "Sisal"
+ "material": "Sisal",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

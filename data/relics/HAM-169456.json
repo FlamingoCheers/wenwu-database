@@ -5,8 +5,8 @@
  "dynasty": "宋",
  "dynasty_confidence": "high",
  "year_range": [
-  12,
-  12
+  960,
+  1279
  ],
  "era_text": "12th cent. - 13th cent.",
  "dimensions": "1.9 x 6.6 x 4.1 cm (3/4 x 2 5/8 x 1 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.27.7"
  },
- "material": "Guan ware: dark gray stoneware body with a misfired or degraded grayish green celadon glaze. From the Guan kilns near Hangzhou, Zhejiang province"
+ "material": "Guan ware: dark gray stoneware body with a misfired or degraded grayish green celadon glaze. From the Guan kilns near Hangzhou, Zhejiang province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

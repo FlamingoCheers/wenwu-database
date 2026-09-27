@@ -4,7 +4,10 @@
  "category": "书画",
  "dynasty": "明",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1368,
+  1644
+ ],
  "era_text": null,
  "dimensions": "23.8 x 51 cm (9 3/8 x 20 1/16 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Fan mounted as album leaf; ink on silvery paper",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.861"
  },
- "material": "Fan mounted as album leaf; ink on silvery paper"
+ "material": "Fan mounted as album leaf; ink on silvery paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

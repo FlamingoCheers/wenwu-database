@@ -2,11 +2,11 @@
  "relic_id": "HAM-205058",
  "name": "Feline in Decorative Jade Triangle (one of a pair)",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -475,
+  -221
  ],
  "era_text": "3rd century BCE",
  "dimensions": "H. 6.5 x W. 11.8 x Thickness 0.5 cm (2 9/16 x 4 5/8 x 3/16 in.)\r\nWeight 29 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.442.B"
  },
- "material": "Strongly translucent, pale green and smoke-colored nephrite"
+ "material": "Strongly translucent, pale green and smoke-colored nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

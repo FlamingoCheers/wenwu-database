@@ -5,8 +5,8 @@
  "dynasty": "新石器时代",
  "dynasty_confidence": "high",
  "year_range": [
-  -3500,
-  -3500
+  -4500,
+  -3000
  ],
  "era_text": "c. 3500 - c. 2500 BCE",
  "dimensions": "H. 11.3 x W. 7 x Thickness 0.7 cm (4 7/16 x 2 3/4 x 1/4 in.)\r\nWeight 298 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.627"
  },
- "material": "Celadon-green nephrite with light brown markings"
+ "material": "Celadon-green nephrite with light brown markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

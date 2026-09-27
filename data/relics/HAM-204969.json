@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -14,
-  -14
+  -1600,
+  -1050
  ],
  "era_text": "14th cent. BCE - 8th cent. BCE",
  "dimensions": "7 x 2.7 x 0.3 cm (2 3/4 x 1 1/16 x 1/8 in.)\r\nunspecified: 9 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.245"
  },
- "material": "Calcified celadon-colored nephrite; coated with patches of cinnabar"
+ "material": "Calcified celadon-colored nephrite; coated with patches of cinnabar",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

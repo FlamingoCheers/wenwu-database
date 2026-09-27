@@ -4,7 +4,10 @@
  "category": "书画",
  "dynasty": "明",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1368,
+  1644
+ ],
  "era_text": null,
  "dimensions": "painting proper: H. 97 x W. 42.2 cm (38 3/16 x 16 5/8 in.)\r\nframed: H. 121.3 x W. 61 cm (47 3/4 x 24 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Ink and color on silk",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.201"
  },
- "material": "Ink and color on silk"
+ "material": "Ink and color on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

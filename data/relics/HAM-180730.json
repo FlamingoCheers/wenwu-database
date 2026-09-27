@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "8th-9th century",
  "dimensions": "6.7 x 6.9 cm (2 5/8 x 2 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.334.30"
  },
- "material": "Tang white ware: white stoneware with clear glaze"
+ "material": "Tang white ware: white stoneware with clear glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

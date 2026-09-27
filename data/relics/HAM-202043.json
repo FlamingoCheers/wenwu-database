@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -1699,
-  -1699
+  -1600,
+  -1050
  ],
  "era_text": "c. 1699 BCE -1028 BCE",
  "dimensions": "2.8 cm (1 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1983.75"
  },
- "material": "Nephrite"
+ "material": "Nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

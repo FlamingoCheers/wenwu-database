@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1595,
-  1595
+  1368,
+  1644
  ],
  "era_text": "1595",
  "dimensions": "47 cm (18 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.845"
  },
- "material": "Handscroll; ink and color on silk; with signature reading \"Li Shida\""
+ "material": "Handscroll; ink and color on silk; with signature reading \"Li Shida\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

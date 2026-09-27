@@ -5,8 +5,8 @@
  "dynasty": "宋",
  "dynasty_confidence": "high",
  "year_range": [
-  12,
-  12
+  960,
+  1279
  ],
  "era_text": "12th century",
  "dimensions": "H. 7 x Diam. 22 cm (2 3/4 x 8 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2001.47"
  },
- "material": "Qingbai ware: porcelain with pale sky-blue glaze over incised and carved"
+ "material": "Qingbai ware: porcelain with pale sky-blue glaze over incised and carved",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

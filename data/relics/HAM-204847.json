@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -4000,
-  -4000
+  -2000
  ],
  "era_text": "c. 4000 BCE - c. 2000 BCE",
  "dimensions": "1.4 x 17.9 cm (9/16 x 7 1/16 in.)\r\n791 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.524"
  },
- "material": "Slightly translucent, mottled dark green actinolite"
+ "material": "Slightly translucent, mottled dark green actinolite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

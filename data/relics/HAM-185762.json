@@ -2,11 +2,11 @@
  "relic_id": "HAM-185762",
  "name": "Potter's Wheel Component: Cylindrical Axle-Receiving Cup with Glazed, Conical Opening",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "H. 5.2 x Diam. 7.5 cm (2 1/16 x 2 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.235"
  },
- "material": "Light gray stoneware, the conical opening with celadon glaze, the exterior with orange-rust-hued skin. From the Longquan kilns at Longquan, Zhejiang province."
+ "material": "Light gray stoneware, the conical opening with celadon glaze, the exterior with orange-rust-hued skin. From the Longquan kilns at Longquan, Zhejiang province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

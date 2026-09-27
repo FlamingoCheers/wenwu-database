@@ -2,11 +2,11 @@
  "relic_id": "HAM-176278",
  "name": "Sherd: Square Fragment from the Wall of a Circular Vessel",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  960,
+  1127
  ],
  "era_text": "first quarter 12th century",
  "dimensions": "5 x 4.7 cm (1 15/16 x 1 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.360.7"
  },
- "material": "Probably Ru ware: light gray stoneware body with pale bluish green glaze, the interior glaze with white to buff cloudiness due either to under firing or to burial (in the waste heap at the kiln site). Probably from the Ru kilns, Henan province"
+ "material": "Probably Ru ware: light gray stoneware body with pale bluish green glaze, the interior glaze with white to buff cloudiness due either to under firing or to burial (in the waste heap at the kiln site). Probably from the Ru kilns, Henan province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

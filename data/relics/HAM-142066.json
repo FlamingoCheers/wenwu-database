@@ -2,11 +2,11 @@
  "relic_id": "HAM-142066",
  "name": "Game Board, from the tomb sculpture set: Three Capped Men Kneeling around a Low Table and Playing 'Liubo'",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
   1,
-  1
+  200
  ],
  "era_text": "1st cent. - 2nd cent.",
  "dimensions": "2 x 16 x 12 cm (13/16 x 6 5/16 x 4 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2003.174.E"
  },
- "material": "Lead-glazed ware: molded, brick-red earthenware with degraded, opalescent, emerald-green, lead-fluxed glaze"
+ "material": "Lead-glazed ware: molded, brick-red earthenware with degraded, opalescent, emerald-green, lead-fluxed glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

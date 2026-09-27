@@ -2,11 +2,11 @@
  "relic_id": "HAM-204727",
  "name": "Jade Bird and Dragon Configuration",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "7 x 11.4 x 0.6 cm (2 3/4 x 4 1/2 x 1/4 in.)\r\nunspecified: 55 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.451"
  },
  "material": "Highly polished, pale greenish and dark brown translucent nephrite",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th cent. BCE - 8th cent. BCE",
  "dimensions": "4.5 x 1 x 0.4 cm (1 3/4 x 3/8 x 3/16 in.)\r\nunspecified: 3 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.184"
  },
- "material": "Translucent light green nephrite, partly decomposed, turning warm, opaque white"
+ "material": "Translucent light green nephrite, partly decomposed, turning warm, opaque white",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

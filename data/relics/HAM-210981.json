@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1747,
-  1747
+  1644,
+  1911
  ],
  "era_text": "1747",
  "dimensions": "image proper: H. 97.4 x W. 51.4 cm (38 3/8 x 20 1/4 in.)\r\npaper mounting only: H. 165.7 x W. 64.1 cm (65 1/4 x 25 1/4 in.)\r\nfull mounting, including cord and roller ends: H. 169.5 x W. 69.9 cm (66 3/4 x 27 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.899"
  },
- "material": "Woodblock print mounted as a hanging scroll; ink and color on paper, with hand-applied color"
+ "material": "Woodblock print mounted as a hanging scroll; ink and color on paper, with hand-applied color",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th century",
  "dimensions": "H. 3.8 x Diam. 6.4 cm (1 1/2 x 2 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.178"
  },
- "material": "Enameled blue-and-white ware, \"doucai\" type: porcelain with decoration painted in underglaze cobalt blue and overglaze polychrome enamels; with spurious underglaze cobalt blue mark reading \"Da Ming Chenghua nian zhi\" within a circle on the base"
+ "material": "Enameled blue-and-white ware, \"doucai\" type: porcelain with decoration painted in underglaze cobalt blue and overglaze polychrome enamels; with spurious underglaze cobalt blue mark reading \"Da Ming Chenghua nian zhi\" within a circle on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "辽",
  "dynasty_confidence": "high",
  "year_range": [
-  10,
-  10
+  907,
+  1125
  ],
  "era_text": "10th century",
  "dimensions": "H. 11.5 x W. 5.1 x D. 2.5 cm (4 1/2 x 2 x 1 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.68"
  },
- "material": "Gilt bronze"
+ "material": "Gilt bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

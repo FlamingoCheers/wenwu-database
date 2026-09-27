@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -12,
-  -12
+  -1600,
+  -1050
  ],
  "era_text": "12th-11th century BCE",
  "dimensions": "H. 22.4 x W. 17.6 cm (8 13/16 x 6 15/16 in.)\r\nWeight 1936.27 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1944.57.19"
  },
- "material": "Cast bronze; with inscription cast on the interior wall"
+ "material": "Cast bronze; with inscription cast on the interior wall",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

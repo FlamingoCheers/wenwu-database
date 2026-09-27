@@ -4,7 +4,10 @@
  "category": "瓷器",
  "dynasty": "宋",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  960,
+  1279
+ ],
  "era_text": null,
  "dimensions": "5.6 x 6.5 cm (2 3/16 x 2 9/16 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Light gray stoneware with dark brown glaze, the markings in overglaze iron oxide",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1946.18.8"
  },
- "material": "Light gray stoneware with dark brown glaze, the markings in overglaze iron oxide"
+ "material": "Light gray stoneware with dark brown glaze, the markings in overglaze iron oxide",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

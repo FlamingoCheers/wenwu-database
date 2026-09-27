@@ -5,8 +5,8 @@
  "dynasty": "辽",
  "dynasty_confidence": "high",
  "year_range": [
-  11,
-  11
+  907,
+  1125
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "H. 19 x Diam. 12.5 cm (7 1/2 x 4 15/16 in.)\r\nacross handles: W. 14.6 cm (5 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.281.A-B"
  },
- "material": "Earthenware with green lead glaze"
+ "material": "Earthenware with green lead glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

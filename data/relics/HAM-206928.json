@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th-19th century",
  "dimensions": "H. 34 x W. 128.5 cm (13 3/8 x 50 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1933.188"
  },
- "material": "Handscroll; ink on paper"
+ "material": "Handscroll; ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

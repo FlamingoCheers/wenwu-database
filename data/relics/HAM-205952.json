@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1506,
-  1521
+  1368,
+  1644
  ],
  "era_text": "Zhengde period, 1506-1521",
  "dimensions": "H. 12.4 x Diam. 15.5 cm (4 7/8 x 6 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.246"
  },
- "material": "Enameled blue-and-white ware: porcelain with decoration in underglaze cobalt blue, the background areas embellished later with overglaze red enamel; underglaze cobalt blue mark reading \"Zhengde nian zhi\" within a double circle on the base"
+ "material": "Enameled blue-and-white ware: porcelain with decoration in underglaze cobalt blue, the background areas embellished later with overglaze red enamel; underglaze cobalt blue mark reading \"Zhengde nian zhi\" within a double circle on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-200900",
  "name": "Small Bowl with Decoration of Moon, Clouds, and Blossoming Plum",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-14th century",
  "dimensions": "4.2 x 13.5 cm (1 5/8 x 5 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1994.50"
  },
- "material": "Jizhou ware: light gray stoneware with dark brown glaze and with splashes of transparent amber glaze, the decoration painted in overglaze buff. From the kilns at Yonghe, Ji'an, Jiangxi province."
+ "material": "Jizhou ware: light gray stoneware with dark brown glaze and with splashes of transparent amber glaze, the decoration painted in overglaze buff. From the kilns at Yonghe, Ji'an, Jiangxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

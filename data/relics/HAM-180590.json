@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  9,
-  9
+  618,
+  907
  ],
  "era_text": "9th-10th century",
  "dimensions": "2.7 x 10.3 cm (1 1/16 x 4 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.334.26"
  },
- "material": "Tang/Five Dynasties white ware, possibly Xing ware: porcelain with clear glaze,\tthe barbed rim knife-cut.  Possibly from the Xing kilns, Hebei province."
+ "material": "Tang/Five Dynasties white ware, possibly Xing ware: porcelain with clear glaze,\tthe barbed rim knife-cut.  Possibly from the Xing kilns, Hebei province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

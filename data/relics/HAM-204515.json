@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "mid 16th-early 17th century",
  "dimensions": "H. 14.5 x Diam. 12 cm (5 11/16 x 4 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.221.A-B"
  },
- "material": "Enameled porcelain: porcelain with decoration painted in overglaze red and green enamels; with underglaze cobalt-blue mark simulating a coin and reading \"Chang Ming Fu Gui\""
+ "material": "Enameled porcelain: porcelain with decoration painted in overglaze red and green enamels; with underglaze cobalt-blue mark simulating a coin and reading \"Chang Ming Fu Gui\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

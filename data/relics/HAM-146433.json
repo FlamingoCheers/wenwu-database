@@ -5,8 +5,8 @@
  "dynasty": "辽",
  "dynasty_confidence": "high",
  "year_range": [
-  12,
-  12
+  907,
+  1125
  ],
  "era_text": "12th century",
  "dimensions": "H. 4.8 x Diam. 13.6 cm (1 7/8 x 5 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2002.42"
  },
- "material": "Porcelain with mold-impressed decoration under pale sky-blue glaze"
+ "material": "Porcelain with mold-impressed decoration under pale sky-blue glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

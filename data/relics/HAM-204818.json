@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3300,
-  -3300
+  -2200
  ],
  "era_text": "c. 3300 - c. 2000 BCE",
  "dimensions": "Diam. 13.8 x Thickness 1.2 cm (5 7/16 x 1/2 in.)\r\nWeight 373 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.518"
  },
- "material": "Cream-colored nephrite with light brown markings and a dark brown area at the edge"
+ "material": "Cream-colored nephrite with light brown markings and a dark brown area at the edge",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

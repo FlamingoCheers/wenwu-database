@@ -2,11 +2,11 @@
  "relic_id": "HAM-78261",
  "name": "Funerary Model of a Defensive Watch Tower Set in a Basin Representing a Moat",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  2,
-  2
+  101,
+  200
  ],
  "era_text": "2nd century",
  "dimensions": "77 x 25.5 x 37 cm (30 5/16 x 10 1/16 x 14 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2003.46.A-C"
  },
- "material": "Molded brick-red earthenware with emerald green, lead-fluxed glaze"
+ "material": "Molded brick-red earthenware with emerald green, lead-fluxed glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "元",
  "dynasty_confidence": "high",
  "year_range": [
-  14,
-  14
+  1279,
+  1368
  ],
  "era_text": "14th century",
  "dimensions": "81.2 x 60 cm (31 15/16 x 23 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1991.262"
  },
- "material": "Fragment of a wall painting: ink and colors on a white-washed clay ground. Probably from a Daoist temple in Shanxi province, style of Yonglegong."
+ "material": "Fragment of a wall painting: ink and colors on a white-washed clay ground. Probably from a Daoist temple in Shanxi province, style of Yonglegong.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

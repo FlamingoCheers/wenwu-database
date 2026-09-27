@@ -2,11 +2,11 @@
  "relic_id": "HAM-201158",
  "name": "A HAMLET IN THE MOUNTAINS, AFTER A YUAN ARTIST",
  "category": "书画",
- "dynasty": "元",
- "dynasty_confidence": "high",
+ "dynasty": "明",
+ "dynasty_confidence": "source",
  "year_range": [
-  1610,
-  1610
+  1368,
+  1644
  ],
  "era_text": "1610",
  "dimensions": "H. 17 x W. 52 cm (6 11/16 x 20 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.773"
  },
- "material": "Ink on paper"
+ "material": "Ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "17th century",
  "dimensions": "H. 19.1 x Diam. 17.5 cm (7 1/2 x 6 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.233.A-B"
  },
- "material": "Biscuit porcelain with applique molded handles and decoration painted in green, aubergine, and black enamels against a yellow enamel ground; with spurious underglaze cobalt-blue mark reading \"Da Ming Jiajing nian zhi\" on base and inside of cover"
+ "material": "Biscuit porcelain with applique molded handles and decoration painted in green, aubergine, and black enamels against a yellow enamel ground; with spurious underglaze cobalt-blue mark reading \"Da Ming Jiajing nian zhi\" on base and inside of cover",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th-11th century BCE",
  "dimensions": "H. 12.2 x W. 2.2 x D. 0.7 cm (4 13/16 x 7/8 x 1/4 in.)\r\nWeight 40 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.124"
  },
- "material": "Finely polished, translucent green nephrite with slightly calcified, ocher-colored markings"
+ "material": "Finely polished, translucent green nephrite with slightly calcified, ocher-colored markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

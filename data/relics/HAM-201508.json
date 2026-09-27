@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3300,
-  -3300
+  -2200
  ],
  "era_text": "c. 3300 BCE - c. 2000 BCE",
  "dimensions": "11.7 x 4.1 x 3.5 cm (4 5/8 x 1 5/8 x 1 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.143"
  },
- "material": "Light gray stone"
+ "material": "Light gray stone",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

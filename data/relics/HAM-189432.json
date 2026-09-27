@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  9,
-  9
+  618,
+  907
  ],
  "era_text": "9th century",
  "dimensions": "4.6 x 6.2 cm (1 13/16 x 2 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.210.A-B"
  },
- "material": "Huangpu ware: light gray stoneware covered all over with white slip, the decoration painted in localized areas of discontinuous dark brown glaze. From the Huangpu kilns, Tongchuan, Shaanxi province"
+ "material": "Huangpu ware: light gray stoneware covered all over with white slip, the decoration painted in localized areas of discontinuous dark brown glaze. From the Huangpu kilns, Tongchuan, Shaanxi province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

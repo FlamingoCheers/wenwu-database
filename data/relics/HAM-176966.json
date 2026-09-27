@@ -5,7 +5,7 @@
  "dynasty": "新石器时代",
  "dynasty_confidence": "high",
  "year_range": [
-  -3500,
+  -4500,
   -3000
  ],
  "era_text": "Hongshan culture, late phase, 3500-3000 BCE",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.110"
  },
- "material": "Red earthenware with painted decoration"
+ "material": "Red earthenware with painted decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

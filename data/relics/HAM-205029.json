@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -4000,
-  -4000
+  -2000
  ],
  "era_text": "c. 4000 BCE - c. 2000 BCE",
  "dimensions": "17.7 x 13.4 x 0.4 cm (6 15/16 x 5 1/4 x 3/16 in.)\r\nunspecified: 203 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.97"
  },
- "material": "Mottled green, gray, and black nephrite with whitish veins"
+ "material": "Mottled green, gray, and black nephrite with whitish veins",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

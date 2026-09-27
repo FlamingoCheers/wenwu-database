@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -12,
-  -12
+  -1600,
+  -1050
  ],
  "era_text": "12th cent. BCE - 10th cent. BCE",
  "dimensions": "13.3 x 5.2 x 0.4 cm (5 1/4 x 2 1/16 x 3/16 in.)\r\n48 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.81"
  },
- "material": "Opaque, creamy buff nephrite, the surface of which is polished perfectly smooth and shiny"
+ "material": "Opaque, creamy buff nephrite, the surface of which is polished perfectly smooth and shiny",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

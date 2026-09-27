@@ -2,11 +2,11 @@
  "relic_id": "HAM-201475",
  "name": "Small Ewer with Floral Decoration",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "H. 10 x Diam. 7.8 cm (3 15/16 x 3 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1991.274"
  },
- "material": "Jizhou ware: off-white stoneware with dark brown glaze, the decoration reserved in the biscuit against the dark brown glaze. From the kilns at Yonghe, Ji'an, Jiangxi province."
+ "material": "Jizhou ware: off-white stoneware with dark brown glaze, the decoration reserved in the biscuit against the dark brown glaze. From the kilns at Yonghe, Ji'an, Jiangxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

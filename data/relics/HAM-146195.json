@@ -2,11 +2,11 @@
  "relic_id": "HAM-146195",
  "name": "Ceramic Sherd from an Undecorated Circular Dish with Angled Side Wall and Notched Rim: Curving, generally triangular fragment including portions of the floor, flat base, angled side wall, and notched, unglazed lip",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "2.8 x 6.2 x 5.3 cm (1 1/8 x 2 7/16 x 2 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2002.69.4"
  },
- "material": "Ding ware: porcelaneous white stoneware with pale yellow glaze"
+ "material": "Ding ware: porcelaneous white stoneware with pale yellow glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-195610",
  "name": "Covered jar (hu) with pictorial decoration",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -2,
-  -2
+  -206,
+  9
  ],
  "era_text": "2nd-1st century BCE",
  "dimensions": "H. 45.5 x Diam. 29 cm (17 15/16 x 11 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.178.A-B"
  },
- "material": "Gray earthenware with cold-painted pigments"
+ "material": "Gray earthenware with cold-painted pigments",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

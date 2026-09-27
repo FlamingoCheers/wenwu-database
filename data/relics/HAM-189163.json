@@ -2,11 +2,11 @@
  "relic_id": "HAM-189163",
  "name": "Ladle",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  201,
+  300
  ],
  "era_text": "early 1st-early 3rd century CE",
  "dimensions": "H. 12.5 x L. 15.2 x W. 6.6 cm (4 15/16 x 6 x 2 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.189"
  },
- "material": "Gray earthenware with traces of cold painted pigment"
+ "material": "Gray earthenware with traces of cold painted pigment",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

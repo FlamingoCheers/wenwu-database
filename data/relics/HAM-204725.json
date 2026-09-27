@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "probably 16th century",
  "dimensions": "H. 15.2 x W. 12.6 x D. 7.6 cm (6 x 4 15/16 x 3 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.229"
  },
- "material": "Enameled porcelain: assembled porcelain elements, some with relief decoration,  and with additional decoration painted in overglaze polychrome enamels"
+ "material": "Enameled porcelain: assembled porcelain elements, some with relief decoration,  and with additional decoration painted in overglaze polychrome enamels",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1423,
-  1423
+  1368,
+  1644
  ],
  "era_text": "dated 1423",
  "dimensions": "frontispiece: 27.4 x 44.1 cm (10 13/16 x 17 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.374"
  },
- "material": "Woodblock-printed accordion-fold book mounted as a handscroll; ink on paper, with punctuation and Japanese readings of Chinese characters brush-written in red and black inks"
+ "material": "Woodblock-printed accordion-fold book mounted as a handscroll; ink on paper, with punctuation and Japanese readings of Chinese characters brush-written in red and black inks",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-99854",
  "name": "Bronze-Form Censer with Openwork Cover in the Form of a Mountain (Boshanlu)",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -206,
+  9
  ],
  "era_text": "3rd-2nd century BCE",
  "dimensions": "H. 22.2 x Diam. 17.5 cm (8 3/4 x 6 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2002.278.A-B"
  },
- "material": "Medium gray earthenware with incised and carved decoration and with traces of cold-painted pigments"
+ "material": "Medium gray earthenware with incised and carved decoration and with traces of cold-painted pigments",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

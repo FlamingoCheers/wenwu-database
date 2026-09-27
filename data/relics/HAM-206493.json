@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "15th -early 16th century",
  "dimensions": "29.8 x 90.8 cm (11 3/4 x 35 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.207"
  },
- "material": "Section of a handscroll mounted as a panel; ink and slight color on silk"
+ "material": "Section of a handscroll mounted as a panel; ink and slight color on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

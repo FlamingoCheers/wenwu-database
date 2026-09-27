@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "17th-19th century",
  "dimensions": "H. 5.7 x Diam. 12.5 cm (2 1/4 x 4 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.202"
  },
- "material": "Enameled blue-and-white ware, \"wucai\" type: porcelain with decoration painted in underglaze cobalt blue and overglaze polychrome enamels; with spurious underglaze cobalt-blue mark reading reading \"Da Ming Yongle nian zhi\" below the lip"
+ "material": "Enameled blue-and-white ware, \"wucai\" type: porcelain with decoration painted in underglaze cobalt blue and overglaze polychrome enamels; with spurious underglaze cobalt-blue mark reading reading \"Da Ming Yongle nian zhi\" below the lip",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

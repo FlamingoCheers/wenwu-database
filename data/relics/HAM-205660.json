@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "probably 15th century",
  "dimensions": "max.: H. 16.5 × W. 23.6 × D. 22.9 cm (6 1/2 × 9 5/16 × 9 in.)\r\nbase: W. 12.1 × D. 11.7 cm (4 3/4 × 4 5/8 in.)\r\nweight: 1884.2 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.13"
  },
- "material": "Numbered Jun ware: light gray stoneware with variegated blue glaze; with Chinese numeral 7 (qi) inscribed on base before firing; \"Yangxin dian Ziqiang buxi yong\" (Hall of Mental Cultivation, used in the Room of Unceasing Self-Improvement) inscription incised on base at a later date"
+ "material": "Numbered Jun ware: light gray stoneware with variegated blue glaze; with Chinese numeral 7 (qi) inscribed on base before firing; \"Yangxin dian Ziqiang buxi yong\" (Hall of Mental Cultivation, used in the Room of Unceasing Self-Improvement) inscription incised on base at a later date",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

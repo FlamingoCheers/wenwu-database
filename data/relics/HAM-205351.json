@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "probably 18th century",
  "dimensions": "max.: H. 12.1 × Diam. 27.6 cm (4 3/4 × 10 7/8 in.)\r\nfoot: Diam. 13.1 cm (5 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.62"
  },
- "material": "Imitation Jun ware: porcelain with variegated purple glaze.  Perhaps made at Jingdezhen, Jiangxi province."
+ "material": "Imitation Jun ware: porcelain with variegated purple glaze.  Perhaps made at Jingdezhen, Jiangxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

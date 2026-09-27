@@ -2,11 +2,11 @@
  "relic_id": "HAM-204398",
  "name": "Peach-Shaped Cup with Falcon-Head Handle, one of a pair",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -4,
-  -4
+  -475,
+  -221
  ],
  "era_text": "4th-3rd century BCE",
  "dimensions": "4.5 x 10.3 x 10 cm (1 3/4 x 4 1/16 x 3 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.80.A"
  },
- "material": "Silver with parcel gilding and with inlaid black stone"
+ "material": "Silver with parcel gilding and with inlaid black stone",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

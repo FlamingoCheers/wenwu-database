@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th cent. BCE - 11th cent. BCE",
  "dimensions": "21.2 x 6.2 x 0.3 cm (8 3/8 x 2 7/16 x 1/8 in.)\r\nunspecified: 72 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.67"
  },
- "material": "Creamy white nephrite, clouded with light gray, beginning to decompose at the now blunted point of the blade"
+ "material": "Creamy white nephrite, clouded with light gray, beginning to decompose at the now blunted point of the blade",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

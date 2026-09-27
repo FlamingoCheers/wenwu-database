@@ -2,11 +2,11 @@
  "relic_id": "HAM-182242",
  "name": "Small Bowl with Sylized Floral Decoration",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th-14th century",
  "dimensions": "4.8 x 8.7 cm (1 7/8 x 3 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.334.24"
  },
- "material": "Probably misfired Longquan celadon ware: light gray stoneware with transparent, olive-hued celadon glaze over appliqué molded decoration"
+ "material": "Probably misfired Longquan celadon ware: light gray stoneware with transparent, olive-hued celadon glaze over appliqué molded decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

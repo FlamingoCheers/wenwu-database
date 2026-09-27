@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -2000,
-  -2000
+  -1700
  ],
  "era_text": "Longshan or Erlitou culture, c. 2000 BCE - c. 1700 BCE",
  "dimensions": "32 x 6.5 x 0.3 cm (12 5/8 x 2 9/16 x 1/8 in.)\r\nunspecified: 82 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.40"
  },
- "material": "Black nephrite"
+ "material": "Black nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

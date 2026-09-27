@@ -2,8 +2,8 @@
  "relic_id": "HAM-202447",
  "name": "Fragment from the Side of a Jar with Raised Bands of Decor",
  "category": "瓷器",
- "dynasty": "商",
- "dynasty_confidence": "high",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "source",
  "year_range": [
   -2000,
   -1000
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1978.559"
  },
- "material": "Gray earthenware with sculpted decor"
+ "material": "Gray earthenware with sculpted decor",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

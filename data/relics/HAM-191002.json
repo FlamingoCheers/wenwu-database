@@ -2,11 +2,11 @@
  "relic_id": "HAM-191002",
  "name": "Ovoid Bottle or Vase with Long Neck and Flaring Mouth",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th cent. - 13th cent.",
  "dimensions": "26.8 x 16.4 cm (10 9/16 x 6 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.186"
  },
- "material": "Jizhou ware: off-white stoneware with dark brown glaze. From the Jizhou kilns, near Yonghe, Ji'an, Jiangxi province."
+ "material": "Jizhou ware: off-white stoneware with dark brown glaze. From the Jizhou kilns, near Yonghe, Ji'an, Jiangxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

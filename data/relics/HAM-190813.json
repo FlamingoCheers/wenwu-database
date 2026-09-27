@@ -2,11 +2,11 @@
  "relic_id": "HAM-190813",
  "name": "Sherd: Triangular Fragment from the Mouth of a Circular Bowl with Rising Lotus-Petal Decoration",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th cent. - 13th cent.",
  "dimensions": "3.3 x 1.9 cm (1 5/16 x 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.198.19"
  },
- "material": "Longquan celadon ware: molded, pale gray stoneware with lightly crackled, transparent, bluish green celadon glaze. From the Longquan kilns in Zhejiang province"
+ "material": "Longquan celadon ware: molded, pale gray stoneware with lightly crackled, transparent, bluish green celadon glaze. From the Longquan kilns in Zhejiang province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

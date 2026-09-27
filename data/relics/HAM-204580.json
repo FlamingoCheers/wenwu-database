@@ -5,8 +5,8 @@
  "dynasty": "新石器时代",
  "dynasty_confidence": "high",
  "year_range": [
-  -4700,
-  -4700
+  -4500,
+  -3000
  ],
  "era_text": "c. 4700 - c. 2920 BCE",
  "dimensions": "H. 18.9 x W. 14 x D. 9.5 x Thickness 0.7 cm (7 7/16 x 5 1/2 x 3 3/4 x 1/4 in.)\r\nWeight 1034 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.628"
  },
- "material": "Mottled green, bluish green, and buff nephrite"
+ "material": "Mottled green, bluish green, and buff nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

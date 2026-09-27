@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1648,
-  1648
+  1644,
+  1911
  ],
  "era_text": "1648",
  "dimensions": "each printed page: H. 24.3 x W. 31.1 cm (9 9/16 x 12 1/4 in.)\r\neach album page, with mounting: H. 26.4 x W. 32.7 cm (10 3/8 x 12 7/8 in.)\r\nalbum closed: H. 26.4 x W. 32.7 x D. 6.4 cm (10 3/8 x 12 7/8 x 2 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1981.36.1"
  },
- "material": "Woodblock-printed book with illustrations mounted as an accordion-fold album; ink on paper"
+ "material": "Woodblock-printed book with illustrations mounted as an accordion-fold album; ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

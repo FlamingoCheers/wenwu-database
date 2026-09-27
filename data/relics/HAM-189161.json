@@ -5,8 +5,8 @@
  "dynasty": "新石器时代",
  "dynasty_confidence": "high",
  "year_range": [
-  -2650,
-  -2300
+  -3300,
+  -2000
  ],
  "era_text": "Banshan phase, c. 2650-2300 BCE",
  "dimensions": "H. 42.3 x W. 45.5 x Diam. 42 cm (16 5/8 x 17 15/16 x 16 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.29"
  },
- "material": "Earthenware with bichrome slip-painted decoration"
+ "material": "Earthenware with bichrome slip-painted decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

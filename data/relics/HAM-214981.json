@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1850,
-  1850
+  1644,
+  1911
  ],
  "era_text": "c. 1850",
  "dimensions": "H. 162 x W. 157 cm (63 3/4 x 61 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.22"
  },
- "material": "Silk"
+ "material": "Silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

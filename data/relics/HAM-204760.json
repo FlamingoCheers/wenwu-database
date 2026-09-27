@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -206,
-  -206
+  220
  ],
  "era_text": "206 BCE - 220 CE",
  "dimensions": "5.4 x 3.2 x 0.8 cm (2 1/8 x 1 1/4 x 5/16 in.)\r\nunspecified: 23 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.269"
  },
- "material": "White, polished, partly corroded marble"
+ "material": "White, polished, partly corroded marble",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

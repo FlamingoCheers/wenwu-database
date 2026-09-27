@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "late 18th century",
  "dimensions": "painting proper: H. 126 x W. 28.2 cm (49 5/8 x 11 1/8 in.)\r\nmounting, including cord and roller ends:H.  235 x W. 57.5 cm (92 1/2 x 22 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1996.143"
  },
- "material": "Hanging scroll; ink and light colors on paper with artist's signature reading \"Lian jushi mo\""
+ "material": "Hanging scroll; ink and light colors on paper with artist's signature reading \"Lian jushi mo\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

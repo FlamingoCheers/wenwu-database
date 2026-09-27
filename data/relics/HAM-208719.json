@@ -2,11 +2,11 @@
  "relic_id": "HAM-208719",
  "name": "Circular Dish with Steep Flaring Sides and Stylized Floral Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1931.260"
  },
- "material": "Qingbai-type ware: molded porcelain with virtually colorless glaze"
+ "material": "Qingbai-type ware: molded porcelain with virtually colorless glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

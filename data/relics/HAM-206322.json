@@ -5,8 +5,8 @@
  "dynasty": "隋",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  581,
+  618
  ],
  "era_text": "Sui to early Tang, 7th century",
  "dimensions": "H. 40 x W. 28.6 cm (15 3/4 x 11 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1936.69"
  },
- "material": "Light gray stone, probably limestone, with traces of pigments and gilding"
+ "material": "Light gray stone, probably limestone, with traces of pigments and gilding",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

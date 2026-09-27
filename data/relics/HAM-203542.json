@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "first half 18th century",
  "dimensions": "H. 39.7 cm (15 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1950.83.25"
  },
- "material": "Monochrome glazed porcelain: porcelain with black glaze"
+ "material": "Monochrome glazed porcelain: porcelain with black glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1633,
-  1633
+  1368,
+  1644
  ],
  "era_text": "after 1633 - before 1703",
  "dimensions": "sight: 25 x 28.7 cm (9 13/16 x 11 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.165.109"
  },
- "material": "One page from a woodblock printed book mounted as an album leaf; ink and color on paper"
+ "material": "One page from a woodblock printed book mounted as an album leaf; ink and color on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

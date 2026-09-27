@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "first half 8th century",
  "dimensions": "each sculpture: 12 x 18.5 x 7.5 cm (4 3/4 x 7 5/16 x 2 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2003.214"
  },
- "material": "Lead-glazed ware: molded, white earthenware with lead-fluxed amber-brown glaze"
+ "material": "Lead-glazed ware: molded, white earthenware with lead-fluxed amber-brown glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

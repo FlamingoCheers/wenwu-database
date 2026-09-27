@@ -2,11 +2,11 @@
  "relic_id": "HAM-204864",
  "name": "Large Glass Disk",
  "category": "玻璃器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -475,
+  -221
  ],
  "era_text": "3rd cent. BCE - 1st cent. BCE",
  "dimensions": "0.7 x 17.4 cm (1/4 x 6 7/8 in.)\r\nunspecified: 563 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.551"
  },
- "material": "Faintly greenish, almost colorless glass, the surface of which is coated with an unevenly creamy white and slightly irridescent substance, probably due to weathering and decomposition"
+ "material": "Faintly greenish, almost colorless glass, the surface of which is coated with an unevenly creamy white and slightly irridescent substance, probably due to weathering and decomposition",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

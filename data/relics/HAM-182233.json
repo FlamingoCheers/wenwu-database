@@ -2,11 +2,11 @@
  "relic_id": "HAM-182233",
  "name": "Lightly Segmented Circular Bowl with Blossoming Lotus Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "late 11th-early 12th century",
  "dimensions": "6.5 x 21.6 cm (2 9/16 x 8 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.334.21"
  },
- "material": "Ding ware: porcellaneous stoneware with ivory-hued glaze over incised and carved decoration, the unglazed rim originally bound with metal.  From the Ding kilns in Quyang county, Hebei province."
+ "material": "Ding ware: porcellaneous stoneware with ivory-hued glaze over incised and carved decoration, the unglazed rim originally bound with metal.  From the Ding kilns in Quyang county, Hebei province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

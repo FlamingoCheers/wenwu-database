@@ -2,11 +2,11 @@
  "relic_id": "HAM-197972",
  "name": "Circular, Wide-Mouthed Bowl with Flaring Sides and with Three Green Splashes around the Lightly Indented Lip",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  10,
-  10
+  960,
+  1127
  ],
  "era_text": "late 10th-early 11th century",
  "dimensions": "H. 9.3 x Diam. 16.8 cm (3 11/16 x 6 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1996.145"
  },
- "material": "Cizhou ware: light gray stoneware with lustrous clear glaze over white slip ground, the glaze enlivened with three emerald-green splashes"
+ "material": "Cizhou ware: light gray stoneware with lustrous clear glaze over white slip ground, the glaze enlivened with three emerald-green splashes",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

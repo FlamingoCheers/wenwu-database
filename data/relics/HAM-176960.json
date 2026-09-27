@@ -2,11 +2,11 @@
  "relic_id": "HAM-176960",
  "name": "Small Jar with Rolled Lip and with Willow-Basket-Weave and Boss Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th-14th century",
  "dimensions": "9.4 x 11.5 cm (3 11/16 x 4 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.256"
  },
- "material": "Ganzhou ware: light gray stoneware, the unglazed exterior with combed and applique decoration, the interior with russet-surfaced dark brown glaze. From the kilns at Qili, Ganzhou, Jiangxi province"
+ "material": "Ganzhou ware: light gray stoneware, the unglazed exterior with combed and applique decoration, the interior with russet-surfaced dark brown glaze. From the kilns at Qili, Ganzhou, Jiangxi province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

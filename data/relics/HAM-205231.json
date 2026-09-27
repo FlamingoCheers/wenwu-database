@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th-11th century BCE",
  "dimensions": "H. 8.9 x W. 2.1 x D. 0.4 cm (3 1/2 x 13/16 x 3/16 in.)\r\nWeight 19 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.133"
  },
- "material": "Greenish gray nephrite with whitish streaks; with gold leaf"
+ "material": "Greenish gray nephrite with whitish streaks; with gold leaf",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

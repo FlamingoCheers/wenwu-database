@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  9,
-  9
+  618,
+  907
  ],
  "era_text": "9th century",
  "dimensions": "H. 4.9 x Diam. 15.1 cm (1 15/16 x 5 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2001.70"
  },
- "material": "Changsha ware: light gray stoneware with pale celadon glaze over white slip and underglaze decoration painted in iron-brown and copper-green pigments, the rim with touches of iron-brown. From the kilns at Tongguan, Changsha, Hunan province."
+ "material": "Changsha ware: light gray stoneware with pale celadon glaze over white slip and underglaze decoration painted in iron-brown and copper-green pigments, the rim with touches of iron-brown. From the kilns at Tongguan, Changsha, Hunan province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

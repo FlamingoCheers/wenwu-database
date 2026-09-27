@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -206,
-  -206
+  220
  ],
  "era_text": "206 BCE - 220 CE (?)",
  "dimensions": "7.8 x 2.3 x 2 cm (3 1/16 x 7/8 x 13/16 in.)\r\nunspecified: 69 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.323"
  },
- "material": "Black stone"
+ "material": "Black stone",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

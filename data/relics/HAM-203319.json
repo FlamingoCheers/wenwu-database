@@ -2,11 +2,11 @@
  "relic_id": "HAM-203319",
  "name": "Kiln Waster: Circular Bowl with Flaring Lip",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  960,
+  1127
  ],
  "era_text": "12th-13th century",
  "dimensions": "Diam. 10.2 cm (4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1959.70.1"
  },
- "material": "Yaozhou ware: light gray stoneware with misfired olive-brown celadon glaze. From the Yaozhou kilns at Tongchuan, Shaanxi province."
+ "material": "Yaozhou ware: light gray stoneware with misfired olive-brown celadon glaze. From the Yaozhou kilns at Tongchuan, Shaanxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

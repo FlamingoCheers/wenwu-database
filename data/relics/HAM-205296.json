@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -4000,
-  -4000
+  -2000
  ],
  "era_text": "c. 4000 - c. 2000 BCE?",
  "dimensions": "H. 6.2 x D. 1 cm (2 7/16 x 3/8 in.)\r\nWeight 10 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.169"
  },
- "material": "Pale green and ivory-colored, slightly calcified nephrite"
+ "material": "Pale green and ivory-colored, slightly calcified nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

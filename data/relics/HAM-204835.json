@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3300,
-  -3300
+  -2200
  ],
  "era_text": "c. 3300 BCE - c. 2000 BCE",
  "dimensions": "2.9 x 0.8 x 7.2 cm (1 1/8 x 5/16 x 2 13/16 in.)\r\nunspecified: 128 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.499"
  },
- "material": "Cream-colored and russet stone with dark brown markings"
+ "material": "Cream-colored and russet stone with dark brown markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

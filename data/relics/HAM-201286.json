@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "first half 8th century",
  "dimensions": "H. 18.42 x Diam. 13.34 cm (7 1/4 x 5 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.395"
  },
- "material": "Lead-glazed ware: white earthenware with lead-fluxed pale yellow glaze (now much degraded) over a white slip ground on the exterior and lead-fluxed pale yellow glaze on the interior"
+ "material": "Lead-glazed ware: white earthenware with lead-fluxed pale yellow glaze (now much degraded) over a white slip ground on the exterior and lead-fluxed pale yellow glaze on the interior",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  6,
-  6
+  386,
+  534
  ],
  "era_text": "first third 6th century",
  "dimensions": "32.5 x 9.5 x 6 cm (12 13/16 x 3 3/4 x 2 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2003.179"
  },
- "material": "Molded, gray earthenware with cold-painted pigments"
+ "material": "Molded, gray earthenware with cold-painted pigments",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th-11th century BCE",
  "dimensions": "H. 9.3 × L. 30.8 × W. 5.1 cm (3 11/16 × 12 1/8 × 2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.51"
  },
- "material": "Bronze with dark green patina"
+ "material": "Bronze with dark green patina",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

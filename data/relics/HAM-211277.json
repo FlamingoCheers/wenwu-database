@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1681,
-  1681
+  1644,
+  1911
  ],
  "era_text": "1681",
  "dimensions": "overall (approx.): H. 29.2 × W. 1344.5 cm (11 1/2 × 529 5/16 in.)\r\nprinted sutra only (approx.): H. 29.2 × W. 1153 cm (11 1/2 × 453 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.877"
  },
- "material": "Wood-block printed accordion-fold book mounted as a handscroll; with printed illustrations hand-painted with red pigment in selected areas at a later date; ink and color on paper"
+ "material": "Wood-block printed accordion-fold book mounted as a handscroll; with printed illustrations hand-painted with red pigment in selected areas at a later date; ink and color on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

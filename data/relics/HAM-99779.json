@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -5000,
-  -5000
+  -4000
  ],
  "era_text": "Yangshao culture, Banpo phase, 5000 BCE - 4000 BCE",
  "dimensions": "H. 17.8 x Diam. 17.5 cm (7 x 6 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2002.140"
  },
- "material": "Brick-orange earthenware with impressed decoration"
+ "material": "Brick-orange earthenware with impressed decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

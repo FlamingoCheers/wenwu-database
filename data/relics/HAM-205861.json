@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1588,
-  1588
+  1368,
+  1644
  ],
  "era_text": "Wanli period, 1588",
  "dimensions": "H. 19.1 x W. 10.2 x D. 7 cm (7 1/2 x 4 x 2 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.235"
  },
- "material": "Enameled blue-and-white ware, \"wucai\" type: porcelain with decoration painted in underglaze cobalt blue and overglaze polychrome enamels; with underglaze cobalt-blue mark reading \"Da Ming Wanli shiliu nian zhi\" on the base"
+ "material": "Enameled blue-and-white ware, \"wucai\" type: porcelain with decoration painted in underglaze cobalt blue and overglaze polychrome enamels; with underglaze cobalt-blue mark reading \"Da Ming Wanli shiliu nian zhi\" on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

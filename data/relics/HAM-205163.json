@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -14,
-  -14
+  -1600,
+  -1050
  ],
  "era_text": "14th cent. BCE - 8th cent. BCE",
  "dimensions": "32.9 x 7.7 x 0.7 cm (12 15/16 x 3 1/16 x 1/4 in.)\r\nunspecified: 233 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.18"
  },
- "material": "Mottled bluish green nephrite that has largely turned to an opaque, light buff color with dark brown markings"
+ "material": "Mottled bluish green nephrite that has largely turned to an opaque, light buff color with dark brown markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

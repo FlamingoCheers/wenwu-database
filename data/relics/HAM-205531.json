@@ -5,8 +5,8 @@
  "dynasty": "新石器时代",
  "dynasty_confidence": "high",
  "year_range": [
-  -2500,
-  -2500
+  -3000,
+  -1900
  ],
  "era_text": "c. 2500 BCE - c. 2000 BCE",
  "dimensions": "H. 21.3 x W. 4.3 x Thickness 0.8 cm (8 3/8 x 1 11/16 x 5/16 in.)\r\nWeight 158 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.4"
  },
- "material": "Light milky brown stone with a few darker veins"
+ "material": "Light milky brown stone with a few darker veins",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

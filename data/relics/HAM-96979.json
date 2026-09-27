@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "late 17th century - early 18th century",
  "dimensions": "31.75 x 27.31 cm (12 1/2 x 10 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1976.33.4"
  },
- "material": "Album of woodblock prints: ink on paper"
+ "material": "Album of woodblock prints: ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

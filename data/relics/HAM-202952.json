@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "8th-9th century",
  "dimensions": "16.2 x 11.4 cm (6 3/8 x 4 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1966.81"
  },
- "material": "Huangdao ware: light gray stoneware with dark brown glaze with variegated light blue suffusions"
+ "material": "Huangdao ware: light gray stoneware with dark brown glaze with variegated light blue suffusions",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

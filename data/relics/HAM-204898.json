@@ -2,11 +2,11 @@
  "relic_id": "HAM-204898",
  "name": "Ornate Jade Plaquette",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "5.5 x 3.1 x 0.7 cm (2 3/16 x 1 1/4 x 1/4 in.)\r\nunspecified: 23 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.189"
  },
  "material": "Light gray nephrite, darkening to russet and brown",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

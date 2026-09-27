@@ -2,11 +2,11 @@
  "relic_id": "HAM-204529",
  "name": "Plain Jade Disk",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
   -206,
-  -206
+  9
  ],
  "era_text": "206 BCE - 9 CE (?)",
  "dimensions": "0.5 x 9.4 cm (3/16 x 3 11/16 in.)\r\nunspecified: 55 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.512"
  },
- "material": "Light greenish gray nephrite, with brown and yellow markings and extensive altered areas"
+ "material": "Light greenish gray nephrite, with brown and yellow markings and extensive altered areas",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

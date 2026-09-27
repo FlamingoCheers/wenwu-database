@@ -2,11 +2,11 @@
  "relic_id": "HAM-149464",
  "name": "Small Bowl with Segmented Lip and Abstract Decor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "probably 11th century",
  "dimensions": "5.9 x 12 cm (2 5/16 x 4 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2001.220"
  },
- "material": "Black Yaozhou ware: light gray stoneware with dark brown glaze, the decoration painted in overglaze iron oxide. From the Huangpu kiln complex, Tongchuan, Yaozhou county, Shaanxi province"
+ "material": "Black Yaozhou ware: light gray stoneware with dark brown glaze, the decoration painted in overglaze iron oxide. From the Huangpu kiln complex, Tongchuan, Yaozhou county, Shaanxi province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

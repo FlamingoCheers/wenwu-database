@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1723,
-  1735
+  1644,
+  1911
  ],
  "era_text": "Yongzheng period, 1723-1735",
  "dimensions": "136.5 x 126.5 cm (53 3/4 x 49 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1960.169.39"
  },
- "material": "Silk gauze with needlepoint decoration"
+ "material": "Silk gauze with needlepoint decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

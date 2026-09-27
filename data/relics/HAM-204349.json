@@ -2,11 +2,11 @@
  "relic_id": "HAM-204349",
  "name": "Circular Mirror with Decoration of Daoist Immortals and Dragons",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  2,
-  2
+  220,
+  280
  ],
  "era_text": "late 2nd-early 3rd century CE",
  "dimensions": "Diam. 12.4 x Thickness 1.1 cm (4 7/8 x 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.170"
  },
- "material": "Cast bronze with integrally cast auspicious inscription"
+ "material": "Cast bronze with integrally cast auspicious inscription",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

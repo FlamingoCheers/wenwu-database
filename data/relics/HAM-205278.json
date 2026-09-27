@@ -2,11 +2,11 @@
  "relic_id": "HAM-205278",
  "name": "Trapezoidal Jade Knife",
  "category": "玉器",
- "dynasty": "商",
- "dynasty_confidence": "high",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "source",
  "year_range": [
   -2000,
-  -2000
+  -1600
  ],
  "era_text": "Neolithic or Shang period, c. 2000 - c. 1600 BCE",
  "dimensions": "H. 42.2 x  W. 6 x Thickness 0.8 cm (16 5/8 x 2 3/8 x 5/16 in.)\r\nWeight 428 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.50"
  },
- "material": "Light brown, highly translucent stone with dark brown markings"
+ "material": "Light brown, highly translucent stone with dark brown markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

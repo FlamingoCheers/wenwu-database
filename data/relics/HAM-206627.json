@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "22.3 x 41.5 cm (8 3/4 x 16 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.36.73"
  },
- "material": "Woodblock print; ink on paper; with printed inscription reading from right to left: \"Tao Hua Xian Gu\" (\"Immortal Lady of Peach Blossoms\"). Probably from Beijing; part of a possible set of paper gods 1935.36.62-.81. \r\n"
+ "material": "Woodblock print; ink on paper; with printed inscription reading from right to left: \"Tao Hua Xian Gu\" (\"Immortal Lady of Peach Blossoms\"). Probably from Beijing; part of a possible set of paper gods 1935.36.62-.81. \r\n",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

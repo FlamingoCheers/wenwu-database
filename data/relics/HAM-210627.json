@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "mid-late 19th century",
  "dimensions": "H. 7 x W. 14.1 x D. 11.2 cm (2 3/4 x 5 9/16 x 4 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1895.575.A-C"
  },
- "material": "Enamelled ware: porcelain with decoration painted in overglaze polychrome and gold enamels"
+ "material": "Enamelled ware: porcelain with decoration painted in overglaze polychrome and gold enamels",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

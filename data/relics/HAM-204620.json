@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -14,
-  -14
+  -1600,
+  -1050
  ],
  "era_text": "14th-11th century BCE",
  "dimensions": "H. 21.1 x W. 13.7 x D. 3.2 cm (8 5/16 x 5 3/8 x 1 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.22"
  },
- "material": "Cast bronze with turquoise inlay"
+ "material": "Cast bronze with turquoise inlay",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

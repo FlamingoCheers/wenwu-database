@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -206,
-  -206
+  220
  ],
  "era_text": "206 BCE - 220 CE",
  "dimensions": "H. 4 x W. 14.4 x D. 10.6 cm (1 9/16 x 5 11/16 x 4 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.87.C"
  },
- "material": "Shell with gilt bronze fitting"
+ "material": "Shell with gilt bronze fitting",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

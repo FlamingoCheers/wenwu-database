@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -2500,
-  -2500
+  -2000
  ],
  "era_text": "Longshan culture (?), c. 2500 BCE - c. 2000 BCE",
  "dimensions": "34.2 x 5 x 0.7 cm (13 7/16 x 1 15/16 x 1/4 in.)\r\nweight: 198 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.52"
  },
- "material": "Gray-green nephrite with light and dark brown cloud-like markings"
+ "material": "Gray-green nephrite with light and dark brown cloud-like markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

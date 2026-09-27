@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "64.2 x 111.3 cm (25 1/4 x 43 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.36.123"
  },
- "material": "ink and color on paper"
+ "material": "ink and color on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

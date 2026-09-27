@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -2000,
-  -2000
+  -1600
  ],
  "era_text": "Siba culture, 2000 BCE - 1600 BCE",
  "dimensions": "14.6 x 16.6 x 15.6 cm (5 3/4 x 6 9/16 x 6 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2001.40"
  },
- "material": "Buff earthenware with appliqué handles and tabs, with decoration painted in black slip, and with traces of natural ash glaze"
+ "material": "Buff earthenware with appliqué handles and tabs, with decoration painted in black slip, and with traces of natural ash glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1368,
+  1644
  ],
  "era_text": "17th century",
  "dimensions": "175.2 x 76.5 cm (69 x 30 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.214"
  },
- "material": "Hanging scroll; ink and color on silk"
+ "material": "Hanging scroll; ink and color on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

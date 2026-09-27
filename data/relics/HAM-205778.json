@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "probably Kangxi period, late 17th-early 18th century",
  "dimensions": "with cover: H. 15.6 x Diam. 14.3 x W. (across handles) 15.9 cm (6 1/8 x 5 5/8 x 6 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.142.A-B"
  },
- "material": "Cloudy, pale greenish white nephrite"
+ "material": "Cloudy, pale greenish white nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

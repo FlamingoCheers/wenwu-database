@@ -4,7 +4,10 @@
  "category": "青铜器",
  "dynasty": "商",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  -1600,
+  -1050
+ ],
  "era_text": null,
  "dimensions": "L. 40 cm (15 3/4 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Bronze with turquoise inlay",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.47"
  },
- "material": "Bronze with turquoise inlay"
+ "material": "Bronze with turquoise inlay",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

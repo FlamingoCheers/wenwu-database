@@ -2,11 +2,11 @@
  "relic_id": "HAM-204788",
  "name": "Jade Belt Hook",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "L. 10.3 x W. 3.5 cm (4 1/16 x 1 3/8 in.)\r\nunspecified: 85 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.455"
  },
  "material": "Variegated olive-greenish, translucent nephrite with opaque, bone-colored areas",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

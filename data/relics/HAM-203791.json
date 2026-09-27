@@ -2,11 +2,11 @@
  "relic_id": "HAM-203791",
  "name": "Large Winged Cup (Erbei) with Abstract Decor",
  "category": "漆器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -475,
+  -221
  ],
  "era_text": "3rd century BCE",
  "dimensions": "sight: H. 5 x W. 24.5 x D. 18 cm (1 15/16 x 9 5/8 x 7 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1947.93"
  },
- "material": "Painted lacquer ware: black and reddish orange lacquers over wooden core.  Reportedly from Changsha, Hunan province."
+ "material": "Painted lacquer ware: black and reddish orange lacquers over wooden core.  Reportedly from Changsha, Hunan province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

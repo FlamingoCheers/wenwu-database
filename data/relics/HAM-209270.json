@@ -2,11 +2,11 @@
  "relic_id": "HAM-209270",
  "name": "Ovoid Storage Jar with Flaring Lip and Linear Decoration",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  101,
+  200
  ],
  "era_text": "1st-2nd century CE",
  "dimensions": "H. 25.5 x Diam. 19 cm (10 1/16 x 7 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1929.320"
  },
- "material": "Medium gray stoneware with combed, incised, and applique decoration"
+ "material": "Medium gray stoneware with combed, incised, and applique decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

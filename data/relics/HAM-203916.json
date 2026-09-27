@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th-19th century",
  "dimensions": "H. 13.2 cm (5 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1950.83.79"
  },
- "material": "Monochrome glazed porcelain; porcelain with pale cobalt-blue glaze, the rim finished with an application of iron-brown slip simulating a metal band; with underglaze cobalt-blue double circle on the base"
+ "material": "Monochrome glazed porcelain; porcelain with pale cobalt-blue glaze, the rim finished with an application of iron-brown slip simulating a metal band; with underglaze cobalt-blue double circle on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1498,
-  1498
+  1368,
+  1644
  ],
  "era_text": "1498",
  "dimensions": "25.8 cm (10 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1986.512"
  },
- "material": "Four paintings mounted as a handscroll; ink and ink and light colors on paper, each painting with a title and a seal of the artist, the paintings followed by poems and an inscription by the artist"
+ "material": "Four paintings mounted as a handscroll; ink and ink and light colors on paper, each painting with a title and a seal of the artist, the paintings followed by poems and an inscription by the artist",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

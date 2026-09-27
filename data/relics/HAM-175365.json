@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1723,
-  1735
+  1644,
+  1911
  ],
  "era_text": "possibly Yongzheng period, 1723-1735",
  "dimensions": "H. 4.9 x Diam. 9 cm (1 15/16 x 3 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2001.12"
  },
- "material": "Grisaille-enameled porcelain: porcelain with decoration painted in black and iron-red enamels; with underglaze cobalt blue mark reading \"Yongzheng nian zhi\" in seal-script characters on the base"
+ "material": "Grisaille-enameled porcelain: porcelain with decoration painted in black and iron-red enamels; with underglaze cobalt blue mark reading \"Yongzheng nian zhi\" in seal-script characters on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

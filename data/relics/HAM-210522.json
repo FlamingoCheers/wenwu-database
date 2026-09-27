@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "Qing dynasty, late 19th century",
  "dimensions": "H. 38.3 x Diam. 18.7 cm (15 1/16 x 7 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1895.454"
  },
- "material": "Brass armature with dyed-red horn dome"
+ "material": "Brass armature with dyed-red horn dome",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

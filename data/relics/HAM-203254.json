@@ -5,8 +5,8 @@
  "dynasty": "辽",
  "dynasty_confidence": "high",
  "year_range": [
-  9,
-  9
+  907,
+  1125
  ],
  "era_text": "9th-11th century",
  "dimensions": "H. 13.97 cm (5 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1951.28"
  },
- "material": "Liao sancai (\"three-color\") ware: off-white earthenware with applique molded decorative elements and lead-fluxed emerald-green glaze over a white-slip ground"
+ "material": "Liao sancai (\"three-color\") ware: off-white earthenware with applique molded decorative elements and lead-fluxed emerald-green glaze over a white-slip ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

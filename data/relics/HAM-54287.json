@@ -2,11 +2,11 @@
  "relic_id": "HAM-54287",
  "name": "Bean-Shaped Pillow with Scrolling Floral Décor",
  "category": "书画",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "12 x 25.9 x 18 cm (4 3/4 x 10 3/16 x 7 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.158"
  },
- "material": "Cizhou ware: light gray stoneware covered all over with a thick application of white slip, the floral decoration incised and the patterned background stamped into the white slip ground, all under a clear glaze"
+ "material": "Cizhou ware: light gray stoneware covered all over with a thick application of white slip, the floral decoration incised and the patterned background stamped into the white slip ground, all under a clear glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

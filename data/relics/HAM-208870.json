@@ -4,7 +4,10 @@
  "category": "青铜器",
  "dynasty": "清",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1644,
+  1911
+ ],
  "era_text": null,
  "dimensions": "H. 86.36 x W. 137.16 cm (34 x 54 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Silk in tapestry weave (kesi), selected elements woven in metallic threads",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1931.120"
  },
- "material": "Silk in tapestry weave (kesi), selected elements woven in metallic threads"
+ "material": "Silk in tapestry weave (kesi), selected elements woven in metallic threads",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-203824",
  "name": "Large Ovoid Bottle with Small, Double-Ringed Mouth and Decoration of Floral Sprays",
  "category": "瓷器",
- "dynasty": "元",
- "dynasty_confidence": "high",
+ "dynasty": "宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1115,
+  1234
  ],
  "era_text": "late 12th-13th century",
  "dimensions": "H. 33 cm (13 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1950.83.30"
  },
- "material": "Northern black ware of Cizhou type: light gray stoneware with dark brown glaze, the decoration painted in overglaze iron oxide"
+ "material": "Northern black ware of Cizhou type: light gray stoneware with dark brown glaze, the decoration painted in overglaze iron oxide",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

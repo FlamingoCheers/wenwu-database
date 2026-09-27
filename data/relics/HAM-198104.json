@@ -2,11 +2,11 @@
  "relic_id": "HAM-198104",
  "name": "Double-Handled Jar with Volute Decor",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -475,
+  -221
  ],
  "era_text": "3rd-2nd century BCE",
  "dimensions": "H. 29.7 x W. 30 x Diam. 26 cm (11 11/16 x 11 13/16 x 10 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1996.148"
  },
- "material": "Gray earthenware with incised and cold-painted decoration"
+ "material": "Gray earthenware with incised and cold-painted decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

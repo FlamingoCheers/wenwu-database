@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "probably 18th cent. - 19th cent.",
  "dimensions": "2.1 x 6.3 x 3.8 cm (13/16 x 2 1/2 x 1 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.334.53"
  },
- "material": "Cloudy sea-green nephrite with rust-brown staining"
+ "material": "Cloudy sea-green nephrite with rust-brown staining",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

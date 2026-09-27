@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1736,
-  1795
+  1644,
+  1911
  ],
  "era_text": "Qianlong period, 1736-1795",
  "dimensions": "145 x 213 cm (57 1/16 x 83 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1960.169.4"
  },
- "material": "Silk in 'kesi' tapestry weave, selected elements woven with metallic gold threads"
+ "material": "Silk in 'kesi' tapestry weave, selected elements woven with metallic gold threads",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

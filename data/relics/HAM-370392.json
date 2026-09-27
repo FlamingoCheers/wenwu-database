@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1661,
-  1722
+  1644,
+  1911
  ],
  "era_text": "late 17th–early 18th century, Kangxi era (1661–1722)",
  "dimensions": "H. 27 cm (10 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2021.216"
  },
- "material": "Monochrome glazed porcelain, Langyao red: porcelain with variegated copper red glaze"
+ "material": "Monochrome glazed porcelain, Langyao red: porcelain with variegated copper red glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

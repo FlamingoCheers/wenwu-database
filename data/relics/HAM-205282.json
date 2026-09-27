@@ -2,11 +2,11 @@
  "relic_id": "HAM-205282",
  "name": "Jade Demon Face",
  "category": "玉器",
- "dynasty": "商",
- "dynasty_confidence": "high",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "source",
  "year_range": [
   -2500,
-  -2500
+  -1500
  ],
  "era_text": "Neolithic or Shang period, c. 2500 - c. 1500 BCE",
  "dimensions": "H. 5 x W. 4.1 x Thickness 0.4 cm (1 15/16 x 1 5/8 x 3/16 in.)\r\nWeight 18 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.154"
  },
- "material": "Light yellowish green jade with decomposed white streaks"
+ "material": "Light yellowish green jade with decomposed white streaks",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

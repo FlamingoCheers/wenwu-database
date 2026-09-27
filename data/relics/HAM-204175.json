@@ -2,11 +2,11 @@
  "relic_id": "HAM-204175",
  "name": "Head from a Tomb Figurine in the Form of an Attendant Figure",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
   -206,
-  -206
+  9
  ],
  "era_text": "206 BCE-9 CE",
  "dimensions": "11.5 x 6.5 x 8 cm (4 1/2 x 2 9/16 x 3 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1945.18.3"
  },
- "material": "Molded gray earthenware"
+ "material": "Molded gray earthenware",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: 44.5 x 26.2 cm (17 1/2 x 10 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.28"
  },
- "material": "Woodblock print; ink and color on paper; with printed inscription of a poem reading from right to left: \"Ci mao shenshi mengyong/ Liangyan qiasi (ling?) long/ Si zhua youru gangcha/ Laoshu bu gan cheng xiong\" (\"This cat is so fierce/ Two eyes are like gems/ Four claws are like steel sickles/ Rats dare not show off\"), and a color printed inscription in purple: \"Chi Ling\" (\"Imperial Edict\"). Probably from Jiajiang, Sichuan."
+ "material": "Woodblock print; ink and color on paper; with printed inscription of a poem reading from right to left: \"Ci mao shenshi mengyong/ Liangyan qiasi (ling?) long/ Si zhua youru gangcha/ Laoshu bu gan cheng xiong\" (\"This cat is so fierce/ Two eyes are like gems/ Four claws are like steel sickles/ Rats dare not show off\"), and a color printed inscription in purple: \"Chi Ling\" (\"Imperial Edict\"). Probably from Jiajiang, Sichuan.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

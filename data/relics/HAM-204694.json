@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "mid 16th-early 17th century",
  "dimensions": "H. 14.2 x Diam. 10.1 cm (5 9/16 x 4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.217.A-B"
  },
- "material": "Enameled porcelain: porcelain with decoration painted in gold enamels a red enamel ground; with underglaze cobalt-blue mark reading \"Chang Chun Yong Bao\" within a double circle on the base, the mark and double circle arranged to simulate a Chinese coin."
+ "material": "Enameled porcelain: porcelain with decoration painted in gold enamels a red enamel ground; with underglaze cobalt-blue mark reading \"Chang Chun Yong Bao\" within a double circle on the base, the mark and double circle arranged to simulate a Chinese coin.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-204289",
  "name": "Pull Toy in the Form of a Bird with Two Baby Birds on its Back and One on its Breast",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  2,
-  2
+  101,
+  200
  ],
  "era_text": "2nd century",
  "dimensions": "H. 7.2 x L. 13.4 x W. 4.6 cm (2 13/16 x 5 1/4 x 1 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.73"
  },
- "material": "Gilt bronze"
+ "material": "Gilt bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -2500,
-  -2500
+  -2000
  ],
  "era_text": "c. 2500 BCE - c. 2000 BCE",
  "dimensions": "44.6 x 8 x 0.2 cm (17 9/16 x 3 1/8 x 1/16 in.)\r\nunspecified: 105 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.47"
  },
- "material": "Blackish brown nephrite, turning deep gold-brown at the translucent edges"
+ "material": "Blackish brown nephrite, turning deep gold-brown at the translucent edges",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

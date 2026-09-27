@@ -2,11 +2,11 @@
  "relic_id": "HAM-203368",
  "name": "Jade Slit Tube",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "春秋",
+ "dynasty_confidence": "source",
  "year_range": [
   -770,
-  -770
+  -476
  ],
  "era_text": "possibly 770 BCE - 476 BCE",
  "dimensions": "H. 2.4 x W. 2.4 x Depth 0.8 cm (15/16 x 15/16 x 5/16 in.)\r\nWeight: 20 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.386"
  },
  "material": "Light greenish gray translucent nephrite",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

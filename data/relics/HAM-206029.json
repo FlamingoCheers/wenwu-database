@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "34.3 x 25 cm (13 1/2 x 9 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.36.120"
  },
- "material": "Woodblock print; ink and color on paper; with printed inscription of title \"Qin Fang La\" (\"The Capture of Fang La\"), and character names from right to left: \"Fang La\", \"Mu Da Chong: Gu Da Sao\" (\"Gu the Tigress\") and \"Mu Ye Cha: Sun Er Niang\" (\"Sun the Witch\"), also the print shop name: \"Da Shun Hua Dian\" (\"Da Shun Print Shop\"). Probably from Yangliuqing, Tianjin."
+ "material": "Woodblock print; ink and color on paper; with printed inscription of title \"Qin Fang La\" (\"The Capture of Fang La\"), and character names from right to left: \"Fang La\", \"Mu Da Chong: Gu Da Sao\" (\"Gu the Tigress\") and \"Mu Ye Cha: Sun Er Niang\" (\"Sun the Witch\"), also the print shop name: \"Da Shun Hua Dian\" (\"Da Shun Print Shop\"). Probably from Yangliuqing, Tianjin.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

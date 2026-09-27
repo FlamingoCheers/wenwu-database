@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  9,
-  9
+  618,
+  907
  ],
  "era_text": "c. 9th century",
  "dimensions": "H. 95.3 x W. 61.8 cm (37 1/2 x 24 5/16 in.)\r\nFrame: H. 138.4 x W. 80 x D. 3.7 cm (54 1/2 x 31 1/2 x 1 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1925.12"
  },
- "material": "Banner; ink and color on silk.  Reportedly retrieved from Dunhuang, Gansu province."
+ "material": "Banner; ink and color on silk.  Reportedly retrieved from Dunhuang, Gansu province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

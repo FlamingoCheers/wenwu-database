@@ -2,11 +2,11 @@
  "relic_id": "HAM-205036",
  "name": "Jade Eagle-headed Griffin",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "7 x 1.7 x 0.4 cm (2 3/4 x 11/16 x 3/16 in.)\r\nunspecified: 9 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.234"
  },
  "material": "Faintly translucent, mottled light brown and gray nephrite",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: 58 x 30.1 cm (22 13/16 x 11 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.36.126.20"
  },
- "material": "Collage of printed and cut paper elements: red \"paper-cut\" decoration with applique woodblock printed image; ink and color on paper. Probably from Beijing."
+ "material": "Collage of printed and cut paper elements: red \"paper-cut\" decoration with applique woodblock printed image; ink and color on paper. Probably from Beijing.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

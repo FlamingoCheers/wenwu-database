@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "probably 19th century",
  "dimensions": "H. 23.4 cm (9 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.103"
  },
- "material": "Dehua ware (so-called \"Blanc de Chine\"): molded porcelain with clear glaze"
+ "material": "Dehua ware (so-called \"Blanc de Chine\"): molded porcelain with clear glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

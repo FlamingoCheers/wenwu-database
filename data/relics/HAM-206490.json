@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "16th cent. - 17th cent.",
  "dimensions": "painting proper: H. 23.9 × W. 24.5 cm (9 7/16 × 9 5/8 in.)\r\ncalligraphy proper: H. 24.1 × W. 24.5 cm (9 1/2 × 9 5/8 in.)\r\nmounting: H. 55.4 × W. 30.8 cm (21 13/16 × 12 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.182"
  },
- "material": "Small hanging scroll, cut and mounted as an album leaf; ink on paper"
+ "material": "Small hanging scroll, cut and mounted as an album leaf; ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-210345",
  "name": "Fragment of a Figurine Representing an Underworld Spirit",
  "category": "瓷器",
- "dynasty": "元",
- "dynasty_confidence": "high",
+ "dynasty": "宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1115,
+  1234
  ],
  "era_text": "13th-14th century",
  "dimensions": "H. 11.4 x W. 8.6 x D. 4.1 cm (4 1/2 x 3 3/8 x 1 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1919.190"
  },
- "material": "Enameled Cizhou ware: light gray stoneware with clear glaze over white slip ground, the decoration painted in underglaze brown slip and overglaze red, green, and yellow enamels"
+ "material": "Enameled Cizhou ware: light gray stoneware with clear glaze over white slip ground, the decoration painted in underglaze brown slip and overglaze red, green, and yellow enamels",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th-early 19th century",
  "dimensions": "H. 23.2 × W. 15.3 × D. 10.8 cm (9 1/8 × 6 × 4 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.370"
  },
- "material": "Pale greenish white nephrite"
+ "material": "Pale greenish white nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

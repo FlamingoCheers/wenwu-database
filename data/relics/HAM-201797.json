@@ -5,8 +5,8 @@
  "dynasty": "元",
  "dynasty_confidence": "high",
  "year_range": [
-  14,
-  14
+  1279,
+  1368
  ],
  "era_text": "14th century",
  "dimensions": "14.1 x 30.4 x 17.5 cm (5 9/16 x 11 15/16 x 6 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1991.270"
  },
- "material": "Painted Cizhou ware: light gray stoneware with decoration painted in iron-brown slip on a white slip ground under a clear glaze and with slip-painted inscription reading \"Fuyuan Wangjia zao\" (Made by the Wang family of Fu-yuan)"
+ "material": "Painted Cizhou ware: light gray stoneware with decoration painted in iron-brown slip on a white slip ground under a clear glaze and with slip-painted inscription reading \"Fuyuan Wangjia zao\" (Made by the Wang family of Fu-yuan)",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

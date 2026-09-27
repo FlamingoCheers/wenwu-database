@@ -2,11 +2,11 @@
  "relic_id": "HAM-201794",
  "name": "Small-Mouthed Jar with Two Loop-Handles and Abstract Decoration of a Bird in Flight",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  960,
+  1127
  ],
  "era_text": "12th-13th century",
  "dimensions": "H. 20.1 x Diam. 17.1 cm (7 15/16 x 6 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1991.226"
  },
- "material": "Northern black ware of Cizhou type: light gray stoneware with bluish-black glaze, the decoration painted in overglaze iron-oxide"
+ "material": "Northern black ware of Cizhou type: light gray stoneware with bluish-black glaze, the decoration painted in overglaze iron-oxide",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

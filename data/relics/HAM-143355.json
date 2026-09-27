@@ -2,11 +2,11 @@
  "relic_id": "HAM-143355",
  "name": "Ceramic Sherd from a Circular Dish with Vertical Side Wall and with 'Chilong' Décor: Generally rectangular fragment including portions of the floor, countersunk base, vertical side wall, and unglazed lip and elements of the decoration",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "2.2 x 7.8 x 6.1 cm (7/8 x 3 1/16 x 2 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2002.69.7"
  },
- "material": "Ding ware: porcelaneous white stoneware with pale yellow glaze over incised and carved decoration"
+ "material": "Ding ware: porcelaneous white stoneware with pale yellow glaze over incised and carved decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-179575",
  "name": "Small, Circular Bowl with Everted Lip and Stylized Floral Decor, the Interior with Six Vertical Ribs",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "2.6 x 11.8 cm (1 x 4 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.334.42"
  },
- "material": "Yaozhou ware: light gray stoneware with celadon glaze over carved decoration,\tthe interior with vertical ribs trailed in white slip.  From the Yaozhou kilns near Tongchuan, Shaanxi province."
+ "material": "Yaozhou ware: light gray stoneware with celadon glaze over carved decoration,\tthe interior with vertical ribs trailed in white slip.  From the Yaozhou kilns near Tongchuan, Shaanxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

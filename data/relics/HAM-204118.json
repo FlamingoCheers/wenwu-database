@@ -2,8 +2,8 @@
  "relic_id": "HAM-204118",
  "name": "Circular Mirror with Decoration of Concentric Circles, Linked Arcs, Quatrefoil, and Auspicious Four-Character Inscription",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
   64,
   64
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.172"
  },
- "material": "Cast bronze with three integrally cast inscriptions (one auspicious and two documentary)"
+ "material": "Cast bronze with three integrally cast inscriptions (one auspicious and two documentary)",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

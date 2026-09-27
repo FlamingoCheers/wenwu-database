@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  9,
-  9
+  618,
+  907
  ],
  "era_text": "early 9th century",
  "dimensions": "with cover: H. 24.2 x Diam. 20.5 cm (9 1/2 x 8 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.246.A-B"
  },
- "material": "Off-white stoneware with clear glaze"
+ "material": "Off-white stoneware with clear glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

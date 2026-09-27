@@ -2,8 +2,8 @@
  "relic_id": "HAM-204639",
  "name": "Turquoise-Inlaid Plaque with Stylized Animal-Mask Decoration and Elongated Extension",
  "category": "青铜器",
- "dynasty": "新石器时代",
- "dynasty_confidence": "high",
+ "dynasty": "夏",
+ "dynasty_confidence": "source",
  "year_range": [
   -1900,
   -1500
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.46"
  },
- "material": "Bronze with turquoise inlay"
+ "material": "Bronze with turquoise inlay",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "Kangxi period, first third 18th century",
  "dimensions": "box, lid on: H. 6 x D. 8.8 x L. 35 cm (2 3/8 x 3 7/16 x 13 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.891"
  },
- "material": "Double-sided folding fans with paintings and poems on carved and inscribed wood frames contained in a wood box; paintings in ink and color on light blue paper; poems in gold on indigo-blue paper; inscriptions on frames and box in gold"
+ "material": "Double-sided folding fans with paintings and poems on carved and inscribed wood frames contained in a wood box; paintings in ink and color on light blue paper; poems in gold on indigo-blue paper; inscriptions on frames and box in gold",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

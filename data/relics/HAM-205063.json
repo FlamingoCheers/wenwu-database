@@ -2,11 +2,11 @@
  "relic_id": "HAM-205063",
  "name": "Jade Cicada",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "东周",
+ "dynasty_confidence": "source",
  "year_range": [
   -770,
-  -770
+  -256
  ],
  "era_text": "770 BCE - 221 BCE (?)",
  "dimensions": "2.1 x 1.3 x 0.8 cm (13/16 x 1/2 x 5/16 in.)\r\nunspecified: 5 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.276"
  },
  "material": "Translucent, light yellowish green nephrite with tan markings",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

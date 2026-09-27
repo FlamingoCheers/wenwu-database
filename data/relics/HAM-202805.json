@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1724,
-  1724
+  1644,
+  1911
  ],
  "era_text": "1724",
  "dimensions": "133.35 x 18.1 cm (52 1/2 x 7 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1968.35"
  },
- "material": "Handscroll; ink and color on paper"
+ "material": "Handscroll; ink and color on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

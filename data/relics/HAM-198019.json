@@ -2,11 +2,11 @@
  "relic_id": "HAM-198019",
  "name": "Large covered jar (hu)",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -2,
-  -2
+  -206,
+  9
  ],
  "era_text": "2nd-1st century BCE",
  "dimensions": "H. 67.8 x Diam. 43 cm (26 11/16 x 16 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.164.A-B"
  },
- "material": "Gray earthenware with cold painted pigment on interior"
+ "material": "Gray earthenware with cold painted pigment on interior",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

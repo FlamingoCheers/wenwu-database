@@ -2,11 +2,11 @@
  "relic_id": "HAM-203790",
  "name": "In the Palace",
  "category": "书画",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  1140,
-  1140
+  1127,
+  1279
  ],
  "era_text": "before 1140",
  "dimensions": "H. 25.7 x W. 177 cm (10 1/8 x 69 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1945.28"
  },
- "material": "Handscroll; ink and traces of pigment on silk"
+ "material": "Handscroll; ink and traces of pigment on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-175808",
  "name": "Sherd: Fragment of a Shallow Circular Bowl with Rising Lotus-Petal Décor",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th cent. - 14th cent.",
  "dimensions": "15.9 x 11 x 4.2 cm (6 1/4 x 4 5/16 x 1 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.262.13"
  },
- "material": "Longquan celadon ware:  light gray stoneware body with bluish celadon glaze over carved decoration. From the Longquan kilns, Zhejiang province"
+ "material": "Longquan celadon ware:  light gray stoneware body with bluish celadon glaze over carved decoration. From the Longquan kilns, Zhejiang province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

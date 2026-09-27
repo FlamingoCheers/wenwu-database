@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -3300,
-  -3300
+  -2200
  ],
  "era_text": "c. 3300 - c. 2000 BCE (?)",
  "dimensions": "H. 8.5 x W. 7.1 x D. 7.1 cm (3 3/8 x 2 13/16 x 2 13/16 in.)\r\nWeight 664 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.509"
  },
- "material": "Mottled olive-green and deep russet nephrite"
+ "material": "Mottled olive-green and deep russet nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

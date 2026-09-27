@@ -4,7 +4,10 @@
  "category": "书画",
  "dynasty": "清",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1644,
+  1911
+ ],
  "era_text": null,
  "dimensions": "painting proper: 68.2 x 32.9 cm (26 7/8 x 12 15/16 in.)\r\nwith mounting: 106.8 x 51 cm (42 1/16 x 20 1/16 in.)\r\n",
  "summary": "哈佛艺术博物馆著录：Chinese；Hanging scroll; ink and colors on paper",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.909"
  },
- "material": "Hanging scroll; ink and colors on paper"
+ "material": "Hanging scroll; ink and colors on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

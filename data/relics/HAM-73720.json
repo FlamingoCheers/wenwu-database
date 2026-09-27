@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  6,
-  6
+  420,
+  589
  ],
  "era_text": "second half 6th-early 7th century",
  "dimensions": "H. 21.4 x W. 10.8 x Diam. 10.6 cm (8 7/16 x 4 1/4 x 4 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.115"
  },
- "material": "Light gray stoneware with appliqué handles and dark brown glaze. Place of manufacture uncertain--probably from northern China."
+ "material": "Light gray stoneware with appliqué handles and dark brown glaze. Place of manufacture uncertain--probably from northern China.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

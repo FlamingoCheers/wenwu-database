@@ -2,11 +2,11 @@
  "relic_id": "HAM-203598",
  "name": "Winged Cup (Erbei) with Abstract Decor",
  "category": "漆器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -206,
+  9
  ],
  "era_text": "3rd-1st century BCE",
  "dimensions": "sight: L. 13.97 x W. 12.7 cm (5 1/2 x 5 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1949.133"
  },
- "material": "Painted lacquerware: brown and reddish orange lacquer over wooden core"
+ "material": "Painted lacquerware: brown and reddish orange lacquer over wooden core",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

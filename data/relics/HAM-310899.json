@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1736,
-  1795
+  1644,
+  1911
  ],
  "era_text": "Qianlong period, 1736-1795",
  "dimensions": "H. 49.6 x W. 36.0 x D. 22.2 cm (19 1/2 x 14 3/16 x 8 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1911.8"
  },
- "material": "Blue-and-white ware: porcelain with decoration in underglaze cobalt blue; with underglaze cobalt blue mark reading \"Da Qing Qianlong nian zhi\" in seal-script characters on the base"
+ "material": "Blue-and-white ware: porcelain with decoration in underglaze cobalt blue; with underglaze cobalt blue mark reading \"Da Qing Qianlong nian zhi\" in seal-script characters on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "late 18th-early 19th century",
  "dimensions": "20.6 x 11.4 cm (8 1/8 x 4 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.451.A-B"
  },
- "material": "Mottled yellow nephrite; the stone of Central Asian origin, probably from Khotan"
+ "material": "Mottled yellow nephrite; the stone of Central Asian origin, probably from Khotan",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

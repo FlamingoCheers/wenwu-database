@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th cent. BCE - 14th cent. BCE",
  "dimensions": "21.8 x 8.3 x 0.3 cm (8 9/16 x 3 1/4 x 1/8 in.)\r\nunspecified: 144 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.96"
  },
- "material": "Nephrite with sharply defined, translucent, pale bluish green and opaque buff areas divided by narrow dark bluish band"
+ "material": "Nephrite with sharply defined, translucent, pale bluish green and opaque buff areas divided by narrow dark bluish band",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-176368",
  "name": "Sherd: Irregularly Shaped Fragment from the Mouth of a Shallow Dish with Bracketed Rim",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th cent. - 14th cent.",
  "dimensions": "8 x 3.9 cm (3 1/8 x 1 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.262.5"
  },
- "material": "Longquan celadon ware: light gray stoneware body with lightly crackled celadon glaze. From the Longquan kilns, Zhejiang province"
+ "material": "Longquan celadon ware: light gray stoneware body with lightly crackled celadon glaze. From the Longquan kilns, Zhejiang province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

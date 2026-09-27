@@ -2,11 +2,11 @@
  "relic_id": "HAM-204461",
  "name": "Mat Weight in the Form of a Reclining Deer",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  201,
+  300
  ],
  "era_text": "1st-3rd century",
  "dimensions": "5.4 x 10.5 x 6.5 cm (2 1/8 x 4 1/8 x 2 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.85.A"
  },
- "material": "Gilt bronze with inset tiger-cowrie shell"
+ "material": "Gilt bronze with inset tiger-cowrie shell",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

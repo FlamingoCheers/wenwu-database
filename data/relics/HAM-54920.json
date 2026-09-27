@@ -2,11 +2,11 @@
  "relic_id": "HAM-54920",
  "name": "Funerary Model of a Well Head with Decoration of Real and Auspicious Animals",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -2,
-  -2
+  -206,
+  9
  ],
  "era_text": "2nd cent. BCE-1st cent. BCE",
  "dimensions": "10.4 x 24.3 x 15.5 cm (4 1/8 x 9 9/16 x 6 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.145"
  },
- "material": "Molded medium gray earthenware"
+ "material": "Molded medium gray earthenware",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

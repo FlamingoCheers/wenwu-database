@@ -2,8 +2,8 @@
  "relic_id": "HAM-204644",
  "name": "Ornate Jade Disk",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
   25,
   25
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.584"
  },
- "material": "Light gray, nearly opaque and partly calcified stone"
+ "material": "Light gray, nearly opaque and partly calcified stone",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

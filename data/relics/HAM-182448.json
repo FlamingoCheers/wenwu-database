@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1368,
+  1644
  ],
  "era_text": "first half 17th century",
  "dimensions": "6 x 14.7 cm (2 3/8 x 5 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.26"
  },
- "material": "Blue-and-white ware: procelain with decoration painted in underglaze cobalt blue"
+ "material": "Blue-and-white ware: procelain with decoration painted in underglaze cobalt blue",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

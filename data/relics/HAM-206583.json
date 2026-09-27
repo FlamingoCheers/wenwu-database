@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th century",
  "dimensions": "sight: H. 79.4 x W. 86.4 cm (31 1/4 x 34 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1931.130"
  },
- "material": "Section of hanging scroll mounted in a frame; ink and color on paper"
+ "material": "Section of hanging scroll mounted in a frame; ink and color on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

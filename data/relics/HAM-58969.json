@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  6,
-  6
+  420,
+  589
  ],
  "era_text": "6th century",
  "dimensions": "H. 28 x Diam. 15.5 cm (11 x 6 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2014.195"
  },
- "material": "Celadon ware: light gray stoneware over carved and incised decoration"
+ "material": "Celadon ware: light gray stoneware over carved and incised decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

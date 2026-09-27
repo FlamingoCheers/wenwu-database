@@ -5,8 +5,8 @@
  "dynasty": "新石器时代",
  "dynasty_confidence": "high",
  "year_range": [
-  -2500,
-  -2500
+  -3000,
+  -1900
  ],
  "era_text": "c. 2500 BCE - c. 2000 BCE",
  "dimensions": "H. 20.4 x W. 5.3 x Thickness 0.9 cm (8 1/16 x 2 1/16 x 3/8 in.)\r\nWeight 184 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.12"
  },
- "material": "Light gray and pale green, slightly calcified nephrite, polished smooth and glossy"
+ "material": "Light gray and pale green, slightly calcified nephrite, polished smooth and glossy",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

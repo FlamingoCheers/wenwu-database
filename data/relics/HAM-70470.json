@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1747,
-  1747
+  1644,
+  1911
  ],
  "era_text": "dated 1747",
  "dimensions": "painting proper: H. 135.3 x W. 74 cm (53 1/4 x 29 1/8 in.)\r\nwith cord and roller ends (approx.): H. 269.2 x W. 101.6 cm (106 x 40 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.294"
  },
- "material": "Hanging scroll; ink and light colors on paper; with signature reading \"Aodaoren Li Shan\""
+ "material": "Hanging scroll; ink and light colors on paper; with signature reading \"Aodaoren Li Shan\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "probably 15th century",
  "dimensions": "max.: H. 8.8 × W. 24.4 × D. 25 cm (3 7/16 × 9 5/8 × 9 13/16 in.)\r\nbase: W. 15.3 × D. 15.9 cm (6 × 6 1/4 in.)\r\nweight: 1471.2 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.52"
  },
- "material": "Numbered Jun ware: light gray stoneware with variegated blue glaze; with Chinese numeral 1 (yi) incised on base; \"Jianfu gong Jingsheng zhai louxia yong\" (Palace of Established Happiness, used in the Studio of Esteemed Excellence, main floor) inscription incised on base at a later date; metal repairs"
+ "material": "Numbered Jun ware: light gray stoneware with variegated blue glaze; with Chinese numeral 1 (yi) incised on base; \"Jianfu gong Jingsheng zhai louxia yong\" (Palace of Established Happiness, used in the Studio of Esteemed Excellence, main floor) inscription incised on base at a later date; metal repairs",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -4,7 +4,10 @@
  "category": "青铜器",
  "dynasty": "汉",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  -206,
+  220
+ ],
  "era_text": null,
  "dimensions": null,
  "summary": "哈佛艺术博物馆著录：Chinese",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.945"
  },
- "material": ""
+ "material": "",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-201502",
  "name": "Section from Chapter 4 of the Lotus Sutra (Miaofa lianhua jing)",
  "category": "书画",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-14th century",
  "dimensions": "H. 26.5 x W. 50.3 cm (10 7/16 x 19 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.379"
  },
- "material": "Section of an unmounted handscroll; ink on paper"
+ "material": "Section of an unmounted handscroll; ink on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

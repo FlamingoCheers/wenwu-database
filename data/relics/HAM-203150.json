@@ -5,8 +5,8 @@
  "dynasty": "五代十国",
  "dynasty_confidence": "high",
  "year_range": [
-  10,
-  10
+  907,
+  960
  ],
  "era_text": "10th-early 11th century",
  "dimensions": "overall (max.): H. 11.0 × Diam. 20.8 cm (4 5/16 × 8 3/16 in.)\r\nfootring: H. 1.5 × Diam. 12.5 × Thickness 0.5 cm (9/16 × 4 15/16 × 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1961.65"
  },
- "material": "Yaozhou ware: light gray stoneware with pale bluish green celadon glaze over a thin white-slip ground"
+ "material": "Yaozhou ware: light gray stoneware with pale bluish green celadon glaze over a thin white-slip ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

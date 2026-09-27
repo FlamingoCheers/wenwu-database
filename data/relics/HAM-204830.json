@@ -2,11 +2,11 @@
  "relic_id": "HAM-204830",
  "name": "Ornate Jade Disk in Openwork with Decoration of Dragons and Birds",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -4,
-  -4
+  -475,
+  -221
  ],
  "era_text": "4th-3rd century BCE",
  "dimensions": "Diam. 11.4 x Thickness 0.6 cm (4 1/2 x 1/4 in.)\r\nWeight 116 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.547"
  },
- "material": "Pale celadon-colored, translucent nephrite with light and dark brown markings"
+ "material": "Pale celadon-colored, translucent nephrite with light and dark brown markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

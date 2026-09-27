@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1662,
-  1722
+  1644,
+  1911
  ],
  "era_text": "late 17th-early 18th century, probably Kangxi period (1662-1722)",
  "dimensions": "2.5 x 12.9 x 9.4 cm (1 x 5 1/16 x 3 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.245.B"
  },
- "material": "Ivory, single-piece construction"
+ "material": "Ivory, single-piece construction",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

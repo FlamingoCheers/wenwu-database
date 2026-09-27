@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "15th cent. - 16th cent.",
  "dimensions": "H. 15.4 x W. 7.4 cm (6 1/16 x 2 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1948.6"
  },
- "material": "Stone mold with carved and incised designs"
+ "material": "Stone mold with carved and incised designs",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

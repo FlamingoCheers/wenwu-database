@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "8th-9th century",
  "dimensions": "H. 4 x W. 11.8 x Diam. 9.9 cm (1 9/16 x 4 5/8 x 3 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2004.117"
  },
- "material": "White stoneware with appliqué handle and feet and with dark brown glaze on the exterior and clear glaze on the interior. Place of manufacture uncertain--probably from northern China."
+ "material": "White stoneware with appliqué handle and feet and with dark brown glaze on the exterior and clear glaze on the interior. Place of manufacture uncertain--probably from northern China.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

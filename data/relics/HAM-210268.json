@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "uncertain, late 17th-18th century or 19th century",
  "dimensions": "H. 7 x Diam. 15 cm (2 3/4 x 5 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1917.63"
  },
- "material": "Enameled porcelain, \"famille noir\" type: porcelain with decoration in overglaze polychrome enamels"
+ "material": "Enameled porcelain, \"famille noir\" type: porcelain with decoration in overglaze polychrome enamels",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

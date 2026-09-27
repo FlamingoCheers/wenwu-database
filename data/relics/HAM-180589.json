@@ -2,11 +2,11 @@
  "relic_id": "HAM-180589",
  "name": "Small Vessel with Straight Sides and Vertical Flutes",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "6.7 x 8.3 cm (2 5/8 x 3 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.334.25"
  },
- "material": "Cizhou ware: light gray stoneware with carved vertical flutes under pale whitish gray glaze, the glaze over a coating of white slip applied to the full exterior and the upper portion of the interior.  Probably made at the Cizhou kilns at Cixian, near Handan, Hebei province."
+ "material": "Cizhou ware: light gray stoneware with carved vertical flutes under pale whitish gray glaze, the glaze over a coating of white slip applied to the full exterior and the upper portion of the interior.  Probably made at the Cizhou kilns at Cixian, near Handan, Hebei province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

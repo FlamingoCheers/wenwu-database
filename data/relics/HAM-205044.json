@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th-11th century BCE",
  "dimensions": "L. 56.2 x W. 3.7 x Thickness 1 cm (22 1/8 x 1 7/16 x 3/8 in.)\r\nWeight 546 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.115"
  },
- "material": "Opaque bluish-green nephrite with fine black veins and light brown markings"
+ "material": "Opaque bluish-green nephrite with fine black veins and light brown markings",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

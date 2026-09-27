@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "late 19th-early 20th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1960.169.48"
  },
- "material": "Silk in 'kesi' tapestry weave, elements woven in metallic gold threads"
+ "material": "Silk in 'kesi' tapestry weave, elements woven in metallic gold threads",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

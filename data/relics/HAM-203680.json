@@ -2,11 +2,11 @@
  "relic_id": "HAM-203680",
  "name": "Jade Scabbard Buckle",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -475,
+  -221
  ],
  "era_text": "3rd cent. BCE - 1st cent. BCE",
  "dimensions": "L. 11.8 x W. 2.2 cm (4 5/8 x 7/8 in.)\r\nunspecified: 51 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.373"
  },
- "material": "Yellowish gray translucent nephrite with signs of incipient calcification"
+ "material": "Yellowish gray translucent nephrite with signs of incipient calcification",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

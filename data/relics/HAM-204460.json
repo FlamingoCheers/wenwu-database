@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -206,
-  -206
+  220
  ],
  "era_text": "206 BCE-220 CE",
  "dimensions": "H. 9.8 x W. (across handles) 13.7 x Diam. 6.5 cm (3 7/8 x 5 3/8 x 2 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.82"
  },
- "material": "Silver with parcel gilding"
+ "material": "Silver with parcel gilding",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

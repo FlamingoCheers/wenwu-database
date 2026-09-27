@@ -4,7 +4,10 @@
  "category": "书画",
  "dynasty": "明",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1368,
+  1644
+ ],
  "era_text": null,
  "dimensions": "H. 85.73 x W. 57.15 cm (33 3/4 x 22 1/2 in.)\r\nframed: H. 96.52 x W. 69.85 cm (38 x 27 1/2 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Fragment of a wall painting",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1933.190"
  },
- "material": "Fragment of a wall painting"
+ "material": "Fragment of a wall painting",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

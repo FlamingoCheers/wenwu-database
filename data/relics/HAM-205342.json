@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "probably 15th century",
  "dimensions": "max.: H. 20.3 × W. 29.3 × D. 27.8 cm (8 × 11 9/16 × 10 15/16 in.)\r\nbase: W. 14.5 × D. 13.8 cm (5 11/16 × 5 7/16 in.)\r\nweight: 3461.3 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.15"
  },
- "material": "Numbered Jun ware: light gray stoneware with variegated purple and blue glaze; with Chinese numeral 1 (yi) inscribed on base before firing; \"Yangxin dian Changchun shuwu yong\" (Hall of Mental Cultivation, used in the Studio of Everlasting Spring) inscription incised on base at a later date"
+ "material": "Numbered Jun ware: light gray stoneware with variegated purple and blue glaze; with Chinese numeral 1 (yi) inscribed on base before firing; \"Yangxin dian Changchun shuwu yong\" (Hall of Mental Cultivation, used in the Studio of Everlasting Spring) inscription incised on base at a later date",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

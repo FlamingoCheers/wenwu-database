@@ -2,11 +2,11 @@
  "relic_id": "HAM-16932",
  "name": "Door Lintel Ornament: \"Hanging Cash\" with Han Xiangzi and Lü Dongbin, Two of the Eight Immortals",
  "category": "书画",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "清",
+ "dynasty_confidence": "source",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: 55.7 x 23.2 cm (21 15/16 x 9 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.36.126.13"
  },
- "material": "Collage of printed and cut paper elements: red \"paper-cut\" decoration with applique woodblock printed image; ink and color on paper; from a set of five bound together (1935.36.126.10-.14). Probably from Beijing."
+ "material": "Collage of printed and cut paper elements: red \"paper-cut\" decoration with applique woodblock printed image; ink and color on paper; from a set of five bound together (1935.36.126.10-.14). Probably from Beijing.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-205114",
  "name": "Small Dish with Everted Lip and Decoration of Two Fish",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "H. 3.18 x Diam. 12.07 cm (1 1/4 x 4 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.37.30"
  },
- "material": "Longquan celadon ware: light gray stoneware with grayish olive celadon glaze over applique decoration"
+ "material": "Longquan celadon ware: light gray stoneware with grayish olive celadon glaze over applique decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

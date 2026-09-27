@@ -2,11 +2,11 @@
  "relic_id": "HAM-204396",
  "name": "Small Cup with Quatrefoil Design",
  "category": "青铜器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
   -475,
-  -475
+  -221
  ],
  "era_text": "475 BCE - 221 BCE",
  "dimensions": "2.8 x 9.3 x 7.5 cm (1 1/8 x 3 11/16 x 2 15/16 in.)",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.52.77"
  },
  "material": "Silver with parcel gilding; with inscription incised on outer rim and base",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

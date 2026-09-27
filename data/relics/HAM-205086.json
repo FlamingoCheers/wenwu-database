@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "18th century",
  "dimensions": "overall, with lid on: max. H. 9.8 × W.13.6 × D.13.6 cm (3 7/8 × 5 3/8 × 5 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.188.A-B"
  },
- "material": "White nephrite"
+ "material": "White nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,11 +2,11 @@
  "relic_id": "HAM-182237",
  "name": "Cylindrical Censer with Three Short Legs and Decoration of Trigrams in Roundels Set Against Rolling Waves",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  13,
-  13
+  1127,
+  1279
  ],
  "era_text": "13th-14th century",
  "dimensions": "9.3 x 13.5 cm (3 11/16 x 5 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.29"
  },
- "material": "Painted Jizhou ware: off-white stoneware with decoration painted in underglaze iron slip under clear glaze. From the kilns at Yonghe, Ji'an, Jiangxi province."
+ "material": "Painted Jizhou ware: off-white stoneware with decoration painted in underglaze iron slip under clear glaze. From the kilns at Yonghe, Ji'an, Jiangxi province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

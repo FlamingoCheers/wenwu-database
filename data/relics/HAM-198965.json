@@ -2,11 +2,11 @@
  "relic_id": "HAM-198965",
  "name": "Small Oblong Jade Pendant",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "春秋",
+ "dynasty_confidence": "source",
  "year_range": [
   -770,
-  -770
+  -476
  ],
  "era_text": "770 BCE - 476 BCE",
  "dimensions": "6.2 x 1.4 x 0.6 cm (2 7/16 x 9/16 x 1/4 in.)\r\nunspecified: 10 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.138"
  },
  "material": "Opaque gray stone",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

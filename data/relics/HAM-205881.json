@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1644,
+  1911
  ],
  "era_text": "date uncertain, 17th or 19th century",
  "dimensions": "H. 19 x W. 10.7 x D. 10.7 cm (7 1/2 x 4 3/16 x 4 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.264"
  },
- "material": "Enameled blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue and overglaze polychrome enamels; with spurious underglaze mark reading \"Da Ming Chenghua nian zhi\" within a double circle on the base"
+ "material": "Enameled blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue and overglaze polychrome enamels; with spurious underglaze mark reading \"Da Ming Chenghua nian zhi\" within a double circle on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

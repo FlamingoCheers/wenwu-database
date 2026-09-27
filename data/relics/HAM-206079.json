@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "ca. 16th Century",
  "dimensions": "H. 45.2 x W. 93.4 cm (17 13/16 x 36 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.55"
  },
- "material": "Hanging scroll; ink and colors on silk; with a spurious seal of Su Hanchen"
+ "material": "Hanging scroll; ink and colors on silk; with a spurious seal of Su Hanchen",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

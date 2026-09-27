@@ -2,8 +2,8 @@
  "relic_id": "HAM-205280",
  "name": "Ornate Jade Bracelet",
  "category": "玉器",
- "dynasty": "商",
- "dynasty_confidence": "high",
+ "dynasty": "新石器时代",
+ "dynasty_confidence": "source",
  "year_range": [
   -2000,
   -1500
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.148"
  },
- "material": "Translucent jade of a soft light green hue with large, creamy white, discolored areas"
+ "material": "Translucent jade of a soft light green hue with large, creamy white, discolored areas",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

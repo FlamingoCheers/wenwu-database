@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "mid 16th-early 17th century",
  "dimensions": "H. 7.6 x Diam. 7.3 cm (3 x 2 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.273"
  },
- "material": "Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue; with spurious underglaze cobalt-blue mark reading \"Xuande nian zhi\" within a double circle on the base"
+ "material": "Blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue; with spurious underglaze cobalt-blue mark reading \"Xuande nian zhi\" within a double circle on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

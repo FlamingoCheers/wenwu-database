@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -14,
-  -14
+  -1600,
+  -1050
  ],
  "era_text": "14th-11th century BCE",
  "dimensions": "H. 16.4 x W. 14.3 x D. 19.8 cm (6 7/16 x 5 5/8 x 7 13/16 in.)\r\nWeight 1550.72 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.97"
  },
- "material": "Cast bronze; with an inscription cast behind the animal's neck"
+ "material": "Cast bronze; with an inscription cast behind the animal's neck",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

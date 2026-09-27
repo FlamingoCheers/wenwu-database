@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1488,
-  1505
+  1368,
+  1644
  ],
  "era_text": "Hongzhi period, 1488-1505",
  "dimensions": "H. 4.9 x Diam. 26.5 cm (1 15/16 x 10 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.230.4"
  },
- "material": "Enameled blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue, the designs reserved against a ground of overglaze yellow enamel; with underglaze cobalt-blue mark reading \"Da Ming Hongzhi nian zhi\" within a double circle on the base"
+ "material": "Enameled blue-and-white ware: porcelain with decoration painted in underglaze cobalt blue, the designs reserved against a ground of overglaze yellow enamel; with underglaze cobalt-blue mark reading \"Da Ming Hongzhi nian zhi\" within a double circle on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

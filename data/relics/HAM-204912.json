@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -14,
-  -14
+  -1600,
+  -1050
  ],
  "era_text": "14th cent. BCE - 8th cent. BCE",
  "dimensions": "4.3 x 4.5 x 0.5 cm (1 11/16 x 1 3/4 x 3/16 in.)\r\nunspecified: 25 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.202"
  },
- "material": "Squarish piece of opaque, mottled gray-green, slightly calcified jade"
+ "material": "Squarish piece of opaque, mottled gray-green, slightly calcified jade",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

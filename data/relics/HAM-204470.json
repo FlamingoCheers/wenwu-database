@@ -2,11 +2,11 @@
  "relic_id": "HAM-204470",
  "name": "Jade 'Zhi' Vessel with Stylized Bronze Decor",
  "category": "玉器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "perhaps Northern Song to Jin, 11th-early 13th century",
  "dimensions": null,
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.631"
  },
- "material": "Mottled grayish white nephrite"
+ "material": "Mottled grayish white nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

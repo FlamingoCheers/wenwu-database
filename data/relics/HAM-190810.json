@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  9,
-  9
+  618,
+  907
  ],
  "era_text": "9th century",
  "dimensions": "H. (with cover) 6.5 x Diam. 7 cm (2 9/16 x 2 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.208.A-B"
  },
- "material": "Huangpu ware: light gray stoneware with dark brown glaze. From the Huangpu kilns, Tongchuan, Yaozhou county, Shaanxi province"
+ "material": "Huangpu ware: light gray stoneware with dark brown glaze. From the Huangpu kilns, Tongchuan, Yaozhou county, Shaanxi province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

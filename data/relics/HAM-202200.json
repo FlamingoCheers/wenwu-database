@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  14,
-  14
+  1368,
+  1644
  ],
  "era_text": "late 14th-mid 17th century",
  "dimensions": "Diam. 18.2 cm (7 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1982.19"
  },
- "material": "Stoneware with blue glaze; with three spur marks in the center"
+ "material": "Stoneware with blue glaze; with three spur marks in the center",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

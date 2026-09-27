@@ -2,11 +2,11 @@
  "relic_id": "HAM-205378",
  "name": "Large Bowl with Angular Walls",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "late 11th - first half 12th century",
  "dimensions": "max.: H. 10 × Diam. 23.5 cm (3 15/16 × 9 1/4 in.)\r\nmouth: Diam. 23.3 cm (9 3/16 in.)\r\n",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.55"
  },
- "material": "Jun ware: light gray stoneware with robin's-egg blue glaze"
+ "material": "Jun ware: light gray stoneware with robin's-egg blue glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

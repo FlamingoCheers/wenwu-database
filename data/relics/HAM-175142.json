@@ -2,11 +2,11 @@
  "relic_id": "HAM-175142",
  "name": "Landscape After Dong Yuan",
  "category": "书画",
- "dynasty": "元",
- "dynasty_confidence": "high",
+ "dynasty": "清",
+ "dynasty_confidence": "source",
  "year_range": [
-  3,
-  3
+  1644,
+  1911
  ],
  "era_text": "3rd quarter 17th century",
  "dimensions": "painting proper: 133.7 × 61.8 cm (52 5/8 × 24 5/16 in.)\r\nwith mounting, including cord and roller ends: 230 × 91.5 cm (90 9/16 × 36 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.342"
  },
- "material": "Hanging scroll; ink on paper with artist's signature reading \"Loushui Wang Jian\" and seal reading \"Wang Jian zhi yin\""
+ "material": "Hanging scroll; ink on paper with artist's signature reading \"Loushui Wang Jian\" and seal reading \"Wang Jian zhi yin\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

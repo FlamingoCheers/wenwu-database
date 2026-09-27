@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  8,
-  8
+  618,
+  907
  ],
  "era_text": "8th-9th century",
  "dimensions": "H. 15 x W. 14 cm (5 7/8 x 5 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1967.30"
  },
- "material": "Framed section of an illustrated Buddhist manuscript; ink and color on paper.  Reportedly retrieved from Dunhuang, Gansu province."
+ "material": "Framed section of an illustrated Buddhist manuscript; ink and color on paper.  Reportedly retrieved from Dunhuang, Gansu province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

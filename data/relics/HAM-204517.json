@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "mid 16th-early 17th century",
  "dimensions": "H. 30.9 x Diam. 15.2 cm (12 3/16 x 6 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.227"
  },
- "material": "Porcelain with decoration painted in underglaze cobalt blue and overglaze red and green enamels, probably added at a later date"
+ "material": "Porcelain with decoration painted in underglaze cobalt blue and overglaze red and green enamels, probably added at a later date",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

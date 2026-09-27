@@ -2,11 +2,11 @@
  "relic_id": "HAM-204900",
  "name": "Jade Chape",
  "category": "玉器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -3,
-  -3
+  -475,
+  -221
  ],
  "era_text": "3rd cent. BCE - 1st cent. BCE",
  "dimensions": "6.1 x 4.1 x 1.7 cm (2 3/8 x 1 5/8 x 11/16 in.)\r\nunspecified: 72 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.198"
  },
- "material": "Light gray, brown, and dark brown translucent nephrite"
+ "material": "Light gray, brown, and dark brown translucent nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  6,
-  6
+  550,
+  577
  ],
  "era_text": "late 6th-early 7th century",
  "dimensions": "H. 33.2 x Diam. 22 cm (13 1/16 x 8 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.227"
  },
- "material": "Stoneware with celadon glaze"
+ "material": "Stoneware with celadon glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

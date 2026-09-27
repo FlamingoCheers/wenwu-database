@@ -2,11 +2,11 @@
  "relic_id": "HAM-205404",
  "name": "Conical Bowl with Partridge-Feather Mottles",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "late 11th-first half 12th century",
  "dimensions": "H. 5 x Diam. 16.1 cm (1 15/16 x 6 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.429"
  },
- "material": "Northern black ware of Cizhou type: off-white stoneware with dark brown glaze, the interior with russet markings in overglaze iron oxide"
+ "material": "Northern black ware of Cizhou type: off-white stoneware with dark brown glaze, the interior with russet markings in overglaze iron oxide",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

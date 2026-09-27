@@ -2,11 +2,11 @@
  "relic_id": "HAM-94213",
  "name": "Tang Poem in Clerical Script (Li-shu)",
  "category": "书画",
- "dynasty": "唐",
- "dynasty_confidence": "high",
+ "dynasty": "清",
+ "dynasty_confidence": "source",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "Kangxi period, first third 18th century",
  "dimensions": "max. opened: H. 31.8 x W. 49.7 cm (12 1/2 x 19 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.891.2.B"
  },
- "material": "Calligraphed side of a folding fan on carved and inscribed wood frame; gold pigment on indigo-blue paper; inscription on frame in gold"
+ "material": "Calligraphed side of a folding fan on carved and inscribed wood frame; gold pigment on indigo-blue paper; inscription on frame in gold",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

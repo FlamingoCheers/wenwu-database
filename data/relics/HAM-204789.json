@@ -2,11 +2,11 @@
  "relic_id": "HAM-204789",
  "name": "Trapezoidal Jade Plaque",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "春秋",
+ "dynasty_confidence": "source",
  "year_range": [
-  -722,
-  -722
+  -770,
+  -476
  ],
  "era_text": "possibly 722 BCE - 481 BCE",
  "dimensions": "3.6 x 6.2 x 0.4 cm (1 7/16 x 2 7/16 x 3/16 in.)\r\nunspecified: 16 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.471"
  },
  "material": "Cream, tan, and light gray nephrite with blackish spots",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

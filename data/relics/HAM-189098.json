@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "second half 16th century",
  "dimensions": "painting proper: H. 132.1 x W. 43.5 cm (52 x 17 1/8 in.)\r\nmounting, including cord and roller ends: H. 242.6 x W. 66.7 cm (95 1/2 x 26 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.230.1"
  },
- "material": "Hanging scroll; ink on paper; with signature of the artist reading \"Wuxia You Qiu zhi\"; and with seals of the artist"
+ "material": "Hanging scroll; ink on paper; with signature of the artist reading \"Wuxia You Qiu zhi\"; and with seals of the artist",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

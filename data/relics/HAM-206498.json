@@ -5,8 +5,8 @@
  "dynasty": "五代十国",
  "dynasty_confidence": "high",
  "year_range": [
-  955,
-  955
+  907,
+  960
  ],
  "era_text": "dated 955",
  "dimensions": "13.2 x 8.1 x 7.9 cm (5 3/16 x 3 3/16 x 3 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1930.105"
  },
- "material": "Cast bronze"
+ "material": "Cast bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

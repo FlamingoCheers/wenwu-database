@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  18,
-  18
+  1644,
+  1911
  ],
  "era_text": "possibly 18th century, Qianlong era (1736–95)",
  "dimensions": "21.6 × 12.7 cm (8 1/2 × 5 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2021.218"
  },
- "material": "Monochrome porcelain with copper red glaze"
+ "material": "Monochrome porcelain with copper red glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

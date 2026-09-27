@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1427,
-  1427
+  1368,
+  1644
  ],
  "era_text": "dated to 1427",
  "dimensions": "H. 26.2 x W. 34.6 cm (10 5/16 x 13 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1931.20"
  },
- "material": "Album leaf; ink and light colors on paper; with inscription reading \"Xuande dingwei yubi xixie\""
+ "material": "Album leaf; ink and light colors on paper; with inscription reading \"Xuande dingwei yubi xixie\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "五代十国",
  "dynasty_confidence": "high",
  "year_range": [
-  10,
-  10
+  907,
+  960
  ],
  "era_text": "10th-11th century",
  "dimensions": "23.5 x 12.9 cm (9 1/4 x 5 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2003.102"
  },
- "material": "Northern black ware of Cizhou type: light gray stoneware with dark brown glaze"
+ "material": "Northern black ware of Cizhou type: light gray stoneware with dark brown glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

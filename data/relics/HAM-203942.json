@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "probably 16th-17th century",
  "dimensions": "3.8 x 14 x 10.3 cm (1 1/2 x 5 1/2 x 4 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1950.83.106"
  },
- "material": "Originally a pale greenish-white nephrite changed to a creamy-buff because of burning (so-called chicken-bone jade); the stone of Central Asian origin, probably from Khotan"
+ "material": "Originally a pale greenish-white nephrite changed to a creamy-buff because of burning (so-called chicken-bone jade); the stone of Central Asian origin, probably from Khotan",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

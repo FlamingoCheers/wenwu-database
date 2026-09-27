@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  500,
-  535
+  386,
+  534
  ],
  "era_text": "c. 500-535",
  "dimensions": "greatest dimen.: 38.5 cm (15 3/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2003.187"
  },
- "material": "Molded, medium gray earthenware with traces of cold-painted pigments"
+ "material": "Molded, medium gray earthenware with traces of cold-painted pigments",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

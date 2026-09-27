@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th cent. BCE - 11th cent. BCE",
  "dimensions": "29.5 x 6.2 x 0.6 cm (11 5/8 x 2 7/16 x 1/4 in.)\r\nunspecified: 433 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.51.10"
  },
- "material": "Mottled light and dark gray nephrite blade; bronze haft"
+ "material": "Mottled light and dark gray nephrite blade; bronze haft",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

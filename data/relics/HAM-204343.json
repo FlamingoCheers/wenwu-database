@@ -2,11 +2,11 @@
  "relic_id": "HAM-204343",
  "name": "Circular Mirror with Relief Decoration of the Daoist Deities Xiwangmu and Dongwanggong, a Dragon, and a Horse-Drawn Chariot",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  1,
-  1
+  201,
+  300
  ],
  "era_text": "1st-early 3rd century",
  "dimensions": "Diam. 19 cm (7 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.52.167"
  },
- "material": "Cast bronze"
+ "material": "Cast bronze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "新石器时代",
  "dynasty_confidence": "high",
  "year_range": [
-  -4000,
-  -4000
+  -5000,
+  -3000
  ],
  "era_text": "Shijia phase, c. 4000 BCE",
  "dimensions": "H. 19.5 x Diam. (across body) 17 cm (7 11/16 x 6 11/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.8"
  },
- "material": "Earthenware with traces of slip-painted decoration"
+ "material": "Earthenware with traces of slip-painted decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

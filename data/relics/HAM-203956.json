@@ -2,11 +2,11 @@
  "relic_id": "HAM-203956",
  "name": "Foliate Cup with Flaring and Notched Lip",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th-13th century",
  "dimensions": "H. 4.2 x Diam. 10.3 cm (1 5/8 x 4 1/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1950.96"
  },
- "material": "Qingbai ware: porcelain with pale sky-blue glaze"
+ "material": "Qingbai ware: porcelain with pale sky-blue glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

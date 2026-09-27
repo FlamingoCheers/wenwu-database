@@ -2,11 +2,11 @@
  "relic_id": "HAM-173615",
  "name": "Cylindrical tripod vessel (lian) with domed cover",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -1,
-  -1
+  1,
+  100
  ],
  "era_text": "1st century BCE-early 1st century CE",
  "dimensions": "with cover: H. 20.2 x Diam. 21 cm (7 15/16 x 8 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.199.A-B"
  },
- "material": "Earthenware with green lead glaze"
+ "material": "Earthenware with green lead glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,10 +2,10 @@
  "relic_id": "HAM-204943",
  "name": "Jade Bird with a Long Plume",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "西周",
+ "dynasty_confidence": "source",
  "year_range": [
-  -1100,
+  -1050,
   -771
  ],
  "era_text": "possibly 1100 - 771 BCE",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.216"
  },
  "material": "Translucent, pale gray-green nephrite with black speckles",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

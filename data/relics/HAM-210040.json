@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1619,
-  1619
+  1368,
+  1644
  ],
  "era_text": "dated to 1619",
  "dimensions": "87.6 × 33 cm (34 1/2 × 13 in.)\r\nmount: 130.8 × 59.1 cm (51 1/2 × 23 1/4 in.)\r\nframe: 137.5 × 65.7 × 2.2 cm (54 1/8 × 25 7/8 × 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1923.230"
  },
- "material": "Hanging scroll cut from its mounting and framed; ink and slight colors on silk"
+ "material": "Hanging scroll cut from its mounting and framed; ink and slight colors on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

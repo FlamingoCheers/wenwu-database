@@ -5,8 +5,8 @@
  "dynasty": "元",
  "dynasty_confidence": "high",
  "year_range": [
-  14,
-  14
+  1279,
+  1368
  ],
  "era_text": "probably mid 14th century",
  "dimensions": "29.6 x 31.1 cm (11 5/8 x 12 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.110"
  },
- "material": "Cizhou-type cut-glaze ware: ivory white stoneware with olive brown glaze, the decoration cut into the glaze before firing"
+ "material": "Cizhou-type cut-glaze ware: ivory white stoneware with olive brown glaze, the decoration cut into the glaze before firing",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

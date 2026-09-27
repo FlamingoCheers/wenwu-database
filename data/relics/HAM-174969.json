@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  16,
-  16
+  1368,
+  1644
  ],
  "era_text": "mid 16th-early 17th century, Wanli period",
  "dimensions": "H. 20 x Diam. 15 cm (7 7/8 x 5 7/8 in.) (with cover)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.325.A-B"
  },
- "material": "\"Wucai\" ware: porcelain with decoration painted in overglaze red, green, and yellow enamels, the bowstring-line borders painted in underglaze cobalt blue. Probably from the kilns at Jingdezhen, Jiangxi province"
+ "material": "\"Wucai\" ware: porcelain with decoration painted in overglaze red, green, and yellow enamels, the bowstring-line borders painted in underglaze cobalt blue. Probably from the kilns at Jingdezhen, Jiangxi province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

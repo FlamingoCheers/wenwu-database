@@ -2,11 +2,11 @@
  "relic_id": "HAM-332039",
  "name": "Cupstand with Circular Rim and Russet Glaze",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  11,
-  11
+  960,
+  1127
  ],
  "era_text": "probably 11th century",
  "dimensions": "H. 6.9 x Diam. 12.7 cm (2 11/16 x 5 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2009.68"
  },
- "material": "Russet Ding ware: porcellaneous stoneware with mottled russet-surfaced, dark brown glaze.  Probably from the kilns at Jianci village, possibly from those at East or West Yanchuan village, Quyang county, Hebei province."
+ "material": "Russet Ding ware: porcellaneous stoneware with mottled russet-surfaced, dark brown glaze.  Probably from the kilns at Jianci village, possibly from those at East or West Yanchuan village, Quyang county, Hebei province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

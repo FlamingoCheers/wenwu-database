@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  17,
-  17
+  1368,
+  1644
  ],
  "era_text": "17th-early 18th century",
  "dimensions": "H. 16.5 cm (6 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.104"
  },
- "material": "Dehua ware (so-called \"Blanc de Chine\"): molded porcelain with ivory-hued glaze"
+ "material": "Dehua ware (so-called \"Blanc de Chine\"): molded porcelain with ivory-hued glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

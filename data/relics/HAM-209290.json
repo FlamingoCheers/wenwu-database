@@ -5,8 +5,8 @@
  "dynasty": "元",
  "dynasty_confidence": "high",
  "year_range": [
-  13,
-  13
+  1279,
+  1368
  ],
  "era_text": "13th-14th century",
  "dimensions": "H. 20.5 x W. 16.6 cm (8 1/16 x 6 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1929.238"
  },
- "material": "Album leaf; ink on silk"
+ "material": "Album leaf; ink on silk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

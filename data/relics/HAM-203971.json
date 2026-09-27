@@ -5,8 +5,8 @@
  "dynasty": "宋",
  "dynasty_confidence": "high",
  "year_range": [
-  12,
-  12
+  960,
+  1279
  ],
  "era_text": "probably 12th century",
  "dimensions": "Diam. 11.4 cm (4 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1956.113"
  },
- "material": "Qingbai ware: porcelain with pale sky-blue glaze over trailed ribs of porcelain slip"
+ "material": "Qingbai ware: porcelain with pale sky-blue glaze over trailed ribs of porcelain slip",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

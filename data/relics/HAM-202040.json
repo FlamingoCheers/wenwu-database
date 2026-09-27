@@ -4,7 +4,10 @@
  "category": "青铜器",
  "dynasty": "明",
  "dynasty_confidence": "high",
- "year_range": null,
+ "year_range": [
+  1368,
+  1644
+ ],
  "era_text": null,
  "dimensions": "H. 10.16 x Diam. 19.37 cm (4 x 7 5/8 in.)",
  "summary": "哈佛艺术博物馆著录：Chinese；Lacquer, black and red, with silver",
@@ -23,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1983.63"
  },
- "material": "Lacquer, black and red, with silver"
+ "material": "Lacquer, black and red, with silver",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -2,8 +2,8 @@
  "relic_id": "HAM-73713",
  "name": "Spouted tripod ewer (he)",
  "category": "瓷器",
- "dynasty": "新石器时代",
- "dynasty_confidence": "high",
+ "dynasty": "夏",
+ "dynasty_confidence": "source",
  "year_range": [
   -1900,
   -1500
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.119"
  },
- "material": "Earthenware"
+ "material": "Earthenware",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

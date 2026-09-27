@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "paper: 31.6 x 23.5 cm (12 7/16 x 9 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.50"
  },
- "material": "Woodblock print; ink and color on paper; with printed inscription reading \"Mo You\" (\"Protecting in Silence\"); Probably from Fengxiang, Shaanxi; compare with 1935.37.36."
+ "material": "Woodblock print; ink and color on paper; with printed inscription reading \"Mo You\" (\"Protecting in Silence\"); Probably from Fengxiang, Shaanxi; compare with 1935.37.36.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "19th century",
  "dimensions": "max. H. 138.4 x W. 200.7 cm (54 1/2 x 79 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2013.76"
  },
- "material": "Satin with designs in slit tapestry weave (“kesi”)"
+ "material": "Satin with designs in slit tapestry weave (“kesi”)",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

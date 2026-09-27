@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -12,
-  -12
+  -1600,
+  -1050
  ],
  "era_text": "12th-10th century BCE",
  "dimensions": "H. 5.9 x W. 6.8 x D. 2.4 cm (2 5/16 x 2 11/16 x 15/16 in.)\r\nWeight 57 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.322"
  },
- "material": "Polished, mottled grayish green nephrite"
+ "material": "Polished, mottled grayish green nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

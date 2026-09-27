@@ -2,11 +2,11 @@
  "relic_id": "HAM-203189",
  "name": "Oil Lamp in the Form of a Ring Supported by the Leg and Webbed Foot of a Duck or Goose",
  "category": "青铜器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "西汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  -65,
-  -65
+  -206,
+  9
  ],
  "era_text": "dated to 65 BCE",
  "dimensions": "H. 13.8 x Diam. 11.5 cm (5 7/16 x 4 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1961.127"
  },
- "material": "Cast bronze; with engraved inscription dated to 65 BC (Yuankang yuan nian) on the underside of the ring"
+ "material": "Cast bronze; with engraved inscription dated to 65 BC (Yuankang yuan nian) on the underside of the ring",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

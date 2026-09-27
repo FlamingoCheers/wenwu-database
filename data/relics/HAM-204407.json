@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -1300,
-  -1300
+  -1600,
+  -1050
  ],
  "era_text": "c. 1300 BCE-c. 1000 BCE",
  "dimensions": "5.3 x 8.2 x 7.5 cm (2 1/16 x 3 1/4 x 2 15/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.1861"
  },
- "material": "White earthenware with molded and incised decor"
+ "material": "White earthenware with molded and incised decor",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

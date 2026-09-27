@@ -5,8 +5,8 @@
  "dynasty": "新石器时代",
  "dynasty_confidence": "high",
  "year_range": [
-  -2500,
-  -2500
+  -3000,
+  -1900
  ],
  "era_text": "c. 2500 BCE - c. 2000 BCE",
  "dimensions": "12.7 x 9.5 x 0.4 cm (5 x 3 3/4 x 3/16 in.)\r\nunspecified: 109 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.84"
  },
- "material": "Evenly dark green nephrite"
+ "material": "Evenly dark green nephrite",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

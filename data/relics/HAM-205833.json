@@ -2,11 +2,11 @@
  "relic_id": "HAM-205833",
  "name": "Cantonese Painting of a Fish Identified as \"Kwah-T'si-T'song\"",
  "category": "书画",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "现当代",
+ "dynasty_confidence": "source",
  "year_range": [
-  20,
-  20
+  1901,
+  2000
  ],
  "era_text": "20th century",
  "dimensions": "36.4 x 38.7 cm (14 5/16 x 15 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1939.269.48"
  },
- "material": "One of fifty-four paintings (originally fifty-five); ink and color on paper"
+ "material": "One of fifty-four paintings (originally fifty-five); ink and color on paper",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

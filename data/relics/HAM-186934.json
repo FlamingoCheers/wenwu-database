@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  14,
-  14
+  1368,
+  1644
  ],
  "era_text": "14th-early 15th century",
  "dimensions": "H. 25.8 x Diam. 24.1 cm (10 3/16 x 9 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2016.224"
  },
- "material": "Cizhou-type cut-glaze ware: light gray stoneware with dark brown glaze, the decoration cut into the glaze before firing"
+ "material": "Cizhou-type cut-glaze ware: light gray stoneware with dark brown glaze, the decoration cut into the glaze before firing",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

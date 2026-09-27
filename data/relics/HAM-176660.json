@@ -2,11 +2,11 @@
  "relic_id": "HAM-176660",
  "name": "Sherd: Fragment from the Base of a Circular Dish with Flat Floor, Angled Walls, and Splayed Footring",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  960,
+  1127
  ],
  "era_text": "first quarter 12th century",
  "dimensions": "2.8 x 10.3 x 7.1 cm (1 1/8 x 4 1/16 x 2 13/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2000.360.3"
  },
- "material": "Ru ware: light gray stoneware body with pale bluish celadon glaze, the glaze with white to buff cloudiness due either to under firing or to burial (in the waste heap at the kiln site). From the Ru kilns, Henan province"
+ "material": "Ru ware: light gray stoneware body with pale bluish celadon glaze, the glaze with white to buff cloudiness due either to under firing or to burial (in the waste heap at the kiln site). From the Ru kilns, Henan province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

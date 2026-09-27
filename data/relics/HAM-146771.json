@@ -2,11 +2,11 @@
  "relic_id": "HAM-146771",
  "name": "Prancing Horse with Mouth Open and Forelock Coifed",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
   1,
-  1
+  200
  ],
  "era_text": "1st cent. - 2nd cent.",
  "dimensions": "26.5 x 31.5 x 8 cm (10 7/16 x 12 3/8 x 3 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2003.172"
  },
- "material": "Molded, gray earthenware with traces of cold-painted pigments over white ground"
+ "material": "Molded, gray earthenware with traces of cold-painted pigments over white ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -2000,
-  -2000
+  -1700
  ],
  "era_text": "Longshan or Erlitou culture, c. 2000 BCE - c. 1700 BCE",
  "dimensions": "21.3 x 4.3 x 0.5 cm (8 3/8 x 1 11/16 x 3/16 in.)\r\nunspecified: 99 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.71"
  },
- "material": "Uniformly dark olive-green, faintly translucent stone"
+ "material": "Uniformly dark olive-green, faintly translucent stone",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

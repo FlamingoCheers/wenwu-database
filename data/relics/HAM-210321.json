@@ -2,11 +2,11 @@
  "relic_id": "HAM-210321",
  "name": "Cylindrical \"Zun\" Wine Vessel with Three Bear-Form Legs, Bowstring-Line and Ring-Mask-Handle Decor, and Slightly Stepped, Domed Cover",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  2,
-  2
+  201,
+  300
  ],
  "era_text": "2nd-3rd century CE",
  "dimensions": "H. 18 x Diam. 18.6 cm (7 1/16 x 7 5/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1919.192.A-B"
  },
- "material": "Lead-glazed funerary ware: molded brick-red earthenware with lead-fluxed, emerald-green glaze over molded  and applique decoration"
+ "material": "Lead-glazed funerary ware: molded brick-red earthenware with lead-fluxed, emerald-green glaze over molded  and applique decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

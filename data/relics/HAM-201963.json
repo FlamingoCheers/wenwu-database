@@ -5,8 +5,8 @@
  "dynasty": "唐",
  "dynasty_confidence": "high",
  "year_range": [
-  7,
-  7
+  618,
+  907
  ],
  "era_text": "7th century",
  "dimensions": "46.8 cm (18 7/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1981.101"
  },
- "material": "Cold-painted funerary ware: molded brick-red earthenware with cold-painted pigments over a white gesso ground"
+ "material": "Cold-painted funerary ware: molded brick-red earthenware with cold-painted pigments over a white gesso ground",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

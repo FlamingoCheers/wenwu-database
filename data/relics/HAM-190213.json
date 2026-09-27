@@ -2,11 +2,11 @@
  "relic_id": "HAM-190213",
  "name": "Sherd: Triangular Corner Fragment from the Foot and Base of a Small, Square, Pear-Shaped Bottle or Vase",
  "category": "瓷器",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "南宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1127,
+  1279
  ],
  "era_text": "12th cent. - 13th cent.",
  "dimensions": "2.8 x 4.6 x 5.1 cm (1 1/8 x 1 13/16 x 2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1999.198.10"
  },
- "material": "Longquan celadon ware: molded, pale gray stoneware with matte-surfaced, bluish green celadon glaze. From the Longquan kilns in Zhejiang province"
+ "material": "Longquan celadon ware: molded, pale gray stoneware with matte-surfaced, bluish green celadon glaze. From the Longquan kilns in Zhejiang province",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

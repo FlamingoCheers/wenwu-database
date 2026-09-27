@@ -2,11 +2,11 @@
  "relic_id": "HAM-176360",
  "name": "Large dome shaped vessel",
  "category": "瓷器",
- "dynasty": "汉",
- "dynasty_confidence": "high",
+ "dynasty": "东汉",
+ "dynasty_confidence": "source",
  "year_range": [
-  2,
-  2
+  201,
+  300
  ],
  "era_text": "2nd-3rd century CE",
  "dimensions": "H. 22.7 x Diam. 31.5 cm (8 15/16 x 12 3/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.181"
  },
- "material": "Gray earthenware with incised decoration"
+ "material": "Gray earthenware with incised decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

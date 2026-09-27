@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1821,
-  1850
+  1644,
+  1911
  ],
  "era_text": "Daoguang period, 1821-1850",
  "dimensions": "H. 2.5 x Diam. 14.1 cm (1 x 5 9/16 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1967.68"
  },
- "material": "Enameled porcelain: porcelain with overglaze polychrome and gold enamels; with overglaze red enamel mark reading \"Da Qing Daoguang nian zhi\" in seal-script characters on the base"
+ "material": "Enameled porcelain: porcelain with overglaze polychrome and gold enamels; with overglaze red enamel mark reading \"Da Qing Daoguang nian zhi\" in seal-script characters on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

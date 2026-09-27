@@ -5,8 +5,8 @@
  "dynasty": "南北朝",
  "dynasty_confidence": "high",
  "year_range": [
-  570,
-  570
+  550,
+  577
  ],
  "era_text": "c. 570",
  "dimensions": "sculpture with attached circular base and tang (not visible): H. 97.8 x W. 26 x D. 17.1 cm (38 1/2 x 10 1/4 x 6 3/4 in.)\r\ndisplay dimensions (sculpture with separate lotus base): H. 107.6 x W. 32.1 x D. 31.1 cm (42 3/8 x 12 5/8 x 12 1/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.53.31"
  },
- "material": "Marble with polychromy"
+ "material": "Marble with polychromy",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

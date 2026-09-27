@@ -2,11 +2,11 @@
  "relic_id": "HAM-205411",
  "name": "Small 'Meiping' Bottle",
  "category": "瓷器",
- "dynasty": "元",
- "dynasty_confidence": "high",
+ "dynasty": "宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  12,
-  12
+  1115,
+  1234
  ],
  "era_text": "12th-14th century",
  "dimensions": "max.: H. 13 × Diam. 7.2 cm (5 1/8 × 2 13/16 in.)\r\nmouth: Diam. 1.9 cm (3/4 in.)\r\nbase: Diam. 4.1 cm (1 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1942.185.77"
  },
- "material": "\"Soft Jun\" ware: light gray stoneware with thick, crackled robin's-egg blue glaze"
+ "material": "\"Soft Jun\" ware: light gray stoneware with thick, crackled robin's-egg blue glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

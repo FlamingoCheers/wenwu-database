@@ -6,7 +6,7 @@
  "dynasty_confidence": "high",
  "year_range": [
   -4000,
-  -4000
+  -2000
  ],
  "era_text": "c. 4000 BCE - c. 2000 BCE",
  "dimensions": "0.8 x 8.1 x 19.8 cm (5/16 x 3 3/16 x 7 13/16 in.)\r\nunspecified: 302 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.599"
  },
- "material": "Opaque brownish gray nephrite enclosing a large area of translucent bluish green nephrite with whitish clouds"
+ "material": "Opaque brownish gray nephrite enclosing a large area of translucent bluish green nephrite with whitish clouds",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

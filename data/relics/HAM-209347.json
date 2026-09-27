@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  1636,
-  1636
+  1368,
+  1644
  ],
  "era_text": "dated 1636",
  "dimensions": "image proper: H. 29.2 cm (11 1/2 in.)\r\nwith mounting: H. 34.3 cm (13 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1985.833"
  },
- "material": "Handscroll; gold ink on indigo-blue paper, with a signature reading \"Wan Daoren Shouqi\""
+ "material": "Handscroll; gold ink on indigo-blue paper, with a signature reading \"Wan Daoren Shouqi\"",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

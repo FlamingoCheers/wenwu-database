@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1662,
-  1722
+  1644,
+  1911
  ],
  "era_text": "Kangxi period, 1662-1722",
  "dimensions": "142 x 201 cm (55 7/8 x 79 1/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1960.169.6"
  },
- "material": "Dark blue satin ground with brocaded decoration"
+ "material": "Dark blue satin ground with brocaded decoration",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

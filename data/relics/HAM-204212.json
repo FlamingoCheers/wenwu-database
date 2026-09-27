@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -11,
-  -11
+  -1600,
+  -1050
  ],
  "era_text": "late Shang or early Western Zhou period, 11th century BCE",
  "dimensions": "without handle: H. 22.9 cm (9 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1944.57.24.A-B"
  },
- "material": "Cast bronze; with integrally cast inscriptions on vessel floor and interior of cover"
+ "material": "Cast bronze; with integrally cast inscriptions on vessel floor and interior of cover",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

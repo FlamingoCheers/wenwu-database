@@ -2,11 +2,11 @@
  "relic_id": "HAM-204072",
  "name": "Eleven-Headed Guanyin",
  "category": "书画",
- "dynasty": "宋",
- "dynasty_confidence": "high",
+ "dynasty": "北宋",
+ "dynasty_confidence": "source",
  "year_range": [
-  985,
-  985
+  960,
+  1127
  ],
  "era_text": "dated to 985",
  "dimensions": "painting proper: H. 99.6 x W. 62.8 cm (39 3/16 x 24 3/4 in.)\r\nmounting overall, including suspension cord and roller ends: H. 153.8 x W. 73 cm (60 9/16 x 28 3/4 in.)\r\n",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.57.14"
  },
- "material": "Hanging scroll; ink and color on silk. Reportedly retrieved from Dunhuang, Gansu province."
+ "material": "Hanging scroll; ink and color on silk. Reportedly retrieved from Dunhuang, Gansu province.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -16,
-  -16
+  -1600,
+  -1050
  ],
  "era_text": "16th-11th century BCE",
  "dimensions": "W. 1.7 x L. 6.2 x Thickness 0.3 cm (11/16 x 2 7/16 x 1/8 in.)\r\nWeight 7 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.357"
  },
- "material": "Translucent yellowish nephrite cut from a fragment of a narrow disk"
+ "material": "Translucent yellowish nephrite cut from a fragment of a narrow disk",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

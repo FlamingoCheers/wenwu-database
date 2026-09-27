@@ -5,8 +5,8 @@
  "dynasty": "商",
  "dynasty_confidence": "high",
  "year_range": [
-  -14,
-  -14
+  -1600,
+  -1050
  ],
  "era_text": "14th cent. BCE - 8th cent. BCE",
  "dimensions": "7.6 x 7 x 1.1 cm (3 x 2 3/4 x 7/16 in.)\r\nunspecified: 33 g",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1943.50.156"
  },
- "material": "Fairly translucent, ivory-colored nephrite with traces of cinnabar and earth adhering to the surface"
+ "material": "Fairly translucent, ivory-colored nephrite with traces of cinnabar and earth adhering to the surface",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

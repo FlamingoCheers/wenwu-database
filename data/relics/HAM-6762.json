@@ -5,8 +5,8 @@
  "dynasty": "明",
  "dynasty_confidence": "high",
  "year_range": [
-  15,
-  15
+  1368,
+  1644
  ],
  "era_text": "15th-17th century",
  "dimensions": "H. 4 x W. 9 x D. 4.7 cm (1 9/16 x 3 9/16 x 1 7/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2016.219"
  },
- "material": "Sea-green nephrite with russet mottling"
+ "material": "Sea-green nephrite with russet mottling",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

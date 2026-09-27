@@ -2,11 +2,11 @@
  "relic_id": "HAM-204809",
  "name": "Jade Pendant in the Shape of Three Acrobats",
  "category": "玉器",
- "dynasty": "不详",
- "dynasty_confidence": "low",
+ "dynasty": "战国",
+ "dynasty_confidence": "source",
  "year_range": [
-  -350,
-  -300
+  -475,
+  -221
  ],
  "era_text": "350-300 BCE",
  "dimensions": "4.6 x 1.9 x 0.5 cm (1 13/16 x 3/4 x 3/16 in.)\r\nunspecified: 6 g",
@@ -28,5 +28,5 @@
   "inventory_no": "1943.50.319"
  },
  "material": "Pale gray-green nephrite",
- "updated_at": "2026-09-26"
+ "updated_at": "2026-09-27"
 }

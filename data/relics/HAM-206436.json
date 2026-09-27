@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  20,
-  20
+  1644,
+  1911
  ],
  "era_text": "early 20th century",
  "dimensions": "53.2 x 37.1 cm (20 15/16 x 14 5/8 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1935.37.106"
  },
- "material": "Woodblock print; ink and color on paper; with printed inscription of the print title reading from right to left \"Zou [supposed to be Gan] Pan\" (\"Chasing Pan\"), and printed shop inscription \"Dong Chang Xing\" (probably the print shop name). Probably from Jiajiang, Sichuan."
+ "material": "Woodblock print; ink and color on paper; with printed inscription of the print title reading from right to left \"Zou [supposed to be Gan] Pan\" (\"Chasing Pan\"), and printed shop inscription \"Dong Chang Xing\" (probably the print shop name). Probably from Jiajiang, Sichuan.",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

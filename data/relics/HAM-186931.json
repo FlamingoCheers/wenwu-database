@@ -5,8 +5,8 @@
  "dynasty": "辽",
  "dynasty_confidence": "high",
  "year_range": [
-  11,
-  11
+  907,
+  1125
  ],
  "era_text": "11th-early 12th century",
  "dimensions": "H. 27.3 x Diam. 17.5 cm (10 3/4 x 6 7/8 in.) (with cover)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "2006.170.284.A-B"
  },
- "material": "Earthenware with three-color (sancai) lead glaze"
+ "material": "Earthenware with three-color (sancai) lead glaze",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

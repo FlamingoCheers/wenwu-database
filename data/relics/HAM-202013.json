@@ -5,8 +5,8 @@
  "dynasty": "新石器时代",
  "dynasty_confidence": "high",
  "year_range": [
-  -3000,
-  -3000
+  -3300,
+  -2200
  ],
  "era_text": "c. 3000 BCE-c. 2000 BCE",
  "dimensions": "24.2 x 14 cm (9 1/2 x 5 1/2 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1984.76"
  },
- "material": "Low-fired gray earthenware blackened with a black slip over a ground layer of whitish slip, the surface burnished before firing"
+ "material": "Low-fired gray earthenware blackened with a black slip over a ground layer of whitish slip, the surface burnished before firing",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

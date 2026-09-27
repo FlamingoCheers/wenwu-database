@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  1764,
-  1764
+  1644,
+  1911
  ],
  "era_text": "dated 1764",
  "dimensions": "image proper: H. 90.4 × W. 53.5 cm (35 9/16 × 21 1/16 in.)\r\nsilk mounting only: H. 157.5 × W. 73.3 cm (62 × 28 7/8 in.)\r\nmounting, including cord and roller ends: H. 163 × W. 78.5 cm (64 3/16 × 30 7/8 in.)\r\nmounting board: H. 170 × W. 94 cm (66 15/16 × 37 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1958.8"
  },
- "material": "'Kesi' thangka mounted as a hanging scroll; silk in tapestry weave with some details painted on the surface in gold and light colors"
+ "material": "'Kesi' thangka mounted as a hanging scroll; silk in tapestry weave with some details painted on the surface in gold and light colors",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }

@@ -5,8 +5,8 @@
  "dynasty": "清",
  "dynasty_confidence": "high",
  "year_range": [
-  19,
-  19
+  1644,
+  1911
  ],
  "era_text": "probably 19th century",
  "dimensions": "H. 7.6 x Diam. 9.5 cm (3 x 3 3/4 in.)",
@@ -26,5 +26,7 @@
   "region": "北美洲",
   "inventory_no": "1940.211"
  },
- "material": "Porcelain with decoration painted in overglaze red, green, yellow, aubergine, and black enamels; with spurious overglaze enamel mark reading \"Chenghua nian zhi\" within a double square on the base"
+ "material": "Porcelain with decoration painted in overglaze red, green, yellow, aubergine, and black enamels; with spurious overglaze enamel mark reading \"Chenghua nian zhi\" within a double square on the base",
+ "needs_review": false,
+ "updated_at": "2026-09-27"
 }
